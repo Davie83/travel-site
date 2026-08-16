@@ -12,7 +12,7 @@ module.exports = {
 
   // ★ Netlify 주소가 나오면 여기를 바꾸세요. 끝에 / 붙이지 마세요.
   //   예: 'https://yeohaeng-hanip.netlify.app'
-  url: 'https://example.netlify.app',
+  url: 'https://koreatrips.netlify.app/',
 
   // ★ 문의용 이메일
   email: 'p71000864@gmail.com',

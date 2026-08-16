@@ -15,7 +15,7 @@ module.exports = {
   url: 'https://example.netlify.app',
 
   // ★ 문의용 이메일
-  email: 'your-email@example.com',
+  email: 'p71000864@gmail.com',
 
   /* ---- Supabase (이모지 리액션용) ------------------------------------
      Supabase 대시보드 > Project Settings > Data API 에서 복사합니다.
@@ -23,8 +23,8 @@ module.exports = {
      (절대 service_role key 를 넣지 마세요)
      값이 비어 있으면 리액션 버튼이 자동으로 숨겨집니다.        */
   supabase: {
-    url:     '',   // 예: 'https://abcdefghijk.supabase.co'
-    anonKey: ''    // 예: 'eyJhbGciOi...'
+    url:     'https://sseaofsrnacjoecohout.supabase.co/',   // 예: 'https://abcdefghijk.supabase.co'
+    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzZWFvZnNybmFjam9lY29ob3V0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA3MTQ2NjgsImV4cCI6MjA5NjI5MDY2OH0.3G2KHmzwYFk4CMI80rdld5ybSaZ7wr09uceL-12n6no7'    // 예: 'eyJhbGciOi...'
   },
 
   /* ---- 구글 애드센스 --------------------------------------------------

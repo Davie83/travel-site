@@ -11,8 +11,8 @@
 
   <div class="wrap">
 
-    <!-- 광고: 첫 화면 아래 -->
-    <div class="ad-slot" data-ad="home-top">광고 영역 (상단)</div>
+    <!-- 광고 자리 (애드센스 설정 전에는 아무것도 표시되지 않습니다) -->
+    {{adTop}}
 
     <section class="section">
       <div class="section-head"><h2>최근 올라온 글</h2></div>
@@ -23,10 +23,10 @@
       <p class="empty" hidden>조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.</p>
     </section>
 
-    <div class="ad-slot" data-ad="home-mid">광고 영역 (중간)</div>
+    {{adMid}}
 
 {{categorySections}}
 
-    <div class="ad-slot" data-ad="home-bottom">광고 영역 (하단)</div>
+    {{adBottom}}
 
   </div>

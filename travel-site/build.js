@@ -342,6 +342,25 @@ ${buttons}
   </section>`;
 }
 
+/** 광고 자리
+ *  · 애드센스 설정 전에는 아무것도 만들지 않습니다.
+ *    (방문자에게 "광고 영역" 빈 박스가 보이면 미완성 사이트로 보이고,
+ *     애드센스 심사에도 불리합니다)
+ *  · site.config.js 에 showAdPlaceholders: true 를 넣으면
+ *    배치 확인용 점선 박스가 다시 보입니다.
+ */
+function adSlotHTML(name) {
+  if (site.adsensePublisherId) {
+    return `<div class="ad-slot live" data-ad="${name}">
+      <!-- 광고 단위 코드 자리 (자동 광고를 쓰면 비워두어도 됩니다) -->
+    </div>`;
+  }
+  if (site.showAdPlaceholders) {
+    return `<div class="ad-slot" data-ad="${name}">광고 영역 (${name})</div>`;
+  }
+  return '';
+}
+
 /** 애드센스 스크립트 (게시자 ID 가 설정돼 있을 때만) */
 function adsenseHTML() {
   if (!site.adsensePublisherId) return '<!-- 애드센스 미설정: site.config.js 의 adsensePublisherId 를 채우면 자동 삽입됩니다 -->';
@@ -453,7 +472,10 @@ ${cards}
       // 글 전체를 넣되 평소에는 CSS(.limit-6)로 6개만 보여줍니다.
       // 검색하면 제한이 풀려서 전체 글에서 찾습니다.
       latest: posts.map(p => cardHTML(p, '')).join('\n'),
-      categorySections: catSections
+      categorySections: catSections,
+      adTop:    adSlotHTML('home-top'),
+      adMid:    adSlotHTML('home-mid'),
+      adBottom: adSlotHTML('home-bottom')
     })
   }));
 
@@ -473,7 +495,9 @@ ${cards}
         chips: regions.map((r, i) =>
           `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${escapeHtml(r)}">${escapeHtml(r)}</button>`
         ).join('\n        '),
-        cards: inCat.map(p => cardHTML(p, '')).join('\n')
+        cards: inCat.map(p => cardHTML(p, '')).join('\n'),
+        adTop:    adSlotHTML('list-top'),
+        adBottom: adSlotHTML('list-bottom')
       })
     }));
   }
@@ -512,6 +536,8 @@ ${cards}
         meta: `${String(m.date).replace(/-/g, '.')} 발행${m.visited ? ` · 방문 기준 ${escapeHtml(m.visited)}` : ''}`,
         infoTable: infoTableHTML(m.info),
         content: markdown(p.body),
+        adTop:    adSlotHTML('post-top'),
+        adBottom: adSlotHTML('post-bottom'),
         reactions: reactionsHTML(p.slug),
         related: related
           ? `<section class="related">

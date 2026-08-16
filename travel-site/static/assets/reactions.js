@@ -13,7 +13,12 @@
   const root = document.querySelector('.reactions');
   if (!root) return;                       // 리액션 영역이 없는 페이지
 
-  const SUPABASE_URL = (document.body.dataset.supabaseUrl || '').replace(/\/+$/, '');
+  // Supabase 대시보드는 주소를 ".../rest/v1/" 까지 붙여서 보여줍니다.
+  // 그대로 복사해 넣어도 동작하도록 뒷부분을 떼어냅니다.
+  const SUPABASE_URL = (document.body.dataset.supabaseUrl || '')
+    .trim()
+    .replace(/\/+$/, '')
+    .replace(/\/rest\/v1$/, '');
   const SUPABASE_KEY = document.body.dataset.supabaseKey || '';
   if (!SUPABASE_URL || !SUPABASE_KEY) return;   // 설정 전이면 조용히 종료
 
@@ -66,13 +71,19 @@
      Supabase 함수 호출
      --------------------------------------------------------------------- */
   function rpc(fn, params) {
+    const headers = {
+      'apikey': SUPABASE_KEY,
+      'Content-Type': 'application/json'
+    };
+    // 구형 anon 키(eyJ... JWT)일 때만 Authorization 헤더를 함께 보냅니다.
+    // 신형 publishable 키(sb_publishable_...)는 apikey 헤더만으로 인증됩니다.
+    if (SUPABASE_KEY.startsWith('eyJ')) {
+      headers['Authorization'] = 'Bearer ' + SUPABASE_KEY;
+    }
+
     return fetch(`${SUPABASE_URL}/rest/v1/rpc/${fn}`, {
       method: 'POST',
-      headers: {
-        'apikey': SUPABASE_KEY,
-        'Authorization': 'Bearer ' + SUPABASE_KEY,
-        'Content-Type': 'application/json'
-      },
+      headers: headers,
       body: JSON.stringify(params)
     }).then(res => {
       if (!res.ok) throw new Error('rpc ' + fn + ' failed: ' + res.status);

@@ -492,10 +492,14 @@ ${cards}
         heading: escapeHtml(c.title),
         desc: escapeHtml(c.desc),
         placeholder: `${escapeHtml(c.label)} 검색`,
-        chips: regions.map((r, i) =>
+        // 글이 하나도 없는 카테고리는 지역 버튼을 숨기고 안내 문구를 보여줍니다
+        // (빈 화면만 나오면 사이트가 고장 난 것처럼 보입니다)
+        chips: inCat.length ? regions.map((r, i) =>
           `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${escapeHtml(r)}">${escapeHtml(r)}</button>`
-        ).join('\n        '),
-        cards: inCat.map(p => cardHTML(p, '')).join('\n'),
+        ).join('\n        ') : '',
+        cards: inCat.length
+          ? inCat.map(p => cardHTML(p, '')).join('\n')
+          : `      <p class="empty" style="grid-column:1/-1">아직 등록된 글이 없습니다. 준비되는 대로 채워집니다.</p>`,
         adTop:    adSlotHTML('list-top'),
         adBottom: adSlotHTML('list-bottom')
       })

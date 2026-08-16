@@ -1,31 +1,36 @@
-  <!-- 홈 페이지 본문 -->
+  <!-- 홈 = 지역 인덱스 -->
   <section class="hero">
     <div class="wrap">
       <h1>{{tagline}}</h1>
       <p>{{description}}</p>
       <div class="search-box">
-        <input id="search" type="search" placeholder="지역이나 키워드로 찾기 (예: 부산, 카페, 당일치기)" aria-label="검색" data-target="latest-grid">
+        <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
       </div>
     </div>
   </section>
 
   <div class="wrap">
 
-    <!-- 광고 자리 (애드센스 설정 전에는 아무것도 표시되지 않습니다) -->
+    <section class="section">
+      <div class="section-head">
+        <h2>{{findByRegion}}</h2>
+        <span class="more">{{regionCount}}</span>
+      </div>
+      <div class="regions">
+{{regions}}
+      </div>
+    </section>
+
     {{adTop}}
 
     <section class="section">
-      <div class="section-head"><h2>최근 올라온 글</h2></div>
-      <!-- limit-6 : 평소에는 6개만 보이고, 검색하면 전체 글에서 찾습니다 -->
+      <div class="section-head"><h2>{{latestTitle}}</h2></div>
+      <!-- limit-6 : 평소에는 6개만 보이고, 검색하면 전체에서 찾습니다 -->
       <div class="grid limit-6" id="latest-grid">
 {{latest}}
       </div>
-      <p class="empty" hidden>조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.</p>
+      <p class="empty" hidden>{{noResult}}</p>
     </section>
-
-    {{adMid}}
-
-{{categorySections}}
 
     {{adBottom}}
 

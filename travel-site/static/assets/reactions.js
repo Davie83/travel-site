@@ -25,6 +25,10 @@
   const slug = root.dataset.slug;
   const buttons = Array.from(root.querySelectorAll('.reaction'));
 
+  // 오류 문구는 페이지 언어에 맞춰 빌드할 때 심어둡니다
+  const MSG_SAVE_ERROR = root.dataset.msgError     || 'Could not save. Please try again.';
+  const MSG_LOAD_ERROR = root.dataset.msgLoadError || 'Could not load reactions.';
+
   /* ---------------------------------------------------------------------
      방문자 식별자 — 없으면 만들어서 브라우저에 보관
      (시크릿 모드나 쿠키 삭제 시 새로 발급됩니다. 정상 동작입니다)
@@ -126,7 +130,7 @@
     .then(paint)
     .catch(() => {
       paint([]);
-      showError('반응 수를 불러오지 못했습니다. 잠시 후 새로고침 해주세요.');
+      showError(MSG_LOAD_ERROR);
     });
 
   /* ---------------------------------------------------------------------
@@ -159,7 +163,7 @@
           if (back.has(key)) back.delete(key); else back.add(key);
           saveMine(back);
           paint(null);
-          showError('반응을 저장하지 못했습니다. 잠시 후 다시 시도해주세요.');
+          showError(MSG_SAVE_ERROR);
         })
         .finally(() => {
           busy = false;

@@ -1,0 +1,26 @@
+  <!-- 지역 페이지 — "부산 맛집" 같은 검색이 도착하는 곳 -->
+  <section class="region-head" style="--r:var(--region-{{regionSlug}})">
+    <div class="wrap">
+      <span class="r-en">{{regionEn}}</span>
+      <h1>{{regionName}}</h1>
+    </div>
+  </section>
+
+  <div class="rtabs-bar">
+    <div class="wrap rtabs" data-target="region-grid">
+        {{tabs}}
+    </div>
+  </div>
+
+  <div class="wrap">
+    {{adTop}}
+
+    <section class="section">
+      <div class="grid" id="region-grid">
+{{cards}}
+      </div>
+      <p class="empty" hidden>{{noResult}}</p>
+    </section>
+
+    {{adBottom}}
+  </div>

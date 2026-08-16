@@ -1,10 +1,10 @@
-  <!-- 카테고리 목록 페이지 (여행지 / 맛집) 본문 -->
+  <!-- 카테고리 목록 (여행지 / 맛집) -->
   <section class="hero">
     <div class="wrap">
       <h1>{{heading}}</h1>
       <p>{{desc}}</p>
       <div class="search-box">
-        <input id="search" type="search" placeholder="{{placeholder}}" aria-label="{{placeholder}}" data-target="list-grid">
+        <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="list-grid">
       </div>
     </div>
   </section>
@@ -19,7 +19,7 @@
       <div class="grid" id="list-grid">
 {{cards}}
       </div>
-      <p class="empty" hidden>조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.</p>
+      <p class="empty" hidden>{{noResult}}</p>
     </section>
 
     {{adBottom}}

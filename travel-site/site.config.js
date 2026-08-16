@@ -45,7 +45,15 @@ module.exports = {
     { key: 'thanks',  emoji: '🙏', label: '도움됐어요' },
     { key: 'fun',     emoji: '😂', label: '재밌네요' }
   ],
-
+   
+  demoPosts: [
+    'seoul-ikseondong',
+    'busan-jagalchi-food',
+    'gangneung-cafe-street',
+    'jeonju-hanok-village',
+    'jeju-east-course',
+    'daegu-anjirang'
+  ],
   /* ---- 카테고리 -------------------------------------------------------
      slug 는 만들어질 파일 이름입니다 (travel.html, food.html)         */
   categories: [

@@ -1,0 +1,26 @@
+  <!-- 카테고리 목록 페이지 (여행지 / 맛집) 본문 -->
+  <section class="hero">
+    <div class="wrap">
+      <h1>{{heading}}</h1>
+      <p>{{desc}}</p>
+      <div class="search-box">
+        <input id="search" type="search" placeholder="{{placeholder}}" aria-label="{{placeholder}}" data-target="list-grid">
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="ad-slot" data-ad="list-top">광고 영역 (상단)</div>
+
+    <section class="section">
+      <div class="chips" id="regions" data-target="list-grid">
+        {{chips}}
+      </div>
+      <div class="grid" id="list-grid">
+{{cards}}
+      </div>
+      <p class="empty" hidden>조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.</p>
+    </section>
+
+    <div class="ad-slot" data-ad="list-bottom">광고 영역 (하단)</div>
+  </div>

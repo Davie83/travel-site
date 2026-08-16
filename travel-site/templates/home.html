@@ -1,0 +1,32 @@
+  <!-- 홈 페이지 본문 -->
+  <section class="hero">
+    <div class="wrap">
+      <h1>{{tagline}}</h1>
+      <p>{{description}}</p>
+      <div class="search-box">
+        <input id="search" type="search" placeholder="지역이나 키워드로 찾기 (예: 부산, 카페, 당일치기)" aria-label="검색" data-target="latest-grid">
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+
+    <!-- 광고: 첫 화면 아래 -->
+    <div class="ad-slot" data-ad="home-top">광고 영역 (상단)</div>
+
+    <section class="section">
+      <div class="section-head"><h2>최근 올라온 글</h2></div>
+      <!-- limit-6 : 평소에는 6개만 보이고, 검색하면 전체 글에서 찾습니다 -->
+      <div class="grid limit-6" id="latest-grid">
+{{latest}}
+      </div>
+      <p class="empty" hidden>조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.</p>
+    </section>
+
+    <div class="ad-slot" data-ad="home-mid">광고 영역 (중간)</div>
+
+{{categorySections}}
+
+    <div class="ad-slot" data-ad="home-bottom">광고 영역 (하단)</div>
+
+  </div>

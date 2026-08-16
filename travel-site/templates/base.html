@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- 모든 페이지의 공통 뼈대입니다. 여기를 고치면 전체 페이지에 반영됩니다. -->
+<html lang="{{lang}}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+<link rel="canonical" href="{{canonical}}">
+{{noindex}}
+
+<!-- 카카오톡 / 페이스북 공유 미리보기 -->
+<meta property="og:type" content="{{ogType}}">
+<meta property="og:site_name" content="{{siteName}}">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<link rel="stylesheet" href="{{base}}assets/style.css">
+
+{{adsense}}
+{{headExtra}}
+</head>
+
+<body data-base="{{base}}" data-supabase-url="{{supabaseUrl}}" data-supabase-key="{{supabaseKey}}">
+<a class="skip" href="#main">본문 바로가기</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="logo" href="{{base}}index.html">{{siteName}}</a>
+    <button class="nav-toggle" type="button" aria-label="메뉴 열기" aria-expanded="false">☰</button>
+    <nav class="nav">
+      {{nav}}
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+{{body}}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div class="footer-links">
+      <a href="{{base}}about.html">사이트 소개</a>
+      <a href="{{base}}contact.html">문의하기</a>
+      <a href="{{base}}privacy.html">개인정보처리방침</a>
+    </div>
+    <div class="footer-copy">© {{year}} {{siteName}}</div>
+  </div>
+</footer>
+
+<script src="{{base}}assets/filter.js" defer></script>
+<script src="{{base}}assets/reactions.js" defer></script>
+</body>
+</html>

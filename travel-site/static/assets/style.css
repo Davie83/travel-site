@@ -1,0 +1,322 @@
+/* ==========================================================================
+   여행/맛집 사이트 - 전체 스타일
+   외부 폰트·이미지·CDN 의존성 0
+   색상만 바꾸고 싶다면 아래 :root 의 3줄만 고치면 됩니다.
+   ========================================================================== */
+
+:root {
+  /* 브랜드 색상 */
+  --brand:      #0f766e;
+  --brand-soft: #ccfbf1;
+  --accent:     #ea580c;
+
+  /* 중립 색상 */
+  --bg:       #ffffff;
+  --bg-soft:  #f7f8f7;
+  --card:     #ffffff;
+  --text:     #1c1e1d;
+  --text-dim: #5f6b66;
+  --line:     #e3e8e5;
+
+  --wrap:   1120px;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.06);
+}
+
+/* 다크모드 — 방문자 OS 설정에 따라 자동 적용 */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:        #101413;
+    --bg-soft:   #171c1b;
+    --card:      #191f1e;
+    --text:      #e8eceb;
+    --text-dim:  #9aa8a3;
+    --line:      #2a3331;
+    --brand:     #2dd4bf;
+    --brand-soft:#123c37;
+    --shadow:    0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35);
+  }
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Malgun Gothic",
+               "맑은 고딕", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  -webkit-text-size-adjust: 100%;
+}
+
+a { color: inherit; text-decoration: none; }
+img { max-width: 100%; display: block; }
+
+/* 필터로 숨긴 카드가 flex 때문에 다시 보이지 않도록 */
+[hidden] { display: none !important; }
+
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 20px; }
+
+.skip { position: absolute; left: -9999px;
+        background: var(--brand); color: #fff; padding: 10px 16px; border-radius: 0 0 8px 0; }
+.skip:focus { left: 0; top: 0; z-index: 999; }
+
+/* ==========================================================================
+   헤더
+   ========================================================================== */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: var(--bg);                                    /* 구형 브라우저 대비 */
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: saturate(1.4) blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.header-inner { display: flex; align-items: center; gap: 16px; height: 62px; }
+.logo { font-weight: 800; font-size: 19px; letter-spacing: -.5px; color: var(--brand); }
+
+.nav { margin-left: auto; display: flex; gap: 4px; align-items: center; }
+.nav a { padding: 8px 13px; border-radius: 999px; font-size: 15px; font-weight: 600; color: var(--text-dim); }
+.nav a:hover { background: var(--bg-soft); color: var(--text); }
+.nav a[aria-current="page"] { background: var(--brand-soft); color: var(--brand); }
+
+.nav-toggle {
+  display: none; margin-left: auto;
+  background: none; border: 1px solid var(--line); border-radius: 10px;
+  width: 42px; height: 38px; cursor: pointer; color: var(--text); font-size: 18px;
+}
+
+@media (max-width: 720px) {
+  .nav-toggle { display: block; }
+  .nav {
+    display: none; position: absolute; top: 62px; left: 0; right: 0;
+    flex-direction: column; align-items: stretch; gap: 0;
+    background: var(--bg); border-bottom: 1px solid var(--line); padding: 8px;
+  }
+  .nav.open { display: flex; }
+  .nav a { border-radius: 10px; padding: 12px 14px; }
+}
+
+/* ==========================================================================
+   히어로 + 검색
+   ========================================================================== */
+.hero {
+  background: linear-gradient(135deg, var(--brand-soft), var(--bg-soft));
+  border-bottom: 1px solid var(--line);
+  padding: 54px 0 46px; text-align: center;
+}
+.hero h1 { margin: 0 0 12px; font-size: 34px; line-height: 1.3; letter-spacing: -1px; }
+.hero p { margin: 0 auto; max-width: 620px; color: var(--text-dim); font-size: 17px; }
+@media (max-width: 600px) { .hero h1 { font-size: 26px; } }
+
+.search-box { margin: 26px auto 0; max-width: 480px; display: flex; }
+.search-box input {
+  flex: 1; padding: 13px 16px; font-size: 16px;
+  border: 1px solid var(--line); border-radius: 999px;
+  background: var(--card); color: var(--text);
+}
+.search-box input:focus { outline: 2px solid var(--brand); outline-offset: 1px; }
+
+/* ==========================================================================
+   섹션 / 필터 칩
+   ========================================================================== */
+.section { padding: 44px 0; }
+.section-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 20px; }
+.section-head h2 { margin: 0; font-size: 22px; letter-spacing: -.5px; border: 0; padding: 0; }
+.section-head .more,
+a.more { margin-left: auto; font-size: 14px; color: var(--brand); font-weight: 700; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+.chip {
+  padding: 7px 14px; border-radius: 999px; font-size: 14px; font-weight: 600;
+  border: 1px solid var(--line); background: var(--card); color: var(--text-dim);
+  cursor: pointer; font-family: inherit;
+}
+.chip:hover { border-color: var(--brand); color: var(--brand); }
+.chip.active { background: var(--brand); border-color: var(--brand); color: #fff; }
+
+.empty { padding: 50px 0; text-align: center; color: var(--text-dim); }
+
+/* ==========================================================================
+   카드 그리드
+   ========================================================================== */
+.grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  overflow: hidden; box-shadow: var(--shadow);
+  transition: transform .18s ease, box-shadow .18s ease;
+  display: flex; flex-direction: column;
+}
+.card:hover { transform: translateY(-3px); box-shadow: 0 10px 30px rgba(0,0,0,.12); }
+
+/* 홈 '최근 올라온 글' — 글은 전부 들어 있지만 평소에는 6개만 보입니다.
+   (검색하면 filter.js 가 이 클래스를 떼서 전체 글에서 찾습니다) */
+.grid.limit-6 > .card:nth-child(n+7) { display: none; }
+.card > a { display: flex; flex-direction: column; height: 100%; }
+
+.card-thumb {
+  aspect-ratio: 16 / 10; display: grid; place-items: center;
+  font-size: 46px; background: linear-gradient(135deg, #99f6e4, #fed7aa);
+  position: relative;
+}
+.card-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.card-badge {
+  position: absolute; top: 10px; left: 10px;
+  background: rgba(0,0,0,.62); color: #fff;
+  font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 999px;
+}
+
+.card-body { padding: 16px 17px 18px; display: flex; flex-direction: column; flex: 1; }
+.card-body h3 { margin: 0 0 8px; font-size: 17px; line-height: 1.45; letter-spacing: -.4px; }
+.card-body p {
+  margin: 0 0 14px; font-size: 14px; color: var(--text-dim); flex: 1;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-meta {
+  display: flex; gap: 10px; font-size: 12.5px; color: var(--text-dim);
+  border-top: 1px solid var(--line); padding-top: 11px;
+}
+
+/* ==========================================================================
+   광고 자리
+   애드센스 코드를 넣기 전까지는 점선 박스로 보입니다.
+   site.config.js 에 게시자 ID 를 넣으면 광고가 이 자리에 표시됩니다.
+   ========================================================================== */
+.ad-slot {
+  margin: 34px auto; min-height: 100px;
+  display: grid; place-items: center;
+  border: 1px dashed var(--line); border-radius: 12px;
+  background: var(--bg-soft); color: var(--text-dim);
+  font-size: 13px; letter-spacing: .5px;
+}
+.ad-slot:empty, .ad-slot.live { border: 0; background: none; min-height: 0; }
+
+/* ==========================================================================
+   글 상세
+   ========================================================================== */
+.post { max-width: 760px; margin: 0 auto; padding: 40px 20px 60px; }
+
+.post-head { border-bottom: 1px solid var(--line); padding-bottom: 22px; margin-bottom: 30px; }
+.post-head .kicker { color: var(--brand); font-weight: 700; font-size: 14px; }
+.post-head h1 { margin: 8px 0 12px; font-size: 30px; line-height: 1.35; letter-spacing: -1px; }
+.post-head .meta { color: var(--text-dim); font-size: 14px; margin: 0; }
+@media (max-width: 600px) { .post-head h1 { font-size: 24px; } }
+
+.post-body h2 {
+  margin: 42px 0 14px; font-size: 21px; letter-spacing: -.5px;
+  padding-left: 12px; border-left: 4px solid var(--brand);
+}
+.post-body h3 { margin: 28px 0 10px; font-size: 17.5px; }
+.post-body p  { margin: 0 0 18px; }
+.post-body ul, .post-body ol { margin: 0 0 18px; padding-left: 22px; }
+.post-body li { margin-bottom: 6px; }
+.post-body img { border-radius: 10px; margin: 0 0 18px; }
+.post-body hr { border: 0; border-top: 1px solid var(--line); margin: 34px 0; }
+.post-body code {
+  background: var(--bg-soft); border: 1px solid var(--line);
+  padding: 1px 6px; border-radius: 6px; font-size: .92em;
+}
+.post-body pre {
+  background: var(--bg-soft); border: 1px solid var(--line);
+  padding: 16px; border-radius: 10px; overflow-x: auto; margin: 0 0 20px;
+}
+.post-body pre code { background: none; border: 0; padding: 0; }
+
+/* 표 */
+.table-scroll { overflow-x: auto; margin: 0 0 26px; }
+.info-table, .md-table { width: 100%; border-collapse: collapse; font-size: 15px; }
+.info-table th, .info-table td,
+.md-table th, .md-table td {
+  border: 1px solid var(--line); padding: 11px 14px; text-align: left; vertical-align: top;
+}
+.info-table th, .md-table th { background: var(--bg-soft); font-weight: 700; }
+.info-table th { width: 118px; white-space: nowrap; }
+
+/* 강조 박스 (마크다운의 > 인용) */
+.callout {
+  background: var(--brand-soft); border-left: 4px solid var(--brand);
+  padding: 16px 18px; border-radius: 0 10px 10px 0; margin: 0 0 24px; font-size: 15px;
+}
+.callout strong { color: var(--brand); }
+
+/* ==========================================================================
+   이모지 리액션
+   ========================================================================== */
+.reactions {
+  margin: 46px 0 0; padding: 26px 22px;
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: var(--radius);
+  text-align: center;
+}
+.reactions-title {
+  margin: 0 0 18px; font-size: 17px; letter-spacing: -.4px;
+  border: 0; padding: 0;
+}
+.reaction-list { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+
+.reaction {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 9px 15px 9px 12px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--card); color: var(--text-dim);
+  font-family: inherit; font-size: 14px; font-weight: 600; cursor: pointer;
+  transition: transform .12s ease, border-color .15s ease, background .15s ease;
+}
+.reaction:hover { border-color: var(--brand); color: var(--text); }
+.reaction:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+
+.reaction .reaction-emoji { font-size: 20px; line-height: 1; }
+.reaction .reaction-label { display: none; }        /* 좁은 화면에서는 이모지만 */
+.reaction .reaction-count {
+  min-width: 18px; font-variant-numeric: tabular-nums;
+  color: var(--text-dim); font-weight: 700;
+}
+
+/* 내가 누른 것 */
+.reaction.pressed {
+  background: var(--brand-soft); border-color: var(--brand); color: var(--brand);
+}
+.reaction.pressed .reaction-count { color: var(--brand); }
+
+/* 누를 때 살짝 튀는 효과 */
+.reaction.bump { transform: scale(1.14); }
+
+/* 저장 중에는 중복 클릭 방지 */
+.reactions.busy .reaction { pointer-events: none; opacity: .65; }
+
+.reactions-note { margin: 16px 0 0; font-size: 12.5px; color: var(--text-dim); }
+
+/* 화면이 넓으면 글자 라벨도 표시 */
+@media (min-width: 620px) {
+  .reaction .reaction-label { display: inline; }
+}
+
+/* ==========================================================================
+   관련 글 / 문서 페이지 / 푸터
+   ========================================================================== */
+.related { border-top: 1px solid var(--line); margin-top: 46px; padding-top: 28px; }
+
+.doc { max-width: 760px; margin: 0 auto; padding: 40px 20px 60px; }
+.doc h1 { font-size: 28px; letter-spacing: -1px; margin: 0 0 8px; }
+.doc .updated { color: var(--text-dim); font-size: 14px; margin-bottom: 34px; }
+.doc h2 { margin: 36px 0 12px; font-size: 19px; padding-left: 12px; border-left: 4px solid var(--brand); }
+.doc h3 { margin: 26px 0 10px; font-size: 16.5px; }
+.doc ul, .doc ol { padding-left: 22px; }
+.doc li { margin-bottom: 6px; }
+.doc a { color: var(--brand); font-weight: 600; }
+
+.site-footer {
+  border-top: 1px solid var(--line); background: var(--bg-soft);
+  padding: 34px 0; margin-top: 40px; font-size: 14px; color: var(--text-dim);
+}
+.footer-inner { display: flex; flex-wrap: wrap; gap: 14px 22px; align-items: center; }
+.footer-links { display: flex; flex-wrap: wrap; gap: 16px; }
+.footer-links a:hover { color: var(--brand); }
+.footer-copy { margin-left: auto; }
+@media (max-width: 720px) { .footer-copy { margin-left: 0; width: 100%; } }
+
+/* 애니메이션을 줄이도록 설정한 사용자 존중 */
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "여행/맛집 소개 사이트 - Markdown을 정적 HTML로 빌드",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

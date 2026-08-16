@@ -25,6 +25,9 @@ const DIST      = path.join(ROOT, 'dist');
 const site = require('./site.config.js');
 const SITE_URL = site.url.replace(/\/+$/, ''); // 끝 슬래시 제거
 
+// 목록 맨 뒤로 밀어둘 예시글 slug 목록 (site.config.js 에서 관리)
+const DEMO_POSTS = new Set(site.demoPosts || []);
+
 /* ==========================================================================
    1. 아주 작은 유틸
    ========================================================================== */
@@ -442,7 +445,16 @@ function build() {
 
       return true;
     })
-    .sort((a, b) => (a.meta.date < b.meta.date ? 1 : -1));
+    // 정렬 규칙
+    //  1순위: 예시글(site.config.js 의 demoPosts)은 날짜와 상관없이 항상 맨 뒤
+    //  2순위: 나머지는 date 최신순
+    // → 예전에 다녀온 곳을 나중에 써서 날짜가 과거여도 예시글보다는 위에 놓입니다.
+    .sort((a, b) => {
+      const demoA = DEMO_POSTS.has(a.slug) ? 1 : 0;
+      const demoB = DEMO_POSTS.has(b.slug) ? 1 : 0;
+      if (demoA !== demoB) return demoA - demoB;
+      return a.meta.date < b.meta.date ? 1 : -1;
+    });
 
   const pages = readMarkdownDir(path.join(CONTENT, 'pages'));
 
@@ -623,7 +635,8 @@ ${cards}
   copyDir(STATIC, DIST);
 
   console.log(`\n✅ 빌드 완료`);
-  console.log(`   글 ${posts.length}개 · 페이지 ${pages.length}개 · 카테고리 ${site.categories.length}개`);
+  const demoCount = posts.filter(p => DEMO_POSTS.has(p.slug)).length;
+  console.log(`   글 ${posts.length}개 (실제 ${posts.length - demoCount} · 예시 ${demoCount}는 맨 뒤로) · 페이지 ${pages.length}개`);
   console.log(`   결과: dist/`);
   if (!site.supabase.url) console.log(`   ⚠ Supabase 미설정 — 리액션 버튼이 표시되지 않습니다`);
   if (!site.adsensePublisherId) console.log(`   ⚠ 애드센스 미설정 — 광고 코드가 들어가지 않았습니다`);

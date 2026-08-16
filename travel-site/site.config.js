@@ -24,7 +24,7 @@ module.exports = {
      값이 비어 있으면 리액션 버튼이 자동으로 숨겨집니다.        */
   supabase: {
     url:     'https://sseaofsrnacjoecohout.supabase.co/',   // 예: 'https://abcdefghijk.supabase.co'
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzZWFvZnNybmFjam9lY29ob3V0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA3MTQ2NjgsImV4cCI6MjA5NjI5MDY2OH0.3G2KHmzwYFk4CMI80rdld5ybSaZ7wr09uceL-12n6no7'    // 예: 'eyJhbGciOi...'
+    anonKey: 'sb_publishable_lZ6Z6w_HOl5VOyzlaIhtsw_qM7DmhtG'    // 예: 'eyJhbGciOi...'
   },
 
   /* ---- 구글 애드센스 --------------------------------------------------

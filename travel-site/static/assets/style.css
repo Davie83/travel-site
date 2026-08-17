@@ -244,13 +244,21 @@ a.more{color:var(--ink);font-weight:600;}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(0,0,0,.11);}
 .card > a{display:flex;flex-direction:column;height:100%;}
 
+/* 썸네일은 사진 비율과 무관하게 항상 같은 크기(4:3)로 잘립니다.
+   ★ img 를 position:absolute 로 띄우는 것이 핵심입니다.
+     일반 흐름에 두면 세로로 긴 사진이 컨테이너를 밀어올려서
+     aspect-ratio 가 무시되고 카드마다 높이가 제각각이 됩니다. */
 .card-thumb{
-  aspect-ratio:16/9;display:grid;place-items:center;position:relative;
+  aspect-ratio:4/3;display:grid;place-items:center;
+  position:relative;overflow:hidden;min-height:0;
   background:color-mix(in srgb,var(--r) 15%,var(--surface));
 }
-.card-thumb .emoji{font-size:38px;line-height:1;}
+.card-thumb .emoji{font-size:42px;line-height:1;}
 .card-thumb.has-photo{background:var(--surface);}
-.card-thumb img{width:100%;height:100%;object-fit:cover;}
+.card-thumb img{
+  position:absolute;inset:0;
+  width:100%;height:100%;object-fit:cover;
+}
 .card-tag{
   position:absolute;left:9px;top:9px;font-size:11px;font-weight:700;
   padding:3px 9px;border-radius:999px;background:rgba(0,0,0,.62);color:#fff;

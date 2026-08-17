@@ -59,7 +59,23 @@ body{
   margin:0;background:var(--ground);color:var(--ink);
   font-family:var(--kr);font-size:16px;line-height:1.75;
   -webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;
+
+  /* 한글 줄바꿈 — 이게 없으면 브라우저가 한글을 중국어처럼 취급해서
+     "정리합니 / 다" 처럼 단어 중간에서 줄을 끊습니다.
+     keep-all 은 어절 단위로 끊고, overflow-wrap 은 한 어절이
+     화면보다 길 때(긴 URL 등) 넘치지 않게 해주는 안전장치입니다. */
+  word-break:keep-all;
+  overflow-wrap:break-word;
 }
+
+/* 마지막 줄에 단어 하나만 남는 것을 줄입니다 */
+p{text-wrap:pretty;}
+
+/* 짧은 라벨은 절대 두 줄로 넘기지 않습니다 */
+.card-meta,.r-count,.chip,.rtab,.lang,.nav a,.more,.post-head .meta,.card-tag{
+  white-space:nowrap;
+}
+.card-meta{overflow:hidden;}
 a{color:inherit;text-decoration:none;}
 img{max-width:100%;display:block;}
 [hidden]{display:none!important;}
@@ -140,6 +156,10 @@ img{max-width:100%;display:block;}
   .hero-split{padding:30px 0 24px;}
   .hero-inner{grid-template-columns:1fr;gap:20px;justify-items:center;}
   .hero-text{width:100%;}
+}
+/* 어절 단위로 끊으면 줄 수가 늘어나므로, 좁은 화면에서는 살짝 줄입니다 */
+@media (max-width:600px){
+  .hero p{font-size:15.5px;}
 }
 
 /* ==========================================================================
@@ -268,6 +288,7 @@ a.more{color:var(--ink);font-weight:600;}
 .card-body h3{
   margin:0;font-size:15.5px;line-height:1.45;letter-spacing:-.02em;font-weight:700;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  text-wrap:balance;   /* 두 줄로 넘어갈 때 줄 길이를 비슷하게 */
 }
 .card-body p{
   margin:0;font-size:13px;color:var(--ink-mute);line-height:1.6;flex:1;

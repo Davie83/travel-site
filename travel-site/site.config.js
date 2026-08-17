@@ -18,7 +18,7 @@ module.exports = {
   // ★ 끝에 / 붙이지 마세요
   url: 'https://koreatrips.netlify.app',
 
-  email: 'p71000864@gmail.com',
+  email: 'ckqkrdl@gmail.com',
 
   /* ---- 언어 -----------------------------------------------------------
      ko 는 주소에 접두어가 없습니다 (기존 주소 유지).

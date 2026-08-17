@@ -382,42 +382,49 @@ const KOREA_OUTLINE =
   'L52,340 L49,316 L57,292 L52,268 L61,242 L67,214 ' +
   'L61,190 L47,178 L43,156 L52,134 L46,116 Z';
 
-/* 지역별 면.
-   d      = 그 지역이 차지하는 영역 (지역 전체가 클릭 대상이 됩니다)
-   label  = 글 개수를 적을 자리 (전부 자기 영역 안에 들어가는지 검증했습니다)
-   onTop  = 서울·부산은 경기·경상 안에 있는 도시라 나중에 그려야 덮이지 않습니다 */
+/* 지역별 면 — '페이퍼컷' 방식.
+   각 조각을 자기 중심 쪽으로 살짝(0.93배) 줄여서 사이에 틈을 만들고,
+   같은 색 굵은 테두리로 모서리를 둥글게 깎습니다.
+   → "양식화된 그림"임이 분명해져서, 경계가 실제 행정구역과 달라도
+     흠이 아니라 디자인으로 읽힙니다. (실제 지리 데이터가 아닙니다)
+
+   d      = 조각 모양            label = 글 개수를 적을 자리
+   c      = 축소 기준이 되는 중심  onTop = 서울·부산은 경기·경상 안의 도시라 나중에 그림 */
+const MAP_SHRINK = 0.93;
+
 const MAP_AREAS = {
   gyeonggi: {
     d: 'M55,96 L92,74 L137,50 L138,155 L43,156 L52,134 L46,116 Z',
-    label: [70, 132]
+    c: [80, 112], label: [72, 128]
   },
   seoul: {
     d: 'M88,92 L114,90 L119,104 L110,115 L92,114 L84,102 Z',
-    label: [101, 103], onTop: true
+    c: [101, 103], label: [101, 103], onTop: true
   },
   gangwon: {
     d: 'M137,50 L181,30 L217,20 L235,58 L254,104 L271,150 L272,158 L138,155 Z',
-    label: [196, 95]
+    c: [213, 91], label: [200, 98]
   },
   chungcheong: {
     d: 'M43,156 L177,155 L177,243 L61,242 L67,214 L61,190 L47,178 Z',
-    label: [112, 199]
+    c: [90, 197], label: [110, 199]
   },
   jeolla: {
     d: 'M61,242 L154,243 L155,352 L132,368 L106,378 L81,388 L61,392 L47,384 L43,362 L52,340 L49,316 L57,292 L52,268 Z',
-    label: [97, 300]
+    c: [81, 333], label: [95, 302]
   },
   gyeongsang: {
     d: 'M177,155 L272,158 L283,196 L289,236 L285,272 L274,300 L263,318 L248,330 L223,338 L200,336 L178,346 L155,352 L154,243 L177,243 Z',
-    label: [216, 250]
+    c: [227, 273], label: [219, 252]
   },
   busan: {
     d: 'M250,300 L278,296 L266,322 L245,332 L236,314 Z',
-    label: [257, 313], onTop: true
+    c: [255, 313], label: [256, 313], onTop: true
   },
   jeju: {
-    d: 'M72,445 a32,23 0 1,0 0.1,0 Z',
-    label: [72, 468]
+    // 섬이라 이미 떨어져 있어서 축소 없이 조금 작게만 그립니다
+    d: 'M72,447 a30,21 0 1,0 0.1,0 Z',
+    c: null, label: [72, 468]
   }
 };
 
@@ -434,25 +441,28 @@ function koreaMapHTML(base, code, countsByRegion, t) {
     const n = countsByRegion[r.slug] || 0;
     const name = regionName(r.slug, code);
 
-    // 글이 없는 지역은 링크 없이 흐리게 — 자리는 있지만 비어 있다는 표시
+    // 조각을 자기 중심 쪽으로 줄여 사이에 틈을 만듭니다
+    const tf = a.c
+      ? ` transform="translate(${a.c[0]},${a.c[1]}) scale(${MAP_SHRINK}) translate(${-a.c[0]},${-a.c[1]})"`
+      : '';
+
+    // 글이 없는 지역은 링크 없이 회색 조각으로 — 자리는 있지만 비어 있다는 표시
     if (!n) {
       return `      <g class="map-area is-empty">
         <title>${escapeHtml(name)} · ${escapeHtml(t.comingSoon)}</title>
-        <path class="map-shape" d="${a.d}"/>
+        <path class="map-shape" d="${a.d}"${tf}/>
       </g>`;
     }
 
     return `      <a class="map-area" href="${base}${d}region/${r.slug}.html" style="--r:var(--region-${r.slug})">
         <title>${escapeHtml(name)} · ${n}</title>
-        <path class="map-shape" d="${a.d}"/>
+        <path class="map-shape" d="${a.d}"${tf}/>
         <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>
       </a>`;
   }).join('\n');
 
   return `<div class="hero-map">
     <svg viewBox="25 0 285 508" role="img" aria-label="${escapeHtml(t.findByRegion)}" xmlns="http://www.w3.org/2000/svg">
-      <path class="map-base" d="${KOREA_OUTLINE}"/>
-      <ellipse class="map-base" cx="72" cy="468" rx="32" ry="23"/>
 ${areas}
     </svg>
   </div>`;

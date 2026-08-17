@@ -10,7 +10,7 @@ module.exports = {
 
   ko: {
     tagline:     '어디로 가세요?',
-    description: '한국을 직접 다녀와서 정리합니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
+    description: '한국인이 직접 다녀온 경험 및 맛집 후기 정리합니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
     siteDesc:    '한국 여행지와 맛집 정보. 지역별로 정리했습니다.',
 
     nav:       { regions: '지역', travel: '여행지', food: '맛집', about: '소개', contact: '문의' },
@@ -30,6 +30,9 @@ module.exports = {
     empty:        '아직 등록된 글이 없습니다. 준비되는 대로 채워집니다.',
     noResult:     '조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.',
     searchPlaceholder: '지역이나 키워드로 찾기',
+
+    mapLabel:   '지도',
+    openMap:    '구글 지도에서 열기',
 
     published:  '발행',
     visited:    v => `방문 기준 ${v}`,
@@ -57,7 +60,7 @@ module.exports = {
 
   en: {
     tagline:     'Where are you headed?',
-    description: 'First-hand notes from travelling Korea — routes, budgets, transit, and when to avoid the crowds. The things worth knowing before you go.',
+    description: 'Written by a Korean who actually goes to these places — routes, budgets, transit, and when to avoid the crowds. The things worth knowing before you go.',
     siteDesc:    'Honest guides to places and food across Korea, organised by region.',
 
     nav:       { regions: 'Regions', travel: 'Places', food: 'Food', about: 'About', contact: 'Contact' },
@@ -77,6 +80,9 @@ module.exports = {
     empty:        'No guides here yet. This region is on the way.',
     noResult:     'Nothing matched. Try a different word.',
     searchPlaceholder: 'Search a region or keyword',
+
+    mapLabel:   'Map',
+    openMap:    'Open in Google Maps',
 
     published:  'Published',
     visited:    v => `Visited ${v}`,
@@ -104,7 +110,7 @@ module.exports = {
 
   ja: {
     tagline:     'どこへ行きますか？',
-    description: '実際に訪れてまとめた韓国の旅行・グルメ情報。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
+    description: '韓国人が実際に足を運んでまとめています。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
     siteDesc:    '地域別にまとめた韓国の観光地とグルメ情報。',
 
     nav:       { regions: '地域', travel: '観光地', food: 'グルメ', about: 'このサイト', contact: 'お問い合わせ' },
@@ -124,6 +130,9 @@ module.exports = {
     empty:        'まだ記事がありません。順次追加します。',
     noResult:     '該当する記事がありません。別のキーワードでお試しください。',
     searchPlaceholder: '地域やキーワードで検索',
+
+    mapLabel:   '地図',
+    openMap:    'Google マップで開く',
 
     published:  '公開',
     visited:    v => `訪問時期 ${v}`,
@@ -151,7 +160,7 @@ module.exports = {
 
   zh: {
     tagline:     '想去哪里？',
-    description: '亲自走过后整理的韩国旅行与美食信息。路线、预算、交通、避开人潮的时间，都是出发前值得知道的事。',
+    description: '由韩国本地人亲自走过后整理。路线、预算、交通、避开人潮的时间，都是出发前值得知道的事。',
     siteDesc:    '按地区整理的韩国景点与美食指南。',
 
     nav:       { regions: '地区', travel: '景点', food: '美食', about: '关于', contact: '联系' },
@@ -171,6 +180,9 @@ module.exports = {
     empty:        '这个地区还没有文章，正在陆续补充。',
     noResult:     '没有找到匹配的文章，换个关键词试试。',
     searchPlaceholder: '搜索地区或关键词',
+
+    mapLabel:   '地图',
+    openMap:    '在谷歌地图中打开',
 
     published:  '发布',
     visited:    v => `到访时间 ${v}`,

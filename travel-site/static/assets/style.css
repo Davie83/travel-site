@@ -126,6 +126,52 @@ img{max-width:100%;display:block;}
 }
 .hero p{margin:0;max-width:56ch;color:var(--ink-mute);font-size:16.5px;}
 
+/* 홈 히어로 — 왼쪽 글 / 오른쪽 지도 */
+.hero-split{padding-bottom:20px;}
+.hero-inner{display:grid;grid-template-columns:1fr minmax(240px,360px);gap:32px;align-items:center;}
+.hero-text{min-width:0;}
+
+@media (max-width:860px){
+  .hero-inner{grid-template-columns:1fr;gap:20px;}
+  .hero-map{max-width:270px;margin:0 auto;}
+}
+
+/* ==========================================================================
+   대한민국 지도 (지역 핀)
+   행정 경계 그대로가 아니라 위치를 알아보게 하는 안내용 그림입니다.
+   ========================================================================== */
+.hero-map svg{width:100%;height:auto;display:block;}
+
+/* 바탕 육지 — 지역 면 사이에 미세한 틈이 생겨도 흰 구멍이 보이지 않게 깔아둡니다 */
+.hero-map .map-base{
+  fill:color-mix(in srgb,var(--ink) 8%,var(--ground));
+  stroke:var(--line-hard);stroke-width:1.5;stroke-linejoin:round;
+}
+
+/* 지역 면 — 지역 전체가 클릭 대상입니다 */
+.hero-map .map-area{cursor:pointer;}
+.hero-map .map-shape{
+  fill:color-mix(in srgb,var(--r) 24%,var(--ground));
+  stroke:var(--ground);stroke-width:1.6;stroke-linejoin:round;
+  transition:fill .16s ease;
+}
+.hero-map .map-count{
+  fill:var(--ink);font-family:var(--en);font-size:17px;font-weight:700;
+  text-anchor:middle;pointer-events:none;font-variant-numeric:tabular-nums;
+}
+.hero-map .map-area:hover .map-shape{
+  fill:color-mix(in srgb,var(--r) 42%,var(--ground));
+  stroke:var(--r);stroke-width:2;
+}
+.hero-map .map-area:focus-visible{outline:none;}
+.hero-map .map-area:focus-visible .map-shape{stroke:var(--ink);stroke-width:2.5;}
+
+/* 글이 없는 지역 */
+.hero-map .is-empty .map-shape{
+  fill:color-mix(in srgb,var(--ink) 5%,var(--ground));
+  stroke:var(--line-hard);stroke-width:1;stroke-dasharray:3 3;
+}
+
 .search-box{margin:24px 0 0;max-width:440px;display:flex;}
 .search-box input{
   flex:1;padding:12px 18px;font-size:15.5px;font-family:inherit;
@@ -292,6 +338,16 @@ a.more{color:var(--ink);font-weight:600;}
 }
 .info-table th,.md-table th{background:var(--surface);font-weight:700;}
 .info-table th{width:120px;white-space:nowrap;}
+
+/* 지도 바로가기 — 주소를 읽는 것보다 눌러서 여는 쪽이 편합니다 */
+.info-table td a{color:var(--ink);text-decoration:underline;text-underline-offset:3px;}
+.map-link{
+  display:inline-block;font-weight:700;text-decoration:none!important;
+  padding:5px 12px;border-radius:999px;
+  background:color-mix(in srgb,var(--r) 14%,var(--surface));
+  border:1px solid color-mix(in srgb,var(--r) 40%,var(--line));
+}
+.map-link:hover{background:color-mix(in srgb,var(--r) 24%,var(--surface));}
 
 .callout{
   background:color-mix(in srgb,var(--r) 12%,var(--surface));

@@ -7,6 +7,7 @@ emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg
 excerpt: Open around the clock in the middle of Myeongdong. The small size feeds two adults comfortably, the heat is mild by Korean standards, and they do takeout.
 tags: [Seoul, Myeongdong, Euljiro, pork bones, gamjatang, 24 hours, late night, takeout]
+map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:
   - Restaurant|Shindonggung Gamjatang Ppyeo Sutbul Gui
   - Address|43 Myeongdong 9-gil, Jung-gu, Seoul

@@ -7,6 +7,7 @@ emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg
 excerpt: 명동 한복판에서 24시간 하는 뼈숯불구이집입니다. 둘이 가면 소 사이즈로 충분하고, 매운맛은 감자탕 드시는 정도면 무리 없습니다. 포장도 됩니다.
 tags: [서울, 중구, 명동, 을지로, 뼈구이, 감자탕, 24시간, 심야식당, 포장]
+map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:
   - 가게|신동궁감자탕뼈숯불구이
   - 주소|서울 중구 명동9길 43

@@ -1,11 +1,14 @@
-  <!-- 홈 = 지역 인덱스 -->
-  <section class="hero">
-    <div class="wrap">
-      <h1>{{tagline}}</h1>
-      <p>{{description}}</p>
-      <div class="search-box">
-        <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
+  <!-- 홈 = 지역 인덱스. 왼쪽은 글, 오른쪽은 지도(지역 핀 클릭 가능) -->
+  <section class="hero hero-split">
+    <div class="wrap hero-inner">
+      <div class="hero-text">
+        <h1>{{tagline}}</h1>
+        <p>{{description}}</p>
+        <div class="search-box">
+          <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
+        </div>
       </div>
+{{map}}
     </div>
   </section>
 

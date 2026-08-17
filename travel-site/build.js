@@ -347,21 +347,27 @@ function navHTML(current, base, code, t) {
   ).join('\n      ');
 }
 
-/** 지역 카드 (홈) */
+/** 지역 카드 (홈)
+ *  카테고리 이름은 site.config.js 에서 그대로 가져옵니다.
+ *  (전에 'places' 로 직접 적어두었다가 카테고리 이름을 바꾸면서
+ *   화면에 undefined 가 찍혔습니다. 다시는 하드코딩하지 않습니다) */
 function regionCardHTML(region, base, code, counts, t) {
   const d = localeDir(code);
-  const total = (counts.places || 0) + (counts.food || 0);
+  const total = site.categories.reduce((s, c) => s + (counts[c.slug] || 0), 0);
   const name = regionName(region.slug, code);
 
-  if (!total) {
-    return `        <div class="region empty">
-          <div><span class="r-name">${escapeHtml(name)}</span><span class="r-en">${escapeHtml(region.slug)}</span></div>
-          <span class="r-count">${escapeHtml(t.comingSoon)}</span>
-        </div>`;
-  }
+  // 글이 있든 없든 같은 형식으로 표시합니다 ("여행지 0 · 맛집 1")
+  const countText = site.categories
+    .map(c => `${t.category[c.slug] || c.slug} ${counts[c.slug] || 0}`)
+    .join(' · ');
+
+  const inner = `<div><span class="r-name">${escapeHtml(name)}</span><span class="r-en">${escapeHtml(region.slug)}</span></div>
+          <span class="r-count">${escapeHtml(countText)}</span>`;
+
+  if (!total) return `        <div class="region empty">\n          ${inner}\n        </div>`;
+
   return `        <a class="region" href="${base}${d}region/${region.slug}.html" style="--r:var(--region-${region.slug})">
-          <div><span class="r-name">${escapeHtml(name)}</span><span class="r-en">${escapeHtml(region.slug)}</span></div>
-          <span class="r-count">${escapeHtml(t.category.places)} ${counts.places || 0} · ${escapeHtml(t.category.food)} ${counts.food || 0}</span>
+          ${inner}
         </a>`;
 }
 
@@ -450,7 +456,7 @@ function koreaMapHTML(base, code, countsByRegion, t) {
     // 전부 회색으로 칠하면 붙어 있는 빈 지역끼리 한 덩어리로 보입니다.
     if (!n) {
       return `      <g class="map-area is-empty" style="--r:var(--region-${r.slug})">
-        <title>${escapeHtml(name)} · ${escapeHtml(t.comingSoon)}</title>
+        <title>${escapeHtml(name)} · 0</title>
         <path class="map-shape" d="${a.d}"${tf}/>
       </g>`;
     }

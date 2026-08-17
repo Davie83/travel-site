@@ -504,11 +504,21 @@ function cardHTML(post, base, code, t) {
 function infoTableHTML(info, mapUrl, t) {
   const rows = [];
 
+  // "(확인 필요)" 표시를 눈에 띄는 칩으로 바꿉니다.
+  // 확실하지 않은 값은 아는 것처럼 적지 않는다는 원칙을 화면에서도 보이게 합니다.
+  const markUnverified = html => {
+    if (!t.needsCheck) return html;
+    const label = escapeHtml(t.needsCheck);
+    return html.split(`(${label})`).join(`<span class="unverified">${label}</span>`);
+  };
+
   if (Array.isArray(info)) {
     for (const row of info) {
       const i = String(row).indexOf('|');
       if (i < 0) continue;
-      rows.push(`<tr><th>${inline(escapeHtml(row.slice(0, i).trim()))}</th><td>${inline(escapeHtml(row.slice(i + 1).trim()))}</td></tr>`);
+      const th = inline(escapeHtml(row.slice(0, i).trim()));
+      const td = markUnverified(inline(escapeHtml(row.slice(i + 1).trim())));
+      rows.push(`<tr><th>${th}</th><td>${td}</td></tr>`);
     }
   }
 
@@ -791,7 +801,9 @@ function build() {
           kicker: `${escapeHtml(t.category[m.cat] || m.cat)} · ${escapeHtml(rname)}`,
           regionHref: `${base}${d}region/${m.region}.html`,
           title: escapeHtml(m.title),
-          meta: `${String(m.date).replace(/-/g, '.')} ${escapeHtml(t.published)}${m.visited ? ` · ${escapeHtml(t.visited(m.visited))}` : ''}`,
+          // 방문 시점은 표기하지 않습니다.
+          // 대신 확실하지 않은 항목에 (잦은 변동으로 확인 필요) 를 붙입니다.
+          meta: `${String(m.date).replace(/-/g, '.')} ${escapeHtml(t.published)}`,
           infoTable: infoTableHTML(m.info, m.map, t),
           content: markdown(p.body),
           adTop: adSlotHTML('post-top'), adBottom: adSlotHTML('post-bottom'),

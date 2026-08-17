@@ -18,7 +18,7 @@ Not "this place was lovely". The things you would want to know the day before yo
 
 ## How these guides are written
 
-- Every guide states **when it was visited**. Prices and hours in Korea change quickly.
+- Anything important but unconfirmed — a price, an opening time — is marked **(changes often — please verify)** rather than stated as fact.
 - If something wasn't verified in person, it either isn't here or is marked as unverified.
 - No rankings, no "best in Seoul" claims.
 - Business details — address, hours, phone — are checked against the venue's own listing before publishing.

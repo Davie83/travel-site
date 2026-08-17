@@ -31,6 +31,7 @@ module.exports = {
     noResult:     '조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.',
     searchPlaceholder: '지역이나 키워드로 찾기',
 
+    needsCheck: '잦은 변동으로 확인 필요',
     mapLabel:   '지도',
     openMap:    '구글 지도에서 열기',
 
@@ -81,6 +82,7 @@ module.exports = {
     noResult:     'Nothing matched. Try a different word.',
     searchPlaceholder: 'Search a region or keyword',
 
+    needsCheck: 'changes often — please verify',
     mapLabel:   'Map',
     openMap:    'Open in Google Maps',
 
@@ -131,6 +133,7 @@ module.exports = {
     noResult:     '該当する記事がありません。別のキーワードでお試しください。',
     searchPlaceholder: '地域やキーワードで検索',
 
+    needsCheck: '変動が多いため要確認',
     mapLabel:   '地図',
     openMap:    'Google マップで開く',
 
@@ -181,6 +184,7 @@ module.exports = {
     noResult:     '没有找到匹配的文章，换个关键词试试。',
     searchPlaceholder: '搜索地区或关键词',
 
+    needsCheck: '变动频繁，请再确认',
     mapLabel:   '地图',
     openMap:    '在谷歌地图中打开',
 

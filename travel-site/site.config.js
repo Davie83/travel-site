@@ -42,22 +42,26 @@ module.exports = {
      slug 이 주소가 됩니다: /region/seoul.html
      color/colorDark 는 그 지역을 대표하는 색입니다.
      글의 region: 값에는 slug 를 씁니다 (예: region: seoul).        */
+  /* 색은 지도에서 서로 맞닿는 지역끼리 최대한 멀어지도록 색상환에 배치했습니다.
+     (예전 팔레트는 서울·경기·강원이 모두 파란 계열이라 구분이 안 됐습니다)
+     인접한 지역 간 색 차이를 수치로 검증한 값이니 임의로 바꾸면
+     붙어 있는 지역이 같은 색으로 보일 수 있습니다.                */
   regions: [
-    { slug: 'seoul',       color: '#2a3a6b', colorDark: '#8095d8',
+    { slug: 'seoul',       color: '#312a7e', colorDark: '#827adc',   // 남색
       names: { ko: '서울',      en: 'Seoul',              ja: 'ソウル',   zh: '首尔' } },
-    { slug: 'gyeonggi',    color: '#4a5a7a', colorDark: '#95a6c7',
+    { slug: 'gyeonggi',    color: '#884096', colorDark: '#d5a4df',   // 보라
       names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' } },
-    { slug: 'gangwon',     color: '#3b5566', colorDark: '#84a7bc',
+    { slug: 'gangwon',     color: '#2a6984', colorDark: '#7cc1de',   // 청록
       names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' } },
-    { slug: 'chungcheong', color: '#57683f', colorDark: '#a6b884',
+    { slug: 'chungcheong', color: '#498235', colorDark: '#9fd98c',   // 초록
       names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' } },
-    { slug: 'jeolla',      color: '#856327', colorDark: '#d2b269',
+    { slug: 'jeolla',      color: '#998329', colorDark: '#e7d488',   // 황금
       names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全罗' } },
-    { slug: 'gyeongsang',  color: '#8a3b2f', colorDark: '#d9836f',
+    { slug: 'gyeongsang',  color: '#993633', colorDark: '#e39996',   // 벽돌
       names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '庆尚' } },
-    { slug: 'busan',       color: '#0d6b6e', colorDark: '#3bb5ad',
+    { slug: 'busan',       color: '#257e77', colorDark: '#72dfd6',   // 바다
       names: { ko: '부산',      en: 'Busan',              ja: '釜山',     zh: '釜山' } },
-    { slug: 'jeju',        color: '#2f5d3a', colorDark: '#6cb282',
+    { slug: 'jeju',        color: '#389463', colorDark: '#9ae0ba',   // 숲
       names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '济州' } }
   ],
 

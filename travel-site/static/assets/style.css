@@ -126,29 +126,35 @@ img{max-width:100%;display:block;}
 }
 .hero p{margin:0;max-width:56ch;color:var(--ink-mute);font-size:16.5px;}
 
-/* 홈 히어로 — 왼쪽 글 / 오른쪽 지도 */
-.hero-split{padding-bottom:20px;}
-.hero-inner{display:grid;grid-template-columns:1fr minmax(240px,360px);gap:32px;align-items:center;}
+/* 홈 히어로 — 왼쪽 글 / 오른쪽 지도
+   지도는 세로가 가로의 1.8배라 폭에 맞추면 화면 밖으로 넘칩니다.
+   그래서 폭이 아니라 '높이'를 기준으로 크기를 정합니다. */
+.hero-split{padding:32px 0 24px;}
+.hero-inner{display:grid;grid-template-columns:1fr auto;gap:34px;align-items:center;}
 .hero-text{min-width:0;}
+.hero-split h1{font-size:clamp(26px,4.2vw,38px);}
 
 @media (max-width:860px){
-  .hero-inner{grid-template-columns:1fr;gap:20px;}
-  .hero-map{max-width:270px;margin:0 auto;}
+  .hero-split{padding:26px 0 20px;}
+  .hero-inner{grid-template-columns:1fr;gap:18px;justify-items:center;}
+  .hero-text{width:100%;}
 }
 
 /* ==========================================================================
    대한민국 지도 (지역 핀)
    행정 경계 그대로가 아니라 위치를 알아보게 하는 안내용 그림입니다.
    ========================================================================== */
-.hero-map svg{width:100%;height:auto;display:block;}
+/* 높이를 먼저 정하고 폭은 비율에 맡깁니다 → 제주까지 화면 안에 들어옵니다 */
+.hero-map svg{height:min(46vh,380px);width:auto;max-width:100%;display:block;}
+@media (max-width:860px){ .hero-map svg{height:min(38vh,300px);} }
 
 /* 지역 조각 — 지역 전체가 클릭 대상입니다.
    같은 색 굵은 테두리(stroke)로 모서리를 둥글게 깎는 방식이라
    fill 과 stroke 는 항상 같은 색이어야 합니다. */
 .hero-map .map-area{cursor:pointer;}
 .hero-map .map-shape{
-  fill:color-mix(in srgb,var(--r) 30%,var(--ground));
-  stroke:color-mix(in srgb,var(--r) 30%,var(--ground));
+  fill:color-mix(in srgb,var(--r) 36%,var(--ground));
+  stroke:color-mix(in srgb,var(--r) 36%,var(--ground));
   stroke-width:7;stroke-linejoin:round;
   transition:fill .16s ease,stroke .16s ease;
 }
@@ -166,10 +172,11 @@ img{max-width:100%;display:block;}
   stroke:var(--ink);stroke-width:3;
 }
 
-/* 글이 없는 지역 — 조각은 남기되 회색으로 */
+/* 글이 없는 지역 — 자기 색을 옅게 유지합니다.
+   전부 회색으로 칠하면 붙어 있는 빈 지역끼리 한 덩어리로 보입니다. */
 .hero-map .is-empty .map-shape{
-  fill:color-mix(in srgb,var(--ink) 7%,var(--ground));
-  stroke:color-mix(in srgb,var(--ink) 7%,var(--ground));
+  fill:color-mix(in srgb,var(--r) 20%,var(--ground));
+  stroke:color-mix(in srgb,var(--r) 20%,var(--ground));
 }
 
 .search-box{margin:24px 0 0;max-width:440px;display:flex;}

@@ -446,9 +446,10 @@ function koreaMapHTML(base, code, countsByRegion, t) {
       ? ` transform="translate(${a.c[0]},${a.c[1]}) scale(${MAP_SHRINK}) translate(${-a.c[0]},${-a.c[1]})"`
       : '';
 
-    // 글이 없는 지역은 링크 없이 회색 조각으로 — 자리는 있지만 비어 있다는 표시
+    // 글이 없는 지역도 자기 색을 옅게 유지합니다.
+    // 전부 회색으로 칠하면 붙어 있는 빈 지역끼리 한 덩어리로 보입니다.
     if (!n) {
-      return `      <g class="map-area is-empty">
+      return `      <g class="map-area is-empty" style="--r:var(--region-${r.slug})">
         <title>${escapeHtml(name)} · ${escapeHtml(t.comingSoon)}</title>
         <path class="map-shape" d="${a.d}"${tf}/>
       </g>`;

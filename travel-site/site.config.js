@@ -88,14 +88,7 @@ module.exports = {
 
   /* ---- 예시글: 목록 맨 뒤로 밀기 ---------------------------------------
      실제 글로 교체하거나 지운 뒤에는 여기서도 지워주세요.        */
-  demoPosts: [
-    'seoul-ikseondong',
-    'busan-jagalchi-food',
-    'gangneung-cafe-street',
-    'jeonju-hanok-village',
-    'jeju-east-course',
-    'daegu-anjirang'
-  ],
+  demoPosts: [],
 
   /* ---- Supabase (이모지 리액션) ---------------------------------------
      Project Settings > API Keys 의 'Publishable key' (sb_publishable_...)

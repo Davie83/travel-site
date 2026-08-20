@@ -33,10 +33,10 @@ You can still react to a guide with an emoji at the bottom of the page. No sign-
 
 This site runs **Google AdSense** to cover hosting costs. Ads are visually separated from the content, and no advertiser has any influence over what gets written or how a place is described.
 
-Nothing here is a paid placement. See the [privacy policy](privacy.html) for how advertising cookies are handled.
+Nothing here is a paid placement. See the [privacy policy](privacy) for how advertising cookies are handled.
 
 ## Corrections
 
-Prices change, restaurants close, hours shift. If you find something out of date, please tell me and I'll fix it. → [Contact](contact.html)
+Prices change, restaurants close, hours shift. If you find something out of date, please tell me and I'll fix it. → [Contact](contact)
 
 > Everything here is for reference. Always check the venue's own channels before travelling — especially opening hours and holiday closures.

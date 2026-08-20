@@ -22,4 +22,4 @@ Clicking the address opens your mail app with the subject line filled in.
 
 ## Your privacy
 
-Your email address and message are used only to reply to you, then deleted. See the [privacy policy](privacy.html) for details.
+Your email address and message are used only to reply to you, then deleted. See the [privacy policy](privacy) for details.

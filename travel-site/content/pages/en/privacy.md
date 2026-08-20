@@ -15,7 +15,7 @@ The following may be recorded automatically:
 - IP address, browser type, device type, time of access
 - Pages viewed and referring source
 
-If you email via the [contact page](contact.html), your address and message are used only to reply, and are deleted afterwards.
+If you email via the [contact page](contact), your address and message are used only to reply, and are deleted afterwards.
 
 ## 2. Emoji reactions
 

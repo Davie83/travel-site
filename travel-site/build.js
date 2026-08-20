@@ -60,6 +60,12 @@ function baseOf(outPath) {
   return '../'.repeat(outPath.split('/').length - 1);
 }
 
+/* Cloudflare Pages 는 /foo.html 을 /foo 로 308 리다이렉트합니다.
+   그래서 파일은 .html 로 만들지만, 링크·canonical·sitemap 은 확장자를 뗍니다.
+   그러지 않으면 "정식 주소는 .html" 이라고 알리면서 실제로는 다른 주소로
+   튕기게 되어 색인에 혼란을 줍니다. index.html 은 폴더 주소(/)로 바뀝니다. */
+const cleanUrl = p => String(p).replace(/index[.]html$/, '').replace(/[.]html$/, '');
+
 const localeDir = code => (site.locales.find(l => l.code === code) || {}).dir || '';
 
 /** 사이트 이름 — site.config.js 에서 언어별 객체로 줄 수도, 문자열 하나로 줄 수도 있습니다 */
@@ -318,6 +324,28 @@ function langSwitchHTML(base, current, availability, t) {
     </div>`;
 }
 
+/** 언어 제안 배너
+ *  방문자 브라우저 언어가 현재 페이지와 다르면 얇은 띠로 알려줍니다.
+ *  ★ 자동 리다이렉트가 아닙니다. 구글 크롤러는 미국에서 접속하므로
+ *    강제 이동시키면 한국어·일본어·중국어 페이지가 색인되지 않을 수 있습니다.
+ *    그래서 안내만 하고 이동은 방문자가 선택합니다. */
+function langSuggestHTML(base, current, availability) {
+  const opts = {};
+  for (const l of LOCALES) {
+    if (l.code === current || availability[l.code] === undefined) continue;
+    const t2 = I18N[l.code];
+    opts[l.code] = { href: base + availability[l.code], msg: t2.suggestMsg, go: t2.suggestGo };
+  }
+  if (!Object.keys(opts).length) return '';
+  return `<div class="lang-suggest" hidden data-locales="${escapeHtml(JSON.stringify(opts))}">
+    <div class="wrap ls-inner">
+      <span class="ls-msg"></span>
+      <a class="ls-go" href="#"></a>
+      <button class="ls-close" type="button" aria-label="close">✕</button>
+    </div>
+  </div>`;
+}
+
 /** hreflang — 같은 글의 다른 언어판을 검색엔진에 알립니다 */
 function hreflangHTML(availability) {
   // 위와 같은 이유로 undefined 로 판별합니다 (한국어 홈 경로 = '')
@@ -337,10 +365,10 @@ function navHTML(current, base, code, t) {
   const d = localeDir(code);
   // 카테고리는 site.config.js 에서 그대로 가져옵니다 (한 곳만 고치면 메뉴도 따라옵니다)
   const items = [
-    { href: 'index.html', label: t.nav.regions, key: 'home' },
-    ...site.categories.map(c => ({ href: `${c.slug}.html`, label: t.category[c.slug], key: c.slug })),
-    { href: 'about.html',   label: t.nav.about,   key: 'about' },
-    { href: 'contact.html', label: t.nav.contact, key: 'contact' }
+    { href: '', label: t.nav.regions, key: 'home' },
+    ...site.categories.map(c => ({ href: c.slug, label: t.category[c.slug], key: c.slug })),
+    { href: 'about',   label: t.nav.about,   key: 'about' },
+    { href: 'contact', label: t.nav.contact, key: 'contact' }
   ];
   return items.map(it =>
     `<a href="${base}${d}${it.href}"${it.key === current ? ' aria-current="page"' : ''}>${escapeHtml(it.label)}</a>`
@@ -366,7 +394,7 @@ function regionCardHTML(region, base, code, counts, t) {
 
   if (!total) return `        <div class="region empty">\n          ${inner}\n        </div>`;
 
-  return `        <a class="region" href="${base}${d}region/${region.slug}.html" style="--r:var(--region-${region.slug})">
+  return `        <a class="region" href="${base}${d}region/${region.slug}" style="--r:var(--region-${region.slug})">
           ${inner}
         </a>`;
 }
@@ -461,7 +489,7 @@ function koreaMapHTML(base, code, countsByRegion, t) {
       </g>`;
     }
 
-    return `      <a class="map-area" href="${base}${d}region/${r.slug}.html" style="--r:var(--region-${r.slug})">
+    return `      <a class="map-area" href="${base}${d}region/${r.slug}" style="--r:var(--region-${r.slug})">
         <title>${escapeHtml(name)} · ${n}</title>
         <path class="map-shape" d="${a.d}"${tf}/>
         <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>
@@ -486,7 +514,7 @@ function cardHTML(post, base, code, t) {
   const search = [m.title, m.excerpt, rname, (m.tags || []).join(' ')].join(' ').toLowerCase();
 
   return `        <article class="card" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
-          <a href="${base}${d}posts/${post.slug}.html">
+          <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">
               <h3>${escapeHtml(m.title)}</h3>
@@ -605,7 +633,7 @@ function renderPage(o) {
     title:       escapeHtml(o.title),
     description: escapeHtml(o.description || I18N[o.code].siteDesc),
     // 홈은 .../index.html 이 아니라 .../ 로 통일 (canonical·hreflang·sitemap 모두 같은 형태여야 함)
-    canonical:   `${SITE_URL}/${o.out.replace(/index\.html$/, '')}`,
+    canonical:   `${SITE_URL}/${cleanUrl(o.out)}`,
     ogType:      o.ogType || 'website',
     ogLocale:    loc.htmlLang.replace('-', '_'),
     // 링크 공유 미리보기 이미지 (절대 주소여야 합니다).
@@ -617,9 +645,10 @@ function renderPage(o) {
     siteName:    escapeHtml(siteName(o.code)),
     base:        base,                                  // 최상단까지 (assets 용)
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
-    homeHref:    base + localeDir(o.code) + 'index.html',
+    homeHref:    base + localeDir(o.code) + '',
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
     langs:       langSwitchHTML(base, o.code, o.availability || {}, I18N[o.code]),
+    langSuggest: langSuggestHTML(base, o.code, o.availability || {}),
     hreflang:    hreflangHTML(o.availability || {}),
     regionVars:  regionVarsCSS(),
     adsense:     adsenseHTML(),
@@ -662,7 +691,7 @@ function build() {
   /** 어떤 페이지가 어떤 언어로 존재하는지 → { ko:'posts/x.html', en:'en/posts/x.html' } */
   const availFor = (relBuilder, existsIn) => {
     // index.html 은 주소에서 떼어냅니다 (canonical 과 형태를 맞추기 위해)
-    const rel = relBuilder.replace(/index\.html$/, '');
+    const rel = cleanUrl(relBuilder);
     const a = {};
     for (const l of LOCALES) if (existsIn(l.code)) a[l.code] = localeDir(l.code) + rel;
     return a;
@@ -806,7 +835,7 @@ function build() {
         body: fill(T.post, {
           regionSlug: m.region,
           kicker: `${escapeHtml(t.category[m.cat] || m.cat)} · ${escapeHtml(rname)}`,
-          regionHref: `${base}${d}region/${m.region}.html`,
+          regionHref: `${base}${d}region/${m.region}`,
           title: escapeHtml(m.title),
           // 방문 시점은 표기하지 않습니다.
           // 대신 확실하지 않은 항목에 (잦은 변동으로 확인 필요) 를 붙입니다.
@@ -855,7 +884,7 @@ function build() {
     <div class="wrap">
       <h1>${escapeHtml(t.notFoundTitle)} 🧭</h1>
       <p>${escapeHtml(t.notFoundDesc)}</p>
-      <p style="margin-top:20px;"><a class="more" href="${baseOf(out404)}${d}index.html">${escapeHtml(t.backHome)} →</a></p>
+      <p style="margin-top:20px;"><a class="more" href="${baseOf(out404)}${d}">${escapeHtml(t.backHome)} →</a></p>
     </div>
   </section>`
     }));
@@ -865,7 +894,7 @@ function build() {
   writeFile('sitemap.xml',
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
     urls.map(u =>
-      `  <url><loc>${SITE_URL}/${u.loc}</loc>` +
+      `  <url><loc>${SITE_URL}/${cleanUrl(u.loc)}</loc>` +
       (u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : '') +
       (u.freq ? `<changefreq>${u.freq}</changefreq>` : '') +
       `<priority>${u.pri}</priority></url>`

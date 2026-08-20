@@ -466,3 +466,27 @@ a.more{color:var(--ink);font-weight:600;}
 @media (max-width:720px){.footer-copy{margin-left:0;width:100%;}}
 
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important;}}
+
+/* ==========================================================================
+   언어 제안 배너 — 방문자 브라우저 언어가 다를 때만 표시
+   ========================================================================== */
+.lang-suggest{
+  background:color-mix(in srgb,var(--ink) 6%,var(--ground));
+  border-bottom:1px solid var(--line);
+  font-size:14px;
+}
+.ls-inner{display:flex;align-items:center;gap:12px;padding:10px 20px;}
+.ls-msg{color:var(--ink-mid);}
+.ls-go{
+  font-weight:700;color:var(--ink);
+  text-decoration:underline;text-underline-offset:3px;white-space:nowrap;
+}
+.ls-close{
+  margin-left:auto;background:none;border:0;cursor:pointer;
+  color:var(--ink-mute);font-size:15px;line-height:1;padding:6px 4px;
+}
+.ls-close:hover{color:var(--ink);}
+@media (max-width:600px){
+  .ls-inner{gap:10px;padding:9px 16px;font-size:13px;flex-wrap:wrap;}
+  .ls-close{margin-left:auto;}
+}

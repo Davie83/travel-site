@@ -31,6 +31,9 @@ module.exports = {
     noResult:     '조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.',
     searchPlaceholder: '지역이나 키워드로 찾기',
 
+    suggestMsg: '이 페이지는 한국어로도 볼 수 있습니다',
+    suggestGo:  '한국어로 보기',
+
     needsCheck: '잦은 변동으로 확인 필요',
     mapLabel:   '지도',
     openMap:    '구글 지도에서 열기',
@@ -81,6 +84,9 @@ module.exports = {
     empty:        'No guides here yet. This region is on the way.',
     noResult:     'Nothing matched. Try a different word.',
     searchPlaceholder: 'Search a region or keyword',
+
+    suggestMsg: 'This page is also available in English',
+    suggestGo:  'Read in English',
 
     needsCheck: 'changes often — please verify',
     mapLabel:   'Map',
@@ -133,6 +139,9 @@ module.exports = {
     noResult:     '該当する記事がありません。別のキーワードでお試しください。',
     searchPlaceholder: '地域やキーワードで検索',
 
+    suggestMsg: 'このページは日本語でもご覧いただけます',
+    suggestGo:  '日本語で読む',
+
     needsCheck: '変動が多いため要確認',
     mapLabel:   '地図',
     openMap:    'Google マップで開く',
@@ -183,6 +192,9 @@ module.exports = {
     empty:        '这个地区还没有文章，正在陆续补充。',
     noResult:     '没有找到匹配的文章，换个关键词试试。',
     searchPlaceholder: '搜索地区或关键词',
+
+    suggestMsg: '本页也有简体中文版',
+    suggestGo:  '查看简体中文',
 
     needsCheck: '变动频繁，请再确认',
     mapLabel:   '地图',

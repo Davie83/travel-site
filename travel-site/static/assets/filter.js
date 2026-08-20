@@ -103,3 +103,51 @@
     });
   }
 })();
+
+/* ==========================================================================
+   언어 제안 배너
+   --------------------------------------------------------------------------
+   방문자 브라우저 언어가 현재 페이지와 다르면 얇은 띠로 알려줍니다.
+
+   ★ 자동 이동이 아닙니다. 구글 크롤러는 미국에서 접속하므로 국가·언어로
+     강제 이동시키면 한국어·일본어·중국어 페이지가 색인되지 않을 수 있습니다.
+     그래서 안내만 하고, 이동은 방문자가 누를 때만 합니다.
+   ========================================================================== */
+
+(function () {
+  'use strict';
+
+  var bar = document.querySelector('.lang-suggest');
+  if (!bar) return;
+
+  // 한 번 닫으면 다시 띄우지 않습니다
+  try { if (localStorage.getItem('langSuggestClosed') === '1') return; } catch (e) {}
+
+  var opts;
+  try { opts = JSON.parse(bar.getAttribute('data-locales') || '{}'); } catch (e) { return; }
+
+  var current = document.documentElement.lang || '';
+
+  // 브라우저가 선호하는 언어 순서대로 훑어서 우리가 가진 언어를 찾습니다
+  var prefs = (navigator.languages && navigator.languages.length)
+    ? navigator.languages : [navigator.language || ''];
+
+  var pick = null;
+  for (var i = 0; i < prefs.length; i++) {
+    var primary = String(prefs[i]).toLowerCase().split('-')[0];   // 'ja-JP' → 'ja'
+    if (primary && primary === current.toLowerCase().split('-')[0]) break;  // 이미 맞는 언어
+    if (primary && opts[primary]) { pick = opts[primary]; break; }
+  }
+  if (!pick) return;
+
+  bar.querySelector('.ls-msg').textContent = pick.msg;
+  var go = bar.querySelector('.ls-go');
+  go.textContent = pick.go;
+  go.setAttribute('href', pick.href);
+  bar.hidden = false;
+
+  bar.querySelector('.ls-close').addEventListener('click', function () {
+    bar.hidden = true;
+    try { localStorage.setItem('langSuggestClosed', '1'); } catch (e) {}
+  });
+})();

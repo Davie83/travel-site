@@ -608,6 +608,12 @@ function renderPage(o) {
     canonical:   `${SITE_URL}/${o.out.replace(/index\.html$/, '')}`,
     ogType:      o.ogType || 'website',
     ogLocale:    loc.htmlLang.replace('-', '_'),
+    // 링크 공유 미리보기 이미지 (절대 주소여야 합니다).
+    // 글은 그 글의 사진, 그 외 페이지는 대표 이미지를 씁니다.
+    // 지정하지 않으면 카카오톡·페이스북이 페이지에서 아무 사진이나 골라 씁니다.
+    ogImage:     `${SITE_URL}/${o.ogImage || site.ogImage}`,
+    ogImageW:    o.ogImage ? 1600 : 1200,
+    ogImageH:    o.ogImage ? 1200 : 630,
     siteName:    escapeHtml(siteName(o.code)),
     base:        base,                                  // 최상단까지 (assets 용)
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
@@ -794,6 +800,7 @@ function build() {
       writeFile(out, renderPage({
         out, code, current: m.cat, ogType: 'article',
         title: `${m.title} | ${siteName(code)}`, description: m.excerpt,
+        ogImage: m.thumb || null,   // 글 사진이 있으면 그걸 미리보기로
         availability,
         headExtra: `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`,
         body: fill(T.post, {

@@ -1,0 +1,21 @@
+// ============================================================================
+//  Cloudflare Workers 로 정적 사이트를 배포할 때만 필요한 파일입니다.
+//
+//  ★ Pages 프로젝트로 만드셨다면 이 파일은 무시됩니다. 그냥 두면 됩니다.
+//
+//  Workers 로 쓰실 경우 대시보드에서 아래도 함께 설정해야 합니다.
+//    Root directory : travel-site
+//    Build command  : npm run build
+//    Deploy command : npx wrangler deploy   (기본값)
+// ============================================================================
+{
+  "name": "kfoodtrip",
+  "compatibility_date": "2026-08-17",
+
+  // 빌드 결과물 폴더를 정적 파일로 서비스합니다
+  "assets": {
+    "directory": "./dist",
+    // 없는 주소로 들어오면 404.html 을 보여줍니다
+    "not_found_handling": "404-page"
+  }
+}

@@ -1,0 +1,18 @@
+# ============================================================================
+#  Cloudflare Pages 용 헤더 설정
+#  netlify.toml 의 [[headers]] 를 Cloudflare 형식으로 옮긴 것입니다.
+#  (Cloudflare 는 netlify.toml 을 읽지 않습니다)
+#
+#  이 파일은 static/ 에 있으므로 빌드할 때 dist/ 로 복사됩니다.
+#  Netlify 에서도 무해하므로 양쪽에 두어도 됩니다.
+# ============================================================================
+
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+# 파일명에 버전이 붙지 않으므로 캐시를 길게 잡지 않습니다
+/assets/*
+  Cache-Control: public, max-age=3600

@@ -16,7 +16,7 @@ module.exports = {
   },
 
   // ★ 끝에 / 붙이지 마세요
-  url: 'https://kfoodtrip.net',
+  url: 'https://koreatrips.netlify.app',
 
   email: 'ckqkrdl@gmail.com',
 

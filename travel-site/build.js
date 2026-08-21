@@ -83,6 +83,12 @@ function baseOf(outPath) {
    튕기게 되어 색인에 혼란을 줍니다. index.html 은 폴더 주소(/)로 바뀝니다. */
 const cleanUrl = p => String(p).replace(/index[.]html$/, '').replace(/[.]html$/, '');
 
+
+/* 빈 주소('')는 브라우저가 "현재 페이지"로 해석합니다.
+   그래서 /travel 에서 로고나 '지역' 을 누르면 홈이 아니라 /travel 로 다시 갔습니다.
+   (한국어는 접두어가 없어서 base 와 언어폴더가 둘 다 빈 문자열이 됩니다)
+   빈 값은 './' 로 바꿔 그 폴더 = 사이트 최상단을 가리키게 합니다. */
+const linkTo = p => (p === '' ? './' : p);
 const localeDir = code => (site.locales.find(l => l.code === code) || {}).dir || '';
 
 /** 사이트 이름 — site.config.js 에서 언어별 객체로 줄 수도, 문자열 하나로 줄 수도 있습니다 */
@@ -336,7 +342,7 @@ function langSwitchHTML(base, current, availability, t) {
   return `<div class="langs" role="group" aria-label="${escapeHtml(t.langLabel)}">
       ${items.map(l => l.code === current
         ? `<span class="lang on" aria-current="true">${escapeHtml(l.short)}</span>`
-        : `<a class="lang" href="${base}${availability[l.code]}" hreflang="${l.hreflang}" lang="${l.htmlLang}">${escapeHtml(l.short)}</a>`
+        : `<a class="lang" href="${linkTo(base + availability[l.code])}" hreflang="${l.hreflang}" lang="${l.htmlLang}">${escapeHtml(l.short)}</a>`
       ).join('\n      ')}
     </div>`;
 }
@@ -388,7 +394,7 @@ function navHTML(current, base, code, t) {
     { href: 'contact', label: t.nav.contact, key: 'contact' }
   ];
   return items.map(it =>
-    `<a href="${base}${d}${it.href}"${it.key === current ? ' aria-current="page"' : ''}>${escapeHtml(it.label)}</a>`
+    `<a href="${linkTo(base + d + it.href)}"${it.key === current ? ' aria-current="page"' : ''}>${escapeHtml(it.label)}</a>`
   ).join('\n      ');
 }
 
@@ -717,7 +723,7 @@ function renderPage(o) {
     siteName:    escapeHtml(siteName(o.code)),
     base:        base,                                  // 최상단까지 (assets 용)
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
-    homeHref:    base + localeDir(o.code) + '',
+    homeHref:    linkTo(base + localeDir(o.code)),
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
     savedLink:   savedLinkHTML(base, o.code, I18N[o.code]),
     v:           ASSET_V,
@@ -983,7 +989,7 @@ function build() {
     <div class="wrap">
       <h1>${escapeHtml(t.notFoundTitle)} 🧭</h1>
       <p>${escapeHtml(t.notFoundDesc)}</p>
-      <p style="margin-top:20px;"><a class="more" href="${baseOf(out404)}${d}">${escapeHtml(t.backHome)} →</a></p>
+      <p style="margin-top:20px;"><a class="more" href="${linkTo(baseOf(out404) + d)}">${escapeHtml(t.backHome)} →</a></p>
     </div>
   </section>`
     }));

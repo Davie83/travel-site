@@ -513,7 +513,7 @@ function cardHTML(post, base, code, t) {
   const rname = regionName(m.region, code);
   const search = [m.title, m.excerpt, rname, (m.tags || []).join(' ')].join(' ').toLowerCase();
 
-  return `        <article class="card" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
+  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">
@@ -522,6 +522,7 @@ function cardHTML(post, base, code, t) {
               <div class="card-meta"><span class="dot"></span>${escapeHtml(rname)} · ${String(m.date).replace(/-/g, '.')}</div>
             </div>
           </a>
+          ${saveBtnHTML(post.slug, t, false)}
         </article>`;
 }
 
@@ -559,6 +560,27 @@ function infoTableHTML(info, mapUrl, t) {
 }
 
 /** 리액션 — 언어와 무관하게 글 슬러그 단위로 집계됩니다 */
+/** 저장(즐겨찾기) 버튼.
+ *  방문자 기기(localStorage)에만 저장되므로 서버도 로그인도 필요하지 않습니다.
+ *  big=true 는 글 상세용(글자까지 표시), false 는 카드용(별만 표시). */
+function saveBtnHTML(slug, t, big) {
+  const add = escapeHtml(t.saveAdd), done = escapeHtml(t.saveDone);
+  return `<button class="save-btn${big ? '' : ' save-sm'}" type="button" data-save="${escapeHtml(slug)}"`
+       + ` data-add="${add}" data-done="${done}" aria-pressed="false" aria-label="${add}" title="${add}">`
+       + `<span class="save-ico" aria-hidden="true">☆</span>`
+       + (big ? `<span class="save-txt">${add}</span>` : '')
+       + `</button>`;
+}
+
+/** 헤더의 "저장한 곳" 링크. 개수는 assets/saved.js 가 채웁니다. */
+function savedLinkHTML(base, code, t) {
+  const d = localeDir(code), label = escapeHtml(t.savedNav);
+  return `<a class="saved-link" href="${base}${d}saved" data-tpl="${escapeHtml(t.savedCountTpl)}" aria-label="${label}" title="${label}">`
+       + `<span class="saved-star" aria-hidden="true">★</span>`
+       + `<span class="saved-text">${label}</span>`
+       + `<span class="saved-n" hidden>0</span></a>`;
+}
+
 function reactionsHTML(slug, t) {
   if (!site.supabase.url || !site.supabase.anonKey) return '';
   const buttons = site.reactions.map(r => {
@@ -622,7 +644,8 @@ const T = {
   region: readTemplate('region.html'),
   list:   readTemplate('list.html'),
   post:   readTemplate('post.html'),
-  page:   readTemplate('page.html')
+  page:   readTemplate('page.html'),
+  saved:  readTemplate('saved.html')
 };
 
 function renderPage(o) {
@@ -647,6 +670,7 @@ function renderPage(o) {
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
     homeHref:    base + localeDir(o.code) + '',
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
+    savedLink:   savedLinkHTML(base, o.code, I18N[o.code]),
     langs:       langSwitchHTML(base, o.code, o.availability || {}, I18N[o.code]),
     langSuggest: langSuggestHTML(base, o.code, o.availability || {}),
     hreflang:    hreflangHTML(o.availability || {}),
@@ -834,6 +858,7 @@ function build() {
         headExtra: `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`,
         body: fill(T.post, {
           regionSlug: m.region,
+          saveBtn: saveBtnHTML(p.slug, t, true),
           kicker: `${escapeHtml(t.category[m.cat] || m.cat)} · ${escapeHtml(rname)}`,
           regionHref: `${base}${d}region/${m.region}`,
           title: escapeHtml(m.title),
@@ -873,6 +898,27 @@ function build() {
       }));
       urls.push({ loc: out, pri: '0.3' });
     }
+
+    /* ---- 저장한 곳 (즐겨찾기) ----
+       무엇을 저장했는지는 방문자 기기(localStorage)에만 있습니다.
+       빌드 때는 알 수 없으니 모든 카드를 넣어두고
+       assets/saved.js 가 저장된 것만 보여줍니다.
+       개인 목록이라 검색엔진에는 올리지 않습니다 (noindex · sitemap 제외). */
+    const outSaved = d + 'saved.html';
+    writeFile(outSaved, renderPage({
+      out: outSaved, code, current: 'saved', noindex: true,
+      title: `${t.savedTitle} — ${siteName(code)}`,
+      description: t.savedDesc,
+      availability: availFor('saved.html', () => true),
+      body: fill(T.saved, {
+        title:    escapeHtml(t.savedTitle),
+        desc:     escapeHtml(t.savedDesc),
+        clear:    escapeHtml(t.savedClear),
+        clearAsk: escapeHtml(t.savedClearAsk),
+        empty:    escapeHtml(t.savedEmpty),
+        cards:    posts.map(p => cardHTML(p, baseOf(outSaved), code, t)).join('\n')
+      })
+    }));
 
     /* ---- 404 (언어별) ---- */
     const out404 = d + '404.html';

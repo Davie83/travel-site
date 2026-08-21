@@ -59,7 +59,16 @@ module.exports = {
 
     notFoundTitle: '길을 잘못 드셨네요',
     notFoundDesc:  '찾으시는 페이지가 없거나 주소가 바뀌었습니다.',
-    backHome:      '홈으로 돌아가기'
+    backHome:      '홈으로 돌아가기',
+    savedNav:      '저장한 곳',
+    savedTitle:    '저장한 곳',
+    savedDesc:     '가고 싶은 곳을 저장해 두세요. 이 기기에만 저장되고, 로그인은 필요 없습니다.',
+    savedEmpty:    '아직 저장한 곳이 없습니다. 글에서 ☆ 저장을 누르면 여기에 모입니다.',
+    savedClear:    '전체 비우기',
+    savedClearAsk: '저장한 곳을 전부 지울까요?',
+    saveAdd:       '저장',
+    saveDone:      '저장됨',
+    savedCountTpl: '저장한 곳 {n}곳'
   },
 
   en: {
@@ -113,7 +122,16 @@ module.exports = {
 
     notFoundTitle: 'This page took a wrong turn',
     notFoundDesc:  "That page doesn't exist, or its address changed.",
-    backHome:      'Back to home'
+    backHome:      'Back to home',
+    savedNav:      'Saved',
+    savedTitle:    'Saved places',
+    savedDesc:     'Keep a list of the places you want to visit. It is stored on this device only — no account needed.',
+    savedEmpty:    'Nothing saved yet. Tap ☆ Save on any post and it will show up here.',
+    savedClear:    'Clear all',
+    savedClearAsk: 'Remove everything from your saved list?',
+    saveAdd:       'Save',
+    saveDone:      'Saved',
+    savedCountTpl: '{n} saved'
   },
 
   ja: {
@@ -167,7 +185,16 @@ module.exports = {
 
     notFoundTitle: 'ページが見つかりません',
     notFoundDesc:  'お探しのページは存在しないか、アドレスが変更されました。',
-    backHome:      'ホームへ戻る'
+    backHome:      'ホームへ戻る',
+    savedNav:      '保存した場所',
+    savedTitle:    '保存した場所',
+    savedDesc:     '行きたい場所を保存しておけます。この端末にのみ保存され、ログインは不要です。',
+    savedEmpty:    'まだ保存がありません。記事の ☆保存 を押すとここに集まります。',
+    savedClear:    'すべて削除',
+    savedClearAsk: '保存した場所をすべて削除しますか？',
+    saveAdd:       '保存',
+    saveDone:      '保存済み',
+    savedCountTpl: '保存 {n}件'
   },
 
   zh: {
@@ -221,6 +248,15 @@ module.exports = {
 
     notFoundTitle: '没有找到这个页面',
     notFoundDesc:  '页面不存在，或者地址已经变了。',
-    backHome:      '返回首页'
+    backHome:      '返回首页',
+    savedNav:      '收藏',
+    savedTitle:    '收藏的地方',
+    savedDesc:     '把想去的地方存起来。只保存在这台设备上，不需要登录。',
+    savedEmpty:    '还没有收藏。在文章里点 ☆收藏，就会出现在这里。',
+    savedClear:    '全部清除',
+    savedClearAsk: '要清除所有收藏吗？',
+    saveAdd:       '收藏',
+    saveDone:      '已收藏',
+    savedCountTpl: '收藏 {n} 个'
   }
 };

@@ -64,8 +64,10 @@ Get-ChildItem $dir -Filter *.jpg | Sort-Object Name | ForEach-Object {
   $bmp.Dispose()
   $newBytes = $out.ToArray(); $out.Dispose()
 
-  # 줄어들지 않으면 원본을 유지합니다
-  if ($newBytes.Length -lt $sizeBefore) {
+  # 이미 최적화된 사진을 다시 저장하면 용량은 거의 그대로인데 화질만 깎입니다.
+  # 그래서 "의미 있게" 줄어들 때만(5% 이상 그리고 20KB 이상) 새로 씁니다.
+  $gain = $sizeBefore - $newBytes.Length
+  if ($gain -gt ($sizeBefore * 0.05) -and $gain -gt 20KB) {
     [System.IO.File]::WriteAllBytes($path, $newBytes)
     $sizeAfter = $newBytes.Length; $note = ''
   } else {

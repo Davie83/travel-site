@@ -68,7 +68,9 @@ module.exports = {
     savedClearAsk: '저장한 곳을 전부 지울까요?',
     saveAdd:       '저장',
     saveDone:      '저장됨',
-    savedCountTpl: '저장한 곳 {n}곳'
+    savedCountTpl: '저장한 곳 {n}곳',
+    savedSeeAll:   '전체 보기',
+    savedRemove:   '목록에서 지우기'
   },
 
   en: {
@@ -131,7 +133,9 @@ module.exports = {
     savedClearAsk: 'Remove everything from your saved list?',
     saveAdd:       'Save',
     saveDone:      'Saved',
-    savedCountTpl: '{n} saved'
+    savedCountTpl: '{n} saved',
+    savedSeeAll:   'See all',
+    savedRemove:   'Remove from list'
   },
 
   ja: {
@@ -194,7 +198,9 @@ module.exports = {
     savedClearAsk: '保存した場所をすべて削除しますか？',
     saveAdd:       '保存',
     saveDone:      '保存済み',
-    savedCountTpl: '保存 {n}件'
+    savedCountTpl: '保存 {n}件',
+    savedSeeAll:   'すべて見る',
+    savedRemove:   'リストから削除'
   },
 
   zh: {
@@ -257,6 +263,8 @@ module.exports = {
     savedClearAsk: '要清除所有收藏吗？',
     saveAdd:       '收藏',
     saveDone:      '已收藏',
-    savedCountTpl: '收藏 {n} 个'
+    savedCountTpl: '收藏 {n} 个',
+    savedSeeAll:   '查看全部',
+    savedRemove:   '从列表中移除'
   }
 };

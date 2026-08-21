@@ -581,6 +581,34 @@ function savedLinkHTML(base, code, t) {
        + `<span class="saved-n" hidden>0</span></a>`;
 }
 
+/** 페이지 최하단의 "저장한 곳" 줄.
+ *  방문자가 무엇을 담았는지는 빌드 때 알 수 없으므로 모든 글을 넣어두고
+ *  assets/saved.js 가 담은 것만 보여줍니다 (하나도 없으면 구역 자체가 숨습니다).
+ *  카드가 아니라 한 줄 목록이라 글이 늘어나도 페이지가 무거워지지 않습니다. */
+function savedStripHTML(posts, base, code, t) {
+  const d = localeDir(code);
+  const items = posts.map(p => {
+    const m = p.meta;
+    return `        <li data-slug="${escapeHtml(p.slug)}" hidden style="--r:var(--region-${escapeHtml(m.region)})">` +
+           `<a href="${base}${d}posts/${p.slug}"><span class="dot"></span>` +
+           `<span class="st-t">${escapeHtml(m.title)}</span>` +
+           `<span class="st-r">${escapeHtml(regionName(m.region, code))}</span></a>` +
+           `<button class="st-x" type="button" data-save="${escapeHtml(p.slug)}" data-add="${escapeHtml(t.saveAdd)}" data-done="${escapeHtml(t.saveDone)}" aria-pressed="true" aria-label="${escapeHtml(t.savedRemove)}" title="${escapeHtml(t.savedRemove)}">×</button></li>`;
+  }).join('\n');
+
+  return `  <section class="saved-strip" id="saved-strip" hidden aria-labelledby="saved-strip-h">
+    <div class="wrap">
+      <div class="saved-strip-head">
+        <h2 id="saved-strip-h"><span class="saved-strip-star" aria-hidden="true">★</span>${escapeHtml(t.savedTitle)} <span class="saved-strip-n"></span></h2>
+        <a class="saved-strip-all" href="${base}${d}saved">${escapeHtml(t.savedSeeAll)} →</a>
+      </div>
+      <ul class="saved-strip-list">
+${items}
+      </ul>
+    </div>
+  </section>`;
+}
+
 function reactionsHTML(slug, t) {
   if (!site.supabase.url || !site.supabase.anonKey) return '';
   const buttons = site.reactions.map(r => {
@@ -648,6 +676,10 @@ const T = {
   saved:  readTemplate('saved.html')
 };
 
+/* 최하단 "저장한 곳" 목록에 쓸, 지금 만들고 있는 언어의 글 목록.
+   renderPage 호출부가 7군데라 매번 넘기지 않고 언어 루프에서 한 번 채웁니다. */
+let CURRENT_POSTS = [];
+
 function renderPage(o) {
   const base = baseOf(o.out);
   const loc  = site.locales.find(l => l.code === o.code);
@@ -671,6 +703,7 @@ function renderPage(o) {
     homeHref:    base + localeDir(o.code) + '',
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
     savedLink:   savedLinkHTML(base, o.code, I18N[o.code]),
+    savedStrip:  o.noStrip ? '' : savedStripHTML(CURRENT_POSTS, base, o.code, I18N[o.code]),
     langs:       langSwitchHTML(base, o.code, o.availability || {}, I18N[o.code]),
     langSuggest: langSuggestHTML(base, o.code, o.availability || {}),
     hreflang:    hreflangHTML(o.availability || {}),
@@ -726,6 +759,7 @@ function build() {
   for (const l of LOCALES) {
     const code = l.code, d = l.dir, t = I18N[code];
     const posts = byLocale[code].posts;
+    CURRENT_POSTS = posts;
     const pages = byLocale[code].pages;
 
     const hasPost = (slug, c) => byLocale[c].posts.some(p => p.slug === slug);
@@ -906,7 +940,7 @@ function build() {
        개인 목록이라 검색엔진에는 올리지 않습니다 (noindex · sitemap 제외). */
     const outSaved = d + 'saved.html';
     writeFile(outSaved, renderPage({
-      out: outSaved, code, current: 'saved', noindex: true,
+      out: outSaved, code, current: 'saved', noindex: true, noStrip: true,
       title: `${t.savedTitle} — ${siteName(code)}`,
       description: t.savedDesc,
       availability: availFor('saved.html', () => true),

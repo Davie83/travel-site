@@ -24,6 +24,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 
 const ROOT      = __dirname;
 const CONTENT   = path.join(ROOT, 'content');
@@ -36,6 +37,22 @@ const I18N = require('./content/i18n.js');
 
 const SITE_URL   = site.url.replace(/\/+$/, '');
 const DEMO_POSTS = new Set(site.demoPosts || []);
+
+/* CSS·JS 파일이 바뀌면 주소도 바뀌게 하는 짧은 해시.
+   /assets/* 는 브라우저가 길게 캐시하므로, 주소가 그대로면
+   글을 새로 올려도 방문자는 옛 CSS·옛 JS 를 계속 씁니다.
+   (실제로 저장 기능을 올렸을 때 옛 CSS 가 걸려 스타일이 빠졌습니다) */
+function assetVersion() {
+  const files = ['assets/style.css', 'assets/filter.js', 'assets/reactions.js', 'assets/saved.js'];
+  const h = crypto.createHash('sha1');
+  for (const f of files) {
+    const p = path.join(STATIC, f);
+    if (fs.existsSync(p)) h.update(fs.readFileSync(p));
+  }
+  return h.digest('hex').slice(0, 8);
+}
+const ASSET_V = assetVersion();
+
 const LOCALES    = site.locales.filter(l => l.enabled);
 
 /* ==========================================================================
@@ -703,6 +720,7 @@ function renderPage(o) {
     homeHref:    base + localeDir(o.code) + '',
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
     savedLink:   savedLinkHTML(base, o.code, I18N[o.code]),
+    v:           ASSET_V,
     savedStrip:  o.noStrip ? '' : savedStripHTML(CURRENT_POSTS, base, o.code, I18N[o.code]),
     langs:       langSwitchHTML(base, o.code, o.availability || {}, I18N[o.code]),
     langSuggest: langSuggestHTML(base, o.code, o.availability || {}),

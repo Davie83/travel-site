@@ -109,12 +109,35 @@
     strip.hidden = found === 0;    // 담은 게 없으면 구역 자체를 감춥니다
   }
 
-  /* ---- 3-2. /saved 페이지 ---- */
+  /* ---- 3-2. /saved 페이지 ----
+     저장한 것은 위 칸에, 나머지는 아래 "아직 저장하지 않은 글" 칸으로 옮깁니다.
+     저장 목록만 보여주면 그 페이지에서 다른 글로 갈 수가 없어 막다른 길이 됩니다. */
   function paintSavedPage(list) {
     var page = document.getElementById('saved-page');
     if (!page) return;
 
-    var found = showOnlySaved(page.querySelector('#saved-grid'), '.card[data-slug]', list);
+    var mine = page.querySelector('#saved-grid');
+    var rest = page.querySelector('#saved-rest-grid');
+    var cards = page.querySelectorAll('.card[data-slug]');   // 두 칸에 흩어져 있을 수 있습니다
+    var keep = {}, others = [], found = 0;
+
+    for (var i = 0; i < cards.length; i++) {
+      cards[i].hidden = false;             // 이 페이지에서는 어떤 카드도 감추지 않습니다
+      var slug = cards[i].getAttribute('data-slug');
+      if (list.indexOf(slug) !== -1) { keep[slug] = cards[i]; found++; }
+      else others.push(cards[i]);
+    }
+
+    // 저장한 곳 — 최근에 저장한 것이 위로
+    if (mine) {
+      for (var j = 0; j < list.length; j++) {
+        if (keep[list[j]]) mine.appendChild(keep[list[j]]);
+      }
+    }
+    // 나머지 — 원래 순서(최신순) 그대로
+    if (rest) {
+      for (var k = 0; k < others.length; k++) rest.appendChild(others[k]);
+    }
 
     var empty = page.querySelector('.saved-empty');
     if (empty) empty.hidden = found > 0;
@@ -124,6 +147,9 @@
 
     var count = page.querySelector('.saved-count');
     if (count) count.textContent = found ? tpl(found) : '';
+
+    var restBox = page.querySelector('#saved-rest');
+    if (restBox) restBox.hidden = others.length === 0;
   }
 
   function paint() {

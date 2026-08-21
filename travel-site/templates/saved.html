@@ -1,7 +1,8 @@
   <!-- 저장한 곳 (즐겨찾기)
        빌드 시점에는 방문자가 무엇을 저장했는지 알 수 없습니다.
-       그래서 모든 글 카드를 넣어두고, assets/saved.js 가
-       그 기기에 저장된 것만 보여주고 나머지는 숨깁니다. -->
+       그래서 모든 글 카드를 위 칸에 넣어두고, assets/saved.js 가
+       저장한 것만 위에 남기고 나머지는 아래 칸으로 옮깁니다.
+       (카드를 두 번 넣지 않으므로 페이지가 무거워지지 않습니다) -->
   <section class="hero">
     <div class="wrap">
       <h1>{{title}}</h1>
@@ -19,5 +20,11 @@
 {{cards}}
       </div>
       <p class="empty saved-empty">{{empty}}</p>
+
+      <!-- 저장하지 않은 글. 저장 목록만 보고 막히지 않도록 계속 둘러볼 수 있게 둡니다 -->
+      <div id="saved-rest" hidden>
+        <div class="section-head"><h2>{{others}}</h2></div>
+        <div class="grid" id="saved-rest-grid"></div>
+      </div>
     </section>
   </div>

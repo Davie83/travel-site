@@ -70,7 +70,8 @@ module.exports = {
     saveDone:      '저장됨',
     savedCountTpl: '저장한 곳 {n}곳',
     savedSeeAll:   '전체 보기',
-    savedRemove:   '목록에서 지우기'
+    savedRemove:   '목록에서 지우기',
+    savedOthers:   '아직 저장하지 않은 글'
   },
 
   en: {
@@ -135,7 +136,8 @@ module.exports = {
     saveDone:      'Saved',
     savedCountTpl: '{n} saved',
     savedSeeAll:   'See all',
-    savedRemove:   'Remove from list'
+    savedRemove:   'Remove from list',
+    savedOthers:   'Not saved yet'
   },
 
   ja: {
@@ -200,7 +202,8 @@ module.exports = {
     saveDone:      '保存済み',
     savedCountTpl: '保存 {n}件',
     savedSeeAll:   'すべて見る',
-    savedRemove:   'リストから削除'
+    savedRemove:   'リストから削除',
+    savedOthers:   'まだ保存していない記事'
   },
 
   zh: {
@@ -265,6 +268,7 @@ module.exports = {
     saveDone:      '已收藏',
     savedCountTpl: '收藏 {n} 个',
     savedSeeAll:   '查看全部',
-    savedRemove:   '从列表中移除'
+    savedRemove:   '从列表中移除',
+    savedOthers:   '还没有收藏的文章'
   }
 };

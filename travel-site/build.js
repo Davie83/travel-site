@@ -968,6 +968,7 @@ function build() {
         clear:    escapeHtml(t.savedClear),
         clearAsk: escapeHtml(t.savedClearAsk),
         empty:    escapeHtml(t.savedEmpty),
+        others:   escapeHtml(t.savedOthers),
         cards:    posts.map(p => cardHTML(p, baseOf(outSaved), code, t)).join('\n')
       })
     }));

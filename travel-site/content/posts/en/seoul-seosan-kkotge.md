@@ -2,6 +2,7 @@
 title: Seosan Kkotge — Raw Soy-Marinated Crab, Booking Required
 cat: food
 region: seoul
+area: mapo
 date: 2026-08-21
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg

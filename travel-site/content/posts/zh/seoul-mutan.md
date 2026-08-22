@@ -2,6 +2,7 @@
 title: 无炭（무탄）汝矣岛店 — 松露牛排炸酱面，一份两个人吃得饱
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg

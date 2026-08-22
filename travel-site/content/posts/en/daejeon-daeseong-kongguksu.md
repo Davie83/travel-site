@@ -2,6 +2,7 @@
 title: Daeseong Kongguksu, Daejeon — A Thin Broth, and Why the Kimchi Matters
 cat: food
 region: chungcheong
+area: daejeon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg

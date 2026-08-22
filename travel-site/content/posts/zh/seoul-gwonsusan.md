@@ -2,6 +2,7 @@
 title: 权水山 — 汝矣岛的午餐，炸鱼排是免费小菜
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg

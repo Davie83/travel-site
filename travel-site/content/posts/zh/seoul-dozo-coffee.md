@@ -2,6 +2,7 @@
 title: DOZO COFFEE 敦义门店 — 用木托盘端上来的手冲咖啡
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg

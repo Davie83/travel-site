@@ -2,6 +2,7 @@
 title: 송죽장 — 영등포역, 땀 쏟게 만드는 짬뽕과 군만두
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg

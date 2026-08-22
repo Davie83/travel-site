@@ -2,6 +2,7 @@
 title: Jeju Folk Five-Day Market — It Only Opens on the 2nd and 7th
 cat: travel
 region: jeju
+area: jejusi
 date: 2026-08-17
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg

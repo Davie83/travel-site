@@ -2,6 +2,7 @@
 title: 부산 금수복국 동래점 — 복국이 아침 8시에 여는 이유
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg

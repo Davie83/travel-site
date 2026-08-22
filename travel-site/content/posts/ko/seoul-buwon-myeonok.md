@@ -2,6 +2,7 @@
 title: 부원면옥 — 남대문시장 2층에서 먹는 옛날 평양냉면
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg

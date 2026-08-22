@@ -641,3 +641,11 @@ a.more{color:var(--ink);font-weight:600;}
   .saved-strip{padding:22px 0 26px;margin-top:34px;}
   .saved-strip-list .st-r{display:none;}   /* 좁으면 제목에 자리를 줍니다 */
 }
+
+/* ---- 동네 칩 (지역 페이지) --------------------------------------------
+   서울처럼 넓은 지역을 여의도·명동 같은 동네로 한 번 더 거릅니다.
+   버튼에 .chip 이 함께 붙어 있어 모양은 지역 칩과 같습니다.
+   글이 있는 동네가 1곳뿐이면 build.js 가 아예 만들지 않습니다. */
+.achips-wrap{display:flex;flex-wrap:wrap;gap:8px;padding:18px 20px 0;}
+.achips-wrap:empty{display:none;}
+.achip .n{font-family:var(--en);font-size:11.5px;opacity:.6;margin-left:5px;}

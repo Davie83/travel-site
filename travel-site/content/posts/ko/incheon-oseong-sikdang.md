@@ -2,6 +2,7 @@
 title: 오성식당 — 인천 연안부두 밴댕이회무침, 밥에 비벼야 완성됩니다
 cat: food
 region: gyeonggi
+area: incheon
 date: 2026-08-22
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg

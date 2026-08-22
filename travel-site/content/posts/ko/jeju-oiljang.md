@@ -2,6 +2,7 @@
 title: 제주민속오일시장 — 2일·7일에만 열립니다, 날짜 먼저 확인하세요
 cat: travel
 region: jeju
+area: jejusi
 date: 2026-08-17
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg

@@ -2,6 +2,7 @@
 title: 罗州牛肉汤 白色房子 — 一座城的名字变成了一道菜
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg

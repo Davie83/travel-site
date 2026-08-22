@@ -2,6 +2,7 @@
 title: 羅州コムタン ハヤンチプ — 街の名がそのまま料理名になった牛スープ
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg

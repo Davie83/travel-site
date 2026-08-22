@@ -2,6 +2,7 @@
 title: 珍珍饺子汤 — 手工饺子配三种汤，红的那碗其实不辣
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-22
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg

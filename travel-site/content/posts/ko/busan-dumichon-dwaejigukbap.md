@@ -2,6 +2,7 @@
 title: 두미촌돼지국밥 — 동래에서 국물 깔끔한 한 그릇, 자정까지 합니다
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-22
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg

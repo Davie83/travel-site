@@ -2,6 +2,7 @@
 title: ソウル トンベク洋菓店 — 益善洞の韓屋スフレ、待ち時間と価格を知って行く店
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-17
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg

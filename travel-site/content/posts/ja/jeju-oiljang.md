@@ -2,6 +2,7 @@
 title: 済州民俗五日市場 — 2日と7日にしか開きません
 cat: travel
 region: jeju
+area: jejusi
 date: 2026-08-17
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg

@@ -2,6 +2,7 @@
 title: 瑞山花蟹 — 生腌酱油蟹套餐，需要预约
 cat: food
 region: seoul
+area: mapo
 date: 2026-08-21
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg

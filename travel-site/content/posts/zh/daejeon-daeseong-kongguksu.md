@@ -2,6 +2,7 @@
 title: 大田 大成豆汁面 — 汤偏稀，靠泡菜来定味
 cat: food
 region: chungcheong
+area: daejeon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg

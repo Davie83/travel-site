@@ -54,21 +54,49 @@ module.exports = {
      붙어 있는 지역이 같은 색으로 보일 수 있습니다.                */
   regions: [
     { slug: 'seoul',       color: '#312a7e', colorDark: '#827adc',   // 남색
-      names: { ko: '서울',      en: 'Seoul',              ja: 'ソウル',   zh: '首尔' } },
+      names: { ko: '서울',      en: 'Seoul',              ja: 'ソウル',   zh: '首尔' },
+      areas: [
+        { slug: 'yeouido',      names: { ko: '여의도',     en: 'Yeouido',                ja: '汝矣島',        zh: '汝矣岛' } },
+        { slug: 'myeongdong',   names: { ko: '명동·남대문', en: 'Myeongdong & Namdaemun', ja: '明洞・南大門',  zh: '明洞·南大门' } },
+        { slug: 'jongno',       names: { ko: '종로',       en: 'Jongno',                 ja: '鍾路',          zh: '钟路' } },
+        { slug: 'yeongdeungpo', names: { ko: '영등포',     en: 'Yeongdeungpo',           ja: '永登浦',        zh: '永登浦' } },
+        { slug: 'mapo',         names: { ko: '마포',       en: 'Mapo',                   ja: '麻浦',          zh: '麻浦' } }
+      ] },
     { slug: 'gyeonggi',    color: '#884096', colorDark: '#d5a4df',   // 보라
-      names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' } },
+      names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' },
+      areas: [
+        { slug: 'incheon', names: { ko: '인천', en: 'Incheon', ja: '仁川', zh: '仁川' } }
+      ] },
     { slug: 'gangwon',     color: '#2a6984', colorDark: '#7cc1de',   // 청록
-      names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' } },
+      names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' },
+      areas: [
+        { slug: 'cheorwon', names: { ko: '철원', en: 'Cheorwon', ja: '鉄原', zh: '铁原' } }
+      ] },
     { slug: 'chungcheong', color: '#498235', colorDark: '#9fd98c',   // 초록
-      names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' } },
+      names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' },
+      areas: [
+        { slug: 'daejeon', names: { ko: '대전', en: 'Daejeon', ja: '大田', zh: '大田' } }
+      ] },
     { slug: 'jeolla',      color: '#998329', colorDark: '#e7d488',   // 황금
-      names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全罗' } },
+      names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全罗' },
+      areas: [
+        { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' } },
+        { slug: 'jeonnam', names: { ko: '전남', en: 'Jeonnam', ja: '全南', zh: '全南' } }
+      ] },
     { slug: 'gyeongsang',  color: '#993633', colorDark: '#e39996',   // 벽돌
-      names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '庆尚' } },
+      names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '庆尚' },
+      areas: [] },
     { slug: 'busan',       color: '#257e77', colorDark: '#72dfd6',   // 바다
-      names: { ko: '부산',      en: 'Busan',              ja: '釜山',     zh: '釜山' } },
+      names: { ko: '부산',      en: 'Busan',              ja: '釜山',     zh: '釜山' },
+      areas: [
+        { slug: 'dongnae', names: { ko: '동래', en: 'Dongnae', ja: '東莱', zh: '东莱' } }
+      ] },
     { slug: 'jeju',        color: '#389463', colorDark: '#9ae0ba',   // 숲
-      names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '济州' } }
+      names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '济州' },
+      areas: [
+        { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '济州市' } },
+        { slug: 'seogwipo', names: { ko: '서귀포',  en: 'Seogwipo',  ja: '西帰浦',  zh: '西归浦' } }
+      ] }
   ],
 
   /* 예전 글이 쓰던 한글 지역명 → 새 slug 로 자동 변환.

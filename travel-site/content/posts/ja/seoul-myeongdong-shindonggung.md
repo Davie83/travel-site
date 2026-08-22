@@ -2,6 +2,7 @@
 title: 明洞の24時間ポークリブ炭火焼き — 2人なら「小」で十分
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-17
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg

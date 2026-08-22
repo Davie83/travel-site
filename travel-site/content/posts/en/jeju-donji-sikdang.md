@@ -2,6 +2,7 @@
 title: Donji Sikdang, Jeju — The Squid Rice Bowl Is Summer-Only
 cat: food
 region: jeju
+area: seogwipo
 date: 2026-08-17
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg

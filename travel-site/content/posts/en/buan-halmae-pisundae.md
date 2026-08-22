@@ -2,6 +2,7 @@
 title: Halmae Pisundae, Buan — Blood Sausage That Looks Scarier Than It Tastes
 cat: food
 region: jeolla
+area: jeonbuk
 date: 2026-08-17
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg

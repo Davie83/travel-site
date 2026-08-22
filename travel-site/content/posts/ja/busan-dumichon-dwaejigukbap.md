@@ -2,6 +2,7 @@
 title: トゥミチョン・テジクッパ — 釜山の豚スープ。澄んだ味で、深夜0時まで
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-22
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg

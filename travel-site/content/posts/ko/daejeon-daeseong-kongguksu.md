@@ -2,6 +2,7 @@
 title: 대전 대성콩국수 — 국물은 연한 쪽, 간은 김치로 맞추는 집
 cat: food
 region: chungcheong
+area: daejeon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg

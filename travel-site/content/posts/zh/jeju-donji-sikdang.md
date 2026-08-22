@@ -2,6 +2,7 @@
 title: 济州 敦地食堂 — 鱿鱼刺身盖饭只有夏天才有
 cat: food
 region: jeju
+area: seogwipo
 date: 2026-08-17
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg

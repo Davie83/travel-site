@@ -2,6 +2,7 @@
 title: 나주곰탕 하얀집 — 깔끔한 국물, 수육이 부드럽습니다
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg

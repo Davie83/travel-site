@@ -2,6 +2,7 @@
 title: 釜山 锦绣河豚汤 东莱店 — 河豚汤为什么早上8点就开门
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg

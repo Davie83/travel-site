@@ -2,6 +2,7 @@
 title: 鉄原マッククス — 主張しない蕎麦、それがいい
 cat: food
 region: gangwon
+area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg

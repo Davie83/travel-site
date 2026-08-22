@@ -2,6 +2,7 @@
 title: Pho Ong Nam Dangsan — Vietnamese Pho, Then a Walk Along the Han River
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg

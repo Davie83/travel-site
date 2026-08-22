@@ -2,6 +2,7 @@
 title: 五星食堂 — 仁川沿岸码头的生拌斑鰶，最后要拌进饭里
 cat: food
 region: gyeonggi
+area: incheon
 date: 2026-08-22
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg

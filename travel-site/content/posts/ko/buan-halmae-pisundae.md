@@ -2,6 +2,7 @@
 title: 부안 할매피순대 — 비주얼에 겁먹지 마세요, 냄새는 거의 없습니다
 cat: food
 region: jeolla
+area: jeonbuk
 date: 2026-08-17
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg

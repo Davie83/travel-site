@@ -2,6 +2,7 @@
 title: Dozo Coffee Donuimun — Filter Coffee Served on a Wooden Tray
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg

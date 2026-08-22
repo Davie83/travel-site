@@ -2,6 +2,7 @@
 title: 무탄 여의도점 — 스테이크 트러플 자장면, 둘이 한 그릇으로 충분합니다
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg

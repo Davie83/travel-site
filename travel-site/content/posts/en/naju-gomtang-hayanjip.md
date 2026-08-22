@@ -2,6 +2,7 @@
 title: Naju Gomtang Hayanjip — The Beef Soup a Whole City Is Named For
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg

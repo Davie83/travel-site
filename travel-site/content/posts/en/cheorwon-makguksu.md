@@ -2,6 +2,7 @@
 title: Cheorwon Makguksu — Buckwheat Noodles That Don't Shout
 cat: food
 region: gangwon
+area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg

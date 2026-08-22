@@ -2,6 +2,7 @@
 title: Oseong Sikdang — Incheon's Raw Shad Salad, Built to Be Mixed Into Rice
 cat: food
 region: gyeonggi
+area: incheon
 date: 2026-08-22
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg

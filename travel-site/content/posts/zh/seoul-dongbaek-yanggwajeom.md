@@ -2,6 +2,7 @@
 title: 首尔 冬柏洋果店 — 益善洞韩屋舒芙蕾，先搞清楚你花的钱买的是什么
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-17
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg

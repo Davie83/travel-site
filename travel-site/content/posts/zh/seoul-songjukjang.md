@@ -2,6 +2,7 @@
 title: 松竹庄 — 永登浦，辣到出汗的炒码面和煎饺
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg

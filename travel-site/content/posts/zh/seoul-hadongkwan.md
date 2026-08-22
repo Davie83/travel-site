@@ -2,6 +2,7 @@
 title: 河东馆（하동관）— 清汤牛肉汤，喝到一半加萝卜泡菜汁，一碗两种味道
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg

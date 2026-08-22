@@ -2,6 +2,7 @@
 title: 포옹남 당산점 — 쌀국수 먹고 한강 산책까지
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg

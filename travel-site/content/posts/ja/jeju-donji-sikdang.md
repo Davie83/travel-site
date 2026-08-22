@@ -2,6 +2,7 @@
 title: 済州 トンジ食堂 — ハンチ（イカ）の刺身丼は夏だけ
 cat: food
 region: jeju
+area: seogwipo
 date: 2026-08-17
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg

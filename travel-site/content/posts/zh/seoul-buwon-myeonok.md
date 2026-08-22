@@ -2,6 +2,7 @@
 title: 富元面屋 — 南大门市场二楼的老派平壤冷面
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg

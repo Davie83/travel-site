@@ -19,23 +19,25 @@
     const input    = document.querySelector(`input[data-target="${grid.id}"]`);
     const chipBox  = document.querySelector(`.chips[data-target="${grid.id}"]`);
     const tabBox   = document.querySelector(`.rtabs[data-target="${grid.id}"]`);
+    const areaBox  = document.querySelector(`.achips-wrap[data-target="${grid.id}"]`);
 
-    if (!input && !chipBox && !tabBox) return;   // 관련 글 목록 등은 그대로 둡니다
+    if (!input && !chipBox && !tabBox && !areaBox) return;   // 관련 글 목록 등은 그대로 둡니다
 
     // 검색어 · 지역 · 카테고리를 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
-    const state = { keyword: '', region: 'all', cat: 'all' };
+    const state = { keyword: '', region: 'all', area: 'all', cat: 'all' };
     const hasLimit = grid.classList.contains('limit-4');
 
     function apply() {
       const kw = state.keyword.trim().toLowerCase();
-      const filtering = !!kw || state.region !== 'all' || state.cat !== 'all';
+      const filtering = !!kw || state.region !== 'all' || state.area !== 'all' || state.cat !== 'all';
       let shown = 0;
 
       cards.forEach(card => {
         const okRegion = state.region === 'all' || card.dataset.region === state.region;
+        const okArea   = state.area   === 'all' || card.dataset.area   === state.area;
         const okCat    = state.cat    === 'all' || card.dataset.cat    === state.cat;
         const okKw     = !kw || (card.dataset.search || '').includes(kw);
-        const visible  = okRegion && okCat && okKw;
+        const visible  = okRegion && okArea && okCat && okKw;
         card.hidden = !visible;
         if (visible) shown++;
       });
@@ -56,6 +58,17 @@
         chipBox.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
         btn.classList.add('active');
         state.region = btn.dataset.region;
+        apply();
+      });
+    }
+
+    if (areaBox) {
+      areaBox.addEventListener('click', e => {
+        const btn = e.target.closest('.achip');
+        if (!btn) return;
+        areaBox.querySelectorAll('.achip').forEach(c => c.classList.remove('active'));
+        btn.classList.add('active');
+        state.area = btn.dataset.area;
         apply();
       });
     }

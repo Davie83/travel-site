@@ -2,6 +2,7 @@
 title: 明洞24小时炭烤猪脊骨 — 两个人点小份就够
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-17
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg

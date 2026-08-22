@@ -2,6 +2,7 @@
 title: Dumichon Dwaeji-gukbap — Busan's Pork Soup, Clean-Tasting and Open Till Midnight
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-22
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg

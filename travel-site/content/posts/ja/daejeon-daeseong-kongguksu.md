@@ -2,6 +2,7 @@
 title: 大田 テソンコングクス — スープは薄めの部類、味はキムチで決まる
 cat: food
 region: chungcheong
+area: daejeon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg

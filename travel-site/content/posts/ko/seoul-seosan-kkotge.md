@@ -2,6 +2,7 @@
 title: 서산꽃게 — 예약제 간장게장 정식, 반찬이 진짜 강점입니다
 cat: food
 region: seoul
+area: mapo
 date: 2026-08-21
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg

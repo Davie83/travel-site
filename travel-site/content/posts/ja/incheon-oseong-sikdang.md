@@ -2,6 +2,7 @@
 title: オソン食堂 — 仁川・沿岸埠頭のバンデンイ刺身和え、最後はご飯に混ぜます
 cat: food
 region: gyeonggi
+area: incheon
 date: 2026-08-22
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg

@@ -2,6 +2,7 @@
 title: 斗美村猪肉汤饭 — 釜山的招牌一碗，汤清不腥，开到半夜12点
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-22
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg

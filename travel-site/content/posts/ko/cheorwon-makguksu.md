@@ -2,6 +2,7 @@
 title: 철원막국수 — 비빔메밀면, 간이 세지 않고 살짝 매콤합니다
 cat: food
 region: gangwon
+area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg

@@ -2,6 +2,7 @@
 title: 釜山 クムスボックク 東莱店 — フグのスープが朝8時に開く理由
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg

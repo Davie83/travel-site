@@ -2,6 +2,7 @@
 title: ハドングァン（河東館）— 澄んだコムタンに、途中でカクテキの汁を入れて二度楽しむ
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg

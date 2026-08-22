@@ -2,6 +2,7 @@
 title: 扶安 ハルメピスンデ — 見た目ほど臭みはありません
 cat: food
 region: jeolla
+area: jeonbuk
 date: 2026-08-17
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg

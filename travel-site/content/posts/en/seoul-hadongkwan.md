@@ -2,6 +2,7 @@
 title: Hadongkwan — Clear Beef Soup, Then Add the Kimchi Brine for a Second Flavour
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg

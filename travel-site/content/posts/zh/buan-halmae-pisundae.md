@@ -2,6 +2,7 @@
 title: 扶安 奶奶血肠 — 卖相吓人，其实几乎没有腥味
 cat: food
 region: jeolla
+area: jeonbuk
 date: 2026-08-17
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg

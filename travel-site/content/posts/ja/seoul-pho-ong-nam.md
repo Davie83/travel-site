@@ -2,6 +2,7 @@
 title: フォーオンナム 堂山店 — フォーを食べて漢江を散歩する
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg

@@ -2,6 +2,7 @@
 title: Buwon Myeonok — Old-School Pyongyang Naengmyeon Above Namdaemun Market
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg

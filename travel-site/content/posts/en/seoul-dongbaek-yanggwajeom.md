@@ -2,6 +2,7 @@
 title: Dongbaek Yanggwajeom, Seoul — Hanok Soufflé Pancakes, and What You're Actually Paying For
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-17
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg

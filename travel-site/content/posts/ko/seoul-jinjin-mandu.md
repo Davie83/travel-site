@@ -2,6 +2,7 @@
 title: 진진만두국 — 얼큰만두국은 보기보다 안 맵습니다, 국물 고르는 법
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-22
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg

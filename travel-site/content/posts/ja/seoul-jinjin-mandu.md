@@ -2,6 +2,7 @@
 title: チンジンマンドゥグク — 手作り餃子を3種のスープで。赤いほうは見た目ほど辛くない
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-22
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg

@@ -2,6 +2,7 @@
 title: 도조커피 돈의문 — 트레이에 실려 나오는 드립커피 한 잔
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg

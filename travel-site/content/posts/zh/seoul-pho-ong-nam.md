@@ -2,6 +2,7 @@
 title: Pho Ong Nam 堂山店 — 吃完河粉，顺路去汉江边散步
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg

@@ -2,6 +2,7 @@
 title: Jinjin Mandu-guk — One Dumpling, Three Broths, and the Red One Isn't Hot
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-22
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg

@@ -2,6 +2,7 @@
 title: プウォンミョノク — 南大門市場2階で食べる昔ながらの平壌冷麺
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg

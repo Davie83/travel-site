@@ -2,6 +2,7 @@
 title: 無炭（ムタン）汝矣島店 — トリュフとステーキのジャージャー麺、一皿で二人分
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg

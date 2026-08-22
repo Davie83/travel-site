@@ -2,6 +2,7 @@
 title: 서울 동백양과점 — 익선동 한옥 수플레, 기다림과 가격을 알고 가세요
 cat: food
 region: seoul
+area: jongno
 date: 2026-08-17
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg

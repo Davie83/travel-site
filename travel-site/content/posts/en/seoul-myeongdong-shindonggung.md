@@ -2,6 +2,7 @@
 title: Myeongdong's 24-Hour Grilled Pork Bones — What to Order for Two
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-17
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg

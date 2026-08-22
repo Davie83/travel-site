@@ -2,6 +2,7 @@
 title: 铁原荞麦冷面 — 不吵不闹的荞麦，好在这里
 cat: food
 region: gangwon
+area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg

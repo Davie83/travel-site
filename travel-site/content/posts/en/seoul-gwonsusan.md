@@ -2,6 +2,7 @@
 title: Gwonsusan — Yeouido's Best-Value Lunch, With Fried Fish as a Side Dish
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg

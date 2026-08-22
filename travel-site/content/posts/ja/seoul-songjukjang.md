@@ -2,6 +2,7 @@
 title: 松竹荘（ソンジュクチャン） — 永登浦、汗が止まらないチャンポンと焼き餃子
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg

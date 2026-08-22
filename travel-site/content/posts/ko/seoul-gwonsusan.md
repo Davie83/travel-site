@@ -2,6 +2,7 @@
 title: 권수산 — 여의도 점심 회덮밥, 생선까스가 반찬으로 나옵니다
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg

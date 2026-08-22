@@ -2,6 +2,7 @@
 title: 제주 돈지식당 — 한치회덮밥은 여름 한정, 상추에 싸 먹는 게 정답
 cat: food
 region: jeju
+area: seogwipo
 date: 2026-08-17
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg

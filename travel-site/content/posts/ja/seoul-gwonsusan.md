@@ -2,6 +2,7 @@
 title: クォンスサン — 汝矣島の昼、白身魚フライがおかずで出てくる海鮮丼
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg

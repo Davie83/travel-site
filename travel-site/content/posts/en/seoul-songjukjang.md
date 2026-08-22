@@ -2,6 +2,7 @@
 title: Songjukjang — The Jjamppong Near Yeongdeungpo That Makes You Sweat
 cat: food
 region: seoul
+area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg

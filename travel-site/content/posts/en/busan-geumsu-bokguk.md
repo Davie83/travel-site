@@ -2,6 +2,7 @@
 title: Geumsu Bokguk, Busan — Why Pufferfish Soup Opens at 8 in the Morning
 cat: food
 region: busan
+area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg

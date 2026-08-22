@@ -2,6 +2,7 @@
 title: 명동 신동궁 뼈숯불구이 — 24시간 영업, 소 사이즈로 둘이 충분합니다
 cat: food
 region: seoul
+area: myeongdong
 date: 2026-08-17
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg

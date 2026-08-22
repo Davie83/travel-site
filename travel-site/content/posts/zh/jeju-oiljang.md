@@ -2,6 +2,7 @@
 title: 济州民俗五日市场 — 只在逢2、逢7的日子开
 cat: travel
 region: jeju
+area: jejusi
 date: 2026-08-17
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg

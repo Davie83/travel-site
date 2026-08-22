@@ -2,6 +2,7 @@
 title: 하동관 — 맑은 곰탕에 깍두기 국물을 넣어 두 가지 맛으로
 cat: food
 region: seoul
+area: yeouido
 date: 2026-08-21
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg

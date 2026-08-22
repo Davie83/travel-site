@@ -2,6 +2,7 @@
 title: ソサンコッケ — 生のカンジャンケジャン定食、予約制です
 cat: food
 region: seoul
+area: mapo
 date: 2026-08-21
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg

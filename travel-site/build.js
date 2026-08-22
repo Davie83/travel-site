@@ -102,6 +102,15 @@ const regionName = (slug, code) => {
   return r ? (r.names[code] || r.names.en || r.slug) : slug;
 };
 
+/* 동네(구역) — 지역 안에서 한 번 더 나눈 단위입니다.
+   서울처럼 범위가 넓은 곳은 "여의도 · 명동" 처럼 갈라야 찾기 쉽습니다.
+   site.config.js 의 각 region 안 areas 에 정의합니다. */
+const areasOf = slug => (regionOf(slug) || {}).areas || [];
+const areaName = (regionSlug, areaSlug, code) => {
+  const a = areasOf(regionSlug).find(x => x.slug === areaSlug);
+  return a ? (a.names[code] || a.names.en || a.slug) : '';
+};
+
 /* ==========================================================================
    2. 프론트매터 파서
    ========================================================================== */
@@ -534,9 +543,10 @@ function cardHTML(post, base, code, t) {
     ? `<img src="${base}${m.thumb}" alt="${escapeHtml(m.title)}" loading="lazy">`
     : `<span class="emoji">${m.emoji || '📍'}</span>`;
   const rname = regionName(m.region, code);
-  const search = [m.title, m.excerpt, rname, (m.tags || []).join(' ')].join(' ').toLowerCase();
+  const aname = areaName(m.region, m.area, code);
+  const search = [m.title, m.excerpt, rname, aname, (m.tags || []).join(' ')].join(' ').toLowerCase();
 
-  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
+  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">
@@ -837,6 +847,18 @@ function build() {
         .map((x, i) => `<button class="rtab${i === 0 ? ' on' : ''}" type="button" data-cat="${x.slug}">${escapeHtml(x.label)}<span class="n">${x.n}</span></button>`)
         .join('\n        ');
 
+      /* 동네 칩 — 글이 있는 동네가 2곳 이상일 때만 보여줍니다.
+         한 곳뿐이면 눌러도 달라지는 게 없어서 자리만 차지합니다. */
+      const liveAreas = areasOf(r.slug).filter(a => inRegion.some(p => p.meta.area === a.slug));
+      const areaChips = liveAreas.length < 2 ? '' :
+        [{ slug: 'all', label: t.all, n: inRegion.length }]
+          .concat(liveAreas.map(a => ({
+            slug: a.slug, label: areaName(r.slug, a.slug, code),
+            n: inRegion.filter(p => p.meta.area === a.slug).length
+          })))
+          .map((x, i) => `<button class="chip achip${i === 0 ? ' active' : ''}" type="button" data-area="${x.slug}">${escapeHtml(x.label)}<span class="n">${x.n}</span></button>`)
+          .join('\n        ');
+
       writeFile(out, renderPage({
         out, code, current: 'home',
         title: `${name} — ${siteName(code)}`,
@@ -847,6 +869,7 @@ function build() {
           regionName: escapeHtml(name),
           regionEn: escapeHtml(r.slug),
           tabs: tabs,
+          areaChips: areaChips,
           cards: inRegion.length
             ? inRegion.map(p => cardHTML(p, base, code, t)).join('\n')
             : `        <p class="empty" style="grid-column:1/-1">${escapeHtml(t.empty)}</p>`,

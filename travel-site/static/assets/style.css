@@ -364,7 +364,7 @@ a.more{color:var(--ink);font-weight:600;}
 .post-body ul,.post-body ol{margin:0 0 18px;padding-left:22px;}
 .post-body li{margin-bottom:6px;}
 .post-body li::marker{color:var(--r);}
-.post-body img{border-radius:10px;margin:0 0 18px;}
+.post-body img{border-radius:10px;margin:0 0 18px;max-width:100%;height:auto;display:block;}
 .post-body hr{border:0;border-top:1px solid var(--line);margin:32px 0;}
 .post-body code{
   background:var(--surface);border:1px solid var(--line);

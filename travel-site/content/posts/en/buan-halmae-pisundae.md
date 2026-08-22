@@ -12,7 +12,7 @@ info:
   - Restaurant|Halmae Pisundae (할매피순대)
   - Location|2524 Buan-ro, Haengan-myeon, Buan-gun, Jeonbuk
   - Phone|063-584-4371
-  - Opens|**7:00 AM** · Closed (changes often — please verify)
+  - Opens|**7:00 AM** · (no closing-day info)
   - Budget|**Under ₩10,000 per person** (changes often — please verify)
   - Google rating|4.1 (737 reviews)
   - Takeaway|Yes

@@ -12,7 +12,7 @@ info:
   - Restaurant|Seosan Kkotge (서산꽃게)
   - Location|12-3 Dohwa-gil, Mapo-gu, Seoul
   - Phone|02-719-9693
-  - Opens|**5:30 PM** · Closed (changes often — please verify)
+  - Opens|**5:30 PM** · (no closing-day info)
   - Budget|**₩40,000–50,000 per person** (changes often — please verify)
   - Booking|**Effectively required** — booking button on Google Maps (AutoReserve)
   - Google rating|4.3 (**609 reviews**)

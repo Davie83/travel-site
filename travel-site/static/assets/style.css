@@ -254,7 +254,14 @@ a.more{color:var(--ink);font-weight:600;}
    글 카드
    ========================================================================== */
 .grid{display:grid;gap:18px;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));}
-.grid.limit-6 > .card:nth-child(n+7){display:none;}
+.grid.limit-4 > .card:nth-child(n+5){display:none;}
+
+/* 최근 올라온 글 — 딱 한 행. auto-fill 로 두면 마지막 행에 빈칸이 남습니다.
+   4열은 카드 한 장이 240px 이상 확보되는 폭(약 1060px)부터만 씁니다.
+   (1120 - 좌우여백 40 - 간격 54) / 4 = 256px */
+#latest-grid{grid-template-columns:repeat(2,1fr);}
+@media (min-width:1060px){ #latest-grid{grid-template-columns:repeat(4,1fr);} }
+@media (max-width:560px){  #latest-grid{grid-template-columns:1fr;} }
 
 .card{
   background:var(--ground);border:1px solid var(--line);border-radius:12px;

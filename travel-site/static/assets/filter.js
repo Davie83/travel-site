@@ -24,7 +24,7 @@
 
     // 검색어 · 지역 · 카테고리를 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
     const state = { keyword: '', region: 'all', cat: 'all' };
-    const hasLimit = grid.classList.contains('limit-6');
+    const hasLimit = grid.classList.contains('limit-4');
 
     function apply() {
       const kw = state.keyword.trim().toLowerCase();
@@ -41,7 +41,7 @@
       });
 
       // 홈 목록은 평소 6개만 보이지만, 검색 중에는 전체를 대상으로 합니다
-      if (hasLimit) grid.classList.toggle('limit-6', !filtering);
+      if (hasLimit) grid.classList.toggle('limit-4', !filtering);
       if (emptyMsg) emptyMsg.hidden = shown > 0;
     }
 

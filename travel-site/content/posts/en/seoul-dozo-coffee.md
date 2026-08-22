@@ -12,8 +12,8 @@ info:
   - Cafe|Dozo Coffee, Donuimun branch (도조커피 돈의문)
   - Location|134 Tongil-ro, Jongno-gu, Seoul
   - Phone|02-6390-5757
-  - Hours|**10:00 AM – 6:00 PM** (Saturday) · Closed days (changes often — please verify)
-  - Budget|(please verify) — Google Maps lists no price range for this cafe. Specialty filter coffee runs above chain-cafe prices
+  - Hours|**10:00 AM – 6:00 PM** (Saturday) · (no closing-day info)
+  - Budget|**From ₩5,000** (changes often — please verify)
   - Google rating|4.7 (**only 3 reviews** — a very small sample)
   - Nearest station|**Seodaemun** (Line 5), near Donuimun Museum Village
 ---
@@ -55,7 +55,7 @@ It fits neatly into a walk around **Donuimun Museum Village and Gyeonghuigung Pa
 
 The Google rating is 4.7, but that is **from three reviews.** The shop opened only a few months ago, so there isn't a real track record yet. Don't read that number as "verified."
 
-I could not confirm prices. Specialty filter coffee in Seoul generally runs above chain-cafe prices, so budget accordingly.
+Prices start at **₩5,000**, rising with the bean and the cup you choose. That is roughly chain-cafe territory at the bottom end, which makes the tray service good value.
 
 ## Practical notes
 

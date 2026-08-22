@@ -12,8 +12,8 @@ info:
   - Restaurant|Mutan, Yeouido branch (무탄 여의도점)
   - Location|2F, TP Tower, 96 Uisadang-daero, Yeongdeungpo-gu, Seoul
   - Phone|02-6264-7775
-  - Hours|**11:00 AM – 10:00 PM** · Closed days (changes often — please verify)
-  - Budget|(please verify) — Google Maps lists no price range. Above the average Korean-Chinese restaurant
+  - Hours|**11:00 AM – 10:00 PM** · (no closing-day info)
+  - Budget|**₩20,000–50,000 per person** (changes often — please verify)
   - Google rating|4.9 (**2,993 reviews**)
   - Booking|**Effectively required** for dinner
   - Nearest station|**Yeouido** — connected directly to the station
@@ -60,7 +60,7 @@ Being straight: **it costs more than an ordinary Korean-Chinese restaurant.** Th
 
 The portion size offsets a lot of it. **Counting one bowl as two servings**, the per-person figure drops more than you would expect. The set menus help further.
 
-I could not confirm exact prices. Budget generously.
+Budget **₩20,000–50,000 per person.** The range is wide because it depends entirely on what you order: noodles alone sit at the bottom, while the signature dishes and shared plates push you to the top.
 
 ## Book before you go
 

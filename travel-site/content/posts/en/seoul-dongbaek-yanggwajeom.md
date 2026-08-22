@@ -12,7 +12,7 @@ info:
   - Café|Dongbaek Yanggwajeom (동백양과점)
   - Location|17-24 Supyo-ro 28-gil, Jongno-gu, Seoul — beside Ikseon-dong hanok alleys
   - Phone|02-3144-0429
-  - Hours|**9:00 AM ~ 10:00 PM** · Closed (changes often — please verify)
+  - Hours|**9:00 AM ~ 10:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|3.9 (852 reviews)
   - Wait|(changes often — please verify) — one of the most-mentioned things in reviews

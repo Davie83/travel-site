@@ -12,7 +12,7 @@ info:
   - Restaurant|Songjukjang (송죽장)
   - Location|203 Mullae-ro, Yeongdeungpo-gu, Seoul
   - Phone|02-2631-9184
-  - Closes|**9:30 PM** · Closed (changes often — please verify)
+  - Closes|**9:30 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Opening time / closed days|(changes often — please verify)
   - Price of jjamppong & dumplings|(changes often — please verify)

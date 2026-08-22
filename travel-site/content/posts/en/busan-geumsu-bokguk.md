@@ -12,7 +12,7 @@ info:
   - Restaurant|Geumsu Bokguk, Dongnae branch (금수복국 동래점)
   - Location|Dongnae-gu, Busan
   - Phone|051-553-7700
-  - Hours|**8:00 AM ~ 10:00 PM** · Closed (changes often — please verify)
+  - Hours|**8:00 AM ~ 10:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|3.9
   - What I had|Bokguk, raw pufferfish salad, fried pufferfish

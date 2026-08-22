@@ -2,12 +2,12 @@
 title: 도조커피 돈의문 — 트레이에 실려 나오는 드립커피 한 잔
 cat: food
 region: seoul
-area: jongno
+area: gwanghwamun
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
 excerpt: 스페셜티 원두 드립을 튤립잔에 담아 트레이째 내줍니다. 평소와 다른 커피를 마시고 싶을 때 좋습니다. 다만 넓지 않고 직장인 상권이라 혼자 조용히 있기는 어렵습니다.
-tags: [서울, 종로, 돈의문, 서대문, 카페, 드립커피, 스페셜티, 원두]
+tags: [서울, 광화문, 종로, 돈의문, 서대문, 카페, 드립커피, 스페셜티, 원두]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4%ED%94%BC+%EB%8F%88%EC%9D%98%EB%AC%B8
 info:
   - 가게|도조커피 돈의문

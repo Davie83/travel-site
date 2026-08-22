@@ -2,12 +2,12 @@
 title: DOZO COFFEE 敦義門店 — 木のトレーで出てくるドリップコーヒー
 cat: food
 region: seoul
-area: jongno
+area: gwanghwamun
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
 excerpt: シングルオリジンのドリップを、チューリップ型のグラスとステンレスのポットでトレーごと出してくれます。いつもと違う一杯を飲みたいときに。ただ店は広くなく、平日はオフィス街で静かではありません。
-tags: [ソウル, 鍾路, 敦義門, 西大門, カフェ, ドリップコーヒー, スペシャルティ, 豆]
+tags: [ソウル, 光化門, 鍾路, 敦義門, 西大門, カフェ, ドリップコーヒー, スペシャルティ, 豆]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4%ED%94%BC+%EB%8F%88%EC%9D%98%EB%AC%B8
 info:
   - 店名|도조커피 돈의문（DOZO COFFEE 敦義門店）

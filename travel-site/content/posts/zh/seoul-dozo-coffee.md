@@ -2,12 +2,12 @@
 title: DOZO COFFEE 敦义门店 — 用木托盘端上来的手冲咖啡
 cat: food
 region: seoul
-area: jongno
+area: gwanghwamun
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
 excerpt: 单一产地手冲，装在郁金香杯里，连木托盘和一小壶一起端上来。想喝点跟平时不一样的咖啡时很合适。店不大，周边是写字楼区，平日不算安静。
-tags: [首尔, 钟路, 敦义门, 西大门, 咖啡馆, 手冲咖啡, 精品咖啡, 咖啡豆]
+tags: [首尔, 光化门, 钟路, 敦义门, 西大门, 咖啡馆, 手冲咖啡, 精品咖啡, 咖啡豆]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4%ED%94%BC+%EB%8F%88%EC%9D%98%EB%AC%B8
 info:
   - 店名|도조커피 돈의문（DOZO COFFEE 敦义门店）

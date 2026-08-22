@@ -416,13 +416,20 @@ function regionCardHTML(region, base, code, counts, t) {
   const total = site.categories.reduce((s, c) => s + (counts[c.slug] || 0), 0);
   const name = regionName(region.slug, code);
 
-  // 글이 있든 없든 같은 형식으로 표시합니다 ("여행지 0 · 맛집 1")
-  const countText = site.categories
-    .map(c => `${t.category[c.slug] || c.slug} ${counts[c.slug] || 0}`)
-    .join(' · ');
+  // 카테고리별 개수는 배지로 나눕니다.
+  // 전에는 "여행지 0 · 맛집 1" 처럼 점으로 이었는데, 서로 다른 값이라 점만으로는
+  // 어디까지가 한 덩어리인지 읽히지 않았습니다. 0 인 배지는 흐리게 해서
+  // "글이 있는 쪽"이 먼저 눈에 들어오게 합니다. (글이 없어도 칸은 그대로 보여줍니다)
+  const countBadges = site.categories
+    .map(c => {
+      const n = counts[c.slug] || 0;
+      const label = escapeHtml(t.category[c.slug] || c.slug);
+      return `<span class="r-count${n ? '' : ' zero'}">${label}<b>${n}</b></span>`;
+    })
+    .join('');
 
   const inner = `<div><span class="r-name">${escapeHtml(name)}</span><span class="r-en">${escapeHtml(region.slug)}</span></div>
-          <span class="r-count">${escapeHtml(countText)}</span>`;
+          <div class="r-counts">${countBadges}</div>`;
 
   if (!total) return `        <div class="region empty">\n          ${inner}\n        </div>`;
 

@@ -51,6 +51,10 @@ You could make a meal of the sides alone. **The number of plates relative to the
 
 Practical tip: **mix it halfway, taste, then add more chilli paste** if you want it stronger. Once it's all in, you can't take it back.
 
+And there is one more thing. **Order just the rice bowl and a spicy fish stew still arrives alongside it, in its own earthenware pot.** It is not a token bowl of broth — it comes properly loaded, and **it tastes good.**
+
+This matters more than it sounds. Hoedeopbap is a cold dish; a hot stew next to it changes the balance of the whole meal. Counting that in, the amount of food for the lunch price stands out even more.
+
 The bowl comes with **a lot of shredded cabbage**, which matters — hoedeopbap can leave you hungry by mid-afternoon, and the vegetable volume here prevents that.
 
 ## Private rooms — useful to know

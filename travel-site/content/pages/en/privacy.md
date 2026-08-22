@@ -42,9 +42,14 @@ Tapping an emoji at the bottom of a guide stores the following:
 
 ## 4. Cookies and browser storage
 
-The site may use cookies for analytics and advertising, and uses `localStorage` for the reaction feature.
+The site may use cookies for analytics and advertising, and uses `localStorage` for two features:
 
-You can block or delete cookies and site data in your browser settings. Reading the guides works exactly the same either way — you would only lose the highlight showing which reactions you had already tapped.
+- **Reactions** — a visitor identifier, so the site can show which emoji you already tapped
+- **Saved places** — the list of posts you have bookmarked
+
+**Both are stored only on your own device and are never sent to a server.** The site owner cannot see what any visitor has saved.
+
+You can block or delete cookies and site data in your browser settings. Reading the guides works exactly the same either way — you would only lose the reaction highlights and your saved list.
 
 ## 5. Advertising — Google AdSense
 

@@ -439,104 +439,129 @@ function regionCardHTML(region, base, code, counts, t) {
 }
 
 /* ---- 대한민국 지도 -------------------------------------------------------
-   단순화한 남한 윤곽 + 지역별 핀. 행정 경계를 그대로 옮긴 지도가 아니라
-   위치를 알아보게 하는 안내용 그림입니다.
-   핀 안의 숫자는 그 지역의 글 개수라, 언어와 상관없이 읽힙니다.
+   해안선의 점은 실제 경도·위도를 옮긴 값입니다.
+     x = (경도 - 125.9) x cos(36도) x 66 + 8      (경도 1도가 위도 1도보다
+     y = (38.75 - 위도) x 66                       짧아서 x축을 압축합니다)
+   그래서 태안 반도가 서쪽으로 튀고, 아산만이 안으로 파이고, 호미곶이
+   동쪽으로 뾰족하고, 여수·고흥 반도가 남쪽으로 늘어집니다.
+
+   다만 지역 경계는 직선으로 단순화한 그림입니다. 실측 행정 경계 데이터가
+   아닙니다 (그 데이터는 수백 KB이고, 이 사이트는 의존성이 하나도 없습니다).
+   핀 안의 숫자는 글 개수라 언어와 상관없이 읽힙니다.
    -------------------------------------------------------------------------- */
 
-/* 남한 윤곽 (viewBox 25 0 285 508 기준)
-   가로:세로 = 1 : 1.51 로 실제 남한 비율(1.52)에 맞췄습니다.
-   경도 1도는 위도 1도보다 짧아서(cos36°≒0.81) x축을 압축한 좌표입니다. */
+/* 남한 윤곽 — 바다 쪽 옅은 외곽선(halo)을 그리는 데만 씁니다 */
 const KOREA_OUTLINE =
-  'M55,96 L92,74 L137,50 L181,30 L217,20 ' +
-  'L235,58 L254,104 L271,150 L283,196 L289,236 L285,272 L274,300 ' +
-  'L263,318 L248,330 L223,338 L200,336 L178,346 L155,352 ' +
-  'L132,368 L106,378 L81,388 L61,392 L47,384 L43,362 ' +
-  'L52,340 L49,316 L57,292 L52,268 L61,242 L67,214 ' +
-  'L61,190 L47,178 L43,156 L52,134 L46,116 Z';
+  'M50,61 L72,46 L99,30 L120,20 L139,9 ' +
+  'L152,36 L168,66 L183,87 L195,116 L196,147 L204,176 L196,215 L178,241 ' +
+  'L153,257 L143,259 L115,261 L106,265 L85,274 L61,287 L41,294 ' +
+  'L34,261 L40,229 L51,183 L40,160 L29,135 L59,117 L51,106 L47,86 Z';
 
-/* 지역별 면 — '페이퍼컷' 방식.
-   각 조각을 자기 중심 쪽으로 살짝(0.93배) 줄여서 사이에 틈을 만들고,
-   같은 색 굵은 테두리로 모서리를 둥글게 깎습니다.
-   → "양식화된 그림"임이 분명해져서, 경계가 실제 행정구역과 달라도
-     흠이 아니라 디자인으로 읽힙니다. (실제 지리 데이터가 아닙니다)
-
-   d      = 조각 모양            label = 글 개수를 적을 자리
-   c      = 축소 기준이 되는 중심  onTop = 서울·부산은 경기·경상 안의 도시라 나중에 그림 */
-const MAP_SHRINK = 0.93;
-
+/* 지역 조각
+   d      = 조각 모양
+   label  = 글 개수 핀의 중심      r    = 핀 반지름 (도시는 조금 크게)
+   name   = 지역 이름을 적을 자리   city = 서울·부산 — 도(道) 안의 도시라 나중에 그림
+   isles  = 섬. ['c',cx,cy,r] 은 원, ['e',cx,cy,rx,ry] 은 타원.
+            서해·남해의 섬을 넣지 않으면 한국 지도로 보이지 않습니다. */
 const MAP_AREAS = {
   gyeonggi: {
-    d: 'M55,96 L92,74 L137,50 L138,155 L43,156 L52,134 L46,116 Z',
-    c: [80, 112], label: [72, 128]
-  },
-  seoul: {
-    d: 'M88,92 L114,90 L119,104 L110,115 L92,114 L84,102 Z',
-    c: [101, 103], label: [101, 103], onTop: true
+    d: 'M50,61 L72,46 L99,30 L100,116 L59,117 L51,106 L47,86 Z',
+    label: [88, 48], name: [88, 66],
+    isles: [['e', 38, 68, 6, 7.5], ['c', 32, 85, 3]]          // 강화도, 인천 앞
   },
   gangwon: {
-    d: 'M137,50 L181,30 L217,20 L235,58 L254,104 L271,150 L272,158 L138,155 Z',
-    c: [213, 91], label: [200, 98]
+    d: 'M99,30 L120,20 L139,9 L152,36 L168,66 L183,87 L192,113 L137,112 L100,116 Z',
+    label: [146, 54], name: [146, 72]
   },
   chungcheong: {
-    d: 'M43,156 L177,155 L177,243 L61,242 L67,214 L61,190 L47,178 Z',
-    c: [90, 197], label: [110, 199]
+    d: 'M59,117 L100,116 L137,112 L130,150 L122,182 L51,183 L40,160 L29,135 Z',
+    label: [85, 148], name: [85, 166],
+    isles: [['e', 25, 150, 3.5, 8]]                            // 안면도
   },
   jeolla: {
-    d: 'M61,242 L154,243 L155,352 L132,368 L106,378 L81,388 L61,392 L47,384 L43,362 L52,340 L49,316 L57,292 L52,268 Z',
-    c: [81, 333], label: [95, 302]
+    d: 'M51,183 L122,182 L112,215 L103,245 L108,262 L106,265 L85,274 L61,287 L41,294 L34,261 L40,229 Z',
+    label: [68, 232], name: [68, 250],
+    isles: [['c', 28, 250, 2.2], ['c', 19, 259, 3], ['c', 24, 271, 2.5],
+            ['e', 26, 286, 5.5, 4], ['c', 46, 301, 4],         // 신안 군도, 진도, 완도
+            ['c', 88, 287, 2.6], ['c', 99, 279, 2]]            // 고흥 앞
   },
   gyeongsang: {
-    d: 'M177,155 L272,158 L283,196 L289,236 L285,272 L274,300 L263,318 L248,330 L223,338 L200,336 L178,346 L155,352 L154,243 L177,243 Z',
-    c: [227, 273], label: [219, 252]
-  },
-  busan: {
-    d: 'M250,300 L278,296 L266,322 L245,332 L236,314 Z',
-    c: [255, 313], label: [256, 313], onTop: true
+    d: 'M137,112 L192,113 L195,116 L196,147 L204,176 L196,215 L178,241 L153,257 L143,259 L115,261 L108,262 L103,245 L112,215 L122,182 L130,150 Z',
+    label: [158, 176], name: [158, 194],
+    isles: [['e', 112, 268, 6, 4.5], ['e', 152, 265, 5.5, 5]]  // 남해도, 거제도
   },
   jeju: {
-    // 섬이라 이미 떨어져 있어서 축소 없이 조금 작게만 그립니다
-    d: 'M72,447 a30,21 0 1,0 0.1,0 Z',
-    c: null, label: [72, 468]
+    d: 'M19,354 C19,346 30,341 43,341 C57,341 67,346 67,354 C67,362 56,367 43,367 C29,367 19,362 19,354 Z',
+    label: [43, 354], name: [43, 377]
+  },
+  seoul: {
+    d: 'M55,77 C55,70 60,67 67,67 C76,67 79,72 79,81 C79,90 74,95 67,95 C58,95 55,86 55,77 Z',
+    label: [67, 82], r: 10.5, name: [67, 107], city: true
+  },
+  busan: {
+    d: 'M165,229 C165,223 170,221 176,221 C184,221 187,227 187,236 C187,245 181,249 175,249 C167,249 165,239 165,229 Z',
+    label: [175, 236], r: 10, name: [175, 262], city: true
   }
 };
 
 function koreaMapHTML(base, code, countsByRegion, t) {
   const d = localeDir(code);
 
+  // 영어는 지역 이름이 깁니다 (GYEONGSANG, CHUNGCHEONG). 좁은 화면에서 서로
+  // 겹치므로 영어판만 이름 없이 핀만 둡니다 — 이름은 마우스를 올리면
+  // <title> 로 읽히고, 아래 '지역으로 찾기' 카드에도 그대로 있습니다.
+  const withNames = code !== 'en';
+
+  const isleHTML = a => (a.isles || []).map(i => i[0] === 'c'
+    ? `<circle class="map-shape" cx="${i[1]}" cy="${i[2]}" r="${i[3]}"/>`
+    : `<ellipse class="map-shape" cx="${i[1]}" cy="${i[2]}" rx="${i[3]}" ry="${i[4]}"/>`
+  ).join('');
+
+  const nameHTML = (a, name) => withNames
+    ? `\n        <text class="map-name" x="${a.name[0]}" y="${a.name[1]}">${escapeHtml(name)}</text>`
+    : '';
+
   // 서울·부산(도시)을 마지막에 그려서 경기·경상에 덮이지 않게 합니다
   const ordered = site.regions
     .filter(r => MAP_AREAS[r.slug])
-    .sort((a, b) => (MAP_AREAS[a.slug].onTop ? 1 : 0) - (MAP_AREAS[b.slug].onTop ? 1 : 0));
+    .sort((x, y) => (MAP_AREAS[x.slug].city ? 1 : 0) - (MAP_AREAS[y.slug].city ? 1 : 0));
 
   const areas = ordered.map(r => {
     const a = MAP_AREAS[r.slug];
     const n = countsByRegion[r.slug] || 0;
     const name = regionName(r.slug, code);
+    const cls = a.city ? ' is-city' : '';
 
-    // 조각을 자기 중심 쪽으로 줄여 사이에 틈을 만듭니다
-    const tf = a.c
-      ? ` transform="translate(${a.c[0]},${a.c[1]}) scale(${MAP_SHRINK}) translate(${-a.c[0]},${-a.c[1]})"`
-      : '';
+    // 조각 → 자기 경계선 → 섬 순서. 경계선은 배경색이라 바다 쪽에서는 안 보입니다.
+    const body = `<path class="map-shape" d="${a.d}"/>`
+      + `<path class="map-edge" d="${a.d}"/>`
+      + isleHTML(a);
 
     // 글이 없는 지역도 자기 색을 옅게 유지합니다.
     // 전부 회색으로 칠하면 붙어 있는 빈 지역끼리 한 덩어리로 보입니다.
     if (!n) {
-      return `      <g class="map-area is-empty" style="--r:var(--region-${r.slug})">
-        <title>${escapeHtml(name)} · 0</title>
-        <path class="map-shape" d="${a.d}"${tf}/>
+      return `      <g class="map-area is-empty${cls}" style="--r:var(--region-${r.slug})">
+        <title>${escapeHtml(name)} 0</title>
+        ${body}${nameHTML(a, name)}
       </g>`;
     }
 
-    return `      <a class="map-area" href="${base}${d}region/${r.slug}" style="--r:var(--region-${r.slug})">
-        <title>${escapeHtml(name)} · ${n}</title>
-        <path class="map-shape" d="${a.d}"${tf}/>
-        <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>
+    return `      <a class="map-area${cls}" href="${base}${d}region/${r.slug}" style="--r:var(--region-${r.slug})">
+        <title>${escapeHtml(name)} ${n}</title>
+        ${body}
+        <circle class="map-pin" cx="${a.label[0]}" cy="${a.label[1]}" r="${a.r || 9.5}"/>
+        <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>${nameHTML(a, name)}
       </a>`;
   }).join('\n');
 
+  // 바다 쪽 옅은 외곽선 — 그라데이션 없이 지도처럼 보이게 하는 값싼 방법입니다
+  const halo = [KOREA_OUTLINE, MAP_AREAS.jeju.d]
+    .map(p => `      <path class="map-halo h1" d="${p}"/>\n      <path class="map-halo h2" d="${p}"/>`)
+    .join('\n');
+
   return `<div class="hero-map">
-    <svg viewBox="25 0 285 508" role="img" aria-label="${escapeHtml(t.findByRegion)}" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="8 -8 208 398" role="img" aria-label="${escapeHtml(t.findByRegion)}" xmlns="http://www.w3.org/2000/svg">
+${halo}
 ${areas}
     </svg>
   </div>`;

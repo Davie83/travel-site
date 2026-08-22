@@ -536,6 +536,27 @@ ${areas}
 }
 
 /** 글 카드 */
+/** 카테고리 · 지역 · 동네 배지.
+ *  전에는 "맛집 · 서울" 처럼 점으로 이었는데, 각각 눌러야 할 정보라 배지로 나눴습니다.
+ *  지역만 지역색을 채우고 나머지는 테두리만 둡니다 (색을 더 쓰면 시끄러워집니다).
+ *  linked=false 는 카드 안에서 씁니다 — 카드 전체가 링크라 그 안에 링크를 겹칠 수 없습니다. */
+function badgesHTML(m, base, code, t, linked) {
+  const d   = localeDir(code);
+  const rs  = escapeHtml(m.region);
+  const cat = escapeHtml(t.category[m.cat] || m.cat);
+  const rn  = escapeHtml(regionName(m.region, code));
+  const an  = escapeHtml(areaName(m.region, m.area, code));
+  const rows = [];
+  rows.push(linked
+    ? `<a class="badge" href="${base}${d}${escapeHtml(m.cat)}">${cat}</a>`
+    : `<span class="badge">${cat}</span>`);
+  rows.push(linked
+    ? `<a class="badge badge-region" href="${base}${d}region/${rs}" style="--r:var(--region-${rs})">${rn}</a>`
+    : `<span class="badge badge-region" style="--r:var(--region-${rs})">${rn}</span>`);
+  if (an) rows.push(`<span class="badge">${an}</span>`);
+  return `<div class="badges">${rows.join('')}</div>`;
+}
+
 function cardHTML(post, base, code, t) {
   const m = post.meta;
   const d = localeDir(code);
@@ -552,7 +573,7 @@ function cardHTML(post, base, code, t) {
             <div class="card-body">
               <h3>${escapeHtml(m.title)}</h3>
               <p>${escapeHtml(m.excerpt)}</p>
-              <div class="card-meta"><span class="dot"></span>${escapeHtml(rname)} · ${String(m.date).replace(/-/g, '.')}</div>
+              <div class="card-meta"><span class="badge badge-region" style="--r:var(--region-${escapeHtml(m.region)})">${escapeHtml(rname)}</span>${aname ? `<span class="badge">${escapeHtml(aname)}</span>` : ''}<time class="card-date">${String(m.date).replace(/-/g, '.')}</time></div>
             </div>
           </a>
           ${saveBtnHTML(post.slug, t, false)}
@@ -940,7 +961,7 @@ function build() {
         body: fill(T.post, {
           regionSlug: m.region,
           saveBtn: saveBtnHTML(p.slug, t, true),
-          kicker: `${escapeHtml(t.category[m.cat] || m.cat)} · ${escapeHtml(rname)}`,
+          badges: badgesHTML(m, base, code, t, true),
           regionHref: `${base}${d}region/${m.region}`,
           title: escapeHtml(m.title),
           // 방문 시점은 표기하지 않습니다.

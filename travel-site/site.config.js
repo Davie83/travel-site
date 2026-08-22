@@ -107,7 +107,7 @@ module.exports = {
 
   /* ---- 구글 애드센스 ---------------------------------------------------
      예: 'ca-pub-1234567890123456'  (비우면 광고 코드가 들어가지 않습니다) */
-  adsensePublisherId: '',
+  adsensePublisherId: 'ca-pub-8309886055219569',
 
   // 광고 자리를 점선 박스로 미리 보기 (방문자에게도 보입니다)
   showAdPlaceholders: false,

@@ -12,8 +12,8 @@ info:
   - Restaurant|Donji Sikdang (돈지식당)
   - Location|Daejeong-eup, Seogwipo, Jeju — near Moseulpo Harbour
   - Phone|064-794-8465
-  - Hours|**Closes 9:00 PM** (may change on public holidays; opening time worth checking)
-  - Budget|**₩20,000–30,000 per person**
+  - Closes|**9:00 PM** · Closed (changes often — please verify)
+  - Budget|**₩20,000–30,000 per person** (changes often — please verify)
   - Google rating|4.2 (268 reviews)
   - In season|Hanchi squid **summer** · Yellowtail **winter**
 ---

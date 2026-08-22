@@ -12,9 +12,8 @@ info:
   - Cafe|Dozo Coffee, Donuimun branch (도조커피 돈의문)
   - Location|134 Tongil-ro, Jongno-gu, Seoul
   - Phone|02-6390-5757
-  - Opens|**10:00 AM** (Saturday; weekdays may differ)
-  - Weekday hours / closed days|(changes often — please verify)
-  - Prices|(changes often — please verify)
+  - Hours|**10:00 AM – 6:00 PM** (Saturday) · Closed days (changes often — please verify)
+  - Budget|(please verify) — Google Maps lists no price range for this cafe. Specialty filter coffee runs above chain-cafe prices
   - Google rating|4.7 (**only 3 reviews** — a very small sample)
   - Nearest station|**Seodaemun** (Line 5), near Donuimun Museum Village
 ---

@@ -12,8 +12,8 @@ info:
   - Restaurant|Cheorwon Makguksu (철원막국수)
   - Location|13 Myeongseong-ro 158beon-gil, Galmal-eup, Cheorwon-gun, Gangwon
   - Phone|033-452-2589
-  - Opens|**11:00 AM** (may change on public holidays)
-  - Budget|**₩10,000–20,000 per person**
+  - Hours|**11:00 AM ~ 8:00 PM** · Closed (changes often — please verify)
+  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|3.9 (1,743 reviews)
   - Commonly ordered with|Mung bean pancake, dumplings
 ---

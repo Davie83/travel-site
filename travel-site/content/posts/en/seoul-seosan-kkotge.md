@@ -12,9 +12,8 @@ info:
   - Restaurant|Seosan Kkotge (서산꽃게)
   - Location|12-3 Dohwa-gil, Mapo-gu, Seoul
   - Phone|02-719-9693
-  - Dinner service from|**5:30 PM**
-  - Lunch hours / closed days|(changes often — please verify)
-  - Budget|**₩40,000–50,000 per person** (reviewers report ₩40,000)
+  - Opens|**5:30 PM** · Closed (changes often — please verify)
+  - Budget|**₩40,000–50,000 per person** (changes often — please verify)
   - Booking|**Effectively required** — booking button on Google Maps (AutoReserve)
   - Google rating|4.3 (**609 reviews**)
   - Nearest station|**Gongdeok** (Lines 5, 6, Gyeongui-Jungang, Airport Railroad) / **Mapo** (Line 5)

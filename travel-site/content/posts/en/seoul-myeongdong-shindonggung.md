@@ -11,8 +11,9 @@ map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:
   - Restaurant|Shindonggung Gamjatang Ppyeo Sutbul Gui
   - Address|43 Myeongdong 9-gil, Jung-gu, Seoul
-  - Hours|**Open 24 hours** (may change on public holidays)
   - Phone|02-318-4222
+  - Hours|**Open 24 hours** · No regular closing day
+  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Good for|**Small size feeds 2 adults**
   - Spice level|Mild-to-medium — about like gamjatang
   - Takeout|Yes

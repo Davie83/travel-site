@@ -12,8 +12,8 @@ info:
   - Restaurant|Naju Gomtang Hayanjip, main branch (나주곰탕 하얀집)
   - Location|6-1 Geumseonggwan-gil, Naju, Jeonnam
   - Phone|061-333-4292
-  - Opens|**8:00 AM** (may change on public holidays)
-  - Budget|**₩10,000–20,000 per person**
+  - Hours|**8:00 AM ~ 8:00 PM** · Closed (changes often — please verify)
+  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|4.2 (**5,790 reviews**)
   - Queue|(changes often — please verify) — bookable via the CatchTable app
 ---

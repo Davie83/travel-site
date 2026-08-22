@@ -13,7 +13,7 @@ info:
   - Address|26 Oiljang-seo-gil, Jeju City, Jeju
   - Phone|064-743-5985
   - Market days|**Dates ending in 2 and 7** (2nd, 7th, 12th, 17th, 22nd, 27th)
-  - Hours|**Closes 6:00 PM**
+  - Hours|**Closes 6:00 PM** · **Not open on non-market days**
   - Size|About 1,000 stalls — the largest five-day market in Korea
   - Google rating|4.2 (6,973 reviews)
 ---

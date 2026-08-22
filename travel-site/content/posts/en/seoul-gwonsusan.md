@@ -10,13 +10,13 @@ tags: [Seoul, Yeouido, Yeongdeungpo, National Assembly, hoedeopbap, raw fish, se
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - Restaurant|Gwonsusan (권수산)
-  - Location|34 Uisadang-daero 1-gil, Yeongdeungpo-gu, Seoul
+  - Location|34 Uisadang-daero 1-gil, Yeongdeungpo-gu, Seoul — **basement level 1, Inyoung Building**
   - Phone|02-780-3984
-  - Opens|**11:00 AM** (Monday; other days may differ)
+  - Opens|**11:00 AM** · Closed **Saturday and Sunday**
+  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Booking|**Reservable via CatchTable** (has an English interface)
-  - Set lunch course|(changes often — please verify) — ask for the "lunch hoe jeongsik"
-  - Prices|(changes often — please verify)
-  - Google rating|4.2
+  - Set lunch course|**Teuk-hoe-jeongsik** (특회정식), on the lunch menu
+  - Google rating|4.2 (**364 reviews**)
   - Nearest station|**National Assembly** (Line 9); walkable from Yeouido Station (Lines 5, 9)
 ---
 
@@ -60,9 +60,13 @@ Beyond the main hall, there are **separate private rooms.**
 - Quiet meals with a small group
 - **Hosting guests** properly
 
-Yeouido runs on business meals, and this restaurant is set up for them. There is a **set lunch course** (*hoe jeongsik*) that works for occasions where you need to look after someone — it's a popular order here.
+Yeouido runs on business meals, and this restaurant is set up for them. The lunch course is called **teuk-hoe-jeongsik (특회정식)**, and it works for occasions where you need to look after someone properly. It is a popular order here.
 
-> I couldn't confirm the exact course name. Ask for the **"lunch hoe jeongsik"** when booking.
+One reviewer listed the sequence in full:
+
+> aged sashimi → clam soup → corn cheese → poached octopus → live octopus → sea cucumber and sea squirt → seasoned squid → soy-marinated crab → grilled mackerel → fried spring rolls → spicy fish stew (full of roe)
+
+Eleven courses, served in order. That is more than enough for hosting someone.
 
 ## Book ahead
 

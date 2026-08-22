@@ -12,9 +12,8 @@ info:
   - Restaurant|Mutan, Yeouido branch (무탄 여의도점)
   - Location|2F, TP Tower, 96 Uisadang-daero, Yeongdeungpo-gu, Seoul
   - Phone|02-6264-7775
-  - Closes|**10:00 PM**
-  - Opens|**11:00 AM** (Saturday; weekdays may differ)
-  - Budget|(changes often — please verify) — above the normal Chinese-restaurant range
+  - Hours|**11:00 AM – 10:00 PM** · Closed days (changes often — please verify)
+  - Budget|(please verify) — Google Maps lists no price range. Above the average Korean-Chinese restaurant
   - Google rating|4.9 (**2,993 reviews**)
   - Booking|**Effectively required** for dinner
   - Nearest station|**Yeouido** — connected directly to the station

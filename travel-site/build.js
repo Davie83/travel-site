@@ -1148,6 +1148,7 @@ function build() {
         routeExport:     escapeHtml(t.routeExport),
         routeExportHint: escapeHtml(t.routeExportHint),
         routeSkipped:    escapeHtml(t.routeSkipped),
+        routeMapNote:    escapeHtml(t.routeMapNote),
         cards:    posts.map(p => cardHTML(p, baseOf(outSaved), code, t)).join('\n')
       })
     }));

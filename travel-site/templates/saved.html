@@ -25,7 +25,7 @@
                data-t-dir="{{routeDir}}" data-t-up="{{routeUp}}" data-t-down="{{routeDown}}"
                data-t-drop="{{routeDrop}}" data-t-copy="{{routeCopy}}" data-t-copied="{{routeCopied}}"
                data-t-closedwarn="{{routeClosedWarn}}" data-t-days="{{routeDayNames}}"
-               data-t-unknown="{{routeUnknown}}" data-t-namewarn="{{routeNameWarn}}" data-t-origin="{{routeOrigin}}"
+               data-t-unknown="{{routeUnknown}}" data-t-namewarn="{{routeNameWarn}}" data-t-origin="{{routeOrigin}}" data-t-maplabel="{{routeTitle}}"
                data-hl="{{hl}}" hidden>
         <div class="route-head">
           <h2>{{routeTitle}}</h2>
@@ -38,6 +38,11 @@
           <label for="route-origin-input">{{routeOrigin}}</label>
           <input id="route-origin-input" type="text" placeholder="{{routeOriginPh}}" autocomplete="off">
         </div>
+
+        <!-- 동선 그림. 실제 지도가 아니라 위·경도로 위치 관계를 그린 것입니다.
+             한국에서는 구글 지도가 여러 지점을 한 번에 못 그립니다 (saved.js 주석 참고) -->
+        <div class="route-map" hidden></div>
+        <p class="route-map-note">{{routeMapNote}}</p>
 
         <ol class="route-list"></ol>
         <p class="route-warn" hidden></p>

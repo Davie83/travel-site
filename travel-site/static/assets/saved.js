@@ -405,6 +405,12 @@
     listEl.innerHTML = html;
     paintRouteWarn(items, box);
 
+    // 화면 번호를 붙여서 그림을 그립니다 (목록의 번호와 같아야 합니다)
+    var numbered = [], nn = 1;
+    if (org) numbered.push(shallow(org, nn++));
+    for (i = 0; i < items.length; i++) numbered.push(shallow(items[i], nn++));
+    paintRouteMap(numbered, box);
+
     // 파일에서 빠지는 지점(좌표 없음) 개수를 미리 알려줍니다
     var all = org ? [org].concat(items) : items;
     var noGeo = 0;
@@ -413,6 +419,79 @@
   }
 
   /** 두 지점 사이 한 칸 — 직선거리와 대중교통 길찾기 링크 */
+
+  /* ---- 동선 그림 ---------------------------------------------------------
+     한국에서는 구글 지도가 여러 지점을 한 번에 그려주지 못합니다.
+     자동차 길찾기를 제공하지 않아서(지도 데이터 규제) 여러 지점 경유가 막히고,
+     Embed API 는 지점 하나만 됩니다. KML 은 구글 내 지도로 가져가야 하는데
+     그 두 단계를 거칠 사람은 많지 않습니다.
+
+     그래서 위·경도로 위치 관계를 직접 그립니다. 실제 지도가 아니라
+     "몇 번을 어떤 순서로 도는지"를 바로 보여주는 그림입니다.
+     (홈의 대한민국 지도와 같은 방식입니다)
+     경도 1도는 위도 1도보다 짧아서 cos(위도) 로 x 를 줄입니다.       */
+  function paintRouteMap(items, box) {
+    var wrap = box.querySelector('.route-map');
+    if (!wrap) return;
+
+    var pts = [], i;
+    for (i = 0; i < items.length; i++) {
+      var g = geo(items[i]);
+      if (g) pts.push({ n: items[i].num || (i + 1), name: items[i].n || '', g: g });
+    }
+    if (pts.length < 2) { wrap.hidden = true; wrap.innerHTML = ''; return; }
+    wrap.hidden = false;
+
+    var minLa = 90, maxLa = -90, minLn = 180, maxLn = -180;
+    for (i = 0; i < pts.length; i++) {
+      minLa = Math.min(minLa, pts[i].g.lat); maxLa = Math.max(maxLa, pts[i].g.lat);
+      minLn = Math.min(minLn, pts[i].g.lng); maxLn = Math.max(maxLn, pts[i].g.lng);
+    }
+    var midLa = (minLa + maxLa) / 2;
+    var kx = Math.cos(midLa * Math.PI / 180);
+    var spanX = Math.max((maxLn - minLn) * kx, 0.0001);
+    var spanY = Math.max(maxLa - minLa, 0.0001);
+
+    // 가로세로 비율을 유지하면서 화면에 채웁니다
+    var W = 600, H = 420, PAD = 58;
+    var s = Math.min((W - PAD * 2) / spanX, (H - PAD * 2) / spanY);
+    var offX = (W - spanX * s) / 2, offY = (H - spanY * s) / 2;
+    for (i = 0; i < pts.length; i++) {
+      pts[i].x = offX + ((pts[i].g.lng - minLn) * kx) * s;
+      pts[i].y = offY + (maxLa - pts[i].g.lat) * s;   // 위쪽이 북쪽
+    }
+
+    var seg = '', dots = '', labels = '';
+    for (i = 0; i < pts.length; i++) {
+      var p = pts[i];
+      if (i < pts.length - 1) {
+        var q = pts[i + 1];
+        // 원에 가려지지 않게 양 끝을 조금 잘라냅니다
+        var dx = q.x - p.x, dy = q.y - p.y, len = Math.sqrt(dx * dx + dy * dy) || 1;
+        var ux = dx / len, uy = dy / len, cut = 17;
+        seg += '<line class="rm-line" x1="' + (p.x + ux * cut).toFixed(1) + '" y1="' + (p.y + uy * cut).toFixed(1)
+             + '" x2="' + (q.x - ux * cut).toFixed(1) + '" y2="' + (q.y - uy * cut).toFixed(1) + '"/>';
+      }
+      dots += '<circle class="rm-dot" cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="13"/>'
+            + '<text class="rm-num" x="' + p.x.toFixed(1) + '" y="' + p.y.toFixed(1) + '" dy="0.35em">' + p.n + '</text>';
+      // 이름은 점 위쪽에, 화면 밖으로 나가지 않게 좌우 정렬을 바꿉니다
+      var anchor = p.x < 80 ? 'start' : (p.x > W - 80 ? 'end' : 'middle');
+      labels += '<text class="rm-label" x="' + p.x.toFixed(1) + '" y="' + (p.y - 19).toFixed(1)
+             + '" text-anchor="' + anchor + '">' + esc(shortName(p.name)) + '</text>';
+    }
+
+    wrap.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="'
+      + esc(box.getAttribute('data-t-maplabel') || '') + '">'
+      + '<defs><marker id="rm-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">'
+      + '<path d="M0,0 L10,5 L0,10 z"/></marker></defs>'
+      + seg + dots + labels
+      + '</svg>';
+  }
+
+  /** 지도 이름표는 짧아야 읽힙니다. 글 제목에서 설명 부분을 떼어냅니다. */
+  function shortName(s) {
+    return String(s || '').split(' — ')[0].split(' - ')[0].slice(0, 18);
+  }
   function legHtml(a, b, hl, tDir) {
     var d = km(geo(a), geo(b));
     return '<li class="route-leg">'

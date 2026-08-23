@@ -21,6 +21,8 @@ info:
   - Nearest station|**Gongdeok Stn.** exit 3, 5 min walk (Lines 5 and 6 · Gyeongui-Jungang · **AREX airport line**)
 ---
 
+![The table at Hongbak Agujjim — the boiled monkfish platter with radish salad, pickled chilli, dried anchovies, egg pancake and sikhye](/assets/img/seoul-hongbak-agujjim-table.jpg)
+
 When I think of **boiled monkfish**, I think of this place. I want some just from writing this.
 
 ## It is in a basement

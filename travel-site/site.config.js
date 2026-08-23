@@ -149,7 +149,7 @@ module.exports = {
      됩니다. 늘어나도 계속 참인 표현을 쓰려고 내림값만 둡니다.
      2026-08-23 확인: 레벨 6 · 사진 102장 · 조회수 216,779회               */
   author: {
-    name:            'DonNaMu',
+    name:            'Davie',
     mapsProfile:     'https://www.google.com/maps/contrib/108511658203720708025',
     guideLevel:      6,
     photoViewsFloor: 210000

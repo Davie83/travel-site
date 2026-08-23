@@ -357,6 +357,7 @@
     var tUnk  = box.getAttribute('data-t-unknown') || '';
     var tWarn = box.getAttribute('data-t-namewarn') || '';
     var tOrg  = box.getAttribute('data-t-origin') || '';
+    var tNoCoord = box.getAttribute('data-t-nocoord') || '';
 
     // 출발지가 있으면 1번이 되고 저장한 곳은 2번부터 시작합니다.
     // 화면 번호와 내려받는 파일의 번호를 똑같이 맞추기 위해서입니다.
@@ -373,6 +374,7 @@
         + (org.a && org.a !== org.n ? ('<span class="route-sub">' + esc(org.a) + '</span>') : '')
         + (org.warn ? ('<span class="route-warnrow">' + esc(tWarn)
             + ' <a href="' + esc(searchUrl(org.n, hl)) + '" target="_blank" rel="noopener">&#8599;</a></span>') : '')
+        + (geo(org) ? '' : ('<span class="route-nocoord">' + esc(tNoCoord) + '</span>'))
         + '</div>'
         + '<div class="route-move">'
         + '<button class="route-origin-clear" type="button" aria-label="' + esc(tDrop) + '">&#10005;</button>'
@@ -396,6 +398,7 @@
             ? '<span class="route-closed">' + esc(dayLabels(it.closed, box)) + '</span>' : '')
         + (it.warn ? ('<span class="route-warnrow">' + esc(tWarn)
             + ' <a href="' + esc(searchUrl(it.n, hl)) + '" target="_blank" rel="noopener">&#8599;</a></span>') : '')
+        + (geo(it) ? '' : ('<span class="route-nocoord">' + esc(tNoCoord) + '</span>'))
         + (it.a ? ('<button class="route-copy" type="button" data-copy="' + esc(it.a) + '">' + esc(tCopy) + '</button>') : '')
         + '</div>'
         + '<div class="route-move">'
@@ -518,19 +521,25 @@
       pts[i].y = H / 2 + (pts[i].my - cY) * worldPx;
     }
 
-    var seg = '', dots = '', labels = '';
+    /* 선을 두 겹으로 그립니다 — 흰 케이싱을 먼저 전부 깔고, 그 위에 색 점선을 얹습니다.
+       한 구간씩 번갈아 그리면 뒤 구간의 케이싱이 앞 구간의 색선을 덮습니다. */
+    var segCase = '', segLine = '', dots = '', labels = '';
     for (i = 0; i < pts.length; i++) {
       var p = pts[i];
       if (i < pts.length - 1) {
         var q = pts[i + 1];
         var dx = q.x - p.x, dy = q.y - p.y, len = Math.sqrt(dx * dx + dy * dy) || 1;
-        var ux = dx / len, uy = dy / len, cut = 16;
+        var ux = dx / len, uy = dy / len, cut = 17;
         if (len > cut * 2.2) {
-          seg += '<line class="rm-line" x1="' + (p.x + ux * cut).toFixed(1) + '" y1="' + (p.y + uy * cut).toFixed(1)
-               + '" x2="' + (q.x - ux * cut).toFixed(1) + '" y2="' + (q.y - uy * cut).toFixed(1) + '"/>';
+          var x1 = (p.x + ux * cut).toFixed(1), y1 = (p.y + uy * cut).toFixed(1);
+          var x2 = (q.x - ux * cut).toFixed(1), y2 = (q.y - uy * cut).toFixed(1);
+          segCase += '<line class="rm-case" x1="' + x1 + '" y1="' + y1 + '" x2="' + x2 + '" y2="' + y2 + '"/>';
+          segLine += '<line class="rm-line" x1="' + x1 + '" y1="' + y1 + '" x2="' + x2 + '" y2="' + y2 + '"/>';
         }
       }
-      dots += '<circle class="rm-dot" cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="13"/>'
+      // 핀은 흰 테두리 + 색 원. 밝은 지도 위에서 원이 배경에 묻히지 않게 합니다
+      dots += '<circle class="rm-ring" cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="14.5"/>'
+            + '<circle class="rm-dot" cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="12.5"/>'
             + '<text class="rm-num" x="' + p.x.toFixed(1) + '" y="' + p.y.toFixed(1) + '" dy="0.35em">' + p.n + '</text>';
       // 이름표가 지도 밖으로 잘리지 않게 좌우 정렬을 바꾸고 위치를 안쪽으로 당깁니다
       var anchor = p.x < 82 ? 'start' : (p.x > W - 82 ? 'end' : 'middle');
@@ -550,9 +559,9 @@
       + ' loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
       + ' title="' + esc(box.getAttribute('data-t-maplabel') || '') + '"></iframe>'
       + '<svg class="rm-over" viewBox="0 0 ' + W + ' ' + H + '" width="' + W + '" height="' + H + '" aria-hidden="true">'
-      + '<defs><marker id="rm-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">'
+      + '<defs><marker id="rm-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.6" markerHeight="4.6" orient="auto-start-reverse">'
       + '<path d="M0,0 L10,5 L0,10 z"/></marker></defs>'
-      + seg + dots + labels
+      + segCase + segLine + dots + labels
       + '</svg>';
   }
 
@@ -666,11 +675,13 @@
     if (!input) return;
     var item = parsePlace(input.value);
     if (!item) return;
-    var r = rRead();
-    r.push(item);
-    rWrite(r);
     input.value = '';
-    paint();
+    withCoords(item, function (x) {
+      var r = rRead();
+      r.push(x);
+      rWrite(r);
+      paint();
+    });
   }
 
   document.addEventListener('click', function (e) {
@@ -809,6 +820,52 @@
     } catch (e) { return false; }
   }
 
+
+  /* ---- 주소를 좌표로 --------------------------------------------------
+     구글 지도 임베드 응답에 확정 주소와 좌표가 함께 들어 있어서 그것을 읽습니다.
+     주소만 넣은 지점은 좌표가 없어 지도에 그릴 수 없었는데, 이걸로 해결됩니다.
+       "서울 중구 을지로 30"        → 37.5648094, 126.9810897
+       "서울 마포구 독막로19길 43"  → 37.5489095, 126.9237599
+
+     문서로 공개된 방법이 아닙니다. 언제든 막힐 수 있으므로 실패하면 좌표 없이
+     그냥 넘어가고, 그 줄에 "지도에는 표시되지 않습니다" 를 띄웁니다.
+     이름만 넣으면 대체로 못 찾습니다 (도로명주소를 넣어야 합니다).       */
+  function geocode(addr, hl, done) {
+    var s = String(addr || '').replace(/^\s+|\s+$/g, '');
+    if (!s) { done(null); return; }
+    var url = 'https://maps.google.com/maps?q=' + encodeURIComponent(s)
+            + '&output=embed&hl=' + encodeURIComponent(hl || 'ko');
+    var settled = false;
+    function finish(v) { if (settled) return; settled = true; clearTimeout(timer); done(v); }
+    var timer = setTimeout(function () { finish(null); }, 6000);
+    try {
+      fetch(url, { credentials: 'omit' })
+        .then(function (r) { return r.text(); })
+        .then(function (h) {
+          // 확정 주소 문자열 바로 뒤에 좌표가 옵니다 (한반도 범위로 좁힙니다)
+          var m = h.match(/"([^"]{4,90})",\[(3[3-8]\.\d{4,}),(12[4-9]\.\d{4,}|13[01]\.\d{4,})/);
+          finish(m ? { name: m[1], lat: m[2], lng: m[3] } : null);
+        }, function () { finish(null); });
+    } catch (e) { finish(null); }
+  }
+
+  function setBusy(on) {
+    var el = document.querySelector('.route-busy');
+    if (el) el.hidden = !on;
+  }
+
+  /** 좌표가 없으면 찾아서 채웁니다. 끝나면 save() 를 부릅니다. */
+  function withCoords(it, save) {
+    if (it.lat && it.lng) { save(it); return; }
+    var box = document.getElementById('route');
+    var hl = box ? (box.getAttribute('data-hl') || 'ko') : 'ko';
+    setBusy(true);
+    geocode(it.a || it.n, hl, function (g) {
+      setBusy(false);
+      if (g) { it.lat = g.lat; it.lng = g.lng; it.warn = 0; if (!it.a) it.a = g.name; }
+      save(it);
+    });
+  }
   function setOriginFromInput() {
     var input = document.getElementById('route-origin-input');
     if (!input) return;
@@ -816,8 +873,7 @@
     if (!v) { oWrite(null); paint(); return; }
     var it = parsePlace(v);
     if (!it) return;
-    oWrite(it);
-    paint();
+    withCoords(it, function (x) { oWrite(x); paint(); });
   }
 
   function exportKml() {

@@ -1147,6 +1147,8 @@ function build() {
         routeDayNames:   escapeHtml(t.routeDayNames),
         routeUnknown:    escapeHtml(t.routeUnknown),
         routeClosedBadge: escapeHtml(t.routeClosedBadge),
+        routeFinding:    escapeHtml(t.routeFinding),
+        routeNoCoord:    escapeHtml(t.routeNoCoord),
         routeOrigin:     escapeHtml(t.routeOrigin),
         routeOriginPh:   escapeHtml(t.routeOriginPh),
         routeExport:     escapeHtml(t.routeExport),

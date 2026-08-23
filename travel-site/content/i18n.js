@@ -32,7 +32,7 @@ module.exports = {
     searchPlaceholder: '지역이나 키워드로 찾기',
     searchTitle:   '검색 결과',
     searchCountTpl: '{n}개가 검색되었습니다',
-    searchJump:    '결과 보기'
+    searchJump:    '결과 보기',
 
     suggestMsg: '이 페이지는 한국어로도 볼 수 있습니다',
     suggestGo:  '한국어로 보기',
@@ -88,6 +88,8 @@ module.exports = {
     routeAddPh:     '구글 지도 주소창 또는 도로명주소를 붙여넣으세요',
     routeAdd:       '추가',
     routeNameWarn:  '이름만 넣으면 다른 곳이 잡힐 수 있습니다 — 지도에서 확인하세요',
+    routeFinding:  '위치를 찾는 중입니다…',
+    routeNoCoord:  '좌표를 못 찾아 지도에는 표시되지 않습니다. 구글 지도 주소창을 붙여넣으면 표시됩니다.',
     routeCopy:      '주소 복사',
     routeCopied:    '복사했습니다',
     routeClosedWarn: '{day}에 가면 {n}곳이 문을 닫습니다',
@@ -127,7 +129,7 @@ module.exports = {
     searchPlaceholder: 'Search a region or keyword',
     searchTitle:   'Search results',
     searchCountTpl: '{n} found',
-    searchJump:    'See results'
+    searchJump:    'See results',
 
     suggestMsg: 'This page is also available in English',
     suggestGo:  'Read in English',
@@ -183,6 +185,8 @@ module.exports = {
     routeAddPh:     'Paste a Google Maps URL or a street address',
     routeAdd:       'Add',
     routeNameWarn:  'A bare name may match the wrong place — check it on the map',
+    routeFinding:  'Finding the location…',
+    routeNoCoord:  'No coordinates, so it is not shown on the map. Paste a Google Maps URL instead.',
     routeCopy:      'Copy address',
     routeCopied:    'Copied',
     routeClosedWarn: '{n} of these are closed on {day}',
@@ -222,7 +226,7 @@ module.exports = {
     searchPlaceholder: '地域やキーワードで検索',
     searchTitle:   '検索結果',
     searchCountTpl: '{n}件見つかりました',
-    searchJump:    '結果を見る'
+    searchJump:    '結果を見る',
 
     suggestMsg: 'このページは日本語でもご覧いただけます',
     suggestGo:  '日本語で読む',
@@ -278,6 +282,8 @@ module.exports = {
     routeAddPh:     'Google マップのURL、または道路名住所を貼り付けてください',
     routeAdd:       '追加',
     routeNameWarn:  '名前だけでは別の場所が選ばれることがあります — 地図で確認してください',
+    routeFinding:  '位置を探しています…',
+    routeNoCoord:  '座標が分からず地図には表示されません。Google マップのURLを貼ると表示されます。',
     routeCopy:      '住所をコピー',
     routeCopied:    'コピーしました',
     routeClosedWarn: '{day}に行くと{n}軒が定休日です',
@@ -317,7 +323,7 @@ module.exports = {
     searchPlaceholder: '搜索地区或关键词',
     searchTitle:   '搜索结果',
     searchCountTpl: '共找到 {n} 篇',
-    searchJump:    '查看结果'
+    searchJump:    '查看结果',
 
     suggestMsg: '本页也有简体中文版',
     suggestGo:  '查看简体中文',
@@ -373,6 +379,8 @@ module.exports = {
     routeAddPh:     '粘贴谷歌地图网址或街道地址',
     routeAdd:       '添加',
     routeNameWarn:  '只输入名称可能匹配到别的地方 — 请在地图上确认',
+    routeFinding:  '正在查找位置…',
+    routeNoCoord:  '未能确定坐标，不会显示在地图上。粘贴谷歌地图网址试试。',
     routeCopy:      '复制地址',
     routeCopied:    '已复制',
     routeClosedWarn: '{day}有{n}家不营业',

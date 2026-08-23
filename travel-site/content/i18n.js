@@ -90,12 +90,13 @@ module.exports = {
     routeClosedWarn: '{day}에 가면 {n}곳이 문을 닫습니다',
     routeDayNames:  '일요일,월요일,화요일,수요일,목요일,금요일,토요일',
     routeUnknown:   '휴무 정보 없음',
+    routeClosedBadge: '{days} 휴무',
     routeOrigin:     '출발지 (숙소 등)',
     routeOriginPh:   '구글 지도 주소창 또는 도로명주소',
     routeExport:     '구글 지도용 파일 저장 (KML)',
     routeExportHint: '내려받은 파일을 구글 내 지도(mymaps.google.com)에서 가져오면 1·2·3 번호가 붙은 지도가 만들어집니다. 그 지도는 구글 지도 앱의 저장됨 → 지도 에도 나타납니다.',
     routeSkipped:    '좌표가 없는 {n}곳은 파일에서 빠집니다',
-    routeMapNote:    '위·경도로 위치 관계를 그린 것입니다. 실제 지도가 아닙니다. 길은 구간마다 있는 길찾기로 확인하세요.',
+    routeMapNote:    '배경은 구글 지도이고, 번호와 화살표는 저장한 순서입니다. 실제 길과 소요시간은 구간마다 있는 길찾기로 확인하세요.',
     saveHint:        '저장하면 동선을 짤 수 있습니다'
   },
 
@@ -181,12 +182,13 @@ module.exports = {
     routeClosedWarn: '{n} of these are closed on {day}',
     routeDayNames:  'Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday',
     routeUnknown:   'No closing-day info',
+    routeClosedBadge: 'Closed {days}',
     routeOrigin:     'Starting point (your hotel, etc.)',
     routeOriginPh:   'Paste a Google Maps URL or a street address',
     routeExport:     'Save as a Google Maps file (KML)',
     routeExportHint: 'Import the downloaded file into Google My Maps (mymaps.google.com) and you get a map with numbered stops. That map also appears under Saved in the Google Maps app.',
     routeSkipped:    '{n} stop(s) without coordinates are left out of the file',
-    routeMapNote:    'Positions drawn from latitude and longitude — not an actual map. Use the Directions link on each leg for streets.',
+    routeMapNote:    'The map is Google Maps; the numbers and arrows are your saved order. Use the Directions link on each leg for the actual route and timing.',
     saveHint:        'Save places to build a route'
   },
 
@@ -272,12 +274,13 @@ module.exports = {
     routeClosedWarn: '{day}に行くと{n}軒が定休日です',
     routeDayNames:  '日曜日,月曜日,火曜日,水曜日,木曜日,金曜日,土曜日',
     routeUnknown:   '定休日の情報なし',
+    routeClosedBadge: '{days} 定休',
     routeOrigin:     '出発地（宿など）',
     routeOriginPh:   'Google マップのURL、または道路名住所',
     routeExport:     'Google マップ用ファイルを保存（KML）',
     routeExportHint: 'ダウンロードしたファイルを「Google マイマップ」(mymaps.google.com) で読み込むと、1・2・3 と番号の付いた地図ができます。その地図は Google マップアプリの「保存済み → マイマップ」にも表示されます。',
     routeSkipped:    '座標がない{n}か所はファイルに入りません',
-    routeMapNote:    '緯度・経度から位置関係を描いた図です。実際の地図ではありません。道順は各区間の「ルート検索」で確認してください。',
+    routeMapNote:    '背景はGoogle マップで、番号と矢印は保存した順番です。実際の道順と所要時間は各区間の「ルート検索」で確認してください。',
     saveHint:        '保存するとルートを組めます'
   },
 
@@ -363,12 +366,13 @@ module.exports = {
     routeClosedWarn: '{day}有{n}家不营业',
     routeDayNames:  '星期日,星期一,星期二,星期三,星期四,星期五,星期六',
     routeUnknown:   '无休息日信息',
+    routeClosedBadge: '{days} 休息',
     routeOrigin:     '出发地（住处等）',
     routeOriginPh:   '粘贴谷歌地图网址或街道地址',
     routeExport:     '保存为谷歌地图文件（KML）',
     routeExportHint: '把下载的文件在「谷歌我的地图」(mymaps.google.com) 里导入，就会生成带 1·2·3 编号的地图。该地图也会出现在谷歌地图App的「已保存 → 地图」里。',
     routeSkipped:    '没有坐标的 {n} 个地点不会写入文件',
-    routeMapNote:    '这是用经纬度画出的位置关系图，不是实际地图。街道请用下面各段的「路线」按钮查看。',
+    routeMapNote:    '背景是谷歌地图，编号和箭头是你收藏的顺序。实际路线和时间请用各段的「路线」按钮查看。',
     saveHint:        '收藏后可以规划路线'
   }
 };

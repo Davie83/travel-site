@@ -279,14 +279,19 @@
       + '&hl=' + encodeURIComponent(hl);
   }
 
+  /** 휴무 배지 문구. "일요일" 만 적으면 그 날 여는 것처럼 읽혀서
+   *  "일요일 휴무" 처럼 휴무라는 말을 반드시 붙입니다.
+   *  (글 정보표에서도 같은 이유로 이 규칙을 씁니다) */
   function dayLabels(closed, box) {
     var names = (box.getAttribute('data-t-days') || '').split(',');
+    var tpl = box.getAttribute('data-t-closedbadge') || '{days}';
     var parts = String(closed).split(','), out = [];
     for (var i = 0; i < parts.length; i++) {
       var d = DAYKEY[parts[i].replace(/^\s+|\s+$/g, '')];
       if (d !== undefined && names[d]) out.push(names[d]);
     }
-    return out.join(' / ');
+    if (!out.length) return '';
+    return tpl.replace('{days}', out.join('·'));
   }
 
   /* ---- 붙여넣은 값 해석 ------------------------------------------------
@@ -430,6 +435,36 @@
      "몇 번을 어떤 순서로 도는지"를 바로 보여주는 그림입니다.
      (홈의 대한민국 지도와 같은 방식입니다)
      경도 1도는 위도 1도보다 짧아서 cos(위도) 로 x 를 줄입니다.       */
+  /* ---- 동선 지도 ---------------------------------------------------------
+     배경은 구글 지도 임베드(iframe), 그 위에 번호·선·화살표를 올립니다.
+
+     왜 이렇게 하나 —
+       한국에서는 구글 지도가 여러 지점을 한 번에 이어주지 못합니다.
+       자동차 길찾기를 제공하지 않아(지도 데이터 규제) 여러 지점 경유가 막히고,
+       Embed API 는 지점 하나만 찍습니다. 그래서 지도는 배경으로만 쓰고
+       순서 표시는 우리가 직접 그립니다.
+
+     좌표 계산 —
+       구글 지도는 웹 메르카토르를 씁니다. 확대 z 에서 세계 폭은 256*2^z 픽셀이고,
+       화면 중심이 ll= 로 준 좌표입니다. 그래서 각 지점의 화면 위치는
+       중심과의 메르카토르 차이에 세계 폭을 곱해서 구합니다.
+       임베드는 정수 확대만 받으므로, 모든 지점이 들어가는 가장 큰 정수를 고릅니다.
+
+     iframe 이 안 뜨더라도 번호와 선은 그대로 보입니다.
+     지도는 손대지 못하게 pointer-events 를 끕니다 (움직이면 핀이 어긋납니다).
+     -------------------------------------------------------------------- */
+  function merX(lng) { return (lng + 180) / 360; }
+  function merY(lat) {
+    var s = Math.sin(lat * Math.PI / 180);
+    if (s > 0.9999) s = 0.9999;
+    if (s < -0.9999) s = -0.9999;
+    return 0.5 - Math.log((1 + s) / (1 - s)) / (4 * Math.PI);
+  }
+  function latOfMerY(y) {
+    var n = Math.PI - 2 * Math.PI * y;
+    return 180 / Math.PI * Math.atan(0.5 * (Math.exp(n) - Math.exp(-n)));
+  }
+
   function paintRouteMap(items, box) {
     var wrap = box.querySelector('.route-map');
     if (!wrap) return;
@@ -442,23 +477,32 @@
     if (pts.length < 2) { wrap.hidden = true; wrap.innerHTML = ''; return; }
     wrap.hidden = false;
 
-    var minLa = 90, maxLa = -90, minLn = 180, maxLn = -180;
-    for (i = 0; i < pts.length; i++) {
-      minLa = Math.min(minLa, pts[i].g.lat); maxLa = Math.max(maxLa, pts[i].g.lat);
-      minLn = Math.min(minLn, pts[i].g.lng); maxLn = Math.max(maxLn, pts[i].g.lng);
-    }
-    var midLa = (minLa + maxLa) / 2;
-    var kx = Math.cos(midLa * Math.PI / 180);
-    var spanX = Math.max((maxLn - minLn) * kx, 0.0001);
-    var spanY = Math.max(maxLa - minLa, 0.0001);
+    var W = Math.round(wrap.clientWidth) || 600;
+    var H = Math.max(260, Math.min(460, Math.round(W * 0.68)));
+    var PAD = 46;
 
-    // 가로세로 비율을 유지하면서 화면에 채웁니다
-    var W = 600, H = 420, PAD = 58;
-    var s = Math.min((W - PAD * 2) / spanX, (H - PAD * 2) / spanY);
-    var offX = (W - spanX * s) / 2, offY = (H - spanY * s) / 2;
+    var minX = 1, maxX = 0, minY = 1, maxY = 0;
     for (i = 0; i < pts.length; i++) {
-      pts[i].x = offX + ((pts[i].g.lng - minLn) * kx) * s;
-      pts[i].y = offY + (maxLa - pts[i].g.lat) * s;   // 위쪽이 북쪽
+      var mx = merX(pts[i].g.lng), my = merY(pts[i].g.lat);
+      pts[i].mx = mx; pts[i].my = my;
+      if (mx < minX) minX = mx; if (mx > maxX) maxX = mx;
+      if (my < minY) minY = my; if (my > maxY) maxY = my;
+    }
+    var spanX = Math.max(maxX - minX, 1e-9), spanY = Math.max(maxY - minY, 1e-9);
+
+    // 모든 지점이 들어가는 가장 큰 정수 확대
+    var z = 4;
+    for (var t = 16; t >= 4; t--) {
+      var world = 256 * Math.pow(2, t);
+      if (spanX * world <= (W - PAD * 2) && spanY * world <= (H - PAD * 2)) { z = t; break; }
+    }
+    var worldPx = 256 * Math.pow(2, z);
+    var cX = (minX + maxX) / 2, cY = (minY + maxY) / 2;
+    var cLng = cX * 360 - 180, cLat = latOfMerY(cY);
+
+    for (i = 0; i < pts.length; i++) {
+      pts[i].x = W / 2 + (pts[i].mx - cX) * worldPx;
+      pts[i].y = H / 2 + (pts[i].my - cY) * worldPx;
     }
 
     var seg = '', dots = '', labels = '';
@@ -466,29 +510,44 @@
       var p = pts[i];
       if (i < pts.length - 1) {
         var q = pts[i + 1];
-        // 원에 가려지지 않게 양 끝을 조금 잘라냅니다
         var dx = q.x - p.x, dy = q.y - p.y, len = Math.sqrt(dx * dx + dy * dy) || 1;
-        var ux = dx / len, uy = dy / len, cut = 17;
-        seg += '<line class="rm-line" x1="' + (p.x + ux * cut).toFixed(1) + '" y1="' + (p.y + uy * cut).toFixed(1)
-             + '" x2="' + (q.x - ux * cut).toFixed(1) + '" y2="' + (q.y - uy * cut).toFixed(1) + '"/>';
+        var ux = dx / len, uy = dy / len, cut = 16;
+        if (len > cut * 2.2) {
+          seg += '<line class="rm-line" x1="' + (p.x + ux * cut).toFixed(1) + '" y1="' + (p.y + uy * cut).toFixed(1)
+               + '" x2="' + (q.x - ux * cut).toFixed(1) + '" y2="' + (q.y - uy * cut).toFixed(1) + '"/>';
+        }
       }
       dots += '<circle class="rm-dot" cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="13"/>'
             + '<text class="rm-num" x="' + p.x.toFixed(1) + '" y="' + p.y.toFixed(1) + '" dy="0.35em">' + p.n + '</text>';
-      // 이름은 점 위쪽에, 화면 밖으로 나가지 않게 좌우 정렬을 바꿉니다
-      var anchor = p.x < 80 ? 'start' : (p.x > W - 80 ? 'end' : 'middle');
+      var anchor = p.x < 76 ? 'start' : (p.x > W - 76 ? 'end' : 'middle');
       labels += '<text class="rm-label" x="' + p.x.toFixed(1) + '" y="' + (p.y - 19).toFixed(1)
              + '" text-anchor="' + anchor + '">' + esc(shortName(p.name)) + '</text>';
     }
 
-    wrap.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="'
-      + esc(box.getAttribute('data-t-maplabel') || '') + '">'
+    var hl = box.getAttribute('data-hl') || 'ko';
+    var src = 'https://maps.google.com/maps?ll=' + cLat.toFixed(6) + ',' + cLng.toFixed(6)
+            + '&z=' + z + '&output=embed&hl=' + encodeURIComponent(hl);
+
+    wrap.style.height = H + 'px';
+    wrap.innerHTML =
+        '<iframe class="rm-frame" src="' + esc(src) + '" width="' + W + '" height="' + H + '"'
+      + ' loading="lazy" referrerpolicy="no-referrer-when-downgrade"'
+      + ' title="' + esc(box.getAttribute('data-t-maplabel') || '') + '"></iframe>'
+      + '<svg class="rm-over" viewBox="0 0 ' + W + ' ' + H + '" width="' + W + '" height="' + H + '" aria-hidden="true">'
       + '<defs><marker id="rm-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">'
       + '<path d="M0,0 L10,5 L0,10 z"/></marker></defs>'
       + seg + dots + labels
       + '</svg>';
   }
 
-  /** 지도 이름표는 짧아야 읽힙니다. 글 제목에서 설명 부분을 떼어냅니다. */
+  // 창 크기가 바뀌면 지도 폭이 달라져 핀이 어긋납니다. 다시 그립니다.
+  var rzT = null;
+  window.addEventListener('resize', function () {
+    if (!document.getElementById('route')) return;
+    clearTimeout(rzT);
+    rzT = setTimeout(paint, 260);
+  });
+
   function shortName(s) {
     return String(s || '').split(' — ')[0].split(' - ')[0].slice(0, 18);
   }

@@ -840,3 +840,46 @@ a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85
   .route-add-row{flex-wrap:wrap;}
   .route-add-btn{width:100%;}
 }
+
+/* ---- 출발지 · 파일 저장 (동선) ---- */
+.route-origin{margin:0 0 14px;padding:12px;border-radius:10px;background:var(--ground);border:1px solid var(--line);}
+.route-origin label{display:block;font-size:12px;font-weight:700;margin-bottom:6px;color:var(--ink-mute);}
+.route-origin input{
+  width:100%;box-sizing:border-box;font:inherit;font-size:13px;padding:9px 12px;
+  border:1px solid var(--line-hard);border-radius:9px;background:var(--surface);color:var(--ink);
+}
+.route-origin input:focus{outline:none;border-color:var(--ink);}
+
+/* 출발지 칸은 순서를 바꾸지 않습니다 — 늘 첫 번째입니다 */
+.route-item.is-origin{border-style:dashed;}
+.route-tag{
+  display:inline-block;margin-bottom:3px;font-size:10.5px;font-weight:800;
+  letter-spacing:.02em;padding:2px 8px;border-radius:999px;
+  background:var(--surface);color:var(--ink-mute);border:1px solid var(--line-hard);
+}
+.route-origin-clear{
+  width:26px;height:22px;line-height:1;font-size:10px;padding:0;
+  border:1px solid var(--line);border-radius:6px;background:none;color:var(--ink-mute);cursor:pointer;
+}
+.route-origin-clear:hover{border-color:var(--ink);color:var(--ink);}
+
+.route-export{margin:16px 0 0;padding-top:14px;border-top:1px solid var(--line);}
+.route-export-btn{
+  font-size:13px;font-weight:700;padding:9px 16px;border-radius:9px;
+  border:1px solid var(--line-hard);background:var(--ground);color:var(--ink);cursor:pointer;
+}
+.route-export-btn:hover{border-color:var(--ink);}
+.route-export-hint{margin:8px 0 0;font-size:11.5px;color:var(--ink-mute);line-height:1.65;}
+.route-skipped{
+  margin:7px 0 0;font-size:11.5px;line-height:1.6;
+  color:color-mix(in srgb,var(--danger) 80%,var(--ink));
+}
+
+/* 글 상세의 "저장하면 동선을 짤 수 있습니다" */
+.save-hint{margin:8px 0 0;font-size:12px;color:var(--ink-mute);line-height:1.6;}
+.save-hint a{border-bottom:1px solid var(--line-hard);}
+.save-hint a:hover{border-bottom-color:var(--ink);}
+
+@media (max-width:600px){
+  .route-export-btn{width:100%;}
+}

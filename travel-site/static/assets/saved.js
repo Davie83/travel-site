@@ -186,7 +186,7 @@
 
   // 다른 탭에서 저장/취소했을 때도 화면을 맞춰줍니다
   window.addEventListener('storage', function (e) {
-    if (!e.key || e.key === KEY || e.key === RKEY) paint();
+    if (!e.key || e.key === KEY || e.key === RKEY || e.key === OKEY) paint();
   });
 
 
@@ -339,8 +339,9 @@
     }
 
     box.hidden = items.length === 0;
+    syncOriginInput();
     if (!listEl) return;
-    if (!items.length) { listEl.innerHTML = ''; return; }
+    if (!items.length) { listEl.innerHTML = ''; setSkipped(box, 0); return; }
 
     var hl    = box.getAttribute('data-hl') || 'ko';
     var tDir  = box.getAttribute('data-t-dir') || '';
@@ -350,7 +351,29 @@
     var tCopy = box.getAttribute('data-t-copy') || '';
     var tUnk  = box.getAttribute('data-t-unknown') || '';
     var tWarn = box.getAttribute('data-t-namewarn') || '';
+    var tOrg  = box.getAttribute('data-t-origin') || '';
+
+    // 출발지가 있으면 1번이 되고 저장한 곳은 2번부터 시작합니다.
+    // 화면 번호와 내려받는 파일의 번호를 똑같이 맞추기 위해서입니다.
+    var org = oRead();
+    var start = org ? 2 : 1;
     var html = '';
+
+    if (org) {
+      html += '<li class="route-item is-origin">'
+        + '<span class="route-num">1</span>'
+        + '<div class="route-body">'
+        + '<span class="route-tag">' + esc(tOrg) + '</span>'
+        + '<span class="route-name">' + esc(org.n || org.a) + '</span>'
+        + (org.a && org.a !== org.n ? ('<span class="route-sub">' + esc(org.a) + '</span>') : '')
+        + (org.warn ? ('<span class="route-warnrow">' + esc(tWarn)
+            + ' <a href="' + esc(searchUrl(org.n, hl)) + '" target="_blank" rel="noopener">&#8599;</a></span>') : '')
+        + '</div>'
+        + '<div class="route-move">'
+        + '<button class="route-origin-clear" type="button" aria-label="' + esc(tDrop) + '">&#10005;</button>'
+        + '</div></li>';
+      html += legHtml(org, items[0], hl, tDir);
+    }
 
     for (i = 0; i < items.length; i++) {
       var it = items[i], nxt = items[i + 1], sub = [];
@@ -358,7 +381,7 @@
       if (it.closed === 'unknown') sub.push(esc(tUnk));
 
       html += '<li class="route-item">'
-        + '<span class="route-num">' + (i + 1) + '</span>'
+        + '<span class="route-num">' + (i + start) + '</span>'
         + '<div class="route-body">'
         + '<span class="route-name">'
         + (it.href ? ('<a href="' + esc(it.href) + '">' + esc(it.n) + '</a>') : esc(it.n))
@@ -376,18 +399,41 @@
         + '<button class="route-drop" type="button" data-i="' + i + '" aria-label="' + esc(tDrop) + '">&#10005;</button>'
         + '</div></li>';
 
-      if (nxt) {
-        var d = km(geo(it), geo(nxt));
-        html += '<li class="route-leg">'
-          + (d !== null ? '<span class="route-km">' + (d < 1 ? (Math.round(d * 1000) + ' m') : (d.toFixed(1) + ' km')) + '</span>' : '')
-          + '<a class="route-dir" href="' + esc(dirUrl(it, nxt, hl)) + '" target="_blank" rel="noopener">' + esc(tDir) + '</a>'
-          + '</li>';
-      }
+      if (nxt) html += legHtml(it, nxt, hl, tDir);
     }
+
     listEl.innerHTML = html;
     paintRouteWarn(items, box);
+
+    // 파일에서 빠지는 지점(좌표 없음) 개수를 미리 알려줍니다
+    var all = org ? [org].concat(items) : items;
+    var noGeo = 0;
+    for (i = 0; i < all.length; i++) if (!geo(all[i])) noGeo++;
+    setSkipped(box, noGeo);
   }
 
+  /** 두 지점 사이 한 칸 — 직선거리와 대중교통 길찾기 링크 */
+  function legHtml(a, b, hl, tDir) {
+    var d = km(geo(a), geo(b));
+    return '<li class="route-leg">'
+      + (d !== null ? ('<span class="route-km">' + (d < 1 ? (Math.round(d * 1000) + ' m') : (d.toFixed(1) + ' km')) + '</span>') : '')
+      + '<a class="route-dir" href="' + esc(dirUrl(a, b, hl)) + '" target="_blank" rel="noopener">' + esc(tDir) + '</a>'
+      + '</li>';
+  }
+
+  function setSkipped(box, n) {
+    var el = box.querySelector('.route-skipped');
+    if (!el) return;
+    el.hidden = n === 0;
+    if (n > 0) el.textContent = (el.getAttribute('data-tpl') || '').replace('{n}', String(n));
+  }
+
+  function syncOriginInput() {
+    var input = document.getElementById('route-origin-input');
+    if (!input || input === document.activeElement) return;
+    var org = oRead();
+    input.value = org ? (org.a || org.n || '') : '';
+  }
   /** "일요일에 가면 3곳이 문을 닫습니다" — 이 사이트만 할 수 있는 안내입니다.
    *  구글 지도는 여러 곳의 휴무를 한 번에 알려주지 않습니다. */
   function paintRouteWarn(items, box) {
@@ -477,7 +523,7 @@
     var box = document.getElementById('route');
     if (!box) return;
 
-    var b = up(e.target, '.route-up, .route-down, .route-drop, .route-copy, .route-sort, .route-add-btn');
+    var b = up(e.target, '.route-up, .route-down, .route-drop, .route-copy, .route-sort, .route-add-btn, .route-export-btn, .route-origin-clear');
     if (!b) return;
     e.preventDefault();
     var i = parseInt(b.getAttribute('data-i'), 10);
@@ -486,7 +532,9 @@
     if (b.classList.contains('route-down')) { routeMove(i, i + 1); return; }
     if (b.classList.contains('route-drop')) { routeRemove(i); return; }
     if (b.classList.contains('route-sort')) { routeSort(); return; }
-    if (b.classList.contains('route-add-btn')) { routeAdd(box); return; }
+    if (b.classList.contains("route-add-btn")) { routeAdd(box); return; }
+    if (b.classList.contains("route-export-btn")) { exportKml(); return; }
+    if (b.classList.contains("route-origin-clear")) { oWrite(null); paint(); return; }
 
     if (b.classList.contains('route-copy')) {
       var txt = b.getAttribute('data-copy') || '';
@@ -512,9 +560,141 @@
   document.addEventListener('keydown', function (e) {
     if (e.key !== 'Enter') return;
     var t = e.target;
-    if (!t || t.id !== 'route-add-input') return;
+    if (!t) return;
+    if (t.id === 'route-origin-input') { e.preventDefault(); t.blur(); return; }
+    if (t.id !== 'route-add-input') return;
     e.preventDefault();
     routeAdd(document.getElementById('route'));
+  });
+
+  /* ---- 출발지 ------------------------------------------------------------
+     숙소를 넣어두면 첫 구간이 여기서 시작합니다. 동선과 따로 저장합니다 —
+     저장한 곳을 다 지워도 숙소는 그대로 남아 있어야 편합니다. */
+  var OKEY = 'kfoodtrip.origin';
+
+  function oRead() {
+    try {
+      var v = JSON.parse(localStorage.getItem(OKEY) || 'null');
+      return (v && typeof v === 'object' && (v.a || v.n || v.lat)) ? v : null;
+    } catch (e) { return null; }
+  }
+  function oWrite(v) {
+    try {
+      if (v) localStorage.setItem(OKEY, JSON.stringify(v));
+      else localStorage.removeItem(OKEY);
+    } catch (e) {}
+  }
+
+  /* ---- 구글 내 지도로 가져갈 KML -----------------------------------------
+     구글 지도 앱은 KML 을 직접 열지 못합니다. 구글 내 지도(mymaps.google.com)
+     에서 "가져오기" 하면 번호가 붙은 지점과 이어진 선이 생기고, 그 지도가
+     구글 지도 앱의 저장됨 목록에도 나타납니다.
+
+     KML 의 좌표 순서는 위도,경도가 아니라 경도,위도 입니다. 자주 틀리는 곳입니다.
+     좌표가 없는 지점(주소만 넣은 곳)은 넣을 수 없어서 건너뛰고 몇 곳인지 알립니다. */
+  function kmlEsc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+
+  /** 번호만 붙인 사본. 원본 항목을 건드리지 않기 위해서입니다. */
+  function shallow(it, num) {
+    return { t: it.t, n: it.n, a: it.a, lat: it.lat, lng: it.lng, closed: it.closed, num: num };
+  }
+  function buildKml(items, title) {
+    var pts = [], i, skipped = 0;
+    for (i = 0; i < items.length; i++) {
+      var g = geo(items[i]);
+      if (g) pts.push({ it: items[i], g: g }); else skipped++;
+    }
+    if (!pts.length) return { xml: '', skipped: skipped, n: 0 };
+
+    var marks = '', line = [];
+    for (i = 0; i < pts.length; i++) {
+      var it = pts[i].it, g2 = pts[i].g;
+      var label = (it.num ? it.num : (i + 1)) + '. ' + (it.n || '');
+      marks += '  <Placemark>\n'
+        + '    <name>' + kmlEsc(label) + '</name>\n'
+        + (it.a ? ('    <description>' + kmlEsc(it.a) + '</description>\n') : '')
+        + '    <styleUrl>#stop</styleUrl>\n'
+        + '    <Point><coordinates>' + g2.lng + ',' + g2.lat + ',0</coordinates></Point>\n'
+        + '  </Placemark>\n';
+      line.push(g2.lng + ',' + g2.lat + ',0');
+    }
+
+    var xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+      + '<kml xmlns="http://www.opengis.net/kml/2.2">\n<Document>\n'
+      + '  <name>' + kmlEsc(title) + '</name>\n'
+      + '  <Style id="stop"><IconStyle><scale>1.1</scale></IconStyle></Style>\n'
+      + '  <Style id="path"><LineStyle><color>ff2b7ce0</color><width>4</width></LineStyle></Style>\n'
+      + marks
+      + (line.length > 1
+          ? ('  <Placemark>\n    <name>' + kmlEsc(title) + '</name>\n'
+             + '    <styleUrl>#path</styleUrl>\n'
+             + '    <LineString><tessellate>1</tessellate>\n'
+             + '      <coordinates>' + line.join(' ') + '</coordinates>\n'
+             + '    </LineString>\n  </Placemark>\n')
+          : '')
+      + '</Document>\n</kml>\n';
+
+    return { xml: xml, skipped: skipped, n: pts.length };
+  }
+
+  function download(name, text) {
+    try {
+      var blob = new Blob([text], { type: 'application/vnd.google-earth.kml+xml' });
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      a.href = url; a.download = name;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(function () { URL.revokeObjectURL(url); }, 4000);
+      return true;
+    } catch (e) { return false; }
+  }
+
+  function setOriginFromInput() {
+    var input = document.getElementById('route-origin-input');
+    if (!input) return;
+    var v = String(input.value || '').replace(/^\s+|\s+$/g, '');
+    if (!v) { oWrite(null); paint(); return; }
+    var it = parsePlace(v);
+    if (!it) return;
+    oWrite(it);
+    paint();
+  }
+
+  function exportKml() {
+    var box = document.getElementById('route');
+    if (!box) return;
+    var route = rSync(read()), items = [], i;
+    for (i = 0; i < route.length; i++) {
+      if (route[i].t === 'c') { items.push(route[i]); continue; }
+      var p = postItem(route[i].s);
+      if (p) items.push(p);
+    }
+    var org = oRead();
+    var all = org ? [org].concat(items) : items;
+    if (!all.length) return;
+
+    // 화면에 보이는 번호를 그대로 파일에 씁니다.
+    // 좌표가 없어 빠지는 지점이 있으면 번호가 중간에 비는데,
+    // 화면과 파일의 번호가 어긋나는 것보다 이게 낫습니다.
+    for (i = 0; i < all.length; i++) all[i] = shallow(all[i], i + 1);
+
+    var head = document.querySelector('.route-head h2');
+    var title = head ? head.textContent.replace(/^\s+|\s+$/g, '') : 'route';
+    var out = buildKml(all, title);
+    if (!out.n) return;
+    download('kfoodtrip-route.kml', out.xml);
+  }
+
+  // 출발지는 입력칸에서 포커스가 빠질 때 저장합니다.
+  // change 만 쓰면 붙여넣고 바로 다른 곳을 눌렀을 때 놓칩니다.
+  document.addEventListener('focusout', function (e) {
+    if (e.target && e.target.id === 'route-origin-input') setOriginFromInput();
   });
   paint();
 })();

@@ -711,13 +711,20 @@ function infoTableHTML(info, mapUrl, t) {
 /** 저장(즐겨찾기) 버튼.
  *  방문자 기기(localStorage)에만 저장되므로 서버도 로그인도 필요하지 않습니다.
  *  big=true 는 글 상세용(글자까지 표시), false 는 카드용(별만 표시). */
-function saveBtnHTML(slug, t, big) {
+/** 저장 버튼.
+ *  big=true (글 상세) 이고 base/code 가 넘어오면 아래에 안내 한 줄을 붙입니다 —
+ *  "저장하면 동선을 짤 수 있습니다". 별을 눌러도 무엇에 쓰는지 모르면
+ *  아무도 누르지 않습니다. */
+function saveBtnHTML(slug, t, big, base, code) {
   const add = escapeHtml(t.saveAdd), done = escapeHtml(t.saveDone);
-  return `<button class="save-btn${big ? '' : ' save-sm'}" type="button" data-save="${escapeHtml(slug)}"`
+  const btn = `<button class="save-btn${big ? '' : ' save-sm'}" type="button" data-save="${escapeHtml(slug)}"`
        + ` data-add="${add}" data-done="${done}" aria-pressed="false" aria-label="${add}" title="${add}">`
        + `<span class="save-ico" aria-hidden="true">☆</span>`
        + (big ? `<span class="save-txt">${add}</span>` : '')
        + `</button>`;
+  if (!big || base === undefined || !t.saveHint) return btn;
+  const d = localeDir(code);
+  return btn + `\n      <p class="save-hint"><a href="${base}${d}saved">${escapeHtml(t.saveHint)}</a></p>`;
 }
 
 /** 헤더의 "저장한 곳" 링크. 개수는 assets/saved.js 가 채웁니다. */
@@ -1057,7 +1064,7 @@ function build() {
         headExtra: `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`,
         body: fill(T.post, {
           regionSlug: m.region,
-          saveBtn: saveBtnHTML(p.slug, t, true),
+          saveBtn: saveBtnHTML(p.slug, t, true, base, code),
           badges: badgesHTML(m, base, code, t, true),
           byline: bylineHTML(t),
           regionHref: `${base}${d}region/${m.region}`,
@@ -1136,6 +1143,11 @@ function build() {
         routeClosedWarn: escapeHtml(t.routeClosedWarn),
         routeDayNames:   escapeHtml(t.routeDayNames),
         routeUnknown:    escapeHtml(t.routeUnknown),
+        routeOrigin:     escapeHtml(t.routeOrigin),
+        routeOriginPh:   escapeHtml(t.routeOriginPh),
+        routeExport:     escapeHtml(t.routeExport),
+        routeExportHint: escapeHtml(t.routeExportHint),
+        routeSkipped:    escapeHtml(t.routeSkipped),
         cards:    posts.map(p => cardHTML(p, baseOf(outSaved), code, t)).join('\n')
       })
     }));

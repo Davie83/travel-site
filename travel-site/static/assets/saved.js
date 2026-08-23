@@ -478,8 +478,14 @@
     wrap.hidden = false;
 
     var W = Math.round(wrap.clientWidth) || 600;
-    var H = Math.max(260, Math.min(460, Math.round(W * 0.68)));
-    var PAD = 46;
+    /* 지도 높이.
+       전에는 460px 로 묶어두었는데, 넓은 화면에서 가로 1,266px · 세로 368px 가
+       되어 세로가 먼저 막혔습니다. 여의도 6곳이 166x190px 밖에 차지하지 못하고
+       확대가 한 단계 낮게 잡혔습니다. 세로를 늘리면 그만큼 더 확대됩니다. */
+    var H = Math.max(300, Math.min(560, Math.round(W * 0.62)));
+
+    // 이름표는 핀 위쪽에 붙으므로 위쪽 여백을 더 줍니다
+    var PADX = 30, PADTOP = 52, PADBOT = 30;
 
     var minX = 1, maxX = 0, minY = 1, maxY = 0;
     for (i = 0; i < pts.length; i++) {
@@ -490,14 +496,21 @@
     }
     var spanX = Math.max(maxX - minX, 1e-9), spanY = Math.max(maxY - minY, 1e-9);
 
-    // 모든 지점이 들어가는 가장 큰 정수 확대
+    // 모든 지점이 들어가는 가장 큰 정수 확대 (임베드는 정수만 받습니다)
+    var availW = W - PADX * 2, availH = H - PADTOP - PADBOT;
     var z = 4;
     for (var t = 16; t >= 4; t--) {
       var world = 256 * Math.pow(2, t);
-      if (spanX * world <= (W - PAD * 2) && spanY * world <= (H - PAD * 2)) { z = t; break; }
+      if (spanX * world <= availW && spanY * world <= availH) { z = t; break; }
     }
     var worldPx = 256 * Math.pow(2, z);
-    var cX = (minX + maxX) / 2, cY = (minY + maxY) / 2;
+
+    /* 위아래 여백이 다르므로 동선을 조금 아래로 내려 가운데에 놓습니다.
+       핀을 따로 밀면 지도와 어긋나므로, 지도 중심 자체를 옮깁니다.
+       (핀과 지도가 같은 중심을 쓰기 때문에 정렬이 유지됩니다) */
+    var dy = (PADTOP - PADBOT) / 2;
+    var cX = (minX + maxX) / 2;
+    var cY = (minY + maxY) / 2 - dy / worldPx;
     var cLng = cX * 360 - 180, cLat = latOfMerY(cY);
 
     for (i = 0; i < pts.length; i++) {
@@ -519,8 +532,11 @@
       }
       dots += '<circle class="rm-dot" cx="' + p.x.toFixed(1) + '" cy="' + p.y.toFixed(1) + '" r="13"/>'
             + '<text class="rm-num" x="' + p.x.toFixed(1) + '" y="' + p.y.toFixed(1) + '" dy="0.35em">' + p.n + '</text>';
-      var anchor = p.x < 76 ? 'start' : (p.x > W - 76 ? 'end' : 'middle');
-      labels += '<text class="rm-label" x="' + p.x.toFixed(1) + '" y="' + (p.y - 19).toFixed(1)
+      // 이름표가 지도 밖으로 잘리지 않게 좌우 정렬을 바꾸고 위치를 안쪽으로 당깁니다
+      var anchor = p.x < 82 ? 'start' : (p.x > W - 82 ? 'end' : 'middle');
+      var lx = Math.max(8, Math.min(W - 8, p.x));
+      var ly = Math.max(15, p.y - 19);
+      labels += '<text class="rm-label" x="' + lx.toFixed(1) + '" y="' + ly.toFixed(1)
              + '" text-anchor="' + anchor + '">' + esc(shortName(p.name)) + '</text>';
     }
 

@@ -951,6 +951,9 @@ function build() {
         regionCount: escapeHtml(t.regionCount(site.regions.length)),
         regions: regionCards,
         latestTitle: escapeHtml(t.latest),
+        searchTitle: escapeHtml(t.searchTitle),
+        searchCountTpl: escapeHtml(t.searchCountTpl),
+        searchJump: escapeHtml(t.searchJump),
         latest: posts.map(p => cardHTML(p, baseOf(d + 'index.html'), code, t)).join('\n'),
         noResult: escapeHtml(t.noResult),
         adTop: adSlotHTML('home-top'), adBottom: adSlotHTML('home-bottom')

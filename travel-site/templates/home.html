@@ -7,6 +7,10 @@
         <div class="search-box">
           <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
         </div>
+        <!-- 검색 중에만 나옵니다. 결과가 화면 아래에 있다는 것을 알려주는 줄입니다
+             (검색해도 위쪽 화면이 그대로라 결과를 못 찾는 일이 있었습니다) -->
+        <p class="search-note" data-target="latest-grid" data-tpl="{{searchCountTpl}}"
+           data-jump="{{searchJump}}" data-none="{{noResult}}" aria-live="polite" hidden></p>
       </div>
 {{map}}
     </div>
@@ -27,7 +31,11 @@
     {{adTop}}
 
     <section class="section">
-      <div class="section-head"><h2>{{latestTitle}}</h2></div>
+      <!-- 검색 중에는 제목이 "검색 결과" 로 바뀝니다. filter.js 가 data-search 를 씁니다 -->
+      <div class="section-head">
+        <h2 data-default="{{latestTitle}}" data-search="{{searchTitle}}">{{latestTitle}}</h2>
+        <span class="more search-count" hidden></span>
+      </div>
       <!-- limit-4 : 평소에는 한 행(4개)만 보이고, 검색하면 전체에서 찾습니다 -->
       <div class="grid limit-4" id="latest-grid">
 {{latest}}

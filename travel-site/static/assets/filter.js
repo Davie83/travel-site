@@ -16,6 +16,10 @@
 
     const section  = grid.closest('.section') || document;
     const emptyMsg = section.querySelector('.empty');
+    // 검색 중에 제목·개수를 바꿀 요소들 (없는 페이지도 있어서 전부 선택적입니다)
+    const titleEl  = section.querySelector('.section-head h2[data-search]');
+    const countEl  = section.querySelector('.search-count');
+    const noteEl   = document.querySelector(`.search-note[data-target="${grid.id}"]`);
     const input    = document.querySelector(`input[data-target="${grid.id}"]`);
     const chipBox  = document.querySelector(`.chips[data-target="${grid.id}"]`);
     const tabBox   = document.querySelector(`.rtabs[data-target="${grid.id}"]`);
@@ -42,9 +46,40 @@
         if (visible) shown++;
       });
 
-      // 홈 목록은 평소 6개만 보이지만, 검색 중에는 전체를 대상으로 합니다
+      // 홈 목록은 평소 한 행(4개)만 보이지만, 검색 중에는 전체를 대상으로 합니다
       if (hasLimit) grid.classList.toggle('limit-4', !filtering);
       if (emptyMsg) emptyMsg.hidden = shown > 0;
+
+      /* 검색 중인데 제목이 "최근 올라온 글" 로 남아 있으면 화면과 말이 안 맞습니다.
+         제목을 "검색 결과" 로 바꾸고 개수를 붙입니다. 그리고 검색창 바로 아래에
+         "N개가 검색되었습니다" 를 띄워서, 결과가 화면 아래에 있다는 것을 알립니다. */
+      if (titleEl) {
+        const def = titleEl.getAttribute('data-default') || '';
+        const alt = titleEl.getAttribute('data-search') || def;
+        if (def) titleEl.textContent = filtering ? alt : def;
+      }
+      if (countEl) {
+        const tpl = noteEl ? (noteEl.getAttribute('data-tpl') || '') : '';
+        countEl.hidden = !filtering || shown === 0;
+        countEl.textContent = filtering && tpl ? tpl.replace('{n}', String(shown)) : '';
+      }
+      if (noteEl) {
+        noteEl.hidden = !filtering;
+        if (filtering) {
+          noteEl.innerHTML = '';
+          if (shown > 0) {
+            const tpl = noteEl.getAttribute('data-tpl') || '';
+            noteEl.append(tpl.replace('{n}', String(shown)) + ' ');
+            const a = document.createElement('a');
+            a.href = '#' + grid.id;
+            a.className = 'search-jump';
+            a.textContent = (noteEl.getAttribute('data-jump') || '') + ' \u2193';
+            noteEl.appendChild(a);
+          } else {
+            noteEl.textContent = noteEl.getAttribute('data-none') || '';
+          }
+        }
+      }
     }
 
     if (input) {

@@ -30,6 +30,9 @@ module.exports = {
     empty:        '아직 등록된 글이 없습니다. 준비되는 대로 채워집니다.',
     noResult:     '조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.',
     searchPlaceholder: '지역이나 키워드로 찾기',
+    searchTitle:   '검색 결과',
+    searchCountTpl: '{n}개가 검색되었습니다',
+    searchJump:    '결과 보기'
 
     suggestMsg: '이 페이지는 한국어로도 볼 수 있습니다',
     suggestGo:  '한국어로 보기',
@@ -122,6 +125,9 @@ module.exports = {
     empty:        'No guides here yet. This region is on the way.',
     noResult:     'Nothing matched. Try a different word.',
     searchPlaceholder: 'Search a region or keyword',
+    searchTitle:   'Search results',
+    searchCountTpl: '{n} found',
+    searchJump:    'See results'
 
     suggestMsg: 'This page is also available in English',
     suggestGo:  'Read in English',
@@ -214,6 +220,9 @@ module.exports = {
     empty:        'まだ記事がありません。順次追加します。',
     noResult:     '該当する記事がありません。別のキーワードでお試しください。',
     searchPlaceholder: '地域やキーワードで検索',
+    searchTitle:   '検索結果',
+    searchCountTpl: '{n}件見つかりました',
+    searchJump:    '結果を見る'
 
     suggestMsg: 'このページは日本語でもご覧いただけます',
     suggestGo:  '日本語で読む',
@@ -306,6 +315,9 @@ module.exports = {
     empty:        '这个地区还没有文章，正在陆续补充。',
     noResult:     '没有找到匹配的文章，换个关键词试试。',
     searchPlaceholder: '搜索地区或关键词',
+    searchTitle:   '搜索结果',
+    searchCountTpl: '共找到 {n} 篇',
+    searchJump:    '查看结果'
 
     suggestMsg: '本页也有简体中文版',
     suggestGo:  '查看简体中文',

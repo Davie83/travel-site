@@ -211,12 +211,24 @@ img{max-width:100%;display:block;}
   fill:var(--ground);font-family:var(--en);font-size:12px;font-weight:800;
   text-anchor:middle;pointer-events:none;font-variant-numeric:tabular-nums;
 }
-/* 지역 이름 — 영어판에는 넣지 않습니다 (GYEONGSANG 처럼 길어서 겹칩니다).
-   build.js 의 withNames 를 보세요. */
+/* 지역 이름 — 지도 맨 위 한 겹(.map-names)에 모아 그립니다.
+   지역 <a> 안에 두면 나중에 그려지는 옆 지역이 이름을 덮습니다
+   ("경기·인천" 이 강원 경계에서 "경기·인" 으로 잘렸습니다. build.js 주석 참고)
+
+   paint-order:stroke — 글자 테두리를 글자 안쪽보다 먼저 칠합니다.
+   배경색 테두리가 글자 뒤에 깔려서, 이름이 어느 지역 색 위로 넘어가도 읽힙니다.
+   이게 있어야 영역을 넘는 긴 이름을 그대로 둘 수 있습니다. */
+.hero-map .map-names{pointer-events:none;}
 .hero-map .map-name{
-  fill:var(--ink);fill-opacity:.72;font-size:10px;font-weight:700;
-  text-anchor:middle;pointer-events:none;
+  fill:var(--ink);fill-opacity:.78;font-size:10px;font-weight:700;
+  text-anchor:middle;
+  paint-order:stroke;stroke:var(--ground);stroke-width:2.6;stroke-linejoin:round;
 }
+/* 글이 없는 지역은 이름만 옅게 둡니다 (핀이 없어서 그 자리가 비어 보입니다) */
+.hero-map .map-name.is-dim{fill-opacity:.45;}
+/* 영어 지역명은 깁니다 — "Gyeonggi & Incheon" 은 한국어의 두 배 폭입니다.
+   조금 줄여야 옆 이름(Gangwon)과 부딪히지 않습니다. */
+.hero-map .map-lang-en .map-name{font-size:8.4px;letter-spacing:-.01em;}
 
 .hero-map .map-area:hover .map-shape{
   fill:color-mix(in srgb,var(--r) 50%,var(--ground));
@@ -238,7 +250,6 @@ img{max-width:100%;display:block;}
   fill:color-mix(in srgb,var(--r) 20%,var(--ground));
   stroke:color-mix(in srgb,var(--r) 20%,var(--ground));
 }
-.hero-map .is-empty .map-name{fill-opacity:.45;}
 
 .search-box{margin:24px 0 0;max-width:440px;display:flex;}
 .search-box input{

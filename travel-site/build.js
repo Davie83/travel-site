@@ -466,60 +466,51 @@ const KOREA_OUTLINE =
 const MAP_AREAS = {
   gyeonggi: {
     d: 'M50,61 L72,46 L99,30 L100,116 L59,117 L51,106 L47,86 Z',
-    label: [88, 48], name: [88, 66],
+    label: [88, 48], name: [80, 68],
     isles: [['e', 38, 68, 6, 7.5], ['c', 32, 85, 3]]          // 강화도, 인천 앞
   },
   gangwon: {
     d: 'M99,30 L120,20 L139,9 L152,36 L168,66 L183,87 L192,113 L137,112 L100,116 Z',
-    label: [146, 54], name: [146, 72]
+    label: [146, 54], name: [146, 74]
   },
   chungcheong: {
     d: 'M59,117 L100,116 L137,112 L130,150 L122,182 L51,183 L40,160 L29,135 Z',
-    label: [85, 148], name: [85, 166],
+    label: [85, 148], name: [85, 168],
     isles: [['e', 25, 150, 3.5, 8]]                            // 안면도
   },
   jeolla: {
     d: 'M51,183 L122,182 L112,215 L103,245 L108,262 L106,265 L85,274 L61,287 L41,294 L34,261 L40,229 Z',
-    label: [68, 232], name: [68, 250],
+    label: [68, 232], name: [68, 252],
     isles: [['c', 28, 250, 2.2], ['c', 19, 259, 3], ['c', 24, 271, 2.5],
             ['e', 26, 286, 5.5, 4], ['c', 46, 301, 4],         // 신안 군도, 진도, 완도
             ['c', 88, 287, 2.6], ['c', 99, 279, 2]]            // 고흥 앞
   },
   gyeongsang: {
     d: 'M137,112 L192,113 L195,116 L196,147 L204,176 L196,215 L178,241 L153,257 L143,259 L115,261 L108,262 L103,245 L112,215 L122,182 L130,150 Z',
-    label: [158, 176], name: [158, 194],
+    label: [158, 176], name: [158, 196],
     isles: [['e', 112, 268, 6, 4.5], ['e', 152, 265, 5.5, 5]]  // 남해도, 거제도
   },
   jeju: {
     d: 'M19,354 C19,346 30,341 43,341 C57,341 67,346 67,354 C67,362 56,367 43,367 C29,367 19,362 19,354 Z',
-    label: [43, 354], name: [43, 377]
+    label: [43, 354], name: [43, 379]
   },
   seoul: {
-    d: 'M55,77 C55,70 60,67 67,67 C76,67 79,72 79,81 C79,90 74,95 67,95 C58,95 55,86 55,77 Z',
-    label: [67, 82], r: 10.5, name: [67, 107], city: true
+    d: 'M55,80 C55,73 60,70 67,70 C76,70 79,75 79,84 C79,93 74,98 67,98 C58,98 55,89 55,80 Z',
+    label: [67, 85], r: 10.5, name: [67, 112], city: true
   },
   busan: {
     d: 'M165,229 C165,223 170,221 176,221 C184,221 187,227 187,236 C187,245 181,249 175,249 C167,249 165,239 165,229 Z',
-    label: [175, 236], r: 10, name: [175, 262], city: true
+    label: [175, 236], r: 10, name: [175, 264], city: true
   }
 };
 
 function koreaMapHTML(base, code, countsByRegion, t) {
   const d = localeDir(code);
 
-  // 영어는 지역 이름이 깁니다 (GYEONGSANG, CHUNGCHEONG). 좁은 화면에서 서로
-  // 겹치므로 영어판만 이름 없이 핀만 둡니다 — 이름은 마우스를 올리면
-  // <title> 로 읽히고, 아래 '지역으로 찾기' 카드에도 그대로 있습니다.
-  const withNames = code !== 'en';
-
   const isleHTML = a => (a.isles || []).map(i => i[0] === 'c'
     ? `<circle class="map-shape" cx="${i[1]}" cy="${i[2]}" r="${i[3]}"/>`
     : `<ellipse class="map-shape" cx="${i[1]}" cy="${i[2]}" rx="${i[3]}" ry="${i[4]}"/>`
   ).join('');
-
-  const nameHTML = (a, name) => withNames
-    ? `\n        <text class="map-name" x="${a.name[0]}" y="${a.name[1]}">${escapeHtml(name)}</text>`
-    : '';
 
   // 서울·부산(도시)을 마지막에 그려서 경기·경상에 덮이지 않게 합니다
   const ordered = site.regions
@@ -542,7 +533,7 @@ function koreaMapHTML(base, code, countsByRegion, t) {
     if (!n) {
       return `      <g class="map-area is-empty${cls}" style="--r:var(--region-${r.slug})">
         <title>${escapeHtml(name)} 0</title>
-        ${body}${nameHTML(a, name)}
+        ${body}
       </g>`;
     }
 
@@ -550,8 +541,19 @@ function koreaMapHTML(base, code, countsByRegion, t) {
         <title>${escapeHtml(name)} ${n}</title>
         ${body}
         <circle class="map-pin" cx="${a.label[0]}" cy="${a.label[1]}" r="${a.r || 9.5}"/>
-        <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>${nameHTML(a, name)}
+        <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>
       </a>`;
+  }).join('\n');
+
+  /* 지역 이름은 지도 맨 위에 한 겹으로 따로 그립니다.
+     각 지역의 <a> 안에 두었더니, 나중에 그려지는 옆 지역의 색이 이름 뒷부분을
+     덮었습니다 ("경기·인천" 이 강원 경계에서 "경기·인" 으로 잘려 보였습니다).
+     여기로 빼면 어느 지역 위로 넘어가도 글자가 온전히 남습니다.
+     읽히게 하는 것은 CSS 의 paint-order:stroke — 글자 뒤에 배경색 테두리를 깝니다. */
+  const names = ordered.map(r => {
+    const a = MAP_AREAS[r.slug];
+    const dim = (countsByRegion[r.slug] || 0) ? '' : ' is-dim';
+    return `        <text class="map-name${dim}" x="${a.name[0]}" y="${a.name[1]}">${escapeHtml(regionName(r.slug, code))}</text>`;
   }).join('\n');
 
   // 바다 쪽 옅은 외곽선 — 그라데이션 없이 지도처럼 보이게 하는 값싼 방법입니다
@@ -559,10 +561,14 @@ function koreaMapHTML(base, code, countsByRegion, t) {
     .map(p => `      <path class="map-halo h1" d="${p}"/>\n      <path class="map-halo h2" d="${p}"/>`)
     .join('\n');
 
+  // 언어별 클래스 — 영어 지역명은 길어서(Gyeonggi & Incheon) CSS 로 조금 줄입니다
   return `<div class="hero-map">
-    <svg viewBox="8 -8 208 398" role="img" aria-label="${escapeHtml(t.findByRegion)}" xmlns="http://www.w3.org/2000/svg">
+    <svg class="map-lang-${code}" viewBox="8 -8 208 398" role="img" aria-label="${escapeHtml(t.findByRegion)}" xmlns="http://www.w3.org/2000/svg">
 ${halo}
 ${areas}
+      <g class="map-names">
+${names}
+      </g>
     </svg>
   </div>`;
 }

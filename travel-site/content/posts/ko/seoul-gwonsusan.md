@@ -9,6 +9,10 @@ thumb: assets/img/seoul-gwonsusan.jpg
 excerpt: 여의도 점심 가성비가 아주 좋은 집입니다. 반찬이 맛있고 생선까스까지 반찬으로 나옵니다. 회덮밥은 야채가 많아 한 끼 든든합니다. 별실이 있어 손님 대접이나 지인 모임에도 씁니다.
 tags: [서울, 여의도, 영등포, 국회의사당, 회덮밥, 회정식, 생선까스, 별실]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
+lat: 37.5199763
+lng: 126.9307110
+addr: 서울 영등포구 의사당대로1길 34
+closed: sat,sun
 info:
   - 가게|권수산
   - 위치|서울 영등포구 의사당대로1길 34 **인영빌딩 지하 1층**

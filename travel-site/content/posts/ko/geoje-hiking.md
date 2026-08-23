@@ -9,6 +9,10 @@ thumb: assets/img/geoje-hiking.jpg
 excerpt: 바람의 언덕은 리뷰 1만 개가 넘는 곳이라 사람이 많습니다. 정작 좋았던 건 거기까지 걸어가는 길이었습니다. 양식장이 떠 있는 만, 갯바위에서 일하는 사람, 아무도 없는 바다.
 tags: [거제, 경상남도, 바람의 언덕, 도장포, 해금강, 하이킹, 걷기, 바다]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
+lat: 34.7446779
+lng: 128.6631429
+addr: 경남 거제시 남부면 갈곶리
+closed: none
 info:
   - 지역|경상남도 거제시 남부면
   - 바람의 언덕|갈곶리 · **24시간 개방** — 야외 언덕입니다

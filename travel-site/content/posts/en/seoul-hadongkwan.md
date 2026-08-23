@@ -14,7 +14,7 @@ info:
   - Yeouido main branch|3 Eunhaeng-ro, Yeongdeungpo-gu · 02-785-9292 — **National Assembly Stn, Exit 3**
   - Yeouido Station branch|50 Yeouinaru-ro, Yeongdeungpo-gu · 02-761-5656
   - Myeongdong original|12 Myeongdong 9-gil, Jung-gu · 02-776-5656 — near Euljiro 1-ga Stn and Myeongdong Cathedral
-  - Hours (Yeouido)|**Opens 7:00 AM on weekdays** · Closed **Saturday and Sunday**
+  - Hours (Yeouido)|**Opens 7:00 AM** · closed **every Sunday**
   - Price|**₩19,000 for a basic bowl · ₩25,000 for the "25"** (changes often — please verify)
   - Google rating|Yeouido 4.0 (1,279 reviews) · Myeongdong 3.6 (2,151 reviews)
 ---

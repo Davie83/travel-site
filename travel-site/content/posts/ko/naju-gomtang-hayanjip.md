@@ -9,6 +9,10 @@ thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: 나주곰탕의 대표 격인 집. 국물이 깔끔하고 수육이 부드럽습니다. 리뷰 5,790개가 쌓인 만큼 대기는 감안하셔야 하고, 예약 앱을 쓸 수 있습니다.
 tags: [전남, 나주, 곰탕, 나주곰탕, 수육, 국밥, 노포]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
+lat: 35.0322553
+lng: 126.7170750
+addr: 전남 나주시 금성관길 6-1
+closed: none
 info:
   - 가게|나주곰탕 하얀집 본점
   - 위치|전남 나주시 금성관길 6-1

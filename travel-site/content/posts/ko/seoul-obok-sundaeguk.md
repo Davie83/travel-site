@@ -9,6 +9,10 @@ thumb: assets/img/seoul-obok-sundaeguk.jpg
 excerpt: 이 집 수육은 어느 곳보다 부드럽습니다. 수육 단품은 가격이 부담스러울 수 있으니 정식으로 먼저 맛보시길. 문래와 등촌 둘 다 가봤는데 개인적으로는 문래 본점이 나았습니다.
 tags: [서울, 영등포, 문래, 순대국, 수육, 아바이순대, 노포, 본점]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
+lat: 37.5156891
+lng: 126.8915259
+addr: 서울 영등포구 도림로 465
+closed: sun
 info:
   - 가게|오복순대국 **문래 본점**
   - 위치|서울 영등포구 도림로 465 (문래동4가)

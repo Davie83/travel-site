@@ -9,6 +9,10 @@ thumb: assets/img/cheorwon-makguksu.jpg
 excerpt: 면의 감촉이 좋습니다. 간이 세지 않으면서 살짝 매콤한 쪽이라 입맛을 자극합니다. 면을 특별히 즐기지 않는 사람 기준으로도 손에 꼽을 만한 비빔메밀면이었습니다.
 tags: [강원, 철원, 막국수, 메밀, 비빔막국수, 녹두전, 국수]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A0%EC%9B%90%EB%A7%89%EA%B5%AD%EC%88%98+%EC%B2%A0%EC%9B%90%EA%B5%B0
+lat: 38.1460836
+lng: 127.3086742
+addr: 강원 철원군 갈말읍 명성로158번길 13
+closed: unknown
 info:
   - 가게|철원막국수
   - 위치|강원 철원군 갈말읍 명성로158번길 13

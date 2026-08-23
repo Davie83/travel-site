@@ -338,6 +338,38 @@ function loadPosts(code) {
     });
 }
 
+
+/* ---- 위치 정보는 한국어 글에만 적습니다 -----------------------------------
+   lat / lng / addr / closed 는 언어가 달라도 같은 값입니다. 주소도 그렇습니다 —
+   구글 지도가 링크의 hl= 에 맞춰 "서울 마포구 독막로19길 43" 을
+   "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
+   4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
+   한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed'];
+
+function applyGeo(byLocale) {
+  const base = {};
+  for (const p of (byLocale.ko ? byLocale.ko.posts : [])) {
+    const g = {};
+    for (const k of GEO_KEYS) if (p.meta[k] !== undefined && p.meta[k] !== '') g[k] = p.meta[k];
+    if (g.lat === undefined || g.lng === undefined) {
+      warnings.push(`content/posts/ko/${p.slug}.md — lat / lng 가 없습니다 (동선 기능에서 빠집니다)`);
+    }
+    base[p.slug] = g;
+  }
+  for (const code of Object.keys(byLocale)) {
+    for (const p of byLocale[code].posts) {
+      const g = base[p.slug];
+      if (!g) {
+        if (code !== 'ko') {
+          warnings.push(`content/posts/${code}/${p.slug}.md — 같은 이름의 한국어 글이 없어 위치 정보를 가져올 수 없습니다`);
+        }
+        continue;
+      }
+      for (const k of GEO_KEYS) if (p.meta[k] === undefined && g[k] !== undefined) p.meta[k] = g[k];
+    }
+  }
+}
 /* ==========================================================================
    6. 조각 HTML
    ========================================================================== */
@@ -629,7 +661,7 @@ function cardHTML(post, base, code, t) {
   const aname = areaName(m.region, m.area, code);
   const search = [m.title, m.excerpt, rname, aname, (m.tags || []).join(' ')].join(' ').toLowerCase();
 
-  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
+  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">
@@ -862,6 +894,9 @@ function build() {
     }
   }
 
+  // 위치 정보(lat/lng/addr/closed)를 한국어 글에서 나머지 언어로 복사합니다
+  applyGeo(byLocale);
+
   /** 어떤 페이지가 어떤 언어로 존재하는지 → { ko:'posts/x.html', en:'en/posts/x.html' } */
   const availFor = (relBuilder, existsIn) => {
     // index.html 은 주소에서 떼어냅니다 (canonical 과 형태를 맞추기 위해)
@@ -1082,6 +1117,25 @@ function build() {
         clearAsk: escapeHtml(t.savedClearAsk),
         empty:    escapeHtml(t.savedEmpty),
         others:   escapeHtml(t.savedOthers),
+        // 동선 칸. hl 은 구글 지도 길찾기 링크의 표시 언어입니다 —
+        // 한국어 주소를 넣어도 구글이 이 언어로 바꿔서 보여줍니다.
+        hl:              escapeHtml(code),
+        routeTitle:      escapeHtml(t.routeTitle),
+        routeHint:       escapeHtml(t.routeHint),
+        routeSort:       escapeHtml(t.routeSort),
+        routeDir:        escapeHtml(t.routeDir),
+        routeUp:         escapeHtml(t.routeUp),
+        routeDown:       escapeHtml(t.routeDown),
+        routeDrop:       escapeHtml(t.routeDrop),
+        routeAddLabel:   escapeHtml(t.routeAddLabel),
+        routeAddPh:      escapeHtml(t.routeAddPh),
+        routeAdd:        escapeHtml(t.routeAdd),
+        routeNameWarn:   escapeHtml(t.routeNameWarn),
+        routeCopy:       escapeHtml(t.routeCopy),
+        routeCopied:     escapeHtml(t.routeCopied),
+        routeClosedWarn: escapeHtml(t.routeClosedWarn),
+        routeDayNames:   escapeHtml(t.routeDayNames),
+        routeUnknown:    escapeHtml(t.routeUnknown),
         cards:    posts.map(p => cardHTML(p, baseOf(outSaved), code, t)).join('\n')
       })
     }));

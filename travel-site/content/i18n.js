@@ -73,7 +73,23 @@ module.exports = {
     savedRemove:   '목록에서 지우기',
     savedOthers:   '아직 저장하지 않은 글',
     authorBy:      '글쓴이',
-    authorCred:    '구글 지도 지역 가이드 · 레벨 {level} · 사진 누적 조회 {views}회 이상'
+    authorCred:    '구글 지도 지역 가이드 · 레벨 {level} · 사진 누적 조회 {views}회 이상',
+    routeTitle:    '내 동선',
+    routeHint:     '저장한 곳이 순서대로 동선이 됩니다. 위아래로 옮겨 순서를 바꾸세요.',
+    routeSort:     '가까운 순서로',
+    routeDir:      '길찾기',
+    routeUp:        '위로',
+    routeDown:      '아래로',
+    routeDrop:      '동선에서 빼기',
+    routeAddLabel:  '가고 싶은 곳 추가',
+    routeAddPh:     '구글 지도 주소창 또는 도로명주소를 붙여넣으세요',
+    routeAdd:       '추가',
+    routeNameWarn:  '이름만 넣으면 다른 곳이 잡힐 수 있습니다 — 지도에서 확인하세요',
+    routeCopy:      '주소 복사',
+    routeCopied:    '복사했습니다',
+    routeClosedWarn: '{day}에 가면 {n}곳이 문을 닫습니다',
+    routeDayNames:  '일요일,월요일,화요일,수요일,목요일,금요일,토요일',
+    routeUnknown:   '휴무 정보 없음'
   },
 
   en: {
@@ -141,7 +157,23 @@ module.exports = {
     savedRemove:   'Remove from list',
     savedOthers:   'Not saved yet',
     authorBy:      'Written by',
-    authorCred:    'Google Maps Local Guide · Level {level} · {views}+ photo views'
+    authorCred:    'Google Maps Local Guide · Level {level} · {views}+ photo views',
+    routeTitle:    'My route',
+    routeHint:     'Saved places become your route, in order. Move them up or down to reorder.',
+    routeSort:     'Sort by distance',
+    routeDir:      'Directions',
+    routeUp:        'Move up',
+    routeDown:      'Move down',
+    routeDrop:      'Remove from route',
+    routeAddLabel:  'Add a place you want to visit',
+    routeAddPh:     'Paste a Google Maps URL or a street address',
+    routeAdd:       'Add',
+    routeNameWarn:  'A bare name may match the wrong place — check it on the map',
+    routeCopy:      'Copy address',
+    routeCopied:    'Copied',
+    routeClosedWarn: '{n} of these are closed on {day}',
+    routeDayNames:  'Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday',
+    routeUnknown:   'No closing-day info'
   },
 
   ja: {
@@ -209,7 +241,23 @@ module.exports = {
     savedRemove:   'リストから削除',
     savedOthers:   'まだ保存していない記事',
     authorBy:      '書いた人',
-    authorCred:    'Google マップ ローカルガイド · レベル{level} · 写真の累計閲覧 {views} 回以上'
+    authorCred:    'Google マップ ローカルガイド · レベル{level} · 写真の累計閲覧 {views} 回以上',
+    routeTitle:    'ルート',
+    routeHint:     '保存した場所が順番にルートになります。上下に動かして順番を変えてください。',
+    routeSort:     '近い順に',
+    routeDir:      'ルート検索',
+    routeUp:        '上へ',
+    routeDown:      '下へ',
+    routeDrop:      'ルートから外す',
+    routeAddLabel:  '行きたい場所を追加',
+    routeAddPh:     'Google マップのURL、または道路名住所を貼り付けてください',
+    routeAdd:       '追加',
+    routeNameWarn:  '名前だけでは別の場所が選ばれることがあります — 地図で確認してください',
+    routeCopy:      '住所をコピー',
+    routeCopied:    'コピーしました',
+    routeClosedWarn: '{day}に行くと{n}軒が定休日です',
+    routeDayNames:  '日曜日,月曜日,火曜日,水曜日,木曜日,金曜日,土曜日',
+    routeUnknown:   '定休日の情報なし'
   },
 
   zh: {
@@ -277,6 +325,22 @@ module.exports = {
     savedRemove:   '从列表中移除',
     savedOthers:   '还没有收藏的文章',
     authorBy:      '撰写者',
-    authorCred:    '谷歌地图当地向导 · 等级 {level} · 照片累计浏览 {views} 次以上'
+    authorCred:    '谷歌地图当地向导 · 等级 {level} · 照片累计浏览 {views} 次以上',
+    routeTitle:    '我的路线',
+    routeHint:     '收藏的地点会按顺序变成路线。用上下箭头调整顺序。',
+    routeSort:     '按距离排序',
+    routeDir:      '路线',
+    routeUp:        '上移',
+    routeDown:      '下移',
+    routeDrop:      '从路线中移除',
+    routeAddLabel:  '添加想去的地方',
+    routeAddPh:     '粘贴谷歌地图网址或街道地址',
+    routeAdd:       '添加',
+    routeNameWarn:  '只输入名称可能匹配到别的地方 — 请在地图上确认',
+    routeCopy:      '复制地址',
+    routeCopied:    '已复制',
+    routeClosedWarn: '{day}有{n}家不营业',
+    routeDayNames:  '星期日,星期一,星期二,星期三,星期四,星期五,星期六',
+    routeUnknown:   '无休息日信息'
   }
 };

@@ -9,6 +9,10 @@ thumb: assets/img/buan-halmae-pisundae.jpg
 excerpt: 처음 보면 돼지 냄새가 날 것 같은 비주얼인데 실제로는 거의 없었습니다. 선지와 견과류가 같이 들어간 깔끔한 피순대. 아침 7시부터 엽니다.
 tags: [전북, 부안, 피순대, 순대국밥, 가마솥, 아침식사, 노포]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%A0%EB%A7%A4%ED%94%BC%EC%88%9C%EB%8C%80+%EB%B6%80%EC%95%88%EA%B5%B0
+lat: 35.7184035
+lng: 126.7193726
+addr: 전북 부안군 행안면 부안로 2524
+closed: unknown
 info:
   - 가게|할매피순대
   - 위치|전북 부안군 행안면 부안로 2524

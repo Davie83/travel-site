@@ -9,6 +9,10 @@ thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg
 excerpt: 익선동 한옥 골목의 수플레 팬케이크 카페. 맛으로만 따지면 보통이고 값도 싸지 않습니다. 대신 공간이 좋습니다. 무엇을 사러 가는지 정하고 가면 만족도가 달라집니다.
 tags: [서울, 종로, 익선동, 한옥, 수플레, 팬케이크, 카페, 디저트]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91%EA%B3%BC%EC%A0%90+%EC%A2%85%EB%A1%9C%EA%B5%AC
+lat: 37.5734039
+lng: 126.9896005
+addr: 서울 종로구 수표로28길 17-24
+closed: none
 info:
   - 가게|동백양과점
   - 위치|서울 종로구 수표로28길 17-24 (익선동 한옥거리 인근)

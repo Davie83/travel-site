@@ -9,6 +9,10 @@ thumb: assets/img/seoul-mutan.jpg
 excerpt: 시그니처는 스테이크 트러플 자장면과 고추유린기. 값은 비싼 편이지만 양이 많아서 남자 둘이 한 그릇으로도 됩니다. 여럿이 가서 메인 2~3개를 나누는 게 제일 좋습니다. 예약은 거의 필수입니다.
 tags: [서울, 여의도, 영등포, 중식, 자장면, 트러플, 유린기, 예약필수]
 map: https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%ED%83%84+%EC%97%AC%EC%9D%98%EB%8F%84%EC%A0%90
+lat: 37.5213125
+lng: 126.9231012
+addr: 서울 영등포구 의사당대로 96
+closed: none
 info:
   - 가게|무탄 여의도점
   - 위치|서울 영등포구 의사당대로 96 **TP타워 2층** (사학연금공단 서울회관)

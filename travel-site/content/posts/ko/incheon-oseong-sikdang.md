@@ -9,6 +9,10 @@ thumb: assets/img/incheon-oseong-sikdang.jpg
 excerpt: 밴댕이회무침 + 게장이 기본인 연안부두 해양센터 2층 노포. 이 거리 가게들은 메인이 거의 같고 반찬으로 갈립니다. 오래 다닌 집보다 이 집 양념이 더 감칠맛 있었습니다.
 tags: [인천, 중구, 연안부두, 해양센터, 밴댕이, 회무침, 게장, 노포]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%B1%EC%8B%9D%EB%8B%B9+%EC%9D%B8%EC%B2%9C+%EC%97%B0%EC%95%88%EB%B6%80%EB%91%90
+lat: 37.4562083
+lng: 126.6033425
+addr: 인천 중구 연안부두
+closed: none
 info:
   - 가게|오성식당
   - 위치|인천 중구 연안부두 **해양센터 2층**

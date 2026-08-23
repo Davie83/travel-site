@@ -9,6 +9,10 @@ thumb: assets/img/busan-dumichon-dwaejigukbap.jpg
 excerpt: 국물이 깔끔하고 고기 잡내가 없습니다. 점심 한 끼로 충분합니다. 동래는 돼지국밥집이 몰려 있는 동네라 선택지가 많은데, 여기는 늦게까지 하는 게 강점입니다.
 tags: [부산, 동래, 온천동, 돼지국밥, 수육, 국밥, 현지인]
 map: https://www.google.com/maps/search/?api=1&query=%EB%91%90%EB%AF%B8%EC%B4%8C%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EB%B6%80%EC%82%B0+%EB%8F%99%EB%9E%98
+lat: 35.2162148
+lng: 129.0782315
+addr: 부산 동래구 온천제1동 440-15
+closed: none
 info:
   - 가게|두미촌돼지국밥
   - 위치|부산 동래구 온천제1동 440-15

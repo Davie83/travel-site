@@ -9,6 +9,10 @@ thumb: assets/img/jeju-oiljang.jpg
 excerpt: 이름은 오일장인데 5일·10일에 열리는 게 아닙니다. 끝자리 2일과 7일에만 섭니다. 전국 최대 규모라 볼거리도 먹거리도 많은데, 날짜가 안 맞으면 헛걸음입니다.
 tags: [제주, 제주시, 오일장, 전통시장, 파전, 순대, 막걸리, 장날]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%AF%BC%EC%86%8D%EC%98%A4%EC%9D%BC%EC%8B%9C%EC%9E%A5
+lat: 33.4966876
+lng: 126.4753648
+addr: 제주 제주시 오일장서길 26
+closed: unknown
 info:
   - 이름|제주민속오일시장 (제주시민속오일시장)
   - 주소|제주 제주시 오일장서길 26

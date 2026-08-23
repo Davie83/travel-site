@@ -9,6 +9,10 @@ thumb: assets/img/seoul-seosan-kkotge.jpg
 excerpt: 간이 짜지 않은 간장게장에 조기구이·전·계란찜·나물이 한 상으로 나옵니다. 꽃게살 양은 근처 유명한 집들보다 적습니다. 게장 전문점보다 "간장게장이 메인인 한정식"으로 보는 게 맞습니다. 예약 필수.
 tags: [서울, 마포, 도화동, 간장게장, 꽃게, 한정식, 예약필수, 정식]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%82%B0%EA%BD%83%EA%B2%8C+%EB%A7%88%ED%8F%AC
+lat: 37.5398600
+lng: 126.9479320
+addr: 서울 마포구 도화길 12-3
+closed: none
 info:
   - 가게|서산꽃게
   - 위치|서울 마포구 도화길 12-3

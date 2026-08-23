@@ -1,8 +1,11 @@
-  <!-- 저장한 곳 (즐겨찾기)
+  <!-- 저장한 곳 (즐겨찾기) + 동선
        빌드 시점에는 방문자가 무엇을 저장했는지 알 수 없습니다.
        그래서 모든 글 카드를 위 칸에 넣어두고, assets/saved.js 가
        저장한 것만 위에 남기고 나머지는 아래 칸으로 옮깁니다.
-       (카드를 두 번 넣지 않으므로 페이지가 무거워지지 않습니다) -->
+       (카드를 두 번 넣지 않으므로 페이지가 무거워지지 않습니다)
+
+       동선 칸(#route)은 그 카드들의 data-lat / data-lng / data-addr /
+       data-closed 를 읽어서 만듭니다. 서버도, 지도 라이브러리도 쓰지 않습니다. -->
   <section class="hero">
     <div class="wrap">
       <h1>{{title}}</h1>
@@ -16,6 +19,30 @@
         <p class="saved-count" aria-live="polite"></p>
         <button class="saved-clear" type="button" data-ask="{{clearAsk}}" hidden>{{clear}}</button>
       </div>
+
+      <!-- 동선. 저장한 곳이 하나도 없으면 saved.js 가 숨깁니다 -->
+      <section id="route" class="route"
+               data-t-dir="{{routeDir}}" data-t-up="{{routeUp}}" data-t-down="{{routeDown}}"
+               data-t-drop="{{routeDrop}}" data-t-copy="{{routeCopy}}" data-t-copied="{{routeCopied}}"
+               data-t-closedwarn="{{routeClosedWarn}}" data-t-days="{{routeDayNames}}"
+               data-t-unknown="{{routeUnknown}}" data-t-namewarn="{{routeNameWarn}}"
+               data-hl="{{hl}}" hidden>
+        <div class="route-head">
+          <h2>{{routeTitle}}</h2>
+          <button class="route-sort" type="button">{{routeSort}}</button>
+        </div>
+        <p class="route-hint">{{routeHint}}</p>
+        <ol class="route-list"></ol>
+        <p class="route-warn" hidden></p>
+        <div class="route-add">
+          <label for="route-add-input">{{routeAddLabel}}</label>
+          <div class="route-add-row">
+            <input id="route-add-input" type="text" placeholder="{{routeAddPh}}" autocomplete="off">
+            <button class="route-add-btn" type="button">{{routeAdd}}</button>
+          </div>
+        </div>
+      </section>
+
       <div class="grid" id="saved-grid">
 {{cards}}
       </div>

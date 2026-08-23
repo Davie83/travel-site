@@ -9,6 +9,10 @@ thumb: assets/img/seoul-kimnkim-daege.jpg
 excerpt: 대게나 킹크랩을 시키면 죽·샐러드·버섯탕수육·콘치즈·회·새우튀김·전복구이가 함께 나옵니다. 둘이면 대게 1.5~2kg으로 충분합니다. 룸이 많아 특별한 날에 좋고, 20주년 이벤트로 값이 내려가 있습니다.
 tags: [서울, 홍대, 마포, 서교동, 대게, 킹크랩, 코스요리, 룸]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%95%A4%EA%B9%80%EB%8C%80%EA%B2%8C%EC%A0%84%EB%AC%B8%EC%A0%90+%ED%99%8D%EB%8C%80
+lat: 37.5526745
+lng: 126.9187278
+addr: 서울 마포구 서교동 372-1
+closed: unknown
 info:
   - 가게|김앤김대게전문점
   - 위치|서울 마포구 서교동 372-1 — **1층 수족관, 식사는 3층**

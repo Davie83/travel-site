@@ -71,7 +71,9 @@ module.exports = {
     savedCountTpl: '저장한 곳 {n}곳',
     savedSeeAll:   '전체 보기',
     savedRemove:   '목록에서 지우기',
-    savedOthers:   '아직 저장하지 않은 글'
+    savedOthers:   '아직 저장하지 않은 글',
+    authorBy:      '글쓴이',
+    authorCred:    '구글 지도 지역 가이드 · 레벨 {level} · 사진 누적 조회 {views}회 이상'
   },
 
   en: {
@@ -137,7 +139,9 @@ module.exports = {
     savedCountTpl: '{n} saved',
     savedSeeAll:   'See all',
     savedRemove:   'Remove from list',
-    savedOthers:   'Not saved yet'
+    savedOthers:   'Not saved yet',
+    authorBy:      'Written by',
+    authorCred:    'Google Maps Local Guide · Level {level} · {views}+ photo views'
   },
 
   ja: {
@@ -203,7 +207,9 @@ module.exports = {
     savedCountTpl: '保存 {n}件',
     savedSeeAll:   'すべて見る',
     savedRemove:   'リストから削除',
-    savedOthers:   'まだ保存していない記事'
+    savedOthers:   'まだ保存していない記事',
+    authorBy:      '書いた人',
+    authorCred:    'Google マップ ローカルガイド · レベル{level} · 写真の累計閲覧 {views} 回以上'
   },
 
   zh: {
@@ -269,6 +275,8 @@ module.exports = {
     savedCountTpl: '收藏 {n} 个',
     savedSeeAll:   '查看全部',
     savedRemove:   '从列表中移除',
-    savedOthers:   '还没有收藏的文章'
+    savedOthers:   '还没有收藏的文章',
+    authorBy:      '撰写者',
+    authorCred:    '谷歌地图当地向导 · 等级 {level} · 照片累计浏览 {views} 次以上'
   }
 };

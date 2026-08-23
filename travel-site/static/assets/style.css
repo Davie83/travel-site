@@ -418,6 +418,13 @@ a.more{color:var(--ink);font-weight:600;}
   letter-spacing:-.04em;font-weight:800;text-wrap:balance;
 }
 .post-head .meta{color:var(--ink-mute);font-size:13.5px;margin:0;font-family:var(--en);}
+/* 글쓴이 — 구글 지도 기여 프로필로 연결됩니다.
+   검색엔진에는 JSON-LD 의 sameAs 로, 사람에게는 이 한 줄로 알립니다.
+   자격은 레벨(잘 안 변함)을 앞에 두고 조회수는 "이상"으로만 씁니다. */
+.byline{margin:10px 0 0;font-size:13px;color:var(--ink-mute);}
+.byline a{color:var(--ink);font-weight:700;border-bottom:1px solid var(--line-hard);}
+.byline a:hover{border-bottom-color:var(--ink);}
+.byline-cred{display:block;margin-top:3px;font-size:11.5px;line-height:1.5;}
 
 .post-body h2{
   margin:40px 0 13px;font-size:20px;letter-spacing:-.03em;font-weight:800;

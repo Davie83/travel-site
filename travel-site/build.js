@@ -574,6 +574,30 @@ ${names}
 }
 
 /** 글 카드 */
+/** 글쓴이 한 줄.
+ *  site.config.js 의 author.mapsProfile 이 비어 있으면 아무것도 안 나옵니다.
+ *  조회수는 언어별로 단위가 달라서(만 / 万 / thousand) 숫자를 그대로 쓰고
+ *  "이상 / 以上 / +" 을 붙입니다. 부풀린 값으로 읽히지 않게 내림값만 씁니다. */
+function bylineHTML(t) {
+  const a = site.author || {};
+  if (!a.mapsProfile) return '';
+  const cred = String(t.authorCred || '')
+    .replace('{level}', String(a.guideLevel || ''))
+    .replace('{views}', Number(a.photoViewsFloor || 0).toLocaleString('en-US'));
+  return `<p class="byline">${escapeHtml(t.authorBy)} `
+    + `<a href="${escapeHtml(a.mapsProfile)}" rel="author noopener" target="_blank">`
+    + `${escapeHtml(a.name)}</a>`
+    + `<span class="byline-cred">${escapeHtml(cred)}</span></p>`;
+}
+
+/** JSON-LD 의 글쓴이. sameAs 로 구글 지도 기여 프로필을 가리켜서
+ *  "이 글을 쓴 사람"이 검색엔진에서 하나의 실체로 잡히게 합니다. */
+function authorLd(code) {
+  const a = site.author || {};
+  if (!a.mapsProfile) return { '@type': 'Person', name: siteName(code) };
+  return { '@type': 'Person', name: a.name, url: a.mapsProfile, sameAs: [a.mapsProfile] };
+}
+
 /** 카테고리 · 지역 · 동네 배지.
  *  전에는 "맛집 · 서울" 처럼 점으로 이었는데, 각각 눌러야 할 정보라 배지로 나눴습니다.
  *  지역만 지역색을 채우고 나머지는 테두리만 둡니다 (색을 더 쓰면 시끄러워집니다).
@@ -985,7 +1009,7 @@ function build() {
         headline: m.title, description: m.excerpt,
         datePublished: m.date, dateModified: m.updated || m.date,
         inLanguage: l.htmlLang,
-        author: { '@type': 'Person', name: siteName(code) },
+        author: authorLd(code),
         publisher: { '@type': 'Organization', name: siteName(code) },
         mainEntityOfPage: `${SITE_URL}/${out}`
       };
@@ -1000,6 +1024,7 @@ function build() {
           regionSlug: m.region,
           saveBtn: saveBtnHTML(p.slug, t, true),
           badges: badgesHTML(m, base, code, t, true),
+          byline: bylineHTML(t),
           regionHref: `${base}${d}region/${m.region}`,
           title: escapeHtml(m.title),
           // 방문 시점은 표기하지 않습니다.

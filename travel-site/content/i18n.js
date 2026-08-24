@@ -1,4 +1,4 @@
-00/* ==========================================================================
+000/* ==========================================================================
    화면에 나오는 고정 문구 — 언어별 사전
    --------------------------------------------------------------------------
    글 내용이 아니라 버튼·제목 같은 "틀"의 문구입니다.
@@ -22,6 +22,9 @@ module.exports = {
     },
 
     findByRegion: '지역으로 찾기',
+    spicyLabel: '매운맛',
+    spicyNames: ['전혀 안 매움', '거의 안 매움', '순한 매움', '보통', '매움', '아주 매움'],
+    spicyAria:  (n, name) => `매운맛 5단계 중 ${n}단계 — ${name}`,
     tipsTitle: '한국 여행 준비 — 도착 첫날 막히는 것들',
     tipsDesc:  '교통카드는 어디서 사고, 환전은 어디가 유리하고, 구글 지도가 왜 길찾기를 못 하는지. 실제로 필요한 것만 모았습니다.',
     tipsTags:  '교통카드 · 환전 · 길찾기 · 1330',
@@ -123,6 +126,9 @@ module.exports = {
     },
 
     findByRegion: 'Browse by region',
+    spicyLabel: 'Spice',
+    spicyNames: ['Not spicy at all', 'Barely spicy', 'Mildly spicy', 'Medium', 'Spicy', 'Very spicy'],
+    spicyAria:  (n, name) => `Spice level ${n} of 5 — ${name}`,
     tipsTitle: 'Korea travel basics — what trips people up on day one',
     tipsDesc:  'Where to buy a transit card, where the exchange rate is actually good, and why Google Maps cannot give you driving directions here. Only what you will really need.',
     tipsTags:  'Transit card · Exchange · Getting around · 1330',
@@ -224,6 +230,9 @@ module.exports = {
     },
 
     findByRegion: '地域から探す',
+    spicyLabel: '辛さ',
+    spicyNames: ['まったく辛くない', 'ほとんど辛くない', '軽い辛さ', '普通', '辛い', 'とても辛い'],
+    spicyAria:  (n, name) => `辛さ 5段階中 ${n} — ${name}`,
     tipsTitle: '韓国旅行の基本 — 到着初日につまずくこと',
     tipsDesc:  '交通カードはどこで買うか、両替はどこが有利か、Googleマップがなぜ道案内できないか。実際に必要なものだけ集めました。',
     tipsTags:  '交通カード · 両替 · 移動 · 1330',
@@ -325,6 +334,9 @@ module.exports = {
     },
 
     findByRegion: '按地区浏览',
+    spicyLabel: '辣度',
+    spicyNames: ['完全不辣', '几乎不辣', '微辣', '中辣', '辣', '非常辣'],
+    spicyAria:  (n, name) => `辣度 5级中的第 ${n} 级 — ${name}`,
     tipsTitle: '韩国旅行基础 — 抵达第一天最容易卡住的事',
     tipsDesc:  '交通卡在哪里买、换钱在哪里划算、谷歌地图为什么不能导航。只收录真正需要的内容。',
     tipsTags:  '交通卡 · 换钱 · 交通 · 1330',

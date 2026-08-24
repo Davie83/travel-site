@@ -351,7 +351,7 @@ function loadPosts(code) {
    "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
    4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
    한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
-const GEO_KEYS = ['lat', 'lng', 'addr', 'closed'];
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy'];
 
 function applyGeo(byLocale) {
   const base = {};
@@ -617,6 +617,23 @@ ${names}
  *  site.config.js 의 author.mapsProfile 이 비어 있으면 아무것도 안 나옵니다.
  *  조회수는 언어별로 단위가 달라서(만 / 万 / thousand) 숫자를 그대로 쓰고
  *  "이상 / 以上 / +" 을 붙입니다. 부풀린 값으로 읽히지 않게 내림값만 씁니다. */
+/** 매운맛 배지 — 고추 5개 중 spicy 개수만 켭니다.
+    외국인 방문자가 글을 열자마자 판단할 수 있어야 해서 상세 맨 위에 둡니다.
+    맛집(food) 글에만 나옵니다. spicy 값이 없으면 아무것도 그리지 않습니다.
+    기준은 "나오는 그대로" 입니다 — 따로 나오는 다대기·청양고추는 세지 않습니다. */
+function spicyHTML(m, t) {
+  if (m.cat !== 'food') return '';
+  const n = Number(m.spicy);
+  if (!Number.isInteger(n) || n < 0 || n > 5) return '';
+  const name = (t.spicyNames || [])[n] || '';
+  const peppers = Array.from({ length: 5 }, (_, i) =>
+    `<b class="${i < n ? 'on' : 'off'}">🌶</b>`).join('');
+  const aria = typeof t.spicyAria === 'function' ? t.spicyAria(n, name) : `${t.spicyLabel} ${n}/5`;
+  return `      <p class="spicy spicy-${n}" role="img" aria-label="${escapeHtml(aria)}">` +
+    `<span class="spicy-label">${escapeHtml(t.spicyLabel)}</span>` +
+    `<span class="spicy-peppers" aria-hidden="true">${peppers}</span>` +
+    `<span class="spicy-name">${escapeHtml(name)}</span></p>`;
+}
 function bylineHTML(t) {
   const a = site.author || {};
   if (!a.mapsProfile) return '';
@@ -1082,6 +1099,7 @@ function build() {
           saveBtn: saveBtnHTML(p.slug, t, true, base, code),
           badges: badgesHTML(m, base, code, t, true),
           byline: bylineHTML(t),
+          spicy: spicyHTML(m, t),
           regionHref: `${base}${d}region/${m.region}`,
           title: escapeHtml(m.title),
           // 방문 시점은 표기하지 않습니다.

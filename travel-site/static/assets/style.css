@@ -986,3 +986,37 @@ a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85
   .tips-ico{font-size:26px;}
   .tips-cta{width:100%;}
 }
+
+/* ── 매운맛 배지 (맛집 글 상세 상단) ───────────────────────────────
+   외국인 방문자가 글을 열자마자 판단할 수 있어야 해서 제목 바로 아래 둡니다.
+   고추 5개를 항상 그리고 해당 개수만 켭니다 — 0단계도 "5개 중 0개"로
+   읽혀야 "매운맛 정보가 없는 것"과 구별됩니다.                        */
+.spicy{
+  display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+  margin:12px 0 0;padding:8px 12px;
+  background:var(--surface);border:1px solid var(--line);border-radius:999px;
+  width:fit-content;max-width:100%;
+}
+.spicy-label{font-size:.8rem;font-weight:600;color:var(--ink-mute);}
+.spicy-peppers{display:inline-flex;gap:2px;line-height:1;}
+.spicy-peppers b{font-size:.95rem;font-style:normal;}
+/* 꺼진 고추는 회색으로 — 색을 빼면 켜진 것과 확실히 갈립니다 */
+.spicy-peppers b.off{filter:grayscale(1);opacity:.28;}
+.spicy-name{font-size:.85rem;font-weight:600;color:var(--ink);}
+
+/* 안 매운 집은 초록, 매운 집은 빨강 쪽으로 이름 색을 살짝 기울입니다.
+   고추 개수만으로도 읽히지만 색이 한 번 더 확인해 줍니다. */
+.spicy-0 .spicy-name,
+.spicy-1 .spicy-name{color:#2f7d4f;}
+.spicy-4 .spicy-name,
+.spicy-5 .spicy-name{color:#c0392b;}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  .spicy-0 .spicy-name,
+  .spicy-1 .spicy-name{color:#7fd6a0;}
+  .spicy-4 .spicy-name,
+  .spicy-5 .spicy-name{color:#f39a90;}
+}}
+:root[data-theme="dark"] .spicy-0 .spicy-name,
+:root[data-theme="dark"] .spicy-1 .spicy-name{color:#7fd6a0;}
+:root[data-theme="dark"] .spicy-4 .spicy-name,
+:root[data-theme="dark"] .spicy-5 .spicy-name{color:#f39a90;}

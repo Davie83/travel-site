@@ -4,7 +4,7 @@
    외부 라이브러리를 하나도 쓰지 않습니다.
 
    실행:  node build.js        결과: dist/
-   Netlify 는 dist 폴더를 배포합니다.
+   Cloudflare Pages 가 dist 폴더를 배포합니다.
 
    폴더 규칙
      content/posts/<언어>/<슬러그>.md   글

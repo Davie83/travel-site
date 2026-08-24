@@ -1,17 +1,17 @@
 # Korea Trips — 운영 안내서
 
-Markdown 파일로 글을 쓰면 Netlify가 다국어 정적 사이트를 만들어 배포합니다.
+Markdown 파일로 글을 쓰면 Cloudflare Pages가 다국어 정적 사이트를 만들어 배포합니다.
 
 | 역할 | 담당 |
 |---|---|
 | 글 | `content/posts/<언어>/*.md` |
-| 사이트 생성·배포 | Netlify (자동) |
+| 사이트 생성·배포 | Cloudflare Pages (자동) |
 | 이모지 리액션 | Supabase |
 | 광고 | Google AdSense |
 
-- 사이트: https://koreatrips.netlify.app
+- 사이트: https://kfoodtrip.net
 - 저장소: GitHub `Davie83/travel-site` (Private)
-- ⚠️ **저장소 안에서 파일이 `travel-site/` 폴더 한 겹 아래에 있습니다.** Netlify의 Base directory가 `travel-site`로 잡혀 있습니다. 경로를 찾을 때 이 한 겹을 잊지 마세요.
+- ⚠️ **저장소 안에서 파일이 `travel-site/` 폴더 한 겹 아래에 있습니다.** Cloudflare Pages의 Root directory가 `travel-site`로 잡혀 있습니다. 경로를 찾을 때 이 한 겹을 잊지 마세요.
 
 ---
 
@@ -30,10 +30,10 @@ travel-site/
 ├── site.config.js      ★ 주소·언어·지역·키 설정
 ├── templates/          페이지 뼈대 6개
 ├── static/
-│   └── assets/         style.css · filter.js · reactions.js · img/
+│   ├── _headers        Cloudflare Pages 헤더·캐시 설정
+│   └── assets/         style.css · filter.js · reactions.js · saved.js · img/
 ├── supabase/schema.sql
 ├── build.js            Markdown → HTML 변환기 (열어볼 일 없음)
-├── netlify.toml
 └── dist/               빌드 결과 (자동 생성. 직접 만들지 않음)
 ```
 
@@ -165,7 +165,7 @@ content/posts/en/seoul-myeongdong-shindonggung.md   ← 같은 이름
 
 | 상황 | 방법 |
 |---|---|
-| 배포를 되돌리고 싶다 | Netlify → Deploys → 이전 배포 → **Publish deploy** |
+| 배포를 되돌리고 싶다 | Cloudflare Pages → Deployments → 이전 배포 → **Rollback to this deployment** |
 | 파일 수정을 되돌리고 싶다 | GitHub → 파일 → History → 이전 버전 → Revert |
 | 글 하나만 내리고 싶다 | `.md` 맨 위에 `draft: true` 추가 |
 
@@ -173,7 +173,7 @@ content/posts/en/seoul-myeongdong-shindonggung.md   ← 같은 이름
 
 # 문제가 생겼을 때
 
-**Netlify → Deploys → 최신 배포 → 로그 맨 아래**를 보세요. 빌드가 성공하면 이렇게 나옵니다.
+**Cloudflare Pages → Deployments → 최신 배포 → 로그 맨 아래**를 보세요. 빌드가 성공하면 이렇게 나옵니다.
 
 ```
 ✅ 빌드 완료

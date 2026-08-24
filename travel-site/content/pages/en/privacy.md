@@ -69,7 +69,7 @@ The site may use Google Analytics to understand traffic. Data is aggregated and 
 
 | Processor | Purpose |
 |---|---|
-| Netlify, Inc. | Website hosting and access logs |
+| Cloudflare, Inc. | Website hosting, content delivery (CDN) and access logs |
 | Supabase, Inc. | Storing emoji reactions |
 | Google LLC | Advertising and traffic analytics |
 

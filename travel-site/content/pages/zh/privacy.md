@@ -69,7 +69,7 @@ updated: 生效日期 2026年8月17日
 
 | 受托方 | 处理内容 |
 |---|---|
-| Netlify, Inc. | 网站托管与访问日志 |
+| Cloudflare, Inc. | 网站托管、内容分发(CDN)与访问日志 |
 | Supabase, Inc. | 存储表情反应数据 |
 | Google LLC | 广告投放与访问统计 |
 

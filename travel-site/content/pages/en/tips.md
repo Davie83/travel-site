@@ -51,9 +51,28 @@ For a foreign visitor this is usually the easiest option. **Currency exchange, t
 
 - **Feed foreign banknotes into the kiosk** and it converts them to won, loaded onto your card
 - Accepts **16 currencies** (USD, EUR, JPY, GBP, AUD, CAD, CNY and more)
-- **T-money is built in**, so the same card taps you onto the subway and buses
-- **Over 320 kiosk locations** nationwide — major subway stations, hotels, shopping malls
+- **Tap the card** for subways, buses and taxis
 - Available 24 hours, so bank opening times stop mattering
+
+**Where do you get the card? The machine issues it on the spot**
+
+There is no counter to visit and no application form. **The kiosk prints and dispenses the card there and then.**
+
+- Around **444 machines** nationwide (official figure) — hotels, convenience stores, subway stations, tourist spots
+- **Airports have them** — Incheon T1 and T2, Gimpo, Jeju, Gimhae (Busan), Daegu. Also Incheon Port and Busan Port
+- In Seoul: **Myeongdong, Hongik University Station, Dongdaemun (DDP), Seoul Station**. In Busan: **Haeundae, Seomyeon**
+- **Card fee 5,000 KRW** (please verify — the official site does not publish the amount; check the price on the machine screen before confirming)
+- To settle it in advance, **reserve online on the official site** and collect the card after you land
+- Once you have it, **register the card in the WOWPASS app** — balance, freezing a lost card, and topping up the transit balance are all done there
+- **Korean nationals cannot be issued a card.** The service is for foreign visitors only
+
+**Three things to know before you go — these matter**
+
+1. **The machines at Incheon Airport cannot exchange foreign cash.** The T1 and T2 machines (inside CU convenience stores) only **issue cards and top up in Korean won**. To turn dollars or yen into won, use a machine in the city. **Gimpo Airport offers the full service**; Jeju Airport cannot exchange cash
+2. **There are two separate balances.** The payment balance (you **insert** the card) and the T-money transit balance (you **tap** the card) are **not the same pot**. The transit balance must be topped up separately, at a subway station or in the app. Not knowing this leaves you stuck at the gate
+3. **It does not work for online payments or delivery apps.** Offline stores only
+
+Top-up limits are **1,000,000 KRW at once, 2,000,000 per day, 10,000,000 per week**. Topping up with a foreign card in the app is capped at 200,000 per transaction and 1,000,000 per month.
 
 **If the rate is all you care about**, the money changers in Myeongdong or Namdaemun are still the best. You just need cash in hand, and they close.
 
@@ -142,7 +161,7 @@ Korean restaurants differ from what you may be used to.
 ## Your first day, in order {#firstday}
 
 1. At the airport, **change only enough to reach the city**
-2. Buy and load a **T-money card** at an airport convenience store (or get WOWPASS downtown)
+2. Buy and load a **T-money card** at the airport, or have a machine issue a **WOWPASS card** (at Incheon you can only get the card — **exchange cash in the city**)
 3. Install **Naver Map or KakaoMap**
 4. Save **1330**
 5. Change the rest downtown (Myeongdong / Namdaemun, or a WOWPASS kiosk)

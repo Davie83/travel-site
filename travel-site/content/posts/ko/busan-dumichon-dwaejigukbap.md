@@ -14,6 +14,8 @@ lng: 129.0782315
 addr: 부산 동래구 온천제1동 440-15
 closed: none
 spicy: 0
+order: 돼지국밥 주세요
+orderRoman: Dwaeji-gukbap juseyo
 info:
   - 가게|두미촌돼지국밥
   - 위치|부산 동래구 온천제1동 440-15

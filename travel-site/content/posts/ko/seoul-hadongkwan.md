@@ -14,6 +14,8 @@ lng: 126.9196491
 addr: 서울 영등포구 은행로 3
 closed: sun
 spicy: 0
+order: 곰탕 주세요
+orderRoman: Gomtang juseyo
 info:
   - 가게|하동관 (여의도점 방문)
   - 여의도직영1호점|영등포구 은행로 3 · 02-785-9292 — **국회의사당역 3번 출구**

@@ -14,6 +14,8 @@ lng: 126.8915259
 addr: 서울 영등포구 도림로 465
 closed: sun
 spicy: 0
+order: 정식 순대국 주세요
+orderRoman: Jeongsik sundae-guk juseyo
 info:
   - 가게|오복순대국 **문래 본점**
   - 위치|서울 영등포구 도림로 465 (문래동4가)

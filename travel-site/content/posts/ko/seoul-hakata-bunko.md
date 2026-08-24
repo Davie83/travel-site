@@ -14,6 +14,8 @@ lng: 126.9237570
 addr: 서울 마포구 독막로19길 43
 closed: none
 spicy: 0
+order: 인라멘 주세요
+orderRoman: In-ramen juseyo
 info:
   - 가게|하카타분코
   - 위치|서울 마포구 독막로19길 43

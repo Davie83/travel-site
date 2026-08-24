@@ -14,6 +14,8 @@ lng: 126.9839630
 addr: 서울 중구 명동9길 43
 closed: none
 spicy: 3
+order: 뼈숯불구이 주세요
+orderRoman: Ppyeo-sutbul-gui juseyo
 info:
   - 가게|신동궁감자탕뼈숯불구이
   - 주소|서울 중구 명동9길 43

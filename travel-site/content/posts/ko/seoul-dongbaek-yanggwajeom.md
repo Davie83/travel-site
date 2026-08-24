@@ -14,6 +14,8 @@ lng: 126.9896005
 addr: 서울 종로구 수표로28길 17-24
 closed: none
 spicy: 0
+order: 수플레 주세요
+orderRoman: Suphle juseyo
 info:
   - 가게|동백양과점
   - 위치|서울 종로구 수표로28길 17-24 (익선동 한옥거리 인근)

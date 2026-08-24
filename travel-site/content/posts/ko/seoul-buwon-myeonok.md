@@ -14,6 +14,8 @@ lng: 126.9775873
 addr: 서울 중구 남대문시장4길 41-6
 closed: sun
 spicy: 0
+order: 평양냉면 주세요
+orderRoman: Pyeongyang-naengmyeon juseyo
 info:
   - 가게|부원면옥
   - 위치|서울 중구 남대문시장4길 41-6 **2층**

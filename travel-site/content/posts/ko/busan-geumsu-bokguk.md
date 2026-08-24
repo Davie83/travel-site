@@ -14,6 +14,8 @@ lng: 129.0822142
 addr: 부산 동래구 충렬대로 210
 closed: none
 spicy: 3
+order: 복국 주세요
+orderRoman: Bok-guk juseyo
 info:
   - 가게|금수복국 동래점
   - 위치|부산 동래구

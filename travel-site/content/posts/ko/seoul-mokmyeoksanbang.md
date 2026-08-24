@@ -14,6 +14,8 @@ lng: 126.9869015
 addr: 서울 중구 퇴계로20길 71
 closed: unknown
 spicy: 1
+order: 산방비빔밥 주세요
+orderRoman: Sanbang-bibimbap juseyo
 info:
   - 가게|목멱산방 **본점** (명동점이라고도 부릅니다)
   - 위치|서울 중구 퇴계로20길 71

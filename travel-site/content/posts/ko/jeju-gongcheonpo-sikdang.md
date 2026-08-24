@@ -14,6 +14,8 @@ lng: 126.6426731
 addr: 제주 서귀포시 남원읍 공천포로 89
 closed: thu
 spicy: 1
+order: 전복죽 주세요
+orderRoman: Jeonbok-juk juseyo
 info:
   - 가게|공천포식당
   - 위치|제주 서귀포시 남원읍 공천포로 89 (공천포구 앞)

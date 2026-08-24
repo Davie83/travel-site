@@ -14,6 +14,8 @@ lng: 126.9270353
 addr: 서울 영등포구 국제금융로6길 33
 closed: sun
 spicy: 0
+order: 콩국수 주세요
+orderRoman: Kong-guksu juseyo
 info:
   - 가게|진주집
   - 위치|서울 영등포구 국제금융로6길 33 **지하 1층** (여의도백화점 안)

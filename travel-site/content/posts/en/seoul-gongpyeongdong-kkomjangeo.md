@@ -17,7 +17,7 @@ info:
   - Closing day|**Open every day** — including Sunday
   - Budget|**KRW 13,000-18,000 per person** (changes often — please verify)
   - What to order|**Salt-grilled hagfish** · spicy-marinated hagfish · pork intestine · chicken feet (mostly around 13,000)
-  - Spice|**Salt-grilled 0/5 — not spicy at all** · **Spicy-marinated 3/5 — medium** (the badge above refers to the salt-grilled version)
+  - Spice|**Salt-grilled 0/5 — not spicy at all** · **Spicy-marinated 4/5 — spicy** (the badge above refers to the salt-grilled version)
   - Free with the meal|**Steamed egg**
   - Nearest station|**Jonggak Stn.** (Line 1), 2-5 min walk from exit 4
 ---

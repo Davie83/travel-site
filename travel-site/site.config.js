@@ -117,6 +117,40 @@ module.exports = {
     '부산': 'busan',   '제주': 'jeju'
   },
 
+
+  /* ---- 추천 코스 -------------------------------------------------------
+     동선 기능을 처음 쓰는 사람이 한 곳씩 담지 않아도 되도록
+     실제로 붙어 있는 곳들을 순서대로 묶어둡니다.
+     stops 는 글의 파일 이름(slug)입니다. 없는 이름을 적으면 빌드가 경고합니다. */
+  routes: [
+    { slug: 'yeouido-lunch',
+      names: { ko: '여의도 — 점심 한 끼와 한강뷰 카페',
+               en: 'Yeouido — lunch, then a Han River cafe',
+               ja: '汝矣島 — 昼ごはんと漢江ビューのカフェ',
+               zh: '汝矣岛 — 午餐加汉江景观咖啡' },
+      stops: ['seoul-hadongkwan', 'seoul-gangbyeon-seojae'] },
+
+    { slug: 'myeongdong-namsan',
+      names: { ko: '명동·남산 — 시장 냉면에서 남산 비빔밥까지',
+               en: 'Myeongdong & Namsan — market noodles to mountain bibimbap',
+               ja: '明洞・南山 — 市場の冷麺から南山のビビンバまで',
+               zh: '明洞·南山 — 从市场冷面到南山拌饭' },
+      stops: ['seoul-buwon-myeonok', 'seoul-mokmyeoksanbang', 'seoul-myeongdong-shindonggung'] },
+
+    { slug: 'jongno-evening',
+      names: { ko: '종로·익선동 — 커피, 디저트, 그리고 밤',
+               en: 'Jongno & Ikseondong — coffee, dessert, then night',
+               ja: '鍾路・益善洞 — コーヒー、デザート、そして夜',
+               zh: '钟路·益善洞 — 咖啡、甜点，然后是夜晚' },
+      stops: ['seoul-dozo-coffee', 'seoul-dongbaek-yanggwajeom', 'seoul-gongpyeongdong-kkomjangeo'] },
+
+    { slug: 'jeju-west',
+      names: { ko: '제주 서쪽 — 애월 막국수와 오일장',
+               en: 'West Jeju — Aewol noodles and the five-day market',
+               ja: '済州西部 — 涯月のマッククスと五日市',
+               zh: '济州西部 — 涯月拌面与五日集市' },
+      stops: ['jeju-aewol-makguksu', 'jeju-oiljang'] }
+  ],
   /* ---- 카테고리 --------------------------------------------------------
      slug 이 주소가 됩니다: /travel.html · /food.html
      화면에 보이는 이름은 content/i18n.js 에 언어별로 있습니다.        */

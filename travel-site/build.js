@@ -351,7 +351,7 @@ function loadPosts(code) {
    "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
    4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
    한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
-const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy'];
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman'];
 
 function applyGeo(byLocale) {
   const base = {};
@@ -633,6 +633,47 @@ function spicyHTML(m, t) {
     `<span class="spicy-label">${escapeHtml(t.spicyLabel)}</span>` +
     `<span class="spicy-peppers" aria-hidden="true">${peppers}</span>` +
     `<span class="spicy-name">${escapeHtml(name)}</span></p>`;
+}
+/** 주문 카드 — 가게에서 직원에게 그대로 보여주는 한 문장.
+    읽는 언어가 무엇이든 한글이 주인공입니다. 로마자는 발음 보조입니다.
+    (영어 글의 메뉴 표기가 로마자뿐이라 정작 주문을 못 하는 문제를 메웁니다) */
+function orderHTML(m, t) {
+  if (m.cat !== 'food' || !m.order) return '';
+  const roman = m.orderRoman
+    ? `<span class="order-roman">${escapeHtml(m.orderRoman)}</span>` : '';
+  return `      <div class="order-card">` +
+    `<span class="order-label">${escapeHtml(t.orderLabel)}</span>` +
+    `<strong class="order-ko" lang="ko">${escapeHtml(m.order)}</strong>` +
+    roman +
+    `<span class="order-hint">${escapeHtml(t.orderHint)}</span></div>`;
+}
+/** 추천 코스 버튼 — 동선을 처음 쓰는 사람이 한 곳씩 담지 않아도 되게 합니다.
+    실제로 글이 있는 곳만 남깁니다. 없는 slug 는 경고로 알립니다. */
+function presetsHTML(posts, code, t) {
+  const list = site.routes || [];
+  if (!list.length) return '';
+  const have = new Set(posts.map(p => p.slug));
+  const cards = list.map(r => {
+    const stops = (r.stops || []).filter(s => {
+      if (have.has(s)) return true;
+      warnings.push(`site.config.js 추천 코스 "${r.slug}" — ${s} 글이 없어 건너뜁니다`);
+      return false;
+    });
+    if (stops.length < 2) return '';
+    const name = (r.names && (r.names[code] || r.names.en)) || r.slug;
+    return `        <button class="preset" type="button" data-stops="${escapeHtml(stops.join(','))}">` +
+      `<span class="preset-name">${escapeHtml(name)}</span>` +
+      `<span class="preset-n">${escapeHtml(t.presetStops(stops.length))}</span>` +
+      `<span class="preset-go">${escapeHtml(t.presetAdd)} +</span></button>`;
+  }).filter(Boolean).join('\n');
+  if (!cards) return '';
+  return `      <section class="presets">
+        <div class="presets-head"><h2>${escapeHtml(t.presetTitle)}</h2>` +
+    `<span class="presets-hint">${escapeHtml(t.presetHint)}</span></div>
+        <div class="preset-list">
+${cards}
+        </div>
+      </section>`;
 }
 function bylineHTML(t) {
   const a = site.author || {};
@@ -1100,6 +1141,10 @@ function build() {
           badges: badgesHTML(m, base, code, t, true),
           byline: bylineHTML(t),
           spicy: spicyHTML(m, t),
+          order: orderHTML(m, t),
+          closed: escapeHtml(m.closed || ''),
+          dayNames: escapeHtml(t.routeDayNames),
+          closedTodayTpl: escapeHtml(t.closedTodayTpl),
           regionHref: `${base}${d}region/${m.region}`,
           title: escapeHtml(m.title),
           // 방문 시점은 표기하지 않습니다.
@@ -1153,6 +1198,7 @@ function build() {
       availability: availFor('saved.html', () => true),
       body: fill(T.saved, {
         title:    escapeHtml(t.savedTitle),
+        presets:  presetsHTML(posts, code, t),
         desc:     escapeHtml(t.savedDesc),
         clear:    escapeHtml(t.savedClear),
         clearAsk: escapeHtml(t.savedClearAsk),

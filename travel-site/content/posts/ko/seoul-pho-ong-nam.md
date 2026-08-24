@@ -14,6 +14,8 @@ lng: 126.9038128
 addr: 서울 영등포구 당산로48길 15
 closed: none
 spicy: 0
+order: 쌀국수 주세요
+orderRoman: Ssal-guksu juseyo
 info:
   - 가게|포옹남 당산점
   - 위치|서울 영등포구 당산로48길 15

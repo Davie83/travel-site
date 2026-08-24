@@ -14,6 +14,8 @@ lng: 126.9519734
 addr: 서울 마포구 마포대로7길 11
 closed: sun
 spicy: 3
+order: 아구수육 주세요
+orderRoman: Agu-suyuk juseyo
 info:
   - 가게|홍박아구찜
   - 위치|서울 마포구 마포대로7길 11 · **지하**입니다

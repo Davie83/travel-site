@@ -1,4 +1,4 @@
-/* ==========================================================================
+00/* ==========================================================================
    저장한 곳 (즐겨찾기)
    --------------------------------------------------------------------------
    방문자 기기의 localStorage 에만 저장합니다.
@@ -906,5 +906,64 @@
   document.addEventListener('focusout', function (e) {
     if (e.target && e.target.id === 'route-origin-input') setOriginFromInput();
   });
+
+  /* ---- 오늘 휴무 알림 (글 상세) ----------------------------------------
+     빌드 결과는 미리 만들어져 오래 캐시되므로 "오늘"을 알 수 없습니다.
+     그래서 방문자 브라우저에서 요일을 비교합니다.
+     closed 값은 이미 모든 글에 있어서 새로 넣을 정보가 없습니다. */
+  function closedToday() {
+    var art = document.querySelector('.post[data-closed]');
+    if (!art) return;
+    var raw = art.getAttribute('data-closed') || '';
+    if (!raw || raw === 'none' || raw === 'unknown') return;
+
+    var map = { sun: 0, mon: 1, tue: 2, wed: 3, thu: 4, fri: 5, sat: 6 };
+    var parts = raw.split(',');
+    var today = new Date().getDay();
+    var hit = -1;
+    for (var i = 0; i < parts.length; i++) {
+      var key = parts[i].replace(/^\s+|\s+$/g, '');
+      if (map[key] === today) { hit = today; break; }
+    }
+    if (hit < 0) return;
+
+    var names = (art.getAttribute('data-t-days') || '').split(',');
+    var tpl = art.getAttribute('data-t-closedtoday') || '';
+    var box = art.querySelector('.closed-today');
+    if (!tpl || !box) return;
+    box.textContent = tpl.replace('{days}', names[hit] || '');
+    box.hidden = false;
+  }
+  closedToday();
+
+  /* ---- 추천 코스 담기 ---------------------------------------------------
+     동선은 저장한 곳에서 만들어지므로(rSync), 저장 목록과 동선 순서를
+     둘 다 채워야 합니다. 지금 담아둔 것은 지우지 않고 뒤에 더합니다. */
+  document.addEventListener('click', function (e) {
+    var btn = up(e.target, '.preset');
+    if (!btn) return;
+    var stops = (btn.getAttribute('data-stops') || '').split(',');
+    var saved = read(), route = rRead(), added = 0, i;
+    for (i = 0; i < stops.length; i++) {
+      var s = stops[i].replace(/^\s+|\s+$/g, '');
+      if (!s) continue;
+      if (saved.indexOf(s) === -1) { saved.push(s); added++; }
+      var dup = false;
+      for (var j = 0; j < route.length; j++) {
+        if (route[j].t === 'p' && route[j].s === s) { dup = true; break; }
+      }
+      if (!dup) route.push({ t: 'p', s: s });
+    }
+    write(saved);
+    rWrite(route);
+    paint();
+    // 담긴 결과를 바로 볼 수 있게 동선 칸으로 옮겨 줍니다
+    var box = document.getElementById('route');
+    if (box && !box.hidden && box.scrollIntoView) {
+      box.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+
+
   paint();
 })();

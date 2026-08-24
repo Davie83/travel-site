@@ -14,6 +14,8 @@ lng: 126.9479320
 addr: 서울 마포구 도화길 12-3
 closed: none
 spicy: 0
+order: 간장게장 정식 주세요
+orderRoman: Ganjang-gejang jeongsik juseyo
 info:
   - 가게|서산꽃게
   - 위치|서울 마포구 도화길 12-3

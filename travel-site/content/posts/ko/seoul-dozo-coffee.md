@@ -14,6 +14,8 @@ lng: 126.9662905
 addr: 서울 종로구 통일로 134
 closed: none
 spicy: 0
+order: 드립커피 주세요
+orderRoman: Deurip-keopi juseyo
 info:
   - 가게|도조커피 돈의문
   - 위치|서울 종로구 통일로 134

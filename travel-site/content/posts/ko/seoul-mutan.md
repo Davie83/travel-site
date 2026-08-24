@@ -14,6 +14,8 @@ lng: 126.9231012
 addr: 서울 영등포구 의사당대로 96
 closed: none
 spicy: 0
+order: 트러플 자장면 주세요
+orderRoman: Teureopeul jajangmyeon juseyo
 info:
   - 가게|무탄 여의도점
   - 위치|서울 영등포구 의사당대로 96 **TP타워 2층** (사학연금공단 서울회관)

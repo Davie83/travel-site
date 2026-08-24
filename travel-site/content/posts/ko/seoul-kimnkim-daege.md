@@ -14,6 +14,8 @@ lng: 126.9187278
 addr: 서울 마포구 서교동 372-1
 closed: unknown
 spicy: 0
+order: 대게 코스 주세요
+orderRoman: Daege koseu juseyo
 info:
   - 가게|김앤김대게전문점
   - 위치|서울 마포구 서교동 372-1 — **1층 수족관, 식사는 3층**

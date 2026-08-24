@@ -14,6 +14,8 @@ lng: 126.7170750
 addr: 전남 나주시 금성관길 6-1
 closed: none
 spicy: 0
+order: 나주곰탕 주세요
+orderRoman: Naju-gomtang juseyo
 info:
   - 가게|나주곰탕 하얀집 본점
   - 위치|전남 나주시 금성관길 6-1

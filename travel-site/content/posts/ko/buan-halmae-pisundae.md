@@ -14,6 +14,8 @@ lng: 126.7193726
 addr: 전북 부안군 행안면 부안로 2524
 closed: unknown
 spicy: 0
+order: 피순대 주세요
+orderRoman: Pisundae juseyo
 info:
   - 가게|할매피순대
   - 위치|전북 부안군 행안면 부안로 2524

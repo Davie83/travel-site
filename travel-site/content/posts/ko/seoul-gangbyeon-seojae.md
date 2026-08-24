@@ -14,6 +14,8 @@ lng: 126.9165053
 addr: 서울 영등포구 의사당대로 1
 closed: sun
 spicy: 0
+order: 아메리카노 주세요
+orderRoman: Americano juseyo
 info:
   - 가게|강변서재 (국회가 운영합니다)
   - 위치|서울 영등포구 의사당대로 1 · **국회 사랑재 옆 건물 2층**

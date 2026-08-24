@@ -1,5 +1,7 @@
   <!-- 글 상세 -->
-  <article class="post" style="--r:var(--region-{{regionSlug}})">
+  <article class="post" style="--r:var(--region-{{regionSlug}})"
+           data-closed="{{closed}}" data-t-days="{{dayNames}}" data-t-closedtoday="{{closedTodayTpl}}">
+    <p class="closed-today" hidden></p>
 
     <header class="post-head">
 {{badges}}
@@ -7,6 +9,7 @@
       <p class="meta">{{meta}}</p>
 {{byline}}
 {{spicy}}
+{{order}}
       {{saveBtn}}
     </header>
 

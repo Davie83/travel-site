@@ -14,6 +14,8 @@ lng: 126.9272177
 addr: 서울 영등포구 여의동 36-4
 closed: sat,sun
 spicy: 2
+order: 얼큰만두국 주세요
+orderRoman: Eolkeun-manduguk juseyo
 info:
   - 가게|진진만두국 (여의도에 두 곳)
   - 여의도본점|영등포구 여의동 36-4 **오륜빌딩** · 02-780-7867

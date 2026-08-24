@@ -14,6 +14,8 @@ lng: 129.1107622
 addr: 부산 수영구 광남로22번길 3
 closed: none
 spicy: 0
+order: 돼지국밥 주세요
+orderRoman: Dwaeji-gukbap juseyo
 info:
   - 가게|안목 **본점**
   - 위치|부산 수영구 광남로22번길 3 1층 101호 (남천동)

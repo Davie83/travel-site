@@ -14,6 +14,8 @@ lng: 126.3162947
 addr: 제주특별자치도 제주시 애월읍 애월해안로 11
 closed: unknown
 spicy: 0
+order: 들기름막국수 주세요
+orderRoman: Deulgireum-makguksu juseyo
 info:
   - 가게|애월리순메밀막국수
   - 위치|제주특별자치도 제주시 애월읍 애월해안로 11 (애월 해안도로)

@@ -14,6 +14,8 @@ lng: 126.2532387
 addr: 제주특별자치도 서귀포시 대정읍 최남단해안로 69
 closed: none
 spicy: 3
+order: 할망그날정식 주세요
+orderRoman: Halmang-geunal-jeongsik juseyo
 info:
   - 가게|제주할망밥상 **모슬포점** (여러 지점이 있는 곳입니다)
   - 위치|제주특별자치도 서귀포시 대정읍 최남단해안로 69 · **모슬포항 바로 앞**

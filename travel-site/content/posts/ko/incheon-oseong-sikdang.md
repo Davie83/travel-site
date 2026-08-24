@@ -14,6 +14,8 @@ lng: 126.6033425
 addr: 인천 중구 연안부두
 closed: none
 spicy: 2
+order: 밴댕이회무침 주세요
+orderRoman: Baendaengi-hoemuchim juseyo
 info:
   - 가게|오성식당
   - 위치|인천 중구 연안부두 **해양센터 2층**

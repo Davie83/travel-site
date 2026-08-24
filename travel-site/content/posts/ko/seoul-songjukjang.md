@@ -14,6 +14,8 @@ lng: 126.9047157
 addr: 서울 영등포구 문래로 203
 closed: none
 spicy: 4
+order: 짬뽕 주세요
+orderRoman: Jjamppong juseyo
 info:
   - 가게|송죽장
   - 위치|서울 영등포구 문래로 203

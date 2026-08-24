@@ -14,6 +14,8 @@ lng: 126.9307110
 addr: 서울 영등포구 의사당대로1길 34
 closed: sat,sun
 spicy: 1
+order: 회덮밥 주세요
+orderRoman: Hoedeopbap juseyo
 info:
   - 가게|권수산
   - 위치|서울 영등포구 의사당대로1길 34 **인영빌딩 지하 1층**

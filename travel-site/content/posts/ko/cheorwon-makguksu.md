@@ -14,6 +14,8 @@ lng: 127.3086742
 addr: 강원 철원군 갈말읍 명성로158번길 13
 closed: unknown
 spicy: 2
+order: 비빔막국수 주세요
+orderRoman: Bibim-makguksu juseyo
 info:
   - 가게|철원막국수
   - 위치|강원 철원군 갈말읍 명성로158번길 13

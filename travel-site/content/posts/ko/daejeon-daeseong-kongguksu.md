@@ -14,6 +14,8 @@ lng: 127.3775335
 addr: 대전 서구 도마동 67-36
 closed: none
 spicy: 0
+order: 콩국수 주세요
+orderRoman: Kong-guksu juseyo
 info:
   - 가게|대성콩국수
   - 위치|대전 서구 도마동 67-36

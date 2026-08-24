@@ -1,4 +1,4 @@
-000/* ==========================================================================
+00000/* ==========================================================================
    화면에 나오는 고정 문구 — 언어별 사전
    --------------------------------------------------------------------------
    글 내용이 아니라 버튼·제목 같은 "틀"의 문구입니다.
@@ -22,6 +22,13 @@ module.exports = {
     },
 
     findByRegion: '지역으로 찾기',
+    presetTitle: '추천 코스',
+    presetHint:  '누르면 지금 목록에 더해집니다',
+    presetAdd:   '코스 담기',
+    presetStops: n => `${n}곳`,
+    orderLabel: '이걸 보여주세요',
+    orderHint:  '인원수는 손가락으로 알려주면 됩니다',
+    closedTodayTpl: '오늘은 휴무입니다 ({days})',
     spicyLabel: '매운맛',
     spicyNames: ['전혀 안 매움', '거의 안 매움', '순한 매움', '보통', '매움', '아주 매움'],
     spicyAria:  (n, name) => `매운맛 5단계 중 ${n}단계 — ${name}`,
@@ -126,6 +133,13 @@ module.exports = {
     },
 
     findByRegion: 'Browse by region',
+    presetTitle: 'Ready-made routes',
+    presetHint:  'Tapping adds them to your current list',
+    presetAdd:   'Add route',
+    presetStops: n => `${n} stops`,
+    orderLabel: 'Show this to the staff',
+    orderHint:  'Hold up fingers for how many people',
+    closedTodayTpl: 'Closed today ({days})',
     spicyLabel: 'Spice',
     spicyNames: ['Not spicy at all', 'Barely spicy', 'Mildly spicy', 'Medium', 'Spicy', 'Very spicy'],
     spicyAria:  (n, name) => `Spice level ${n} of 5 — ${name}`,
@@ -230,6 +244,13 @@ module.exports = {
     },
 
     findByRegion: '地域から探す',
+    presetTitle: 'おすすめコース',
+    presetHint:  '押すと今のリストに追加されます',
+    presetAdd:   'コースを追加',
+    presetStops: n => `${n}か所`,
+    orderLabel: '店員に見せてください',
+    orderHint:  '人数は指で伝えれば大丈夫です',
+    closedTodayTpl: '本日は定休日です（{days}）',
     spicyLabel: '辛さ',
     spicyNames: ['まったく辛くない', 'ほとんど辛くない', '軽い辛さ', '普通', '辛い', 'とても辛い'],
     spicyAria:  (n, name) => `辛さ 5段階中 ${n} — ${name}`,
@@ -334,6 +355,13 @@ module.exports = {
     },
 
     findByRegion: '按地区浏览',
+    presetTitle: '推荐路线',
+    presetHint:  '点击后会加入当前列表',
+    presetAdd:   '加入路线',
+    presetStops: n => `${n}处`,
+    orderLabel: '把这个给店员看',
+    orderHint:  '人数用手指比一下就行',
+    closedTodayTpl: '今天休息（{days}）',
     spicyLabel: '辣度',
     spicyNames: ['完全不辣', '几乎不辣', '微辣', '中辣', '辣', '非常辣'],
     spicyAria:  (n, name) => `辣度 5级中的第 ${n} 级 — ${name}`,

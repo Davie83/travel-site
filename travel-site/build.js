@@ -195,7 +195,13 @@ function markdown(src) {
     const h = line.match(/^(#{1,6})\s+(.*)$/);
     if (h) {
       const lv = h[1].length;
-      out.push(`<h${lv}>${inline(escapeHtml(h[2].trim()))}</h${lv}>`);
+      /* "## 제목 {#transport}" 처럼 쓰면 그 제목에 id 가 붙습니다 (앵커 링크·목차용).
+         한국어·일본어 제목을 자동으로 슬러그로 만들면 읽을 수 없는 id 가 되므로
+         필요한 곳에만 직접 적게 했습니다. 안 적으면 예전과 똑같이 동작합니다. */
+      let text = h[2].trim(), id = '';
+      const anchor = text.match(/\s*\{#([A-Za-z0-9_-]+)\}$/);
+      if (anchor) { id = ` id="${anchor[1]}"`; text = text.slice(0, anchor.index).trim(); }
+      out.push(`<h${lv}${id}>${inline(escapeHtml(text))}</h${lv}>`);
       i++; continue;
     }
 
@@ -431,6 +437,7 @@ function navHTML(current, base, code, t) {
   const items = [
     { href: '', label: t.nav.regions, key: 'home' },
     ...site.categories.map(c => ({ href: c.slug, label: t.category[c.slug], key: c.slug })),
+    { href: 'tips',    label: t.nav.tips,    key: 'tips' },
     { href: 'about',   label: t.nav.about,   key: 'about' },
     { href: 'contact', label: t.nav.contact, key: 'contact' }
   ];
@@ -894,7 +901,7 @@ function build() {
 
     // 푸터가 항상 링크하는 3개 문서가 그 언어에 있는지 확인
     // (없으면 방문자가 푸터를 눌렀을 때 404 를 만납니다)
-    for (const need of ['about', 'contact', 'privacy']) {
+    for (const need of ['about', 'contact', 'privacy', 'tips']) {
       if (!byLocale[l.code].pages.some(p => p.slug === need)) {
         warnings.push(`content/pages/${l.code}/${need}.md 가 없습니다 — 푸터 링크가 404 가 됩니다`);
       }
@@ -954,6 +961,11 @@ function build() {
         searchTitle: escapeHtml(t.searchTitle),
         searchCountTpl: escapeHtml(t.searchCountTpl),
         searchJump: escapeHtml(t.searchJump),
+        tipsHref:  linkTo(homeBase + d + 'tips'),
+        tipsTitle: escapeHtml(t.tipsTitle),
+        tipsDesc:  escapeHtml(t.tipsDesc),
+        tipsTags:  escapeHtml(t.tipsTags),
+        tipsCta:   escapeHtml(t.tipsCta),
         latest: posts.map(p => cardHTML(p, baseOf(d + 'index.html'), code, t)).join('\n'),
         noResult: escapeHtml(t.noResult),
         adTop: adSlotHTML('home-top'), adBottom: adSlotHTML('home-bottom')
@@ -1106,7 +1118,8 @@ function build() {
           content: markdown(bodyMd)
         })
       }));
-      urls.push({ loc: out, pri: '0.3' });
+      // 여행 팁은 실제로 찾아 읽는 콘텐츠라 소개·약관 문서보다 우선순위를 올립니다
+      urls.push({ loc: out, pri: pg.slug === 'tips' ? '0.7' : '0.3' });
     }
 
     /* ---- 저장한 곳 (즐겨찾기) ----

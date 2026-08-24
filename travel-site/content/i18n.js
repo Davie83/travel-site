@@ -1,4 +1,4 @@
-/* ==========================================================================
+00/* ==========================================================================
    화면에 나오는 고정 문구 — 언어별 사전
    --------------------------------------------------------------------------
    글 내용이 아니라 버튼·제목 같은 "틀"의 문구입니다.
@@ -13,7 +13,7 @@ module.exports = {
     description: '한국인이 직접 다녀온 경험 및 맛집 후기 정리합니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
     siteDesc:    '한국 여행지와 맛집 정보. 지역별로 정리했습니다.',
 
-    nav:       { regions: '지역', travel: '여행지', food: '맛집', about: '소개', contact: '문의' },
+    nav:       { regions: '지역', travel: '여행지', food: '맛집', tips: '여행 팁', about: '소개', contact: '문의' },
     category:  { travel: '여행지', food: '맛집' },
     categoryTitle: { travel: '여행지', food: '맛집' },
     categoryDesc:  {
@@ -22,6 +22,10 @@ module.exports = {
     },
 
     findByRegion: '지역으로 찾기',
+    tipsTitle: '한국 여행 준비 — 도착 첫날 막히는 것들',
+    tipsDesc:  '교통카드는 어디서 사고, 환전은 어디가 유리하고, 구글 지도가 왜 길찾기를 못 하는지. 실제로 필요한 것만 모았습니다.',
+    tipsTags:  '교통카드 · 환전 · 길찾기 · 1330',
+    tipsCta:   '여행 팁 보기',
     regionCount:  n => `전체 ${n}개 지역`,
     latest:       '최근 올라온 글',
     more:         '더 보기',
@@ -110,7 +114,7 @@ module.exports = {
     description: 'Written by a Korean who actually goes to these places — routes, budgets, transit, and when to avoid the crowds. The things worth knowing before you go.',
     siteDesc:    'Honest guides to places and food across Korea, organised by region.',
 
-    nav:       { regions: 'Regions', travel: 'Places', food: 'Food', about: 'About', contact: 'Contact' },
+    nav:       { regions: 'Regions', travel: 'Places', food: 'Food', tips: 'Tips', about: 'About', contact: 'Contact' },
     category:  { travel: 'Place', food: 'Food' },
     categoryTitle: { travel: 'Places to visit', food: 'Where to eat' },
     categoryDesc:  {
@@ -119,6 +123,10 @@ module.exports = {
     },
 
     findByRegion: 'Browse by region',
+    tipsTitle: 'Korea travel basics — what trips people up on day one',
+    tipsDesc:  'Where to buy a transit card, where the exchange rate is actually good, and why Google Maps cannot give you driving directions here. Only what you will really need.',
+    tipsTags:  'Transit card · Exchange · Getting around · 1330',
+    tipsCta:   'Read the travel tips',
     regionCount:  n => `${n} regions`,
     latest:       'Latest guides',
     more:         'See all',
@@ -207,7 +215,7 @@ module.exports = {
     description: '韓国人が実際に足を運んでまとめています。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
     siteDesc:    '地域別にまとめた韓国の観光地とグルメ情報。',
 
-    nav:       { regions: '地域', travel: '観光地', food: 'グルメ', about: 'このサイト', contact: 'お問い合わせ' },
+    nav:       { regions: '地域', travel: '観光地', food: 'グルメ', tips: '旅行のヒント', about: 'このサイト', contact: 'お問い合わせ' },
     category:  { travel: '観光地', food: 'グルメ' },
     categoryTitle: { travel: '観光地', food: 'グルメ' },
     categoryDesc:  {
@@ -216,6 +224,10 @@ module.exports = {
     },
 
     findByRegion: '地域から探す',
+    tipsTitle: '韓国旅行の基本 — 到着初日につまずくこと',
+    tipsDesc:  '交通カードはどこで買うか、両替はどこが有利か、Googleマップがなぜ道案内できないか。実際に必要なものだけ集めました。',
+    tipsTags:  '交通カード · 両替 · 移動 · 1330',
+    tipsCta:   '旅行のヒントを見る',
     regionCount:  n => `全${n}地域`,
     latest:       '最新の記事',
     more:         'すべて見る',
@@ -304,7 +316,7 @@ module.exports = {
     description: '由韩国本地人亲自走过后整理。路线、预算、交通、避开人潮的时间，都是出发前值得知道的事。',
     siteDesc:    '按地区整理的韩国景点与美食指南。',
 
-    nav:       { regions: '地区', travel: '景点', food: '美食', about: '关于', contact: '联系' },
+    nav:       { regions: '地区', travel: '景点', food: '美食', tips: '旅行贴士', about: '关于', contact: '联系' },
     category:  { travel: '景点', food: '美食' },
     categoryTitle: { travel: '景点', food: '美食' },
     categoryDesc:  {
@@ -313,6 +325,10 @@ module.exports = {
     },
 
     findByRegion: '按地区浏览',
+    tipsTitle: '韩国旅行基础 — 抵达第一天最容易卡住的事',
+    tipsDesc:  '交通卡在哪里买、换钱在哪里划算、谷歌地图为什么不能导航。只收录真正需要的内容。',
+    tipsTags:  '交通卡 · 换钱 · 交通 · 1330',
+    tipsCta:   '查看旅行贴士',
     regionCount:  n => `共 ${n} 个地区`,
     latest:       '最新文章',
     more:         '查看全部',

@@ -954,3 +954,35 @@ a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85
 .route-busy{
   margin:0 0 10px;font-size:12px;color:var(--ink-mute);
 }
+
+/* ── 홈 여행 팁 카드 ────────────────────────────────────────────────
+   관광객이 홈에서 가장 먼저 필요한 정보라 최근 글보다 위에 둡니다.
+   토큰만 쓰기 때문에 밝은/어두운 테마가 자동으로 따라옵니다.       */
+.tips-card{
+  display:flex;align-items:center;gap:16px;
+  padding:18px 20px;
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+  text-decoration:none;color:inherit;
+  transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease;
+}
+.tips-card:hover{
+  transform:translateY(-2px);border-color:var(--line-hard);
+  box-shadow:0 10px 28px rgba(0,0,0,.09);
+}
+.tips-ico{font-size:30px;line-height:1;flex:0 0 auto;}
+.tips-body{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1 1 0;}
+.tips-title{font-size:1.06rem;font-weight:700;color:var(--ink);line-height:1.35;}
+.tips-desc{font-size:.9rem;color:var(--ink-mid);line-height:1.55;}
+.tips-tags{font-size:.8rem;color:var(--ink-mute);}
+.tips-cta{
+  flex:0 0 auto;font-size:.88rem;font-weight:600;color:var(--ink);
+  white-space:nowrap;
+}
+.tips-card:hover .tips-cta{text-decoration:underline;}
+
+/* 좁은 화면에서는 세로로 쌓고, 아이콘은 제목 옆으로 붙입니다 */
+@media (max-width:640px){
+  .tips-card{flex-wrap:wrap;gap:12px;padding:16px;}
+  .tips-ico{font-size:26px;}
+  .tips-cta{width:100%;}
+}

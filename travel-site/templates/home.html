@@ -4,15 +4,16 @@
       <div class="hero-text">
         <h1>{{tagline}}</h1>
         <p>{{description}}</p>
-        <div class="search-box">
-          <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
-        </div>
-        <!-- 내 근처: 이미 한국에 도착한 사람이 "여기서 가까운 곳"을 찾는 버튼입니다.
+        <!-- 검색창 오른쪽에 "내 근처" 를 둡니다.
+             왼쪽은 계획해서 찾는 방식, 오른쪽은 지금 서 있는 자리에서 찾는 방식입니다.
              위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. -->
-        <p class="near" data-target="latest-grid"
-           data-t-busy="{{nearBusy}}" data-t-done="{{nearDone}}" data-t-deny="{{nearDeny}}"
-           data-t-far="{{nearFar}}" data-t-none="{{nearNone}}">
-          <button class="near-btn" type="button">📍 {{nearTitle}}</button>
+        <div class="search-box near" data-target="latest-grid"
+             data-t-busy="{{nearBusy}}" data-t-done="{{nearDone}}" data-t-deny="{{nearDeny}}"
+             data-t-far="{{nearFar}}" data-t-none="{{nearNone}}">
+          <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
+          <button class="near-btn" type="button" title="{{nearTitle}}">📍 <span>{{nearTitle}}</span></button>
+        </div>
+        <p class="near-line">
           <span class="near-msg" aria-live="polite"></span>
           <button class="near-reset" type="button" hidden>{{nearReset}}</button>
         </p>

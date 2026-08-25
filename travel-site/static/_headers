@@ -11,7 +11,7 @@
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Permissions-Policy: geolocation=(self), microphone=(), camera=()
 
 # 주소에 ?v=<파일해시> 가 붙습니다 (build.js 의 assetVersion).
 # 파일이 바뀌면 주소도 바뀌므로, 길게 캐시해도 갱신이 밀리지 않습니다.

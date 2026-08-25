@@ -251,7 +251,7 @@ img{max-width:100%;display:block;}
   stroke:color-mix(in srgb,var(--r) 20%,var(--ground));
 }
 
-.search-box{margin:24px 0 0;max-width:440px;display:flex;}
+.search-box{margin:24px 0 0;max-width:560px;display:flex;gap:8px;align-items:center;}
 .search-box input{
   flex:1;padding:12px 18px;font-size:15.5px;font-family:inherit;
   border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink);
@@ -1082,17 +1082,32 @@ a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85
 /* ── 내 근처 (홈) ──────────────────────────────────────────────────
    이미 한국에 도착한 사람이 쓰는 버튼입니다.
    검색창 바로 아래에 두어 "계획"과 "현장" 두 방식을 나란히 둡니다.  */
-.near{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:10px 0 0;}
-.near-btn,.near-reset{
-  font:inherit;cursor:pointer;border-radius:999px;
-  background:var(--surface);border:1px solid var(--line);color:var(--ink);
-  transition:border-color .14s ease,transform .14s ease;
+/* 버튼은 검색창과 같은 줄, 안내 문구는 그 아래 줄에 둡니다 */
+.near-line{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:8px 0 0;min-height:0;}
+.near-line:empty{display:none;}
+/* 검색창은 "입력칸"(알약 모양 · 연한 배경), 내 근처는 "동작 버튼"입니다.
+   같은 모양·같은 배경이면 한 쌍처럼 보여서 무엇을 누르는지 헷갈립니다.
+   그래서 모양(둥근 사각) 과 배경(채운 색) 을 둘 다 다르게 했습니다.
+   --ink / --ground 는 테마에 따라 서로 뒤바뀌므로 밝은·어두운 양쪽에서 또렷합니다. */
+.near-btn{
+  font:inherit;cursor:pointer;flex:0 0 auto;white-space:nowrap;
+  padding:11px 16px;font-size:.88rem;font-weight:700;
+  border-radius:10px;border:1px solid var(--ink);
+  background:var(--ink);color:var(--ground);
+  transition:opacity .14s ease,transform .14s ease;
 }
-.near-btn{padding:8px 15px;font-size:.88rem;font-weight:700;}
-.near-btn:hover{border-color:var(--line-hard);transform:translateY(-1px);}
-.near-btn:disabled{opacity:.55;cursor:default;transform:none;}
-.near-reset{padding:6px 12px;font-size:.8rem;color:var(--ink-mute);}
-.near-reset:hover{border-color:var(--line-hard);}
+.near-btn:hover{opacity:.86;transform:translateY(-1px);}
+.near-btn:active{transform:none;}
+.near-btn:disabled{opacity:.5;cursor:default;transform:none;}
+.near-btn:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
+
+/* 되돌리기는 보조 동작이라 조용하게 둡니다 */
+.near-reset{
+  font:inherit;cursor:pointer;padding:6px 12px;font-size:.8rem;
+  border-radius:8px;border:1px solid var(--line);
+  background:transparent;color:var(--ink-mute);
+}
+.near-reset:hover{border-color:var(--line-hard);color:var(--ink);}
 .near-msg{font-size:.82rem;color:var(--ink-mid);}
 
 /* 거리 배지 — 카드 안 제목 위에 붙습니다 */
@@ -1129,6 +1144,9 @@ a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85
 :root[data-theme="dark"] .season-now.is-off{color:#f59b83;}
 
 @media (max-width:640px){
-  .near{gap:8px;}
+  /* 좁은 화면에서는 버튼 글자를 감추고 핀 모양만 남깁니다.
+     그래야 검색창이 눌러쓸 만한 폭을 유지합니다. (title 속성으로 뜻은 남습니다) */
+  .near-btn span{display:none;}
+  .near-btn{padding:12px 14px;}
   .near-msg{width:100%;}
 }

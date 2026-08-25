@@ -213,11 +213,12 @@
   var box = document.querySelector('.near');
   if (!box) return;
   var btn   = box.querySelector('.near-btn');
-  var msg   = box.querySelector('.near-msg');
-  var reset = box.querySelector('.near-reset');
+  // 안내 문구와 되돌리기 버튼은 검색창 밖(.near-line)에 있습니다
+  var msg   = document.querySelector('.near-msg');
+  var reset = document.querySelector('.near-reset');
   var gridId = box.getAttribute('data-target') || '';
   var grid = document.getElementById(gridId);
-  if (!btn || !grid) return;
+  if (!btn || !grid || !msg || !reset) return;
 
   var T = {
     busy:  box.getAttribute('data-t-busy')  || '',

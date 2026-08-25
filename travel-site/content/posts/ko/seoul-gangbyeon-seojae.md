@@ -13,6 +13,8 @@ lat: 37.5329267
 lng: 126.9165053
 addr: 서울 영등포구 의사당대로 1
 closed: sun
+season: 4
+seasonMode: best
 spicy: 0
 order: 아메리카노 주세요
 orderRoman: Americano juseyo

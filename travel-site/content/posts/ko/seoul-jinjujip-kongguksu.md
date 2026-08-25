@@ -13,6 +13,8 @@ lat: 37.5207229
 lng: 126.9270353
 addr: 서울 영등포구 국제금융로6길 33
 closed: sun
+season: 6,7,8
+seasonMode: best
 spicy: 0
 order: 콩국수 주세요
 orderRoman: Kong-guksu juseyo

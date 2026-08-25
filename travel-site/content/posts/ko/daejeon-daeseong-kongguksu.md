@@ -13,6 +13,8 @@ lat: 36.3210511
 lng: 127.3775335
 addr: 대전 서구 도마동 67-36
 closed: none
+season: 6,7,8
+seasonMode: best
 spicy: 0
 order: 콩국수 주세요
 orderRoman: Kong-guksu juseyo

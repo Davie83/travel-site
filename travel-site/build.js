@@ -351,7 +351,7 @@ function loadPosts(code) {
    "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
    4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
    한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
-const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman'];
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode'];
 
 function applyGeo(byLocale) {
   const base = {};
@@ -675,6 +675,34 @@ ${cards}
         </div>
       </section>`;
 }
+/** 제철 배지.
+    season      = 제철인 달 (쉼표. 예: 12,1,2)
+    seasonMode  = only : 그 철에만 나옵니다  ·  best : 그때가 가장 좋습니다
+    두 가지를 나눈 이유 — "못 먹을 수 있음"과 "그때가 제일 좋음"을 같이 표시하면
+    가을에 벚꽃 카페를 보고 "제철 아님"이라 여겨 안 가는 일이 생깁니다.
+    지금이 제철인지는 방문자 브라우저가 판단합니다 (빌드는 캐시되므로 "지금"을 모릅니다). */
+function seasonHTML(m, t) {
+  const raw = String(m.season || '').trim();
+  if (!raw) return '';
+  const months = raw.split(',')
+    .map(x => parseInt(x, 10))
+    .filter(n => n >= 1 && n <= 12);
+  if (!months.length) return '';
+  const mode = m.seasonMode === 'only' ? 'only' : 'best';
+  const names = String(t.monthNames || '').split(',');
+  const nm = n => names[n - 1] || String(n);
+  // 12,1,2 처럼 해를 넘기는 경우가 있어 정렬하지 않고 적은 순서의 처음·끝을 씁니다.
+  // 한 달이면 그 달만, 여러 달이면 "12월 ~ 2월" 처럼 범위로 보여줍니다.
+  const label = months.length === 1
+    ? nm(months[0])
+    : t.monthRange(nm(months[0]), nm(months[months.length - 1]));
+  const line = mode === 'only' ? t.seasonOnly(label) : t.seasonBest(label);
+  return `      <p class="season season-${mode}" data-months="${months.join(',')}" data-mode="${mode}"` +
+    ` data-t-off="${escapeHtml(t.seasonOff)}" data-t-now="${escapeHtml(t.seasonNow)}">` +
+    `<span class="season-label">${escapeHtml(t.seasonLabel)}</span>` +
+    `<span class="season-when">${escapeHtml(line)}</span>` +
+    `<span class="season-now" hidden></span></p>`;
+}
 function bylineHTML(t) {
   const a = site.author || {};
   if (!a.mapsProfile) return '';
@@ -724,7 +752,8 @@ function cardHTML(post, base, code, t) {
     : `<span class="emoji">${m.emoji || '📍'}</span>`;
   const rname = regionName(m.region, code);
   const aname = areaName(m.region, m.area, code);
-  const search = [m.title, m.excerpt, rname, aname, (m.tags || []).join(' ')].join(' ').toLowerCase();
+  // 주소도 검색 대상입니다. 관광객은 "남대문", "와우산로" 처럼 주소로 찾는 일이 많습니다.
+  const search = [m.title, m.excerpt, rname, aname, m.addr, (m.tags || []).join(' ')].join(' ').toLowerCase();
 
   return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
@@ -1019,6 +1048,13 @@ function build() {
         searchTitle: escapeHtml(t.searchTitle),
         searchCountTpl: escapeHtml(t.searchCountTpl),
         searchJump: escapeHtml(t.searchJump),
+        nearTitle: escapeHtml(t.nearTitle),
+        nearBusy:  escapeHtml(t.nearBusy),
+        nearDone:  escapeHtml(t.nearDone),
+        nearDeny:  escapeHtml(t.nearDeny),
+        nearFar:   escapeHtml(t.nearFar),
+        nearNone:  escapeHtml(t.nearNone),
+        nearReset: escapeHtml(t.nearReset),
         tipsHref:  linkTo(homeBase + d + 'tips'),
         tipsTitle: escapeHtml(t.tipsTitle),
         tipsDesc:  escapeHtml(t.tipsDesc),
@@ -1142,6 +1178,7 @@ function build() {
           byline: bylineHTML(t),
           spicy: spicyHTML(m, t),
           order: orderHTML(m, t),
+          season: seasonHTML(m, t),
           closed: escapeHtml(m.closed || ''),
           dayNames: escapeHtml(t.routeDayNames),
           closedTodayTpl: escapeHtml(t.closedTodayTpl),

@@ -1078,3 +1078,57 @@ a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85
 .preset-name{flex:1 1 0;min-width:0;font-size:.94rem;font-weight:700;color:var(--ink);line-height:1.4;}
 .preset-n{flex:0 0 auto;font-size:.78rem;color:var(--ink-mute);}
 .preset-go{flex:0 0 auto;font-size:.82rem;font-weight:700;color:var(--ink);white-space:nowrap;}
+
+/* ── 내 근처 (홈) ──────────────────────────────────────────────────
+   이미 한국에 도착한 사람이 쓰는 버튼입니다.
+   검색창 바로 아래에 두어 "계획"과 "현장" 두 방식을 나란히 둡니다.  */
+.near{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:10px 0 0;}
+.near-btn,.near-reset{
+  font:inherit;cursor:pointer;border-radius:999px;
+  background:var(--surface);border:1px solid var(--line);color:var(--ink);
+  transition:border-color .14s ease,transform .14s ease;
+}
+.near-btn{padding:8px 15px;font-size:.88rem;font-weight:700;}
+.near-btn:hover{border-color:var(--line-hard);transform:translateY(-1px);}
+.near-btn:disabled{opacity:.55;cursor:default;transform:none;}
+.near-reset{padding:6px 12px;font-size:.8rem;color:var(--ink-mute);}
+.near-reset:hover{border-color:var(--line-hard);}
+.near-msg{font-size:.82rem;color:var(--ink-mid);}
+
+/* 거리 배지 — 카드 안 제목 위에 붙습니다 */
+.card-dist{
+  display:inline-block;margin:0 0 4px;padding:2px 8px;
+  font-size:.74rem;font-weight:700;border-radius:999px;
+  background:var(--r,var(--surface-2));color:var(--on-region,#fff);
+}
+/* 가까운 순서로 볼 때는 4개 제한이 풀립니다 (limit-4 를 스크립트가 뗍니다) */
+.grid[data-near] .card-dist{opacity:1;}
+
+/* ── 제철 배지 (맛집 글 상세) ───────────────────────────────────────
+   only = 그 철에만 나옴 (제철 아니면 경고)
+   best = 그때가 가장 좋음 (다른 철에도 정상 영업이라 경고하지 않습니다) */
+.season{
+  display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+  margin:12px 0 0;padding:9px 14px;border-radius:12px;
+  background:var(--surface);border:1px solid var(--line);
+  width:fit-content;max-width:100%;
+}
+.season-label{font-size:.78rem;font-weight:700;color:var(--ink-mute);}
+.season-when{font-size:.88rem;font-weight:700;color:var(--ink);}
+.season-now{font-size:.82rem;font-weight:600;}
+.season-now[hidden]{display:none;}
+.season-now.is-now{color:#2f7d4f;}
+.season-now.is-off{color:#a6301f;}
+/* only 인 글은 테두리를 조금 진하게 — 놓치면 헛걸음이 되는 정보입니다 */
+.season-only{border-color:var(--line-hard);}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  .season-now.is-now{color:#7fd6a0;}
+  .season-now.is-off{color:#f59b83;}
+}}
+:root[data-theme="dark"] .season-now.is-now{color:#7fd6a0;}
+:root[data-theme="dark"] .season-now.is-off{color:#f59b83;}
+
+@media (max-width:640px){
+  .near{gap:8px;}
+  .near-msg{width:100%;}
+}

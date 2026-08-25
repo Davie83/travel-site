@@ -13,6 +13,8 @@ lat: 35.0946304
 lng: 128.8196938
 addr: 경남 창원시 진해구 용원동로 242-6
 closed: unknown
+season: 12,1,2
+seasonMode: only
 spicy: 0
 order: 생대구탕 주세요
 orderRoman: Saeng-daegu-tang juseyo

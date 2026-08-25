@@ -199,3 +199,135 @@
     try { localStorage.setItem('langSuggestClosed', '1'); } catch (e) {}
   });
 })();
+
+
+/* ==========================================================================
+   내 근처 — 이미 한국에 도착해 서 있는 사람을 위한 기능
+   --------------------------------------------------------------------------
+   글 카드에는 이미 data-lat / data-lng 가 전부(38/38) 들어 있습니다.
+   브라우저 위치만 받아서 거리로 다시 정렬하면 됩니다. 서버는 쓰지 않습니다.
+   위치는 어디에도 보내지 않고 이 페이지 안에서만 씁니다.
+   ========================================================================== */
+(function () {
+  'use strict';
+  var box = document.querySelector('.near');
+  if (!box) return;
+  var btn   = box.querySelector('.near-btn');
+  var msg   = box.querySelector('.near-msg');
+  var reset = box.querySelector('.near-reset');
+  var gridId = box.getAttribute('data-target') || '';
+  var grid = document.getElementById(gridId);
+  if (!btn || !grid) return;
+
+  var T = {
+    busy:  box.getAttribute('data-t-busy')  || '',
+    done:  box.getAttribute('data-t-done')  || '',
+    deny:  box.getAttribute('data-t-deny')  || '',
+    far:   box.getAttribute('data-t-far')   || '',
+    none:  box.getAttribute('data-t-none')  || ''
+  };
+
+  // 원래 순서를 기억해 둡니다 (되돌리기용)
+  var original = [].slice.call(grid.children);
+
+  /* 하버사인. saved.js 의 것과 같은 식입니다 (각 파일이 독립적으로 돌아야 해서 따로 둡니다) */
+  function km(la1, ln1, la2, ln2) {
+    var R = 6371, d = Math.PI / 180;
+    var dLa = (la2 - la1) * d, dLn = (ln2 - ln1) * d;
+    var h = Math.sin(dLa / 2) * Math.sin(dLa / 2) +
+      Math.cos(la1 * d) * Math.cos(la2 * d) * Math.sin(dLn / 2) * Math.sin(dLn / 2);
+    return R * 2 * Math.asin(Math.sqrt(h));
+  }
+
+  function fmt(k) {
+    return k < 1 ? (Math.round(k * 1000) + 'm') : (k < 10 ? k.toFixed(1) : Math.round(k)) + 'km';
+  }
+
+  function clearBadges() {
+    var old = grid.querySelectorAll('.card-dist');
+    for (var i = 0; i < old.length; i++) old[i].parentNode.removeChild(old[i]);
+  }
+
+  function restore() {
+    clearBadges();
+    for (var i = 0; i < original.length; i++) grid.appendChild(original[i]);
+    grid.classList.add('limit-4');
+    grid.removeAttribute('data-near');
+    msg.textContent = '';
+    reset.hidden = true;
+  }
+
+  function sortBy(lat, lng) {
+    var cards = [].slice.call(grid.children);
+    var rows = [];
+    for (var i = 0; i < cards.length; i++) {
+      var c = cards[i];
+      var la = parseFloat(c.getAttribute('data-lat'));
+      var ln = parseFloat(c.getAttribute('data-lng'));
+      if (!isFinite(la) || !isFinite(ln)) continue;
+      rows.push({ el: c, d: km(lat, lng, la, ln) });
+    }
+    if (!rows.length) return 0;
+    rows.sort(function (a, b) { return a.d - b.d; });
+    clearBadges();
+    for (var j = 0; j < rows.length; j++) {
+      grid.appendChild(rows[j].el);
+      var tag = document.createElement('span');
+      tag.className = 'card-dist';
+      tag.textContent = fmt(rows[j].d);
+      var body = rows[j].el.querySelector('.card-body') || rows[j].el;
+      body.insertBefore(tag, body.firstChild);
+    }
+    // 가까운 순서를 보여주는 것이 목적이므로 4개 제한을 풉니다
+    grid.classList.remove('limit-4');
+    grid.setAttribute('data-near', '1');
+    return rows.length;
+  }
+
+  btn.addEventListener('click', function () {
+    if (!navigator.geolocation) { msg.textContent = T.none; return; }
+    msg.textContent = T.busy;
+    btn.disabled = true;
+    navigator.geolocation.getCurrentPosition(function (pos) {
+      btn.disabled = false;
+      var la = pos.coords.latitude, ln = pos.coords.longitude;
+      // 한국 밖에서 누르면 결과가 의미 없습니다. 대략 한국 중심에서 700km 로 자릅니다.
+      if (km(la, ln, 36.5, 127.9) > 700) { msg.textContent = T.far; return; }
+      var n = sortBy(la, ln);
+      msg.textContent = n ? T.done : '';
+      reset.hidden = !n;
+    }, function () {
+      btn.disabled = false;
+      msg.textContent = T.deny;
+    }, { enableHighAccuracy: false, timeout: 8000, maximumAge: 300000 });
+  });
+
+  reset.addEventListener('click', restore);
+})();
+
+/* ==========================================================================
+   제철 확인 — 빌드 결과는 캐시되므로 "지금"을 방문자 브라우저가 판단합니다
+   ========================================================================== */
+(function () {
+  'use strict';
+  var el = document.querySelector('.season[data-months]');
+  if (!el) return;
+  var months = (el.getAttribute('data-months') || '').split(',').map(Number);
+  var now = new Date().getMonth() + 1;
+  var inSeason = months.indexOf(now) !== -1;
+  var slot = el.querySelector('.season-now');
+  if (!slot) return;
+  if (inSeason) {
+    slot.textContent = el.getAttribute('data-t-now') || '';
+    slot.className = 'season-now is-now';
+    slot.hidden = false;
+    return;
+  }
+  // 제철이 아닐 때, 경고는 only 인 글에만 붙입니다.
+  // best 인 글(예: 벚꽃 카페)은 다른 철에도 정상 영업하므로 경고하면 오해가 됩니다.
+  if (el.getAttribute('data-mode') === 'only') {
+    slot.textContent = el.getAttribute('data-t-off') || '';
+    slot.className = 'season-now is-off';
+    slot.hidden = false;
+  }
+})();

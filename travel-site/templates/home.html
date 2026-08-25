@@ -7,6 +7,15 @@
         <div class="search-box">
           <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
         </div>
+        <!-- 내 근처: 이미 한국에 도착한 사람이 "여기서 가까운 곳"을 찾는 버튼입니다.
+             위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. -->
+        <p class="near" data-target="latest-grid"
+           data-t-busy="{{nearBusy}}" data-t-done="{{nearDone}}" data-t-deny="{{nearDeny}}"
+           data-t-far="{{nearFar}}" data-t-none="{{nearNone}}">
+          <button class="near-btn" type="button">📍 {{nearTitle}}</button>
+          <span class="near-msg" aria-live="polite"></span>
+          <button class="near-reset" type="button" hidden>{{nearReset}}</button>
+        </p>
         <!-- 검색 중에만 나옵니다. 결과가 화면 아래에 있다는 것을 알려주는 줄입니다
              (검색해도 위쪽 화면이 그대로라 결과를 못 찾는 일이 있었습니다) -->
         <p class="search-note" data-target="latest-grid" data-tpl="{{searchCountTpl}}"

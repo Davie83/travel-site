@@ -13,6 +13,8 @@ lat: 33.2187099
 lng: 126.2509121
 addr: 제주 서귀포시 대정읍
 closed: none
+season: 6,7,8
+seasonMode: only
 spicy: 1
 order: 한치회덮밥 주세요
 orderRoman: Hanchi-hoedeopbap juseyo

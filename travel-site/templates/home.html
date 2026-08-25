@@ -9,14 +9,42 @@
              위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. -->
         <div class="search-box near" data-target="latest-grid"
              data-t-busy="{{nearBusy}}" data-t-done="{{nearDone}}" data-t-deny="{{nearDeny}}"
-             data-t-far="{{nearFar}}" data-t-none="{{nearNone}}">
+             data-t-far="{{nearFar}}" data-t-none="{{nearNone}}"
+             data-t-me="{{nearMe}}" data-t-empty="{{nearEmpty}}" data-t-count="{{nearCount}}"
+             data-hl="{{hl}}">
           <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
           <button class="near-btn" type="button" title="{{nearTitle}}">📍 <span>{{nearTitle}}</span></button>
         </div>
         <p class="near-line">
           <span class="near-msg" aria-live="polite"></span>
-          <button class="near-reset" type="button" hidden>{{nearReset}}</button>
         </p>
+
+        <!-- 내 근처 모달. 처음에는 비어 있고 위치를 받은 뒤 스크립트가 채웁니다.
+             지도는 구글 임베드 위에 핀을 계산해 얹는 방식이라, 확대·축소는
+             아래 +/- 버튼으로 하고 누를 때마다 지도와 핀을 함께 다시 그립니다. -->
+        <div class="nearmodal" hidden role="dialog" aria-modal="true" aria-label="{{nearTitle}}">
+          <div class="nm-panel">
+            <div class="nm-head">
+              <strong class="nm-title">📍 {{nearTitle}}</strong>
+              <span class="nm-msg" aria-live="polite"></span>
+              <button class="nm-close" type="button" aria-label="{{nearClose}}">✕</button>
+            </div>
+            <div class="nm-radius" role="group">
+              <button type="button" data-km="1">1km</button>
+              <button type="button" data-km="3" class="on">3km</button>
+              <button type="button" data-km="10">10km</button>
+              <button type="button" data-km="0">{{nearAll}}</button>
+            </div>
+            <div class="nm-mapwrap">
+              <div class="nm-map"></div>
+              <div class="nm-zoom">
+                <button class="nm-in" type="button" aria-label="{{nearZoomIn}}">+</button>
+                <button class="nm-out" type="button" aria-label="{{nearZoomOut}}">−</button>
+              </div>
+            </div>
+            <ul class="nm-list"></ul>
+          </div>
+        </div>
         <!-- 검색 중에만 나옵니다. 결과가 화면 아래에 있다는 것을 알려주는 줄입니다
              (검색해도 위쪽 화면이 그대로라 결과를 못 찾는 일이 있었습니다) -->
         <p class="search-note" data-target="latest-grid" data-tpl="{{searchCountTpl}}"

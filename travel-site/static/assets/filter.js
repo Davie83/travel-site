@@ -204,34 +204,57 @@
 /* ==========================================================================
    내 근처 — 이미 한국에 도착해 서 있는 사람을 위한 기능
    --------------------------------------------------------------------------
-   글 카드에는 이미 data-lat / data-lng 가 전부(38/38) 들어 있습니다.
-   브라우저 위치만 받아서 거리로 다시 정렬하면 됩니다. 서버는 쓰지 않습니다.
-   위치는 어디에도 보내지 않고 이 페이지 안에서만 씁니다.
+   거리 숫자만 나열하면 "4.1km" 가 어느 방향인지 몰라 쓸모가 없습니다.
+   그래서 모달을 띄우고 지도에 내 위치와 반경 안의 가게를 함께 찍습니다.
+
+   확대·축소·이동에 대하여
+     구글 지도 임베드 위에 좌표를 계산해 핀을 얹는 방식입니다.
+     그래서 사용자가 임베드를 직접 확대하면 핀이 따라가지 못해 어긋납니다.
+     그 대신 우리가 만든 +/- 버튼으로 확대 단계를 바꾸고, 바꿀 때마다
+     지도와 핀을 함께 다시 그립니다. 어긋날 여지가 없습니다.
+     끌어서 이동할 때는 지도와 핀이 같은 상자에 담겨 통째로 움직이므로
+     끌는 중에도 정렬이 유지되고, 손을 떼면 새 중심으로 다시 그립니다.
+
+   위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다.
    ========================================================================== */
 (function () {
   'use strict';
   var box = document.querySelector('.near');
-  if (!box) return;
-  var btn   = box.querySelector('.near-btn');
-  // 안내 문구와 되돌리기 버튼은 검색창 밖(.near-line)에 있습니다
-  var msg   = document.querySelector('.near-msg');
-  var reset = document.querySelector('.near-reset');
-  var gridId = box.getAttribute('data-target') || '';
-  var grid = document.getElementById(gridId);
-  if (!btn || !grid || !msg || !reset) return;
+  var modal = document.querySelector('.nearmodal');
+  if (!box || !modal) return;
+  var btn = box.querySelector('.near-btn');
+  var msg = document.querySelector('.near-msg');
+  var grid = document.getElementById(box.getAttribute('data-target') || '');
+  if (!btn || !grid) return;
+
+  var elMap   = modal.querySelector('.nm-map');
+  var elLayer = null;                       // 지도+핀을 함께 담는 상자 (끌기용)
+  var elList  = modal.querySelector('.nm-list');
+  var elMsg   = modal.querySelector('.nm-msg');
+  var elClose = modal.querySelector('.nm-close');
+  var elIn    = modal.querySelector('.nm-in');
+  var elOut   = modal.querySelector('.nm-out');
+  var chips   = modal.querySelectorAll('.nm-radius button');
+  if (!elMap || !elList) return;
 
   var T = {
     busy:  box.getAttribute('data-t-busy')  || '',
-    done:  box.getAttribute('data-t-done')  || '',
     deny:  box.getAttribute('data-t-deny')  || '',
     far:   box.getAttribute('data-t-far')   || '',
-    none:  box.getAttribute('data-t-none')  || ''
+    none:  box.getAttribute('data-t-none')  || '',
+    me:    box.getAttribute('data-t-me')    || '',
+    empty: box.getAttribute('data-t-empty') || '',
+    count: box.getAttribute('data-t-count') || ''
   };
+  var HL = box.getAttribute('data-hl') || 'ko';
 
-  // 원래 순서를 기억해 둡니다 (되돌리기용)
-  var original = [].slice.call(grid.children);
+  var me = null;        // { lat, lng }
+  var radiusKm = 3;     // 기본 반경. 0 이면 전체
+  var zoom = null;      // null 이면 반경에 맞춰 자동 계산
+  var center = null;    // { lat, lng } — 끌어서 옮기면 바뀝니다
+  var shown = [];
 
-  /* 하버사인. saved.js 의 것과 같은 식입니다 (각 파일이 독립적으로 돌아야 해서 따로 둡니다) */
+  /* ---- 계산 ---- */
   function km(la1, ln1, la2, ln2) {
     var R = 6371, d = Math.PI / 180;
     var dLa = (la2 - la1) * d, dLn = (ln2 - ln1) * d;
@@ -239,71 +262,241 @@
       Math.cos(la1 * d) * Math.cos(la2 * d) * Math.sin(dLn / 2) * Math.sin(dLn / 2);
     return R * 2 * Math.asin(Math.sqrt(h));
   }
-
-  function fmt(k) {
-    return k < 1 ? (Math.round(k * 1000) + 'm') : (k < 10 ? k.toFixed(1) : Math.round(k)) + 'km';
+  function fmt(k) { return k < 1 ? Math.round(k * 1000) + 'm' : (k < 10 ? k.toFixed(1) : Math.round(k)) + 'km'; }
+  function esc(x) {
+    return String(x == null ? '' : x).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function shortName(s) {
+    s = String(s || '').split(' — ')[0].split(' - ')[0];
+    return s.length > 14 ? s.slice(0, 13) + '…' : s;
+  }
+  function merX(lng) { return (lng + 180) / 360; }
+  function merY(lat) {
+    var s = Math.sin(lat * Math.PI / 180);
+    return 0.5 - Math.log((1 + s) / (1 - s)) / (4 * Math.PI);
+  }
+  function latOfMerY(y) {
+    var n = Math.PI - 2 * Math.PI * y;
+    return 180 / Math.PI * Math.atan(0.5 * (Math.exp(n) - Math.exp(-n)));
   }
 
-  function clearBadges() {
-    var old = grid.querySelectorAll('.card-dist');
-    for (var i = 0; i < old.length; i++) old[i].parentNode.removeChild(old[i]);
-  }
-
-  function restore() {
-    clearBadges();
-    for (var i = 0; i < original.length; i++) grid.appendChild(original[i]);
-    grid.classList.add('limit-4');
-    grid.removeAttribute('data-near');
-    msg.textContent = '';
-    reset.hidden = true;
-  }
-
-  function sortBy(lat, lng) {
-    var cards = [].slice.call(grid.children);
-    var rows = [];
-    for (var i = 0; i < cards.length; i++) {
+  /* ---- 카드에서 좌표를 모읍니다 ---- */
+  function collect() {
+    var cards = grid.querySelectorAll('.card[data-lat]');
+    var rows = [], i;
+    for (i = 0; i < cards.length; i++) {
       var c = cards[i];
       var la = parseFloat(c.getAttribute('data-lat'));
       var ln = parseFloat(c.getAttribute('data-lng'));
       if (!isFinite(la) || !isFinite(ln)) continue;
-      rows.push({ el: c, d: km(lat, lng, la, ln) });
+      var a = c.querySelector('a[href]');
+      var h3 = c.querySelector('h3');
+      rows.push({
+        lat: la, lng: ln,
+        name: h3 ? h3.textContent : '',
+        href: a ? a.getAttribute('href') : '',
+        d: km(me.lat, me.lng, la, ln)
+      });
     }
-    if (!rows.length) return 0;
     rows.sort(function (a, b) { return a.d - b.d; });
-    clearBadges();
-    for (var j = 0; j < rows.length; j++) {
-      grid.appendChild(rows[j].el);
-      var tag = document.createElement('span');
-      tag.className = 'card-dist';
-      tag.textContent = fmt(rows[j].d);
-      var body = rows[j].el.querySelector('.card-body') || rows[j].el;
-      body.insertBefore(tag, body.firstChild);
+    return rows;
+  }
+
+  /* 반경에 맞는 확대 단계를 고릅니다. 반경 원이 지도에 들어오게 잡습니다. */
+  function autoZoom(W, H, spanX, spanY) {
+    var availW = W - 68, availH = H - 78;
+    for (var t = 17; t >= 4; t--) {
+      var world = 256 * Math.pow(2, t);
+      if (spanX * world <= availW && spanY * world <= availH) return t;
     }
-    // 가까운 순서를 보여주는 것이 목적이므로 4개 제한을 풉니다
-    grid.classList.remove('limit-4');
-    grid.setAttribute('data-near', '1');
-    return rows.length;
+    return 4;
+  }
+
+  function draw() {
+    if (!me) return;
+    var all = collect();
+    var rows = radiusKm > 0 ? all.filter(function (r) { return r.d <= radiusKm; }) : all;
+    shown = rows;
+
+    var W = Math.round(elMap.clientWidth) || 600;
+    var H = Math.round(elMap.clientHeight) || 360;
+
+    // 지도에 담을 범위 — 내 위치 + 보이는 가게들
+    var pts = [{ me: 1, lat: me.lat, lng: me.lng }];
+    for (var i = 0; i < rows.length; i++) {
+      pts.push({ n: i + 1, lat: rows[i].lat, lng: rows[i].lng, d: rows[i].d, name: rows[i].name, href: rows[i].href });
+    }
+    var minX = 1, maxX = 0, minY = 1, maxY = 0, k;
+    for (k = 0; k < pts.length; k++) {
+      var mx = merX(pts[k].lng), my = merY(pts[k].lat);
+      pts[k].mx = mx; pts[k].my = my;
+      if (mx < minX) minX = mx;
+      if (mx > maxX) maxX = mx;
+      if (my < minY) minY = my;
+      if (my > maxY) maxY = my;
+    }
+    var spanX = Math.max(maxX - minX, 1e-9), spanY = Math.max(maxY - minY, 1e-9);
+    if (zoom === null) zoom = autoZoom(W, H, spanX, spanY);
+    if (zoom > 18) zoom = 18;
+    if (zoom < 4) zoom = 4;
+    var worldPx = 256 * Math.pow(2, zoom);
+
+    if (!center) center = { lat: (latOfMerY((minY + maxY) / 2)), lng: ((minX + maxX) / 2) * 360 - 180 };
+    var cX = merX(center.lng), cY = merY(center.lat);
+
+    var dots = '', labels = '';
+    for (k = 0; k < pts.length; k++) {
+      var p = pts[k];
+      var x = W / 2 + (p.mx - cX) * worldPx;
+      var y = H / 2 + (p.my - cY) * worldPx;
+      // 화면 밖 핀은 그리지 않습니다 (넉넉히 여유를 둡니다)
+      if (x < -60 || x > W + 60 || y < -60 || y > H + 60) continue;
+      var open = p.href ? '<a href="' + esc(p.href) + '">' : '';
+      var close = p.href ? '</a>' : '';
+      dots += open
+           + '<circle class="nm-ring" cx="' + x.toFixed(1) + '" cy="' + y.toFixed(1) + '" r="14.5"/>'
+           + '<circle class="' + (p.me ? 'nm-me' : 'nm-dot') + '" cx="' + x.toFixed(1)
+           + '" cy="' + y.toFixed(1) + '" r="12.5"/>'
+           + '<text class="nm-num" x="' + x.toFixed(1) + '" y="' + y.toFixed(1)
+           + '" dy="0.35em">' + (p.me ? '●' : p.n) + '</text>'
+           + close;
+      var anchor = x < 82 ? 'start' : (x > W - 82 ? 'end' : 'middle');
+      var lx = Math.max(8, Math.min(W - 8, x));
+      var ly = Math.max(15, y - 19);
+      var text = p.me ? T.me : (shortName(p.name) + ' ' + fmt(p.d));
+      labels += '<text class="nm-label" x="' + lx.toFixed(1) + '" y="' + ly.toFixed(1)
+             + '" text-anchor="' + anchor + '">' + esc(text) + '</text>';
+    }
+
+    var src = 'https://maps.google.com/maps?ll=' + center.lat.toFixed(6) + ',' + center.lng.toFixed(6)
+            + '&z=' + zoom + '&output=embed&hl=' + encodeURIComponent(HL);
+
+    /* 지도와 핀을 한 상자(.nm-layer)에 담습니다.
+       끌 때 이 상자를 통째로 움직이므로 둘이 어긋나지 않습니다. */
+    elMap.innerHTML =
+        '<div class="nm-layer">'
+      + '<iframe class="nm-frame" src="' + esc(src) + '" width="' + W + '" height="' + H + '"'
+      + ' loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="' + esc(T.me) + '"></iframe>'
+      + '<svg class="nm-over" viewBox="0 0 ' + W + ' ' + H + '" width="' + W + '" height="' + H + '">'
+      + dots + labels + '</svg>'
+      + '</div>';
+    elLayer = elMap.querySelector('.nm-layer');
+
+    // 목록
+    var html = '';
+    for (var j = 0; j < rows.length; j++) {
+      html += '<li><a href="' + esc(rows[j].href) + '">'
+           + '<span class="nm-i">' + (j + 1) + '</span>'
+           + '<span class="nm-n">' + esc(rows[j].name) + '</span>'
+           + '<span class="nm-d">' + fmt(rows[j].d) + '</span></a></li>';
+    }
+    elList.innerHTML = html;
+    if (elMsg) {
+      elMsg.textContent = rows.length
+        ? (T.count ? T.count.replace('{n}', rows.length) : '')
+        : (T.empty ? T.empty.replace('{n}', radiusKm + 'km') : '');
+    }
+  }
+
+  /* ---- 끌어서 이동 ---- */
+  function bindDrag() {
+    var sx = 0, sy = 0, dx = 0, dy = 0, on = false;
+    function down(e) {
+      if (!elLayer) return;
+      var t = e.touches ? e.touches[0] : e;
+      on = true; sx = t.clientX; sy = t.clientY; dx = 0; dy = 0;
+      elMap.classList.add('is-drag');
+    }
+    function move(e) {
+      if (!on || !elLayer) return;
+      var t = e.touches ? e.touches[0] : e;
+      dx = t.clientX - sx; dy = t.clientY - sy;
+      elLayer.style.transform = 'translate(' + dx + 'px,' + dy + 'px)';
+      if (e.cancelable) e.preventDefault();
+    }
+    function up() {
+      if (!on) return;
+      on = false;
+      elMap.classList.remove('is-drag');
+      if (Math.abs(dx) < 3 && Math.abs(dy) < 3) {
+        if (elLayer) elLayer.style.transform = '';
+        return;
+      }
+      // 끈 만큼 중심을 옮깁니다 (픽셀 → 좌표)
+      var worldPx = 256 * Math.pow(2, zoom);
+      var cX = merX(center.lng) - dx / worldPx;
+      var cY = merY(center.lat) - dy / worldPx;
+      center = { lat: latOfMerY(cY), lng: cX * 360 - 180 };
+      draw();
+    }
+    elMap.addEventListener('mousedown', down);
+    elMap.addEventListener('touchstart', down, { passive: true });
+    window.addEventListener('mousemove', move);
+    elMap.addEventListener('touchmove', move, { passive: false });
+    window.addEventListener('mouseup', up);
+    elMap.addEventListener('touchend', up);
+  }
+
+  /* ---- 열기 / 닫기 ---- */
+  function open() {
+    modal.hidden = false;
+    document.body.classList.add('nm-open');
+    // 상자 크기가 정해진 다음에 그려야 폭·높이가 맞습니다
+    requestAnimationFrame(function () { draw(); });
+  }
+  function close() {
+    modal.hidden = true;
+    document.body.classList.remove('nm-open');
+    elMap.innerHTML = '';
   }
 
   btn.addEventListener('click', function () {
-    if (!navigator.geolocation) { msg.textContent = T.none; return; }
-    msg.textContent = T.busy;
+    if (!navigator.geolocation) { if (msg) msg.textContent = T.none; return; }
+    if (msg) msg.textContent = T.busy;
     btn.disabled = true;
     navigator.geolocation.getCurrentPosition(function (pos) {
       btn.disabled = false;
+      if (msg) msg.textContent = '';
       var la = pos.coords.latitude, ln = pos.coords.longitude;
-      // 한국 밖에서 누르면 결과가 의미 없습니다. 대략 한국 중심에서 700km 로 자릅니다.
-      if (km(la, ln, 36.5, 127.9) > 700) { msg.textContent = T.far; return; }
-      var n = sortBy(la, ln);
-      msg.textContent = n ? T.done : '';
-      reset.hidden = !n;
+      // 한국 밖에서 누르면 "가장 가까운 곳 900km" 같은 결과가 나와 쓸모가 없습니다
+      if (km(la, ln, 36.5, 127.9) > 700) { if (msg) msg.textContent = T.far; return; }
+      me = { lat: la, lng: ln };
+      zoom = null; center = null;          // 다시 열면 반경에 맞춰 자동으로 잡습니다
+      open();
     }, function () {
       btn.disabled = false;
-      msg.textContent = T.deny;
+      if (msg) msg.textContent = T.deny;
     }, { enableHighAccuracy: false, timeout: 8000, maximumAge: 300000 });
   });
 
-  reset.addEventListener('click', restore);
+  if (elClose) elClose.addEventListener('click', close);
+  modal.addEventListener('click', function (e) { if (e.target === modal) close(); });
+  document.addEventListener('keydown', function (e) {
+    if (!modal.hidden && (e.key === 'Escape' || e.keyCode === 27)) close();
+  });
+
+  if (elIn)  elIn.addEventListener('click',  function () { zoom = (zoom || 14) + 1; draw(); });
+  if (elOut) elOut.addEventListener('click', function () { zoom = (zoom || 14) - 1; draw(); });
+
+  for (var ci = 0; ci < chips.length; ci++) {
+    chips[ci].addEventListener('click', function (e) {
+      for (var q = 0; q < chips.length; q++) chips[q].classList.remove('on');
+      e.currentTarget.classList.add('on');
+      radiusKm = parseFloat(e.currentTarget.getAttribute('data-km')) || 0;
+      zoom = null; center = null;         // 반경이 바뀌면 다시 맞춥니다
+      draw();
+    });
+  }
+
+  bindDrag();
+
+  var rz = null;
+  window.addEventListener('resize', function () {
+    if (modal.hidden) return;
+    clearTimeout(rz);
+    rz = setTimeout(draw, 260);
+  });
 })();
 
 /* ==========================================================================

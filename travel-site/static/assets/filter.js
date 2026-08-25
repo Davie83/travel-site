@@ -489,7 +489,73 @@
     });
   }
 
+  /* ---- 마우스 휠 / 트랙패드로 확대·축소 ----------------------------------
+     주의: draw() 는 구글 지도 iframe 을 새로 만듭니다. 휠이 굴러가는 대로
+     그리면 네트워크 요청이 쏟아지고 지도가 계속 깜빡입니다.
+     그래서 이렇게 나눴습니다.
+       1) 휠은 즉시 확대 단계만 바꾸고, 화면에는 CSS 확대(scale)로 미리 보여줍니다
+       2) 손을 멈춘 뒤(140ms) 한 번만 실제로 다시 그립니다
+     또 마우스 아래 지점을 기준으로 확대해야 지도답게 느껴집니다.
+     그래서 커서 밑의 좌표가 제자리에 남도록 중심을 함께 옮깁니다. */
+  function zoomAt(px, py, dir) {
+    if (!me || !center) return;
+    var W = Math.round(elMap.clientWidth) || 600;
+    var H = Math.round(elMap.clientHeight) || 360;
+    var z0 = zoom || 14;
+    var z1 = z0 + dir;
+    if (z1 > 18) z1 = 18;
+    if (z1 < 4) z1 = 4;
+    if (z1 === z0) return false;
+
+    var w0 = 256 * Math.pow(2, z0), w1 = 256 * Math.pow(2, z1);
+    // 커서 밑의 좌표 (메르카토르)
+    var mx = merX(center.lng) + (px - W / 2) / w0;
+    var my = merY(center.lat) + (py - H / 2) / w0;
+    // 확대 후에도 그 좌표가 같은 화면 위치에 오도록 중심을 옮깁니다
+    var cX = mx - (px - W / 2) / w1;
+    var cY = my - (py - H / 2) / w1;
+    center = { lat: latOfMerY(cY), lng: cX * 360 - 180 };
+    zoom = z1;
+    return true;
+  }
+
+  function bindWheel() {
+    var acc = 0, timer = null, preview = 1, ox = 0, oy = 0;
+    elMap.addEventListener('wheel', function (e) {
+      if (modal.hidden) return;
+      // 지도 위에서는 페이지가 스크롤되지 않게 막습니다
+      e.preventDefault();
+      var r = elMap.getBoundingClientRect();
+      ox = e.clientX - r.left;
+      oy = e.clientY - r.top;
+
+      // 트랙패드는 조금씩 여러 번 옵니다. 휠 한 칸(120)이면 한 단계, 트랙패드는 모여서 한 단계 움직입니다.
+      var step = e.deltaMode === 1 ? e.deltaY * 16 : e.deltaY;
+      acc += step;
+      var moved = 0;
+      while (acc <= -100) { acc += 100; moved += 1; }
+      while (acc >= 100)  { acc -= 100; moved -= 1; }
+      if (!moved) return;
+
+      if (zoomAt(ox, oy, moved)) {
+        // 실제로 다시 그리기 전에 눈에 보이는 반응을 먼저 줍니다
+        preview *= Math.pow(2, moved);
+        if (elLayer) {
+          elLayer.style.transformOrigin = ox + 'px ' + oy + 'px';
+          elLayer.style.transform = 'scale(' + preview + ')';
+        }
+      }
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        preview = 1;
+        if (elLayer) { elLayer.style.transform = ''; elLayer.style.transformOrigin = ''; }
+        draw();
+      }, 140);
+    }, { passive: false });
+  }
+
   bindDrag();
+  bindWheel();
 
   var rz = null;
   window.addEventListener('resize', function () {

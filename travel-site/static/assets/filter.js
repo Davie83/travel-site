@@ -84,6 +84,22 @@
 
     if (input) {
       input.addEventListener('input', () => { state.keyword = input.value; apply(); });
+
+      /* 주소에 ?q= 가 있으면 그것으로 시작합니다.
+         글 하단 태그 칩이 /?q=노포 로 보내는데, 태그별 페이지를 따로 만들지
+         않고도 눌렀을 때 결과가 나오게 하는 방법입니다. */
+      try {
+        const q = new URLSearchParams(location.search).get('q');
+        if (q) {
+          input.value = q;
+          state.keyword = q;
+          apply();
+          // 결과가 화면 아래에 있어 못 찾는 일이 있었습니다. 목록으로 옮겨 줍니다.
+          if (grid.scrollIntoView) {
+            setTimeout(() => grid.scrollIntoView({ behavior: 'smooth', block: 'start' }), 120);
+          }
+        }
+      } catch (e) { /* 구형 브라우저는 그냥 넘어갑니다 */ }
     }
 
     if (chipBox) {

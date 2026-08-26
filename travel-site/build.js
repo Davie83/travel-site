@@ -703,6 +703,78 @@ function seasonHTML(m, t) {
     `<span class="season-when">${escapeHtml(line)}</span>` +
     `<span class="season-now" hidden></span></p>`;
 }
+/** JPEG 파일의 실제 가로·세로를 읽습니다 (외부 라이브러리 없이 헤더만 파싱).
+    왜 필요한가 — og:image:width/height 를 1600x1200 으로 고정해 두었는데
+    실제 사진의 절반이 세로(1200x1600)라, 카카오톡·페이스북 미리보기가
+    엉뚱하게 잘렸습니다. 실제 값을 넣어야 미리보기가 제대로 나옵니다.
+    형식: SOI(FFD8) 뒤로 마커를 따라가다 SOF0/1/2 에서 크기를 읽습니다. */
+const jpegSizeCache = {};
+function jpegSize(relPath) {
+  if (relPath in jpegSizeCache) return jpegSizeCache[relPath];
+  let out = null;
+  try {
+    const buf = fs.readFileSync(path.join(STATIC, relPath));
+    if (buf.length > 4 && buf[0] === 0xFF && buf[1] === 0xD8) {
+      let i = 2;
+      while (i + 9 < buf.length) {
+        if (buf[i] !== 0xFF) { i++; continue; }          // 마커 시작을 찾습니다
+        const marker = buf[i + 1];
+        if (marker === 0xD8 || marker === 0x01 || (marker >= 0xD0 && marker <= 0xD7)) { i += 2; continue; }
+        const len = buf.readUInt16BE(i + 2);
+        // SOF0(베이스라인) · SOF1 · SOF2(프로그레시브) 에 크기가 들어 있습니다
+        if (marker === 0xC0 || marker === 0xC1 || marker === 0xC2) {
+          out = { w: buf.readUInt16BE(i + 7), h: buf.readUInt16BE(i + 5) };
+          break;
+        }
+        i += 2 + len;
+      }
+    }
+  } catch (e) { /* 파일이 없거나 형식이 다르면 그냥 넘어갑니다 */ }
+  jpegSizeCache[relPath] = out;
+  return out;
+}
+
+/** 목록 카드용 작은 사진 (assets/img/sm/…). tools/optimize-images.ps1 이 만듭니다.
+    카드는 화면에 255~350px 로 그려지는데 원본(1200~1600px)을 그대로 보내면
+    홈을 끝까지 스크롤할 때 썸네일만 12MB 였습니다. 파일이 없으면 원본을 씁니다. */
+function cardThumbPath(thumb) {
+  if (!thumb) return null;
+  const m = String(thumb).match(/^(.*\/)([^\/]+)$/);
+  if (!m) return null;
+  const small = `${m[1]}sm/${m[2]}`;
+  try {
+    fs.accessSync(path.join(STATIC, small));
+    return small;
+  } catch (e) { return null; }
+}
+/** 글 하단 태그 칩.
+    --------------------------------------------------------------------------
+    229개를 손으로 적어두셨지만 지금까지 검색 문자열에만 들어가고 화면에는
+    나오지 않았습니다. 그래서 살리되, 두 가지를 걸러냅니다.
+
+      1) 지역·동네 이름 (서울 · 여의도 · 마포 …)
+         이미 지역 칩과 동네 칩이 하는 일이라 중복입니다.
+      2) 한 번만 쓰인 태그
+         눌러도 글이 하나뿐이라 링크로서 값이 없습니다. 187개가 여기 해당합니다.
+
+    칩은 태그별 페이지를 만들지 않고 홈 검색으로 보냅니다 (/?q=노포).
+    페이지를 새로 만들면 글 한두 개짜리 얇은 페이지가 늘어나 색인에 불리합니다.
+    검색은 제목·요약·주소·태그를 모두 훑으므로 결과가 오히려 넉넉합니다. */
+function tagChipsHTML(m, base, code, t, tagCount, placeNames) {
+  const tags = (m.tags || [])
+    .map(x => String(x).trim())
+    .filter(Boolean)
+    .filter(x => !placeNames.has(x.toLowerCase()))     // 지역·동네와 중복 제거
+    .filter(x => (tagCount[x.toLowerCase()] || 0) >= 2) // 한 번만 쓰인 것 제거
+    .slice(0, 6);                                       // 너무 많으면 칩이 지저분해집니다
+  if (!tags.length) return '';
+  const d = localeDir(code);
+  const chips = tags.map(x =>
+    `<a class="tagchip" href="${linkTo(base + d)}?q=${encodeURIComponent(x)}">${escapeHtml(x)}</a>`
+  ).join('');
+  return `    <nav class="tagchips" aria-label="${escapeHtml(t.tagLabel)}">` +
+    `<span class="tagchips-label">${escapeHtml(t.tagLabel)}</span>${chips}</nav>`;
+}
 function bylineHTML(t) {
   const a = site.author || {};
   if (!a.mapsProfile) return '';
@@ -747,8 +819,11 @@ function badgesHTML(m, base, code, t, linked) {
 function cardHTML(post, base, code, t) {
   const m = post.meta;
   const d = localeDir(code);
+  // 카드에는 작은 사진(sm)을 씁니다. 없으면 원본으로 물러납니다.
+  // width/height 를 적어두면 사진이 오기 전에도 칸이 잡혀 화면이 덜 흔들립니다.
+  const cardImg = cardThumbPath(m.thumb) || m.thumb;
   const thumb = m.thumb
-    ? `<img src="${base}${m.thumb}" alt="${escapeHtml(m.title)}" loading="lazy">`
+    ? `<img src="${base}${cardImg}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="700" height="525">`
     : `<span class="emoji">${m.emoji || '📍'}</span>`;
   const rname = regionName(m.region, code);
   const aname = areaName(m.region, m.area, code);
@@ -944,8 +1019,10 @@ function renderPage(o) {
     // 글은 그 글의 사진, 그 외 페이지는 대표 이미지를 씁니다.
     // 지정하지 않으면 카카오톡·페이스북이 페이지에서 아무 사진이나 골라 씁니다.
     ogImage:     `${SITE_URL}/${o.ogImage || site.ogImage}`,
-    ogImageW:    o.ogImage ? 1600 : 1200,
-    ogImageH:    o.ogImage ? 1200 : 630,
+    // 사진마다 가로·세로가 달라서 파일에서 직접 읽습니다.
+    // (고정값을 쓰던 때는 세로 사진 26개의 미리보기가 잘렸습니다)
+    ogImageW:    (jpegSize(o.ogImage || site.ogImage) || { w: 1200 }).w,
+    ogImageH:    (jpegSize(o.ogImage || site.ogImage) || { h: 630 }).h,
     siteName:    escapeHtml(siteName(o.code)),
     base:        base,                                  // 최상단까지 (assets 용)
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
@@ -1019,6 +1096,22 @@ function build() {
     const hasPage = (slug, c) => byLocale[c].pages.some(p => p.slug === slug);
 
     /* ---- 홈 (지역 인덱스) ---- */
+    /* 태그 칩 준비 — 언어마다 태그도 지역명도 그 언어로 적혀 있습니다.
+       빈도는 그 언어 안에서 셉니다. */
+    const tagCount = {};
+    for (const p of posts) {
+      for (const x of (p.meta.tags || [])) {
+        const k = String(x).trim().toLowerCase();
+        if (k) tagCount[k] = (tagCount[k] || 0) + 1;
+      }
+    }
+    const placeNames = new Set();
+    for (const r of site.regions) {
+      placeNames.add(String(regionName(r.slug, code)).toLowerCase());
+      for (const a of areasOf(r.slug)) {
+        placeNames.add(String(areaName(r.slug, a.slug, code)).toLowerCase());
+      }
+    }
     const homeBase = baseOf(d + 'index.html');
     const totalByRegion = {};
 
@@ -1187,6 +1280,7 @@ function build() {
           spicy: spicyHTML(m, t),
           order: orderHTML(m, t),
           season: seasonHTML(m, t),
+          tagChips: tagChipsHTML(m, base, code, t, tagCount, placeNames),
           closed: escapeHtml(m.closed || ''),
           dayNames: escapeHtml(t.routeDayNames),
           closedTodayTpl: escapeHtml(t.closedTodayTpl),

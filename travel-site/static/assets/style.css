@@ -1242,3 +1242,25 @@ body.nm-open{overflow:hidden;}
   .nm-panel{max-width:none;max-height:100vh;border-radius:0;border:0;}
   .nm-map{height:42vh;}
 }
+
+/* ── 글 하단 태그 칩 ──────────────────────────────────────────────────
+   태그별 페이지를 만들지 않고 홈 검색으로 보냅니다 (/?q=노포).
+   글 한두 개짜리 얇은 페이지를 늘리지 않으려는 선택입니다.
+   지역·동네 이름과 겹치는 태그, 한 번만 쓰인 태그는 build.js 가 걸러냅니다. */
+.tagchips{
+  display:flex;align-items:center;gap:7px;flex-wrap:wrap;
+  margin:26px 0 0;padding:16px 0 0;border-top:1px solid var(--line);
+}
+.tagchips-label{
+  font-size:.78rem;font-weight:700;color:var(--ink-mute);
+  margin-right:2px;flex:0 0 auto;
+}
+.tagchip{
+  display:inline-block;padding:5px 12px;
+  font-size:.82rem;font-weight:600;text-decoration:none;
+  border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);color:var(--ink-mid);
+  transition:border-color .14s ease,color .14s ease;
+}
+.tagchip:hover{border-color:var(--line-hard);color:var(--ink);}
+.tagchip::before{content:"#";opacity:.45;margin-right:1px;}

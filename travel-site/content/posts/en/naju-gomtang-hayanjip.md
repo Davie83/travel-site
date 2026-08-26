@@ -7,7 +7,7 @@ date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: A clean-tasting beef broth and notably tender boiled brisket. With 5,790 reviews it draws a queue — but it opens at 8am and takes app bookings, which solves most of that.
-tags: [Jeolla, Naju, gomtang, beef soup, suyuk, breakfast, old restaurant]
+tags: [Jeolla, Naju, gomtang, beef soup, suyuk, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:
   - Restaurant|Naju Gomtang Hayanjip, main branch (나주곰탕 하얀집)

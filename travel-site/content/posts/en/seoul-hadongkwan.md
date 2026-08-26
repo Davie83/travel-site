@@ -7,7 +7,7 @@ date: 2026-08-21
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg
 excerpt: A long-running Seoul institution serving clear beef soup over rice. Eat it plain first, then ask for radish kimchi brine and pour it in — one bowl, two flavours. Expensive for what it is, but the care shows. Opens at 7am; branches in Myeongdong and Yeouido.
-tags: [Seoul, Yeouido, Myeongdong, gomtang, beef soup, old restaurant, kkakdugi, breakfast]
+tags: [Seoul, Yeouido, Myeongdong, gomtang, beef soup, kkakdugi, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%8F%99%EA%B4%80+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - Restaurant|Hadongkwan (하동관) — visited the Yeouido branch

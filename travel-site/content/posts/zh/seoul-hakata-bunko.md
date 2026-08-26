@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: 博多风豚骨配极细面。压入大量生蒜后，浓稠的猪骨汤会变成一碗真正解酒的东西。营业到凌晨3点，这才是这家店最大的优势。
-tags: [首尔, 弘大, 上水, 麻浦, 拉面, 豚骨, 博多, 深夜, 老店]
+tags: [首尔, 弘大, 上水, 麻浦, 拉面, 豚骨, 博多, 深夜]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80%EB%B6%84%EC%BD%94+%ED%99%8D%EB%8C%80
 info:
   - 店名|博多文库（하카타분코）

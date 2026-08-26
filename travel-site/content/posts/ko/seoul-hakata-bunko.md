@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: 하카타식 돈코츠에 극세면. 인라멘에 마늘을 듬뿍 눌러 넣으면 진득한 국물에 마늘 맛이 우러나 해장이 됩니다. 새벽 3시까지 하는 게 이 집의 진짜 강점입니다.
-tags: [서울, 홍대, 상수, 마포, 라멘, 돈코츠, 하카타, 심야, 노포]
+tags: [서울, 홍대, 상수, 마포, 라멘, 돈코츠, 하카타, 심야]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80%EB%B6%84%EC%BD%94+%ED%99%8D%EB%8C%80
 lat: 37.5489264
 lng: 126.9237570

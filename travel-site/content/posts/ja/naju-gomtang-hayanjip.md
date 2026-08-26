@@ -7,7 +7,7 @@ date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: すっきりした牛のスープと、やわらかいスユク（茹で肉）。レビュー5,790件の店なので待ちは覚悟。ただ朝8時開店で予約アプリも使えるので、そこで解決できます。
-tags: [全羅, 羅州, コムタン, 牛スープ, スユク, 朝食, 老舗]
+tags: [全羅, 羅州, コムタン, 牛スープ, スユク, 朝食]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:
   - 店名|나주곰탕 하얀집 본점（羅州コムタン ハヤンチプ 本店）

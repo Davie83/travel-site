@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
 excerpt: I have eaten abalone porridge all over Jeju and have not found one this rich for this price. For two people, one porridge and one cold raw-fish soup is the right order. Closes at 3:30 PM and shuts on Thursdays.
-tags: [Jeju, Seogwipo, Namwon, Gongcheonpo, abalone porridge, mulhoe, cold soup, squid, long-running]
+tags: [Jeju, Seogwipo, Namwon, Gongcheonpo, abalone porridge, mulhoe, cold soup, squid]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%B2%9C%ED%8F%AC%EC%8B%9D%EB%8B%B9
 info:
   - Restaurant|Gongcheonpo Sikdang (공천포식당)

@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg
 excerpt: 生のサッパを辛い薬味で和えた一皿と、醤油漬けの生カニ。仁川・沿岸埠頭の海洋センター2階にある老舗です。この通りの店は主菜がほぼ同じで、薬味とおかずで分かれます。長く通っていた有名店より、ここの薬味が自分には合いました。
-tags: [仁川, 中区, 沿岸埠頭, バンデンイ, サッパ, 刺身和え, カンジャンケジャン, 老舗]
+tags: [仁川, 中区, 沿岸埠頭, バンデンイ, サッパ, 刺身和え, カンジャンケジャン]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%B1%EC%8B%9D%EB%8B%B9+%EC%9D%B8%EC%B2%9C+%EC%97%B0%EC%95%88%EB%B6%80%EB%91%90
 info:
   - 店名|오성식당（オソン食堂）

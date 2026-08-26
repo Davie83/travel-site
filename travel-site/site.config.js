@@ -152,6 +152,53 @@ module.exports = {
                zh: '济州西部 — 涯月拌面与五日集市' },
       stops: ['jeju-aewol-makguksu', 'jeju-oiljang'] }
   ],
+
+  /* ---- 태그 칩 ---------------------------------------------------------
+     글 하단에 보여줄 태그만 여기에 골라둡니다.
+
+     왜 이렇게 하는가
+       전에는 태그를 언어별 글마다 따로 적었습니다. 그래서 같은 글인데
+       한국어는 칩 3개, 일본어는 0개가 되는 일이 41개 중 30개에서 생겼습니다.
+       (영어는 "노포"를 old restaurant / long-running 두 단어로 쓰기도 했습니다)
+       이제 분류 키는 한국어 글의 tags 하나만 보고, 화면에 보일 이름만
+       여기에서 언어별로 정합니다. 언어별로 어긋날 수가 없습니다.
+
+     고르는 기준
+       - 판정 기준이 분명한 것만 (영업시간 · 예약제 · 재료 · 음식 이름)
+       - 지역·동네 이름은 넣지 않습니다 — 지역 칩과 동네 칩이 이미 합니다
+       - 랜드마크(국회의사당 등)와 "제철"은 빼두었습니다 (제철은 배지가 합니다)
+       - 여기 없는 태그는 검색에만 쓰이고 칩으로는 안 나옵니다        */
+  tagChips: [
+    /* 상황 · 성격 — 관광객에게 가장 쓸모 있는 축입니다 */
+    { key: '심야',     names: { ko: '심야',     en: 'Late night',      ja: '深夜',         zh: '深夜' } },
+    { key: '아침식사', names: { ko: '아침식사', en: 'Breakfast',       ja: '朝食',         zh: '早餐' } },
+    { key: '예약필수', names: { ko: '예약필수', en: 'Booking needed',  ja: '予約必須',     zh: '需要预约' } },
+    { key: '채식',     names: { ko: '채식',     en: 'Vegetarian-ok',   ja: 'ベジタリアン', zh: '素食可' } },
+
+    /* 자리 성격 */
+    { key: '카페',     names: { ko: '카페',     en: 'Cafe',            ja: 'カフェ',       zh: '咖啡馆' } },
+    { key: '술집',     names: { ko: '술집',     en: 'Drinking spot',   ja: '居酒屋',       zh: '酒馆' } },
+    { key: '막걸리',   names: { ko: '막걸리',   en: 'Makgeolli',       ja: 'マッコリ',     zh: '马格利酒' } },
+    { key: '드립커피', names: { ko: '드립커피', en: 'Pour-over',       ja: 'ドリップ',     zh: '手冲咖啡' } },
+
+    /* 음식 종류 */
+    { key: '국밥',     names: { ko: '국밥',     en: 'Gukbap',          ja: 'クッパ',       zh: '汤饭' } },
+    { key: '곰탕',     names: { ko: '곰탕',     en: 'Gomtang',         ja: 'コムタン',     zh: '牛肉汤' } },
+    { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '猪肉汤饭' } },
+    { key: '국수',     names: { ko: '국수',     en: 'Noodles',         ja: '麺',           zh: '面食' } },
+    { key: '콩국수',   names: { ko: '콩국수',   en: 'Kongguksu',       ja: 'コングクス',   zh: '豆浆面' } },
+    { key: '막국수',   names: { ko: '막국수',   en: 'Makguksu',        ja: 'マッククス',   zh: '荞麦拌面' } },
+    { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉面' } },
+    { key: '수육',     names: { ko: '수육',     en: 'Suyuk',           ja: 'スユク',       zh: '水煮肉' } },
+    { key: '정식',     names: { ko: '정식',     en: 'Set meal',        ja: '定食',         zh: '套餐' } },
+    { key: '해산물',   names: { ko: '해산물',   en: 'Seafood',         ja: '魚介',         zh: '海鲜' } },
+    { key: '물회',     names: { ko: '물회',     en: 'Mulhoe',          ja: 'ムルフェ',     zh: '冷汤生鱼' } },
+    { key: '회덮밥',   names: { ko: '회덮밥',   en: 'Sashimi bowl',    ja: '海鮮丼',       zh: '生鱼盖饭' } },
+
+    /* 요리 계통 */
+    { key: '일식',     names: { ko: '일식',     en: 'Japanese',        ja: '和食',         zh: '日本料理' } },
+    { key: '중식',     names: { ko: '중식',     en: 'Chinese',         ja: '中華',         zh: '中餐' } }
+  ],
   /* ---- 카테고리 --------------------------------------------------------
      slug 이 주소가 됩니다: /travel.html · /food.html
      화면에 보이는 이름은 content/i18n.js 에 언어별로 있습니다.        */

@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
 excerpt: 在济州吃过不少鲍鱼粥，没见过比这里更香浓、价格还这么实在的。两个人点一份鲍鱼粥加一份水刺，刚好。15点30分打烊，周四休息。
-tags: [济州, 西归浦, 南元, 孔泉浦, 鲍鱼粥, 水刺, 冷汤生鱼, 鱿鱼, 老店]
+tags: [济州, 西归浦, 南元, 孔泉浦, 鲍鱼粥, 水刺, 冷汤生鱼, 鱿鱼]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%B2%9C%ED%8F%AC%EC%8B%9D%EB%8B%B9
 info:
   - 店名|孔泉浦食堂

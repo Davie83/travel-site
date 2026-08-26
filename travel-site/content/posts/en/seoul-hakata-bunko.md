@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: Hakata-style tonkotsu with ultra-thin noodles. Press in a heap of raw garlic and the thick pork broth turns into something that cures a hangover. Open until 3 AM — that is this shop's real strength.
-tags: [Seoul, Hongdae, Sangsu, Mapo, ramen, tonkotsu, Hakata, late night, long-running]
+tags: [Seoul, Hongdae, Sangsu, Mapo, ramen, tonkotsu, Hakata, late night]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80%EB%B6%84%EC%BD%94+%ED%99%8D%EB%8C%80
 info:
   - Restaurant|Hakata Bunko (하카타분코)

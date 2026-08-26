@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: 博多式の豚骨に極細麺。生にんにくをたっぷり搾って入れると、濃厚なスープに香りが移って完全に二日酔い向けの一杯になります。深夜3時まで営業しているのが最大の強みです。
-tags: [ソウル, 弘大, 上水, 麻浦, ラーメン, 豚骨, 博多, 深夜, 老舗]
+tags: [ソウル, 弘大, 上水, 麻浦, ラーメン, 豚骨, 博多, 深夜]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80%EB%B6%84%EC%BD%94+%ED%99%8D%EB%8C%80
 info:
   - 店名|博多文庫（하카타분코）

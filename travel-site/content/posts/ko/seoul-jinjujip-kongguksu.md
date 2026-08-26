@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
 excerpt: 콩국수 맛집입니다. 국물에 간이 안 되어 있어서 소금이나 설탕을 직접 넣어 맞춥니다. 잘 맞추면 여름마다 생각나는 맛인데, 몇 년 사이 값이 계속 올라 요즘은 조금 망설여집니다.
-tags: [서울, 여의도, 콩국수, 국수, 여름음식, 노포, 3대콩국수, 채식]
+tags: [서울, 여의도, 콩국수, 국수, 여름음식, 3대콩국수, 채식]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 lat: 37.5207229
 lng: 126.9270353

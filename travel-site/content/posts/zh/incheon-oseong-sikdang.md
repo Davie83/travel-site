@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg
 excerpt: 生的斑鰶用辣酱拌成一盘，再配生腌酱油蟹。店在仁川沿岸码头海洋中心二楼，是家老店。这条街上的店主菜几乎一样，差别在酱料和小菜。比起我常去多年的那家名店，这里的酱料更合我口味。
-tags: [仁川, 中区, 沿岸码头, 斑鰶, 生拌, 酱油蟹, 老店]
+tags: [仁川, 中区, 沿岸码头, 斑鰶, 生拌, 酱油蟹]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%B1%EC%8B%9D%EB%8B%B9+%EC%9D%B8%EC%B2%9C+%EC%97%B0%EC%95%88%EB%B6%80%EB%91%90
 info:
   - 店名|오성식당（五星食堂）

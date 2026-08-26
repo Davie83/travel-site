@@ -7,7 +7,7 @@ date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 excerpt: 想吃老派的平壤冷面，这家很值得。绿豆煎饼用肉油煎，香得很实在。性价比高 — 但店在市场里的二楼，很容易走过去。
-tags: [首尔, 中区, 南大门市场, 会贤, 平壤冷面, 冷面, 绿豆煎饼, 老店]
+tags: [首尔, 中区, 南大门市场, 会贤, 平壤冷面, 冷面, 绿豆煎饼]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 info:
   - 店名|부원면옥（富元面屋）

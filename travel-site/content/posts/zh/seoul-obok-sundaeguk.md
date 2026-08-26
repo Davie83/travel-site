@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🍲
 thumb: assets/img/seoul-obok-sundaeguk.jpg
 excerpt: 这家的白切肉比我在别处吃过的都嫩。单点一盘价格偏高，建议先用套餐试味。文来和登村两家店我都去过，个人觉得文来本店更好。
-tags: [首尔, 永登浦, 文来, 血肠汤, 白切肉, 血肠, 老店, 本店]
+tags: [首尔, 永登浦, 文来, 血肠汤, 白切肉, 血肠, 本店]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
 info:
   - 店名|五福血肠汤 **文来本店**

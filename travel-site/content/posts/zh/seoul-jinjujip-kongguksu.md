@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
 excerpt: 豆浆冷面的名店。汤底完全没有调味，要自己加盐或加糖。调对了会让人每个热天都想起来，只是这几年价格一直在涨。
-tags: [首尔, 汝矣岛, 豆浆面, 冷面, 夏季料理, 老店, 素食]
+tags: [首尔, 汝矣岛, 豆浆面, 冷面, 夏季料理, 素食]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - 店名|真珠家（진주집）

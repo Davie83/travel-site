@@ -7,7 +7,7 @@ date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 excerpt: 옛날 평양냉면 맛을 찾으신다면 아주 만족스러운 집입니다. 고기기름에 부친 빈대떡이 고소하고, 가성비가 좋습니다. 남대문시장 안 2층이라 입구를 놓치기 쉽습니다.
-tags: [서울, 중구, 남대문시장, 회현역, 평양냉면, 냉면, 빈대떡, 노포]
+tags: [서울, 중구, 남대문시장, 회현역, 평양냉면, 냉면, 빈대떡]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 lat: 37.5584249
 lng: 126.9775873

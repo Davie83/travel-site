@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
 excerpt: 済州でアワビ粥をいろいろ食べましたが、ここほど香ばしく濃厚で、値段まで手ごろな店は見ていません。2人ならアワビ粥1つとムルフェ1つがちょうどいいです。15時30分閉店、木曜定休。
-tags: [済州, 西帰浦, 南元, 孔泉浦, アワビ粥, ムルフェ, 冷たい刺身スープ, イカ, 老舗]
+tags: [済州, 西帰浦, 南元, 孔泉浦, アワビ粥, ムルフェ, 冷たい刺身スープ, イカ]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%B2%9C%ED%8F%AC%EC%8B%9D%EB%8B%B9
 info:
   - 店名|孔泉浦（コンチョンポ）食堂

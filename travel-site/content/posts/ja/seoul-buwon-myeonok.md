@@ -7,7 +7,7 @@ date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 excerpt: 昔ながらの平壌冷麺（ピョンヤンネンミョン）を求めるなら、十分に満足できる店です。肉の脂で焼くピンデトク（緑豆チヂミ）が香ばしい。コスパも良好。ただし市場の中の2階で、見落としやすい場所です。
-tags: [ソウル, 中区, 南大門市場, 会賢, 平壌冷麺, 冷麺, ピンデトク, 老舗]
+tags: [ソウル, 中区, 南大門市場, 会賢, 平壌冷麺, 冷麺, ピンデトク]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 info:
   - 店名|부원면옥（プウォンミョノク）

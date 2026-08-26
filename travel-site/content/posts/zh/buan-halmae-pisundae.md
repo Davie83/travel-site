@@ -7,7 +7,7 @@ date: 2026-08-17
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg
 excerpt: 端上来那一刻，看着像会有很重的猪腥味。实际几乎没有。猪血里拌了坚果，收口意外地清爽。早上7点就开门。
-tags: [全罗, 扶安, 血肠, 순대, 早餐, 大锅, 老店]
+tags: [全罗, 扶安, 血肠, 순대, 早餐, 大锅]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%A0%EB%A7%A4%ED%94%BC%EC%88%9C%EB%8C%80+%EB%B6%80%EC%95%88%EA%B5%B0
 info:
   - 店名|할매피순대（奶奶血肠）

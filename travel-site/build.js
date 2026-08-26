@@ -358,6 +358,7 @@ function applyGeo(byLocale) {
   for (const p of (byLocale.ko ? byLocale.ko.posts : [])) {
     const g = {};
     for (const k of GEO_KEYS) if (p.meta[k] !== undefined && p.meta[k] !== '') g[k] = p.meta[k];
+    g.__tags = Array.isArray(p.meta.tags) ? p.meta.tags : [];   // 칩 분류 키 (한국어 기준)
     if (g.lat === undefined || g.lng === undefined) {
       warnings.push(`content/posts/ko/${p.slug}.md — lat / lng 가 없습니다 (동선 기능에서 빠집니다)`);
     }
@@ -373,6 +374,11 @@ function applyGeo(byLocale) {
         continue;
       }
       for (const k of GEO_KEYS) if (p.meta[k] === undefined && g[k] !== undefined) p.meta[k] = g[k];
+      /* 태그 칩의 분류 키는 한국어 글의 tags 하나만 씁니다.
+         번역본의 tags 는 그 언어 검색에 계속 쓰이므로 건드리지 않고,
+         칩용으로만 tagKeys 를 따로 심습니다.
+         이렇게 해야 같은 글의 칩이 언어마다 달라지는 일이 없습니다. */
+      p.meta.tagKeys = g.__tags || [];
     }
   }
 }
@@ -749,29 +755,37 @@ function cardThumbPath(thumb) {
 }
 /** 글 하단 태그 칩.
     --------------------------------------------------------------------------
-    229개를 손으로 적어두셨지만 지금까지 검색 문자열에만 들어가고 화면에는
-    나오지 않았습니다. 그래서 살리되, 두 가지를 걸러냅니다.
+    분류 키는 한국어 글의 tags 하나만 봅니다 (applyGeo 가 tagKeys 로 심어줍니다).
+    그중 site.config.js 의 tagChips 에 등록된 것만 칩으로 나오고,
+    화면에 보이는 이름은 그 언어의 names 를 씁니다.
 
-      1) 지역·동네 이름 (서울 · 여의도 · 마포 …)
-         이미 지역 칩과 동네 칩이 하는 일이라 중복입니다.
-      2) 한 번만 쓰인 태그
-         눌러도 글이 하나뿐이라 링크로서 값이 없습니다. 187개가 여기 해당합니다.
+    전에는 언어별 글마다 태그를 따로 적어서, 같은 글인데 한국어는 칩 3개,
+    일본어는 0개가 되는 일이 41개 중 30개에서 생겼습니다. 이제 구조상 불가능합니다.
 
-    칩은 태그별 페이지를 만들지 않고 홈 검색으로 보냅니다 (/?q=노포).
-    페이지를 새로 만들면 글 한두 개짜리 얇은 페이지가 늘어나 색인에 불리합니다.
-    검색은 제목·요약·주소·태그를 모두 훑으므로 결과가 오히려 넉넉합니다. */
-function tagChipsHTML(m, base, code, t, tagCount, placeNames) {
-  const tags = (m.tags || [])
-    .map(x => String(x).trim())
-    .filter(Boolean)
-    .filter(x => !placeNames.has(x.toLowerCase()))     // 지역·동네와 중복 제거
-    .filter(x => (tagCount[x.toLowerCase()] || 0) >= 2) // 한 번만 쓰인 것 제거
-    .slice(0, 6);                                       // 너무 많으면 칩이 지저분해집니다
-  if (!tags.length) return '';
+    칩은 태그별 페이지를 만들지 않고 홈 검색으로 보냅니다 (/?q=심야).
+    글 한두 개짜리 얇은 페이지를 늘리면 색인에 불리하기 때문입니다. */
+const TAG_CHIPS = Array.isArray(site.tagChips) ? site.tagChips : [];
+const TAG_BY_KEY = new Map(TAG_CHIPS.map(x => [String(x.key), x]));
+
+/** 그 언어에서 보여줄 태그 이름 (없으면 한국어 키를 그대로) */
+function tagName(entry, code) {
+  return (entry.names && (entry.names[code] || entry.names.ko)) || entry.key;
+}
+
+/** 이 글에 붙는 칩 목록 — 등록된 순서를 따릅니다 (글마다 순서가 흔들리지 않게) */
+function chipsOf(m) {
+  const keys = new Set((m.tagKeys || []).map(x => String(x).trim()));
+  return TAG_CHIPS.filter(e => keys.has(e.key));
+}
+
+function tagChipsHTML(m, base, code, t) {
+  const list = chipsOf(m).slice(0, 6);   // 너무 많으면 칩이 지저분해집니다
+  if (!list.length) return '';
   const d = localeDir(code);
-  const chips = tags.map(x =>
-    `<a class="tagchip" href="${linkTo(base + d)}?q=${encodeURIComponent(x)}">${escapeHtml(x)}</a>`
-  ).join('');
+  const chips = list.map(e => {
+    const name = tagName(e, code);
+    return `<a class="tagchip" href="${linkTo(base + d)}?q=${encodeURIComponent(name)}">${escapeHtml(name)}</a>`;
+  }).join('');
   return `    <nav class="tagchips" aria-label="${escapeHtml(t.tagLabel)}">` +
     `<span class="tagchips-label">${escapeHtml(t.tagLabel)}</span>${chips}</nav>`;
 }
@@ -828,7 +842,9 @@ function cardHTML(post, base, code, t) {
   const rname = regionName(m.region, code);
   const aname = areaName(m.region, m.area, code);
   // 주소도 검색 대상입니다. 관광객은 "남대문", "와우산로" 처럼 주소로 찾는 일이 많습니다.
-  const search = [m.title, m.excerpt, rname, aname, m.addr, (m.tags || []).join(' ')].join(' ').toLowerCase();
+  // 칩은 /?q=<그 언어 이름> 으로 보냅니다. 그 이름이 검색에 걸려야 결과가 나옵니다.
+  const chipNames = chipsOf(m).map(e => tagName(e, code)).join(' ');
+  const search = [m.title, m.excerpt, rname, aname, m.addr, (m.tags || []).join(' '), chipNames].join(' ').toLowerCase();
 
   return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
@@ -1096,22 +1112,6 @@ function build() {
     const hasPage = (slug, c) => byLocale[c].pages.some(p => p.slug === slug);
 
     /* ---- 홈 (지역 인덱스) ---- */
-    /* 태그 칩 준비 — 언어마다 태그도 지역명도 그 언어로 적혀 있습니다.
-       빈도는 그 언어 안에서 셉니다. */
-    const tagCount = {};
-    for (const p of posts) {
-      for (const x of (p.meta.tags || [])) {
-        const k = String(x).trim().toLowerCase();
-        if (k) tagCount[k] = (tagCount[k] || 0) + 1;
-      }
-    }
-    const placeNames = new Set();
-    for (const r of site.regions) {
-      placeNames.add(String(regionName(r.slug, code)).toLowerCase());
-      for (const a of areasOf(r.slug)) {
-        placeNames.add(String(areaName(r.slug, a.slug, code)).toLowerCase());
-      }
-    }
     const homeBase = baseOf(d + 'index.html');
     const totalByRegion = {};
 
@@ -1280,7 +1280,7 @@ function build() {
           spicy: spicyHTML(m, t),
           order: orderHTML(m, t),
           season: seasonHTML(m, t),
-          tagChips: tagChipsHTML(m, base, code, t, tagCount, placeNames),
+          tagChips: tagChipsHTML(m, base, code, t),
           closed: escapeHtml(m.closed || ''),
           dayNames: escapeHtml(t.routeDayNames),
           closedTodayTpl: escapeHtml(t.closedTodayTpl),

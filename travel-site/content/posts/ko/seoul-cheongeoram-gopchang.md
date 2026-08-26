@@ -7,7 +7,7 @@ date: 2026-08-26
 emoji: 🍲
 thumb: assets/img/seoul-cheongeoram-gopchang.jpg
 excerpt: 소곱창전골은 원래 값이 나가는 음식인데 여기는 비교적 저렴합니다. 국물이 채소에서 우러난 맛이라 곱창전골치고 깔끔합니다. 일요일은 쉬고 평일 오후에 브레이크 타임이 있습니다.
-tags: [서울, 마포, 망원, 곱창전골, 소곱창, 전골, 노포, 술안주]
+tags: [서울, 마포, 망원, 곱창전골, 소곱창, 전골, 술안주]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%AD%EC%96%B4%EB%9E%8C+%EB%A7%9D%EC%9B%90%EC%A0%90
 lat: 37.5581268
 lng: 126.9075123

@@ -7,7 +7,7 @@ date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: 汤清爽不腻，水煮牛肉很嫩。5,790条评价的店，排队要有心理准备 — 好在早上8点就开门，还能用预约App。
-tags: [全罗, 罗州, 牛肉汤, 곰탕, 水煮肉, 早餐, 老店]
+tags: [全罗, 罗州, 牛肉汤, 곰탕, 水煮肉, 早餐]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:
   - 店名|나주곰탕 하얀집 본점（罗州牛肉汤 白色房子 本店）

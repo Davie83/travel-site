@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
 excerpt: コングクスの名店です。スープに味が付いていないので、塩か砂糖を自分で足して合わせます。うまく合えば暑い日ごとに思い出す味ですが、ここ数年で値段が上がり続けています。
-tags: [ソウル, 汝矣島, コングクス, 豆乳麺, 冷麺, 夏の料理, 老舗, ベジタリアン]
+tags: [ソウル, 汝矣島, コングクス, 豆乳麺, 冷麺, 夏の料理, ベジタリアン]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - 店名|チンジュチプ（진주집）

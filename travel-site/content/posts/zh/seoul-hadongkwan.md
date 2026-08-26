@@ -7,7 +7,7 @@ date: 2026-08-21
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg
 excerpt: 首尔的老字号清汤牛肉汤（곰탕）。先喝原味，再让店家给一点萝卜泡菜的汁倒进去，味道完全变一次。价格偏高，但做得用心。早上7点就开门，明洞和汝矣岛都有分店。
-tags: [首尔, 汝矣岛, 明洞, 牛肉汤, 汤饭, 老店, 萝卜泡菜, 早餐]
+tags: [首尔, 汝矣岛, 明洞, 牛肉汤, 汤饭, 萝卜泡菜, 早餐]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%8F%99%EA%B4%80+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - 店名|하동관（河东馆）— 去的是汝矣岛店

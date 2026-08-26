@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
 excerpt: One of Seoul's best known kongguksu shops. The broth arrives unseasoned, and you add salt or sugar to taste. Get it right and you will want it every hot day, though the price has climbed steadily for years.
-tags: [Seoul, Yeouido, kongguksu, soybean noodles, cold noodles, summer food, long-running, vegetarian]
+tags: [Seoul, Yeouido, kongguksu, soybean noodles, cold noodles, summer food, vegetarian]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - Restaurant|Jinjujip (진주집)

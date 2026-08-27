@@ -43,7 +43,7 @@ const DEMO_POSTS = new Set(site.demoPosts || []);
    글을 새로 올려도 방문자는 옛 CSS·옛 JS 를 계속 씁니다.
    (실제로 저장 기능을 올렸을 때 옛 CSS 가 걸려 스타일이 빠졌습니다) */
 function assetVersion() {
-  const files = ['assets/style.css', 'assets/filter.js', 'assets/reactions.js', 'assets/saved.js'];
+  const files = ['assets/style.css', 'assets/filter.js', 'assets/reactions.js', 'assets/saved.js', 'assets/totop.js'];
   const h = crypto.createHash('sha1');
   for (const f of files) {
     const p = path.join(STATIC, f);
@@ -1121,6 +1121,7 @@ function renderPage(o) {
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
     homeHref:    linkTo(base + localeDir(o.code)),
     themeToggle: escapeHtml(I18N[o.code].themeToggle),
+    toTop:       escapeHtml(I18N[o.code].toTop),
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
     savedLink:   savedLinkHTML(base, o.code, I18N[o.code]),
     v:           ASSET_V,

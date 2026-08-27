@@ -809,6 +809,16 @@ function authorLd(code) {
   return { '@type': 'Person', name: a.name, url: a.mapsProfile, sameAs: [a.mapsProfile] };
 }
 
+/** 제목에서 앞부분(가게·장소 이름)만 뽑습니다.
+ *  글 제목은 "철원막국수 — 비빔메밀면, 간이…" 처럼 "이름 — 설명" 형태라,
+ *  빵부스러기 마지막 칸에는 설명을 떼고 이름만 보여줍니다.
+ *  대시 뒤에는 항상 공백이 있고, 앞에는 없을 수도 있습니다
+ *  (일부 일본어·중국어 제목은 "河東館）— 설명" 처럼 괄호에 붙습니다).
+ *  구분자(— 또는 –)가 없으면 제목을 그대로 씁니다. */
+function shortTitle(title) {
+  return String(title).split(/\s*[—–]\s+/)[0].trim() || String(title);
+}
+
 /** 이 글이 소개하는 실제 장소 (구조화 데이터).
  *  food → Restaurant, 여행지(travel) → TouristAttraction. 둘 다 schema.org Place 하위입니다.
  *  프론트매터에 이미 있는 값(주소·좌표·지도·사진·전화)만 씁니다.
@@ -850,7 +860,7 @@ function breadcrumbLd(m, code, pageUrl) {
     { name: siteName(code),            item: `${SITE_URL}/${d}` },
     { name: t.category[m.cat] || m.cat, item: `${SITE_URL}/${d}${m.cat}` },
     { name: regionName(m.region, code), item: `${SITE_URL}/${d}region/${m.region}` },
-    { name: m.title,                    item: pageUrl }
+    { name: shortTitle(m.title),        item: pageUrl }
   ];
   return {
     '@type': 'BreadcrumbList',
@@ -873,7 +883,7 @@ function breadcrumbHTML(m, base, code, t) {
   ];
   return `<nav class="crumbs" aria-label="${escapeHtml(t.crumbLabel || 'Breadcrumb')}">`
     + links.join(sep) + sep
-    + `<span class="crumb-current" aria-current="page">${escapeHtml(m.title)}</span></nav>`;
+    + `<span class="crumb-current" aria-current="page">${escapeHtml(shortTitle(m.title))}</span></nav>`;
 }
 
 /** 카테고리 · 지역 · 동네 배지.

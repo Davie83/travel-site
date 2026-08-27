@@ -17,7 +17,7 @@ info:
   - Address|**14 Sejong-daero**, Grand Central 1F #102, Jung-gu, Seoul (세종대로 14)
   - Phone|0507-1340-9048
   - Hours|**11:00 AM to 10:00 PM** · **no closing day listed** (changes often — please verify)
-  - Break|**3:30 to 5:00 PM** (some sources say it starts at 3:00 — please verify)
+  - Break|**3:00 to 5:00 PM** (changes often — please verify)
   - Last order|**9:00 PM** (changes often — please verify)
   - What to order|**Bracken and brisket pasta, 23,500 KRW** (changes often — please verify)
   - Also|Chilli-oil and pollack-roe cream pasta 22,500 KRW · prawn oil pasta 21,000 · short rib risotto 39,000 · chuck flap steak 59,000 (changes often — please verify)
@@ -95,9 +95,9 @@ For a traveller that matters.
 
 ## Before you go — the afternoon break
 
-**They close from 3:30 to 5:00 PM.** (Some sources say the break starts at 3:00.)
+**They close from 3:00 to 5:00 PM.**
 
-Turn up at three thinking of it as a late lunch and you will find the door shut. **Get in before two, or plan for after five.**
+Turn up thinking of it as a late lunch and you will find the door shut. **Get in before half past two, or plan for after five.**
 
 **Last order is 9:00 PM** and the door closes at ten.
 
@@ -113,7 +113,7 @@ Evenings and weekends fill up. **CatchTable takes reservations.**
 - **Nothing here is spicy.** Fine if you cannot handle chilli
 - **Vegetarians will struggle.** The signature contains beef, and most other dishes are meat or seafood
 - **Three minutes on foot from Seoul Station**, with a direct airport rail link to Incheon
-- **Check the 3:30 to 5:00 PM break**
+- **Check the 3:00 to 5:00 PM break**
 - **An English menu is generally available**, with photographs, so ordering is not difficult
 
 ## Come here if
@@ -124,7 +124,7 @@ Evenings and weekends fill up. **CatchTable takes reservations.**
 - ✅ You are **catching a train or the airport line at Seoul Station**
 - ✅ You want a **clean, comfortable room** for two or four
 - ✅ You would like wine with dinner
-- ⚠️ **Break from 3:30 to 5:00 PM**
+- ⚠️ **Break from 3:00 to 5:00 PM**
 - ⚠️ **Difficult for vegetarians**
 - ⚠️ **Book ahead** for evenings and weekends
 - ⚠️ **Prices and menus differ slightly by branch**

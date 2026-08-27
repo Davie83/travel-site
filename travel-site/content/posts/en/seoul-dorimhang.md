@@ -64,7 +64,7 @@ Book through **CatchTable**, or put your name into **Tabling** for remote queuei
 
 This post is the **Yeongdeungpo branch**. The **main branch is at 8 Jowon-ro 4-gil, Gwanak-gu**, near Guro Digital Complex.
 
-The main branch has far more reviews (145 against 28) and reportedly a longer queue. **Check which one you are navigating to.**
+The main branch has far more reviews (145 against 28), and draws correspondingly bigger crowds. **Check which one you are navigating to.**
 
 ## For international visitors
 

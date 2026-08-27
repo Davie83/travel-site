@@ -61,7 +61,7 @@ There is no counter to visit and no application form. **The kiosk prints and dis
 - Around **444 machines** nationwide (official figure) — hotels, convenience stores, subway stations, tourist spots
 - **Airports have them** — Incheon T1 and T2, Gimpo, Jeju, Gimhae (Busan), Daegu. Also Incheon Port and Busan Port
 - In Seoul: **Myeongdong, Hongik University Station, Dongdaemun (DDP), Seoul Station**. In Busan: **Haeundae, Seomyeon**
-- **Card fee 5,000 KRW** (please verify — the official site does not publish the amount; check the price on the machine screen before confirming)
+- **The card fee is shown on the machine screen.** Check the amount before you confirm (changes often — please verify)
 - To settle it in advance, **reserve online on the official site** and collect the card after you land
 - Once you have it, **register the card in the WOWPASS app** — balance, freezing a lost card, and topping up the transit balance are all done there
 - **Korean nationals cannot be issued a card.** The service is for foreign visitors only

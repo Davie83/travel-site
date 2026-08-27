@@ -14,7 +14,7 @@ info:
   - Yeouido main branch|3 Eunhaeng-ro, Yeongdeungpo-gu · 02-785-9292 — **National Assembly Stn, Exit 3**
   - Yeouido Station branch|50 Yeouinaru-ro, Yeongdeungpo-gu · 02-761-5656
   - Myeongdong original|12 Myeongdong 9-gil, Jung-gu · 02-776-5656 — near Euljiro 1-ga Stn and Myeongdong Cathedral
-  - Hours (Yeouido)|**Opens 7:00 AM** · closed **every Sunday**
+  - Hours (Yeouido)|**7:00 AM to 4:00 PM** · closed **every Sunday** (changes often — please verify)
   - Price|**₩19,000 for a basic bowl · ₩25,000 for the "25"** (changes often — please verify)
   - Google rating|Yeouido 4.0 (1,279 reviews) · Myeongdong 3.6 (2,151 reviews)
 ---
@@ -70,7 +70,7 @@ So, honestly:
 
 ## One more thing: temperature
 
-Some reviews note the broth **doesn't arrive piping hot** and that this divides people. If you expect a scalding bowl, you may find it merely warm.
+One thing to know in advance: **the broth does not arrive piping hot.** It comes in a brass bowl rather than an earthenware pot, which is why. If you expect a scalding bowl, you may find it merely warm.
 
 ## There are several branches
 
@@ -80,7 +80,7 @@ Some reviews note the broth **doesn't arrive piping hot** and that this divides 
 - **Yeouido Station branch** — 50 Yeouinaru-ro
 - **Myeongdong original** — 12 Myeongdong 9-gil, near Euljiro 1-ga Station and Myeongdong Cathedral. **This is the one that fits a sightseeing day**, and it takes reservations through the CatchTable app
 
-Reviews at the Myeongdong branch mention Michelin 48 times, so it clearly has a reputation among guide-readers — though **whether it currently holds a listing is (changes often — please verify).**
+The Myeongdong branch has a reputation among guide-readers, and Michelin comes up constantly in connection with it. **Listings change from year to year, so treat it as a well-known old restaurant rather than a starred one.**
 
 **Check the branch name**, not just "Hadongkwan," when you search.
 

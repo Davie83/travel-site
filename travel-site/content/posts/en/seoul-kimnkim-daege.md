@@ -65,7 +65,7 @@ But **the table as served feels like being looked after.** So, plainly: this is 
 
 **There are several private rooms**, which is the practical reason to pick this place for an occasion.
 
-A reviewer put it well: good enough for family, for hosting someone, or for a couple. **Being able to avoid a noisy table in the middle of Hongdae** is genuinely useful — this is one of Seoul's loudest nightlife districts.
+It works equally well for family, for hosting someone, or for two. **Being able to avoid a noisy table in the middle of Hongdae** is genuinely useful — this is one of Seoul's loudest nightlife districts.
 
 ## Finding it, and other practical notes
 

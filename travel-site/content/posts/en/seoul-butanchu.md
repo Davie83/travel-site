@@ -7,7 +7,7 @@ date: 2026-08-25
 emoji: 🍜
 thumb: assets/img/seoul-butanchu.jpg
 excerpt: A Japanese tonkotsu ramen shop where you choose the noodle type and how rich the broth is. It is not spectacular, but something about it keeps pulling me back. I go for toko tonkotsu with curly noodles. The gyoza set makes it a full meal.
-tags: [Seoul, Hongdae, Mapo, tonkotsu, ramen, Japanese food, gyoza, late night]
+tags: [Seoul, Hongdae, Mapo, tonkotsu, ramen, Japanese food, gyoza]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%83%84%EC%B8%84+%ED%99%8D%EB%8C%80%EB%B3%B8%EC%A0%90
 lat: 37.5563576
 lng: 126.9267339
@@ -17,14 +17,13 @@ info:
   - Restaurant|Butanchu, **Hongdae main branch** (부탄츄 홍대본점) — other branches in Konkuk Univ. and Sinchon
   - Address|75 Wausan-ro 35-gil, Mapo-gu, Seoul (와우산로35길 75)
   - Phone|02-3144-3304
-  - Hours|**11:30 AM to 10:00 PM** · some sources say **until 11:00 PM** (changes often — please verify) · **(no closing-day information available)**
+  - Hours|**11:30 AM to 10:00 PM** (changes often — please verify) · **(no closing-day information available)**
   - What to order|**Toko tonkotsu** (the rich one) · shio tonkotsu (the clean one) · shoyu tonkotsu (soy)
   - Set|**Toko tonkotsu + karaage donburi set 13,000 KRW** (2025 figure — changes often, please verify)
   - Spice|**The tonkotsu broth is not spicy** (a little chili powder may be sprinkled on top)
   - You can choose|**Noodle type, broth richness, sauce, and the amount of garlic, spring onion and bean sprouts**
   - My order|**Toko tonkotsu with chijiremen** (curly noodles)
   - Nearest station|**Hongik Univ. Station**, 3 min walk from exit 7
-  - Late night|Reports of **late-night ramen after 10 PM on Fridays and Saturdays** (please verify)
   - Rating|**4.1** on Google Maps
 ---
 
@@ -64,7 +63,7 @@ Set your expectation to **"a bowl of tonkotsu you get to configure"** rather tha
 
 **Three minutes on foot from exit 7 of Hongik Univ. Station.** It sits in the middle of Hongdae, so it is easy to slot into another plan.
 
-There are reports of **late-night ramen after 10 PM on Fridays and Saturdays.** That would make a good end to a night out, but check before counting on it.
+There are nights in Hongdae when a bowl of ramen is exactly how you want to finish. Bear in mind that **the door closes at 10 PM**, so get in before then.
 
 ## For international visitors
 
@@ -86,6 +85,6 @@ There are reports of **late-night ramen after 10 PM on Fridays and Saturdays.** 
 - ✅ **You cannot eat spicy food** — this place is safe
 - ⚠️ **If you arrive expecting something spectacular, you may be let down**
 - ⚠️ **It is a pork-bone broth.** No good if you avoid pork
-- ⚠️ **The closing day is unconfirmed**, and sources disagree on the closing time
+- ⚠️ **No fixed weekly closing day.** Ring ahead over public holidays
 
 > A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.

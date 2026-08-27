@@ -32,7 +32,7 @@ Two things, and they matter more than anything else in this article.
 
 You arrive at your booked time, they check your name, and you are led to **a table already fully set.** It is efficient and it moves fast.
 
-The flip side: **service is brisk.** Reviews mention that staff aren't especially warm. Read it as a consequence of how the place runs rather than rudeness.
+The flip side: **service is brisk.** Do not come expecting warmth from the staff. Read it as a consequence of how the place runs rather than rudeness.
 
 There is also **no menu to choose from** — one set meal, the *ganjang gejang* set. One Chinese-language reviewer summed it up: no choices, just marinated crab plus side dishes. In practice this is convenient if you don't read Korean. You sit down, and food arrives.
 

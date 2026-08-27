@@ -308,6 +308,20 @@ a.more{color:var(--ink);font-weight:600;}
 }
 .region.empty:hover{transform:none;}
 
+/* 홈 "무엇을 먹지?" — 음식 장르 진입 카드 (영어권은 지역보다 음식으로 찾습니다) */
+.genres{display:grid;grid-template-columns:repeat(auto-fill,minmax(148px,1fr));gap:10px;}
+.genre-card{
+  display:flex;flex-direction:column;gap:3px;
+  padding:14px 14px 13px;border-radius:12px;
+  background:var(--surface);border:1px solid var(--line);
+  text-decoration:none;color:inherit;
+  transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease;
+}
+.genre-card:hover{transform:translateY(-2px);border-color:var(--line-hard);box-shadow:0 10px 28px rgba(0,0,0,.09);}
+.genre-emoji{font-size:22px;line-height:1;}
+.genre-name{font-size:14.5px;font-weight:800;letter-spacing:-.02em;line-height:1.25;color:var(--ink);word-break:keep-all;}
+.genre-sub{font-family:var(--en);font-size:11px;color:var(--ink-mute);}
+
 /* ==========================================================================
    글 카드
    ========================================================================== */
@@ -747,6 +761,14 @@ a.badge:hover{border-color:var(--ink);color:var(--ink);}
 /* 지역은 지역색을 채웁니다. --on-region 이 밝은/어두운 화면 모두에서 대비를 맞춥니다 */
 .badge-region{border-color:transparent;background:var(--r);color:var(--on-region);}
 a.badge-region:hover{border-color:transparent;color:var(--on-region);opacity:.85;}
+/* 맛집 글의 첫 배지 = 음식 장르(Korean BBQ 등). 카테고리 배지보다 살짝 진하게. */
+.badge-genre{border-color:var(--ink-mute);color:var(--ink);font-weight:800;}
+a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
+
+/* 음식 장르 칩 줄 — /food 와 각 장르 페이지 상단. 모양은 지역 칩과 같습니다. */
+.genre-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px;}
+.genre-nav a.chip{display:inline-block;text-decoration:none;}
+.genre-nav:empty{display:none;}
 
 /* 카드 안에서는 한 단계 작게, 날짜는 오른쪽으로 밀어 배지와 갈라놓습니다 */
 .card-meta{flex-wrap:wrap;row-gap:6px;overflow:visible;}

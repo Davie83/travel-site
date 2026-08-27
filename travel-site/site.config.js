@@ -213,6 +213,53 @@ module.exports = {
   /* 예전 글의 cat 값을 바꿨을 때 쓰는 변환표 (지금은 바꿀 것이 없습니다) */
   categoryAliases: { places: 'travel' },
 
+  /* ---- 음식 장르 (영어권 검색어 축) ----------------------------------
+     외국인은 "명동 맛집" 이 아니라 "Korean BBQ", "Korean soup" 처럼
+     음식 종류로 검색합니다. 맛집(food) 글을 그 축으로 한 번 더 묶습니다.
+
+     - tags: 한국어 글의 tags 중 하나라도 걸리면 그 장르로 들어갑니다
+             (새 태그를 추가할 필요 없이 지금 붙어 있는 태그를 그대로 씁니다).
+     - 배지: food 글의 첫 배지가 'Food' 대신 이 장르가 됩니다 (아래 순서 = 우선순위).
+             한 글이 여러 장르에 걸리면 먼저 나오는 장르를 씁니다.
+     - 페이지: 글이 genrePageMin 개 이상인 장르만 검색에 노출되는 페이지
+             (/en/food/korean-bbq 등)로 만들어집니다. 그 미만은 noindex.
+     slug 는 영어 검색어에 맞춥니다 (korean-bbq, korean-soup …).            */
+  genrePageMin: 3,
+  genres: [
+    { slug: 'korean-bbq',       emoji: '🍖',
+      names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韩式烤肉' },
+      tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살'] },
+    { slug: 'korean-soup',      emoji: '🍲',
+      names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '汤饭' },
+      tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장'] },
+    { slug: 'korean-noodles',   emoji: '🍜',
+      names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韩式面食' },
+      tags:  ['냉면', '막국수', '콩국수', '국수'] },
+    { slug: 'korean-seafood',   emoji: '🦑',
+      names: { ko: '해산물',     en: 'Korean Seafood',    ja: '韓国の魚介',    zh: '韩式海鲜' },
+      tags:  ['해산물', '물회', '회덮밥', '숙성회', '모둠회', '대게', '킹크랩', '생대구탕', '밴댕이', '전복죽', '아구찜', '간장게장', '게장', '생선구이'] },
+    { slug: 'chinese-korean',   emoji: '🥢',
+      names: { ko: '중식',       en: 'Chinese-Korean',    ja: '韓国式中華',    zh: '韩式中餐' },
+      tags:  ['중식', '자장면', '짬뽕', '유린기'] },
+    { slug: 'japanese-in-korea', emoji: '🍥',
+      names: { ko: '라멘·일식',  en: 'Ramen & Japanese',  ja: 'ラーメン・和食', zh: '拉面·日料' },
+      tags:  ['라멘', '돈코츠', '일식', '오코노미야끼', '야끼소바'] },
+    /* 만두 — 만두가 간판인 집만. 라멘집의 '교자', 중식집의 '군만두'(사이드)는 제외하려고
+       뒤에 두고 태그도 좁혔습니다. */
+    { slug: 'korean-dumplings', emoji: '🥟',
+      names: { ko: '만두',       en: 'Korean Dumplings',  ja: '韓国餃子',      zh: '韩式饺子' },
+      tags:  ['만두', '만두국'] },
+    { slug: 'bibimbap',         emoji: '🍚',
+      names: { ko: '비빔밥',     en: 'Bibimbap',          ja: 'ビビンバ',      zh: '拌饭' },
+      tags:  ['비빔밥', '육회비빔밥'] },
+    { slug: 'cafe-dessert',     emoji: '☕',
+      names: { ko: '카페·디저트', en: 'Cafes & Dessert',  ja: 'カフェ・スイーツ', zh: '咖啡·甜点' },
+      tags:  ['카페', '드립커피', '디저트', '베이커리', '수플레', '팬케이크'] },
+    { slug: 'bars-makgeolli',   emoji: '🍶',
+      names: { ko: '술집·막걸리', en: 'Bars & Makgeolli', ja: '居酒屋・マッコリ', zh: '酒馆·马格利' },
+      tags:  ['술집', '막걸리', '술안주', '이자카야'] }
+  ],
+
   /* ---- 예시글: 목록 맨 뒤로 밀기 ---------------------------------------
      실제 글로 교체하거나 지운 뒤에는 여기서도 지워주세요.        */
   demoPosts: [],

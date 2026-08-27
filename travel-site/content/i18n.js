@@ -22,6 +22,10 @@ module.exports = {
     },
 
     findByRegion: '지역으로 찾기',
+    genreTitleTpl: '{name} 맛집',
+    genreDescTpl:  '직접 다녀온 {name} 맛집을 모았습니다. 가격·주문 방법·관광객이 편한지 위주로 적었습니다.',
+    genreHomeTitle: '무엇을 먹지?',
+    genreHomeHint:  '음식 종류로 고르기',
     themeToggle: '밝게 / 어둡게 전환',
     tagLabel: '이런 곳',
     crumbLabel: '이 페이지 위치',
@@ -158,6 +162,10 @@ module.exports = {
     },
 
     findByRegion: 'Browse by region',
+    genreTitleTpl: 'Best {name} in Korea',
+    genreDescTpl:  '{name} places we actually visited, across Korea. Honest notes on price, how to order, and how tourist-friendly each spot is.',
+    genreHomeTitle: 'What to eat?',
+    genreHomeHint:  'Pick by dish',
     themeToggle: 'Switch light / dark',
     tagLabel: 'Also tagged',
     crumbLabel: 'Breadcrumb',
@@ -294,6 +302,10 @@ module.exports = {
     },
 
     findByRegion: '地域から探す',
+    genreTitleTpl: '韓国の{name}',
+    genreDescTpl:  '実際に足を運んだ{name}の店をまとめました。価格・注文方法・観光客の使いやすさを中心に。',
+    genreHomeTitle: '何を食べる？',
+    genreHomeHint:  '料理の種類から',
     themeToggle: 'ライト / ダーク切り替え',
     tagLabel: 'タグ',
     crumbLabel: '現在位置',
@@ -430,6 +442,10 @@ module.exports = {
     },
 
     findByRegion: '按地区浏览',
+    genreTitleTpl: '韩国{name}',
+    genreDescTpl:  '我们实际去过的{name}餐厅合集。价格、点单方式、对游客是否友好，都据实记录。',
+    genreHomeTitle: '吃什么？',
+    genreHomeHint:  '按菜式挑选',
     themeToggle: '切换浅色 / 深色',
     tagLabel: '标签',
     crumbLabel: '当前位置',

@@ -55,6 +55,11 @@ const ASSET_V = assetVersion();
 
 const LOCALES    = site.locales.filter(l => l.enabled);
 
+/* 음식 장르 — 영어권 검색어 축 (Korean BBQ 등). site.config.js 의 genres 참고.
+   글이 이 개수 이상인 장르만 검색에 노출되는 페이지로 만듭니다 (그 미만은 noindex). */
+const GENRES = Array.isArray(site.genres) ? site.genres : [];
+const GENRE_PAGE_MIN = Number.isInteger(site.genrePageMin) ? site.genrePageMin : 3;
+
 /* ==========================================================================
    1. 유틸
    ========================================================================== */
@@ -110,6 +115,20 @@ const areaName = (regionSlug, areaSlug, code) => {
   const a = areasOf(regionSlug).find(x => x.slug === areaSlug);
   return a ? (a.names[code] || a.names.en || a.slug) : '';
 };
+
+/* 음식 장르 (Korean BBQ 등). 판정 키는 한국어 글의 tags 하나만 봅니다
+   (applyGeo 가 모든 언어 글에 tagKeys 로 심어줍니다). config 의 나열 순서가
+   우선순위입니다 — 한 글이 여러 장르에 걸리면 먼저 나오는 장르를 씁니다. */
+const genreOfSlug = slug => GENRES.find(g => g.slug === slug);
+const genreName = (g, code) => {
+  const x = typeof g === 'string' ? genreOfSlug(g) : g;
+  return x ? (x.names[code] || x.names.en || x.slug) : (typeof g === 'string' ? g : '');
+};
+function genreOf(m) {
+  if (m.cat !== 'food') return null;
+  const keys = new Set((m.tagKeys || []).map(String));
+  return GENRES.find(g => (g.tags || []).some(k => keys.has(String(k)))) || null;
+}
 
 /* ==========================================================================
    2. 프론트매터 파서
@@ -856,9 +875,14 @@ function placeLd(m, pageUrl) {
  *  area 페이지를 만들면 지역 다음에 한 단계 추가하세요. */
 function breadcrumbLd(m, code, pageUrl) {
   const d = localeDir(code), t = I18N[code];
+  // 맛집 글은 두 번째 단계가 'Food' 대신 음식 장르 (있을 때).
+  const g = genreOf(m);
+  const second = g
+    ? { name: genreName(g, code),       item: `${SITE_URL}/${d}food/${g.slug}` }
+    : { name: t.category[m.cat] || m.cat, item: `${SITE_URL}/${d}${m.cat}` };
   const crumbs = [
     { name: siteName(code),            item: `${SITE_URL}/${d}` },
-    { name: t.category[m.cat] || m.cat, item: `${SITE_URL}/${d}${m.cat}` },
+    second,
     { name: regionName(m.region, code), item: `${SITE_URL}/${d}region/${m.region}` },
     { name: shortTitle(m.title),        item: pageUrl }
   ];
@@ -870,20 +894,105 @@ function breadcrumbLd(m, code, pageUrl) {
   };
 }
 
+/** 음식 장르 페이지의 구조화 데이터 — CollectionPage + 글 목록(ItemList) + 빵부스러기. */
+function genrePageLd(g, code, list, out) {
+  const d = localeDir(code);
+  const url = `${SITE_URL}/${cleanUrl(out)}`;
+  const gname = genreName(g, code);
+  const loc = site.locales.find(l => l.code === code) || {};
+  return {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        '@id': url, url: url,
+        name: String(I18N[code].genreTitleTpl).replace('{name}', gname),
+        inLanguage: loc.htmlLang,
+        isPartOf: { '@type': 'WebSite', name: siteName(code), url: `${SITE_URL}/${d}` },
+        mainEntity: {
+          '@type': 'ItemList',
+          numberOfItems: list.length,
+          itemListElement: list.map((p, i) => ({
+            '@type': 'ListItem', position: i + 1,
+            url: `${SITE_URL}/${cleanUrl(d + 'posts/' + p.slug + '.html')}`,
+            name: shortTitle(p.meta.title)
+          }))
+        }
+      },
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { name: siteName(code),                     item: `${SITE_URL}/${d}` },
+          { name: I18N[code].category.food || 'Food', item: `${SITE_URL}/${d}food` },
+          { name: gname,                              item: url }
+        ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item }))
+      }
+    ]
+  };
+}
+
 /** 눈에 보이는 빵부스러기 — 글 상단의 "사이트 › 맛집 › 서울" 경로.
  *  단계는 breadcrumbLd(JSON-LD) 와 같습니다. 동네(area)는 아직 페이지가 없어 뺍니다.
  *  마지막(현재 글)은 링크 없이 텍스트로 둡니다. */
 function breadcrumbHTML(m, base, code, t) {
   const d = localeDir(code);
   const sep = '<span class="crumb-sep" aria-hidden="true">›</span>';
+  const g = genreOf(m);
+  const second = g
+    ? `<a href="${base}${d}food/${g.slug}">${escapeHtml(genreName(g, code))}</a>`
+    : `<a href="${base}${d}${escapeHtml(m.cat)}">${escapeHtml(t.category[m.cat] || m.cat)}</a>`;
   const links = [
     `<a href="${linkTo(base + d)}">${escapeHtml(siteName(code))}</a>`,
-    `<a href="${base}${d}${escapeHtml(m.cat)}">${escapeHtml(t.category[m.cat] || m.cat)}</a>`,
+    second,
     `<a href="${base}${d}region/${escapeHtml(m.region)}">${escapeHtml(regionName(m.region, code))}</a>`
   ];
   return `<nav class="crumbs" aria-label="${escapeHtml(t.crumbLabel || 'Breadcrumb')}">`
     + links.join(sep) + sep
     + `<span class="crumb-current" aria-current="page">${escapeHtml(shortTitle(m.title))}</span></nav>`;
+}
+
+/** 음식 장르 칩 줄 — /food 와 각 장르 페이지 상단에 놓아 서로를 잇습니다
+ *  (사람에게는 탐색 경로, 검색엔진에는 크롤 경로).
+ *  countsByGenre 에 글이 있는 장르만 보여줍니다. currentSlug 는 눌린 상태로. */
+function genreNavHTML(code, base, countsByGenre, currentSlug) {
+  const d = localeDir(code);
+  const live = GENRES.filter(g => (countsByGenre[g.slug] || 0) > 0);
+  if (live.length < 2) return '';
+  const items = live.map(g => {
+    const name = escapeHtml(genreName(g, code));
+    return g.slug === currentSlug
+      ? `<span class="chip active" aria-current="page">${name}</span>`
+      : `<a class="chip" href="${base}${d}food/${g.slug}">${name}</a>`;
+  }).join('');
+  return `      <nav class="genre-nav" aria-label="${escapeHtml(I18N[code].nav.food)}">${items}</nav>`;
+}
+
+/** 홈의 "무엇을 먹지?" 블록 — 음식 장르로 바로 들어가는 카드.
+ *  글이 있는 장르만, config 순서(우선순위)대로. noindex 장르도 사람은 눌러서 볼 수
+ *  있어야 하니 색인 여부와 상관없이 전부 넣습니다. 장르가 3개 미만이면 아예 안 그립니다. */
+function homeGenresHTML(base, code, countsByGenre, t) {
+  const d = localeDir(code);
+  // 홈에서는 글이 2개 이상인 장르만 (한 곳짜리 카드는 빈약해 보입니다).
+  // 전체 목록은 /food 상단의 장르 칩 줄에 있습니다.
+  const live = GENRES.filter(g => (countsByGenre[g.slug] || 0) >= 2);
+  if (live.length < 3) return '';
+  const cards = live.map(g => {
+    const n = countsByGenre[g.slug] || 0;
+    return `        <a class="genre-card" href="${base}${d}food/${g.slug}">
+          <span class="genre-emoji" aria-hidden="true">${g.emoji || '🍽'}</span>
+          <span class="genre-name">${escapeHtml(genreName(g, code))}</span>
+          <span class="genre-sub">${escapeHtml(t.nearCount(n))}</span>
+        </a>`;
+  }).join('\n');
+  return `    <section class="section">
+      <div class="section-head">
+        <h2>${escapeHtml(t.genreHomeTitle)}</h2>
+        <span class="more">${escapeHtml(t.genreHomeHint)}</span>
+      </div>
+      <div class="genres">
+${cards}
+      </div>
+    </section>`;
 }
 
 /** 카테고리 · 지역 · 동네 배지.
@@ -893,13 +1002,23 @@ function breadcrumbHTML(m, base, code, t) {
 function badgesHTML(m, base, code, t, linked) {
   const d   = localeDir(code);
   const rs  = escapeHtml(m.region);
-  const cat = escapeHtml(t.category[m.cat] || m.cat);
   const rn  = escapeHtml(regionName(m.region, code));
   const an  = escapeHtml(areaName(m.region, m.area, code));
   const rows = [];
-  rows.push(linked
-    ? `<a class="badge" href="${base}${d}${escapeHtml(m.cat)}">${cat}</a>`
-    : `<span class="badge">${cat}</span>`);
+
+  // 첫 배지: 맛집 글은 'Food' 대신 음식 장르(Korean BBQ 등). 장르가 없으면 카테고리.
+  const g = genreOf(m);
+  if (g) {
+    const gn = escapeHtml(genreName(g, code));
+    rows.push(linked
+      ? `<a class="badge badge-genre" href="${base}${d}food/${g.slug}">${gn}</a>`
+      : `<span class="badge badge-genre">${gn}</span>`);
+  } else {
+    const cat = escapeHtml(t.category[m.cat] || m.cat);
+    rows.push(linked
+      ? `<a class="badge" href="${base}${d}${escapeHtml(m.cat)}">${cat}</a>`
+      : `<span class="badge">${cat}</span>`);
+  }
   rows.push(linked
     ? `<a class="badge badge-region" href="${base}${d}region/${rs}" style="--r:var(--region-${rs})">${rn}</a>`
     : `<span class="badge badge-region" style="--r:var(--region-${rs})">${rn}</span>`);
@@ -1190,6 +1309,17 @@ function build() {
     const hasPost = (slug, c) => byLocale[c].posts.some(p => p.slug === slug);
     const hasPage = (slug, c) => byLocale[c].pages.some(p => p.slug === slug);
 
+    /* 음식 장르별 글 (주 장르 기준 — 배지·빵부스러기와 정확히 일치).
+       한 글은 한 장르 페이지에만 실립니다 (config 순서가 우선순위). */
+    const postsByGenre = {};
+    for (const g of GENRES) postsByGenre[g.slug] = [];
+    for (const p of posts) {
+      const g = genreOf(p.meta);
+      if (g) postsByGenre[g.slug].push(p);
+    }
+    const genreCounts = {};
+    for (const g of GENRES) genreCounts[g.slug] = postsByGenre[g.slug].length;
+
     /* ---- 홈 (지역 인덱스) ---- */
     const homeBase = baseOf(d + 'index.html');
     const totalByRegion = {};
@@ -1240,6 +1370,7 @@ function build() {
         tipsDesc:  escapeHtml(t.tipsDesc),
         tipsTags:  escapeHtml(t.tipsTags),
         tipsCta:   escapeHtml(t.tipsCta),
+        genreBlock: homeGenresHTML(homeBase, code, genreCounts, t),
         latest: posts.map(p => cardHTML(p, baseOf(d + 'index.html'), code, t)).join('\n'),
         noResult: escapeHtml(t.noResult),
         adTop: adSlotHTML('home-top'), adBottom: adSlotHTML('home-bottom')
@@ -1310,6 +1441,7 @@ function build() {
           heading: escapeHtml(t.categoryTitle[c.slug]),
           desc: escapeHtml(t.categoryDesc[c.slug]),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
+          genreNav: c.slug === 'food' ? genreNavHTML(code, base, genreCounts, null) : '',
           chips: inCat.length ? regionsHere.map((rs, i) =>
             `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${rs}">${escapeHtml(rs === 'all' ? t.all : regionName(rs, code))}</button>`
           ).join('\n        ') : '',
@@ -1321,6 +1453,44 @@ function build() {
         })
       }));
       urls.push({ loc: d + `${c.slug}.html`, pri: '0.8', freq: 'daily' });
+    }
+
+    /* ---- 음식 장르 페이지 (Korean BBQ · Korean Soup …) ----
+       영어권은 "명동 맛집" 이 아니라 음식 종류로 검색합니다.
+       글이 GENRE_PAGE_MIN 개 이상인 장르만 색인에 노출합니다 (그 미만은 noindex). */
+    for (const g of GENRES) {
+      const inGenre = postsByGenre[g.slug] || [];
+      if (!inGenre.length) continue;                 // 이 언어에 글이 없으면 만들지 않습니다
+
+      const out   = d + `food/${g.slug}.html`;
+      const base  = baseOf(out);
+      const gname = genreName(g, code);
+      const heading = String(t.genreTitleTpl).replace('{name}', gname);
+      const desc    = String(t.genreDescTpl).replace('{name}', gname);
+      const indexed = inGenre.length >= GENRE_PAGE_MIN;
+      const regionsHere = ['all', ...new Set(inGenre.map(p => p.meta.region))];
+
+      writeFile(out, renderPage({
+        out, code, current: 'food', noindex: !indexed,
+        title: `${heading} — ${siteName(code)}`,
+        description: desc,
+        availability: availFor(`food/${g.slug}.html`,
+          c => byLocale[c].posts.some(p => genreOf(p.meta) === g)),
+        headExtra: `<script type="application/ld+json">${JSON.stringify(genrePageLd(g, code, inGenre, out))}</script>`,
+        body: fill(T.list, {
+          heading: escapeHtml(heading),
+          desc: escapeHtml(desc),
+          searchPlaceholder: escapeHtml(t.searchPlaceholder),
+          genreNav: genreNavHTML(code, base, genreCounts, g.slug),
+          chips: regionsHere.map((rs, i) =>
+            `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${rs}">${escapeHtml(rs === 'all' ? t.all : regionName(rs, code))}</button>`
+          ).join('\n        '),
+          cards: inGenre.map(p => cardHTML(p, base, code, t)).join('\n'),
+          noResult: escapeHtml(t.noResult),
+          adTop: adSlotHTML('genre-top'), adBottom: adSlotHTML('genre-bottom')
+        })
+      }));
+      if (indexed) urls.push({ loc: out, pri: '0.7', freq: 'weekly' });
     }
 
     /* ---- 글 상세 ---- */

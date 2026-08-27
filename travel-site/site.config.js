@@ -62,7 +62,8 @@ module.exports = {
         { slug: 'jongno',       names: { ko: '종로',       en: 'Jongno',                 ja: '鍾路',          zh: '钟路' } },
         { slug: 'yeongdeungpo', names: { ko: '영등포',     en: 'Yeongdeungpo',           ja: '永登浦',        zh: '永登浦' } },
         { slug: 'hongdae',      names: { ko: '홍대',       en: 'Hongdae',                ja: '弘大',          zh: '弘大' } },
-        { slug: 'mapo',         names: { ko: '마포',       en: 'Mapo',                   ja: '麻浦',          zh: '麻浦' } }
+        { slug: 'mapo',         names: { ko: '마포',       en: 'Mapo',                   ja: '麻浦',          zh: '麻浦' } },
+        { slug: 'gwangjin',     names: { ko: '광진·건대',  en: 'Gwangjin & Konkuk Univ.', ja: '広津・建大',   zh: '广津·建大' } }
       ] },
     { slug: 'gyeonggi',    color: '#884096', colorDark: '#d5a4df',   // 보라
       names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' },
@@ -194,10 +195,12 @@ module.exports = {
     { key: '해산물',   names: { ko: '해산물',   en: 'Seafood',         ja: '魚介',         zh: '海鲜' } },
     { key: '물회',     names: { ko: '물회',     en: 'Mulhoe',          ja: 'ムルフェ',     zh: '冷汤生鱼' } },
     { key: '회덮밥',   names: { ko: '회덮밥',   en: 'Sashimi bowl',    ja: '海鮮丼',       zh: '生鱼盖饭' } },
+    { key: '파스타',   names: { ko: '파스타',   en: 'Pasta',           ja: 'パスタ',       zh: '意面' } },
 
     /* 요리 계통 */
     { key: '일식',     names: { ko: '일식',     en: 'Japanese',        ja: '和食',         zh: '日本料理' } },
-    { key: '중식',     names: { ko: '중식',     en: 'Chinese',         ja: '中華',         zh: '中餐' } }
+    { key: '중식',     names: { ko: '중식',     en: 'Chinese',         ja: '中華',         zh: '中餐' } },
+    { key: '양식',     names: { ko: '양식',     en: 'Western',         ja: '洋食',         zh: '西餐' } }
   ],
   /* ---- 카테고리 --------------------------------------------------------
      slug 이 주소가 됩니다: /travel.html · /food.html

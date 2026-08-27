@@ -22,6 +22,7 @@ module.exports = {
     },
 
     findByRegion: '지역으로 찾기',
+    themeToggle: '밝게 / 어둡게 전환',
     tagLabel: '이런 곳',
     nearMe:    '내 위치',
     nearClose: '닫기',
@@ -155,6 +156,7 @@ module.exports = {
     },
 
     findByRegion: 'Browse by region',
+    themeToggle: 'Switch light / dark',
     tagLabel: 'Also tagged',
     nearMe:    'You are here',
     nearClose: 'Close',
@@ -288,6 +290,7 @@ module.exports = {
     },
 
     findByRegion: '地域から探す',
+    themeToggle: 'ライト / ダーク切り替え',
     tagLabel: 'タグ',
     nearMe:    '現在地',
     nearClose: '閉じる',
@@ -421,6 +424,7 @@ module.exports = {
     },
 
     findByRegion: '按地区浏览',
+    themeToggle: '切换浅色 / 深色',
     tagLabel: '标签',
     nearMe:    '我的位置',
     nearClose: '关闭',

@@ -26,6 +26,20 @@
 <meta name="twitter:card" content="summary_large_image">
 
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<script>
+/* 테마 — 첫 그림이 그려지기 전에 정해야 화면이 번쩍이지 않습니다.
+   그래서 이 조각만 예외적으로 head 안에 인라인으로 둡니다.
+   값이 없으면 속성을 붙이지 않고, CSS 의 prefers-color-scheme 이
+   기기 설정을 그대로 따릅니다. */
+(function () {
+  try {
+    var v = localStorage.getItem('kfoodtrip.theme');
+    if (v === 'dark' || v === 'light') {
+      document.documentElement.setAttribute('data-theme', v);
+    }
+  } catch (e) { /* 저장 공간이 막힌 브라우저는 기기 설정을 따릅니다 */ }
+})();
+</script>
 <link rel="stylesheet" href="{{base}}assets/style.css?v={{v}}">
 {{regionVars}}
 
@@ -40,6 +54,9 @@
   <div class="wrap header-inner">
     <a class="logo" href="{{homeHref}}">{{siteName}}</a>
     {{langs}}
+    <button class="theme-btn" type="button" aria-label="{{themeToggle}}" title="{{themeToggle}}">
+      <span class="theme-sun" aria-hidden="true">☀</span><span class="theme-moon" aria-hidden="true">🌙</span>
+    </button>
     {{savedLink}}
     <button class="nav-toggle" type="button" aria-label="{{menuOpen}}" aria-expanded="false">☰</button>
     <nav class="nav">

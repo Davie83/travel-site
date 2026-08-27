@@ -1043,6 +1043,7 @@ function renderPage(o) {
     base:        base,                                  // 최상단까지 (assets 용)
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
     homeHref:    linkTo(base + localeDir(o.code)),
+    themeToggle: escapeHtml(I18N[o.code].themeToggle),
     nav:         navHTML(o.current, base, o.code, I18N[o.code]),
     savedLink:   savedLinkHTML(base, o.code, I18N[o.code]),
     v:           ASSET_V,

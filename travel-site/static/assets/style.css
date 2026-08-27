@@ -1264,3 +1264,24 @@ body.nm-open{overflow:hidden;}
 }
 .tagchip:hover{border-color:var(--line-hard);color:var(--ink);}
 .tagchip::before{content:"#";opacity:.45;margin-right:1px;}
+
+/* ── 테마 전환 버튼 (☀ / 🌙) ─────────────────────────────────────────
+   기본은 기기 설정을 따르고, 누르면 그때부터 고른 값을 기억합니다.
+   버튼에는 "지금 상태"가 아니라 "누르면 될 상태"를 보여줍니다 —
+   어두운 화면에서 ☀ 가 보이면 "밝게 바꾸기"로 읽힙니다.          */
+.theme-btn{
+  flex:0 0 auto;font:inherit;cursor:pointer;line-height:1;
+  width:32px;height:32px;padding:0;
+  display:inline-flex;align-items:center;justify-content:center;
+  border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);color:var(--ink);
+  transition:border-color .14s ease,transform .14s ease;
+}
+.theme-btn:hover{border-color:var(--line-hard);transform:translateY(-1px);}
+.theme-btn:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
+.theme-btn span{font-size:14px;}
+/* 어두운 화면에서는 ☀(밝게 가기), 밝은 화면에서는 🌙(어둡게 가기) */
+.theme-btn .theme-sun{display:none;}
+.theme-btn .theme-moon{display:inline;}
+.theme-btn.is-dark .theme-sun{display:inline;}
+.theme-btn.is-dark .theme-moon{display:none;}

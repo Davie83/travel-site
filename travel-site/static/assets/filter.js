@@ -607,3 +607,52 @@
     slot.hidden = false;
   }
 })();
+
+
+/* ==========================================================================
+   테마 전환 (☀ / 🌙)
+   --------------------------------------------------------------------------
+   기본은 기기 설정을 따릅니다. 버튼을 누른 뒤부터는 고른 값을 기억합니다.
+   첫 그림이 그려지기 전의 처리는 base.html 의 인라인 스크립트가 합니다.
+   ========================================================================== */
+(function () {
+  'use strict';
+  var btn = document.querySelector('.theme-btn');
+  if (!btn) return;
+
+  function current() {
+    var set = document.documentElement.getAttribute('data-theme');
+    if (set === 'dark' || set === 'light') return set;
+    // 아직 고른 적이 없으면 기기 설정이 지금 무엇인지 봅니다
+    return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)
+      ? 'dark' : 'light';
+  }
+
+  function paint() {
+    var dark = current() === 'dark';
+    // 버튼에는 "지금 상태"가 아니라 "누르면 될 상태"를 보여줍니다
+    btn.classList.toggle('is-dark', dark);
+    btn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+  }
+
+  btn.addEventListener('click', function () {
+    var next = current() === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('kfoodtrip.theme', next); } catch (e) {}
+    paint();
+  });
+
+  // 아직 고른 적이 없는 방문자는 기기 설정이 바뀌면 따라갑니다
+  if (window.matchMedia) {
+    var mq = window.matchMedia('(prefers-color-scheme: dark)');
+    var onChange = function () {
+      var saved = null;
+      try { saved = localStorage.getItem('kfoodtrip.theme'); } catch (e) {}
+      if (!saved) paint();
+    };
+    if (mq.addEventListener) mq.addEventListener('change', onChange);
+    else if (mq.addListener) mq.addListener(onChange);
+  }
+
+  paint();
+})();

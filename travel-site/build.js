@@ -809,6 +809,73 @@ function authorLd(code) {
   return { '@type': 'Person', name: a.name, url: a.mapsProfile, sameAs: [a.mapsProfile] };
 }
 
+/** 이 글이 소개하는 실제 장소 (구조화 데이터).
+ *  food → Restaurant, 여행지(travel) → TouristAttraction. 둘 다 schema.org Place 하위입니다.
+ *  프론트매터에 이미 있는 값(주소·좌표·지도·사진·전화)만 씁니다.
+ *  영업시간·가격처럼 "잦은 변동으로 확인 필요"가 붙는 값과 별점(aggregateRating)은 넣지 않습니다 —
+ *  확인되지 않은 것을 사실처럼 구조화하지 않는다는 사이트 원칙과 같고,
+ *  검증 불가한 자체 별점은 구글 정책 위반 위험이 있습니다. */
+function placeLd(m, pageUrl) {
+  const node = {
+    '@type': m.cat === 'food' ? 'Restaurant' : 'TouristAttraction',
+    '@id':   pageUrl + '#place',
+    name:    m.title,
+    url:     pageUrl
+  };
+  if (m.excerpt) node.description = m.excerpt;
+  if (m.thumb)   node.image = `${SITE_URL}/${m.thumb}`;
+
+  if (m.addr) {
+    node.address = { '@type': 'PostalAddress', streetAddress: m.addr, addressCountry: 'KR' };
+  }
+  const lat = parseFloat(m.lat), lng = parseFloat(m.lng);
+  if (Number.isFinite(lat) && Number.isFinite(lng)) {
+    node.geo = { '@type': 'GeoCoordinates', latitude: lat, longitude: lng };
+  }
+  if (m.map) node.hasMap = m.map;
+
+  // 전화번호는 info 표 안에 자유 텍스트로만 있습니다 (언어별 라벨은 달라도 숫자는 같음).
+  const tel = (Array.isArray(m.info) ? m.info.join(' ') : '').match(/0\d{1,2}[-\s]?\d{3,4}[-\s]?\d{4}/);
+  if (tel) node.telephone = tel[0].replace(/\s+/g, '');
+
+  return node;
+}
+
+/** 검색결과에 "사이트 › 맛집 › 서울 › 글" 경로를 보여주는 빵부스러기.
+ *  동네(area)는 아직 독립 페이지가 없어 단계에 넣지 않습니다.
+ *  area 페이지를 만들면 지역 다음에 한 단계 추가하세요. */
+function breadcrumbLd(m, code, pageUrl) {
+  const d = localeDir(code), t = I18N[code];
+  const crumbs = [
+    { name: siteName(code),            item: `${SITE_URL}/${d}` },
+    { name: t.category[m.cat] || m.cat, item: `${SITE_URL}/${d}${m.cat}` },
+    { name: regionName(m.region, code), item: `${SITE_URL}/${d}region/${m.region}` },
+    { name: m.title,                    item: pageUrl }
+  ];
+  return {
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((c, i) => ({
+      '@type': 'ListItem', position: i + 1, name: c.name, item: c.item
+    }))
+  };
+}
+
+/** 눈에 보이는 빵부스러기 — 글 상단의 "사이트 › 맛집 › 서울" 경로.
+ *  단계는 breadcrumbLd(JSON-LD) 와 같습니다. 동네(area)는 아직 페이지가 없어 뺍니다.
+ *  마지막(현재 글)은 링크 없이 텍스트로 둡니다. */
+function breadcrumbHTML(m, base, code, t) {
+  const d = localeDir(code);
+  const sep = '<span class="crumb-sep" aria-hidden="true">›</span>';
+  const links = [
+    `<a href="${linkTo(base + d)}">${escapeHtml(siteName(code))}</a>`,
+    `<a href="${base}${d}${escapeHtml(m.cat)}">${escapeHtml(t.category[m.cat] || m.cat)}</a>`,
+    `<a href="${base}${d}region/${escapeHtml(m.region)}">${escapeHtml(regionName(m.region, code))}</a>`
+  ];
+  return `<nav class="crumbs" aria-label="${escapeHtml(t.crumbLabel || 'Breadcrumb')}">`
+    + links.join(sep) + sep
+    + `<span class="crumb-current" aria-current="page">${escapeHtml(m.title)}</span></nav>`;
+}
+
 /** 카테고리 · 지역 · 동네 배지.
  *  전에는 "맛집 · 서울" 처럼 점으로 이었는데, 각각 눌러야 할 정보라 배지로 나눴습니다.
  *  지역만 지역색을 채우고 나머지는 테두리만 둡니다 (색을 더 쓰면 시끄러워집니다).
@@ -1257,14 +1324,24 @@ function build() {
 
       const availability = availFor(`posts/${p.slug}.html`, c => hasPost(p.slug, c));
 
+      const pageUrl = `${SITE_URL}/${cleanUrl(out)}`;
       const jsonLd = {
-        '@context': 'https://schema.org', '@type': 'Article',
-        headline: m.title, description: m.excerpt,
-        datePublished: m.date, dateModified: m.updated || m.date,
-        inLanguage: l.htmlLang,
-        author: authorLd(code),
-        publisher: { '@type': 'Organization', name: siteName(code) },
-        mainEntityOfPage: `${SITE_URL}/${out}`
+        '@context': 'https://schema.org',
+        '@graph': [
+          placeLd(m, pageUrl),
+          breadcrumbLd(m, code, pageUrl),
+          {
+            '@type': 'Article',
+            headline: m.title, description: m.excerpt,
+            datePublished: m.date, dateModified: m.updated || m.date,
+            inLanguage: l.htmlLang,
+            author: authorLd(code),
+            publisher: { '@type': 'Organization', name: siteName(code) },
+            image: m.thumb ? `${SITE_URL}/${m.thumb}` : undefined,
+            mainEntityOfPage: pageUrl,
+            about: { '@id': pageUrl + '#place' }
+          }
+        ]
       };
 
       writeFile(out, renderPage({
@@ -1276,6 +1353,7 @@ function build() {
         body: fill(T.post, {
           regionSlug: m.region,
           saveBtn: saveBtnHTML(p.slug, t, true, base, code),
+          breadcrumb: breadcrumbHTML(m, base, code, t),
           badges: badgesHTML(m, base, code, t, true),
           byline: bylineHTML(t),
           spicy: spicyHTML(m, t),

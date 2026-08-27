@@ -49,7 +49,7 @@ This is the practical reason to note the place. **It runs until 12:00 AM.**
 
 Busan keeps late hours, and a real sit-down meal after 10pm is harder to find than you'd think. A pork soup place open this late is genuinely useful.
 
-The flip side: reviews mention that **lunchtime often fills up completely.** Avoid the rush if you can.
+The flip side: **lunchtime often fills up completely.** Avoid the rush if you can.
 
 ## Being straight with you
 

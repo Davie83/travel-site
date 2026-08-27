@@ -37,7 +37,7 @@ Monkfish — anglerfish — is an ugly deep-water fish with firm white flesh. Ko
 
 This restaurant sells that. **It also sells suyuk — the same fish simply poached, with no sauce at all.** Look at the photo: clear broth, bean sprouts, spring onion, a little green chilli, and the fish. Nothing hidden.
 
-Every visit I promise myself I will order the spicy version. **Every visit I give in and order the boiled one.** Plenty of reviews say the spicy one is good too. I still have not checked.
+Every visit I promise myself I will order the spicy version. **Every visit I give in and order the boiled one.** The spicy one is well liked too. I still have not got round to it.
 
 ## The liver is the point
 

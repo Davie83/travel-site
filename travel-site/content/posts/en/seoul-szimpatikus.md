@@ -80,7 +80,7 @@ For a traveller that matters.
 
 ## There are several branches
 
-**Six of them.**
+Besides Seoul Station there are **six branches in total**, including one at Gwanghwamun.
 
 | Branch | Location |
 |---|---|

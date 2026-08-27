@@ -37,7 +37,7 @@ Drinking coffee and looking at a river from inside a national legislature is not
 ## Two views
 
 - **The window wall** — sit inside and the whole river fills the glass
-- **The rooftop terrace** — the main photo. Artificial turf, parasols and chairs, with the Mapo and Hapjeong skyline open across the water
+- **The rooftop terrace** — artificial turf, parasols and chairs, with the Mapo and Hapjeong skyline open across the water
 
 **Window seats are competitive.** Everyone is waiting for one. Reviews suggest **around 10:00 AM** for a relaxed seat, and going at opening time at weekends.
 

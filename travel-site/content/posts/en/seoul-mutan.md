@@ -65,7 +65,7 @@ Budget **₩20,000–50,000 per person.** The range is wide because it depends e
 
 ## Book before you go
 
-Reviews repeat the same thing: **people who did not book nearly did not get in.** Even a weekday evening fills up.
+**Treat booking as compulsory.** Even a weekday evening fills up.
 
 Google Maps shows a **booking button** on the listing. Use it.
 

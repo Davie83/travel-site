@@ -39,13 +39,13 @@ That is the character of the restaurant. **It does not focus on one fish; it lay
 
 **Like an omakase, a spread of sashimi arrives, together with things you rarely get to eat — sea urchin and assorted shellfish.** The orange lobe in the middle of the photo is sea urchin roe.
 
-Count what is in the main photo alone: tuna, amberjack, salmon, mackerel, flounder, scallop, prawn, whelk, abalone, octopus, sea urchin, flying-fish roe. **The fish itself is good, too.**
+Count what arrives on one table: tuna, amberjack, salmon, mackerel, flounder, scallop, prawn, whelk, abalone, octopus, sea urchin, flying-fish roe. **The fish itself is good, too.**
 
 **This is not a place you go for one particular thing. It is a place to taste widely across seafood.**
 
 ## You can build your own sushi
 
-The second photo shows the full table. **Rice and dried seaweed come with it.**
+The photo shows the full table. **Rice and dried seaweed come with it.**
 
 So you can **lay rice and a slice of fish on the seaweed and eat it like sushi.** When plain sashimi starts to feel repetitive, you can switch method — one table, two ways of eating.
 

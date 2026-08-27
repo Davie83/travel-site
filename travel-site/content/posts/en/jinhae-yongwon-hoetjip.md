@@ -45,15 +45,15 @@ That white, folded lobe in the middle of the photo is **milt** — the sperm sac
 
 **You will fall for it.** For fresh cod, that is.
 
-Reviews repeat the same thing — "had the soup and the cod pancake", "the cod course is highly recommended". The soup alone is good, but going through the sashimi and the pancake shows you how many faces one fish has.
+Soup with the cod pancake alongside is the most common order here. The soup alone is good, but going through the sashimi and the pancake shows you how many faces one fish has.
 
 ## Honestly — the price and the season
 
 **Two things to know in advance.**
 
-**1. It may strain your budget.** Google Maps puts it at 20,000~30,000 KRW per person, and several reviews mention that prices have risen a lot. **Fresh cod is an expensive fish.** As one review puts it, treat it as a once-a-year restorative meal and it sits easier.
+**1. It may strain your budget.** Budget 20,000~30,000 KRW per person, and expect that to climb year on year. **Fresh cod is an expensive fish.** Treat it as a once-a-year restorative meal and it sits easier.
 
-**2. Fresh cod is a winter fish.** This matters more. Multiple reviews say the cod soup is famous "once winter comes". **If you go in summer, the fresh cod soup may not be available.** Cold raw fish soup is what gets mentioned then, and flounder-mugwort soup in spring.
+**2. Fresh cod is a winter fish.** This matters more. The cod soup is what this place is known for **once winter comes.** **If you go in summer, the fresh cod soup may not be available.** Cold raw fish soup takes its place then, and flounder-mugwort soup in spring.
 
 If you are travelling far, **call first and ask whether fresh cod is on today.**
 

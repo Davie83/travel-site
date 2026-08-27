@@ -40,7 +40,7 @@ I went once around the Covid period on a sudden craving and found it temporarily
 
 That is the most accurate sentence I can write about this place. You do not come here for high gastronomy. This is **the kind of food that goes with a daytime drink** — okonomiyaki is closer to a good beer snack than a serious meal.
 
-The bottle of Asahi in the first photo is the whole picture.
+Add a bottle of Asahi and the picture is complete.
 
 ## I have been to the Osaka original too
 
@@ -56,11 +56,11 @@ The brand traces back to **"Fugetsu", opened in Tenma, Osaka in 1950**; the bran
 
 The photos show the sequence.
 
-1. The batter and shredded cabbage land on the plate in a tall mound (first photo)
-2. It gets pressed down and shaped into a round (second photo)
+1. The batter and shredded cabbage land on the plate in a tall mound
+2. It gets pressed down and shaped into a round
 3. Sauce and mayonnaise go on, finished with bonito flakes
 
-The thing buried under bonito flakes at the top of the second photo is a rolled omelette we ordered alongside.
+The thing buried under bonito flakes at the top of the photo is a rolled omelette we ordered alongside.
 
 ## Before you go — two things
 

@@ -37,11 +37,11 @@ This is the dish Koreans think of **when they want soju.** Not everyday food —
 
 ## Order the salt version first
 
-I prefer the **salt-grilled** one. That is the main photo — no marinade, just salt, grilled with oyster mushrooms and rice cake.
+I prefer the **salt-grilled** one — no marinade, just salt, grilled with oyster mushrooms and rice cake.
 
 Without a marinade you taste the fish itself and feel the texture directly. For a first time, this is the right choice.
 
-**The spicy marinated version is well liked too.** That is the red one in the second photo, with garlic scapes, grilled almost like a stir-fry. People I go with order this one happily. Getting both and splitting them works.
+**The spicy marinated version is well liked too.** That is the red one in the photo, with garlic scapes, grilled almost like a stir-fry. People I go with order this one happily. Getting both and splitting them works.
 
 Rice cake and mushrooms go on the grill too. On the spicy side the rice cake soaks up the marinade and becomes its own thing.
 

@@ -840,8 +840,22 @@ function authorLd(code) {
  *  대시 뒤에는 항상 공백이 있고, 앞에는 없을 수도 있습니다
  *  (일부 일본어·중국어 제목은 "河東館）— 설명" 처럼 괄호에 붙습니다).
  *  구분자(— 또는 –)가 없으면 제목을 그대로 씁니다. */
+function titleParts(title) {
+  const s = String(title);
+  const sep = s.match(/\s*[—–]\s+/);
+  if (!sep || sep.index === 0) return { name: s.trim(), sub: '' };
+  return { name: s.slice(0, sep.index).trim(), sub: s.slice(sep.index + sep[0].length).trim() };
+}
 function shortTitle(title) {
-  return String(title).split(/\s*[—–]\s+/)[0].trim() || String(title);
+  return titleParts(title).name || String(title);
+}
+/** 제목을 화면용 두 조각 HTML 로 — 이름(대시 앞)은 크게, 설명(대시 뒤)은 작게.
+    <title>·OG 등 메타에는 쓰지 않습니다. 거기서는 원래 제목 문자열을 그대로 씁니다. */
+function titleHTML(title) {
+  const { name, sub } = titleParts(title);
+  return sub
+    ? `<span class="t-name">${escapeHtml(name)}</span><span class="t-sub">${escapeHtml(sub)}</span>`
+    : `<span class="t-name">${escapeHtml(name)}</span>`;
 }
 
 /** 이 글이 소개하는 실제 장소 (구조화 데이터).
@@ -1082,6 +1096,19 @@ function badgesHTML(m, base, code, t, linked) {
   return `<div class="badges">${rows.join('')}</div>`;
 }
 
+/** 카드용 매운맛 칩 — 고추만, 글자 없이. 상세의 spicyHTML 과 같은 기준입니다.
+    0(안 매움)과 값 없음은 카드에서 생략합니다 — 칸이 좁고, 칩이 없으면 "매운 집 아님"으로 읽힙니다. */
+function cardSpicyHTML(m, t) {
+  if (m.cat !== 'food') return '';
+  const n = Number(m.spicy);
+  if (!Number.isInteger(n) || n < 1 || n > 5) return '';
+  const name = (t.spicyNames || [])[n] || '';
+  const aria = typeof t.spicyAria === 'function' ? t.spicyAria(n, name) : `${t.spicyLabel} ${n}/5`;
+  const peppers = Array.from({ length: 5 }, (_, i) =>
+    `<b class="${i < n ? 'on' : 'off'}">🌶</b>`).join('');
+  return `<span class="card-spicy spicy-${n}" role="img" aria-label="${escapeHtml(aria)}">${peppers}</span>`;
+}
+
 function cardHTML(post, base, code, t) {
   const m = post.meta;
   const d = localeDir(code);
@@ -1102,9 +1129,9 @@ function cardHTML(post, base, code, t) {
           <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">
-              <h3>${escapeHtml(m.title)}</h3>
+              <h3>${titleHTML(m.title)}</h3>
               <p>${escapeHtml(m.excerpt)}</p>
-              <div class="card-meta"><span class="badge badge-region" style="--r:var(--region-${escapeHtml(m.region)})">${escapeHtml(rname)}</span>${aname ? `<span class="badge">${escapeHtml(aname)}</span>` : ''}<time class="card-date">${String(m.date).replace(/-/g, '.')}</time></div>
+              <div class="card-meta"><span class="badge badge-region" style="--r:var(--region-${escapeHtml(m.region)})">${escapeHtml(rname)}</span>${aname ? `<span class="badge">${escapeHtml(aname)}</span>` : ''}${cardSpicyHTML(m, t)}<time class="card-date">${String(m.date).replace(/-/g, '.')}</time></div>
             </div>
           </a>
           ${saveBtnHTML(post.slug, t, false)}
@@ -1667,7 +1694,7 @@ function build() {
           dayNames: escapeHtml(t.routeDayNames),
           closedTodayTpl: escapeHtml(t.closedTodayTpl),
           regionHref: `${base}${d}region/${m.region}`,
-          title: escapeHtml(m.title),
+          title: titleHTML(m.title),
           // 방문 시점은 표기하지 않습니다.
           // 대신 확실하지 않은 항목에 (잦은 변동으로 확인 필요) 를 붙입니다.
           meta: `${String(m.date).replace(/-/g, '.')} ${escapeHtml(t.published)}`,

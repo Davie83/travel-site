@@ -366,8 +366,15 @@ a.more{color:var(--ink);font-weight:600;}
 .card-body{padding:13px 14px 14px;display:flex;flex-direction:column;gap:7px;flex:1;}
 .card-body h3{
   margin:0;font-size:15.5px;line-height:1.45;letter-spacing:-.02em;font-weight:700;
+}
+/* 제목 2단 — 대시 앞 이름 / 대시 뒤 설명. 각 조각을 따로 2줄까지 자릅니다. */
+.card-body h3 .t-name{
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
-  text-wrap:balance;   /* 두 줄로 넘어갈 때 줄 길이를 비슷하게 */
+  text-wrap:balance;
+}
+.card-body h3 .t-sub{
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  margin-top:3px;font-size:12.5px;font-weight:600;line-height:1.45;color:var(--ink-mute);
 }
 .card-body p{
   margin:0;font-size:13px;color:var(--ink-mute);line-height:1.6;flex:1;
@@ -430,6 +437,13 @@ a.more{color:var(--ink);font-weight:600;}
 .post-head h1{
   margin:10px 0 12px;font-size:clamp(25px,4.4vw,34px);line-height:1.28;
   letter-spacing:-.04em;font-weight:800;text-wrap:balance;
+}
+/* 제목 2단 — 대시 앞 이름은 크게(위), 대시 뒤 설명은 작게(아래) */
+.post-head h1 .t-name{display:block;}
+.post-head h1 .t-sub{
+  display:block;margin-top:7px;
+  font-size:.6em;font-weight:600;line-height:1.4;
+  letter-spacing:-.02em;color:var(--ink-mute);text-wrap:pretty;
 }
 .post-head .meta{color:var(--ink-mute);font-size:13.5px;margin:0;font-family:var(--en);}
 /* 빵부스러기 — 글 상단의 "사이트 › 맛집 › 서울 › 이 글" 경로.
@@ -774,6 +788,10 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 .card-meta{flex-wrap:wrap;row-gap:6px;overflow:visible;}
 .card-meta .badge{font-size:11px;padding:2px 9px;font-weight:700;}
 .card-date{margin-left:auto;font-variant-numeric:tabular-nums;}
+/* 카드 매운맛 칩 — 고추만. 켜진 것/꺼진 것 색 대비는 상세와 동일하게. */
+.card-spicy{display:inline-flex;gap:1px;line-height:1;}
+.card-spicy b{font-size:12px;font-style:normal;font-weight:400;}
+.card-spicy b.off{filter:grayscale(1);opacity:.3;}
 
 /* ==========================================================================
    동선 (/saved 페이지)

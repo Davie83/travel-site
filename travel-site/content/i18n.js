@@ -9,7 +9,7 @@
 module.exports = {
 
   ko: {
-    tagline:     '어디로 가세요?',
+    tagline:     '가봤고, 먹어봤고, 적었습니다',
     description: '한국인이 직접 다녀온 경험 및 맛집 후기 정리합니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
     siteDesc:    '한국 여행지와 맛집 정보. 지역별로 정리했습니다.',
 
@@ -77,7 +77,7 @@ module.exports = {
     comingSoon:   '준비 중',
     empty:        '아직 등록된 글이 없습니다. 준비되는 대로 채워집니다.',
     noResult:     '조건에 맞는 글이 없습니다. 다른 키워드로 찾아보세요.',
-    searchPlaceholder: '지역이나 키워드로 찾기',
+    searchPlaceholder: '지역·음식 검색 (예: 제주, 삼겹살, 국밥)',
     searchTitle:   '검색 결과',
     searchCountTpl: '{n}개가 검색되었습니다',
     searchJump:    '결과 보기',
@@ -154,7 +154,7 @@ module.exports = {
   },
 
   en: {
-    tagline:     'Where are you headed?',
+    tagline:     'Korea — went, ate, wrote it down',
     description: 'Written by a Korean who actually goes to these places — routes, budgets, transit, and when to avoid the crowds. The things worth knowing before you go.',
     siteDesc:    'Honest guides to places and food across Korea, organised by region.',
 
@@ -222,7 +222,7 @@ module.exports = {
     comingSoon:   'Coming soon',
     empty:        'No guides here yet. This region is on the way.',
     noResult:     'Nothing matched. Try a different word.',
-    searchPlaceholder: 'Search a region or keyword',
+    searchPlaceholder: 'Search a place or food (e.g. Jeju, Korean BBQ, gukbap)',
     searchTitle:   'Search results',
     searchCountTpl: '{n} found',
     searchJump:    'See results',
@@ -299,7 +299,7 @@ module.exports = {
   },
 
   ja: {
-    tagline:     'どこへ行きますか？',
+    tagline:     '韓国 — 行って、食べて、書きました',
     description: '韓国人が実際に足を運んでまとめています。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
     siteDesc:    '地域別にまとめた韓国の観光地とグルメ情報。',
 
@@ -367,7 +367,7 @@ module.exports = {
     comingSoon:   '準備中',
     empty:        'まだ記事がありません。順次追加します。',
     noResult:     '該当する記事がありません。別のキーワードでお試しください。',
-    searchPlaceholder: '地域やキーワードで検索',
+    searchPlaceholder: '地域・料理で検索（例：済州、サムギョプサル、クッパ）',
     searchTitle:   '検索結果',
     searchCountTpl: '{n}件見つかりました',
     searchJump:    '結果を見る',
@@ -444,7 +444,7 @@ module.exports = {
   },
 
   zh: {
-    tagline:     '想去哪裡？',
+    tagline:     '韓國 — 親自去、親自吃、親自寫',
     description: '由韓國在地人親自走過後整理。路線、預算、交通、避開人潮的時間，都是出發前值得知道的事。',
     siteDesc:    '按地區整理的韓國景點與美食指南。',
 
@@ -512,7 +512,7 @@ module.exports = {
     comingSoon:   '籌備中',
     empty:        '這個地區還沒有文章，正在陸續補充。',
     noResult:     '沒有找到符合的文章，換個關鍵字試試。',
-    searchPlaceholder: '搜尋地區或關鍵字',
+    searchPlaceholder: '搜尋地區或料理（例：濟州、韓式烤肉、湯飯）',
     searchTitle:   '搜尋結果',
     searchCountTpl: '共找到 {n} 篇',
     searchJump:    '查看結果',

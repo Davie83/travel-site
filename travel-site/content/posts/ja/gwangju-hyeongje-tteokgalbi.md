@@ -2,6 +2,7 @@
 title: 兄弟松汀トッカルビ 本店 — ハンバーグではなく、ほろほろの本来のトッカルビ
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-28
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg

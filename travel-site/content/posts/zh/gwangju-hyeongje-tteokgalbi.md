@@ -2,6 +2,7 @@
 title: 兄弟松汀年糕排骨 本店 — 不是漢堡排，是入口即化的原味年糕排骨
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-28
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg

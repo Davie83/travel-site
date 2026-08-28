@@ -2,6 +2,7 @@
 title: 형제송정떡갈비 본점 — 함박스테이크 아닌, 부들부들한 본연의 떡갈비
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-28
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg

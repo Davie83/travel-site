@@ -2,6 +2,7 @@
 title: Hyeongje Songjeong Tteok-galbi, Gwangju — Soft and Loose, Not a Hamburg Steak
 cat: food
 region: jeolla
+area: jeonnam
 date: 2026-08-28
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg

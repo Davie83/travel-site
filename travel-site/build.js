@@ -672,10 +672,16 @@ function orderHTML(m, t) {
   if (m.cat !== 'food' || !m.order) return '';
   const roman = m.orderRoman
     ? `<span class="order-roman">${escapeHtml(m.orderRoman)}</span>` : '';
+  // 듣기 버튼은 기본으로 숨겨 두고, 브라우저가 음성합성을 지원할 때만 filter.js 가 켭니다
+  // (지원하지 않는 곳에서 눌러도 반응 없는 버튼이 보이지 않도록).
+  const say = t.orderSay
+    ? `<button class="order-say" type="button" hidden data-say="${escapeHtml(m.order)}"` +
+      ` aria-label="${escapeHtml(t.orderSay)}">🔊 <span>${escapeHtml(t.orderSay)}</span></button>`
+    : '';
   return `      <div class="order-card">` +
     `<span class="order-label">${escapeHtml(t.orderLabel)}</span>` +
     `<strong class="order-ko" lang="ko">${escapeHtml(m.order)}</strong>` +
-    roman +
+    roman + say +
     `<span class="order-hint">${escapeHtml(t.orderHint)}</span></div>`;
 }
 /** 추천 코스 버튼 — 동선을 처음 쓰는 사람이 한 곳씩 담지 않아도 되게 합니다.

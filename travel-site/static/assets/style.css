@@ -1122,6 +1122,18 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
   word-break:keep-all;}
 .order-roman{font-size:.9rem;color:var(--ink-mid);}
 .order-hint{font-size:.78rem;color:var(--ink-mute);margin-top:2px;}
+/* 듣기 버튼 — 지원 브라우저에서만 filter.js 가 hidden 을 풉니다 */
+.order-say{
+  align-self:flex-start;margin-top:8px;
+  display:inline-flex;align-items:center;gap:6px;
+  padding:6px 13px;border-radius:999px;
+  border:1px solid var(--line-hard);background:var(--ground);
+  color:var(--ink);font:inherit;font-size:.82rem;font-weight:700;
+  cursor:pointer;-webkit-tap-highlight-color:transparent;
+}
+.order-say:hover{border-color:var(--ink);}
+.order-say.is-speaking{background:var(--ink);color:var(--ground);border-color:var(--ink);}
+.order-say[hidden]{display:none;}
 
 /* ── 오늘 휴무 알림 (글 상세 맨 위) ─────────────────────────────────
    방문자 브라우저에서 요일을 확인해 assets/saved.js 가 켭니다.

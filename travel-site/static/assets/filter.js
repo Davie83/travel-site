@@ -654,3 +654,53 @@
 
   paint();
 })();
+
+
+/* ==========================================================================
+   주문 문장 듣기 — 브라우저 내장 음성합성(Web Speech API)
+   --------------------------------------------------------------------------
+   글 상세의 주문 카드(.order-say)에서만 씁니다. 지원하지 않는 브라우저에서는
+   버튼을 숨긴 채로 둡니다. 목소리·오디오는 방문자 기기 것만 쓰고 아무것도 보내지 않습니다.
+   ========================================================================== */
+(function () {
+  'use strict';
+  var btn = document.querySelector('.order-say');
+  if (!btn) return;
+
+  var synth = window.speechSynthesis;
+  if (!synth || typeof window.SpeechSynthesisUtterance === 'undefined') return;
+
+  btn.hidden = false;
+
+  var speaking = false;
+  function stop() {
+    speaking = false;
+    btn.classList.remove('is-speaking');
+  }
+
+  btn.addEventListener('click', function () {
+    var text = btn.getAttribute('data-say') || '';
+    if (!text) return;
+    // 읽는 중에 다시 누르면 멈춥니다
+    synth.cancel();
+    if (speaking) { stop(); return; }
+
+    var u = new window.SpeechSynthesisUtterance(text);
+    u.lang = 'ko-KR';
+    u.rate = 0.9;
+    var voices = synth.getVoices() || [];
+    for (var i = 0; i < voices.length; i++) {
+      if (/^ko(-|_|$)/i.test(voices[i].lang || '')) { u.voice = voices[i]; break; }
+    }
+    u.onend = stop;
+    u.onerror = stop;
+    speaking = true;
+    btn.classList.add('is-speaking');
+    synth.speak(u);
+  });
+
+  // 페이지를 떠날 때 읽던 것을 멈춥니다
+  window.addEventListener('pagehide', function () {
+    try { synth.cancel(); } catch (e) {}
+  });
+})();

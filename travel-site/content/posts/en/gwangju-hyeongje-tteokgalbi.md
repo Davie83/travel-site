@@ -11,7 +11,7 @@ tags: [Gwangju, Songjeong, Gwangsan-gu, tteok-galbi, beef tteok-galbi, pork tteo
 map: https://www.google.com/maps/search/?api=1&query=%ed%98%95%ec%a0%9c%ec%86%a1%ec%a0%95%eb%96%a1%ea%b0%88%eb%b9%84+%ea%b4%91%ec%82%b0%ea%b5%ac
 info:
   - Restaurant|Hyeongje Songjeong Tteok-galbi (형제송정떡갈비) — main branch
-  - Location|Gwangsan-gu, Gwangju — the **tteok-galbi alley** between Gwangju Songjeong Station and Gwangsan-gu Office
+  - Location|Gwangsan-gu, Jeonnam-Gwangju — the **tteok-galbi alley** between Gwangju Songjeong Station and Gwangsan-gu Office
   - What I ordered|**Beef tteok-galbi · pork tteok-galbi** (one serving each)
   - Comes free|**Clear pork-bone soup** — the pork spine used for gamja-tang, with a fair amount of meat still on it
   - Hours · prices · closing day|Not confirmed (changes often — please verify)

@@ -84,7 +84,7 @@ module.exports = {
       names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全罗' },
       areas: [
         { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' } },
-        { slug: 'jeonnam', names: { ko: '전남광주', en: 'Jeonnam & Gwangju', ja: '全南・光州', zh: '全南·光州' } }
+        { slug: 'jeonnam', names: { ko: '전남광주', en: 'Jeonnam-Gwangju', ja: '全南光州', zh: '全南光州' } }
       ] },
     { slug: 'gyeongsang',  color: '#993633', colorDark: '#e39996',   // 벽돌
       names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '庆尚' },

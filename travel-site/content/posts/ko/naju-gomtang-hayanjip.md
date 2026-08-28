@@ -11,14 +11,14 @@ tags: [전남, 나주, 곰탕, 나주곰탕, 수육, 국밥]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 lat: 35.0322553
 lng: 126.7170750
-addr: 전남 나주시 금성관길 6-1
+addr: 전남광주 나주시 금성관길 6-1
 closed: none
 spicy: 0
 order: 나주곰탕 주세요
 orderRoman: Naju-gomtang juseyo
 info:
   - 가게|나주곰탕 하얀집 본점
-  - 위치|전남 나주시 금성관길 6-1
+  - 위치|전남광주 나주시 금성관길 6-1
   - 전화|061-333-4292
   - 영업 시간|**오전 8:00 ~ 오후 8:00** · (휴무 정보 없음)
   - 1인 예산|**1~2만 원** (잦은 변동으로 확인 필요)

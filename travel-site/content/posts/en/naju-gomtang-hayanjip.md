@@ -11,7 +11,7 @@ tags: [Jeolla, Naju, gomtang, beef soup, suyuk, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:
   - Restaurant|Naju Gomtang Hayanjip, main branch (나주곰탕 하얀집)
-  - Location|6-1 Geumseonggwan-gil, Naju, Jeonnam
+  - Location|6-1 Geumseonggwan-gil, Naju, Jeonnam-Gwangju
   - Phone|061-333-4292
   - Hours|**8:00 AM ~ 8:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

@@ -483,7 +483,14 @@
     }, function () {
       btn.disabled = false;
       if (msg) msg.textContent = T.deny;
-    }, { enableHighAccuracy: false, timeout: 8000, maximumAge: 300000 });
+    }, {
+      // enableHighAccuracy: true — GPS/Wi-Fi 로 잡습니다. false 면 한국 모바일 데이터에서
+      //   IP 위치(통신사 게이트웨이 = 대부분 서울)로 떨어져, 제주에 있어도 서울로 잡힙니다.
+      // maximumAge: 0 — "지금 어디" 를 묻는 기능이라 캐시된 위치는 받지 않습니다.
+      enableHighAccuracy: true,
+      timeout: 12000,
+      maximumAge: 0
+    });
   });
 
   if (elClose) elClose.addEventListener('click', close);

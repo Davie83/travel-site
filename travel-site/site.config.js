@@ -226,6 +226,12 @@ module.exports = {
      slug 는 영어 검색어에 맞춥니다 (korean-bbq, korean-soup …).            */
   genrePageMin: 3,
 
+  /* ---- 동네(area) 개별 페이지 --------------------------------------
+     각 region 안의 areas 마다 /en/seoul/myeongdong 같은 페이지를 만듭니다.
+     글이 이 개수 이상인 동네만 검색에 노출합니다 (그 미만은 noindex).
+     "명동 맛집" 처럼 관광객은 지역보다 동네로 검색합니다.              */
+  areaPageMin: 2,
+
   /* ---- 여행 팁 개별 페이지 --------------------------------------------
      tips.md 는 한 파일이지만, 빌드가 "## 제목 {#슬러그}" 섹션마다
      /en/tips/transport 같은 개별 페이지를 만듭니다 (허브 = /en/tips).

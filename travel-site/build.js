@@ -63,6 +63,9 @@ const GENRE_PAGE_MIN = Number.isInteger(site.genrePageMin) ? site.genrePageMin :
 /* 여행 팁: 이 슬러그의 섹션만 개별 페이지를 검색에 노출합니다 (나머지는 noindex). */
 const TIPS_PAGES = new Set(Array.isArray(site.tipsPages) ? site.tipsPages : []);
 
+/* 동네 페이지: 글이 이 개수 이상인 동네만 색인에 노출합니다. */
+const AREA_PAGE_MIN = Number.isInteger(site.areaPageMin) ? site.areaPageMin : 2;
+
 /* ==========================================================================
    1. 유틸
    ========================================================================== */
@@ -873,22 +876,22 @@ function placeLd(m, pageUrl) {
   return node;
 }
 
-/** 검색결과에 "사이트 › 맛집 › 서울 › 글" 경로를 보여주는 빵부스러기.
- *  동네(area)는 아직 독립 페이지가 없어 단계에 넣지 않습니다.
- *  area 페이지를 만들면 지역 다음에 한 단계 추가하세요. */
+/** 검색결과에 "사이트 › 맛집 › 서울 › 명동 › 글" 경로를 보여주는 빵부스러기.
+ *  맛집 글은 두 번째 단계가 'Food' 대신 음식 장르. 동네(area)가 있으면 지역 다음에 한 단계. */
 function breadcrumbLd(m, code, pageUrl) {
   const d = localeDir(code), t = I18N[code];
-  // 맛집 글은 두 번째 단계가 'Food' 대신 음식 장르 (있을 때).
   const g = genreOf(m);
   const second = g
     ? { name: genreName(g, code),       item: `${SITE_URL}/${d}food/${g.slug}` }
     : { name: t.category[m.cat] || m.cat, item: `${SITE_URL}/${d}${m.cat}` };
+  const an = m.area ? areaName(m.region, m.area, code) : '';
   const crumbs = [
     { name: siteName(code),            item: `${SITE_URL}/${d}` },
     second,
-    { name: regionName(m.region, code), item: `${SITE_URL}/${d}region/${m.region}` },
-    { name: shortTitle(m.title),        item: pageUrl }
+    { name: regionName(m.region, code), item: `${SITE_URL}/${d}region/${m.region}` }
   ];
+  if (an) crumbs.push({ name: an, item: `${SITE_URL}/${d}${m.region}/${m.area}` });
+  crumbs.push({ name: shortTitle(m.title), item: pageUrl });
   return {
     '@type': 'BreadcrumbList',
     itemListElement: crumbs.map((c, i) => ({
@@ -934,9 +937,8 @@ function genrePageLd(g, code, list, out) {
   };
 }
 
-/** 눈에 보이는 빵부스러기 — 글 상단의 "사이트 › 맛집 › 서울" 경로.
- *  단계는 breadcrumbLd(JSON-LD) 와 같습니다. 동네(area)는 아직 페이지가 없어 뺍니다.
- *  마지막(현재 글)은 링크 없이 텍스트로 둡니다. */
+/** 눈에 보이는 빵부스러기 — 글 상단의 "사이트 › 맛집 › 서울 › 명동" 경로.
+ *  단계는 breadcrumbLd(JSON-LD) 와 같습니다. 마지막(현재 글)은 링크 없이 텍스트. */
 function breadcrumbHTML(m, base, code, t) {
   const d = localeDir(code);
   const sep = '<span class="crumb-sep" aria-hidden="true">›</span>';
@@ -949,6 +951,8 @@ function breadcrumbHTML(m, base, code, t) {
     second,
     `<a href="${base}${d}region/${escapeHtml(m.region)}">${escapeHtml(regionName(m.region, code))}</a>`
   ];
+  const an = m.area ? areaName(m.region, m.area, code) : '';
+  if (an) links.push(`<a href="${base}${d}${escapeHtml(m.region)}/${escapeHtml(m.area)}">${escapeHtml(an)}</a>`);
   return `<nav class="crumbs" aria-label="${escapeHtml(t.crumbLabel || 'Breadcrumb')}">`
     + links.join(sep) + sep
     + `<span class="crumb-current" aria-current="page">${escapeHtml(shortTitle(m.title))}</span></nav>`;
@@ -1072,7 +1076,9 @@ function badgesHTML(m, base, code, t, linked) {
   rows.push(linked
     ? `<a class="badge badge-region" href="${base}${d}region/${rs}" style="--r:var(--region-${rs})">${rn}</a>`
     : `<span class="badge badge-region" style="--r:var(--region-${rs})">${rn}</span>`);
-  if (an) rows.push(`<span class="badge">${an}</span>`);
+  if (an) rows.push(linked
+    ? `<a class="badge" href="${base}${d}${escapeHtml(m.region)}/${escapeHtml(m.area)}">${an}</a>`
+    : `<span class="badge">${an}</span>`);
   return `<div class="badges">${rows.join('')}</div>`;
 }
 
@@ -1450,17 +1456,14 @@ function build() {
         .map((x, i) => `<button class="rtab${i === 0 ? ' on' : ''}" type="button" data-cat="${x.slug}">${escapeHtml(x.label)}<span class="n">${x.n}</span></button>`)
         .join('\n        ');
 
-      /* 동네 칩 — 글이 있는 동네가 2곳 이상일 때만 보여줍니다.
-         한 곳뿐이면 눌러도 달라지는 게 없어서 자리만 차지합니다. */
+      /* 동네 줄 — 글이 있는 동네가 2곳 이상일 때만. 이제 필터가 아니라
+         각 동네 페이지(/en/seoul/myeongdong)로 가는 링크입니다. */
       const liveAreas = areasOf(r.slug).filter(a => inRegion.some(p => p.meta.area === a.slug));
       const areaChips = liveAreas.length < 2 ? '' :
-        [{ slug: 'all', label: t.all, n: inRegion.length }]
-          .concat(liveAreas.map(a => ({
-            slug: a.slug, label: areaName(r.slug, a.slug, code),
-            n: inRegion.filter(p => p.meta.area === a.slug).length
-          })))
-          .map((x, i) => `<button class="chip achip${i === 0 ? ' active' : ''}" type="button" data-area="${x.slug}">${escapeHtml(x.label)}<span class="n">${x.n}</span></button>`)
-          .join('\n        ');
+        liveAreas.map(a =>
+          `<a class="chip achip" href="${base}${d}${r.slug}/${a.slug}">${escapeHtml(areaName(r.slug, a.slug, code))}` +
+          `<span class="n">${inRegion.filter(p => p.meta.area === a.slug).length}</span></a>`
+        ).join('\n        ');
 
       writeFile(out, renderPage({
         out, code, current: 'home',
@@ -1481,6 +1484,64 @@ function build() {
         })
       }));
       if (inRegion.length) urls.push({ loc: d + `region/${r.slug}.html`, pri: '0.9', freq: 'weekly' });
+    }
+
+    /* ---- 동네 페이지 (/en/seoul/myeongdong 등) ----
+       지역 안의 동네마다. 글이 AREA_PAGE_MIN 개 이상이면 색인, 그 미만은 noindex.
+       region.html 을 재사용합니다 — 색 헤더 + 카테고리 탭이 그대로 붙습니다. */
+    for (const r of site.regions) {
+      for (const a of areasOf(r.slug)) {
+        const inArea = posts.filter(p => p.meta.region === r.slug && p.meta.area === a.slug);
+        if (!inArea.length) continue;
+
+        const out   = d + `${r.slug}/${a.slug}.html`;
+        const base  = baseOf(out);
+        const aName = areaName(r.slug, a.slug, code);
+        const rName = regionName(r.slug, code);
+        const title = String(t.areaTitleTpl).replace('{area}', aName).replace('{region}', rName);
+        const desc  = String(t.areaDescTpl).replace('{area}', aName).replace('{region}', rName);
+        const indexed = inArea.length >= AREA_PAGE_MIN;
+        const areaUrl = `${SITE_URL}/${cleanUrl(out)}`;
+
+        const tabs = [{ slug: 'all', label: t.all, n: inArea.length }]
+          .concat(site.categories.map(c => ({
+            slug: c.slug, label: t.category[c.slug], n: inArea.filter(p => p.meta.cat === c.slug).length
+          })))
+          .map((x, i) => `<button class="rtab${i === 0 ? ' on' : ''}" type="button" data-cat="${x.slug}">${escapeHtml(x.label)}<span class="n">${x.n}</span></button>`)
+          .join('\n        ');
+
+        writeFile(out, renderPage({
+          out, code, current: 'home', noindex: !indexed,
+          title: `${title} — ${siteName(code)}`,
+          description: desc,
+          availability: availFor(`${r.slug}/${a.slug}.html`,
+            c => byLocale[c].posts.some(p => p.meta.region === r.slug && p.meta.area === a.slug)),
+          headExtra: `<script type="application/ld+json">${JSON.stringify({
+            '@context': 'https://schema.org',
+            '@graph': [
+              { '@type': 'CollectionPage', '@id': areaUrl, url: areaUrl, name: title,
+                inLanguage: l.htmlLang,
+                isPartOf: { '@type': 'WebSite', name: siteName(code), url: `${SITE_URL}/${d}` } },
+              { '@type': 'BreadcrumbList', itemListElement: [
+                  { name: siteName(code), item: `${SITE_URL}/${d}` },
+                  { name: rName,          item: `${SITE_URL}/${d}region/${r.slug}` },
+                  { name: aName,          item: areaUrl }
+                ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })) }
+            ]
+          })}</script>`,
+          body: fill(T.region, {
+            regionSlug: r.slug,
+            regionName: escapeHtml(aName),
+            regionEn: escapeHtml(a.slug),
+            tabs: tabs,
+            areaChips: '',
+            cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
+            noResult: escapeHtml(t.noResult),
+            adTop: adSlotHTML('area-top'), adBottom: adSlotHTML('area-bottom')
+          })
+        }));
+        if (indexed) urls.push({ loc: out, pri: '0.75', freq: 'weekly' });
+      }
     }
 
     /* ---- 카테고리 목록 (여행지 / 맛집) ---- */

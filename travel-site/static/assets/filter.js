@@ -113,16 +113,7 @@
       });
     }
 
-    if (areaBox) {
-      areaBox.addEventListener('click', e => {
-        const btn = e.target.closest('.achip');
-        if (!btn) return;
-        areaBox.querySelectorAll('.achip').forEach(c => c.classList.remove('active'));
-        btn.classList.add('active');
-        state.area = btn.dataset.area;
-        apply();
-      });
-    }
+    // 동네 칩은 이제 필터가 아니라 동네 페이지(/en/seoul/myeongdong)로 가는 링크입니다.
 
     if (tabBox) {
       tabBox.addEventListener('click', e => {

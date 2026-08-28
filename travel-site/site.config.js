@@ -225,6 +225,15 @@ module.exports = {
              (/en/food/korean-bbq 등)로 만들어집니다. 그 미만은 noindex.
      slug 는 영어 검색어에 맞춥니다 (korean-bbq, korean-soup …).            */
   genrePageMin: 3,
+
+  /* ---- 여행 팁 개별 페이지 --------------------------------------------
+     tips.md 는 한 파일이지만, 빌드가 "## 제목 {#슬러그}" 섹션마다
+     /en/tips/transport 같은 개별 페이지를 만듭니다 (허브 = /en/tips).
+     아래 슬러그(= tips.md 의 {#...})만 검색에 노출합니다. 나머지 섹션도
+     개별 페이지는 생기지만 noindex 라서 허브·빵부스러기 링크로만 닿습니다.
+     "이 주제로 검색 유입을 노린다" 싶은 것만 고르세요.                */
+  tipsPages: ['transport', 'money', 'maps', 'help', 'dining', 'tipping', 'firstday'],
+
   genres: [
     { slug: 'korean-bbq',       emoji: '🍖',
       names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韩式烤肉' },

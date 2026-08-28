@@ -60,6 +60,9 @@ const LOCALES    = site.locales.filter(l => l.enabled);
 const GENRES = Array.isArray(site.genres) ? site.genres : [];
 const GENRE_PAGE_MIN = Number.isInteger(site.genrePageMin) ? site.genrePageMin : 3;
 
+/* 여행 팁: 이 슬러그의 섹션만 개별 페이지를 검색에 노출합니다 (나머지는 noindex). */
+const TIPS_PAGES = new Set(Array.isArray(site.tipsPages) ? site.tipsPages : []);
+
 /* ==========================================================================
    1. 유틸
    ========================================================================== */
@@ -967,6 +970,53 @@ function genreNavHTML(code, base, countsByGenre, currentSlug) {
   return `      <nav class="genre-nav" aria-label="${escapeHtml(I18N[code].nav.food)}">${items}</nav>`;
 }
 
+/** tips.md 를 섹션별로 쪼갭니다. "## 제목 {#슬러그}" 를 경계로,
+ *  첫 ## 앞은 intro. 반환: { intro, sections:[{slug,title,body}] } */
+function splitTipsSections(body) {
+  const lines = String(body).replace(/\r\n/g, '\n').split('\n');
+  const intro = [];
+  const sections = [];
+  let cur = null;
+  for (const line of lines) {
+    const h = line.match(/^##\s+(.*?)\s*\{#([A-Za-z0-9_-]+)\}\s*$/);
+    if (h) {
+      if (cur) sections.push(cur);
+      cur = { slug: h[2], title: h[1].trim(), body: [] };
+    } else if (cur) {
+      cur.body.push(line);
+    } else {
+      intro.push(line);
+    }
+  }
+  if (cur) sections.push(cur);
+  return {
+    intro: intro.join('\n').trim(),
+    sections: sections.map(s => ({ slug: s.slug, title: s.title, body: s.body.join('\n').trim() }))
+  };
+}
+
+/** 섹션 제목에서 앞 번호("1. ")를 뗍니다 — 개별 페이지에서는 목록 번호가 의미 없습니다. */
+const tipsSectionTitle = raw => String(raw).replace(/^\d+\.\s*/, '').trim();
+
+/** 마크다운을 대충 걷어낸 한 줄 — 개별 팁 페이지의 meta description 용. */
+function plainSummary(md, max) {
+  const line = String(md).split('\n').map(s => s.trim())
+    .find(s => s && !/^[#>|]/.test(s) && !/^[-*]\s/.test(s) && !/^\d+\.\s/.test(s));
+  if (!line) return '';
+  const txt = line.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/[*_`]/g, '').trim();
+  return txt.length > max ? txt.slice(0, max - 1).trim() + '…' : txt;
+}
+
+/** 여행 팁으로 보내는 한 줄 넛지 — 글·장르 페이지에서 씁니다.
+ *  식당을 보다 "가야겠다" 싶은 순간에 도착 첫날 실용 정보로 연결합니다. */
+function tipsNudgeHTML(base, code, t) {
+  const d = localeDir(code);
+  return `    <a class="tips-nudge" href="${base}${d}tips">`
+    + `<span class="tips-nudge-ico" aria-hidden="true">🧭</span>`
+    + `<span class="tips-nudge-text">${escapeHtml(t.tipsNudge)}</span>`
+    + `<span class="tips-nudge-go" aria-hidden="true">→</span></a>`;
+}
+
 /** 홈의 "무엇을 먹지?" 블록 — 음식 장르로 바로 들어가는 카드.
  *  글이 있는 장르만, config 순서(우선순위)대로. noindex 장르도 사람은 눌러서 볼 수
  *  있어야 하니 색인 여부와 상관없이 전부 넣습니다. 장르가 3개 미만이면 아예 안 그립니다. */
@@ -1256,6 +1306,7 @@ function renderPage(o) {
     noindex:     o.noindex ? '<meta name="robots" content="noindex">' : '',
     skip:        escapeHtml(I18N[o.code].skip),
     menuOpen:    escapeHtml(I18N[o.code].menuOpen),
+    footTips:    escapeHtml(I18N[o.code].nav.tips),
     footAbout:   escapeHtml(I18N[o.code].footerAbout),
     footContact: escapeHtml(I18N[o.code].footerContact),
     footPrivacy: escapeHtml(I18N[o.code].footerPrivacy),
@@ -1288,6 +1339,13 @@ function build() {
 
   // 위치 정보(lat/lng/addr/closed)를 한국어 글에서 나머지 언어로 복사합니다
   applyGeo(byLocale);
+
+  // 여행 팁을 섹션별로 쪼개 둡니다 (허브 + 개별 페이지 · hreflang 계산에 필요)
+  const tipsSections = {};
+  for (const l of LOCALES) {
+    const tp = byLocale[l.code].pages.find(p => p.slug === 'tips');
+    tipsSections[l.code] = tp ? splitTipsSections(tp.body).sections : [];
+  }
 
   /** 어떤 페이지가 어떤 언어로 존재하는지 → { ko:'posts/x.html', en:'en/posts/x.html' } */
   const availFor = (relBuilder, existsIn) => {
@@ -1442,6 +1500,7 @@ function build() {
           desc: escapeHtml(t.categoryDesc[c.slug]),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: c.slug === 'food' ? genreNavHTML(code, base, genreCounts, null) : '',
+          tipsNudge: '',
           chips: inCat.length ? regionsHere.map((rs, i) =>
             `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${rs}">${escapeHtml(rs === 'all' ? t.all : regionName(rs, code))}</button>`
           ).join('\n        ') : '',
@@ -1482,6 +1541,7 @@ function build() {
           desc: escapeHtml(desc),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: genreNavHTML(code, base, genreCounts, g.slug),
+          tipsNudge: tipsNudgeHTML(base, code, t),
           chips: regionsHere.map((rs, i) =>
             `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${rs}">${escapeHtml(rs === 'all' ? t.all : regionName(rs, code))}</button>`
           ).join('\n        '),
@@ -1535,6 +1595,7 @@ function build() {
           regionSlug: m.region,
           saveBtn: saveBtnHTML(p.slug, t, true, base, code),
           breadcrumb: breadcrumbHTML(m, base, code, t),
+          tipsNudge: tipsNudgeHTML(base, code, t),
           badges: badgesHTML(m, base, code, t, true),
           byline: bylineHTML(t),
           spicy: spicyHTML(m, t),
@@ -1562,26 +1623,122 @@ function build() {
       urls.push({ loc: out, pri: '0.8', lastmod: m.updated || m.date });
     }
 
-    /* ---- 소개 / 문의 / 개인정보처리방침 ---- */
+    /* ---- 소개 / 문의 / 개인정보처리방침 / 여행 팁 ---- */
     for (const pg of pages) {
-      const out = d + `${pg.slug}.html`;
       const bodyMd = pg.body
         .replace(/\{\{email\}\}/g, site.email)
         .replace(/\{\{siteName\}\}/g, siteName(code));
 
+      /* 여행 팁 = 허브(/tips: intro + 항목별 목차) + 섹션별 개별 페이지(/tips/transport 등).
+         한 파일(tips.md)에서 나오며, 섹션 본문은 개별 페이지에만 둡니다 (중복 콘텐츠 방지). */
+      if (pg.slug === 'tips') {
+        const { intro, sections } = splitTipsSections(bodyMd);
+
+        const hubOut  = d + 'tips.html';
+        const hubBase = baseOf(hubOut);
+        const tocList = sections.map(s =>
+          `        <li id="${s.slug}"><a href="${hubBase}${d}tips/${s.slug}">${escapeHtml(tipsSectionTitle(s.title))}</a></li>`
+        ).join('\n');
+        const toc = `    <nav class="tips-toc" aria-label="${escapeHtml(t.nav.tips)}">
+      <h2>${escapeHtml(t.tipsTocHeading)}</h2>
+      <ol>
+${tocList}
+      </ol>
+    </nav>`;
+
+        writeFile(hubOut, renderPage({
+          out: hubOut, code, current: 'tips',
+          title: `${pg.meta.title} — ${siteName(code)}`,
+          description: pg.meta.description || I18N[code].siteDesc,
+          availability: availFor('tips.html', c => hasPage('tips', c)),
+          headExtra: `<script type="application/ld+json">${JSON.stringify({
+            '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+            itemListElement: [
+              { name: siteName(code),      item: `${SITE_URL}/${d}` },
+              { name: I18N[code].nav.tips, item: `${SITE_URL}/${d}tips` }
+            ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item }))
+          })}</script>`,
+          body: fill(T.page, {
+            crumbs: '',
+            title: escapeHtml(pg.meta.title || 'tips'),
+            updated: pg.meta.updated ? escapeHtml(pg.meta.updated) : '',
+            content: markdown(intro) + '\n' + toc
+          })
+        }));
+        urls.push({ loc: hubOut, pri: '0.7', freq: 'monthly' });
+
+        for (const s of sections) {
+          const secOut   = d + `tips/${s.slug}.html`;
+          const secBase  = baseOf(secOut);
+          const clean    = tipsSectionTitle(s.title);
+          const secBody  = s.body.replace(/^#(?=\s)/gm, '##');   // 섹션 안 h1 → h2
+          const indexed  = TIPS_PAGES.has(s.slug);
+          const secUrl   = `${SITE_URL}/${cleanUrl(secOut)}`;
+          const summary  = plainSummary(s.body, 155);
+          const crumb = `    <nav class="crumbs" aria-label="${escapeHtml(t.crumbLabel || 'Breadcrumb')}">`
+            + `<a href="${linkTo(secBase + d)}">${escapeHtml(siteName(code))}</a>`
+            + `<span class="crumb-sep" aria-hidden="true">›</span>`
+            + `<a href="${secBase}${d}tips">${escapeHtml(t.nav.tips)}</a>`
+            + `<span class="crumb-sep" aria-hidden="true">›</span>`
+            + `<span class="crumb-current" aria-current="page">${escapeHtml(shortTitle(clean))}</span></nav>`;
+          const back = `    <p class="doc-more"><a href="${secBase}${d}tips">${escapeHtml(t.tipsAllLabel)}</a></p>`;
+
+          writeFile(secOut, renderPage({
+            out: secOut, code, current: 'tips', noindex: !indexed,
+            title: `${shortTitle(clean)} — ${siteName(code)}`,
+            description: summary || pg.meta.description || I18N[code].siteDesc,
+            availability: availFor(`tips/${s.slug}.html`,
+              c => (tipsSections[c] || []).some(x => x.slug === s.slug)),
+            headExtra: `<script type="application/ld+json">${JSON.stringify({
+              '@context': 'https://schema.org',
+              '@graph': [
+                {
+                  '@type': 'Article',
+                  headline: clean,
+                  description: summary || undefined,
+                  inLanguage: l.htmlLang,
+                  author: authorLd(code),
+                  publisher: { '@type': 'Organization', name: siteName(code) },
+                  mainEntityOfPage: secUrl,
+                  isPartOf: { '@type': 'WebPage', name: pg.meta.title, url: `${SITE_URL}/${d}tips` }
+                },
+                {
+                  '@type': 'BreadcrumbList',
+                  itemListElement: [
+                    { name: siteName(code),        item: `${SITE_URL}/${d}` },
+                    { name: I18N[code].nav.tips,   item: `${SITE_URL}/${d}tips` },
+                    { name: shortTitle(clean),     item: secUrl }
+                  ].map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item }))
+                }
+              ]
+            })}</script>`,
+            body: fill(T.page, {
+              crumbs: crumb,
+              title: escapeHtml(clean),
+              updated: pg.meta.updated ? escapeHtml(pg.meta.updated) : '',
+              content: markdown(secBody) + '\n' + back
+            })
+          }));
+          if (indexed) urls.push({ loc: secOut, pri: '0.6', freq: 'monthly' });
+        }
+        continue;
+      }
+
+      // ---- 일반 문서 (소개 / 문의 / 개인정보처리방침) ----
+      const out = d + `${pg.slug}.html`;
       writeFile(out, renderPage({
         out, code, current: pg.slug,
         title: `${pg.meta.title} — ${siteName(code)}`,
         description: pg.meta.description || I18N[code].siteDesc,
         availability: availFor(`${pg.slug}.html`, c => hasPage(pg.slug, c)),
         body: fill(T.page, {
+          crumbs: '',
           title: escapeHtml(pg.meta.title || pg.slug),
           updated: pg.meta.updated ? escapeHtml(pg.meta.updated) : '',
           content: markdown(bodyMd)
         })
       }));
-      // 여행 팁은 실제로 찾아 읽는 콘텐츠라 소개·약관 문서보다 우선순위를 올립니다
-      urls.push({ loc: out, pri: pg.slug === 'tips' ? '0.7' : '0.3' });
+      urls.push({ loc: out, pri: '0.3' });
     }
 
     /* ---- 저장한 곳 (즐겨찾기) ----

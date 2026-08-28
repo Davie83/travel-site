@@ -990,37 +990,58 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
   margin:0 0 10px;font-size:12px;color:var(--ink-mute);
 }
 
-/* ── 홈 여행 팁 카드 ────────────────────────────────────────────────
-   관광객이 홈에서 가장 먼저 필요한 정보라 최근 글보다 위에 둡니다.
+/* ── 홈 여행 팁 띠 ──────────────────────────────────────────────────
+   도착 첫날 막히는 것들 — 처음 오는 사람에게 가장 급한 정보라
+   히어로 바로 아래, 지역 그리드 위에 얇은 한 줄로 둡니다.
    토큰만 쓰기 때문에 밝은/어두운 테마가 자동으로 따라옵니다.       */
-.tips-card{
-  display:flex;align-items:center;gap:16px;
-  padding:18px 20px;
-  background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+.tips-strip{
+  display:flex;align-items:center;gap:12px;
+  margin:0 0 22px;padding:12px 16px;
+  background:var(--surface);border:1px solid var(--line);border-radius:12px;
   text-decoration:none;color:inherit;
-  transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease;
+  transition:border-color .16s ease,box-shadow .16s ease;
 }
-.tips-card:hover{
-  transform:translateY(-2px);border-color:var(--line-hard);
-  box-shadow:0 10px 28px rgba(0,0,0,.09);
-}
-.tips-ico{font-size:30px;line-height:1;flex:0 0 auto;}
-.tips-body{display:flex;flex-direction:column;gap:5px;min-width:0;flex:1 1 0;}
-.tips-title{font-size:1.06rem;font-weight:700;color:var(--ink);line-height:1.35;}
-.tips-desc{font-size:.9rem;color:var(--ink-mid);line-height:1.55;}
-.tips-tags{font-size:.8rem;color:var(--ink-mute);}
-.tips-cta{
-  flex:0 0 auto;font-size:.88rem;font-weight:600;color:var(--ink);
-  white-space:nowrap;
-}
-.tips-card:hover .tips-cta{text-decoration:underline;}
-
-/* 좁은 화면에서는 세로로 쌓고, 아이콘은 제목 옆으로 붙입니다 */
+.tips-strip:hover{border-color:var(--line-hard);box-shadow:0 8px 22px rgba(0,0,0,.07);}
+.tips-strip-ico{font-size:20px;line-height:1;flex:0 0 auto;}
+.tips-strip-text{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;min-width:0;flex:1 1 0;}
+.tips-strip-title{font-size:.95rem;font-weight:700;color:var(--ink);line-height:1.35;}
+.tips-strip-tags{font-size:.8rem;color:var(--ink-mute);}
+.tips-strip-cta{flex:0 0 auto;font-size:.85rem;font-weight:600;color:var(--ink);white-space:nowrap;}
+.tips-strip:hover .tips-strip-cta{text-decoration:underline;}
 @media (max-width:640px){
-  .tips-card{flex-wrap:wrap;gap:12px;padding:16px;}
-  .tips-ico{font-size:26px;}
-  .tips-cta{width:100%;}
+  .tips-strip{align-items:flex-start;gap:10px;}
+  .tips-strip-cta{display:none;}
 }
+
+/* 글·장르 페이지의 여행 팁 넛지 — 본문 끝, 리액션 앞의 한 줄 */
+.tips-nudge{
+  display:flex;align-items:center;gap:9px;
+  margin:20px 0 0;padding:11px 14px;
+  background:var(--surface);border:1px solid var(--line);border-radius:10px;
+  text-decoration:none;color:var(--ink-mid);font-size:13px;line-height:1.4;
+  transition:border-color .16s ease,color .16s ease;
+}
+.tips-nudge:hover{border-color:var(--line-hard);color:var(--ink);}
+.tips-nudge-ico{flex:0 0 auto;font-size:15px;}
+.tips-nudge-text{flex:1 1 auto;min-width:0;}
+.tips-nudge-go{flex:0 0 auto;font-weight:700;color:var(--ink);}
+
+/* 여행 팁 허브의 항목별 목차 (/tips) */
+.tips-toc{margin:30px 0 0;}
+.tips-toc h2{font-size:.95rem;margin:0 0 12px;color:var(--ink-mute);font-weight:700;}
+.tips-toc ol{margin:0;padding:0;list-style:none;display:grid;gap:8px;}
+.tips-toc li{margin:0;}
+.tips-toc a{
+  display:block;padding:12px 15px;border-radius:10px;
+  background:var(--surface);border:1px solid var(--line);
+  text-decoration:none;color:var(--ink);font-weight:600;font-size:.95rem;line-height:1.4;
+  transition:border-color .16s ease,transform .16s ease;
+}
+.tips-toc a:hover{border-color:var(--line-hard);transform:translateY(-1px);}
+/* 개별 팁 페이지 하단 — 허브로 돌아가기 */
+.doc-more{margin:30px 0 0;}
+.doc-more a{font-weight:600;color:var(--ink);}
+.doc-more a:hover{text-decoration:underline;}
 
 /* ── 매운맛 배지 (맛집 글 상세 상단) ───────────────────────────────
    외국인 방문자가 글을 열자마자 판단할 수 있어야 해서 제목 바로 아래 둡니다.

@@ -56,6 +56,16 @@
 
   <div class="wrap">
 
+    <!-- 도착 첫날 막히는 것들 — 처음 오는 사람에게 가장 급한 정보라 맨 위에 둡니다 -->
+    <a class="tips-strip" href="{{tipsHref}}">
+      <span class="tips-strip-ico" aria-hidden="true">🧭</span>
+      <span class="tips-strip-text">
+        <strong class="tips-strip-title">{{tipsTitle}}</strong>
+        <span class="tips-strip-tags">{{tipsTags}}</span>
+      </span>
+      <span class="tips-strip-cta">{{tipsCta}} →</span>
+    </a>
+
     <section class="section">
       <div class="section-head">
         <h2>{{findByRegion}}</h2>
@@ -67,18 +77,6 @@
     </section>
 
 {{genreBlock}}
-
-    <section class="section">
-      <a class="tips-card" href="{{tipsHref}}">
-        <span class="tips-ico" aria-hidden="true">🧭</span>
-        <span class="tips-body">
-          <strong class="tips-title">{{tipsTitle}}</strong>
-          <span class="tips-desc">{{tipsDesc}}</span>
-          <span class="tips-tags">{{tipsTags}}</span>
-        </span>
-        <span class="tips-cta">{{tipsCta}} →</span>
-      </a>
-    </section>
 
     {{adTop}}
 

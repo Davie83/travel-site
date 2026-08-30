@@ -181,7 +181,7 @@ const stripQuotes = s => s.replace(/^['"](.*)['"]$/, '$1');
 function inline(s) {
   return s
     .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g,
-      (_, alt, src) => `<img src="${src}" alt="${alt}" loading="lazy">`)
+      (_, alt, src) => `<img src="${src}${/^\/?assets\/img\//.test(src) ? imgVer(src) : ''}" alt="${alt}" loading="lazy">`)
     .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, txt, url) => {
       const ext = /^https?:/i.test(url);
       return `<a href="${url}"${ext ? ' target="_blank" rel="noopener"' : ''}>${txt}</a>`;
@@ -776,6 +776,23 @@ function jpegSize(relPath) {
   return out;
 }
 
+/** 이미지 주소 뒤에 ?v=<파일해시> 를 붙입니다.
+    같은 파일명으로 사진 내용만 바꿔도 주소가 달라지므로, _headers 의
+    'Cache-Control: immutable' 로 1년 고정 캐시된 브라우저·CDN 도 새 그림을 받습니다.
+    CSS·JS 는 base.html 에서 ?v={{v}} 로 이미 처리되지만 이미지는 빠져 있었습니다. */
+const _imgVer = {};
+function imgVer(rel) {
+  if (!rel) return '';
+  const key = String(rel).replace(/[?#].*$/, '').replace(/^\//, '');
+  if (key in _imgVer) return _imgVer[key];
+  let v = '';
+  try {
+    v = '?v=' + crypto.createHash('sha1').update(fs.readFileSync(path.join(STATIC, key))).digest('hex').slice(0, 8);
+  } catch (e) { /* 파일이 없으면 버전 없이 둡니다 */ }
+  _imgVer[key] = v;
+  return v;
+}
+
 /** 목록 카드용 작은 사진 (assets/img/sm/…). tools/optimize-images.ps1 이 만듭니다.
     카드는 화면에 255~350px 로 그려지는데 원본(1200~1600px)을 그대로 보내면
     홈을 끝까지 스크롤할 때 썸네일만 12MB 였습니다. 파일이 없으면 원본을 씁니다. */
@@ -883,7 +900,7 @@ function placeLd(m, pageUrl) {
     url:     pageUrl
   };
   if (m.excerpt) node.description = m.excerpt;
-  if (m.thumb)   node.image = `${SITE_URL}/${m.thumb}`;
+  if (m.thumb)   node.image = `${SITE_URL}/${m.thumb}${imgVer(m.thumb)}`;
 
   if (m.addr) {
     node.address = { '@type': 'PostalAddress', streetAddress: m.addr, addressCountry: 'KR' };
@@ -1127,7 +1144,7 @@ function cardHTML(post, base, code, t) {
   // width/height 를 적어두면 사진이 오기 전에도 칸이 잡혀 화면이 덜 흔들립니다.
   const cardImg = cardThumbPath(m.thumb) || m.thumb;
   const thumb = m.thumb
-    ? `<img src="${base}${cardImg}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="700" height="525">`
+    ? `<img src="${base}${cardImg}${imgVer(cardImg)}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="700" height="525">`
     : `<span class="emoji">${m.emoji || '📍'}</span>`;
   const rname = regionName(m.region, code);
   const aname = areaName(m.region, m.area, code);
@@ -1326,7 +1343,7 @@ function renderPage(o) {
     // 링크 공유 미리보기 이미지 (절대 주소여야 합니다).
     // 글은 그 글의 사진, 그 외 페이지는 대표 이미지를 씁니다.
     // 지정하지 않으면 카카오톡·페이스북이 페이지에서 아무 사진이나 골라 씁니다.
-    ogImage:     `${SITE_URL}/${o.ogImage || site.ogImage}`,
+    ogImage:     `${SITE_URL}/${o.ogImage || site.ogImage}${imgVer(o.ogImage || site.ogImage)}`,
     // 사진마다 가로·세로가 달라서 파일에서 직접 읽습니다.
     // (고정값을 쓰던 때는 세로 사진 26개의 미리보기가 잘렸습니다)
     ogImageW:    (jpegSize(o.ogImage || site.ogImage) || { w: 1200 }).w,
@@ -1679,7 +1696,7 @@ function build() {
             inLanguage: l.htmlLang,
             author: authorLd(code),
             publisher: { '@type': 'Organization', name: siteName(code) },
-            image: m.thumb ? `${SITE_URL}/${m.thumb}` : undefined,
+            image: m.thumb ? `${SITE_URL}/${m.thumb}${imgVer(m.thumb)}` : undefined,
             mainEntityOfPage: pageUrl,
             about: { '@id': pageUrl + '#place' }
           }

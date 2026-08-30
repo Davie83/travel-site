@@ -183,7 +183,10 @@ module.exports = {
     { key: '카페',     names: { ko: '카페',     en: 'Cafe',            ja: 'カフェ',       zh: '咖啡館' } },
     { key: '술집',     names: { ko: '술집',     en: 'Drinking spot',   ja: '居酒屋',       zh: '酒館' } },
     { key: '막걸리',   names: { ko: '막걸리',   en: 'Makgeolli',       ja: 'マッコリ',     zh: '馬格利酒' } },
+    { key: '와인',     names: { ko: '와인',     en: 'Wine',            ja: 'ワイン',       zh: '葡萄酒' } },
     { key: '드립커피', names: { ko: '드립커피', en: 'Pour-over',       ja: 'ドリップ',     zh: '手沖咖啡' } },
+    { key: '뷔페',     names: { ko: '뷔페',     en: 'Buffet',          ja: 'ビュッフェ',   zh: '自助餐' } },
+    { key: '동물카페', names: { ko: '동물카페', en: 'Animal cafe',     ja: '動物カフェ',   zh: '動物咖啡廳' } },
 
     /* 음식 종류 */
     { key: '국밥',     names: { ko: '국밥',     en: 'Gukbap',          ja: 'クッパ',       zh: '湯飯' } },
@@ -195,9 +198,17 @@ module.exports = {
     { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉麵' } },
     { key: '수육',     names: { ko: '수육',     en: 'Suyuk',           ja: 'スユク',       zh: '水煮肉' } },
     { key: '정식',     names: { ko: '정식',     en: 'Set meal',        ja: '定食',         zh: '套餐' } },
+    { key: '족발',     names: { ko: '족발',     en: 'Jokbal',          ja: 'チョッパル',   zh: '豬腳' } },
+    { key: '육회',     names: { ko: '육회',     en: 'Yukhoe',          ja: 'ユッケ',       zh: '生牛肉' } },
+    { key: '떡갈비',   names: { ko: '떡갈비',   en: 'Tteok-galbi',     ja: 'トッカルビ',   zh: '年糕排骨' } },
+    { key: '김밥',     names: { ko: '김밥',     en: 'Gimbap',          ja: 'キンパ',       zh: '海苔飯捲' } },
+    { key: '분식',     names: { ko: '분식',     en: 'Bunsik',          ja: '粉食',         zh: '韓式小吃' } },
+    { key: '장어',     names: { ko: '장어',     en: 'Grilled eel',     ja: 'うなぎ',       zh: '鰻魚' } },
+    { key: '돈까스',   names: { ko: '돈까스',   en: 'Donkkaseu',       ja: 'トンカツ',     zh: '豬排' } },
     { key: '해산물',   names: { ko: '해산물',   en: 'Seafood',         ja: '魚介',         zh: '海鮮' } },
     { key: '물회',     names: { ko: '물회',     en: 'Mulhoe',          ja: 'ムルフェ',     zh: '冷湯生魚' } },
     { key: '회덮밥',   names: { ko: '회덮밥',   en: 'Sashimi bowl',    ja: '海鮮丼',       zh: '生魚蓋飯' } },
+    { key: '디저트',   names: { ko: '디저트',   en: 'Dessert',         ja: 'デザート',     zh: '甜點' } },
     { key: '파스타',   names: { ko: '파스타',   en: 'Pasta',           ja: 'パスタ',       zh: '義大利麵' } },
 
     /* 요리 계통 */

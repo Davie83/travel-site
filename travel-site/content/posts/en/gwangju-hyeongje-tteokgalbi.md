@@ -39,6 +39,14 @@ I'll be straight. **The tteok-galbi and the bone soup are fine, but the rest of 
 
 Compared with the other places in the tteok-galbi alley, this isn't one that lays out an especially generous spread.
 
+## For foreign visitors
+
+- **Tteok-galbi is not spicy at all.** There's no hot dip to deal with — you eat it as it is, with rice.
+- **Tteok-galbi** is rib meat, chopped, marinated in a sweet soy sauce and grilled. This is the Gwangju style, so it's soft and falls apart rather than firm like a patty.
+- No wrapping or assembly — **just cut it and eat**. If you can use chopsticks, you're set.
+- The free **clear bone soup** isn't spicy either; pick the meat off the spine with your chopsticks.
+- It's walking distance from Gwangju Songjeong Station (KTX/SRT), so it works as a stop before or after a train.
+
 ## Who this suits
 
 - ✅ You want to try a **soft, loose tteok-galbi** rather than the firm patty type

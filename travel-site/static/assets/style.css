@@ -505,7 +505,10 @@ a.more{color:var(--ink);font-weight:600;}
   border:1px solid var(--line);padding:11px 14px;text-align:left;vertical-align:top;
 }
 .info-table th,.md-table th{background:var(--surface);font-weight:700;}
-.info-table th{width:120px;white-space:nowrap;}
+/* 라벨은 줄바꿈을 허용합니다 — 영어·일어·중국어는 라벨이 길어
+   nowrap 이면 표가 모바일 화면 밖으로 삐져나가 값이 잘렸습니다. */
+.info-table th{width:120px;white-space:normal;overflow-wrap:break-word;}
+.info-table td{overflow-wrap:anywhere;}
 
 /* 확실하지 않은 정보 표시 — 가격·영업시간처럼 자주 바뀌는 항목에 붙습니다 */
 .unverified{

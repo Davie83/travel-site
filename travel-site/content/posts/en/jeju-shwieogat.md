@@ -23,15 +23,15 @@ I found it while reading around about **kaymak**, back when it was getting popul
 
 ## A space done up Turkish-style
 
-The interior feels **deliberately done in a Turkish style**. Outside there's a **well-kept garden**. Good atmosphere for photos.
-
-![Inside Shwieogat — chandeliers, Turkish objects and a wine display case](/assets/img/jeju-shwieogat-interior.jpg)
+The interior feels **deliberately done in a Turkish style** — a row of brass coffee pots along the windowsill, colourful fish paintings on the wall. Outside there's a **well-kept garden**. Good atmosphere for photos.
 
 ## I order the sütlaç
 
 When I get here, I end up ordering the **sütlaç** (a Turkish milk pudding).
 
-It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute enough that you want to keep it. The sea is out the window.
+![Shwieogat's sütlaç — a glass jar of milk pudding and a water glass on a wooden tray, the garden out the window](/assets/img/jeju-shwieogat-sutlac.jpg)
+
+It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute enough that you want to keep it. The garden is out the window.
 
 ## For foreign visitors
 

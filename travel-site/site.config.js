@@ -54,16 +54,16 @@ module.exports = {
      붙어 있는 지역이 같은 색으로 보일 수 있습니다.                */
   regions: [
     { slug: 'seoul',       color: '#312a7e', colorDark: '#827adc',   // 남색
-      names: { ko: '서울',      en: 'Seoul',              ja: 'ソウル',   zh: '首尔' },
+      names: { ko: '서울',      en: 'Seoul',              ja: 'ソウル',   zh: '首爾' },
       areas: [
-        { slug: 'yeouido',      names: { ko: '여의도',     en: 'Yeouido',                ja: '汝矣島',        zh: '汝矣岛' } },
-        { slug: 'myeongdong',   names: { ko: '명동·남대문', en: 'Myeongdong & Namdaemun', ja: '明洞・南大門',  zh: '明洞·南大门' } },
-        { slug: 'gwanghwamun',  names: { ko: '광화문',     en: 'Gwanghwamun',            ja: '光化門',        zh: '光化门' } },
-        { slug: 'jongno',       names: { ko: '종로',       en: 'Jongno',                 ja: '鍾路',          zh: '钟路' } },
+        { slug: 'yeouido',      names: { ko: '여의도',     en: 'Yeouido',                ja: '汝矣島',        zh: '汝矣島' } },
+        { slug: 'myeongdong',   names: { ko: '명동·남대문', en: 'Myeongdong & Namdaemun', ja: '明洞・南大門',  zh: '明洞·南大門' } },
+        { slug: 'gwanghwamun',  names: { ko: '광화문',     en: 'Gwanghwamun',            ja: '光化門',        zh: '光化門' } },
+        { slug: 'jongno',       names: { ko: '종로',       en: 'Jongno',                 ja: '鍾路',          zh: '鍾路' } },
         { slug: 'yeongdeungpo', names: { ko: '영등포',     en: 'Yeongdeungpo',           ja: '永登浦',        zh: '永登浦' } },
         { slug: 'hongdae',      names: { ko: '홍대',       en: 'Hongdae',                ja: '弘大',          zh: '弘大' } },
         { slug: 'mapo',         names: { ko: '마포',       en: 'Mapo',                   ja: '麻浦',          zh: '麻浦' } },
-        { slug: 'gwangjin',     names: { ko: '광진·건대',  en: 'Gwangjin & Konkuk Univ.', ja: '広津・建大',   zh: '广津·建大' } },
+        { slug: 'gwangjin',     names: { ko: '광진·건대',  en: 'Gwangjin & Konkuk Univ.', ja: '広津・建大',   zh: '廣津·建大' } },
         { slug: 'seongdong',    names: { ko: '성동·왕십리', en: 'Seongdong & Wangsimni',  ja: '城東・往十里',  zh: '城東·往十里' } },
         { slug: 'gangnam',      names: { ko: '강남·서초',  en: 'Gangnam & Seocho',       ja: '江南・瑞草',    zh: '江南·瑞草' } }
       ] },
@@ -75,7 +75,7 @@ module.exports = {
     { slug: 'gangwon',     color: '#2a6984', colorDark: '#7cc1de',   // 청록
       names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' },
       areas: [
-        { slug: 'cheorwon', names: { ko: '철원', en: 'Cheorwon', ja: '鉄原', zh: '铁原' } }
+        { slug: 'cheorwon', names: { ko: '철원', en: 'Cheorwon', ja: '鉄原', zh: '鐵原' } }
       ] },
     { slug: 'chungcheong', color: '#498235', colorDark: '#9fd98c',   // 초록
       names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' },
@@ -83,30 +83,30 @@ module.exports = {
         { slug: 'daejeon', names: { ko: '대전', en: 'Daejeon', ja: '大田', zh: '大田' } }
       ] },
     { slug: 'jeolla',      color: '#998329', colorDark: '#e7d488',   // 황금
-      names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全罗' },
+      names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全羅' },
       areas: [
         { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' } },
         { slug: 'jeonnam', names: { ko: '전남광주', en: 'Jeonnam-Gwangju', ja: '全南光州', zh: '全南光州' } }
       ] },
     { slug: 'gyeongsang',  color: '#993633', colorDark: '#e39996',   // 벽돌
-      names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '庆尚' },
+      names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '慶尚' },
       areas: [
-        { slug: 'gyeongju', names: { ko: '경주', en: 'Gyeongju', ja: '慶州', zh: '庆州' } },
-        { slug: 'geoje',    names: { ko: '거제', en: 'Geoje',    ja: '巨済', zh: '巨济' } },
-        { slug: 'jinhae',   names: { ko: '진해', en: 'Jinhae',   ja: '鎮海', zh: '镇海' } }
+        { slug: 'gyeongju', names: { ko: '경주', en: 'Gyeongju', ja: '慶州', zh: '慶州' } },
+        { slug: 'geoje',    names: { ko: '거제', en: 'Geoje',    ja: '巨済', zh: '巨濟' } },
+        { slug: 'jinhae',   names: { ko: '진해', en: 'Jinhae',   ja: '鎮海', zh: '鎮海' } }
       ] },
     { slug: 'busan',       color: '#257e77', colorDark: '#72dfd6',   // 바다
       names: { ko: '부산',      en: 'Busan',              ja: '釜山',     zh: '釜山' },
       areas: [
-        { slug: 'dongnae',   names: { ko: '동래',   en: 'Dongnae',   ja: '東莱',   zh: '东莱' } },
-        { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '广安里' } }
+        { slug: 'dongnae',   names: { ko: '동래',   en: 'Dongnae',   ja: '東莱',   zh: '東萊' } },
+        { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '廣安里' } }
       ] },
     { slug: 'jeju',        color: '#c25e10', colorDark: '#f5a45a',   // 감귤
-      names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '济州' },
+      names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '濟州' },
       areas: [
-        { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '济州市' } },
+        { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '濟州市' } },
         { slug: 'aewol',    names: { ko: '애월',    en: 'Aewol',     ja: '涯月',    zh: '涯月' } },
-        { slug: 'seogwipo', names: { ko: '서귀포',  en: 'Seogwipo',  ja: '西帰浦',  zh: '西归浦' } },
+        { slug: 'seogwipo', names: { ko: '서귀포',  en: 'Seogwipo',  ja: '西帰浦',  zh: '西歸浦' } },
         { slug: 'seongsan',  names: { ko: '성산',    en: 'Seongsan',  ja: '城山',    zh: '城山' } }
       ] }
   ],
@@ -131,28 +131,28 @@ module.exports = {
       names: { ko: '여의도 — 점심 한 끼와 한강뷰 카페',
                en: 'Yeouido — lunch, then a Han River cafe',
                ja: '汝矣島 — 昼ごはんと漢江ビューのカフェ',
-               zh: '汝矣岛 — 午餐加汉江景观咖啡' },
+               zh: '汝矣島 — 午餐加漢江景觀咖啡' },
       stops: ['seoul-hadongkwan', 'seoul-gangbyeon-seojae'] },
 
     { slug: 'myeongdong-namsan',
       names: { ko: '명동·남산 — 시장 냉면에서 남산 비빔밥까지',
                en: 'Myeongdong & Namsan — market noodles to mountain bibimbap',
                ja: '明洞・南山 — 市場の冷麺から南山のビビンバまで',
-               zh: '明洞·南山 — 从市场冷面到南山拌饭' },
+               zh: '明洞·南山 — 從市場冷麵到南山拌飯' },
       stops: ['seoul-buwon-myeonok', 'seoul-mokmyeoksanbang', 'seoul-myeongdong-shindonggung'] },
 
     { slug: 'jongno-evening',
       names: { ko: '종로·익선동 — 커피, 디저트, 그리고 밤',
                en: 'Jongno & Ikseondong — coffee, dessert, then night',
                ja: '鍾路・益善洞 — コーヒー、デザート、そして夜',
-               zh: '钟路·益善洞 — 咖啡、甜点，然后是夜晚' },
+               zh: '鍾路·益善洞 — 咖啡、甜點，然後是夜晚' },
       stops: ['seoul-dozo-coffee', 'seoul-dongbaek-yanggwajeom', 'seoul-gongpyeongdong-kkomjangeo'] },
 
     { slug: 'jeju-west',
       names: { ko: '제주 서쪽 — 애월 막국수와 오일장',
                en: 'West Jeju — Aewol noodles and the five-day market',
                ja: '済州西部 — 涯月のマッククスと五日市',
-               zh: '济州西部 — 涯月拌面与五日集市' },
+               zh: '濟州西部 — 涯月拌麵與五日市集' },
       stops: ['jeju-aewol-makguksu', 'jeju-oiljang'] }
   ],
 
@@ -175,29 +175,29 @@ module.exports = {
     /* 상황 · 성격 — 관광객에게 가장 쓸모 있는 축입니다 */
     { key: '심야',     names: { ko: '심야',     en: 'Late night',      ja: '深夜',         zh: '深夜' } },
     { key: '아침식사', names: { ko: '아침식사', en: 'Breakfast',       ja: '朝食',         zh: '早餐' } },
-    { key: '예약필수', names: { ko: '예약필수', en: 'Booking needed',  ja: '予約必須',     zh: '需要预约' } },
+    { key: '예약필수', names: { ko: '예약필수', en: 'Booking needed',  ja: '予約必須',     zh: '需要預約' } },
     { key: '채식',     names: { ko: '채식',     en: 'Vegetarian-ok',   ja: 'ベジタリアン', zh: '素食可' } },
 
     /* 자리 성격 */
-    { key: '카페',     names: { ko: '카페',     en: 'Cafe',            ja: 'カフェ',       zh: '咖啡馆' } },
-    { key: '술집',     names: { ko: '술집',     en: 'Drinking spot',   ja: '居酒屋',       zh: '酒馆' } },
-    { key: '막걸리',   names: { ko: '막걸리',   en: 'Makgeolli',       ja: 'マッコリ',     zh: '马格利酒' } },
-    { key: '드립커피', names: { ko: '드립커피', en: 'Pour-over',       ja: 'ドリップ',     zh: '手冲咖啡' } },
+    { key: '카페',     names: { ko: '카페',     en: 'Cafe',            ja: 'カフェ',       zh: '咖啡館' } },
+    { key: '술집',     names: { ko: '술집',     en: 'Drinking spot',   ja: '居酒屋',       zh: '酒館' } },
+    { key: '막걸리',   names: { ko: '막걸리',   en: 'Makgeolli',       ja: 'マッコリ',     zh: '馬格利酒' } },
+    { key: '드립커피', names: { ko: '드립커피', en: 'Pour-over',       ja: 'ドリップ',     zh: '手沖咖啡' } },
 
     /* 음식 종류 */
-    { key: '국밥',     names: { ko: '국밥',     en: 'Gukbap',          ja: 'クッパ',       zh: '汤饭' } },
-    { key: '곰탕',     names: { ko: '곰탕',     en: 'Gomtang',         ja: 'コムタン',     zh: '牛肉汤' } },
-    { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '猪肉汤饭' } },
-    { key: '국수',     names: { ko: '국수',     en: 'Noodles',         ja: '麺',           zh: '面食' } },
-    { key: '콩국수',   names: { ko: '콩국수',   en: 'Kongguksu',       ja: 'コングクス',   zh: '豆浆面' } },
-    { key: '막국수',   names: { ko: '막국수',   en: 'Makguksu',        ja: 'マッククス',   zh: '荞麦拌面' } },
-    { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉面' } },
+    { key: '국밥',     names: { ko: '국밥',     en: 'Gukbap',          ja: 'クッパ',       zh: '湯飯' } },
+    { key: '곰탕',     names: { ko: '곰탕',     en: 'Gomtang',         ja: 'コムタン',     zh: '牛肉湯' } },
+    { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '豬肉湯飯' } },
+    { key: '국수',     names: { ko: '국수',     en: 'Noodles',         ja: '麺',           zh: '麵食' } },
+    { key: '콩국수',   names: { ko: '콩국수',   en: 'Kongguksu',       ja: 'コングクス',   zh: '豆漿麵' } },
+    { key: '막국수',   names: { ko: '막국수',   en: 'Makguksu',        ja: 'マッククス',   zh: '蕎麥拌麵' } },
+    { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉麵' } },
     { key: '수육',     names: { ko: '수육',     en: 'Suyuk',           ja: 'スユク',       zh: '水煮肉' } },
     { key: '정식',     names: { ko: '정식',     en: 'Set meal',        ja: '定食',         zh: '套餐' } },
-    { key: '해산물',   names: { ko: '해산물',   en: 'Seafood',         ja: '魚介',         zh: '海鲜' } },
-    { key: '물회',     names: { ko: '물회',     en: 'Mulhoe',          ja: 'ムルフェ',     zh: '冷汤生鱼' } },
-    { key: '회덮밥',   names: { ko: '회덮밥',   en: 'Sashimi bowl',    ja: '海鮮丼',       zh: '生鱼盖饭' } },
-    { key: '파스타',   names: { ko: '파스타',   en: 'Pasta',           ja: 'パスタ',       zh: '意面' } },
+    { key: '해산물',   names: { ko: '해산물',   en: 'Seafood',         ja: '魚介',         zh: '海鮮' } },
+    { key: '물회',     names: { ko: '물회',     en: 'Mulhoe',          ja: 'ムルフェ',     zh: '冷湯生魚' } },
+    { key: '회덮밥',   names: { ko: '회덮밥',   en: 'Sashimi bowl',    ja: '海鮮丼',       zh: '生魚蓋飯' } },
+    { key: '파스타',   names: { ko: '파스타',   en: 'Pasta',           ja: 'パスタ',       zh: '義大利麵' } },
 
     /* 요리 계통 */
     { key: '일식',     names: { ko: '일식',     en: 'Japanese',        ja: '和食',         zh: '日本料理' } },
@@ -244,36 +244,36 @@ module.exports = {
 
   genres: [
     { slug: 'korean-bbq',       emoji: '🍖',
-      names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韩式烤肉' },
+      names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韓式烤肉' },
       tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살'] },
     { slug: 'korean-soup',      emoji: '🍲',
-      names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '汤饭' },
+      names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '湯飯' },
       tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장'] },
     { slug: 'korean-noodles',   emoji: '🍜',
-      names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韩式面食' },
+      names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韓式麵食' },
       tags:  ['냉면', '막국수', '콩국수', '국수'] },
     { slug: 'korean-seafood',   emoji: '🦑',
-      names: { ko: '해산물',     en: 'Korean Seafood',    ja: '韓国の魚介',    zh: '韩式海鲜' },
+      names: { ko: '해산물',     en: 'Korean Seafood',    ja: '韓国の魚介',    zh: '韓式海鮮' },
       tags:  ['해산물', '물회', '회덮밥', '숙성회', '모둠회', '대게', '킹크랩', '생대구탕', '밴댕이', '전복죽', '아구찜', '간장게장', '게장', '생선구이'] },
     { slug: 'chinese-korean',   emoji: '🥢',
-      names: { ko: '중식',       en: 'Chinese-Korean',    ja: '韓国式中華',    zh: '韩式中餐' },
+      names: { ko: '중식',       en: 'Chinese-Korean',    ja: '韓国式中華',    zh: '韓式中餐' },
       tags:  ['중식', '자장면', '짬뽕', '유린기'] },
     { slug: 'japanese-in-korea', emoji: '🍥',
-      names: { ko: '라멘·일식',  en: 'Ramen & Japanese',  ja: 'ラーメン・和食', zh: '拉面·日料' },
+      names: { ko: '라멘·일식',  en: 'Ramen & Japanese',  ja: 'ラーメン・和食', zh: '拉麵·日料' },
       tags:  ['라멘', '돈코츠', '일식', '오코노미야끼', '야끼소바'] },
     /* 만두 — 만두가 간판인 집만. 라멘집의 '교자', 중식집의 '군만두'(사이드)는 제외하려고
        뒤에 두고 태그도 좁혔습니다. */
     { slug: 'korean-dumplings', emoji: '🥟',
-      names: { ko: '만두',       en: 'Korean Dumplings',  ja: '韓国餃子',      zh: '韩式饺子' },
+      names: { ko: '만두',       en: 'Korean Dumplings',  ja: '韓国餃子',      zh: '韓式餃子' },
       tags:  ['만두', '만두국'] },
     { slug: 'bibimbap',         emoji: '🍚',
-      names: { ko: '비빔밥',     en: 'Bibimbap',          ja: 'ビビンバ',      zh: '拌饭' },
+      names: { ko: '비빔밥',     en: 'Bibimbap',          ja: 'ビビンバ',      zh: '拌飯' },
       tags:  ['비빔밥', '육회비빔밥'] },
     { slug: 'cafe-dessert',     emoji: '☕',
-      names: { ko: '카페·디저트', en: 'Cafes & Dessert',  ja: 'カフェ・スイーツ', zh: '咖啡·甜点' },
+      names: { ko: '카페·디저트', en: 'Cafes & Dessert',  ja: 'カフェ・スイーツ', zh: '咖啡·甜點' },
       tags:  ['카페', '드립커피', '디저트', '베이커리', '수플레', '팬케이크'] },
     { slug: 'bars-makgeolli',   emoji: '🍶',
-      names: { ko: '술집·막걸리', en: 'Bars & Makgeolli', ja: '居酒屋・マッコリ', zh: '酒馆·马格利' },
+      names: { ko: '술집·막걸리', en: 'Bars & Makgeolli', ja: '居酒屋・マッコリ', zh: '酒館·馬格利' },
       tags:  ['술집', '막걸리', '술안주', '이자카야'] }
   ],
 

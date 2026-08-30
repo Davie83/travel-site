@@ -417,10 +417,15 @@ function langSwitchHTML(base, current, availability, t) {
   // 값의 유무는 반드시 undefined 로 판별해야 합니다. (홈에서만 버튼이 사라지던 원인)
   const items = LOCALES.filter(l => availability[l.code] !== undefined);
   if (items.length < 2) return '';
+  // 넓은 화면: 각 언어를 그 언어 문자로 (한국어 · English · 日本語 · 繁體中文) — "여러 언어를 한다"는 신호.
+  // 좁은 화면: 자리 부족으로 약어(KO·EN…)만 보입니다. (CSS 가 .lang-full / .lang-abbr 를 전환)
+  const inner = l => `<span class="lang-full">${escapeHtml(l.label)}</span>`
+    + `<span class="lang-abbr">${escapeHtml(l.short)}</span>`;
   return `<div class="langs" role="group" aria-label="${escapeHtml(t.langLabel)}">
+      <span class="langs-ico" aria-hidden="true">🌐</span>
       ${items.map(l => l.code === current
-        ? `<span class="lang on" aria-current="true">${escapeHtml(l.short)}</span>`
-        : `<a class="lang" href="${linkTo(base + availability[l.code])}" hreflang="${l.hreflang}" lang="${l.htmlLang}">${escapeHtml(l.short)}</a>`
+        ? `<span class="lang on" lang="${l.htmlLang}" aria-current="true">${inner(l)}</span>`
+        : `<a class="lang" href="${linkTo(base + availability[l.code])}" hreflang="${l.hreflang}" lang="${l.htmlLang}">${inner(l)}</a>`
       ).join('\n      ')}
     </div>`;
 }

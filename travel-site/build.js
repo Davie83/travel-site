@@ -1272,7 +1272,9 @@ function adSlotHTML(name) {
 
 function adsenseHTML() {
   if (!site.adsensePublisherId) return '<!-- 애드센스 미설정 -->';
-  return `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsensePublisherId}" crossorigin="anonymous"></script>`;
+  // 스니펫 + 계정 메타 태그(보조 확인용). 둘 다 config 의 adsensePublisherId 로 만듭니다.
+  return `<meta name="google-adsense-account" content="${site.adsensePublisherId}">\n`
+    + `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsensePublisherId}" crossorigin="anonymous"></script>`;
 }
 
 /** 지역색을 CSS 변수로 (style.css 는 이 변수만 참조합니다) */

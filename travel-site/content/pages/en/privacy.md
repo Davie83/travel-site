@@ -89,5 +89,3 @@ You may request access to, correction of, or deletion of your data. To have your
 ## 11. Changes
 
 Any change to this policy will be posted on this page with a new effective date.
-
-> This document is a general-purpose policy for a small independent site. If the site later adds accounts, payments, or operates as a registered business, it should be reviewed by a qualified professional.

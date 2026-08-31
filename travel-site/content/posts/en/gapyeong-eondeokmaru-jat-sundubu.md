@@ -19,6 +19,10 @@ info:
 
 I was in Gapyeong when I got a sudden craving for sundubu. A search turned up something called "jat-sundubu," and I went to find out what it tasted like.
 
+The building is brick, and outside there's an open-air terrace with parasols and a small fountain. On a good day you could sit out here with the mountains in view.
+
+![The open-air terrace beside the brick building — parasols, a fountain, and mountains in the distance](/assets/img/gapyeong-eondeokmaru-jat-sundubu-terrace.jpg)
+
 ## Gapyeong means pine nuts
 
 Gapyeong has long been known for pine nuts. There are a lot of Korean pine trees, and the nuts themselves are sold as a local specialty. So pine-nut dishes come naturally here — pine-nut noodles, pine-nut porridge, and jat-sundubu.

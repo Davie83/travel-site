@@ -7,7 +7,7 @@ date: 2026-08-31
 emoji: 🖌️
 thumb: assets/img/jeju-chusa-yubaeji.jpg
 excerpt: An easy stop if you're heading down to Moseulpo Harbour or crossing from Aewol to Seogwipo. This is where Kim Jeong-hui — the calligrapher behind the "Chusa style" — spent more than eight years in exile. A restored thatched house behind a stone wall, and two pine trees standing tall in the yard. Quiet, the way an exile site should be; a good place to sit a moment with some history.
-tags: [Jeju, Seogwipo, Daejeong, Moseulpo, Chusa, Kim Jeong-hui, Jeju Chusa Museum, place of exile, Sehando, Chusa style]
+tags: [Jeju, Seogwipo, Daejeong, Moseulpo, Chusa, Kim Jeong-hui, Jeju Chusa Museum, place of exile, historic site, Sehando, Chusa style]
 map: https://www.google.com/maps/search/?api=1&query=%ec%a0%9c%ec%a3%bc%ec%b6%94%ec%82%ac%ea%b4%80
 info:
   - Location|Daejeong-eup, Seogwipo, Jeju · under 10 min by car from Moseulpo Harbour, near Daejeong Hyanggyo

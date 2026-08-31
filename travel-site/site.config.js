@@ -217,7 +217,17 @@ module.exports = {
     /* 요리 계통 */
     { key: '일식',     names: { ko: '일식',     en: 'Japanese',        ja: '和食',         zh: '日本料理' } },
     { key: '중식',     names: { ko: '중식',     en: 'Chinese',         ja: '中華',         zh: '中餐' } },
-    { key: '양식',     names: { ko: '양식',     en: 'Western',         ja: '洋食',         zh: '西餐' } }
+    { key: '양식',     names: { ko: '양식',     en: 'Western',         ja: '洋食',         zh: '西餐' } },
+
+    /* 여행지 · 풍경 — travel 글에도 하단 칩이 붙도록 하는 축 */
+    { key: '해변',     names: { ko: '해변',     en: 'Beach',           ja: 'ビーチ',       zh: '海灘' } },
+    { key: '호수',     names: { ko: '호수',     en: 'Lake',            ja: '湖',           zh: '湖' } },
+    { key: '계곡',     names: { ko: '계곡',     en: 'Valley stream',   ja: '渓谷',         zh: '溪谷' } },
+    { key: '드라이브', names: { ko: '드라이브', en: 'Scenic drive',    ja: 'ドライブ',     zh: '自駕兜風' } },
+    { key: '전망대',   names: { ko: '전망대',   en: 'Lookout',         ja: '展望台',       zh: '觀景台' } },
+    { key: '유적',     names: { ko: '유적',     en: 'Historic site',   ja: '史跡',         zh: '古蹟' } },
+    { key: '수목원',   names: { ko: '수목원',   en: 'Arboretum',       ja: '樹木園',       zh: '樹木園' } },
+    { key: '공원',     names: { ko: '공원',     en: 'Park',            ja: '公園',         zh: '公園' } }
   ],
   /* ---- 카테고리 --------------------------------------------------------
      slug 이 주소가 됩니다: /travel.html · /food.html

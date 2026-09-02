@@ -78,7 +78,8 @@ module.exports = {
     { slug: 'gangwon',     color: '#2a6984', colorDark: '#7cc1de',   // 청록
       names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' },
       areas: [
-        { slug: 'cheorwon', names: { ko: '철원', en: 'Cheorwon', ja: '鉄原', zh: '鐵原' } }
+        { slug: 'cheorwon',  names: { ko: '철원', en: 'Cheorwon',  ja: '鉄原', zh: '鐵原' } },
+        { slug: 'gangneung', names: { ko: '강릉', en: 'Gangneung', ja: '江陵', zh: '江陵' } }
       ] },
     { slug: 'chungcheong', color: '#498235', colorDark: '#9fd98c',   // 초록
       names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' },
@@ -197,6 +198,9 @@ module.exports = {
     { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '豬肉湯飯' } },
     { key: '국수',     names: { ko: '국수',     en: 'Noodles',         ja: '麺',           zh: '麵食' } },
     { key: '순두부',   names: { ko: '순두부',   en: 'Sundubu',         ja: 'スンドゥブ',   zh: '嫩豆腐' } },
+    { key: '백반',     names: { ko: '백반',     en: 'Home-style set',  ja: 'ペクバン',     zh: '家常定食' } },
+    { key: '제육볶음', names: { ko: '제육볶음', en: 'Spicy pork',      ja: 'チェユク炒め', zh: '辣炒豬肉' } },
+    { key: '오징어볶음', names: { ko: '오징어볶음', en: 'Spicy squid',  ja: 'イカ炒め',     zh: '辣炒魷魚' } },
     { key: '콩국수',   names: { ko: '콩국수',   en: 'Kongguksu',       ja: 'コングクス',   zh: '豆漿麵' } },
     { key: '막국수',   names: { ko: '막국수',   en: 'Makguksu',        ja: 'マッククス',   zh: '蕎麥拌麵' } },
     { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉麵' } },

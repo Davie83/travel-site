@@ -153,9 +153,11 @@ img{max-width:100%;display:block;}
 }
 .hero p{margin:0;max-width:56ch;color:var(--ink-mute);font-size:16.5px;}
 
-/* 목록/지역/동네/장르 페이지 상단 소개 문단 — 빈 목록처럼 보이지 않게 */
-.page-intro{max-width:62ch;margin:20px 0 4px;}
-.page-intro p{margin:0 0 9px;color:var(--ink-mute);font-size:15px;line-height:1.75;}
+/* 목록/지역/동네/장르 페이지 상단 소개 문단 — 빈 목록처럼 보이지 않게.
+   .wrap 의 가운데 정렬·최대폭은 그대로 두고(헤더·탭과 왼쪽 끝을 맞춤),
+   읽기 좋은 폭은 문단(p)에만 겁니다. */
+.page-intro{margin-top:20px;margin-bottom:6px;}
+.page-intro p{max-width:64ch;margin:0 0 9px;color:var(--ink-mute);font-size:15px;line-height:1.75;}
 .page-intro p:last-child{margin-bottom:0;}
 .page-intro strong{color:var(--ink);font-weight:700;}
 @media (max-width:600px){ .page-intro p{font-size:14.5px;} }

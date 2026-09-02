@@ -301,12 +301,17 @@ module.exports = {
     { slug: 'bibimbap',         emoji: '🍚',
       names: { ko: '비빔밥',     en: 'Bibimbap',          ja: 'ビビンバ',      zh: '拌飯' },
       tags:  ['비빔밥', '육회비빔밥'] },
+    { slug: 'western',          emoji: '🍽️',
+      names: { ko: '양식·레스토랑', en: 'Western & Restaurants', ja: '洋食・レストラン', zh: '西餐·餐廳' },
+      tags:  ['양식', '파스타', '뇨끼', '리조또', '그라탕', '스테이크', '멕시칸', '타코', '파히타', '와인뷔페', '퓨전'] },
     { slug: 'cafe-dessert',     emoji: '☕',
       names: { ko: '카페·디저트', en: 'Cafes & Dessert',  ja: 'カフェ・スイーツ', zh: '咖啡·甜點' },
       tags:  ['카페', '드립커피', '디저트', '베이커리', '수플레', '팬케이크'] },
-    { slug: 'bars-makgeolli',   emoji: '🍶',
-      names: { ko: '술집·막걸리', en: 'Bars & Makgeolli', ja: '居酒屋・マッコリ', zh: '酒館·馬格利' },
-      tags:  ['술집', '막걸리', '술안주', '이자카야'] }
+    /* 한식 — 특정 장르에 안 걸리는 한식 몇 개(곱창전골·시장 음식)를 담습니다.
+       slug 는 예전 주소를 살리려고 그대로 둡니다 (표시 이름만 '한식'). */
+    { slug: 'bars-makgeolli',   emoji: '🥘',
+      names: { ko: '한식', en: 'Korean', ja: '韓国料理', zh: '韓式料理' },
+      tags:  ['곱창전골', '전골', '술안주', '막걸리'] }
   ],
 
   /* ---- 예시글: 목록 맨 뒤로 밀기 ---------------------------------------

@@ -153,11 +153,16 @@ img{max-width:100%;display:block;}
 }
 .hero p{margin:0;max-width:56ch;color:var(--ink-mute);font-size:16.5px;}
 
-/* 목록/지역/동네/장르 페이지 상단 소개 문단 — 빈 목록처럼 보이지 않게.
-   .wrap 의 가운데 정렬·최대폭은 그대로 두고(헤더·탭과 왼쪽 끝을 맞춤),
-   읽기 좋은 폭은 문단(p)에만 겁니다. */
-.page-intro{margin-top:20px;margin-bottom:6px;}
-.page-intro p{max-width:64ch;margin:0 0 9px;color:var(--ink-mute);font-size:15px;line-height:1.75;}
+/* 목록/지역/동네/장르 페이지 상단 소개 문단.
+   .wrap 의 가운데 정렬·최대폭은 그대로 두고, 왼쪽에 지역색 액센트 바를 둬서
+   "왼쪽에 몰린 글"이 아니라 "의도된 소개 블록"으로 읽히게 합니다.
+   border(3) + padding-left(17) = 20 → 헤더·탭 글자 왼쪽 끝과 정확히 맞습니다. */
+.page-intro{
+  margin-top:18px;margin-bottom:10px;
+  border-left:4px solid var(--r,var(--line));
+  padding-left:16px;padding-right:20px;
+}
+.page-intro p{max-width:58rem;margin:0 0 9px;color:var(--ink-mute);font-size:15px;line-height:1.75;}
 .page-intro p:last-child{margin-bottom:0;}
 .page-intro strong{color:var(--ink);font-weight:700;}
 @media (max-width:600px){ .page-intro p{font-size:14.5px;} }

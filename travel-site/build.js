@@ -845,10 +845,11 @@ function tagChipsHTML(m, base, code, t) {
 /** 목록·지역·동네·장르·카테고리 페이지 상단의 소개 문단 블록.
  *  text: 줄바꿈으로 문단을 나눈 평문 (**굵게**·[글자](주소) 허용). 비어 있으면 블록 자체를 만들지 않습니다.
  *  이런 페이지가 "제목 + 카드 목록"만 있으면 검색엔진이 알맹이 없는 페이지로 봅니다. */
-function pageIntroHTML(text) {
+function pageIntroHTML(text, accentSlug) {
   const paras = String(text || '').split('\n').map(s => s.trim()).filter(Boolean);
   if (!paras.length) return '';
-  return '  <div class="wrap page-intro">\n'
+  const style = accentSlug ? ` style="--r:var(--region-${accentSlug})"` : '';
+  return `  <div class="wrap page-intro"${style}>\n`
     + paras.map(p => `    <p>${inline(escapeHtml(p))}</p>`).join('\n')
     + '\n  </div>\n';
 }
@@ -1631,7 +1632,7 @@ function build() {
           regionSlug: r.slug,
           regionName: escapeHtml(name),
           regionEn: escapeHtml(r.slug),
-          intro: pageIntroHTML((r.intro && r.intro[code]) || ''),
+          intro: pageIntroHTML((r.intro && r.intro[code]) || '', r.slug),
           tabs: tabs,
           areaChips: areaChips,
           cards: inRegion.length
@@ -1691,7 +1692,7 @@ function build() {
             regionSlug: r.slug,
             regionName: escapeHtml(aName),
             regionEn: escapeHtml(a.slug),
-            intro: pageIntroHTML(inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : ''),
+            intro: pageIntroHTML(inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : '', r.slug),
             tabs: tabs,
             areaChips: '',
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),

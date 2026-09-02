@@ -56,10 +56,10 @@ module.exports = {
     { slug: 'seoul',       color: '#312a7e', colorDark: '#827adc',   // 남색
       names: { ko: '서울',      en: 'Seoul',              ja: 'ソウル',   zh: '首爾' },
       intro: {
-        ko: '서울에서 직접 먹으러 다니고 걸어 다닌 기록입니다. 명동·남대문의 노포 칼국수와 냉면, 여의도·영등포의 점심 맛집, 홍대·마포의 고깃집과 카페, 강남의 양식과 디저트까지 지역이 넓은 만큼 종류도 다양합니다. 대부분 지하철역에서 걸어갈 거리이고, 아래에서 동네별로 좁혀 볼 수 있습니다.',
-        en: 'Notes from eating and walking our way around Seoul. Old-school kalguksu and naengmyeon in Myeongdong and Namdaemun, lunch spots in Yeouido and Yeongdeungpo, grill houses and cafes in Hongdae and Mapo, Western food and dessert in Gangnam — a wide city, so a wide range. Most are a short walk from a subway station; narrow by neighbourhood below.',
-        ja: 'ソウルで実際に食べ歩き、歩き回った記録です。明洞・南大門の老舗カルグクスや冷麺、汝矣島・永登浦のランチ、弘大・麻浦の焼肉店とカフェ、江南の洋食やデザートまで、街が広いぶん種類も幅広いです。多くは地下鉄駅から歩ける距離で、下で街ごとに絞り込めます。',
-        zh: '在首爾實際吃過、走過的記錄。明洞、南大門的老字號刀切麵和冷麵，汝矣島、永登浦的午餐店，弘大、麻浦的烤肉店和咖啡館，江南的西餐和甜點 —— 城市大，種類也雜。大多離地鐵站走得到，下面可以按街區篩選。' },
+        ko: '서울은 이 사이트에서 기록이 가장 많은 지역입니다. 명동·남대문의 노포 칼국수와 냉면, 여의도·영등포의 직장인 점심, 홍대·마포의 고깃집과 카페, 강남·신사의 양식과 디저트까지 — 한 도시 안에서도 동네마다 색이 다릅니다. 대부분 지하철로 닿고 걸어서 10분 안쪽이라, 하루에 두세 곳을 묶기 좋습니다. 아래 동네 버튼으로 좁혀 보세요.',
+        en: 'Seoul has the most entries on this site. Old-school kalguksu and naengmyeon in Myeongdong and Namdaemun, office lunches in Yeouido and Yeongdeungpo, grill houses and cafes in Hongdae and Mapo, Western food and dessert in Gangnam and Sinsa — each neighbourhood has its own character. Most are a subway ride and a ten-minute walk away, so two or three fit into a day. Narrow down with the neighbourhood buttons below.',
+        ja: 'ソウルはこのサイトで最も記録が多い地域です。明洞・南大門の老舗カルグクスや冷麺、汝矣島・永登浦の会社員ランチ、弘大・麻浦の焼肉店とカフェ、江南・新沙の洋食やデザートまで — 同じ街でも地区ごとに色が違います。多くは地下鉄で行けて徒歩10分以内なので、1日に2〜3か所まとめやすいです。下の地区ボタンで絞ってください。',
+        zh: '首爾是本站記錄最多的地區。明洞、南大門的老字號刀切麵和冷麵，汝矣島、永登浦的上班族午餐，弘大、麻浦的烤肉店和咖啡館，江南、新沙的西餐和甜點 —— 同一座城市，每個街區個性都不同。大多搭地鐵到得了、步行十分鐘內，一天排兩三處剛好。用下面的街區按鈕篩選。' },
       areas: [
         { slug: 'yeouido',      names: { ko: '여의도',     en: 'Yeouido',                ja: '汝矣島',        zh: '汝矣島' } },
         { slug: 'myeongdong',   names: { ko: '명동·남대문', en: 'Myeongdong & Namdaemun', ja: '明洞・南大門',  zh: '明洞·南大門' } },
@@ -76,10 +76,10 @@ module.exports = {
     { slug: 'gyeonggi',    color: '#884096', colorDark: '#d5a4df',   // 보라
       names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' },
       intro: {
-        ko: '서울에서 당일로 다녀올 수 있는 경기·인천 지역입니다. 인천 연안부두의 밴댕이, 강화도 초입의 숯불 생선구이, 가평의 잣순두부, 영종도 파라다이스시티의 스파처럼 서울 일정에서 살짝 벗어난 곳들을 적었습니다. 대부분 차가 있으면 편합니다.',
-        en: 'Gyeonggi and Incheon — close enough for a day trip from Seoul. Banded herring at Incheon’s Yeonan Pier, charcoal-grilled fish at the entrance to Ganghwa Island, pine-nut sundubu in Gapyeong, the spa at Paradise City on Yeongjong Island: places just off a Seoul itinerary. A car helps for most of them.',
-        ja: 'ソウルから日帰りできる京畿・仁川エリアです。仁川・沿岸埠頭のバンデギ、江華島の入口の炭火焼き魚、加平の松の実スンドゥブ、永宗島パラダイスシティのスパなど、ソウルの行程から少し外れた場所を書きました。多くは車があると楽です。',
-        zh: '從首爾當天就能來回的京畿、仁川一帶。仁川沿岸碼頭的斑鰶、江華島入口的炭火烤魚、加平的松子嫩豆腐、永宗島百樂達斯城的水療 —— 都是稍微偏離首爾行程的地方。大多有車比較方便。' },
+        ko: '서울 바깥으로 반나절이면 닿는 경기·인천을 모았습니다. 인천 연안부두의 밴댕이회무침, 강화도 초입의 숯불 생선구이, 가평의 잣순두부처럼 그 지역에서만 제대로 먹는 음식이 있고, 영종도 파라다이스시티의 스파처럼 공항 근처에서 시간을 보내기 좋은 곳도 있습니다. 강화도는 섬이라, 대중교통보다 차가 훨씬 편합니다.',
+        en: 'Gyeonggi and Incheon, all within a half-day of central Seoul. Dishes you only get properly on their home ground — raw banded herring at Incheon’s Yeonan Pier, charcoal-grilled fish at the gateway to Ganghwa Island, pine-nut sundubu in Gapyeong — plus places to pass airport time, like the spa at Paradise City on Yeongjong Island. Ganghwa is an island, so a car beats public transport by a wide margin.',
+        ja: 'ソウルの外へ半日で行ける京畿・仁川を集めました。仁川・沿岸埠頭のバンデギ和え、江華島の入口の炭火焼き魚、加平の松の実スンドゥブなど、その土地でこそきちんと食べられる料理があり、永宗島パラダイスシティのスパのように空港近くで時間を過ごせる場所もあります。江華島は島なので、公共交通より車がずっと楽です。',
+        zh: '整理了從首爾市中心半天內能到的京畿、仁川。有只有在當地才吃得道地的菜 —— 仁川沿岸碼頭的涼拌斑鰶、江華島入口的炭火烤魚、加平的松子嫩豆腐 —— 也有適合在機場附近打發時間的地方，像永宗島百樂達斯城的水療。江華島是島，開車比大眾運輸方便太多。' },
       areas: [
         { slug: 'incheon',  names: { ko: '인천',   en: 'Incheon',        ja: '仁川',   zh: '仁川' } },
         { slug: 'gapyeong', names: { ko: '가평',   en: 'Gapyeong',       ja: '加平',   zh: '加平' } },
@@ -88,10 +88,10 @@ module.exports = {
     { slug: 'gangwon',     color: '#2a6984', colorDark: '#7cc1de',   // 청록
       names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' },
       intro: {
-        ko: '강원도는 아직 기록이 많지 않습니다. 철원의 비빔막국수와 강릉 초당순두부 마을의 짬뽕순두부가 있습니다. 서울에서 KTX나 차로 갈 수 있는 곳 위주로 채워 나가는 중입니다.',
-        en: 'Not many entries in Gangwon yet — bibim-makguksu in Cheorwon and jjamppong sundubu in Gangneung’s Chodang tofu village. We’re filling this in with places reachable from Seoul by KTX or car.',
-        ja: '江原道はまだ記録が多くありません。鉄原のビビムマッククスと、江陵・草堂スンドゥブ村のチャンポンスンドゥブがあります。ソウルからKTXや車で行ける場所を中心に増やしています。',
-        zh: '江原道的記錄還不多，目前有鐵原的拌蕎麥麵，和江陵草堂嫩豆腐村的炒碼嫩豆腐。正在以從首爾搭 KTX 或開車能到的地方為主慢慢補上。' },
+        ko: '강원은 동해 바다와 태백산맥 사이에 걸쳐 있어, 같은 도(道) 안에서도 바다 쪽과 산 쪽의 분위기가 꽤 다릅니다. 지금은 강릉 초당순두부 마을의 짬뽕순두부와 철원의 비빔막국수를 다룹니다. 서울에서 강릉까지는 KTX로 두 시간, 경포·안목해변 일정과 묶기 좋습니다.',
+        en: 'Gangwon stretches between the East Sea and the Taebaek mountains, so the coast and the highlands feel quite different even within one province. It covers jjamppong sundubu in Gangneung’s Chodang tofu village and bibim-makguksu in Cheorwon. Gangneung is two hours from Seoul by KTX and pairs well with Gyeongpo or Anmok Beach.',
+        ja: '江原は東海（日本海）と太白山脈の間にまたがり、同じ道の中でも海側と山側で雰囲気がかなり違います。今は江陵・草堂スンドゥブ村のチャンポンスンドゥブと、鉄原のビビムマッククスを扱っています。ソウルから江陵までKTXで2時間、鏡浦・安木ビーチの行程と組み合わせやすいです。',
+        zh: '江原橫跨東海與太白山脈之間，同一個道裡，靠海和靠山的氛圍差很多。目前收錄江陵草堂嫩豆腐村的炒碼嫩豆腐，和鐵原的拌蕎麥麵。從首爾到江陵搭 KTX 兩小時，很適合搭配鏡浦、安木海邊的行程。' },
       areas: [
         { slug: 'cheorwon',  names: { ko: '철원', en: 'Cheorwon',  ja: '鉄原', zh: '鐵原' } },
         { slug: 'gangneung', names: { ko: '강릉', en: 'Gangneung', ja: '江陵', zh: '江陵' } }
@@ -99,10 +99,10 @@ module.exports = {
     { slug: 'chungcheong', color: '#498235', colorDark: '#9fd98c',   // 초록
       names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' },
       intro: {
-        ko: '충청은 대전과 제천을 다룹니다. 대전의 연한 콩국수, 청풍호반을 내려다보는 제천 청풍리조트와 그 근처 떡갈비집이 있습니다. 서울·부산 사이를 오갈 때나 내륙 호수 여행에 곁들이기 좋은 곳들입니다.',
-        en: 'Chungcheong covers Daejeon and Jecheon: mild kongguksu in Daejeon, the Cheongpung resort looking over the lake in Jecheon and a tteok-galbi place nearby. Good to add on when travelling between Seoul and Busan, or on an inland-lake trip.',
-        ja: '忠清は大田と堤川を扱います。大田の淡いコングクス、清風湖畔を見下ろす堤川の清風リゾートとその近くのトッカルビ店。ソウルと釜山を行き来するときや、内陸の湖の旅に添えるのにいい場所です。',
-        zh: '忠清這邊涵蓋大田和堤川：大田清淡的豆漿麵，俯瞰清風湖的堤川清風度假村，還有附近一家年糕排骨店。適合在首爾、釜山之間往返時，或內陸湖泊行程順道加進去。' },
+        ko: '충청은 서울과 부산 사이, 내륙 한가운데입니다. 대전의 연한 콩국수처럼 담백한 한 끼가 있고, 청풍호반을 내려다보는 제천 청풍리조트와 그 근처 떡갈비집처럼 호수를 끼고 쉬어 가는 코스도 있습니다. 고속도로로 지나는 길에 한 끼, 혹은 단양·충주를 묶은 내륙 호수 여행에 넣기 좋습니다.',
+        en: 'Chungcheong sits in the middle of the country, between Seoul and Busan. There is a plain, gentle meal like Daejeon’s mild kongguksu, and a lake-side stop like the Cheongpung resort overlooking the water in Jecheon with a tteok-galbi place nearby. Good for a meal on the drive through, or as part of an inland-lake trip taking in Danyang and Chungju.',
+        ja: '忠清はソウルと釜山の間、内陸のちょうど真ん中です。大田の淡いコングクスのようなあっさりした一食があり、清風湖畔を見下ろす堤川の清風リゾートとその近くのトッカルビ店のように、湖のそばで一息つくコースもあります。高速道路で通る道すがらの一食や、丹陽・忠州をまとめた内陸の湖の旅に入れやすいです。',
+        zh: '忠清位在首爾和釜山之間，內陸的正中央。有大田清淡的豆漿麵這種爽口的一餐，也有俯瞰清風湖的堤川清風度假村加附近年糕排骨店這種傍著湖休息的行程。適合開高速公路經過時吃一頓，或排進丹陽、忠州串起來的內陸湖泊旅行。' },
       areas: [
         { slug: 'daejeon', names: { ko: '대전', en: 'Daejeon', ja: '大田', zh: '大田' } },
         { slug: 'jecheon', names: { ko: '제천', en: 'Jecheon', ja: '堤川', zh: '堤川' } }
@@ -110,10 +110,10 @@ module.exports = {
     { slug: 'jeolla',      color: '#998329', colorDark: '#e7d488',   // 황금
       names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全羅' },
       intro: {
-        ko: '전라는 전북과 전남광주를 다룹니다. 부안의 피순대, 나주곰탕, 광주 떡갈비 골목처럼 그 지역 이름이 붙은 음식 위주입니다. 아직 세 곳이라 지역을 옮겨 다니며 늘려 가고 있습니다.',
-        en: 'Jeolla covers Jeonbuk and the merged Jeonnam-Gwangju: dishes that carry the region’s name — pi-sundae in Buan, Naju gomtang, the tteok-galbi alley in Gwangju. Only three so far; we’re adding as we travel.',
-        ja: '全羅は全北と、行政名が変わった全南光州を扱います。扶安のピスンデ、羅州コムタン、光州のトッカルビ横丁など、その地域の名を冠した料理が中心です。まだ三か所で、旅をしながら増やしています。',
-        zh: '全羅這邊涵蓋全北和已改名的全南光州：多半是冠上當地名字的菜 —— 扶安的血腸、羅州牛肉湯、光州的年糕排骨巷。目前只有三處，正一邊旅行一邊增加。' },
+        ko: '전라는 남도 음식의 고장으로 불립니다. 부안의 피순대, 나주곰탕, 광주 떡갈비 골목처럼 지역 이름이 그대로 음식 이름이 되는 곳들이 많습니다. 전남과 광주가 행정구역상 전남광주로 통합되면서 주소 표기도 바뀌었는데, 글에는 바뀐 기준으로 적었습니다.',
+        en: 'Jeolla is known as the home of Namdo cooking. Often the place name is the dish name — pi-sundae in Buan, Naju gomtang, the tteok-galbi alley in Gwangju. With South Jeolla and Gwangju now administratively merged as Jeonnam-Gwangju, addresses have changed too; the write-ups use the new form.',
+        ja: '全羅は南道料理の本場として知られます。扶安のピスンデ、羅州コムタン、光州のトッカルビ横丁のように、地名がそのまま料理名になっている場所が多いです。全羅南道と光州が行政上「全南光州」に統合され、住所表記も変わりましたが、記事では変更後の基準で書いています。',
+        zh: '全羅被稱為南道料理的發源地。很多地方，地名直接就是菜名 —— 扶安的血腸、羅州牛肉湯、光州的年糕排骨巷。隨著全羅南道和光州在行政上合併為「全南光州」，地址寫法也變了，文章裡採用改制後的寫法。' },
       areas: [
         { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' } },
         { slug: 'jeonnam', names: { ko: '전남광주', en: 'Jeonnam-Gwangju', ja: '全南光州', zh: '全南光州' } }
@@ -121,10 +121,10 @@ module.exports = {
     { slug: 'gyeongsang',  color: '#993633', colorDark: '#e39996',   // 벽돌
       names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '慶尚' },
       intro: {
-        ko: '경상은 경주·거제·진해를 다룹니다. 낮과 밤을 나눠 도는 경주 불국사와 첨성대, 거제도 바람의 언덕 사이를 걷는 길, 진해 용원의 생대구탕이 있습니다. 부산 일정에 하루씩 붙이기 좋은 곳들입니다.',
-        en: 'Gyeongsang covers Gyeongju, Geoje and Jinhae: Bulguksa and Cheomseongdae in Gyeongju split across day and night, the walking route around Geoje’s Windy Hill, saeng-daegu-tang in Jinhae’s Yongwon. Each adds a day to a Busan trip.',
-        ja: '慶尚は慶州・巨済・鎮海を扱います。昼と夜に分けて回る慶州の仏国寺と瞻星台、巨済島の風の丘を歩く道、鎮海・龍院の生タラ鍋。釜山の行程に一日ずつ足すのにいい場所です。',
-        zh: '慶尚這邊涵蓋慶州、巨濟、鎮海：分白天和晚上走的慶州佛國寺與瞻星台，巨濟島風之丘一帶的步道，鎮海龍院的鮮鱈魚湯。都適合在釜山行程各加一天。' },
+        ko: '경상은 신라의 옛 수도 경주부터 남해안의 거제·진해까지 폭이 넓습니다. 낮에 불국사·석굴암을 보고 밤에 첨성대·동궁과 월지를 걷는 경주, 바람의 언덕과 해금강 사이를 걷는 거제, 이리(대구 이리)의 크리미한 맛이 인상적인 진해 용원의 생대구탕이 있습니다. 대부분 부산 일정에 하루씩 이어 붙이기 좋습니다.',
+        en: 'Gyeongsang runs wide, from Gyeongju — Silla’s old capital — down to Geoje and Jinhae on the south coast. Bulguksa and Seokguram by day and Cheomseongdae and Donggung by night in Gyeongju; the walk between Windy Hill and Haegeumgang on Geoje; saeng-daegu-tang in Jinhae’s Yongwon, memorable for the creamy cod milt. Most add a day onto a Busan trip.',
+        ja: '慶尚は新羅の古都・慶州から、南海岸の巨済・鎮海まで幅広いです。昼に仏国寺・石窟庵、夜に瞻星台・東宮と月池を歩く慶州、風の丘と海金剛の間を歩く巨済、白子のクリーミーさが印象的な鎮海・龍院の生タラ鍋。多くは釜山の行程に一日ずつ足すのに向いています。',
+        zh: '慶尚幅員很廣，從新羅古都慶州，一路到南海岸的巨濟、鎮海。慶州白天看佛國寺、石窟庵，晚上走瞻星台、東宮與月池；巨濟走風之丘和海金剛之間；鎮海龍院的鮮鱈魚湯，魚白的綿密令人印象深刻。大多適合在釜山行程後面各接一天。' },
       areas: [
         { slug: 'gyeongju', names: { ko: '경주', en: 'Gyeongju', ja: '慶州', zh: '慶州' } },
         { slug: 'geoje',    names: { ko: '거제', en: 'Geoje',    ja: '巨済', zh: '巨濟' } },
@@ -133,10 +133,10 @@ module.exports = {
     { slug: 'busan',       color: '#257e77', colorDark: '#72dfd6',   // 바다
       names: { ko: '부산',      en: 'Busan',              ja: '釜山',     zh: '釜山' },
       intro: {
-        ko: '부산은 동래와 광안리를 다룹니다. 동래의 돼지국밥 두 곳과 복국처럼, 부산 사람들이 아침부터 먹는 국물 요리 위주입니다. 국밥이 처음이면 어느 집이 덜 부담스러운지도 적었습니다.',
-        en: 'Busan covers Dongnae and Gwangalli: soup dishes locals eat from the morning — two dwaeji-gukbap places and a bokguk in Dongnae. If gukbap is new to you, we note which one is the gentler start.',
-        ja: '釜山は東莱と広安里を扱います。東莱のテジクッパ2軒やボックク（フグ鍋）など、釜山の人が朝から食べる汁物が中心です。クッパが初めてなら、どの店が入りやすいかも書きました。',
-        zh: '釜山這邊涵蓋東萊和廣安里：多半是當地人從早上就吃的湯類 —— 東萊兩家豬肉湯飯，還有一家河豚湯。第一次吃湯飯的話，也寫了哪一家比較好入門。' },
+        ko: '부산은 국물 요리부터 채웠습니다. 동래의 돼지국밥 두 곳과 복국처럼, 부산 사람들이 아침 일찍부터 뚝배기를 비우는 음식들입니다. 돼지국밥이 처음이라면 잡내가 덜한 집이 어디인지, 새우젓·부추를 어떻게 넣는지도 글에 적어 뒀습니다. 광안리 바다와도 가깝습니다.',
+        en: 'Busan starts with soup. Dishes locals empty an earthenware bowl of first thing in the morning — two dwaeji-gukbap places and a bokguk in Dongnae. If dwaeji-gukbap is new to you, the write-ups note which place is the least funky and how to use the salted shrimp and chives. Gwangalli beach is close by, too.',
+        ja: '釜山は汁物から埋めました。東莱のテジクッパ2軒やボックク（フグ鍋）のように、釜山の人が朝早くから土鍋を空にする料理です。テジクッパが初めてなら、臭みの少ない店はどこか、アミの塩辛やニラをどう入れるかも記事に書いています。広安里の海も近いです。',
+        zh: '釜山先從湯類補起。像東萊兩家豬肉湯飯和一家河豚湯，都是當地人一大早就把砂鍋喝光的菜。第一次吃豬肉湯飯的話，文章裡也寫了哪一家腥味比較少、蝦醬和韭菜怎麼加。離廣安里海邊也很近。' },
       areas: [
         { slug: 'dongnae',   names: { ko: '동래',   en: 'Dongnae',   ja: '東莱',   zh: '東萊' } },
         { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '廣安里' } }
@@ -144,10 +144,10 @@ module.exports = {
     { slug: 'jeju',        color: '#c25e10', colorDark: '#f5a45a',   // 감귤
       names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '濟州' },
       intro: {
-        ko: '제주를 렌터카로 돌며 먹고 다닌 기록입니다. 제주식 해장국과 전복죽·물회 같은 한 끼부터, 성산일출봉과 광치기해변·모슬포 해안도로 같은 여행지, 애월·성산의 카페까지 있습니다. 공항에서 시작하는 서부·동부 동선에 넣기 좋게 지역별로 정리했습니다.',
-        en: 'Notes from driving around Jeju to eat and look. Meals like Jeju-style haejangguk, abalone porridge and mulhoe; places like Seongsan Ilchulbong, Gwangchigi Beach and the Moseulpo coastal road; cafes in Aewol and Seongsan. Sorted by area so they slot into a west- or east-Jeju route from the airport.',
-        ja: '済州をレンタカーで回りながら食べ歩いた記録です。済州式ヘジャングクやアワビ粥・ムルフェといった食事から、城山日出峰や光致岐海岸・摹瑟浦の海岸道路といった観光地、涯月・城山のカフェまで。空港から始まる西部・東部の動線に組み込みやすいよう地域別にまとめました。',
-        zh: '在濟州租車繞著吃、繞著看的記錄。有濟州式解酒湯、鮑魚粥、水拌生魚這類正餐，也有城山日出峰、光致岐海邊、摹瑟浦海岸路這些景點，還有涯月、城山的咖啡館。按地區整理，方便排進從機場出發的西部、東部動線。' },
+        ko: '제주는 렌터카로 도는 걸 전제로 정리했습니다. 제주식 해장국과 전복죽·물회 같은 한 끼, 성산일출봉·광치기해변·모슬포 해안도로 같은 풍경, 애월·성산의 바다 보이는 카페까지 있습니다. 공항에서 시작해 서쪽 또는 동쪽으로 도는 이틀 동선에 자연스럽게 들어갑니다. 여름 한치·봄 유채꽃처럼 철을 타는 메뉴는 글에 표시해 뒀습니다.',
+        en: 'Jeju is organised around driving. Meals like Jeju-style haejangguk, abalone porridge and mulhoe; scenery like Seongsan Ilchulbong, Gwangchigi Beach and the Moseulpo coastal road; sea-view cafes in Aewol and Seongsan. It slots into a two-day loop west or east from the airport. Seasonal items — summer hanchi squid, spring canola — are flagged in each write-up.',
+        ja: '済州はレンタカーで回る前提でまとめています。済州式ヘジャングクやアワビ粥・ムルフェといった食事、城山日出峰・光致岐海岸・摹瑟浦の海岸道路といった風景、涯月・城山の海が見えるカフェまで。空港から西または東へ回る二日間の動線に自然に入ります。夏のヤリイカ、春の菜の花など季節ものは各記事に明記しています。',
+        zh: '濟州是以租車環島為前提整理的。有濟州式解酒湯、鮑魚粥、水拌生魚這類正餐，城山日出峰、光致岐海邊、摹瑟浦海岸路這些風景，還有涯月、城山看得到海的咖啡館。很自然地能排進從機場出發往西或往東的兩天動線。夏天的長槍烏賊、春天的油菜花這類季節限定，每篇都有標註。' },
       areas: [
         { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '濟州市' } },
         { slug: 'aewol',    names: { ko: '애월',    en: 'Aewol',     ja: '涯月',    zh: '涯月' } },
@@ -314,8 +314,10 @@ module.exports = {
      /en/tips/transport 같은 개별 페이지를 만듭니다 (허브 = /en/tips).
      아래 슬러그(= tips.md 의 {#...})만 검색에 노출합니다. 나머지 섹션도
      개별 페이지는 생기지만 noindex 라서 허브·빵부스러기 링크로만 닿습니다.
-     "이 주제로 검색 유입을 노린다" 싶은 것만 고르세요.                */
-  tipsPages: ['transport', 'money', 'maps', 'help', 'dining', 'tipping', 'firstday'],
+     "이 주제로 검색 유입을 노린다" 싶은 것만 고르세요.
+     tipping·firstday 는 분량이 짧아 단독 페이지로는 빈약해서 뺐습니다
+     (허브 /tips 에서는 계속 보입니다). 내용을 늘리면 다시 넣으세요.        */
+  tipsPages: ['transport', 'money', 'maps', 'help', 'dining'],
 
   genres: [
     { slug: 'korean-bbq',       emoji: '🍖',

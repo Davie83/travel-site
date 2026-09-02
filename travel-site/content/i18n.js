@@ -20,10 +20,15 @@ module.exports = {
       travel: '어디를 갈지보다 어떻게 돌지가 더 어렵습니다. 코스와 동선 위주로 정리했습니다.',
       food:   '줄 서기 전에 알아야 할 가격대, 주문 방법, 웨이팅을 함께 적었습니다.'
     },
+    categoryIntro: {
+      travel: '한국을 직접 다니며 걸었던 여행지 기록입니다. 유명한 곳 한두 개보다, 그 사이를 어떤 순서로 어떻게 이동했는지에 무게를 뒀습니다. 입장료·개방 시간·붐비는 때처럼 가기 전에 알면 시간을 아끼는 것들을 함께 적었고, 지역과 동네로 좁혀 볼 수 있습니다.',
+      food:   '한국인이 직접 먹으러 다닌 맛집 기록입니다. 별점 대신, 얼마쯤 나오는지·어떻게 주문하는지·언제 붐비는지·관광객이 앉아서 편한지를 적었습니다. 한식이 익숙하지 않아도 고를 수 있도록, 매운 정도와 대표 메뉴 한국어 표기도 함께 넣었습니다. 음식 종류나 지역으로 좁혀 보세요.'
+    },
 
     findByRegion: '지역으로 찾기',
     genreTitleTpl: '{name} 맛집',
     genreDescTpl:  '직접 다녀온 {name} 맛집을 모았습니다. 가격·주문 방법·관광객이 편한지 위주로 적었습니다.',
+    genreIntroTpl: '직접 다녀와 적은 {name} 기록 {count}곳입니다. 별점 대신 가격대와 주문 방법, 매운 정도, 관광객이 앉아서 편한지를 적었습니다. 지역은 {regions}이며, 아래 버튼으로 좁혀 볼 수 있습니다.',
     areaTitleTpl:  '{region} {area} — 맛집과 여행지',
     areaDescTpl:   '{region} {area} 일대에서 직접 다녀온 곳들. 동선·예산·가는 법 위주로 정리했습니다.',
     genreHomeTitle: '무엇을 먹지?',
@@ -166,10 +171,15 @@ module.exports = {
       travel: 'Choosing where to go is the easy part. These guides focus on the order to walk it in and how long it actually takes.',
       food:   'Prices, how to order, and how long the queue really is — before you join it.'
     },
+    categoryIntro: {
+      travel: 'Notes from places in Korea we walked ourselves. Rather than a headline sight or two, the weight here is on the order we moved between them and how it actually went. We add the things that save you time on the day — entry fees, opening hours, when it gets crowded — and you can narrow by region and neighbourhood.',
+      food:   'Notes from places Koreans actually went to eat. Instead of star ratings, we write down roughly what it costs, how to order, when it gets busy, and whether it is comfortable for a visitor to sit down. So you can choose even if Korean food is unfamiliar, we include the spice level and the Korean name of the signature dish. Filter by type of food or by region.'
+    },
 
     findByRegion: 'Browse by region',
     genreTitleTpl: 'Best {name} in Korea',
     genreDescTpl:  '{name} places we actually visited, across Korea. Honest notes on price, how to order, and how tourist-friendly each spot is.',
+    genreIntroTpl: '{count} {name} write-ups, all from visits in person. Instead of star ratings, each notes the price range, how to order, the spice level, and whether it is comfortable for a visitor. Regions covered: {regions} — use the buttons below to filter.',
     areaTitleTpl:  '{area}, {region} — Where to Eat & What to See',
     areaDescTpl:   'Places in {area}, {region} that we have actually been to — with notes on routes, budget, and how to get there.',
     genreHomeTitle: 'What to eat?',
@@ -312,10 +322,15 @@ module.exports = {
       travel: 'どこへ行くかより、どう回るかが難しい。ルートと所要時間を中心にまとめました。',
       food:   '並ぶ前に知っておきたい価格帯、注文方法、待ち時間をまとめています。'
     },
+    categoryIntro: {
+      travel: '韓国を実際に歩いて回った観光地の記録です。有名な場所を一つ二つ挙げるより、その間をどんな順番でどう移動したかに重きを置いています。入場料・開放時間・混む時間帯など、行く前に知っておくと当日の時間を節約できることも書き添え、地域や街で絞り込めます。',
+      food:   '韓国の人が実際に食べ歩いた店の記録です。星の数ではなく、だいたいいくらか・どう注文するか・いつ混むか・観光客が座って居心地よいかを書いています。韓国料理に慣れていなくても選べるように、辛さの度合いと看板メニューの韓国語表記も入れました。料理の種類や地域で絞ってみてください。'
+    },
 
     findByRegion: '地域から探す',
     genreTitleTpl: '韓国の{name}',
     genreDescTpl:  '実際に足を運んだ{name}の店をまとめました。価格・注文方法・観光客の使いやすさを中心に。',
+    genreIntroTpl: '実際に足を運んで書いた{name}の記録が{count}件です。星の数ではなく、価格帯・注文方法・辛さの度合い・観光客が座って居心地よいかを書いています。対象地域は{regions}で、下のボタンで絞り込めます。',
     areaTitleTpl:  '{region}{area} — グルメと観光',
     areaDescTpl:   '{region}{area}周辺で実際に足を運んだ場所。ルート・予算・行き方を中心にまとめました。',
     genreHomeTitle: '何を食べる？',
@@ -458,10 +473,15 @@ module.exports = {
       travel: '去哪裡不難，難的是怎麼走。這裡以路線和實際所需時間為主。',
       food:   '排隊之前該知道的價位、點餐方式和等候時間。'
     },
+    categoryIntro: {
+      travel: '這是我們親自在韓國走過的景點記錄。比起列出一兩個有名的地方，我們更著重在這些點之間是用什麼順序、怎麼移動的。也會補上門票、開放時間、什麼時候人多這些出發前知道就能省時間的事，並且可以按地區和街區篩選。',
+      food:   '這是韓國人親自去吃過的餐廳記錄。不打星等，而是寫大概多少錢、怎麼點餐、什麼時候人多、遊客坐下來自不自在。為了讓不熟悉韓國菜的人也能挑，還加上了辣度和招牌菜的韓文寫法。可以用料理種類或地區來篩選。'
+    },
 
     findByRegion: '按地區瀏覽',
     genreTitleTpl: '韓國{name}',
     genreDescTpl:  '我們實際去過的{name}餐廳彙整。價位、點餐方式、對遊客是否友善，都據實記錄。',
+    genreIntroTpl: '親自跑過、寫下來的{name}記錄共{count}篇。不打星等，而是寫價位、點餐方式、辣度，以及遊客坐下來自不自在。涵蓋地區：{regions}，可用下方按鈕篩選。',
     areaTitleTpl:  '{region}{area} — 美食與景點',
     areaDescTpl:   '在{region}{area}一帶親自去過的地方，以路線、預算和交通方式為主。',
     genreHomeTitle: '吃什麼？',

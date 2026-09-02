@@ -842,6 +842,106 @@ function tagChipsHTML(m, base, code, t) {
   return `    <nav class="tagchips" aria-label="${escapeHtml(t.tagLabel)}">` +
     `<span class="tagchips-label">${escapeHtml(t.tagLabel)}</span>${chips}</nav>`;
 }
+/** 목록·지역·동네·장르·카테고리 페이지 상단의 소개 문단 블록.
+ *  text: 줄바꿈으로 문단을 나눈 평문 (**굵게**·[글자](주소) 허용). 비어 있으면 블록 자체를 만들지 않습니다.
+ *  이런 페이지가 "제목 + 카드 목록"만 있으면 검색엔진이 알맹이 없는 페이지로 봅니다. */
+function pageIntroHTML(text) {
+  const paras = String(text || '').split('\n').map(s => s.trim()).filter(Boolean);
+  if (!paras.length) return '';
+  return '  <div class="wrap page-intro">\n'
+    + paras.map(p => `    <p>${inline(escapeHtml(p))}</p>`).join('\n')
+    + '\n  </div>\n';
+}
+
+/* 동네 페이지 소개 문장 — 데이터(글 수·분류·장르)로 조립해 페이지마다 다르게 나옵니다.
+   손으로 쓴 것처럼 읽히도록 언어별로 문장을 따로 뒀습니다. */
+const AREA_INTRO = {
+  ko: {
+    lead: (r, a, n, f, tv) =>
+      (f && tv) ? `${r} ${a}에서 직접 다녀와 적은 곳이 모두 ${n}곳 있습니다. 먹을 곳과 볼 곳이 섞여 있습니다.`
+      : tv      ? `${r} ${a}에서 직접 다녀와 적은 여행지가 ${n}곳 있습니다.`
+      :           `${r} ${a}에서 직접 다녀와 적은 맛집이 ${n}곳 있습니다.`,
+    food:   gs => `${gs.join(', ')} 쪽이 많습니다.`,
+    travel:     `대체로 걸으면서 둘러보기 좋은 곳들입니다.`,
+    closers: [
+      `가격대와 주문 방법, 붐비는 시간대까지 가기 전에 알면 좋은 것 위주로 적었습니다.`,
+      `관광객이 실제로 편한지, 어떻게 주문하는지를 함께 적었습니다.`,
+      `아래 목록에서 각 글로 들어가면 지도와 동선을 확인할 수 있습니다.`,
+    ],
+  },
+  en: {
+    lead: (r, a, n, f, tv) =>
+      (f && tv) ? `${n} places in ${a}, ${r}, that we visited in person — a mix of where to eat and what to see.`
+      : tv      ? `${n} places to visit in ${a}, ${r}, that we went to in person.`
+      :           `${n} restaurants in ${a}, ${r}, that we ate at in person.`,
+    food:   gs => `Mostly ${gs.join(', ')}.`,
+    travel:     `Most of them are spots you take in on foot.`,
+    closers: [
+      `We note the price range, how to order, and when it gets busy — the things worth knowing before you go.`,
+      `Each write-up covers how tourist-friendly the place is and how ordering works.`,
+      `Open any entry below for its map and how it fits into a route.`,
+    ],
+  },
+  ja: {
+    lead: (r, a, n, f, tv) =>
+      (f && tv) ? `${r}・${a}で実際に足を運んで書いた場所が全部で${n}か所あります。食べる所と見る所が混ざっています。`
+      : tv      ? `${r}・${a}で実際に足を運んで書いた観光スポットが${n}か所あります。`
+      :           `${r}・${a}で実際に食べて書いた店が${n}軒あります。`,
+    food:   gs => `${gs.join('・')}が多めです。`,
+    travel:     `だいたいは歩いて回れる場所です。`,
+    closers: [
+      `価格帯・注文方法・混む時間帯まで、行く前に知っておくと楽なことを中心に書きました。`,
+      `観光客にとって使いやすいか、どう注文するかも一緒に書いています。`,
+      `下の一覧から各記事に入ると、地図と動線を確認できます。`,
+    ],
+  },
+  zh: {
+    lead: (r, a, n, f, tv) =>
+      (f && tv) ? `在${r}${a}親自跑過、寫下來的地方共有${n}處，吃的和逛的都有。`
+      : tv      ? `在${r}${a}親自去過、寫下來的景點有${n}處。`
+      :           `在${r}${a}親自吃過、寫下來的餐廳有${n}家。`,
+    food:   gs => `以${gs.join('、')}居多。`,
+    travel:     `大多是可以邊走邊看的地方。`,
+    closers: [
+      `價位、點餐方式、什麼時候人多 —— 這些出發前知道會比較輕鬆的事，都寫進去了。`,
+      `每一篇也都寫了對遊客友不友善、怎麼點餐。`,
+      `從下面的清單點進各篇，可以看到地圖和動線。`,
+    ],
+  },
+};
+
+/** 동네 페이지 소개 문단(평문). renderPage 전에 pageIntroHTML 로 감쌉니다. */
+function areaIntroText(rSlug, aSlug, code, inArea) {
+  const L = AREA_INTRO[code] || AREA_INTRO.en;
+  const rName = regionName(rSlug, code);
+  const aName = areaName(rSlug, aSlug, code);
+  const food = inArea.filter(p => p.meta.cat === 'food');
+  const travel = inArea.filter(p => p.meta.cat === 'travel');
+
+  const gset = new Set();
+  for (const p of food) { const g = genreOf(p.meta); if (g) gset.add(g.slug); }
+  const gNames = GENRES.filter(g => gset.has(g.slug)).slice(0, 3).map(g => genreName(g, code));
+
+  const parts = [L.lead(rName, aName, inArea.length, food.length, travel.length)];
+  if (food.length && gNames.length) parts.push(L.food(gNames));
+  else if (travel.length && !food.length) parts.push(L.travel);
+  parts.push(L.closers[aSlug.length % L.closers.length]);
+  return parts.join(' ');
+}
+
+const NAME_SEP = { ko: ' · ', ja: '・', zh: '、', en: ', ' };
+
+/** 장르 페이지 소개 문단(평문). i18n 의 genreIntroTpl 에 글 수·지역을 채웁니다. */
+function genreIntroText(g, code, inGenre) {
+  const t = I18N[code];
+  const tpl = t.genreIntroTpl || t.genreDescTpl || '';
+  const regionNames = [...new Set(inGenre.map(p => p.meta.region))].map(rs => regionName(rs, code));
+  return String(tpl)
+    .replace('{name}', genreName(g, code))
+    .replace('{count}', String(inGenre.length))
+    .replace('{regions}', regionNames.join(NAME_SEP[code] || ', '));
+}
+
 function bylineHTML(t) {
   const a = site.author || {};
   if (!a.mapsProfile) return '';
@@ -1531,6 +1631,7 @@ function build() {
           regionSlug: r.slug,
           regionName: escapeHtml(name),
           regionEn: escapeHtml(r.slug),
+          intro: pageIntroHTML((r.intro && r.intro[code]) || ''),
           tabs: tabs,
           areaChips: areaChips,
           cards: inRegion.length
@@ -1590,6 +1691,7 @@ function build() {
             regionSlug: r.slug,
             regionName: escapeHtml(aName),
             regionEn: escapeHtml(a.slug),
+            intro: pageIntroHTML(inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : ''),
             tabs: tabs,
             areaChips: '',
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
@@ -1616,6 +1718,7 @@ function build() {
         body: fill(T.list, {
           heading: escapeHtml(t.categoryTitle[c.slug]),
           desc: escapeHtml(t.categoryDesc[c.slug]),
+          intro: pageIntroHTML((t.categoryIntro && t.categoryIntro[c.slug]) || ''),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: c.slug === 'food' ? genreNavHTML(code, base, genreCounts, null) : '',
           tipsNudge: '',
@@ -1657,6 +1760,7 @@ function build() {
         body: fill(T.list, {
           heading: escapeHtml(heading),
           desc: escapeHtml(desc),
+          intro: pageIntroHTML(indexed ? genreIntroText(g, code, inGenre) : ''),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: genreNavHTML(code, base, genreCounts, g.slug),
           tipsNudge: tipsNudgeHTML(base, code, t),

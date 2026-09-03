@@ -70,6 +70,7 @@ module.exports = {
         { slug: 'mapo',         names: { ko: '마포',       en: 'Mapo',                   ja: '麻浦',          zh: '麻浦' } },
         { slug: 'gwangjin',     names: { ko: '광진·건대',  en: 'Gwangjin & Konkuk Univ.', ja: '広津・建大',   zh: '廣津·建大' } },
         { slug: 'seongdong',    names: { ko: '성동·왕십리', en: 'Seongdong & Wangsimni',  ja: '城東・往十里',  zh: '城東·往十里' } },
+        { slug: 'itaewon',      names: { ko: '이태원·한남', en: 'Itaewon & Hannam',       ja: '梨泰院・漢南',  zh: '梨泰院·漢南' } },
         { slug: 'gangnam',      names: { ko: '강남·서초',  en: 'Gangnam & Seocho',       ja: '江南・瑞草',    zh: '江南·瑞草' } },
         { slug: 'magok',        names: { ko: '강서·마곡',  en: 'Gangseo & Magok',        ja: '江西・麻谷',    zh: '江西·麻谷' } }
       ] },
@@ -246,6 +247,7 @@ module.exports = {
     { key: '막국수',   names: { ko: '막국수',   en: 'Makguksu',        ja: 'マッククス',   zh: '蕎麥拌麵' } },
     { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉麵' } },
     { key: '수육',     names: { ko: '수육',     en: 'Suyuk',           ja: 'スユク',       zh: '水煮肉' } },
+    { key: '한우',     names: { ko: '한우',     en: 'Hanwoo beef',     ja: '韓牛',         zh: '韓牛' } },
     { key: '정식',     names: { ko: '정식',     en: 'Set meal',        ja: '定食',         zh: '套餐' } },
     { key: '족발',     names: { ko: '족발',     en: 'Jokbal',          ja: 'チョッパル',   zh: '豬腳' } },
     { key: '육회',     names: { ko: '육회',     en: 'Yukhoe',          ja: 'ユッケ',       zh: '生牛肉' } },
@@ -324,7 +326,7 @@ module.exports = {
   genres: [
     { slug: 'korean-bbq',       emoji: '🍖',
       names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韓式烤肉' },
-      tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살'] },
+      tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살', '한우'] },
     { slug: 'korean-soup',      emoji: '🍲',
       names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '湯飯' },
       tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장'] },

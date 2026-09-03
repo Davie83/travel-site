@@ -886,6 +886,51 @@ function pageIntroHTML(text, accentSlug) {
     + '\n  </div>\n';
 }
 
+/** "내 주변" 위젯 — 버튼 + 상시 안내문 + 지도 모달을 한 덩어리로 만듭니다.
+ *  홈·카테고리·지역·동네·장르 페이지에서 같은 마크업을 씁니다 (예전에는 홈 템플릿에만 인라인으로 있었습니다).
+ *  filter.js 의 near IIFE 가 .near[data-target] → 그 id 의 .grid 를 찾아 동작합니다.
+ *  gridId: 홈=latest-grid, 카테고리/장르/동네=list-grid, 지역=region-grid. */
+function nearWidgetHTML(t, code, gridId) {
+  const e = escapeHtml;
+  return `  <div class="wrap nearbar">
+    <div class="near" data-target="${e(gridId)}"
+         data-t-busy="${e(t.nearBusy)}" data-t-done="${e(t.nearDone)}" data-t-deny="${e(t.nearDeny)}"
+         data-t-far="${e(t.nearFar)}" data-t-none="${e(t.nearNone)}"
+         data-t-me="${e(t.nearMe)}" data-t-empty="${e(t.nearEmpty('{n}'))}" data-t-count="${e(t.nearCount('{n}'))}"
+         data-hl="${e(code)}">
+      <button class="near-btn" type="button" title="${e(t.nearTitle)}">
+        <span class="near-btn-ico" aria-hidden="true">📍</span><span class="near-btn-tx">${e(t.nearTitle)}</span>
+      </button>
+      <span class="near-msg" aria-live="polite"></span>
+    </div>
+    <p class="near-hint">${e(t.nearHint)}</p>
+  </div>
+  <div class="nearmodal" hidden role="dialog" aria-modal="true" aria-label="${e(t.nearTitle)}">
+    <div class="nm-panel">
+      <div class="nm-head">
+        <strong class="nm-title">📍 ${e(t.nearTitle)}</strong>
+        <span class="nm-msg" aria-live="polite"></span>
+        <button class="nm-close" type="button" aria-label="${e(t.nearClose)}">✕</button>
+      </div>
+      <div class="nm-radius" role="group">
+        <button type="button" data-km="1">1km</button>
+        <button type="button" data-km="3" class="on">3km</button>
+        <button type="button" data-km="10">10km</button>
+        <button type="button" data-km="0">${e(t.nearAll)}</button>
+      </div>
+      <div class="nm-mapwrap">
+        <div class="nm-map"></div>
+        <div class="nm-zoom">
+          <button class="nm-in" type="button" aria-label="${e(t.nearZoomIn)}">+</button>
+          <button class="nm-out" type="button" aria-label="${e(t.nearZoomOut)}">−</button>
+        </div>
+      </div>
+      <ul class="nm-list"></ul>
+    </div>
+  </div>
+`;
+}
+
 /* 동네 페이지 소개 문장 — 데이터(글 수·분류·장르)로 조립해 페이지마다 다르게 나옵니다.
    손으로 쓴 것처럼 읽히도록 언어별로 문장을 따로 뒀습니다. */
 const AREA_INTRO = {
@@ -1595,6 +1640,7 @@ function build() {
       body: fill(T.home, {
         tagline: escapeHtml(t.tagline),
         description: escapeHtml(t.description),
+        near: nearWidgetHTML(t, code, 'latest-grid'),
         map: koreaMapHTML(homeBase, code, totalByRegion, t),
         searchPlaceholder: escapeHtml(t.searchPlaceholder),
         findByRegion: escapeHtml(t.findByRegion),
@@ -1665,6 +1711,7 @@ function build() {
           regionName: escapeHtml(name),
           regionEn: escapeHtml(r.slug),
           intro: pageIntroHTML((r.intro && r.intro[code]) || '', r.slug),
+          near: nearWidgetHTML(t, code, 'region-grid'),
           tabs: tabs,
           areaChips: areaChips,
           cards: inRegion.length
@@ -1725,6 +1772,7 @@ function build() {
             regionName: escapeHtml(aName),
             regionEn: escapeHtml(a.slug),
             intro: pageIntroHTML(inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : '', r.slug),
+            near: nearWidgetHTML(t, code, 'region-grid'),
             tabs: tabs,
             areaChips: '',
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
@@ -1752,6 +1800,7 @@ function build() {
           heading: escapeHtml(t.categoryTitle[c.slug]),
           desc: escapeHtml(t.categoryDesc[c.slug]),
           intro: pageIntroHTML((t.categoryIntro && t.categoryIntro[c.slug]) || ''),
+          near: nearWidgetHTML(t, code, 'list-grid'),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: c.slug === 'food' ? genreNavHTML(code, base, genreCounts, null) : '',
           tipsNudge: '',
@@ -1794,6 +1843,7 @@ function build() {
           heading: escapeHtml(heading),
           desc: escapeHtml(desc),
           intro: pageIntroHTML(indexed ? genreIntroText(g, code, inGenre) : ''),
+          near: nearWidgetHTML(t, code, 'list-grid'),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: genreNavHTML(code, base, genreCounts, g.slug),
           tipsNudge: tipsNudgeHTML(base, code, t),

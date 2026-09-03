@@ -254,6 +254,8 @@ module.exports = {
     { key: '분식',     names: { ko: '분식',     en: 'Bunsik',          ja: '粉食',         zh: '韓式小吃' } },
     { key: '장어',     names: { ko: '장어',     en: 'Grilled eel',     ja: 'うなぎ',       zh: '鰻魚' } },
     { key: '돈까스',   names: { ko: '돈까스',   en: 'Donkkaseu',       ja: 'トンカツ',     zh: '豬排' } },
+    { key: '버거',     names: { ko: '버거',     en: 'Burger',          ja: 'バーガー',     zh: '漢堡' } },
+    { key: '브런치',   names: { ko: '브런치',   en: 'Brunch',          ja: 'ブランチ',     zh: '早午餐' } },
     { key: '해산물',   names: { ko: '해산물',   en: 'Seafood',         ja: '魚介',         zh: '海鮮' } },
     { key: '생선구이', names: { ko: '생선구이', en: 'Grilled fish',    ja: '焼き魚',       zh: '烤魚' } },
     { key: '갈치조림', names: { ko: '갈치조림', en: 'Braised hairtail', ja: '太刀魚の煮付け', zh: '燉白帶魚' } },

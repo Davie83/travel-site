@@ -892,7 +892,7 @@ function pageIntroHTML(text, accentSlug) {
  *  gridId: 홈=latest-grid, 카테고리/장르/동네=list-grid, 지역=region-grid. */
 function nearWidgetHTML(t, code, gridId) {
   const e = escapeHtml;
-  return `  <div class="wrap nearbar">
+  return `  <div class="nearbar">
     <div class="near" data-target="${e(gridId)}"
          data-t-busy="${e(t.nearBusy)}" data-t-done="${e(t.nearDone)}" data-t-deny="${e(t.nearDeny)}"
          data-t-far="${e(t.nearFar)}" data-t-none="${e(t.nearNone)}"

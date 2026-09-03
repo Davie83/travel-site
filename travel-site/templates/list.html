@@ -6,11 +6,10 @@
       <div class="search-box">
         <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="list-grid">
       </div>
+      <!-- "내 주변" — 검색 바로 아래. build.js 의 nearWidgetHTML() 이 채웁니다 (data-target=list-grid) -->
+{{near}}
     </div>
   </section>
-
-  <!-- "내 주변" 띠 — build.js 의 nearWidgetHTML() 이 채웁니다 (data-target=list-grid) -->
-{{near}}
 
 {{intro}}
   <div class="wrap">

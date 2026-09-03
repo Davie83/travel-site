@@ -11,14 +11,13 @@
              (검색해도 위쪽 화면이 그대로라 결과를 못 찾는 일이 있었습니다) -->
         <p class="search-note" data-target="latest-grid" data-tpl="{{searchCountTpl}}"
            data-jump="{{searchJump}}" data-none="{{noResult}}" aria-live="polite" hidden></p>
+        <!-- "내 주변" — 검색(계획해서 찾기) 바로 아래에 둡니다 (지금 서 있는 자리에서 찾기).
+             위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. build.js 의 nearWidgetHTML() 이 채웁니다. -->
+{{near}}
       </div>
 {{map}}
     </div>
   </section>
-
-  <!-- "내 주변" 띠 — 지금 한국에 도착해 있는 사람이 자기 위치 기준으로 가까운 곳을 봅니다.
-       위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. build.js 의 nearWidgetHTML() 이 채웁니다. -->
-{{near}}
 
   <div class="wrap">
 

@@ -372,7 +372,7 @@
       var lx = Math.max(8, Math.min(W - 8, x));
       var ly = Math.max(15, y - 19);
       var text = p.me ? T.me : (shortName(p.name) + ' ' + fmt(p.d));
-      labels += '<text class="nm-label" x="' + lx.toFixed(1) + '" y="' + ly.toFixed(1)
+      labels += '<text class="nm-label' + (p.me ? ' nm-label-me' : '') + '" x="' + lx.toFixed(1) + '" y="' + ly.toFixed(1)
              + '" text-anchor="' + anchor + '">' + esc(text) + '</text>';
     }
 

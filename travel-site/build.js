@@ -842,6 +842,38 @@ function tagChipsHTML(m, base, code, t) {
   return `    <nav class="tagchips" aria-label="${escapeHtml(t.tagLabel)}">` +
     `<span class="tagchips-label">${escapeHtml(t.tagLabel)}</span>${chips}</nav>`;
 }
+
+/** 글 하단 "이 근처 같이 가기 좋은 곳" 추천.
+ *  같은 동네 → 같은 지역(다른 동네) 순으로 지리적 이웃을 먼저 모으고,
+ *  3개가 안 되면 같은 분류(맛집/여행지)에서 채웁니다. 최대 4개.
+ *  각 묶음 안에서는 반대 분류를 먼저 놓습니다 — 맛집 글엔 근처 여행지가,
+ *  여행지 글엔 근처 맛집이 먼저 보이게. 그다음 최신순.
+ *  지리적 이웃이 하나라도 있으면 geo:true → "이 근처" 제목을 씁니다. */
+function nearbyPosts(p, all) {
+  const m = p.meta;
+  const rest = all.filter(x => x.slug !== p.slug);
+  const mix = arr => {
+    const a = arr.slice().sort((x, y) => String(y.meta.date).localeCompare(String(x.meta.date)));
+    return [...a.filter(x => x.meta.cat !== m.cat), ...a.filter(x => x.meta.cat === m.cat)];
+  };
+  const sameArea = m.area
+    ? mix(rest.filter(x => x.meta.region === m.region && x.meta.area === m.area))
+    : [];
+  const sameRegion = mix(rest.filter(x =>
+    x.meta.region === m.region && (!m.area || x.meta.area !== m.area)));
+  const geo = [];
+  for (const x of [...sameArea, ...sameRegion]) if (!geo.includes(x)) geo.push(x);
+  const list = geo.slice(0, 4);
+  if (list.length < 3) {
+    const seen = new Set(list.map(x => x.slug));
+    for (const x of mix(rest.filter(x => x.meta.cat === m.cat))) {
+      if (list.length >= 4) break;
+      if (!seen.has(x.slug)) { list.push(x); seen.add(x.slug); }
+    }
+  }
+  return { list, geo: geo.length > 0 };
+}
+
 /** 목록·지역·동네·장르·카테고리 페이지 상단의 소개 문단 블록.
  *  text: 줄바꿈으로 문단을 나눈 평문 (**굵게**·[글자](주소) 허용). 비어 있으면 블록 자체를 만들지 않습니다.
  *  이런 페이지가 "제목 + 카드 목록"만 있으면 검색엔진이 알맹이 없는 페이지로 봅니다. */
@@ -1782,9 +1814,8 @@ function build() {
       const out = d + `posts/${p.slug}.html`;
       const base = baseOf(out);
       const rname = regionName(m.region, code);
-      const related = posts.filter(x => x.meta.region === m.region && x.slug !== p.slug).slice(0, 3);
-      const relatedFallback = posts.filter(x => x.meta.cat === m.cat && x.slug !== p.slug).slice(0, 3);
-      const rel = (related.length ? related : relatedFallback);
+      const { list: rel, geo: relGeo } = nearbyPosts(p, posts);
+      const relHeading = relGeo ? t.nearby : t.related;
 
       const availability = availFor(`posts/${p.slug}.html`, c => hasPost(p.slug, c));
 
@@ -1838,7 +1869,7 @@ function build() {
           adTop: adSlotHTML('post-top'), adBottom: adSlotHTML('post-bottom'),
           reactions: reactionsHTML(p.slug, t),
           related: rel.length ? `<section class="related">
-    <div class="section-head"><h2>${escapeHtml(t.related)}</h2></div>
+    <div class="section-head"><h2>${escapeHtml(relHeading)}</h2></div>
     <div class="grid">\n${rel.map(x => cardHTML(x, base, code, t)).join('\n')}\n    </div>
   </section>` : ''
         })

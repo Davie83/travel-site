@@ -98,6 +98,7 @@ module.exports = {
     published:  '발행',
     visited:    v => `방문 기준 ${v}`,
     related:    '함께 보면 좋은 글',
+    nearby:     '이 근처 같이 가기 좋은 곳',
 
     reactionTitle: '이 글, 어떠셨나요?',
     reactionNote:  '로그인 없이 누를 수 있습니다. 다시 누르면 취소됩니다.',
@@ -249,6 +250,7 @@ module.exports = {
     published:  'Published',
     visited:    v => `Visited ${v}`,
     related:    'Read next',
+    nearby:     'Around here',
 
     reactionTitle: 'Was this useful?',
     reactionNote:  'No sign-in needed. Tap again to undo.',
@@ -400,6 +402,7 @@ module.exports = {
     published:  '公開',
     visited:    v => `訪問時期 ${v}`,
     related:    'あわせて読みたい',
+    nearby:     'この近くのおすすめ',
 
     reactionTitle: 'この記事はいかがでしたか？',
     reactionNote:  'ログイン不要です。もう一度押すと取り消せます。',
@@ -551,6 +554,7 @@ module.exports = {
     published:  '發布',
     visited:    v => `造訪時間 ${v}`,
     related:    '延伸閱讀',
+    nearby:     '這附近順路推薦',
 
     reactionTitle: '這篇有幫助嗎？',
     reactionNote:  '不需登入。再點一次可取消。',

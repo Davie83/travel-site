@@ -26,7 +26,7 @@ Not "this place was lovely". The things you would want to know the day before yo
 ## Who writes it
 
 
-The writer is **Davie**, a Google Maps **Local Guide (Level 6)** whose photos have passed **210,000 views.** The posts here are the long-form version of those visits. The profile is public and anyone can check it — [Google Maps contributor profile](https://www.google.com/maps/contrib/108511658203720708025)
+The writer is **Davie**, a Google Maps **Local Guide (Level 6)** whose photos have passed **210,000 views.** The posts here are the long-form version of those visits and of newer trips since. The profile is public and anyone can check it — [Google Maps contributor profile](https://www.google.com/maps/contrib/108511658203720708025)
 
 Not every post here has a matching Google Maps review. Some visits were posted there, some were not.
 One person writes and publishes everything. There are no guest posts and no comment section.

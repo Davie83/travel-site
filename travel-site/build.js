@@ -180,8 +180,13 @@ const stripQuotes = s => s.replace(/^['"](.*)['"]$/, '$1');
 
 function inline(s) {
   return s
-    .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g,
-      (_, alt, src) => `<img src="${src}${/^\/?assets\/img\//.test(src) ? imgVer(src) : ''}" alt="${alt}" loading="lazy">`)
+    .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (_, alt, src) => {
+      const isLocal = /^\/?assets\/img\//.test(src);
+      // width/height 를 넣어 레이아웃 이동(CLS)을 없앱니다 — Core Web Vitals 는 랭킹 요소입니다.
+      let dim = '';
+      if (isLocal) { const sz = jpegSize(src.replace(/^\//, '')); if (sz) dim = ` width="${sz.w}" height="${sz.h}"`; }
+      return `<img src="${src}${isLocal ? imgVer(src) : ''}" alt="${alt}" loading="lazy" decoding="async"${dim}>`;
+    })
     .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, txt, url) => {
       const ext = /^https?:/i.test(url);
       return `<a href="${url}"${ext ? ' target="_blank" rel="noopener"' : ''}>${txt}</a>`;
@@ -1020,6 +1025,63 @@ function genreIntroText(g, code, inGenre) {
     .replace('{regions}', regionNames.join(NAME_SEP[code] || ', '));
 }
 
+/** 소개 문단의 첫 문장만 뽑아 <meta description> 로 씁니다.
+ *  지역·동네·장르 목록 페이지의 meta 가 예전에는 {이름}만 바꾼 템플릿이라
+ *  검색엔진에 거의 중복 페이지로 보였습니다. 손으로 쓴 소개의 첫 문장을 쓰면
+ *  페이지마다 고유해집니다. 160자 정도에서 자릅니다. */
+/** 소개 문단에서 meta description 로 쓸 앞부분(1~2문장)을 뽑습니다.
+ *  ASCII .!? 는 뒤에 공백/끝이 와야 문장 끝 ("e.g." 방지),
+ *  전각 。！？ 는 CJK 라 뒤 공백 없이 바로 문장 끝으로 봅니다.
+ *  한 문장이 짧으면(영어처럼) 두 번째 문장까지, 165자에서 자릅니다. */
+function firstSentence(text) {
+  const s = String(text || '').trim();
+  if (!s) return '';
+  const END = /(?:[.!?](?=\s|$|["'”’)\]])|[。！？])/;
+  const one = s.match(new RegExp('^[\\s\\S]*?' + END.source));
+  let out = (one ? one[0] : s).trim();
+  if (out.length < 90) {
+    const two = s.match(new RegExp('^[\\s\\S]*?' + END.source + '[\\s\\S]*?' + END.source));
+    if (two && two[0].trim().length <= 165) out = two[0].trim();
+  }
+  if (out.length > 165) out = out.slice(0, 155).replace(/\s+\S*$/, '').trim() + '…';
+  return out;
+}
+
+/** 홈페이지 구조화 데이터 — WebSite(+사이트 검색) 와 Organization.
+ *  글에는 Restaurant/Article LD 가 있는데 홈에는 없어서, 브랜드가 하나의
+ *  실체로 잡히지 않고 사이트링크 검색창도 뜨지 않았습니다. */
+function homeJsonLd(code) {
+  const url = `${SITE_URL}/${localeDir(code)}`;
+  const l = LOCALES.find(x => x.code === code) || {};
+  return {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        '@id': `${url}#website`,
+        url,
+        name: siteName(code),
+        description: I18N[code].siteDesc,
+        inLanguage: l.htmlLang,
+        publisher: { '@id': `${SITE_URL}/#org` },
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: { '@type': 'EntryPoint', urlTemplate: `${url}?q={search_term_string}` },
+          'query-input': 'required name=search_term_string'
+        }
+      },
+      {
+        '@type': 'Organization',
+        '@id': `${SITE_URL}/#org`,
+        name: 'Korea Trips',
+        url: `${SITE_URL}/`,
+        logo: { '@type': 'ImageObject', url: `${SITE_URL}/${site.ogImage}` },
+        sameAs: [site.author && site.author.mapsProfile].filter(Boolean)
+      }
+    ]
+  };
+}
+
 function bylineHTML(t) {
   const a = site.author || {};
   if (!a.mapsProfile) return '';
@@ -1070,7 +1132,7 @@ function titleHTML(title) {
  *  영업시간·가격처럼 "잦은 변동으로 확인 필요"가 붙는 값과 별점(aggregateRating)은 넣지 않습니다 —
  *  확인되지 않은 것을 사실처럼 구조화하지 않는다는 사이트 원칙과 같고,
  *  검증 불가한 자체 별점은 구글 정책 위반 위험이 있습니다. */
-function placeLd(m, pageUrl) {
+function placeLd(m, pageUrl, code) {
   const node = {
     '@type': m.cat === 'food' ? 'Restaurant' : 'TouristAttraction',
     '@id':   pageUrl + '#place',
@@ -1079,6 +1141,15 @@ function placeLd(m, pageUrl) {
   };
   if (m.excerpt) node.description = m.excerpt;
   if (m.thumb)   node.image = `${SITE_URL}/${m.thumb}${imgVer(m.thumb)}`;
+
+  // 프론트매터에서 확실한 것만: 요리 장르, 예약 필수 여부.
+  if (m.cat === 'food' && code) {
+    const g = genreOf(m);
+    if (g) node.servesCuisine = genreName(g, code);
+  }
+  if (Array.isArray(m.tagKeys) && m.tagKeys.some(x => String(x).trim() === '예약필수')) {
+    node.acceptsReservations = true;
+  }
 
   if (m.addr) {
     node.address = { '@type': 'PostalAddress', streetAddress: m.addr, addressCountry: 'KR' };
@@ -1094,6 +1165,31 @@ function placeLd(m, pageUrl) {
   if (tel) node.telephone = tel[0].replace(/\s+/g, '');
 
   return node;
+}
+
+/** 글의 프론트매터에서 방문자가 실제로 궁금해하는 Q&A 를 뽑아 FAQPage 로.
+ *  모두 페이지에 눈에 보이게 이미 있는 정보(소개 문장·매운 정도 배지·주문 문구·정보표)라
+ *  구글 FAQ 정책에 맞습니다. 2개 미만이면 만들지 않습니다. */
+function postFaqLd(m, code) {
+  const t = I18N[code];
+  const qa = [];
+  const add = (name, text) => {
+    if (name && text) qa.push({
+      '@type': 'Question', name: String(name),
+      acceptedAnswer: { '@type': 'Answer', text: String(text) }
+    });
+  };
+  if (m.excerpt && typeof t.faqWhat === 'function') add(t.faqWhat(shortTitle(m.title)), m.excerpt);
+  const sp = Number(m.spicy);
+  if (m.cat === 'food' && m.spicy != null && m.spicy !== '' && Number.isFinite(sp) && sp > 0
+      && typeof t.faqSpiceA === 'function') {
+    add(t.faqSpice, t.faqSpiceA(sp));
+  }
+  if (m.order) add(t.faqOrder, `"${m.order}"` + (m.orderRoman ? ` (${m.orderRoman})` : ''));
+  if (m.closed && !/^(unknown|미확인|미정|未確認|未確定|待確認)$/i.test(String(m.closed).trim())) {
+    add(t.faqClosed, String(m.closed));
+  }
+  return qa.length >= 2 ? { '@type': 'FAQPage', mainEntity: qa } : null;
 }
 
 /** 검색결과에 "사이트 › 맛집 › 서울 › 명동 › 글" 경로를 보여주는 빵부스러기.
@@ -1556,6 +1652,43 @@ function renderPage(o) {
   });
 }
 
+/* 언어별 RSS 2.0 피드 (/feed.xml, /en/feed.xml …). 최신 글 20개.
+   피드 리더·일부 검색엔진의 발견 경로이자 "정기적으로 갱신되는 사이트" 신호입니다. */
+function writeRssFeeds(byLocale) {
+  const rfc822 = d => { const x = new Date(d); return isNaN(x.getTime()) ? '' : x.toUTCString(); };
+  for (const l of LOCALES) {
+    const code = l.code, dir = l.dir, t = I18N[code];
+    const posts = (((byLocale[code] || {}).posts) || []).slice()
+      .sort((a, b) => String(b.meta.date).localeCompare(String(a.meta.date)))
+      .slice(0, 20);
+    if (!posts.length) continue;
+    const home = `${SITE_URL}/${dir}`;
+    const items = posts.map(p => {
+      const url = `${SITE_URL}/${cleanUrl(dir + 'posts/' + p.slug + '.html')}`;
+      const pd = rfc822(p.meta.date);
+      return `    <item>\n` +
+        `      <title>${escapeHtml(p.meta.title)}</title>\n` +
+        `      <link>${url}</link>\n` +
+        `      <guid isPermaLink="true">${url}</guid>\n` +
+        (pd ? `      <pubDate>${pd}</pubDate>\n` : '') +
+        `      <description>${escapeHtml(p.meta.excerpt || '')}</description>\n` +
+        `    </item>`;
+    }).join('\n');
+    const xml = `<?xml version="1.0" encoding="UTF-8"?>\n` +
+      `<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n` +
+      `  <channel>\n` +
+      `    <title>${escapeHtml(siteName(code))}</title>\n` +
+      `    <link>${home}</link>\n` +
+      `    <description>${escapeHtml(t.homeDesc || t.siteDesc || '')}</description>\n` +
+      `    <language>${l.htmlLang}</language>\n` +
+      `    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n` +
+      `    <atom:link href="${home}feed.xml" rel="self" type="application/rss+xml"/>\n` +
+      `${items}\n` +
+      `  </channel>\n</rss>\n`;
+    writeFile(dir + 'feed.xml', xml);
+  }
+}
+
 /* ==========================================================================
    8. 실행
    ========================================================================== */
@@ -1635,8 +1768,10 @@ function build() {
     const homeAvail = availFor('index.html', () => true);
     writeFile(d + 'index.html', renderPage({
       out: d + 'index.html', code, current: 'home',
-      title: `${siteName(code)} — ${t.tagline}`, description: t.description,
+      title: `${siteName(code)} — ${t.homeTitle || t.tagline}`,
+      description: t.homeDesc || t.description,
       availability: homeAvail,
+      headExtra: `<script type="application/ld+json">${JSON.stringify(homeJsonLd(code))}</script>`,
       body: fill(T.home, {
         tagline: escapeHtml(t.tagline),
         description: escapeHtml(t.description),
@@ -1704,7 +1839,7 @@ function build() {
       writeFile(out, renderPage({
         out, code, current: 'home',
         title: `${name} — ${siteName(code)}`,
-        description: `${name} · ${t.siteDesc}`,
+        description: firstSentence((r.intro && r.intro[code]) || '') || `${name} · ${t.siteDesc}`,
         availability: availFor(`region/${r.slug}.html`, () => true),
         body: fill(T.region, {
           regionSlug: r.slug,
@@ -1738,6 +1873,7 @@ function build() {
         const rName = regionName(r.slug, code);
         const title = String(t.areaTitleTpl).replace('{area}', aName).replace('{region}', rName);
         const desc  = String(t.areaDescTpl).replace('{area}', aName).replace('{region}', rName);
+        const areaIntroTxt = inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : '';
         const indexed = inArea.length >= AREA_PAGE_MIN;
         const areaUrl = `${SITE_URL}/${cleanUrl(out)}`;
 
@@ -1751,7 +1887,7 @@ function build() {
         writeFile(out, renderPage({
           out, code, current: 'home', noindex: !indexed,
           title: `${title} — ${siteName(code)}`,
-          description: desc,
+          description: firstSentence(areaIntroTxt) || desc,
           availability: availFor(`${r.slug}/${a.slug}.html`,
             c => byLocale[c].posts.some(p => p.meta.region === r.slug && p.meta.area === a.slug)),
           headExtra: `<script type="application/ld+json">${JSON.stringify({
@@ -1771,7 +1907,7 @@ function build() {
             regionSlug: r.slug,
             regionName: escapeHtml(aName),
             regionEn: escapeHtml(a.slug),
-            intro: pageIntroHTML(inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : '', r.slug),
+            intro: pageIntroHTML(areaIntroTxt, r.slug),
             near: nearWidgetHTML(t, code, 'region-grid'),
             tabs: tabs,
             areaChips: '',
@@ -1829,20 +1965,21 @@ function build() {
       const gname = genreName(g, code);
       const heading = String(t.genreTitleTpl).replace('{name}', gname);
       const desc    = String(t.genreDescTpl).replace('{name}', gname);
+      const gIntro  = (t.genreIntros && t.genreIntros[g.slug]) || '';
       const indexed = inGenre.length >= GENRE_PAGE_MIN;
       const regionsHere = ['all', ...new Set(inGenre.map(p => p.meta.region))];
 
       writeFile(out, renderPage({
         out, code, current: 'food', noindex: !indexed,
         title: `${heading} — ${siteName(code)}`,
-        description: desc,
+        description: (indexed && gIntro) ? firstSentence(gIntro) : desc,
         availability: availFor(`food/${g.slug}.html`,
           c => byLocale[c].posts.some(p => genreOf(p.meta) === g)),
         headExtra: `<script type="application/ld+json">${JSON.stringify(genrePageLd(g, code, inGenre, out))}</script>`,
         body: fill(T.list, {
           heading: escapeHtml(heading),
           desc: escapeHtml(desc),
-          intro: pageIntroHTML(indexed ? genreIntroText(g, code, inGenre) : ''),
+          intro: pageIntroHTML(indexed ? (gIntro || genreIntroText(g, code, inGenre)) : ''),
           near: nearWidgetHTML(t, code, 'list-grid'),
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: genreNavHTML(code, base, genreCounts, g.slug),
@@ -1873,7 +2010,7 @@ function build() {
       const jsonLd = {
         '@context': 'https://schema.org',
         '@graph': [
-          placeLd(m, pageUrl),
+          placeLd(m, pageUrl, code),
           breadcrumbLd(m, code, pageUrl),
           {
             '@type': 'Article',
@@ -1881,12 +2018,13 @@ function build() {
             datePublished: m.date, dateModified: m.updated || m.date,
             inLanguage: l.htmlLang,
             author: authorLd(code),
-            publisher: { '@type': 'Organization', name: siteName(code) },
+            publisher: { '@type': 'Organization', name: siteName(code), '@id': `${SITE_URL}/#org` },
             image: m.thumb ? `${SITE_URL}/${m.thumb}${imgVer(m.thumb)}` : undefined,
             mainEntityOfPage: pageUrl,
             about: { '@id': pageUrl + '#place' }
-          }
-        ]
+          },
+          postFaqLd(m, code)
+        ].filter(Boolean)
       };
 
       writeFile(out, renderPage({
@@ -1924,7 +2062,7 @@ function build() {
   </section>` : ''
         })
       }));
-      urls.push({ loc: out, pri: '0.8', lastmod: m.updated || m.date });
+      urls.push({ loc: out, pri: '0.8', lastmod: m.updated || m.date, alt: availability });
     }
 
     /* ---- 소개 / 문의 / 개인정보처리방침 / 여행 팁 ---- */
@@ -2113,14 +2251,37 @@ ${tocList}
   }
 
   /* ---- sitemap ---- */
+  /* 다국어 사이트는 각 <url> 안에 형제 언어 링크(xhtml:link)를 넣는 것이 구글 권장사항입니다.
+     u.alt 가 있으면 그대로, 없으면 loc 에서 로케일 접두어를 떼고 4개 언어를 재구성합니다
+     (지역·장르·팁 등은 모든 언어에 생성되므로 재구성이 정확합니다). */
+  const hreflangLinksFor = (loc, alt) => {
+    let map = alt;
+    if (!map) {
+      const bare = String(loc).replace(/^(en|ja|zh)\//, '');
+      map = {};
+      for (const L of LOCALES) map[L.code] = (L.dir || '') + bare;
+    }
+    const rows = LOCALES
+      .filter(L => map[L.code] != null)
+      .map(L => `    <xhtml:link rel="alternate" hreflang="${L.hreflang}" href="${SITE_URL}/${cleanUrl(map[L.code])}"/>`);
+    const defCode = map[site.defaultLocale] != null ? site.defaultLocale : (LOCALES[0] || {}).code;
+    if (map[defCode] != null) {
+      rows.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${SITE_URL}/${cleanUrl(map[defCode])}"/>`);
+    }
+    return rows.join('\n');
+  };
   writeFile('sitemap.xml',
-    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
-    urls.map(u =>
-      `  <url><loc>${SITE_URL}/${cleanUrl(u.loc)}</loc>` +
-      (u.lastmod ? `<lastmod>${u.lastmod}</lastmod>` : '') +
-      (u.freq ? `<changefreq>${u.freq}</changefreq>` : '') +
-      `<priority>${u.pri}</priority></url>`
-    ).join('\n') + `\n</urlset>\n`
+    `<?xml version="1.0" encoding="UTF-8"?>\n` +
+    `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n` +
+    urls.map(u => {
+      const hl = hreflangLinksFor(u.loc, u.alt);
+      return `  <url>\n    <loc>${SITE_URL}/${cleanUrl(u.loc)}</loc>` +
+        (u.lastmod ? `\n    <lastmod>${u.lastmod}</lastmod>` : '') +
+        (u.freq ? `\n    <changefreq>${u.freq}</changefreq>` : '') +
+        `\n    <priority>${u.pri}</priority>` +
+        (hl ? `\n${hl}` : '') +
+        `\n  </url>`;
+    }).join('\n') + `\n</urlset>\n`
   );
 
   writeFile('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);
@@ -2128,6 +2289,9 @@ ${tocList}
   if (site.adsensePublisherId) {
     writeFile('ads.txt', `google.com, ${site.adsensePublisherId.replace(/^ca-/, '')}, DIRECT, f08c47fec0942fa0\n`);
   }
+
+  /* ---- RSS 피드 (언어별) ---- */
+  writeRssFeeds(byLocale);
 
   copyDir(STATIC, DIST);
 

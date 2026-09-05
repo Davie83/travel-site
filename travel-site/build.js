@@ -1640,7 +1640,12 @@ function renderPage(o) {
     headExtra:   o.headExtra || '',
     body:        o.body,
     year:        new Date().getFullYear(),
-    noindex:     o.noindex ? '<meta name="robots" content="noindex">' : '',
+    // max-image-preview:large 가 없으면 구글 Discover 는 사진을 작게 쓰거나 아예 안 씁니다.
+    // Discover 는 "신청"하는 기능이 아니라 이미지가 큼직하게 실릴 수 있어야 뽑힐 후보가 되는 구조라,
+    // 색인 페이지 전부에 이 지시어를 붙여 둡니다 (noindex 페이지엔 안 붙여도 그만이지만 붙여도 무해합니다).
+    noindex:     o.noindex
+      ? '<meta name="robots" content="noindex, max-image-preview:large">'
+      : '<meta name="robots" content="max-image-preview:large">',
     skip:        escapeHtml(I18N[o.code].skip),
     menuOpen:    escapeHtml(I18N[o.code].menuOpen),
     footTips:    escapeHtml(I18N[o.code].nav.tips),

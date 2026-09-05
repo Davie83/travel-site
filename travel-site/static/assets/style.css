@@ -24,6 +24,15 @@
   --wrap:1120px;
   --radius:14px;
   --shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.06);
+
+  /* 히어로/지역 헤더 배경 워시 — 서울·부산·제주 색을 옅게 섞어 "여러 지역을 다루는 곳"이라는
+     인상을 줍니다. 그레인은 종이 질감으로, 앱보다는 가이드북에 가까운 촉감을 냅니다.
+     둘 다 라이트/다크에서 강도를 따로 둡니다 (아래 두 블록). */
+  --wash-1:rgba(49,42,126,.06);
+  --wash-2:rgba(37,126,119,.05);
+  --wash-3:rgba(194,94,16,.045);
+  --grain-op:.05;
+  --grain-blend:multiply;
 }
 
 @media (prefers-color-scheme:dark){
@@ -38,6 +47,11 @@
     --line-hard:#3a424b;
     --on-region:#0f1114;
     --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35);
+    --wash-1:rgba(130,122,220,.15);
+    --wash-2:rgba(114,223,214,.10);
+    --wash-3:rgba(245,164,90,.09);
+    --grain-op:.055;
+    --grain-blend:overlay;
   }
 }
 :root[data-theme="dark"]{
@@ -51,6 +65,11 @@
   --line-hard:#3a424b;
   --on-region:#0f1114;
   --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35);
+  --wash-1:rgba(130,122,220,.15);
+  --wash-2:rgba(114,223,214,.10);
+  --wash-3:rgba(245,164,90,.09);
+  --grain-op:.055;
+  --grain-blend:overlay;
 }
 
 *{box-sizing:border-box;}
@@ -146,7 +165,27 @@ img{max-width:100%;display:block;}
 /* ==========================================================================
    히어로
    ========================================================================== */
-.hero{padding:56px 0 44px;border-bottom:1px solid var(--line);}
+/* 배경 워시(지역색 3곳을 옅게) + 그레인(종이 질감) — 홈/카테고리/장르 히어로 공통.
+   워시는 배경 그라디언트라 자연히 박스 안에만 그려지고, 그레인은 ::before 로 겹칩니다.
+   ::before 는 position:absolute 라 기본 페인트 순서상 본문 위로 올라오므로,
+   .hero > .wrap 에 z-index 를 줘서 글자·버튼이 항상 그 위에 오게 합니다. */
+.hero{
+  position:relative;
+  padding:56px 0 44px;border-bottom:1px solid var(--line);
+  background:
+    radial-gradient(620px 320px at 8% -14%, var(--wash-1), transparent 62%),
+    radial-gradient(520px 280px at 94% 2%,  var(--wash-2), transparent 60%),
+    radial-gradient(460px 280px at 55% 118%, var(--wash-3), transparent 58%),
+    var(--ground);
+}
+.hero::before{
+  content:"";position:absolute;inset:0;z-index:0;pointer-events:none;
+  background-image:url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.9 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size:160px 160px;
+  opacity:var(--grain-op);
+  mix-blend-mode:var(--grain-blend);
+}
+.hero > .wrap{position:relative;z-index:1;}
 .hero h1{
   margin:0 0 12px;font-size:clamp(28px,5vw,44px);line-height:1.15;
   letter-spacing:-.04em;font-weight:800;text-wrap:balance;
@@ -422,7 +461,17 @@ a.more{color:var(--ink);font-weight:600;}
 .chip:hover{border-color:var(--line-hard);color:var(--ink);}
 .chip.active{background:var(--ink);border-color:var(--ink);color:var(--ground);}
 
-.region-head{background:var(--r);color:var(--on-region);padding:34px 0 28px;}
+/* 지역 헤더는 이미 그 지역 고유색으로 꽉 채워져 있어서(--r), 여기에 다른 지역색까지
+   섞는 워시는 안 씁니다 — 대신 같은 그레인(종이 질감)만 얹어 히어로와 촉감을 맞춥니다. */
+.region-head{position:relative;background:var(--r);color:var(--on-region);padding:34px 0 28px;}
+.region-head::before{
+  content:"";position:absolute;inset:0;z-index:0;pointer-events:none;
+  background-image:url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.82' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.9 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size:160px 160px;
+  opacity:var(--grain-op);
+  mix-blend-mode:var(--grain-blend);
+}
+.region-head > .wrap{position:relative;z-index:1;}
 .region-head h1{margin:6px 0 0;font-size:clamp(30px,6vw,44px);font-weight:800;letter-spacing:-.045em;line-height:1;}
 .region-head .r-en{opacity:.75;letter-spacing:.2em;}
 

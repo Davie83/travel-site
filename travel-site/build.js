@@ -1470,7 +1470,12 @@ function infoTableHTML(info, mapUrl, t) {
   }
 
   if (!rows.length) return '';
-  return `<div class="table-scroll"><table class="info-table"><tbody>${rows.join('')}</tbody></table></div>`;
+  // 표를 카드로 감싸고 위에 작은 라벨을 붙여 "훑어보는 정보"로 읽히게 하고,
+  // 표 다음에는 "방문기" 구분선을 둬서 여기서부터 이야기(본문)가 시작된다는 걸
+  // 눈으로도 알 수 있게 합니다 (가게 정보와 본문이 구분 없이 이어진다는 피드백 반영).
+  const label = t.infoLabel ? `<span class="info-label">${escapeHtml(t.infoLabel)}</span>` : '';
+  const divider = t.storyLabel ? `<p class="post-divider">${escapeHtml(t.storyLabel)}</p>` : '';
+  return `${label}<div class="table-scroll info-card"><table class="info-table"><tbody>${rows.join('')}</tbody></table></div>${divider}`;
 }
 
 /** 리액션 — 언어와 무관하게 글 슬러그 단위로 집계됩니다 */

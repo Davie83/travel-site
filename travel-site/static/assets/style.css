@@ -547,6 +547,8 @@ a.more{color:var(--ink);font-weight:600;}
 }
 .post-body h3{margin:26px 0 9px;font-size:17px;font-weight:700;letter-spacing:-.02em;}
 .post-body p{margin:0 0 18px;}
+/* 본문 첫 문장(리드) — 이후 문단과 크기를 다르게 둬서 "이야기 시작"을 알립니다 */
+.post-body > p:first-child{font-size:18px;font-weight:600;line-height:1.65;}
 .post-body ul,.post-body ol{margin:0 0 18px;padding-left:22px;}
 .post-body li{margin-bottom:6px;}
 .post-body li::marker{color:var(--r);}
@@ -562,16 +564,40 @@ a.more{color:var(--ink);font-weight:600;}
 }
 .post-body pre code{background:none;border:0;padding:0;}
 
-.table-scroll{overflow-x:auto;margin:0 0 26px;}
-.info-table,.md-table{width:100%;border-collapse:collapse;font-size:14.5px;}
-.info-table th,.info-table td,.md-table th,.md-table td{
-  border:1px solid var(--line);padding:11px 14px;text-align:left;vertical-align:top;
+.table-scroll{overflow-x:auto;}
+
+/* "한눈에 보기" 카드 — 라벨 + 둥근 카드 틀 + 지역색 옅은 배경.
+   정보표가 "본문에 섞인 표"가 아니라 "훑어보는 정보"로 읽히게 합니다. */
+.info-label{
+  display:inline-flex;align-items:center;gap:6px;margin:0 0 10px;
+  font-size:11.5px;font-weight:700;letter-spacing:.05em;color:var(--ink-mute);
 }
-.info-table th,.md-table th{background:var(--surface);font-weight:700;}
+.info-label::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--r);}
+.info-card{
+  border:1px solid var(--line);border-radius:14px;overflow:hidden;
+  background:color-mix(in srgb,var(--r) 5%,var(--surface));
+}
+.info-table{width:100%;border-collapse:collapse;font-size:14.5px;}
+.info-table th,.info-table td{padding:11px 14px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);}
+.info-table tr:last-child th,.info-table tr:last-child td{border-bottom:0;}
 /* 라벨은 줄바꿈을 허용합니다 — 영어·일어·중국어는 라벨이 길어
    nowrap 이면 표가 모바일 화면 밖으로 삐져나가 값이 잘렸습니다. */
-.info-table th{width:120px;white-space:normal;overflow-wrap:break-word;}
-.info-table td{overflow-wrap:anywhere;}
+.info-table th{width:120px;white-space:normal;overflow-wrap:break-word;font-weight:700;color:var(--ink-mid);background:transparent;}
+.info-table td{overflow-wrap:anywhere;color:var(--ink);}
+
+/* 정보표 다음, 본문(이야기)이 시작되는 지점을 표시하는 구분선.
+   "가게 정보"와 "글쓴이 이야기"가 안 갈린다는 피드백을 반영했습니다. */
+.post-divider{
+  display:flex;align-items:center;gap:12px;margin:20px 0 26px;
+  font-size:11.5px;font-weight:700;letter-spacing:.06em;color:var(--ink-mute);
+}
+.post-divider::before,.post-divider::after{content:"";flex:1;height:1px;background:var(--line);}
+
+/* 마크다운 본문 안의 일반 표(md-table)는 예전처럼 칸마다 테두리가 있는 격자 그대로 둡니다 —
+   위 info-table 과는 성격이 달라서(본문 중간 자료 vs 훑어보는 요약) 스타일을 분리했습니다. */
+.md-table{width:100%;border-collapse:collapse;font-size:14.5px;}
+.md-table th,.md-table td{border:1px solid var(--line);padding:11px 14px;text-align:left;vertical-align:top;}
+.md-table th{background:var(--surface);font-weight:700;}
 
 /* 확실하지 않은 정보 표시 — 가격·영업시간처럼 자주 바뀌는 항목에 붙습니다 */
 .unverified{

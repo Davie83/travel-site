@@ -112,6 +112,8 @@ module.exports = {
     needsCheck: '잦은 변동으로 확인 필요',
     mapLabel:   '지도',
     openMap:    '구글 지도에서 열기',
+    infoLabel:  '한눈에 보기',
+    storyLabel: '방문기',
 
     published:  '발행',
     visited:    v => `방문 기준 ${v}`,
@@ -282,6 +284,8 @@ module.exports = {
     needsCheck: 'changes often — please verify',
     mapLabel:   'Map',
     openMap:    'Open in Google Maps',
+    infoLabel:  'At a glance',
+    storyLabel: 'The visit',
 
     published:  'Published',
     visited:    v => `Visited ${v}`,
@@ -452,6 +456,8 @@ module.exports = {
     needsCheck: '変動が多いため要確認',
     mapLabel:   '地図',
     openMap:    'Google マップで開く',
+    infoLabel:  'ひと目で',
+    storyLabel: '訪問記',
 
     published:  '公開',
     visited:    v => `訪問時期 ${v}`,
@@ -622,6 +628,8 @@ module.exports = {
     needsCheck: '變動頻繁，請再確認',
     mapLabel:   '地圖',
     openMap:    '在 Google 地圖開啟',
+    infoLabel:  '重點資訊',
+    storyLabel: '走訪記',
 
     published:  '發布',
     visited:    v => `造訪時間 ${v}`,

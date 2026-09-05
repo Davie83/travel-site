@@ -237,6 +237,8 @@ module.exports = {
     /* 음식 종류 */
     { key: '국밥',     names: { ko: '국밥',     en: 'Gukbap',          ja: 'クッパ',       zh: '湯飯' } },
     { key: '곰탕',     names: { ko: '곰탕',     en: 'Gomtang',         ja: 'コムタン',     zh: '牛肉湯' } },
+    { key: '설렁탕',   names: { ko: '설렁탕',   en: 'Seolleongtang',   ja: 'ソルロンタン', zh: '雪濃湯' } },
+    { key: '도가니탕', names: { ko: '도가니탕', en: 'Ox-knee soup',    ja: 'トガニタン',   zh: '牛膝軟骨湯' } },
     { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '豬肉湯飯' } },
     { key: '국수',     names: { ko: '국수',     en: 'Noodles',         ja: '麺',           zh: '麵食' } },
     { key: '칼국수',   names: { ko: '칼국수',   en: 'Kalguksu',        ja: 'カルグクス',   zh: '刀切麵' } },
@@ -283,7 +285,8 @@ module.exports = {
     { key: '전망대',   names: { ko: '전망대',   en: 'Lookout',         ja: '展望台',       zh: '觀景台' } },
     { key: '유적',     names: { ko: '유적',     en: 'Historic site',   ja: '史跡',         zh: '古蹟' } },
     { key: '수목원',   names: { ko: '수목원',   en: 'Arboretum',       ja: '樹木園',       zh: '樹木園' } },
-    { key: '공원',     names: { ko: '공원',     en: 'Park',            ja: '公園',         zh: '公園' } }
+    { key: '공원',     names: { ko: '공원',     en: 'Park',            ja: '公園',         zh: '公園' } },
+    { key: '뱃놀이',   names: { ko: '뱃놀이',   en: 'Boat ride',       ja: '船遊び',       zh: '船遊' } }
   ],
   /* ---- 카테고리 --------------------------------------------------------
      slug 이 주소가 됩니다: /travel.html · /food.html
@@ -332,7 +335,7 @@ module.exports = {
       tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살', '한우', '곱창', '대창', '막창'] },
     { slug: 'korean-soup',      emoji: '🍲',
       names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '湯飯' },
-      tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장'] },
+      tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장', '설렁탕', '도가니탕'] },
     { slug: 'korean-noodles',   emoji: '🍜',
       names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韓式麵食' },
       tags:  ['냉면', '막국수', '콩국수', '국수', '칼국수'] },

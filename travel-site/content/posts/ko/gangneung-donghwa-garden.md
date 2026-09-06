@@ -6,6 +6,7 @@ area: gangneung
 date: 2026-09-02
 emoji: 🍲
 thumb: assets/img/gangneung-donghwa-garden.jpg
+famous: true
 excerpt: 강릉 초당순두부 마을에 있는, 이미 유명해질 대로 유명해진 짬뽕순두부집. 칼칼한 짬뽕 국물에 몽글몽글한 순두부가 어우러진다. 순두부를 좋아한다면 강릉 여행에서 한 번은 맛볼 만하다.
 tags: [강릉, 초당, 초당동, 초당순두부, 동화가든, 짬뽕순두부, 순두부, 두부, 강원맛집, 강릉맛집]
 map: https://www.google.com/maps/search/?api=1&query=%eb%8f%99%ed%99%94%ea%b0%80%eb%93%a0+%ea%b0%95%eb%a6%89+%ec%b4%88%eb%8b%b9

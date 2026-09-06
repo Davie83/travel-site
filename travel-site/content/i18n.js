@@ -26,6 +26,9 @@ module.exports = {
     },
 
     findByRegion: '지역으로 찾기',
+    pickAll:    '전체',
+    pickFamous: '소문난 곳',
+    pickDraw:   '끌리는 곳',
     homeTitle:   '한국 여행지·맛집 후기 (지역별 정리)',
     homeDesc:    '서울·제주·부산 등 소문난 곳과 끌리는 곳을 직접 다녀와 정리했습니다. 별점 대신 가격대, 주문 방법, 가는 길, 붐비는 시간대를 적었습니다.',
     faqWhat:   n => `${n} — 어떤 곳인가요?`,
@@ -198,6 +201,9 @@ module.exports = {
     },
 
     findByRegion: 'Browse by region',
+    pickAll:    'All',
+    pickFamous: 'Well-known',
+    pickDraw:   'Caught my eye',
     homeTitle:   'Firsthand Korea Food & Travel Guides, by Region',
     homeDesc:    'Places across Korea — Seoul, Jeju, Busan and more — the talked-about ones and the ones that just drew me in, visited in person. No star ratings: price range, how to order, how to get there, and when it gets busy.',
     faqWhat:   n => `What kind of place is ${n}?`,
@@ -370,6 +376,9 @@ module.exports = {
     },
 
     findByRegion: '地域から探す',
+    pickAll:    'すべて',
+    pickFamous: '評判の店',
+    pickDraw:   '惹かれた店',
     homeTitle:   '韓国の食と旅、地域別の現地ガイド',
     homeDesc:    'ソウル・済州・釜山など、評判の店と惹かれた店を実際に足を運んでまとめました。星の数ではなく、価格帯・注文方法・行き方・混む時間帯を書いています。',
     faqWhat:   n => `${n}はどんな店ですか？`,
@@ -542,6 +551,9 @@ module.exports = {
     },
 
     findByRegion: '按地區瀏覽',
+    pickAll:    '全部',
+    pickFamous: '有名的',
+    pickDraw:   '心動的',
     homeTitle:   '韓國美食與旅遊，按地區整理的在地指南',
     homeDesc:    '首爾、濟州、釜山等韓國各地，有名的地方和讓人心動的地方，都親自去過後整理。不打星等，而是寫價位、點餐方式、怎麼去、什麼時候人多。',
     faqWhat:   n => `${n}是什麼樣的店？`,

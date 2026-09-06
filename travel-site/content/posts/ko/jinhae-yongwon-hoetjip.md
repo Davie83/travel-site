@@ -6,6 +6,7 @@ area: jinhae
 date: 2026-08-25
 emoji: 🐟
 thumb: assets/img/jinhae-yongwon-hoetjip.jpg
+famous: true
 excerpt: 생대구탕 인생 맛집입니다. 살은 보들보들하고, 특히 이리(수컷 대구의 정소)는 아귀간이 저리 가라 할 정도로 풍미가 풍부하고 크리미합니다. 여유가 되면 회·전·탕을 한 번에 맛보는 대구 코스를 권합니다. 다만 생대구는 겨울 제철입니다.
 tags: [경남, 창원, 진해, 용원, 생대구탕, 대구, 이리, 대구코스, 겨울, 제철]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EB%82%A8+%EC%B0%BD%EC%9B%90%EC%8B%9C+%EC%A7%84%ED%95%B4%EA%B5%AC+%EC%9A%A9%EC%9B%90%EB%8F%99%EB%A1%9C+242-6+%EC%9A%A9%EC%9B%90%ED%9A%9F%EC%A7%91

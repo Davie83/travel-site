@@ -6,6 +6,7 @@ area: gwangjin
 date: 2026-08-27
 emoji: 🦭
 thumb: assets/img/seoul-childrens-grand-park.jpg
+famous: true
 excerpt: 서울 시내에서 동물원까지 통째로 공짜인 곳입니다. 입장료도 예매도 없습니다. 동선상 지나갈 일이 있다면 가족과 잠깐 쉬어가기 좋습니다. 식물원은 리모델링으로 문을 닫았습니다.
 tags: [서울, 광진, 건대, 어린이대공원, 공원, 동물원, 식물원, 가족, 무료, 산책, 아이와, 여행지]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90

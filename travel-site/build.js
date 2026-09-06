@@ -381,7 +381,7 @@ function loadPosts(code) {
    "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
    4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
    한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
-const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode'];
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode', 'famous'];
 
 function applyGeo(byLocale) {
   const base = {};
@@ -1411,6 +1411,16 @@ function cardSpicyHTML(m, t) {
   return `<span class="card-spicy spicy-${n}" role="img" aria-label="${escapeHtml(aria)}">${peppers}</span>`;
 }
 
+/** 소문난 곳 / 끌리는 곳 토글 — 카드의 data-pick 를 filter.js 가 걸러냅니다.
+    별도 URL 을 만들지 않고 홈·카테고리 목록에서 보였다 숨겼다만 합니다. */
+function pickToggleHTML(target, t) {
+  const items = [['all', t.pickAll], ['famous', t.pickFamous], ['draw', t.pickDraw]];
+  return `      <div class="picks" data-target="${escapeHtml(target)}" role="group" aria-label="${escapeHtml(t.pickAll)}">\n`
+    + items.map(([k, label], i) =>
+        `        <button class="pick${i === 0 ? ' on' : ''}" type="button" data-pick="${k}">${escapeHtml(label || k)}</button>`).join('\n')
+    + `\n      </div>`;
+}
+
 function cardHTML(post, base, code, t) {
   const m = post.meta;
   const d = localeDir(code);
@@ -1427,7 +1437,7 @@ function cardHTML(post, base, code, t) {
   const chipNames = chipsOf(m).map(e => tagName(e, code)).join(' ');
   const search = [m.title, m.excerpt, rname, aname, m.addr, (m.tags || []).join(' '), chipNames].join(' ').toLowerCase();
 
-  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
+  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-pick="${String(m.famous) === 'true' ? 'famous' : 'draw'}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">
@@ -1816,6 +1826,7 @@ function build() {
         tipsTags:  escapeHtml(t.tipsTags),
         tipsCta:   escapeHtml(t.tipsCta),
         genreBlock: homeGenresHTML(homeBase, code, genreCounts, t),
+        pickToggle: pickToggleHTML('latest-grid', t),
         latest: posts.map(p => cardHTML(p, baseOf(d + 'index.html'), code, t)).join('\n'),
         noResult: escapeHtml(t.noResult),
         adTop: adSlotHTML('home-top'), adBottom: adSlotHTML('home-bottom')
@@ -1950,6 +1961,7 @@ function build() {
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: c.slug === 'food' ? genreNavHTML(code, base, genreCounts, null) : '',
           tipsNudge: '',
+          pickToggle: inCat.length ? pickToggleHTML('list-grid', t) : '',
           chips: inCat.length ? regionsHere.map((rs, i) =>
             `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${rs}">${escapeHtml(rs === 'all' ? t.all : regionName(rs, code))}</button>`
           ).join('\n        ') : '',
@@ -1994,6 +2006,7 @@ function build() {
           searchPlaceholder: escapeHtml(t.searchPlaceholder),
           genreNav: genreNavHTML(code, base, genreCounts, g.slug),
           tipsNudge: tipsNudgeHTML(base, code, t),
+          pickToggle: pickToggleHTML('list-grid', t),
           chips: regionsHere.map((rs, i) =>
             `<button class="chip${i === 0 ? ' active' : ''}" type="button" data-region="${rs}">${escapeHtml(rs === 'all' ? t.all : regionName(rs, code))}</button>`
           ).join('\n        '),

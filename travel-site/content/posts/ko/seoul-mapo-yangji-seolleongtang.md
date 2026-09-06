@@ -6,6 +6,7 @@ area: mapo
 date: 2026-09-05
 emoji: 🍲
 thumb: assets/img/seoul-mapo-yangji-seolleongtang.jpg
+famous: true
 excerpt: 필자가 오래 다닌 마포·공덕 인근 설렁탕집. 예전엔 길 건너 신라스테이 뒤쪽에 있었는데, 지금은 명동교자처럼 현 주소에 번듯하게 새 가게를 냈다. 처음엔 설렁탕 특으로 고기까지 배부르게 먹었고, 파김치를 포함한 이 집 김치 맛이 정말 좋다. 요즘은 도가니가 푸짐한 도가니탕을 주로 시킨다.
 tags: [서울, 마포, 공덕, 마포양지설렁탕, 설렁탕, 도가니탕, 도가니, 파김치, 국밥, 마포맛집, 서울맛집, 공덕맛집]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a7%88%ed%8f%ac%ec%96%91%ec%a7%80%ec%84%a4%eb%a0%81%ed%83%95+%ea%b3%b5%eb%8d%95

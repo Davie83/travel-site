@@ -6,6 +6,7 @@ area: sokcho
 date: 2026-09-05
 emoji: ⛴️
 thumb: assets/img/sokcho-abai-gaetbae.jpg
+famous: true
 excerpt: 속초시내와 아바이마을을 잇는 갯배. 구간은 짧지만 왔다갔다 편하게 탈 수 있고, 한 번쯤은 경험해볼 만하다. 편도로도 구매할 수 있다.
 tags: [강원, 속초, 아바이마을, 청호동, 갯배, 뱃놀이, 속초갯배, 속초여행, 강원여행, 속초가볼만한곳]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8d%ec%b4%88+%ec%95%84%eb%b0%94%ec%9d%b4%eb%a7%88%ec%9d%84+%ea%b0%af%eb%b0%b0

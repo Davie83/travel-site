@@ -6,6 +6,7 @@ area: jeonnam
 date: 2026-08-28
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg
+famous: true
 excerpt: 광주송정역과 광산구청 사이 떡갈비 골목의 한 집. 소·돼지 떡갈비를 함께 시켰다. 함박스테이크처럼 단단하게 뭉친 게 아니라 부들부들 풀어지는 식감이 서울 떡갈비와 사뭇 다르다. 맑은 뼈국이 서비스로 나오지만, 그 외 반찬은 기대만큼은 아니었다.
 tags: [광주, 송정, 광산구, 떡갈비, 소떡갈비, 돼지떡갈비, 갈비, 뼈국, 떡갈비골목]
 map: https://www.google.com/maps/search/?api=1&query=%ed%98%95%ec%a0%9c%ec%86%a1%ec%a0%95%eb%96%a1%ea%b0%88%eb%b9%84+%ea%b4%91%ec%82%b0%ea%b5%ac

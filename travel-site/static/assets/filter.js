@@ -24,24 +24,26 @@
     const chipBox  = document.querySelector(`.chips[data-target="${grid.id}"]`);
     const tabBox   = document.querySelector(`.rtabs[data-target="${grid.id}"]`);
     const areaBox  = document.querySelector(`.achips-wrap[data-target="${grid.id}"]`);
+    const pickBox  = document.querySelector(`.picks[data-target="${grid.id}"]`);
 
-    if (!input && !chipBox && !tabBox && !areaBox) return;   // 관련 글 목록 등은 그대로 둡니다
+    if (!input && !chipBox && !tabBox && !areaBox && !pickBox) return;   // 관련 글 목록 등은 그대로 둡니다
 
-    // 검색어 · 지역 · 카테고리를 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
-    const state = { keyword: '', region: 'all', area: 'all', cat: 'all' };
+    // 검색어 · 지역 · 카테고리 · 소문난/끌리는 을 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
+    const state = { keyword: '', region: 'all', area: 'all', cat: 'all', pick: 'all' };
     const hasLimit = grid.classList.contains('limit-4');
 
     function apply() {
       const kw = state.keyword.trim().toLowerCase();
-      const filtering = !!kw || state.region !== 'all' || state.area !== 'all' || state.cat !== 'all';
+      const filtering = !!kw || state.region !== 'all' || state.area !== 'all' || state.cat !== 'all' || state.pick !== 'all';
       let shown = 0;
 
       cards.forEach(card => {
         const okRegion = state.region === 'all' || card.dataset.region === state.region;
         const okArea   = state.area   === 'all' || card.dataset.area   === state.area;
         const okCat    = state.cat    === 'all' || card.dataset.cat    === state.cat;
+        const okPick   = state.pick   === 'all' || card.dataset.pick   === state.pick;
         const okKw     = !kw || (card.dataset.search || '').includes(kw);
-        const visible  = okRegion && okArea && okCat && okKw;
+        const visible  = okRegion && okArea && okCat && okPick && okKw;
         card.hidden = !visible;
         if (visible) shown++;
       });
@@ -122,6 +124,17 @@
         tabBox.querySelectorAll('.rtab').forEach(b => b.classList.remove('on'));
         btn.classList.add('on');
         state.cat = btn.dataset.cat;
+        apply();
+      });
+    }
+
+    if (pickBox) {
+      pickBox.addEventListener('click', e => {
+        const btn = e.target.closest('.pick');
+        if (!btn) return;
+        pickBox.querySelectorAll('.pick').forEach(b => b.classList.remove('on'));
+        btn.classList.add('on');
+        state.pick = btn.dataset.pick;
         apply();
       });
     }

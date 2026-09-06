@@ -6,6 +6,7 @@ area: mapo
 date: 2026-08-27
 emoji: 🐖
 thumb: assets/img/seoul-mapo-sogeumgui.jpg
+famous: true
 excerpt: 돼지 껍데기로 이름난 노포입니다. 1995년부터 했습니다. 이 집의 조합은 껍데기와 목살이고, 목살이 부들부들합니다. 합정역에서 2분인데 간판이 눈에 띄지 않아 주소를 확인하고 가세요.
 tags: [서울, 마포, 합정, 홍대, 껍데기, 돼지껍데기, 목살, 소금구이, 고기집, 술집, 노포, 숯불]
 map: https://www.google.com/maps/search/?api=1&query=%EB%A7%88%ED%8F%AC%EC%86%8C%EA%B8%88%EA%B5%AC%EC%9D%B4+%ED%95%A9%EC%A0%95

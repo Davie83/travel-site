@@ -6,6 +6,7 @@ area: seongsan
 date: 2026-08-29
 emoji: 🌅
 thumb: assets/img/jeju-seongsan-ilchulbong.jpg
+famous: true
 excerpt: 봄이 오면 유채꽃 필 무렵의 제주가 생각난다. 성산일출봉 아래 광치기해변은 제주에서 가장 큰 유채꽃밭으로 꼽히는 곳이다. 만발한 유채꽃을 보고, 바다에서 솟은 일출봉을 짧게 오르고, 내려와서 마시는 커피가 이 코스의 마무리다.
 tags: [제주, 서귀포, 성산, 성산일출봉, 광치기해변, 유채꽃, 봄, 유네스코, 세계자연유산, 해변]
 map: https://www.google.com/maps/search/?api=1&query=%ec%84%b1%ec%82%b0%ec%9d%bc%ec%b6%9c%eb%b4%89

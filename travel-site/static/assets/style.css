@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Korea Trips — 전체 스타일
+   Davie's K-Food Trip — 전체 스타일
    사이트 크롬은 무채색으로 두고, 색은 '지역'만 갖습니다.
    지역색(--region-seoul 등)은 build.js 가 site.config.js 를 읽어
    각 페이지 <head> 에 심어줍니다. 여기서는 --r 로 받아 씁니다.
@@ -117,7 +117,10 @@ img{max-width:100%;display:block;}
   border-bottom:1px solid var(--line);
 }
 .header-inner{display:flex;align-items:center;gap:14px;height:62px;}
-.logo{font-weight:800;font-size:18px;letter-spacing:-.03em;}
+.logo{display:flex;flex-direction:column;justify-content:center;line-height:1.05;text-decoration:none;color:inherit;}
+.logo-name{font-weight:800;font-size:18px;letter-spacing:-.03em;color:var(--ink);}
+.logo-tag{font-size:10.5px;font-weight:500;letter-spacing:0;color:var(--ink-mute);margin-top:2px;white-space:nowrap;}
+@media (max-width:560px){ .logo-tag{display:none;} }
 
 .langs{
   margin-left:auto;display:flex;align-items:center;gap:2px;

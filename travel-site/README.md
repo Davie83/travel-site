@@ -1,4 +1,4 @@
-# Korea Trips — 운영 안내서
+# Davie's K-Food Trip — 운영 안내서
 
 Markdown 파일로 글을 쓰면 Cloudflare Pages가 다국어 정적 사이트를 만들어 배포합니다.
 

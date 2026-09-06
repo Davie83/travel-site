@@ -1073,7 +1073,7 @@ function homeJsonLd(code) {
       {
         '@type': 'Organization',
         '@id': `${SITE_URL}/#org`,
-        name: 'Korea Trips',
+        name: siteName(code),
         url: `${SITE_URL}/`,
         logo: { '@type': 'ImageObject', url: `${SITE_URL}/${site.ogImage}` },
         sameAs: [site.author && site.author.mapsProfile].filter(Boolean)
@@ -1638,6 +1638,7 @@ function renderPage(o) {
     ogImageW:    (jpegSize(o.ogImage || site.ogImage) || { w: 1200 }).w,
     ogImageH:    (jpegSize(o.ogImage || site.ogImage) || { h: 630 }).h,
     siteName:    escapeHtml(siteName(o.code)),
+    slogan:      escapeHtml(I18N[o.code].tagline),      // 헤더 로고 밑 한 줄
     base:        base,                                  // 최상단까지 (assets 용)
     lbase:       base + localeDir(o.code),              // 그 언어의 최상단까지 (페이지 링크용)
     homeHref:    linkTo(base + localeDir(o.code)),

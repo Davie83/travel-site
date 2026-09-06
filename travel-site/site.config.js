@@ -7,12 +7,12 @@ module.exports = {
   /* ---- 기본 ------------------------------------------------------------
      name 은 언어별로 다르게 쓸 수 있습니다.
      영어 페이지에 한글 로고가 뜨면 관광객은 읽지 못하므로 분리했습니다.
-     (전 언어 공통으로 쓰려면 name: 'Korea Trips' 처럼 문자열 하나로 두면 됩니다) */
+     (전 언어 공통으로 쓰려면 name: "Davie's K-Food Trip" 처럼 문자열 하나로 두면 됩니다) */
   name: {
-    ko: '여행한입',
-    en: 'Korea Trips',
-    ja: 'Korea Trips',
-    zh: 'Korea Trips'
+    ko: "Davie's K-식도락",
+    en: "Davie's K-Food Trip",
+    ja: "Davie's K-Food Trip",
+    zh: "Davie's K-Food Trip"
   },
 
   // ★ 끝에 / 붙이지 마세요
@@ -396,7 +396,7 @@ module.exports = {
      됩니다. 늘어나도 계속 참인 표현을 쓰려고 내림값만 둡니다.
      2026-08-23 확인: 레벨 6 · 사진 102장 · 조회수 216,779회               */
   author: {
-    name:            'Davie 여행한입',
+    name:            'Davie',
     mapsProfile:     'https://www.google.com/maps/contrib/108511658203720708025',
     guideLevel:      6,
     photoViewsFloor: 210000

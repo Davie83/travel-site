@@ -1,10 +1,12 @@
 ---
 title: About
 description: First-hand guides to places and food across Korea, written for people planning an actual trip.
-updated: Last updated 17 August 2026
+updated: Last updated 7 September 2026
 ---
 
 **{{siteName}}** is a small, independently run site. Every guide here comes from an actual visit — no aggregated listings, no reposted content.
+
+In September 2026 the site was renamed from **"여행한입 (Korea Trips)" to "Davie's K-Food Trip"**. The address (kfoodtrip.net) and all existing writing are unchanged.
 
 ## What you'll find here
 

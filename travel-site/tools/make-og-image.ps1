@@ -54,16 +54,17 @@ $white=New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(255
 $mute =New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(255,147,158,169))
 $accent=New-Object System.Drawing.SolidBrush([System.Drawing.ColorTranslator]::FromHtml('#72dfd6'))
 
-$fTitle=New-Object System.Drawing.Font('Segoe UI',72,[System.Drawing.FontStyle]::Bold)
-$fKor  =New-Object System.Drawing.Font('Malgun Gothic',40,[System.Drawing.FontStyle]::Bold)
-$fSub  =New-Object System.Drawing.Font('Malgun Gothic',22,[System.Drawing.FontStyle]::Regular)
+$fBrand=New-Object System.Drawing.Font('Segoe UI',34,[System.Drawing.FontStyle]::Bold)
+$fTitle=New-Object System.Drawing.Font('Segoe UI',70,[System.Drawing.FontStyle]::Bold)
+$fKor  =New-Object System.Drawing.Font('Malgun Gothic',34,[System.Drawing.FontStyle]::Bold)
+$fSub  =New-Object System.Drawing.Font('Segoe UI',24,[System.Drawing.FontStyle]::Regular)
 $fUrl  =New-Object System.Drawing.Font('Segoe UI',22,[System.Drawing.FontStyle]::Bold)
 
-$g.DrawString('Korea Trips',$fTitle,$white,68,132)
-$g.DrawString('여행한입',$fKor,$mute,74,248)
-$g.DrawString("한국인이 직접 다녀온",$fSub,$white,74,340)
-$g.DrawString("여행지 · 맛집 기록",$fSub,$white,74,382)
-$g.DrawString('kfoodtrip.net',$fUrl,$accent,74,478)
+$g.DrawString("Davie's",$fBrand,$accent,74,108)
+$g.DrawString('K-Food Trip',$fTitle,$white,68,150)
+$g.DrawString("Davie's K-식도락",$fKor,$mute,74,268)
+$g.DrawString('Taste Korea, One Bite at a Time.',$fSub,$white,74,360)
+$g.DrawString('kfoodtrip.net',$fUrl,$accent,74,470)
 
 # 하단 강조선
 $bar=New-Object System.Drawing.SolidBrush([System.Drawing.ColorTranslator]::FromHtml('#72dfd6'))

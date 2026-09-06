@@ -34,7 +34,7 @@ LA galbi is beef short rib sliced thin across the bone (the "LA cut") and steepe
 
 Here, **the staff grill it for you.** Even after a long time away, they judge it well — a proper browned crust outside, not chewy inside, cut with scissors at just the right moment. They know when to turn it before the marinade scorches bitter.
 
-![LA galbi cooking on the domed pan](/assets/img/seoul-sigoljip-galbi.jpg)
+![The LA galbi pan with doenjang stew and side dishes](/assets/img/seoul-sigoljip-table.jpg)
 
 The sides come with a pot of doenjang stew and an assortment of namul and kimchi. The seasoning isn't strong, so it's easy going even if you can't take spice.
 

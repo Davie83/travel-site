@@ -13,9 +13,8 @@ info:
   - Location|Euljiro 3-ga, Jung-gu, Seoul (near Euljiro 3-ga Station)
   - Signature|**Sundae-guk**, **modeum suyuk** (mixed boiled offal plate)
   - On the plate|Blood sausage, head meat, liver, lung, pig stomach, ear and other cuts, by type
-  - Broth|Milky, with perilla seed — stir in the chilli paste to make it hot
-  - Seasoning|Done with **saeujeot** (salted shrimp)
-  - Spice|Mild as served (the chilli paste is separate)
+  - Broth|Milky, with perilla seed
+  - Seasoning|Done with **saeujeot** (salted shrimp) — stir the chilli paste (dadaegi) into the white broth to set the heat yourself
   - Smell|**The room carries a strong pork-and-offal smell** — worth knowing if you're sensitive to it
   - Seating · wait|Small room, and there's usually a wait these days
   - Price · hours · closing day|Not confirmed (check before you go)

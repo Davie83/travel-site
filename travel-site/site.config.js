@@ -243,6 +243,7 @@ module.exports = {
     { key: '순대국',   names: { ko: '순대국',   en: 'Sundae-guk',      ja: 'スンデクッパ', zh: '血腸湯' } },
     { key: '국수',     names: { ko: '국수',     en: 'Noodles',         ja: '麺',           zh: '麵食' } },
     { key: '칼국수',   names: { ko: '칼국수',   en: 'Kalguksu',        ja: 'カルグクス',   zh: '刀切麵' } },
+    { key: '쌀국수',   names: { ko: '쌀국수',   en: 'Rice noodles',    ja: '米麺',         zh: '米線' } },
     { key: '짬뽕',     names: { ko: '짬뽕',     en: 'Jjamppong',       ja: 'チャンポン',   zh: '炒碼麵' } },
     { key: '순두부',   names: { ko: '순두부',   en: 'Sundubu',         ja: 'スンドゥブ',   zh: '嫩豆腐' } },
     { key: '백반',     names: { ko: '백반',     en: 'Home-style set',  ja: 'ペクバン',     zh: '家常定食' } },

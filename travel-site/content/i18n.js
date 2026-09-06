@@ -9,9 +9,9 @@
 module.exports = {
 
   ko: {
-    tagline:     '가봤고, 먹어봤고, 적었습니다',
-    description: '한국인이 직접 다녀온 경험 및 맛집 후기 정리합니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
-    siteDesc:    '한국 여행지와 맛집 정보. 지역별로 정리했습니다.',
+    tagline:     '소문난 곳, 끌리는 곳 — 가봤고, 먹어봤고, 적었습니다',
+    description: '한국인이 소문난 곳과 끌리는 곳을 직접 찾아가 정리한 기록입니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
+    siteDesc:    '한국의 여행지와 맛집 — 소문난 곳과 끌리는 곳을 지역별로 정리했습니다.',
 
     nav:       { regions: '지역', travel: '여행지', food: '맛집', tips: '여행 팁', about: '소개', contact: '문의' },
     category:  { travel: '여행지', food: '맛집' },
@@ -27,7 +27,7 @@ module.exports = {
 
     findByRegion: '지역으로 찾기',
     homeTitle:   '한국 여행지·맛집 후기 (지역별 정리)',
-    homeDesc:    '서울·제주·부산 등 한국 각지 맛집과 여행지를 직접 다녀와 정리했습니다. 별점 대신 가격대, 주문 방법, 가는 길, 붐비는 시간대를 적었습니다.',
+    homeDesc:    '서울·제주·부산 등 소문난 곳과 끌리는 곳을 직접 다녀와 정리했습니다. 별점 대신 가격대, 주문 방법, 가는 길, 붐비는 시간대를 적었습니다.',
     faqWhat:   n => `${n} — 어떤 곳인가요?`,
     faqSpice:  '얼마나 맵나요?',
     faqSpiceA: n => `이 사이트 기준 맵기 ${n}/5 정도입니다. 매운맛에 약하면 참고하세요.`,
@@ -181,9 +181,9 @@ module.exports = {
   },
 
   en: {
-    tagline:     'Korea — went, ate, wrote it down',
-    description: 'Written by a Korean who actually goes to these places — routes, budgets, transit, and when to avoid the crowds. The things worth knowing before you go.',
-    siteDesc:    'Honest guides to places and food across Korea, organised by region.',
+    tagline:     'Korea — the known spots and the tempting ones: went, ate, wrote it down',
+    description: 'Written by a Korean who goes to the places people talk about — and the ones that just look worth it. Routes, budgets, transit, and when to avoid the crowds.',
+    siteDesc:    "Korea's places and food — the well-known and the tempting — organised by region.",
 
     nav:       { regions: 'Regions', travel: 'Places', food: 'Food', tips: 'Tips', about: 'About', contact: 'Contact' },
     category:  { travel: 'Place', food: 'Food' },
@@ -199,7 +199,7 @@ module.exports = {
 
     findByRegion: 'Browse by region',
     homeTitle:   'Firsthand Korea Food & Travel Guides, by Region',
-    homeDesc:    'Restaurants and places across Korea — Seoul, Jeju, Busan and more — written up from visits in person. No star ratings: price range, how to order, how to get there, and when it gets busy.',
+    homeDesc:    'Places across Korea — Seoul, Jeju, Busan and more — the talked-about ones and the ones that just drew me in, visited in person. No star ratings: price range, how to order, how to get there, and when it gets busy.',
     faqWhat:   n => `What kind of place is ${n}?`,
     faqSpice:  'How spicy is it?',
     faqSpiceA: n => `About ${n} out of 5 on this site's scale — worth noting if you are weak with spice.`,
@@ -353,9 +353,9 @@ module.exports = {
   },
 
   ja: {
-    tagline:     '韓国 — 行って、食べて、書きました',
-    description: '韓国人が実際に足を運んでまとめています。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
-    siteDesc:    '地域別にまとめた韓国の観光地とグルメ情報。',
+    tagline:     '韓国 — 評判の店と、惹かれた店。行って、食べて、書きました',
+    description: '韓国人が評判の場所と、気になった場所に実際に足を運んでまとめています。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
+    siteDesc:    '地域別にまとめた韓国の観光地とグルメ — 評判の場所と、惹かれた場所。',
 
     nav:       { regions: '地域', travel: '観光地', food: 'グルメ', tips: '旅行のヒント', about: 'このサイト', contact: 'お問い合わせ' },
     category:  { travel: '観光地', food: 'グルメ' },
@@ -371,7 +371,7 @@ module.exports = {
 
     findByRegion: '地域から探す',
     homeTitle:   '韓国の食と旅、地域別の現地ガイド',
-    homeDesc:    'ソウル・済州・釜山など韓国各地のグルメと観光地を、実際に足を運んでまとめました。星の数ではなく、価格帯・注文方法・行き方・混む時間帯を書いています。',
+    homeDesc:    'ソウル・済州・釜山など、評判の店と惹かれた店を実際に足を運んでまとめました。星の数ではなく、価格帯・注文方法・行き方・混む時間帯を書いています。',
     faqWhat:   n => `${n}はどんな店ですか？`,
     faqSpice:  'どのくらい辛いですか？',
     faqSpiceA: n => `このサイトの基準で辛さ${n}/5ほどです。辛いものが苦手な方はご注意ください。`,
@@ -525,9 +525,9 @@ module.exports = {
   },
 
   zh: {
-    tagline:     '韓國 — 親自去、親自吃、親自寫',
-    description: '由韓國在地人親自走過後整理。路線、預算、交通、避開人潮的時間，都是出發前值得知道的事。',
-    siteDesc:    '按地區整理的韓國景點與美食指南。',
+    tagline:     '韓國 — 有名的和心動的，都去了、吃了、寫下來',
+    description: '由韓國在地人親自走訪 —— 有名的地方，還有自己心動想去的地方。路線、預算、交通、避開人潮的時間，都是出發前值得知道的事。',
+    siteDesc:    '按地區整理的韓國景點與美食 —— 有名的，還有讓人心動的。',
 
     nav:       { regions: '地區', travel: '景點', food: '美食', tips: '旅遊須知', about: '關於', contact: '聯絡' },
     category:  { travel: '景點', food: '美食' },
@@ -543,7 +543,7 @@ module.exports = {
 
     findByRegion: '按地區瀏覽',
     homeTitle:   '韓國美食與旅遊，按地區整理的在地指南',
-    homeDesc:    '首爾、濟州、釜山等韓國各地的餐廳與景點，都是親自去過後整理的。不打星等，而是寫價位、點餐方式、怎麼去、什麼時候人多。',
+    homeDesc:    '首爾、濟州、釜山等韓國各地，有名的地方和讓人心動的地方，都親自去過後整理。不打星等，而是寫價位、點餐方式、怎麼去、什麼時候人多。',
     faqWhat:   n => `${n}是什麼樣的店？`,
     faqSpice:  '有多辣？',
     faqSpiceA: n => `以本站的標準大約是辣度 ${n}/5。不太能吃辣的話請留意。`,

@@ -39,7 +39,7 @@ This one comes generous with mussels, clams, shrimp and squid. The broth is sour
 - **Tom yum** is a sour, spicy Thai broth. Poured over rice noodles it's a **tom yum noodle soup**. The seafood version has mussels, clams, shrimp and squid.
 - It comes with **cilantro** on top. If you can't take it, say "gosu ppae juseyo" (hold the cilantro).
 - **A little spicy, a lot sour.** It isn't fiercely hot, but the sourness can surprise you if you're not used to it.
-- It's in the **Yeouido IFC Mall** food court, connected directly to Yeouido Station (subway lines 5 and 9).
+- It's in the **Yeouido IFC Mall** food court, linked to Yeouido Station (subway lines 5 and 9) by an underground moving walkway from Exit 3.
 
 ## Who it's for
 
@@ -54,7 +54,7 @@ This one comes generous with mussels, clams, shrimp and squid. The broth is sour
 
 - **Ordering** — if you want a sour broth, the seafood tom yum noodle soup. You can ask for no cilantro.
 - **Seating** — there can be a wait at the lunch peak (12–1). A bit earlier or later is calmer.
-- **Location** — IFC Mall food court, Yeouido. Connected to Yeouido Station, so it's easy even in the rain.
+- **Location** — IFC Mall food court, Yeouido. An underground moving walkway from Yeouido Station Exit 3 gets you there without stepping outside, rain or not.
 - **Price · hours · closing day** — not confirmed. Check the map or IFC Mall info before you go.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

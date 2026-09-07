@@ -2318,6 +2318,65 @@ ${tocList}
     writeFile('ads.txt', `google.com, ${site.adsensePublisherId.replace(/^ca-/, '')}, DIRECT, f08c47fec0942fa0\n`);
   }
 
+  /* ---- PWA: 웹 매니페스트 + 서비스워커 ----------------------------------
+     "홈 화면에 추가" 하면 앱처럼 전체화면으로 실행됩니다. 아이콘은
+     static/assets/icons/ 에 있습니다. 서비스워커는 페이지를 네트워크
+     우선으로 가져오므로(오프라인일 때만 캐시), 콘텐츠가 낡지 않습니다. */
+  writeFile('manifest.webmanifest', JSON.stringify({
+    name:             siteName('en'),
+    short_name:       'K-Food Trip',
+    description:      (I18N.en && I18N.en.siteDesc) || siteName('en'),
+    start_url:        '/',
+    scope:           '/',
+    display:         'standalone',
+    background_color: '#ffffff',
+    theme_color:     '#312a7e',
+    lang:            'ko',
+    icons: [
+      { src: '/assets/icons/icon-192.png',          sizes: '192x192', type: 'image/png', purpose: 'any'      },
+      { src: '/assets/icons/icon-512.png',          sizes: '512x512', type: 'image/png', purpose: 'any'      },
+      { src: '/assets/icons/icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' }
+    ]
+  }, null, 2) + '\n');
+
+  writeFile('sw.js', [
+    "/* 자동 생성 (build.js). 캐시 버전은 에셋 해시와 함께 올라갑니다. */",
+    "const V = 'kft-" + ASSET_V + "';",
+    "const OFFLINE = '/offline.html';",
+    "self.addEventListener('install', function (e) {",
+    "  e.waitUntil(caches.open(V).then(function (c) { return c.add(OFFLINE); })",
+    "    .then(function () { return self.skipWaiting(); }));",
+    "});",
+    "self.addEventListener('activate', function (e) {",
+    "  e.waitUntil(caches.keys().then(function (ks) {",
+    "    return Promise.all(ks.map(function (k) { return k === V ? null : caches.delete(k); }));",
+    "  }).then(function () { return self.clients.claim(); }));",
+    "});",
+    "self.addEventListener('fetch', function (e) {",
+    "  var req = e.request;",
+    "  if (req.method !== 'GET') return;",
+    "  if (new URL(req.url).origin !== self.location.origin) return;",
+    "  if (req.mode === 'navigate') {",
+    "    e.respondWith(fetch(req).then(function (r) {",
+    "      var cp = r.clone(); caches.open(V).then(function (c) { c.put(req, cp); }); return r;",
+    "    }).catch(function () {",
+    "      return caches.match(req).then(function (r) { return r || caches.match(OFFLINE); });",
+    "    }));",
+    "    return;",
+    "  }",
+    "  e.respondWith(caches.match(req).then(function (cached) {",
+    "    var net = fetch(req).then(function (r) {",
+    "      if (r && r.ok && r.type === 'basic') {",
+    "        var cp = r.clone(); caches.open(V).then(function (c) { c.put(req, cp); });",
+    "      }",
+    "      return r;",
+    "    }).catch(function () { return cached; });",
+    "    return cached || net;",
+    "  }));",
+    "});",
+    ""
+  ].join('\n'));
+
   /* ---- RSS 피드 (언어별) ---- */
   writeRssFeeds(byLocale);
 

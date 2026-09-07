@@ -14,7 +14,7 @@ updated: 通常2〜3日以内に返信します
 
 ## メール
 
-[{{email}}](mailto:{{email}}?subject=[{{siteName}}]%20お問い合わせ)
+[{{email}}](mailto:{{email}}?subject=kfoodtrip.net%20お問い合わせ)
 
 上のアドレスをクリックするとメールアプリが開き、件名が自動で入ります。
 

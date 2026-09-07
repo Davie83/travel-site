@@ -14,7 +14,7 @@ Please get in touch about any of these:
 
 ## Email
 
-[{{email}}](mailto:{{email}}?subject=[{{siteName}}]%20Enquiry)
+[{{email}}](mailto:{{email}}?subject=kfoodtrip.net%20enquiry)
 
 Clicking the address opens your mail app with the subject line filled in.
 

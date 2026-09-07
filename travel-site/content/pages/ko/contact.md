@@ -14,7 +14,7 @@ updated: 보통 2~3일 안에 답변드립니다.
 
 ## 이메일
 
-[{{email}}](mailto:{{email}}?subject=[문의]%20{{siteName}})
+[{{email}}](mailto:{{email}}?subject=kfoodtrip.net%20문의)
 
 위 주소를 누르면 메일 앱이 열리고 제목이 자동으로 채워집니다.
 

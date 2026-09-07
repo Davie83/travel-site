@@ -14,7 +14,7 @@ updated: 通常 2～3 天內回覆
 
 ## 電子郵件
 
-[{{email}}](mailto:{{email}}?subject=[{{siteName}}]%20諮詢)
+[{{email}}](mailto:{{email}}?subject=kfoodtrip.net%20諮詢)
 
 點選上面的地址會開啟郵件應用程式，主旨已經自動填好。
 

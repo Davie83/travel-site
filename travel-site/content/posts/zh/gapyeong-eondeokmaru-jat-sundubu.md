@@ -1,5 +1,5 @@
 ---
-title: 언덕마루 加平松子豆腐店 — 加了松子、更清淡的嫩豆腐
+title: Eondeokmaru 加平松子豆腐店 — 加了松子、更清淡的嫩豆腐
 cat: food
 region: gyeonggi
 area: gapyeong

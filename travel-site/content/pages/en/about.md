@@ -6,8 +6,6 @@ updated: Last updated 7 September 2026
 
 **{{siteName}}** is a small, independently run site. Every guide here comes from an actual visit — no aggregated listings, no reposted content.
 
-In September 2026 the site was renamed from **"여행한입 (Korea Trips)" to "Davie's K-Food Trip"**. The address (kfoodtrip.net) and all existing writing are unchanged.
-
 ## What you'll find here
 
 Not "this place was lovely". The things you would want to know the day before you go:

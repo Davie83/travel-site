@@ -17,13 +17,13 @@ info:
   - Hours · prices · closing day|Not confirmed (changes often — please verify)
 ---
 
-I went because I was craving hitsumabushi — Nagoya-style grilled eel over rice.
+In Aewol I got a craving for hitsumabushi — Nagoya-style grilled eel over rice.
 
-The weather was good, so **I got it to go**. I was hungry, and eating it out in the sun made it better.
+The weather was good, so **I got it to go**, and ate it in the sun on an empty stomach. That made it better.
 
-## Meltingly tender
+## Tender eel, an indulgent meal
 
-The eel was **so tender it was a pleasure to eat**. Honestly, it was **an indulgent meal**. Not something to eat often, but now and then a meal like this feels right.
+The eel was **so tender it was a pleasure to eat**. Honestly, it was **an indulgent meal** — not an everyday one, but now and then a meal like this feels right.
 
 ## What hitsumabushi is
 

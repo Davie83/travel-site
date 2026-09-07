@@ -2308,7 +2308,11 @@ ${tocList}
     }).join('\n') + `\n</urlset>\n`
   );
 
-  writeFile('robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);
+  /* 태그 칩은 /?q=<이름> (홈 검색)으로 보냅니다. 이 주소는 홈과 내용이 같은
+     매개변수 중복이라, 크롤러가 훑을 필요가 없습니다. canonical 로도 홈으로
+     합쳐지지만, 크롤 예산 낭비·서치콘솔 잡음을 줄이려고 크롤 자체를 막습니다.
+     (구글·빙·네이버 Yeti 모두 * 와일드카드를 지원. ?q= 는 페이지에만 쓰므로 안전) */
+  writeFile('robots.txt', `User-agent: *\nAllow: /\nDisallow: /*?q=\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 
   if (site.adsensePublisherId) {
     writeFile('ads.txt', `google.com, ${site.adsensePublisherId.replace(/^ca-/, '')}, DIRECT, f08c47fec0942fa0\n`);

@@ -228,6 +228,7 @@ module.exports = {
 
     /* 자리 성격 */
     { key: '카페',     names: { ko: '카페',     en: 'Cafe',            ja: 'カフェ',       zh: '咖啡館' } },
+    { key: '베이커리', names: { ko: '베이커리', en: 'Bakery',          ja: 'ベーカリー',   zh: '烘焙坊' } },
     { key: '술집',     names: { ko: '술집',     en: 'Drinking spot',   ja: '居酒屋',       zh: '酒館' } },
     { key: '막걸리',   names: { ko: '막걸리',   en: 'Makgeolli',       ja: 'マッコリ',     zh: '馬格利酒' } },
     { key: '와인',     names: { ko: '와인',     en: 'Wine',            ja: 'ワイン',       zh: '葡萄酒' } },

@@ -611,14 +611,12 @@ function koreaMapHTML(base, code, countsByRegion, t) {
     // 글이 없는 지역도 자기 색을 옅게 유지합니다.
     // 전부 회색으로 칠하면 붙어 있는 빈 지역끼리 한 덩어리로 보입니다.
     if (!n) {
-      return `      <g class="map-area is-empty${cls}" style="--r:var(--region-${r.slug})">
-        <title>${escapeHtml(name)} 0</title>
+      return `      <g class="map-area is-empty${cls}" style="--r:var(--region-${r.slug})" role="img" aria-label="${escapeHtml(name)} 0">
         ${body}
       </g>`;
     }
 
-    return `      <a class="map-area${cls}" href="${base}${d}region/${r.slug}" style="--r:var(--region-${r.slug})">
-        <title>${escapeHtml(name)} ${n}</title>
+    return `      <a class="map-area${cls}" href="${base}${d}region/${r.slug}" style="--r:var(--region-${r.slug})" aria-label="${escapeHtml(name)} ${n}">
         ${body}
         <circle class="map-pin" cx="${a.label[0]}" cy="${a.label[1]}" r="${a.r || 9.5}"/>
         <text class="map-count" x="${a.label[0]}" y="${a.label[1]}" dy="0.35em">${n}</text>

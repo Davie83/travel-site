@@ -10,7 +10,7 @@ excerpt: Mungtigi. In the Jeolla dialect it's called saenggogi ("raw meat"). It'
 tags: [Seoul, Mapo, Urban Mungtigi, mungtigi, saenggogi, yukhoe, raw beef, yukjeon]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b4%eb%b0%98%eb%ad%89%ed%8b%b0%ea%b8%b0+%eb%a7%88%ed%8f%ac
 info:
-  - Location|Mapo-gu, Seoul · a small room, reservations possible
+  - Location|Mapo-gu, Seoul · near Mapo Station, a small room · 서울 마포구 도화2안길 2-3
   - Menu|**Mungtigi** (raw beef, the yuk-sashimi family) · **yukjeon** (egg-battered pan-fried beef) is good too
   - What mungtigi is|Uncooked beef · cut **bigger and thicker than yuk-sashimi**, so the aroma and texture stand out
   - Sauce|A **house gochujang-based sauce** (recipes vary by restaurant)

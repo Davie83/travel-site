@@ -10,7 +10,7 @@ excerpt: The morning after arriving in Gangneung, I went out for a late brunch. 
 tags: [Gangneung, Gangneung food, Gangneung brunch, Little Diner, brunch, burger, pancake burger, Western, breakfast, diner]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a6%ac%ed%8b%80%eb%8b%a4%ec%9d%b4%eb%84%88+%ea%b0%95%eb%a6%89
 info:
-  - Location|Gangneung, Gangwon · in town (check the name on the map)
+  - Location|Gangneung, Gangwon · 강원 강릉시 성덕로 105
   - Feel|**Analog American diner** — concrete ceiling, red vinyl chairs, pop-art banners, a beat-up upright piano
   - Signature|**Pancake-bun burger** — a thick griddled bun + smoked meat + cheddar + lettuce, fries on the side
   - On the side|Ketchup and a small **jug of syrup**, pickled onions and jalapeños

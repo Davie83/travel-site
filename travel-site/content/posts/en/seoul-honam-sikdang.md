@@ -10,7 +10,7 @@ excerpt: A diner in Namdaemun's braised-hairtail alley. There are so many of the
 tags: [Seoul, Jung-gu, Namdaemun, Namdaemun Market, braised hairtail alley, Honam Sikdang, braised hairtail, hairtail, seafood, steamed egg, makgeolli]
 map: https://www.google.com/maps/search/?api=1&query=%ed%98%b8%eb%82%a8%ec%8b%9d%eb%8b%b9+%eb%82%a8%eb%8c%80%eb%ac%b8+%ea%b0%88%ec%b9%98%ec%a1%b0%eb%a6%bc%ea%b3%a8%eb%aa%a9
 info:
-  - Location|Jung-gu, Seoul · in the **braised-hairtail alley of Namdaemun Market** (many similar shops)
+  - Location|Jung-gu, Seoul · the **braised-hairtail alley of Namdaemun Market** (many similar shops) · 서울 중구 남대문시장길 18-6
   - Signature|**Braised hairtail (galchi-jorim)** — a spicy earthenware pot with radish, leek and cabbage
   - With it|Steamed egg + rice + side dishes · **fried hairtail** is added as a free side
   - To drink|**Makgeolli** (popular as a daytime drink)

@@ -10,7 +10,7 @@ excerpt: A jjamppong-sundubu place in Gangneung's Chodang tofu village, famous w
 tags: [Gangneung, Chodang, Chodang-dong, Chodang sundubu, Donghwa Garden, jjamppong sundubu, sundubu, tofu, Gangwon food, Gangneung food]
 map: https://www.google.com/maps/search/?api=1&query=%eb%8f%99%ed%99%94%ea%b0%80%eb%93%a0+%ea%b0%95%eb%a6%89+%ec%b4%88%eb%8b%b9
 info:
-  - Location|Chodang-dong, Gangneung, Gangwon · inside the **Chodang tofu village**
+  - Location|Gangneung, Gangwon · inside the **Chodang tofu village** · 강원 강릉시 초당순두부길77번길 15
   - Signature|**Jjamppong sundubu** — a fiery jjamppong broth + soft tofu + squid, mushrooms and more
   - Taste|The broth is hot and bracing; the tofu is soft and curd-like
   - Note|**Already a famous place** — expect a wait at mealtimes

@@ -10,7 +10,7 @@ excerpt: A chicken-gomtang place in Seodaemun that I go to now and then for a re
 tags: [Seoul, Seodaemun, Gwanghwamun, Pyeongyangok, dak-gomtang, chicken gomtang, gomtang, neungi mushroom, gamja-jeon, century store]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8f%89%ec%96%91%ec%98%a5+%ec%84%9c%eb%8c%80%eb%ac%b8
 info:
-  - Location|Seodaemun, Seoul (check the exact spot on the map)
+  - Location|Seodaemun-gu, Seoul · near Seodaemun Station · 서울 서대문구 통일로 107-23
   - Designation|**A Seoul-designated "century store"** (Baengnyeon Gage) — a mark for long-running shops
   - Signature|**Dak-gomtang** (chicken gomtang) — a native-breed chicken boiled, with **only the meat picked off** into the broth
   - Broth|**Clear, but deep with neungi-mushroom aroma** · a generous amount of neungi goes in · leaves you feeling restored

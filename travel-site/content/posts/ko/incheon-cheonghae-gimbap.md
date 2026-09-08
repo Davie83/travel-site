@@ -9,11 +9,12 @@ thumb: assets/img/incheon-cheonghae-gimbap.jpg
 excerpt: 인천에 일이 있어 들렀다가 주변에서 유명하다는 분식집이라 찾아갔다. 거의 모든 테이블이 계란말이김밥을 하나씩 놓고 먹고 있었다. 둘이 가서 잔치국수와 계란말이김밥을 시켰다. 나쁘진 않았지만, 일부러 찾아갈 맛인지는 잘 모르겠다. 한 끼 배부르게는 잘 먹었다.
 tags: [인천, 청해김밥, 분식, 김밥, 계란말이김밥, 잔치국수]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ed%95%b4%ea%b9%80%eb%b0%a5+%ec%9d%b8%ec%b2%9c
+addr: 인천 미추홀구 경인로 414
 spicy: 0
 order: 잔치국수 하나, 계란말이김밥 하나 주세요
 orderRoman: Janchi-guksu hana, gyeranmari-gimbap hana juseyo
 info:
-  - 위치|인천 — 동네 분식집 (정확한 지점은 지도 확인)
+  - 위치|인천 미추홀구 경인로 414
   - 메뉴|**계란말이김밥**(시그니처) · 잔치국수 · 일반 분식
   - 주문한 것|**잔치국수 + 계란말이김밥** (2인)
   - 영업시간·가격·휴무|미확인 (잦은 변동으로 확인 필요)

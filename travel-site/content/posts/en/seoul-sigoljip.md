@@ -10,7 +10,7 @@ excerpt: An old galbi place in Euljiro's rib alley, reached as a second stop aft
 tags: [Seoul, Euljiro, Euljiro 3-ga, Jung-gu, Sigoljip, galbi, LA galbi, beef short ribs, gyeranmari, old restaurant, Euljiro food, Seoul food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%8b%9c%ea%b3%a8%ec%a7%91+%ec%9d%84%ec%a7%80%eb%a1%9c+%ea%b0%88%eb%b9%84%ea%b3%a8%eb%aa%a9
 info:
-  - Location|Euljiro 3-ga rib alley, Jung-gu, Seoul (near Euljiro 3-ga Station)
+  - Location|Jung-gu, Seoul · the Euljiro rib alley · 서울 중구 을지로20길 36
   - Signature|**LA galbi**
   - Grilling|**The staff grill it for you** — an old hand at getting the doneness right
   - Famous side|**Gyeranmari** (rolled omelette) — skipped this time, too full

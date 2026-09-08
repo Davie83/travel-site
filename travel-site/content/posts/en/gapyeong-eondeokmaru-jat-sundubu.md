@@ -10,7 +10,7 @@ excerpt: I was in Gapyeong, got a craving for sundubu, and went looking. Gapyeon
 tags: [Gapyeong, pine nuts, jat-sundubu, sundubu, tofu, soy food, Chodang sundubu, mild, Gyeonggi food, Gapyeong food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b8%eb%8d%95%eb%a7%88%eb%a3%a8+%ea%b0%80%ed%8f%89%ec%9e%a3%eb%91%90%eb%b6%80%ec%a7%91
 info:
-  - Location|Gapyeong-gun, Gyeonggi · pine-nut country
+  - Location|Sangmyeon, Gapyeong-gun, Gyeonggi · 경기 가평군 상면 수목원로 248
   - What I ordered|**Jat-sundubu** — served bubbling white in an earthenware pot, with a seasoning sauce on the side
   - Pine nuts|A Gapyeong specialty · they push the broth toward milky, nutty and clean
   - With it|Side dishes (young-radish kimchi, namul) + rice

@@ -10,7 +10,7 @@ excerpt: A hanwoo (Korean beef) house between Itaewon and Hannam-dong. It lets y
 tags: [Seoul, Itaewon, Hannam, Hannam-dong, Sowana, hanwoo, hanwoo omakase, cut by cut, grill house, charcoal, course, Itaewon food, Seoul food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8c%ec%99%80%eb%82%98+%ed%95%9c%eb%82%a8
 info:
-  - Location|Around Itaewon and Hannam, Seoul (check the name on the map)
+  - Location|Hannam-dong, Yongsan-gu, Seoul · 서울 용산구 이태원로54길 68
   - Format|**A hanwoo course by cut** — the number of cuts and the price change with the set
   - Cooking|Staff grill each piece **over charcoal**, to the right doneness, and serve it one at a time; vegetables grilled alongside
   - Feel|Dark-wood counter with lattice screens; a calm room with little smoke or smell

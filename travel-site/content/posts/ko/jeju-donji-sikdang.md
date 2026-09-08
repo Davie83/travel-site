@@ -11,7 +11,7 @@ tags: [제주, 서귀포, 모슬포, 돈지식당, 한치, 회덮밥, 물회, �
 map: https://www.google.com/maps/place/?q=place_id:ChIJ80k9j_BpDDUR5td5c3kt3LU
 lat: 33.2187099
 lng: 126.2509121
-addr: 제주 서귀포시 대정읍
+addr: 제주 서귀포시 대정읍 하모항구로 60
 closed: none
 season: 6,7,8
 seasonMode: only
@@ -20,7 +20,7 @@ order: 한치회덮밥 주세요
 orderRoman: Hanchi-hoedeopbap juseyo
 info:
   - 가게|돈지식당
-  - 위치|제주 서귀포시 대정읍, 모슬포항 인근
+  - 위치|제주 서귀포시 대정읍 하모항구로 60 · 모슬포항 인근
   - 전화|064-794-8465
   - 영업 종료|**오후 9:00** · (휴무 정보 없음)
   - 1인 예산|**2~3만 원** (잦은 변동으로 확인 필요)

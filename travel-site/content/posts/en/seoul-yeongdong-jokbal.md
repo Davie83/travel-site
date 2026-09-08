@@ -10,7 +10,7 @@ excerpt: A jokbal (braised pig's trotter) place in Yangjae. Of all the jokbal I'
 tags: [Seoul, Seocho, Yangjae, Gangnam, Yeongdong Jokbal, jokbal, pigs trotter, ssam]
 map: https://www.google.com/maps/search/?api=1&query=%ec%98%81%eb%8f%99%ec%a1%b1%eb%b0%9c+%ec%84%9c%ec%b4%88%ea%b5%ac+%ec%96%91%ec%9e%ac%eb%8f%99
 info:
-  - Location|Yangjae-dong, Seocho-gu, Seoul — the Gangnam area (main branch plus several annexes nearby)
+  - Location|Yangjae-dong, Seocho-gu, Seoul (main branch; several annexes nearby) · 서울 서초구 남부순환로358길 8
   - Menu|**Jokbal** (small / medium / large) · lettuce for wraps, bean-sprout soup, side dishes
   - What stands out|**Springy skin, fall-apart tender meat** — that texture holds up even years between visits
   - Branches|**Several annexes** near the main branch · check which one on the map

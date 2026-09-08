@@ -10,7 +10,7 @@ excerpt: A Korean diner tucked inside Namdaemun Market. It works as a baekban �
 tags: [Seoul, Jung-gu, Namdaemun, Namdaemun Market, Ujeong Sikdang, baekban, Korean, spicy pork, spicy squid, rolled omelette]
 map: https://www.google.com/maps/search/?api=1&query=%ec%9a%b0%ec%a0%95%ec%8b%9d%eb%8b%b9+%eb%82%a8%eb%8c%80%eb%ac%b8%ec%8b%9c%ec%9e%a5
 info:
-  - Location|Jung-gu, Seoul · **inside Namdaemun Market** (back in an alley — hard to find the first time)
+  - Location|Jung-gu, Seoul · inside Namdaemun Market, back in an alley (hard to find the first time) · 서울 중구 남대문시장길 12-9
   - Mains|**Spicy pork · spicy squid** — served baekban-style with rice, soup and side dishes
   - Hidden item|**Banban** — half rolled omelette, half pan-fried sausage
   - Character|An old market diner · fine for eating alone or a quick meal

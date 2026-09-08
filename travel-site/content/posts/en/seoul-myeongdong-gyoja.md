@@ -10,7 +10,7 @@ excerpt: The famous kalguksu place in Myeongdong that most people know. Good val
 tags: [Seoul, Jung-gu, Myeongdong, Myeongdong Gyoja, kalguksu, mandu, dumpling soup, noodles, garlic kimchi, Myeongdong food]
 map: https://www.google.com/maps/search/?api=1&query=%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90+%eb%b3%b8%ec%a0%90+%eb%aa%85%eb%8f%99
 info:
-  - Location|Jung-gu, Seoul · **near Myeongdong Station Exit 8**, a new building (moved from the old alley spot)
+  - Location|Jung-gu, Seoul · **near Myeongdong Station Exit 8** (relocated) · 서울 중구 명동10길 29
   - Signature|**Kalguksu · mandu** — one bowl topped with minced meat and dumplings
   - Broth|On the rich side, and generally uncontroversial · this time the colour seemed a bit cloudier
   - Kimchi|**Very spicy cabbage kimchi with a lot of garlic** (famous)

@@ -10,7 +10,7 @@ excerpt: A Western restaurant in Sinsa-dong. I went back after a few years. The 
 tags: [Seoul, Gangnam, Sinsa-dong, Sinsa, Far Niente, Western, pasta, gnocchi, gratin, dessert]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%94%ed%85%8c+%ec%8b%a0%ec%82%ac%eb%8f%99
 info:
-  - Location|Sinsa-dong, Gangnam-gu, Seoul
+  - Location|Sinsa-dong (Garosu-gil), Gangnam-gu, Seoul · 서울 강남구 도산대로11길 21
   - Menu|Mostly **Western** · **cream gnocchi gratin**, pasta, dessert
   - Dessert|Churros with ice cream, tiramisu and so on — the dessert has a good name
   - Room|**A private room is available above a set spend** (for a group of your own)

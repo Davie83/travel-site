@@ -9,12 +9,13 @@ thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg
 excerpt: 제천에 떡갈비가 유명한 줄은 몰랐다. 청풍호 근처에 들른 김에 검색해서 찾아간 집. 생각보다 손님이 많았다. 맛은 기존 떡갈비에 충실한 편이고, 반찬이 열댓 가지 다채롭게 나와 한 끼 든든히 먹었다. 일부러 찾아가기보다 근처 일정이 있을 때 들르기 좋다.
 tags: [제천, 청풍, 청풍호, 떡갈비, 소떡갈비, 돼지떡갈비, 갈비, 한정식, 반찬, 충북맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ed%92%8d%ed%99%a9%ea%b8%88%eb%96%a1%ea%b0%88%eb%b9%84
+addr: 충북 제천시 청풍면 청풍호로 1682
 spicy: 0
 order: 떡갈비 2인분 주세요
 orderRoman: Tteok-galbi i-inbun juseyo
 closed: unknown
 info:
-  - 위치|충북 제천시 청풍면 · 청풍호 · 청풍문화재단지 근처
+  - 위치|충북 제천시 청풍면 청풍호로 1682 · 청풍호
   - 주문한 것|**떡갈비** (2인분) — 둥근 패티형, 양파 깐 불판에 얹어 나온다
   - 상차림|**밑반찬 열댓 가지** + 된장찌개 + 밥 — 한정식처럼 깔린다
   - 영업시간·가격·휴무|미확인 (방문 전 확인 필요)

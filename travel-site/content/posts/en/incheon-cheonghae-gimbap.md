@@ -10,7 +10,7 @@ excerpt: I had something to do in Incheon and stopped in because this snack bar 
 tags: [Incheon, Cheonghae Gimbap, bunsik, gimbap, egg gimbap, janchi-guksu, snack bar]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ed%95%b4%ea%b9%80%eb%b0%a5+%ec%9d%b8%ec%b2%9c
 info:
-  - Location|Incheon — a neighbourhood snack bar (check the map for the exact spot)
+  - Location|Michuhol-gu, Incheon · 인천 미추홀구 경인로 414
   - Menu|**Egg-wrapped gimbap** (the signature) · janchi-guksu · standard bunsik (snack-bar) dishes
   - What I ordered|**Janchi-guksu + egg-wrapped gimbap** (for two)
   - Hours · prices · closing day|Not confirmed (changes often — please verify)

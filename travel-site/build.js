@@ -993,6 +993,8 @@ const AREA_INTRO = {
 
 /** 동네 페이지 소개 문단(평문). renderPage 전에 pageIntroHTML 로 감쌉니다. */
 function areaIntroText(rSlug, aSlug, code, inArea) {
+  const areaObj = areasOf(rSlug).find(x => x.slug === aSlug);
+  if (areaObj && areaObj.intro && areaObj.intro[code]) return areaObj.intro[code];
   const L = AREA_INTRO[code] || AREA_INTRO.en;
   const rName = regionName(rSlug, code);
   const aName = areaName(rSlug, aSlug, code);

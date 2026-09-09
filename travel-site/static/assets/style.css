@@ -117,17 +117,23 @@ img{max-width:100%;display:block;}
   border-bottom:1px solid var(--line);
 }
 .header-inner{display:flex;align-items:center;gap:14px;height:62px;}
-.logo{display:flex;align-items:center;gap:9px;line-height:1.05;text-decoration:none;color:inherit;}
+.logo{display:flex;align-items:center;gap:9px;line-height:1.05;text-decoration:none;color:inherit;flex:0 0 auto;}
 .logo-mark{flex:0 0 auto;width:30px;height:30px;display:block;}
 /* 파비콘과 같은 도안. 색은 지역색 변수(서울 남색·제주 감귤)에 묶어 자동으로 라이트/다크 대응. */
 .logo-mark .lm-ring{stroke:var(--region-seoul,#312a7e);}
 .logo-mark .lm-bowl{fill:var(--region-jeju,#c25e10);}
 .logo-mark .lm-spoon{stroke:var(--region-jeju,#c25e10);}
 .logo-mark .lm-rice{fill:#fff;}
-.logo-text{display:flex;flex-direction:column;justify-content:center;}
-.logo-name{font-weight:800;font-size:18px;letter-spacing:-.03em;color:var(--ink);}
+.logo-text{display:flex;flex-direction:column;justify-content:center;min-width:0;}
+.logo-name{font-weight:800;font-size:18px;letter-spacing:-.03em;color:var(--ink);white-space:nowrap;}
 .logo-tag{font-size:10.5px;font-weight:500;letter-spacing:0;color:var(--ink-mute);margin-top:2px;white-space:nowrap;}
-@media (max-width:560px){ .logo-tag{display:none;} .logo-mark{width:25px;height:25px;} }
+@media (max-width:560px){
+  .logo-tag{display:none;}
+  .logo-mark{width:22px;height:22px;}
+  .logo-name{font-size:15px;letter-spacing:-.04em;}   /* K-식도락이 한 줄에 (white-space:nowrap 와 함께) */
+  .header-inner{gap:8px;}
+  .logo{gap:7px;}
+}
 
 .langs{
   margin-left:auto;display:flex;align-items:center;gap:2px;
@@ -518,27 +524,88 @@ a.more{color:var(--ink);font-weight:600;}
 /* ==========================================================================
    글 상세
    ========================================================================== */
-.post{max-width:720px;margin:0 auto;padding:40px 20px 60px;}
+.post{max-width:944px;margin:0 auto;padding:32px 24px 60px;}
+.post > .crumbs{margin-bottom:0;}
 
-.post-head{border-bottom:1px solid var(--line);padding-bottom:22px;margin-bottom:28px;}
-.post-head .kicker{
-  display:inline-flex;align-items:center;gap:6px;
-  font-weight:700;font-size:13px;color:var(--ink-mute);
+/* 상단 eyebrow — 지역 · 장르 · 대표태그 (배지 줄 대체). 한글이라 자간은 좁게. */
+.post-eyebrow{
+  margin:15px 0 0;font-size:12px;font-weight:700;
+  letter-spacing:-.01em;color:var(--r);
 }
-.post-head .kicker::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--r);}
-.post-head .kicker:hover{color:var(--ink);}
+.post-eyebrow a{color:inherit;}
+.post-eyebrow a:hover{text-decoration:underline;}
+.post-eyebrow .dot{margin:0 7px;opacity:.5;}
+
+/* 헤더 — 왼쪽 정체성(제목·리드·메타), 오른쪽 "한눈에 보기" 카드 */
+.post-head{
+  display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:44px;align-items:start;
+  border-bottom:1px solid var(--line);padding:16px 0 32px;margin-bottom:30px;
+}
+.post-identity{min-width:0;}
+.post-id-row{display:flex;gap:16px;align-items:flex-start;}
+.post-emblem{
+  flex:0 0 auto;width:52px;height:52px;border-radius:50%;border:2px solid var(--r);
+  display:flex;align-items:center;justify-content:center;font-size:24px;line-height:1;margin-top:4px;
+}
 .post-head h1{
-  margin:10px 0 12px;font-size:clamp(25px,4.4vw,34px);line-height:1.28;
-  letter-spacing:-.04em;font-weight:800;text-wrap:balance;
+  margin:0;font-size:clamp(27px,3.5vw,39px);line-height:1.14;
+  letter-spacing:-.035em;font-weight:750;text-wrap:balance;
 }
-/* 제목 2단 — 대시 앞 이름은 크게(위), 대시 뒤 설명은 작게(아래) */
 .post-head h1 .t-name{display:block;}
 .post-head h1 .t-sub{
-  display:block;margin-top:7px;
-  font-size:.6em;font-weight:600;line-height:1.4;
-  letter-spacing:-.02em;color:var(--ink-mute);text-wrap:pretty;
+  display:block;margin-top:9px;font-size:15.5px;font-weight:500;line-height:1.45;
+  letter-spacing:-.01em;color:var(--ink-mid);text-wrap:pretty;
 }
-.post-head .meta{color:var(--ink-mute);font-size:13.5px;margin:0;font-family:var(--en);}
+.post-lead{
+  margin:20px 0 0;font-size:17.5px;line-height:1.62;color:var(--ink-mid);
+  max-width:46ch;letter-spacing:-.01em;
+}
+.post-pills{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 0;}
+.post-pill{
+  display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;
+  color:var(--ink-mid);background:var(--surface);border:1px solid var(--line);
+  border-radius:999px;padding:5px 12px;
+}
+.post-pill .n{font-family:var(--en);}
+a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
+
+/* 오른쪽 카드 */
+.post-aside-col{min-width:0;}
+.post-aside{
+  border:1px solid var(--line);border-left:3px solid var(--r);border-radius:12px;
+  padding:15px 18px;font-size:13.5px;
+}
+.post-aside-title{
+  margin:0 0 10px;font-size:12px;font-weight:800;
+  letter-spacing:-.01em;color:var(--ink-mute);
+}
+.post-aside .info-table{width:100%;border-collapse:collapse;font-size:13px;}
+.post-aside .info-table th,.post-aside .info-table td{
+  padding:5px 0;text-align:left;vertical-align:top;border:0;line-height:1.5;
+}
+.post-aside .info-table th{width:auto;white-space:nowrap;padding-right:12px;color:var(--ink-mute);font-weight:700;}
+.post-aside .info-table td{color:var(--ink-mid);overflow-wrap:anywhere;}
+.post-aside .info-table td a,.post-aside .info-table td .map-link{color:var(--ink-mid);text-decoration:underline;text-underline-offset:2px;}
+.post-aside .spicy,
+.post-aside .season,
+.post-aside .order-card{
+  margin:12px 0 0;padding:12px 0 0;background:none;border:0;border-top:1px solid var(--line);border-radius:0;
+}
+.post-aside .spicy{display:flex;align-items:center;gap:8px;font-size:12.5px;}
+.post-aside .spicy-peppers b.off{display:none;}
+.post-aside .order-label{margin:0;}
+.post-aside .order-ko{font-size:1rem;margin:4px 0 2px;}
+.post-head .save-btn{margin-top:12px;width:100%;justify-content:center;}
+
+@media (max-width:860px){
+  .post{max-width:640px;padding:24px 18px 48px;}
+  .post-head{grid-template-columns:1fr;gap:20px;padding-bottom:24px;margin-bottom:24px;}
+  /* 카드 테두리를 벗기고 얇은 구분선만 — 모바일에서 큰 상자가 본문을 밀어내지 않게 */
+  .post-aside{border:0;border-top:1px solid var(--line);border-radius:0;padding:16px 0 0;}
+  .post-head .save-btn{margin-top:14px;}
+}
+/* 본문·태그·반응은 넓어진 .post 안에서도 읽기 좋은 폭으로 */
+.post-body,.callout,.tagchips,.reactions,.tips-nudge{max-width:704px;}
 /* 빵부스러기 — 글 상단의 "사이트 › 맛집 › 서울 › 이 글" 경로.
    JSON-LD 의 BreadcrumbList 와 같은 단계를 사람에게도 보여줍니다. */
 .crumbs{
@@ -555,19 +622,17 @@ a.more{color:var(--ink);font-weight:600;}
 /* 글쓴이 — 구글 지도 기여 프로필로 연결됩니다.
    검색엔진에는 JSON-LD 의 sameAs 로, 사람에게는 이 한 줄로 알립니다.
    자격은 레벨(잘 안 변함)을 앞에 두고 조회수는 "이상"으로만 씁니다. */
-.byline{margin:10px 0 0;font-size:13px;color:var(--ink-mute);}
-.byline a{color:var(--ink);font-weight:700;border-bottom:1px solid var(--line-hard);}
+.byline{margin:16px 0 0;font-size:12.5px;color:var(--ink-mute);line-height:1.55;}
+.byline a{color:var(--ink-mid);font-weight:700;border-bottom:1px solid var(--line-hard);}
 .byline a:hover{border-bottom-color:var(--ink);}
-.byline-cred{display:block;margin-top:3px;font-size:11.5px;line-height:1.5;}
+.byline-cred{margin-left:2px;}
 
 .post-body h2{
-  margin:40px 0 13px;font-size:20px;letter-spacing:-.03em;font-weight:800;
+  margin:38px 0 12px;font-size:21px;letter-spacing:-.025em;font-weight:750;line-height:1.3;
   padding-left:13px;border-left:4px solid var(--r);
 }
 .post-body h3{margin:26px 0 9px;font-size:17px;font-weight:700;letter-spacing:-.02em;}
-.post-body p{margin:0 0 18px;}
-/* 본문 첫 문장(리드) — 이후 문단과 크기를 다르게 둬서 "이야기 시작"을 알립니다 */
-.post-body > p:first-child{font-size:18px;font-weight:600;line-height:1.65;}
+.post-body p{margin:0 0 16px;}
 .post-body ul,.post-body ol{margin:0 0 18px;padding-left:22px;}
 .post-body li{margin-bottom:6px;}
 .post-body li::marker{color:var(--r);}

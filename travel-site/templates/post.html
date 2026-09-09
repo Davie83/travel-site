@@ -3,21 +3,27 @@
            data-closed="{{closed}}" data-t-days="{{dayNames}}" data-t-closedtoday="{{closedTodayTpl}}">
     <p class="closed-today" hidden></p>
 
-    <header class="post-head">
 {{breadcrumb}}
-{{badges}}
-      <h1>{{title}}</h1>
-      <p class="meta">{{meta}}</p>
+{{eyebrow}}
+
+    <header class="post-head">
+      <div class="post-identity">
+        <div class="post-id-row">
+          <span class="post-emblem" aria-hidden="true">{{emblem}}</span>
+          <h1>{{title}}</h1>
+        </div>
+{{lead}}
+{{pills}}
 {{byline}}
-{{season}}
-{{spicy}}
-{{order}}
-      {{saveBtn}}
+      </div>
+
+      <div class="post-aside-col">
+{{aside}}
+        {{saveBtn}}
+      </div>
     </header>
 
     {{adTop}}
-
-    {{infoTable}}
 
     <div class="post-body">
 {{content}}

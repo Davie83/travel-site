@@ -1479,7 +1479,7 @@ function cardHTML(post, base, code, t) {
  *  info: 항목은 "라벨|값" 형태이고, 값 안에 [글자](주소) 링크도 쓸 수 있습니다.
  *  프론트매터에 map: 이 있으면 지도 바로가기 줄이 맨 아래에 자동으로 붙습니다.
  *  (관광객은 주소를 읽기보다 눌러서 지도를 여는 쪽이 훨씬 편합니다) */
-function infoTableHTML(info, mapUrl, t) {
+function infoTableHTML(info, mapUrl, t, bare) {
   const rows = [];
 
   // "(확인 필요)" 표시를 눈에 띄는 칩으로 바꿉니다.
@@ -1490,27 +1490,60 @@ function infoTableHTML(info, mapUrl, t) {
     return html.split(`(${label})`).join(`<span class="unverified">${label}</span>`);
   };
 
+  // bare(헤더 카드) 모드에선 매운맛 위젯이 따로 붙으므로 info 의 '매운맛' 줄은 건너뜁니다 (중복 방지).
+  const spiceLabel = String(t.spicyLabel || '').trim().toLowerCase();
   if (Array.isArray(info)) {
     for (const row of info) {
       const i = String(row).indexOf('|');
       if (i < 0) continue;
-      const th = inline(escapeHtml(row.slice(0, i).trim()));
+      const rawTh = row.slice(0, i).trim();
+      if (bare && spiceLabel && rawTh.toLowerCase() === spiceLabel) continue;
+      const th = inline(escapeHtml(rawTh));
       const td = markUnverified(inline(escapeHtml(row.slice(i + 1).trim())));
       rows.push(`<tr><th>${th}</th><td>${td}</td></tr>`);
     }
   }
 
-  if (mapUrl) {
+  // bare 모드에선 지도 링크가 상단 pill 로 이미 나가므로 표에서는 뺍니다.
+  if (mapUrl && !bare) {
     rows.push(`<tr><th>${escapeHtml(t.mapLabel)}</th><td><a class="map-link" href="${escapeHtml(mapUrl)}" target="_blank" rel="noopener">${escapeHtml(t.openMap)} ↗</a></td></tr>`);
   }
 
   if (!rows.length) return '';
-  // 표를 카드로 감싸고 위에 작은 라벨을 붙여 "훑어보는 정보"로 읽히게 하고,
-  // 표 다음에는 "방문기" 구분선을 둬서 여기서부터 이야기(본문)가 시작된다는 걸
-  // 눈으로도 알 수 있게 합니다 (가게 정보와 본문이 구분 없이 이어진다는 피드백 반영).
+  // bare: 헤더의 "한눈에 보기" 카드 안에 그대로 들어갑니다 (라벨·구분선·스크롤 래퍼 없이 표만).
+  if (bare) return `<table class="info-table"><tbody>${rows.join('')}</tbody></table>`;
+  // (레거시) 표를 카드로 감싸고 위에 작은 라벨을 붙여 "훑어보는 정보"로 읽히게 합니다.
   const label = t.infoLabel ? `<span class="info-label">${escapeHtml(t.infoLabel)}</span>` : '';
   const divider = t.storyLabel ? `<p class="post-divider">${escapeHtml(t.storyLabel)}</p>` : '';
   return `${label}<div class="table-scroll info-card"><table class="info-table"><tbody>${rows.join('')}</tbody></table></div>${divider}`;
+}
+
+/** 상단 eyebrow — 지역 · 장르(없으면 카테고리) · 대표 태그 한 줄. 배지 줄을 대신합니다.
+    breadcrumb 이 경로라면 이건 분류 라벨입니다. 셋 다 눌러서 그 목록으로 갑니다. */
+function eyebrowHTML(m, base, code, t) {
+  const d = localeDir(code);
+  const parts = [
+    `<a href="${base}${d}region/${escapeHtml(m.region)}">${escapeHtml(regionName(m.region, code))}</a>`
+  ];
+  const g = genreOf(m);
+  parts.push(g
+    ? `<a href="${base}${d}food/${g.slug}">${escapeHtml(genreName(g, code))}</a>`
+    : `<a href="${base}${d}${escapeHtml(m.cat)}">${escapeHtml(t.category[m.cat] || m.cat)}</a>`);
+  const chip = chipsOf(m)[0];
+  if (chip) {
+    const nm = tagName(chip, code);
+    parts.push(`<a href="${linkTo(base + d)}?q=${encodeURIComponent(nm)}">${escapeHtml(nm)}</a>`);
+  }
+  return `    <p class="post-eyebrow">${parts.join('<span class="dot" aria-hidden="true">·</span>')}</p>`;
+}
+
+/** 제목 아래 메타 pill 줄 — 발행일 + (있으면) 지도 링크. */
+function pillsHTML(m, t) {
+  const pills = [`<span class="post-pill">🗓 <span class="n">${String(m.date).replace(/-/g, '.')}</span></span>`];
+  if (m.map) {
+    pills.push(`<a class="post-pill" href="${escapeHtml(m.map)}" target="_blank" rel="noopener" aria-label="${escapeHtml(t.openMap)}">📍 ${escapeHtml(t.mapLabel)} ↗</a>`);
+  }
+  return `    <div class="post-pills">${pills.join('')}</div>`;
 }
 
 /** 리액션 — 언어와 무관하게 글 슬러그 단위로 집계됩니다 */
@@ -2076,6 +2109,28 @@ function build() {
         ].filter(Boolean)
       };
 
+      // 리드 문장 = 본문 첫 문단(작성자가 쓴 도입부). 본문에서는 빼서 중복을 없앱니다.
+      // 도입부가 없으면(바로 ## 로 시작) 리드 없이 본문 전체를 그대로 씁니다.
+      const bodyMd = String(p.body).replace(/^\s+/, '');
+      const cut = bodyMd.search(/\n\s*\n|\n#{1,6}\s/);
+      const leadMd = cut > 0 ? bodyMd.slice(0, cut).trim() : '';
+      const restMd = cut > 0 ? bodyMd.slice(cut).replace(/^\s+/, '') : bodyMd;
+      const leadHTML = leadMd
+        ? `    <p class="post-lead">${inline(escapeHtml(leadMd))}</p>`
+        : (m.excerpt ? `    <p class="post-lead">${escapeHtml(m.excerpt)}</p>` : '');
+
+      // 헤더 오른쪽 "한눈에 보기" 카드 — 정보표 + 제철 + 매운맛 + 주문을 한 장에 모읍니다.
+      // 넷 다 비면 카드를 만들지 않습니다 (제목만 있는 빈 상자 방지).
+      const asideParts = [
+        infoTableHTML(m.info, m.map, t, true),
+        seasonHTML(m, t), spicyHTML(m, t), orderHTML(m, t)
+      ].filter(Boolean);
+      const asideHTML = asideParts.length
+        ? `      <aside class="post-aside">\n` +
+          `        <h2 class="post-aside-title">${escapeHtml(t.infoLabel || '')}</h2>\n` +
+          asideParts.join('\n') + `\n      </aside>`
+        : '';
+
       writeFile(out, renderPage({
         out, code, current: m.cat, ogType: 'article',
         title: `${m.title} | ${siteName(code)}`, description: m.excerpt,
@@ -2086,23 +2141,20 @@ function build() {
           regionSlug: m.region,
           saveBtn: saveBtnHTML(p.slug, t, true, base, code),
           breadcrumb: breadcrumbHTML(m, base, code, t),
+          eyebrow: eyebrowHTML(m, base, code, t),
+          emblem: escapeHtml(m.emoji || ((genreOf(m) || {}).emoji) || '📍'),
           tipsNudge: tipsNudgeHTML(base, code, t),
-          badges: badgesHTML(m, base, code, t, true),
           byline: bylineHTML(t),
-          spicy: spicyHTML(m, t),
-          order: orderHTML(m, t),
-          season: seasonHTML(m, t),
           tagChips: tagChipsHTML(m, base, code, t),
           closed: escapeHtml(m.closed || ''),
           dayNames: escapeHtml(t.routeDayNames),
           closedTodayTpl: escapeHtml(t.closedTodayTpl),
           regionHref: `${base}${d}region/${m.region}`,
           title: titleHTML(m.title),
-          // 방문 시점은 표기하지 않습니다.
-          // 대신 확실하지 않은 항목에 (잦은 변동으로 확인 필요) 를 붙입니다.
-          meta: `${String(m.date).replace(/-/g, '.')} ${escapeHtml(t.published)}`,
-          infoTable: infoTableHTML(m.info, m.map, t),
-          content: markdown(p.body),
+          lead: leadHTML,
+          pills: pillsHTML(m, t),
+          aside: asideHTML,
+          content: markdown(restMd),
           adTop: adSlotHTML('post-top'), adBottom: adSlotHTML('post-bottom'),
           reactions: reactionsHTML(p.slug, t),
           related: rel.length ? `<section class="related">

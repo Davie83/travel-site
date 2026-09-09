@@ -38,6 +38,7 @@ Nothing here is a standout, but that also means nothing is a miss — good for a
 ## For visitors
 
 - **Pho (phở) is a clear broth of long-simmered beef** over rice noodles. It is not spicy. Pickled chilli comes on the side here, so you **add heat yourself** to taste.
+- **The menu has several kinds of pho.** The standard one is called **"Beyond ssal-guksu" (비욘드쌀국수)** — order that if it's your first time.
 - If you don't like coriander, say **"no coriander" (고수 빼주세요)** when ordering.
 - Chả giò are fried spring rolls — wrap them in lettuce and herbs and dip. There's fried rice too, so a companion who doesn't want pho is covered.
 - Close to **National Assembly Station (Line 9)** — for West Yeouido this station beats Yeouido Station.

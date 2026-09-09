@@ -31,22 +31,61 @@
     // 검색어 · 지역 · 카테고리 · 소문난/끌리는 을 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
     const state = { keyword: '', region: 'all', area: 'all', cat: 'all', pick: 'all' };
     const hasLimit = grid.classList.contains('limit-4');
+    let sorted = false;   // 검색 관련도 순으로 재정렬한 상태인지
+
+    /* 검색어 점수. 이름·태그·장소는 부분일치(가중치 큼), 본문(excerpt)은 토큰 완전일치(가중치 1)만.
+       그래야 본문의 "처음이라면"·"한식이 안 맞으면" 같은 표현이 "라면"·"한식" 검색에 안 걸립니다.
+       단어를 여러 개 넣으면 모든 단어가 어딘가에서는 걸려야 합니다(AND). */
+    function tokenize(s) { return (s || '').split(/[\s·・.,()[\]"'!?:;~–—\/]+/); }
+    function wholeToken(hay, term) {
+      const tk = tokenize(hay);
+      for (let i = 0; i < tk.length; i++) if (tk[i] === term) return true;
+      return false;
+    }
+    function kwScore(card, terms) {
+      if (!terms.length) return 1;
+      const nm = card.dataset.sName || '', tg = card.dataset.sTag || '',
+            pl = card.dataset.sPlace || '', tx = card.dataset.sText || '';
+      let total = 0;
+      for (let i = 0; i < terms.length; i++) {
+        const term = terms[i];
+        let s = 0;
+        if (nm.indexOf(term) !== -1) s += 10;
+        if (tg.indexOf(term) !== -1) s += 8;
+        if (pl.indexOf(term) !== -1) s += 5;
+        if (s === 0 && wholeToken(tx, term)) s += 1;
+        if (s === 0) return 0;                 // 이 단어가 아무 데도 안 걸리면 탈락
+        total += s;
+      }
+      return total;
+    }
 
     function apply() {
       const kw = state.keyword.trim().toLowerCase();
+      const terms = kw ? kw.split(/\s+/).filter(Boolean) : [];
       const filtering = !!kw || state.region !== 'all' || state.area !== 'all' || state.cat !== 'all' || state.pick !== 'all';
       let shown = 0;
+      const hits = [];
 
       cards.forEach(card => {
         const okRegion = state.region === 'all' || card.dataset.region === state.region;
         const okArea   = state.area   === 'all' || card.dataset.area   === state.area;
         const okCat    = state.cat    === 'all' || card.dataset.cat    === state.cat;
         const okPick   = state.pick   === 'all' || card.dataset.pick   === state.pick;
-        const okKw     = !kw || (card.dataset.search || '').includes(kw);
-        const visible  = okRegion && okArea && okCat && okPick && okKw;
-        card.hidden = !visible;
-        if (visible) shown++;
+        const sc       = (okRegion && okArea && okCat && okPick) ? kwScore(card, terms) : 0;
+        card.hidden = !(sc > 0);
+        if (sc > 0) { shown++; if (kw) hits.push({ c: card, s: sc }); }
       });
+
+      /* 검색 중이면 관련도 순으로 다시 정렬. 검색이 끝나면 원래(날짜) 순으로 되돌립니다. */
+      if (kw && hits.length > 1) {
+        hits.sort((a, b) => b.s - a.s);
+        hits.forEach(h => grid.appendChild(h.c));
+        sorted = true;
+      } else if (sorted && !kw) {
+        cards.forEach(c => grid.appendChild(c));
+        sorted = false;
+      }
 
       // 홈 목록은 평소 한 행(4개)만 보이지만, 검색 중에는 전체를 대상으로 합니다
       if (hasLimit) grid.classList.toggle('limit-4', !filtering);

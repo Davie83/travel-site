@@ -60,6 +60,19 @@ const LOCALES    = site.locales.filter(l => l.enabled);
 const GENRES = Array.isArray(site.genres) ? site.genres : [];
 const GENRE_PAGE_MIN = Number.isInteger(site.genrePageMin) ? site.genrePageMin : 3;
 
+/* 검색 보조어 (카드의 data-s-tag 에만 들어감, 화면에는 안 보임).
+   - 한식 계열 장르는 "한식 / korean food" 로도 찾히게 합니다.
+   - 아래 맵은 장르 이름과 실제로 다르게 검색하는 말만 (예: 라멘 ↔ 라면). */
+const KR_CUISINE_GENRES = ['korean-bbq', 'korean-soup', 'korean-noodles', 'korean-seafood', 'bibimbap', 'korean-dumplings', 'bars-makgeolli'];
+const GENRE_SEARCH_SYN = {
+  'japanese-in-korea': '라면 ramen',
+  'chinese-korean':    '중국집 짜장면 짜장 짬뽕',
+  'korean-soup':       '해장 해장국 국밥',
+  'korean-bbq':        '고기 고깃집 삼겹살 구이',
+  'cafe-dessert':      '커피 coffee 베이커리',
+  'korean-seafood':    '회 해산물 seafood'
+};
+
 /* 여행 팁: 이 슬러그의 섹션만 개별 페이지를 검색에 노출합니다 (나머지는 noindex). */
 const TIPS_PAGES = new Set(Array.isArray(site.tipsPages) ? site.tipsPages : []);
 
@@ -1435,9 +1448,21 @@ function cardHTML(post, base, code, t) {
   // 주소도 검색 대상입니다. 관광객은 "남대문", "와우산로" 처럼 주소로 찾는 일이 많습니다.
   // 칩은 /?q=<그 언어 이름> 으로 보냅니다. 그 이름이 검색에 걸려야 결과가 나옵니다.
   const chipNames = chipsOf(m).map(e => tagName(e, code)).join(' ');
-  const search = [m.title, m.excerpt, rname, aname, m.addr, (m.tags || []).join(' '), chipNames].join(' ').toLowerCase();
+  /* 검색용 데이터는 필드를 나눠 둡니다. 한 덩어리로 붙이면 본문의 "처음이라면"·"한식이 안 맞으면"
+     같은 표현이 "라면"·"한식" 검색에 substring 으로 잡힙니다.
+     이름·태그·장소는 filter.js 에서 부분일치(가중치 큼), 본문(s-text)은 토큰 완전일치로만 씁니다. */
+  const g = m.cat === 'food' ? genreOf(m) : null;
+  const gExtra = g
+    ? [genreName(g, code),
+       KR_CUISINE_GENRES.indexOf(g.slug) !== -1 ? '한식 korean food' : '',
+       GENRE_SEARCH_SYN[g.slug] || ''].join(' ')
+    : '';
+  const sName  = String(m.title || '').toLowerCase();
+  const sTag   = [(m.tags || []).join(' '), chipNames, gExtra, t.category[m.cat] || m.cat].join(' ').toLowerCase();
+  const sPlace = [rname, aname, m.addr].filter(Boolean).join(' ').toLowerCase();
+  const sText  = String(m.excerpt || '').toLowerCase();
 
-  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-pick="${String(m.famous) === 'true' ? 'famous' : 'draw'}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-search="${escapeHtml(search)}" style="--r:var(--region-${escapeHtml(m.region)})">
+  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-pick="${String(m.famous) === 'true' ? 'famous' : 'draw'}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-s-name="${escapeHtml(sName)}" data-s-tag="${escapeHtml(sTag)}" data-s-place="${escapeHtml(sPlace)}" data-s-text="${escapeHtml(sText)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
             <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
             <div class="card-body">

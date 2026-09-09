@@ -1403,6 +1403,7 @@ body.nm-open{overflow:hidden;}
   position:relative;overflow:hidden;height:min(46vh,360px);
   border-radius:12px;border:1px solid var(--line);
   background:var(--surface);cursor:grab;
+  touch-action:none;   /* 한 손가락 이동·두 손가락 확대를 JS 가 직접 처리합니다 */
 }
 .nm-map.is-drag{cursor:grabbing;}
 .nm-layer{position:absolute;inset:0;will-change:transform;}

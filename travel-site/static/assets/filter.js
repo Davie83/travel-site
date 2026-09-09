@@ -419,23 +419,61 @@
     }
   }
 
-  /* ---- 끌어서 이동 ---- */
+  /* ---- 한 손가락: 끌어서 이동 · 두 손가락: 벌려/모아서 확대·축소 ----
+     확대는 +/- 버튼·휠과 같은 zoomAt() 을 쓰므로 핀이 어긋나지 않습니다. */
   function bindDrag() {
     var sx = 0, sy = 0, dx = 0, dy = 0, on = false;
+    var pinch = false, pd0 = 1, pcx = 0, pcy = 0, pStep = 0, pPrev = 1;
+    function gap(a, b) {
+      var x = a.clientX - b.clientX, y = a.clientY - b.clientY;
+      return Math.sqrt(x * x + y * y) || 1;
+    }
     function down(e) {
       if (!elLayer) return;
+      if (e.touches && e.touches.length >= 2) {
+        on = false; pinch = true;
+        var a = e.touches[0], b = e.touches[1], r = elMap.getBoundingClientRect();
+        pd0 = gap(a, b);
+        pcx = (a.clientX + b.clientX) / 2 - r.left;
+        pcy = (a.clientY + b.clientY) / 2 - r.top;
+        pStep = 0; pPrev = 1;
+        elMap.classList.add('is-drag');
+        return;
+      }
       var t = e.touches ? e.touches[0] : e;
-      on = true; sx = t.clientX; sy = t.clientY; dx = 0; dy = 0;
+      on = true; pinch = false; sx = t.clientX; sy = t.clientY; dx = 0; dy = 0;
       elMap.classList.add('is-drag');
     }
     function move(e) {
+      if (pinch) {
+        if (!e.touches || e.touches.length < 2) return;
+        if (e.cancelable) e.preventDefault();
+        // 손가락 간격이 1.6배 될 때마다 확대 한 단계
+        var step = Math.round(Math.log(gap(e.touches[0], e.touches[1]) / pd0) / Math.log(1.6));
+        if (step !== pStep && zoomAt(pcx, pcy, step - pStep)) {
+          pPrev *= Math.pow(2, step - pStep);
+          pStep = step;
+          elLayer.style.transformOrigin = pcx + 'px ' + pcy + 'px';
+          elLayer.style.transform = 'scale(' + pPrev + ')';
+        }
+        return;
+      }
       if (!on || !elLayer) return;
       var t = e.touches ? e.touches[0] : e;
       dx = t.clientX - sx; dy = t.clientY - sy;
       elLayer.style.transform = 'translate(' + dx + 'px,' + dy + 'px)';
       if (e.cancelable) e.preventDefault();
     }
-    function up() {
+    function up(e) {
+      if (pinch) {
+        if (e && e.touches && e.touches.length >= 2) return;   // 아직 두 손가락
+        pinch = false;
+        elMap.classList.remove('is-drag');
+        if (elLayer) { elLayer.style.transform = ''; elLayer.style.transformOrigin = ''; }
+        if (pStep !== 0) draw();
+        pStep = 0; pPrev = 1;
+        return;
+      }
       if (!on) return;
       on = false;
       elMap.classList.remove('is-drag');
@@ -456,6 +494,7 @@
     elMap.addEventListener('touchmove', move, { passive: false });
     window.addEventListener('mouseup', up);
     elMap.addEventListener('touchend', up);
+    elMap.addEventListener('touchcancel', up);
   }
 
   /* ---- 열기 / 닫기 ---- */

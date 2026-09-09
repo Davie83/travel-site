@@ -117,10 +117,17 @@ img{max-width:100%;display:block;}
   border-bottom:1px solid var(--line);
 }
 .header-inner{display:flex;align-items:center;gap:14px;height:62px;}
-.logo{display:flex;flex-direction:column;justify-content:center;line-height:1.05;text-decoration:none;color:inherit;}
+.logo{display:flex;align-items:center;gap:9px;line-height:1.05;text-decoration:none;color:inherit;}
+.logo-mark{flex:0 0 auto;width:30px;height:30px;display:block;}
+/* 파비콘과 같은 도안. 색은 지역색 변수(서울 남색·제주 감귤)에 묶어 자동으로 라이트/다크 대응. */
+.logo-mark .lm-ring{stroke:var(--region-seoul,#312a7e);}
+.logo-mark .lm-bowl{fill:var(--region-jeju,#c25e10);}
+.logo-mark .lm-spoon{stroke:var(--region-jeju,#c25e10);}
+.logo-mark .lm-rice{fill:#fff;}
+.logo-text{display:flex;flex-direction:column;justify-content:center;}
 .logo-name{font-weight:800;font-size:18px;letter-spacing:-.03em;color:var(--ink);}
 .logo-tag{font-size:10.5px;font-weight:500;letter-spacing:0;color:var(--ink-mute);margin-top:2px;white-space:nowrap;}
-@media (max-width:560px){ .logo-tag{display:none;} }
+@media (max-width:560px){ .logo-tag{display:none;} .logo-mark{width:25px;height:25px;} }
 
 .langs{
   margin-left:auto;display:flex;align-items:center;gap:2px;

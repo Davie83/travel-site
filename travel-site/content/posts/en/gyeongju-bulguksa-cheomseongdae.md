@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🏯
 thumb: assets/img/gyeongju-bulguksa-cheomseongdae.jpg
 excerpt: If Korea has a Kyoto, this is it — capital of the Silla kingdom for nearly a thousand years. Bulguksa temple in the daytime, then Cheomseongdae after dark. The observatory is lit until 10pm, and across 20,000 reviews the most-mentioned word is "night view."
-tags: [Gyeongju, Gyeongsangbuk, Bulguksa, Cheomseongdae, Silla, UNESCO, night view, galbi]
+tags: [Gyeongju, Gyeongsangbuk, Bulguksa, Cheomseongdae, Silla, UNESCO, night view, Historic site]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80+%EA%B2%BD%EC%A3%BC
 info:
   - City|Gyeongju, North Gyeongsang Province

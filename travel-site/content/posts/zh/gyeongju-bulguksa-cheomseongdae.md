@@ -7,7 +7,7 @@ date: 2026-08-22
 emoji: 🏯
 thumb: assets/img/gyeongju-bulguksa-cheomseongdae.jpg
 excerpt: 如果韓國有一個京都，就是這裡 —— 新羅的都城在這裡將近一千年。白天看佛國寺，天黑之後看瞻星台。瞻星台亮燈到晚上 10 點，兩萬則評價裡出現最多的詞就是「夜景」。
-tags: [慶州, 慶尚北道, 佛國寺, 瞻星台, 新羅, 世界遺產, 夜景, 排骨]
+tags: [慶州, 慶尚北道, 佛國寺, 瞻星台, 新羅, 世界遺產, 夜景, 古蹟]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80+%EA%B2%BD%EC%A3%BC
 info:
   - 城市|慶州（경주）· 慶尚北道

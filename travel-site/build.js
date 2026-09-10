@@ -889,6 +889,7 @@ function genreQuickChipsHTML(list, code, t) {
     })
   );
   return `  <div class="wrap gchips-wrap">
+    <p class="gchips-label">${escapeHtml(t.genreNarrowLabel || '')}</p>
     <div class="gchips" data-target="region-grid">
       ${chips.join('\n      ')}
     </div>
@@ -2126,14 +2127,18 @@ function build() {
         .map((x, i) => `<button class="rtab${i === 0 ? ' on' : ''}" type="button" data-cat="${x.slug}">${escapeHtml(x.label)}<span class="n">${x.n}</span></button>`)
         .join('\n        ');
 
-      /* 동네 줄 — 글이 있는 동네가 2곳 이상일 때만. 이제 필터가 아니라
-         각 동네 페이지(/en/seoul/myeongdong)로 가는 링크입니다. */
+      /* 동네 줄 — 글이 있는 동네가 2곳 이상일 때만. 필터가 아니라 각 동네
+         페이지(/en/seoul/myeongdong)로 가는 링크라, 알약이 아니라 핀 붙은
+         텍스트 링크로 그려서 위의 "음식 종류" 필터 칩과 확실히 갈라 놓습니다. */
       const liveAreas = areasOf(r.slug).filter(a => inRegion.some(p => p.meta.area === a.slug));
       const areaChips = liveAreas.length < 2 ? '' :
+        `<p class="arealinks-label">${escapeHtml(t.areaJumpLabel || '')}</p>\n` +
+        `        <div class="arealinks">\n` +
         liveAreas.map(a =>
-          `<a class="chip achip" href="${base}${d}${r.slug}/${a.slug}">${escapeHtml(areaName(r.slug, a.slug, code))}` +
+          `          <a class="arealink" href="${base}${d}${r.slug}/${a.slug}"><span class="pin" aria-hidden="true">📍</span>${escapeHtml(areaName(r.slug, a.slug, code))}` +
           `<span class="n">${inRegion.filter(p => p.meta.area === a.slug).length}</span></a>`
-        ).join('\n        ');
+        ).join('\n') +
+        `\n        </div>`;
 
       /* 장르 바로가기 칩 — 이 지역에 글이 있는 음식 장르만. 필터 JS 가 카드의
          data-genre 를 걸러 그리드에서 바로 좁힙니다 (검색·페이지 이동 없음). */

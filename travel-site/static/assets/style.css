@@ -541,9 +541,14 @@ a.more{color:var(--ink);font-weight:600;}
 .rtab .n{font-family:var(--en);font-size:11.5px;opacity:.6;margin-left:5px;}
 
 /* 장르 바로가기 칩 (지역·동네 페이지) — 카테고리 탭 바로 아래에서 목록을 좁힙니다.
-   많을 수 있어 모바일에서는 가로로 넘깁니다. */
+   많을 수 있어 모바일에서는 가로로 넘깁니다.
+   ★ "음식 종류"(필터, 이 페이지에서 걸러짐)와 "동네"(링크, 동네 페이지로 이동)는
+     하는 일이 달라서 — 음식은 알약 칩, 동네는 핀 붙은 텍스트 링크로 갈라 놓습니다. */
 .gchips-wrap{padding:14px 20px 0;}
 .gchips-wrap:empty{display:none;}
+.gchips-label,.arealinks-label{
+  margin:0 0 8px;font-size:11px;font-weight:800;letter-spacing:.01em;color:var(--ink-mute);
+}
 .gchips{display:flex;flex-wrap:wrap;gap:7px;}
 .gchip{
   padding:6px 12px;border-radius:999px;font-size:12.5px;font-weight:600;font-family:inherit;
@@ -1025,13 +1030,21 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
   .saved-strip-list .st-r{display:none;}   /* 좁으면 제목에 자리를 줍니다 */
 }
 
-/* ---- 동네 칩 (지역 페이지) --------------------------------------------
-   서울처럼 넓은 지역을 여의도·명동 같은 동네로 한 번 더 거릅니다.
-   버튼에 .chip 이 함께 붙어 있어 모양은 지역 칩과 같습니다.
+/* ---- 동네 이동 링크 (지역 페이지) -----------------------------------
+   여의도·명동 같은 동네 페이지로 가는 링크입니다 (필터 아님). 위의 "음식 종류"
+   필터 칩과 헷갈리지 않게, 알약이 아니라 핀 붙은 텍스트 링크로 그립니다.
    글이 있는 동네가 1곳뿐이면 build.js 가 아예 만들지 않습니다. */
-.achips-wrap{display:flex;flex-wrap:wrap;gap:8px;padding:18px 20px 0;}
+.achips-wrap{display:block;padding:14px 20px 0;}
 .achips-wrap:empty{display:none;}
-.achip .n{font-family:var(--en);font-size:11.5px;opacity:.6;margin-left:5px;}
+.gchips-wrap + .achips-wrap{margin-top:14px;border-top:1px solid var(--line);padding-top:14px;}
+.arealinks{display:flex;flex-wrap:wrap;gap:6px 16px;}
+.arealink{
+  display:inline-flex;align-items:baseline;gap:3px;padding:3px 0;
+  font-size:13px;font-weight:600;letter-spacing:-.01em;color:var(--ink-mid);text-decoration:none;
+}
+.arealink .pin{align-self:center;font-size:11.5px;margin-right:1px;filter:grayscale(.25);}
+.arealink .n{font-family:var(--en);font-size:11px;font-weight:700;color:var(--ink-mute);}
+.arealink:hover{color:var(--ink);text-decoration:underline;text-underline-offset:3px;}
 
 /* ---- 카테고리 · 지역 · 동네 배지 --------------------------------------
    전에는 "맛집 · 서울" 처럼 점으로 이었습니다. 각각이 눌러야 할 정보라

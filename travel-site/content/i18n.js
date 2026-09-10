@@ -119,6 +119,8 @@ module.exports = {
     needsCheck: '잦은 변동으로 확인 필요',
     mapLabel:   '지도',
     openMap:    '구글 지도에서 열기',
+    subwayLabel: '가까운 역',
+    subwayWalk:  n => `도보 ${n}분`,
     infoLabel:  '한눈에 보기',
     storyLabel: '방문기',
 
@@ -298,6 +300,8 @@ module.exports = {
     needsCheck: 'changes often — please verify',
     mapLabel:   'Map',
     openMap:    'Open in Google Maps',
+    subwayLabel: 'Nearest station',
+    subwayWalk:  n => `${n}-min walk`,
     infoLabel:  'At a glance',
     storyLabel: 'The visit',
 
@@ -477,6 +481,8 @@ module.exports = {
     needsCheck: '変動が多いため要確認',
     mapLabel:   '地図',
     openMap:    'Google マップで開く',
+    subwayLabel: '最寄り駅',
+    subwayWalk:  n => `徒歩${n}分`,
     infoLabel:  'ひと目で',
     storyLabel: '訪問記',
 
@@ -656,6 +662,8 @@ module.exports = {
     needsCheck: '變動頻繁，請再確認',
     mapLabel:   '地圖',
     openMap:    '在 Google 地圖開啟',
+    subwayLabel: '最近車站',
+    subwayWalk:  n => `步行${n}分鐘`,
     infoLabel:  '重點資訊',
     storyLabel: '走訪記',
 

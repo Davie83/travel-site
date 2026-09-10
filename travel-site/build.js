@@ -394,7 +394,18 @@ function loadPosts(code) {
    "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
    4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
    한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
-const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode', 'famous', 'pick'];
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode', 'famous', 'pick', 'subway'];
+
+/* 서울 지하철 노선색 (공식값). "한눈에 보기"의 '가까운 역' 줄에 실제 색 동그라미로 씁니다.
+   프론트매터: subway: "2,6 합정 5"  (노선들, 역이름, 도보 분(선택)). 서울 글에만 씁니다. */
+const SEOUL_LINES = {
+  '1': '#0052A4', '2': '#00A84D', '3': '#EF7C1C', '4': '#00A5DE', '5': '#996CAC',
+  '6': '#CD7C2F', '7': '#747F00', '8': '#E6186C', '9': '#BDB092',
+  '경의중앙': '#77C4A3', '공항': '#0090D2', '공항철도': '#0090D2', '신분당': '#D31145',
+  '수인분당': '#FABE00', '분당': '#FABE00', '우이신설': '#B0CE18', '서해': '#81A914',
+  '경춘': '#178C72', '김포골드': '#A17800', '김포': '#A17800'
+};
+const SUBWAY_PALE = new Set(['9', '수인분당', '분당', '우이신설', '김포골드', '김포']);
 
 function applyGeo(byLocale) {
   const base = {};
@@ -1602,7 +1613,31 @@ function cardHTML(post, base, code, t) {
  *  info: 항목은 "라벨|값" 형태이고, 값 안에 [글자](주소) 링크도 쓸 수 있습니다.
  *  프론트매터에 map: 이 있으면 지도 바로가기 줄이 맨 아래에 자동으로 붙습니다.
  *  (관광객은 주소를 읽기보다 눌러서 지도를 여는 쪽이 훨씬 편합니다) */
-function infoTableHTML(info, mapUrl, t, bare) {
+/** "가까운 역" 셀 — 노선 번호를 공식 색 동그라미로, 이름 노선(신분당 등)은 알약으로.
+    raw: "2,6 합정 5" → ②⑥ 합정역 · 도보 5분.  값이 비었거나 형식이 아니면 '' 입니다. */
+function subwayCellHTML(raw, t) {
+  const s = String(raw || '').trim();
+  if (!s) return '';
+  const seg = s.split(/\s+/);
+  const ids = String(seg[0] || '').split(/[,·]/).map(x => x.trim()).filter(Boolean);
+  const station = seg[1] || '';
+  const walk = seg[2] || '';
+  if (!ids.length || !station) return '';
+  const badges = ids.map(id => {
+    const named = !/^\d+$/.test(id);
+    const cls = ['subway-line'];
+    if (named) cls.push('is-named');
+    if (SUBWAY_PALE.has(id)) cls.push('is-pale');
+    return `<span class="${cls.join(' ')}" style="--sl:${SEOUL_LINES[id] || '#6b7280'}"` +
+      ` aria-label="${escapeHtml(named ? id + '선' : id + '호선')}">${escapeHtml(id)}</span>`;
+  }).join('');
+  const stn = /[역駅站]$/.test(station) ? station : station + '역';
+  const walkTxt = walk && /^\d+$/.test(walk)
+    ? `<span class="subway-walk">${escapeHtml(t.subwayWalk(walk))}</span>` : '';
+  return `<span class="subway">${badges}<span class="subway-station">${escapeHtml(stn)}</span>${walkTxt}</span>`;
+}
+
+function infoTableHTML(info, mapUrl, t, bare, subwayCell) {
   const rows = [];
 
   // "(확인 필요)" 표시를 눈에 띄는 칩으로 바꿉니다.
@@ -1612,6 +1647,9 @@ function infoTableHTML(info, mapUrl, t, bare) {
     const label = escapeHtml(t.needsCheck);
     return html.split(`(${label})`).join(`<span class="unverified">${label}</span>`);
   };
+
+  // 가까운 역 — 방문 동선의 첫 정보라 맨 위에 둡니다.
+  if (subwayCell) rows.push(`<tr><th>${escapeHtml(t.subwayLabel)}</th><td>${subwayCell}</td></tr>`);
 
   // bare(헤더 카드) 모드에선 매운맛 위젯이 따로 붙으므로 info 의 '매운맛' 줄은 건너뜁니다 (중복 방지).
   const spiceLabel = String(t.spicyLabel || '').trim().toLowerCase();
@@ -2251,7 +2289,7 @@ function build() {
       // 헤더 오른쪽 "한눈에 보기" 카드 — 정보표 + 제철 + 매운맛 + 주문을 한 장에 모읍니다.
       // 넷 다 비면 카드를 만들지 않습니다 (제목만 있는 빈 상자 방지).
       const asideParts = [
-        infoTableHTML(m.info, m.map, t, true),
+        infoTableHTML(m.info, m.map, t, true, subwayCellHTML(m.subway, t)),
         seasonHTML(m, t), spicyHTML(m, t), orderHTML(m, t)
       ].filter(Boolean);
       const asideHTML = asideParts.length

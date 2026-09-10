@@ -642,6 +642,22 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 .post-aside .info-table th{width:auto;white-space:nowrap;padding-right:12px;color:var(--ink-mute);font-weight:700;}
 .post-aside .info-table td{color:var(--ink-mid);overflow-wrap:anywhere;}
 .post-aside .info-table td a,.post-aside .info-table td .map-link{color:var(--ink-mid);text-decoration:underline;text-underline-offset:2px;}
+
+/* "가까운 역" — 노선 번호를 서울 지하철 공식 색 동그라미로 (실제 노선 표식처럼). */
+.subway{display:inline-flex;align-items:center;gap:6px;flex-wrap:wrap;line-height:1;}
+.subway-line{
+  display:inline-flex;align-items:center;justify-content:center;
+  min-width:18px;height:18px;padding:0 1px;border-radius:50%;
+  background:var(--sl);color:#fff;
+  font-family:var(--en);font-size:11px;font-weight:800;line-height:1;
+  flex:0 0 auto;
+}
+.subway-line.is-named{border-radius:9px;padding:0 6px;font-size:10px;letter-spacing:-.02em;}
+.subway-line.is-pale{color:#2a2a2a;}
+.subway-station{font-weight:700;color:var(--ink);}
+.post-aside .info-table td .subway-station{color:var(--ink-mid);}
+.subway-walk{color:var(--ink-mute);font-weight:500;}
+.subway-walk::before{content:"·";margin:0 4px 0 2px;color:var(--line-hard);}
 .post-aside .spicy,
 .post-aside .season,
 .post-aside .order-card{

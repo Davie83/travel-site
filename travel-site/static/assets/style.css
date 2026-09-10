@@ -594,7 +594,7 @@ a.more{color:var(--ink);font-weight:600;}
 
 /* 헤더 — 왼쪽 정체성(제목·리드·메타), 오른쪽 "한눈에 보기" 카드 */
 .post-head{
-  display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:44px;align-items:start;
+  display:grid;grid-template-columns:minmax(0,1fr) 344px;gap:40px;align-items:start;
   border-bottom:1px solid var(--line);padding:16px 0 32px;margin-bottom:30px;
 }
 .post-identity{min-width:0;}
@@ -643,12 +643,15 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
   margin:0 0 10px;font-size:12px;font-weight:800;
   letter-spacing:-.01em;color:var(--ink-mute);
 }
-.post-aside .info-table{width:100%;border-collapse:collapse;font-size:13px;}
+/* table-layout:fixed + % 폭 — 라벨이 긴 영어·일본어에서도 표가 카드 폭(100%)을
+   절대 넘지 않도록. 예전엔 th 가 white-space:nowrap + width:auto 라 "Hours · prices ·
+   closing day" 같은 라벨이 표를 밖으로 밀어내 테두리를 벗어났습니다. */
+.post-aside .info-table{width:100%;border-collapse:collapse;font-size:13px;table-layout:fixed;}
 .post-aside .info-table th,.post-aside .info-table td{
   padding:5px 0;text-align:left;vertical-align:top;border:0;line-height:1.5;
 }
-.post-aside .info-table th{width:auto;white-space:nowrap;padding-right:12px;color:var(--ink-mute);font-weight:700;}
-.post-aside .info-table td{color:var(--ink-mid);overflow-wrap:anywhere;}
+.post-aside .info-table th{width:36%;white-space:normal;word-break:keep-all;padding-right:12px;color:var(--ink-mute);font-weight:700;}
+.post-aside .info-table td{width:64%;color:var(--ink-mid);overflow-wrap:anywhere;}
 .post-aside .info-table td a,.post-aside .info-table td .map-link{color:var(--ink-mid);text-decoration:underline;text-underline-offset:2px;}
 
 /* "가까운 역" — 노선 번호를 서울 지하철 공식 색 동그라미로 (실제 노선 표식처럼). */
@@ -671,7 +674,7 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 .post-aside .order-card{
   margin:12px 0 0;padding:12px 0 0;background:none;border:0;border-top:1px solid var(--line);border-radius:0;
 }
-.post-aside .spicy{display:flex;align-items:center;gap:8px;font-size:12.5px;}
+.post-aside .spicy{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12.5px;}
 .post-aside .spicy-peppers b.off{display:none;}
 .post-aside .order-label{margin:0;}
 .post-aside .order-ko{font-size:1rem;margin:4px 0 2px;}

@@ -666,6 +666,7 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 .subway-line.is-named{border-radius:9px;padding:0 6px;font-size:10px;letter-spacing:-.02em;}
 .subway-line.is-pale{color:#2a2a2a;}
 .subway-station{font-weight:700;color:var(--ink);}
+.subway-kr{font-weight:500;color:var(--ink-mute);font-size:.92em;}
 .post-aside .info-table td .subway-station{color:var(--ink-mid);}
 .subway-walk{color:var(--ink-mute);font-weight:500;}
 .subway-walk::before{content:"·";margin:0 4px 0 2px;color:var(--line-hard);}

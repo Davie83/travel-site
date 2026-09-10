@@ -407,6 +407,42 @@ const SEOUL_LINES = {
 };
 const SUBWAY_PALE = new Set(['9', '수인분당', '분당', '우이신설', '김포골드', '김포']);
 
+/* 역 이름 현지어 표기 (서울교통공사 공식 역명 기준).
+   다국어 페이지에서는 "현지어 역명 (한글역명)" 으로 보여줍니다 — 구글맵 검색은 현지어로,
+   택시·카카오맵은 괄호 안 한글로. 여기 없는 역은 한글역명만 나옵니다. */
+const STATION_NAMES = {
+  '국회의사당': { en: 'National Assembly', ja: '国会議事堂',   zh: '國會議事堂' },
+  '여의도':     { en: 'Yeouido',           ja: '汝矣島',       zh: '汝矣島' },
+  '여의나루':   { en: 'Yeouinaru',         ja: '汝矣ナル',     zh: '汝矣渡口' },
+  '명동':       { en: 'Myeong-dong',       ja: '明洞',         zh: '明洞' },
+  '회현':       { en: 'Hoehyeon',          ja: '会賢',         zh: '會賢' },
+  '을지로입구': { en: 'Euljiro 1-ga',      ja: '乙支路入口',   zh: '乙支路入口' },
+  '을지로3가':  { en: 'Euljiro 3-ga',      ja: '乙支路3街',    zh: '乙支路3街' },
+  '종각':       { en: 'Jonggak',           ja: '鍾閣',         zh: '鍾閣' },
+  '종로3가':    { en: 'Jongno 3-ga',       ja: '鍾路3街',      zh: '鍾路3街' },
+  '서대문':     { en: 'Seodaemun',         ja: '西大門',       zh: '西大門' },
+  '서울':       { en: 'Seoul',             ja: 'ソウル',       zh: '首爾' },
+  '시청':       { en: 'City Hall',         ja: '市庁',         zh: '市廳' },
+  '광화문':     { en: 'Gwanghwamun',       ja: '光化門',       zh: '光化門' },
+  '마포':       { en: 'Mapo',              ja: '麻浦',         zh: '麻浦' },
+  '공덕':       { en: 'Gongdeok',          ja: '孔徳',         zh: '孔德' },
+  '합정':       { en: 'Hapjeong',          ja: '合井',         zh: '合井' },
+  '홍대입구':   { en: 'Hongik Univ.',      ja: '弘大入口',     zh: '弘大入口' },
+  '상수':       { en: 'Sangsu',            ja: '上水',         zh: '上水' },
+  '망원':       { en: 'Mangwon',           ja: '望遠',         zh: '望遠' },
+  '대흥':       { en: 'Daeheung',          ja: '大興',         zh: '大興' },
+  '문래':       { en: 'Mullae',            ja: '文来',         zh: '文來' },
+  '영등포':     { en: 'Yeongdeungpo',      ja: '永登浦',       zh: '永登浦' },
+  '영등포시장': { en: 'Yeongdeungpo Market', ja: '永登浦市場', zh: '永登浦市場' },
+  '당산':       { en: 'Dangsan',           ja: '堂山',         zh: '堂山' },
+  '신사':       { en: 'Sinsa',             ja: '新沙',         zh: '新沙' },
+  '양재':       { en: 'Yangjae',           ja: '良才',         zh: '良才' },
+  '한강진':     { en: 'Hangangjin',        ja: '漢江鎮',       zh: '漢江鎮' },
+  '이태원':     { en: 'Itaewon',           ja: '梨泰院',       zh: '梨泰院' },
+  '왕십리':     { en: 'Wangsimni',         ja: '往十里',       zh: '往十里' },
+  '마곡나루':   { en: 'Magongnaru',        ja: '麻谷ナル',     zh: '麻谷渡口' }
+};
+
 function applyGeo(byLocale) {
   const base = {};
   for (const p of (byLocale.ko ? byLocale.ko.posts : [])) {
@@ -1618,8 +1654,9 @@ function cardHTML(post, base, code, t) {
  *  프론트매터에 map: 이 있으면 지도 바로가기 줄이 맨 아래에 자동으로 붙습니다.
  *  (관광객은 주소를 읽기보다 눌러서 지도를 여는 쪽이 훨씬 편합니다) */
 /** "가까운 역" 셀 — 노선 번호를 공식 색 동그라미로, 이름 노선(신분당 등)은 알약으로.
-    raw: "2,6 합정 5" → ②⑥ 합정역 · 도보 5분.  값이 비었거나 형식이 아니면 '' 입니다. */
-function subwayCellHTML(raw, t) {
+    raw: "2,6 합정 5" → ②⑥ 합정역 · 도보 5분.  값이 비었거나 형식이 아니면 '' 입니다.
+    다국어(en/ja/zh) 페이지에선 역명을 "현지어 (한글역명)" 으로 보여줍니다 (구글맵 검색용 + 택시용). */
+function subwayCellHTML(raw, t, code) {
   const s = String(raw || '').trim();
   if (!s) return '';
   const seg = s.split(/\s+/);
@@ -1635,10 +1672,20 @@ function subwayCellHTML(raw, t) {
     return `<span class="${cls.join(' ')}" style="--sl:${SEOUL_LINES[id] || '#6b7280'}"` +
       ` aria-label="${escapeHtml(named ? id + '선' : id + '호선')}">${escapeHtml(id)}</span>`;
   }).join('');
-  const stn = /[역駅站]$/.test(station) ? station : station + '역';
+  const bare = station.replace(/[역駅站]$/, '');
+  const krStn = bare + '역';
+  const loc = code && code !== 'ko' && STATION_NAMES[bare] ? STATION_NAMES[bare][code] : '';
+  let stnHTML;
+  if (loc) {
+    const word = code === 'ja' ? '駅' : code === 'zh' ? '站' : ' Station';
+    const p = code === 'en' ? [' (', ')'] : ['（', '）'];
+    stnHTML = `${escapeHtml(loc + word)}<span class="subway-kr">${escapeHtml(p[0] + krStn + p[1])}</span>`;
+  } else {
+    stnHTML = escapeHtml(krStn);
+  }
   const walkTxt = walk && /^\d+$/.test(walk)
     ? `<span class="subway-walk">${escapeHtml(t.subwayWalk(walk))}</span>` : '';
-  return `<span class="subway">${badges}<span class="subway-station">${escapeHtml(stn)}</span>${walkTxt}</span>`;
+  return `<span class="subway">${badges}<span class="subway-station">${stnHTML}</span>${walkTxt}</span>`;
 }
 
 function infoTableHTML(info, mapUrl, t, bare, subwayCell) {
@@ -2302,7 +2349,7 @@ function build() {
       // 헤더 오른쪽 "한눈에 보기" 카드 — 정보표 + 제철 + 매운맛 + 주문을 한 장에 모읍니다.
       // 넷 다 비면 카드를 만들지 않습니다 (제목만 있는 빈 상자 방지).
       const asideParts = [
-        infoTableHTML(m.info, m.map, t, true, subwayCellHTML(m.subway, t)),
+        infoTableHTML(m.info, m.map, t, true, subwayCellHTML(m.subway, t, code)),
         seasonHTML(m, t), spicyHTML(m, t), orderHTML(m, t)
       ].filter(Boolean);
       const asideHTML = asideParts.length

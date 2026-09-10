@@ -1451,24 +1451,48 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 }
 
 /* ── Davie's Pick 선반 (홈 상단) ────────────────────────────────────
-   일반 카드를 그대로 쓰되 가로로 넘겨 봅니다. 썸네일 왼쪽 위에 PICK 딱지. */
+   본문 그리드 카드보다 훨씬 작은 '티저' 카드 — 한 화면에 두세 장이 보이게. */
 .pick-shelf{padding-bottom:8px;}
 .pick-shelf-scroll{
-  display:flex;gap:14px;overflow-x:auto;
+  display:flex;gap:12px;overflow-x:auto;
   scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;
   padding:2px 2px 12px;margin:0 -2px;scrollbar-width:thin;
 }
 .pick-shelf-scroll::-webkit-scrollbar{height:6px;}
 .pick-shelf-scroll::-webkit-scrollbar-thumb{background:var(--line-hard);border-radius:3px;}
-.pick-shelf-scroll .card{flex:0 0 264px;scroll-snap-align:start;}
-.pick-shelf-scroll .card-thumb::after{
-  content:"PICK";position:absolute;left:9px;top:9px;
-  font-size:10px;font-weight:800;letter-spacing:.04em;
-  background:var(--ink);color:var(--ground);padding:2px 8px;border-radius:999px;
+.pick-card{
+  flex:0 0 208px;scroll-snap-align:start;
+  display:flex;flex-direction:column;
+  background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden;
+  color:inherit;text-decoration:none;
+  transition:transform .14s ease,border-color .14s ease;
+}
+.pick-card:hover{transform:translateY(-2px);border-color:var(--line-hard);}
+.pick-card:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
+.pick-card-thumb{
+  position:relative;display:block;aspect-ratio:3/2;
+  background:color-mix(in srgb,var(--r) 15%,var(--surface));
+}
+.pick-card-thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+.pick-card-emoji{position:absolute;inset:0;display:grid;place-items:center;font-size:30px;}
+.pick-card-badge{
+  position:absolute;left:8px;top:8px;
+  font-size:9.5px;font-weight:800;letter-spacing:.04em;
+  background:var(--ink);color:var(--ground);padding:2px 7px;border-radius:999px;
+}
+.pick-card-body{display:flex;flex-direction:column;gap:3px;padding:9px 11px 11px;}
+.pick-card-genre{font-size:10.5px;font-weight:800;letter-spacing:-.01em;color:var(--r);}
+.pick-card-name{
+  font-size:13px;font-weight:750;line-height:1.32;letter-spacing:-.025em;color:var(--ink);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.pick-card-sub{
+  font-size:11px;font-weight:500;line-height:1.4;color:var(--ink-mid);
+  display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden;
 }
 @media (max-width:640px){
   .pick-shelf-scroll{margin:0 -16px;padding-left:16px;padding-right:16px;}
-  .pick-shelf-scroll .card{flex-basis:230px;}
+  .pick-card{flex-basis:170px;}
 }
 
 /* ── 내 주변 (홈·카테고리·지역·동네·장르 페이지 공통) ───────────────

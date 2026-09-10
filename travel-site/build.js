@@ -779,17 +779,38 @@ ${cards.join('\n')}
 }
 /** Davie's Pick — 홈 맨 위, 손수 고른 몇 곳을 가로로 넘겨 봅니다.
     글 프론트매터(ko)에 pick: true 를 단 글을 씁니다. 아직 하나도 없으면
-    소문난 곳(famous) 최신 글로 자동으로 채워 빈 선반이 되지 않게 합니다. */
+    소문난 곳(famous) 최신 글로 자동으로 채워 빈 선반이 되지 않게 합니다.
+    본문 그리드 카드보다 훨씬 작은 '티저' 카드라, 한 화면에 두세 장이 보입니다. */
+function pickCardHTML(post, base, code, t) {
+  const m = post.meta;
+  const d = localeDir(code);
+  const img = cardThumbPath(m.thumb) || m.thumb;
+  const thumb = m.thumb
+    ? `<img src="${base}${img}${imgVer(img)}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="400" height="267">`
+    : `<span class="pick-card-emoji" aria-hidden="true">${m.emoji || '📍'}</span>`;
+  const g = m.cat === 'food' ? genreOf(m) : null;
+  const kIcon = g ? (g.emoji || '') : (m.emoji || '📍');
+  const kLabel = g ? genreName(g, code) : (t.category[m.cat] || m.cat);
+  const tp = titleParts(m.title);
+  return `        <a class="pick-card" href="${base}${d}posts/${post.slug}" style="--r:var(--region-${escapeHtml(m.region)})">
+          <span class="pick-card-thumb">${thumb}<span class="pick-card-badge">PICK</span></span>
+          <span class="pick-card-body">
+            <span class="pick-card-genre">${escapeHtml((kIcon + ' ' + kLabel).trim())}</span>
+            <span class="pick-card-name">${escapeHtml(tp.name)}</span>` +
+    (tp.sub ? `\n            <span class="pick-card-sub">${escapeHtml(tp.sub)}</span>` : '') + `
+          </span>
+        </a>`;
+}
 function pickShelfHTML(posts, base, code, t) {
   const picked = posts.filter(p => String(p.meta.pick) === 'true');
   const list = (picked.length ? picked
-    : posts.filter(p => String(p.meta.famous) === 'true')).slice(0, 8);
+    : posts.filter(p => String(p.meta.famous) === 'true')).slice(0, 10);
   if (list.length < 3) return '';
   return `    <section class="section pick-shelf">
       <div class="section-head"><h2>${escapeHtml(t.pickShelfTitle)}</h2>` +
     `<span class="more">${escapeHtml(t.pickShelfHint)}</span></div>
       <div class="pick-shelf-scroll">
-${list.map(p => cardHTML(p, base, code, t)).join('\n')}
+${list.map(p => pickCardHTML(p, base, code, t)).join('\n')}
       </div>
     </section>`;
 }

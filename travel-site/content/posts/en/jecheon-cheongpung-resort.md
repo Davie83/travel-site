@@ -10,7 +10,7 @@ excerpt: A resort looking down over Cheongpung Lake in Jecheon, North Chungcheon
 tags: [Jecheon, Cheongpung, Cheongpung Lake, lakeside, Cheongpung Resort, Chungju Lake, Bibongsan, lake, unwind, inland Korea]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ed%92%8d%eb%a6%ac%ec%a1%b0%ed%8a%b8
 info:
-  - Location|Cheongpung-myeon, Jecheon, North Chungcheong · a hill looking down over Cheongpung Lake (the upper Chungju reservoir)
+  - Location|Cheongpung-myeon, Jecheon, North Chungcheong · a hill looking down over Cheongpung Lake (the upper Chungju reservoir) (충북 제천시 청풍면 청풍호로 1798)
   - The lake|Formed in 1985 by the **Chungju Dam** · Jecheon calls this part Cheongpung-ho
   - The view|From the rooms and balconies, **the lake and Bibongsan** sit straight ahead
   - Facilities|On the old side — you come here for the view, not for a new resort

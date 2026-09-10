@@ -11,7 +11,7 @@ tags: [Seoul, Yeongdeungpo, Mullae, jjamppong, spicy noodles, fried dumplings, K
 map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5+%EB%AC%B8%EB%9E%98%EB%A1%9C+203
 info:
   - Restaurant|Songjukjang (송죽장)
-  - Location|203 Mullae-ro, Yeongdeungpo-gu, Seoul
+  - Location|203 Mullae-ro, Yeongdeungpo-gu, Seoul (서울 영등포구 문래로 203)
   - Phone|02-2631-9184
   - Closes|**9:30 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

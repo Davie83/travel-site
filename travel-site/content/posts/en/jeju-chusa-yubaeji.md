@@ -10,7 +10,7 @@ excerpt: An easy stop if you're heading down to Moseulpo Harbour or crossing fro
 tags: [Jeju, Seogwipo, Daejeong, Moseulpo, Chusa, Kim Jeong-hui, Jeju Chusa Museum, place of exile, historic site, Sehando, Chusa style]
 map: https://www.google.com/maps/search/?api=1&query=%ec%a0%9c%ec%a3%bc%ec%b6%94%ec%82%ac%ea%b4%80
 info:
-  - Location|Daejeong-eup, Seogwipo, Jeju · under 10 min by car from Moseulpo Harbour, near Daejeong Hyanggyo
+  - Location|Daejeong-eup, Seogwipo, Jeju · under 10 min by car from Moseulpo Harbour, near Daejeong Hyanggyo (제주 서귀포시 대정읍 추사로 44)
   - What it is|The site where **Kim Jeong-hui (1786–1856)** lived in exile + the **Jeju Chusa Museum**
   - Exile|**1840–1848**, more than eight years · *wiri-anchi* — confined to the house behind a hedge of thorns
   - The thatched house|A **reconstruction** from the accounts of descendants and villagers — on the site of the Kang Do-sun house where he stayed

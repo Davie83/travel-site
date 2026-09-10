@@ -11,7 +11,7 @@ tags: [Seoul, Dangsan, Yeongdeungpo, Vietnamese, pho, Han River Park, family run
 map: https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%98%B9%EB%82%A8+%EB%8B%B9%EC%82%B0%EC%A0%90
 info:
   - Restaurant|Pho Ong Nam, Dangsan branch (포옹남 당산점)
-  - Location|15 Dangsan-ro 48-gil, Yeongdeungpo-gu, Seoul
+  - Location|15 Dangsan-ro 48-gil, Yeongdeungpo-gu, Seoul (서울 영등포구 당산로48길 15)
   - Phone|02-2636-7717
   - Hours|**11:00 AM ~ 10:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

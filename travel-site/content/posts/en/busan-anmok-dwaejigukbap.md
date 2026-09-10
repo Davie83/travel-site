@@ -11,7 +11,7 @@ tags: [Busan, Gwangalli, Namcheon, dwaeji gukbap, pork soup, suyuk, Michelin, Bi
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9+%EA%B4%91%EC%95%88%EB%A6%AC
 info:
   - Restaurant|Anmok **main branch**
-  - Location|3 Gwangnam-ro 22beon-gil, Suyeong-gu, Busan (Namcheon-dong)
+  - Location|3 Gwangnam-ro 22beon-gil, Suyeong-gu, Busan (Namcheon-dong) (부산 수영구 광남로22번길 3)
   - Phone|0507-1461-0523
   - Hours|**11:00 AM to 9:00 PM daily** (last order 8:30 PM) · **open every day**
   - Budget|**around KRW 10,000** (changes often — please verify)

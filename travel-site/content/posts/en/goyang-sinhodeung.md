@@ -10,7 +10,7 @@ excerpt: A wood-fired whole-chicken place in Goyang. It's the classic Korean rot
 tags: [Gyeonggi, Goyang, Sinhodeung Jangjak-gui, wood-fired chicken, rotisserie chicken, whole chicken, chicken, chicken skewers, draft beer, Gyeonggi food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%8b%a0%ed%98%b8%eb%93%b1%ec%9e%a5%ec%9e%91%ea%b5%ac%ec%9d%b4+%ea%b3%a0%ec%96%91
 info:
-  - Location|Deogyang-gu, Goyang, Gyeonggi · a drive out from central Seoul · 경기 고양시 덕양구 서오릉로 396-14
+  - Location|396-14 Seooreung-ro, Deogyang-gu, Goyang-si, Gyeonggi · a drive out from central Seoul (경기 고양시 덕양구 서오릉로 396-14)
   - Signature|**Wood-fired whole chicken** (jangjak-gui) — the usual Korean rotisserie chicken, cooked over a wood fire
   - Grilling|**Staff cook it over a wood fire** — many birds turning at once · the breast doesn't dry out
   - To drink|**Draft beer** (well carbonated) · plus a fish-cake broth

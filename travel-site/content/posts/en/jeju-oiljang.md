@@ -11,7 +11,7 @@ tags: [Jeju, Jeju City, five-day market, traditional market, pajeon, makgeolli, 
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%AF%BC%EC%86%8D%EC%98%A4%EC%9D%BC%EC%8B%9C%EC%9E%A5
 info:
   - Name|Jeju Folk Five-Day Market (제주민속오일시장)
-  - Address|26 Oiljang-seo-gil, Jeju City, Jeju
+  - Address|26 Oiljang-seo-gil, Jeju City, Jeju (제주 제주시 오일장서길 26)
   - Phone|064-743-5985
   - Market days|**Dates ending in 2 and 7** (2nd, 7th, 12th, 17th, 22nd, 27th)
   - Hours|**Closes 6:00 PM** · **Not open on non-market days**

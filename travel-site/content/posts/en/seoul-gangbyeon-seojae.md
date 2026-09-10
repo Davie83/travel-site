@@ -11,7 +11,7 @@ tags: [Seoul, Yeouido, National Assembly, Han River view, cafe, bakery, rooftop,
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%B3%80%EC%84%9C%EC%9E%AC+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - Cafe|Gangbyeon Seojae (run by the National Assembly)
-  - Location|1 Uisadang-daero, Yeongdeungpo-gu, Seoul · **2nd floor of the building next to Sarangjae**
+  - Location|1 Uisadang-daero, Yeongdeungpo-gu, Seoul · **2nd floor of the building next to Sarangjae** (서울 영등포구 의사당대로 1)
   - Phone|02-6788-3331
   - Hours|**Weekdays 8:30 AM to 7:00 PM** · Sat 11:00 AM to 7:00 PM · closed **every Sunday**
   - Watch out|**The bread usually sells out after lunchtime**, according to many reviews

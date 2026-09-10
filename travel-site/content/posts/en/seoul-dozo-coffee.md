@@ -11,7 +11,7 @@ tags: [Seoul, Gwanghwamun, Jongno, Donuimun, Seodaemun, cafe, filter coffee, spe
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4%ED%94%BC+%EB%8F%88%EC%9D%98%EB%AC%B8
 info:
   - Cafe|Dozo Coffee, Donuimun branch (도조커피 돈의문)
-  - Location|134 Tongil-ro, Jongno-gu, Seoul
+  - Location|134 Tongil-ro, Jongno-gu, Seoul (서울 종로구 통일로 134)
   - Phone|02-6390-5757
   - Hours|**10:00 AM – 6:00 PM** (Saturday) · (no closing-day info)
   - Budget|**From ₩5,000** (changes often — please verify)

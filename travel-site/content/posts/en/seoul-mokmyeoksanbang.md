@@ -11,7 +11,7 @@ tags: [Seoul, Myeongdong, Jung-gu, Namsan, bibimbap, raw beef, namul, Korean, ve
 map: https://www.google.com/maps/search/?api=1&query=%EB%AA%A9%EB%A9%B1%EC%82%B0%EB%B0%A9+%ED%95%9C%EA%B0%95%EB%A1%9C20%EA%B8%B8
 info:
   - Restaurant|Mokmyeoksanbang **main branch** (also called the Myeongdong branch)
-  - Location|71 Toegye-ro 20-gil, Jung-gu, Seoul
+  - Location|71 Toegye-ro 20-gil, Jung-gu, Seoul (서울 중구 퇴계로20길 71)
   - Phone|02-318-4790
   - Hours|**11:00 AM to 8:00 PM** (last order 7:20 PM) · (no closing-day info)
   - Budget|**KRW 9,000-15,000 per person** (changes often — please verify)

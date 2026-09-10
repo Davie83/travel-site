@@ -11,7 +11,7 @@ tags: [Jeolla, Buan, pisundae, blood sausage, sundae, breakfast, cauldron]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%A0%EB%A7%A4%ED%94%BC%EC%88%9C%EB%8C%80+%EB%B6%80%EC%95%88%EA%B5%B0
 info:
   - Restaurant|Halmae Pisundae (할매피순대)
-  - Location|2524 Buan-ro, Haengan-myeon, Buan-gun, Jeonbuk
+  - Location|2524 Buan-ro, Haengan-myeon, Buan-gun, Jeonbuk (전북 부안군 행안면 부안로 2524)
   - Phone|063-584-4371
   - Opens|**7:00 AM** · (no closing-day info)
   - Budget|**Under ₩10,000 per person** (changes often — please verify)

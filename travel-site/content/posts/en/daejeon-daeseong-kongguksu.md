@@ -11,7 +11,7 @@ tags: [Daejeon, Seo-gu, kongguksu, cold noodles, soy milk, summer]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%84%B1%EC%BD%A9%EA%B5%AD%EC%88%98+%EB%8C%80%EC%A0%84+%EB%8F%84%EB%A7%88%EB%8F%99
 info:
   - Restaurant|Daeseong Kongguksu (대성콩국수)
-  - Location|67-36 Doma-dong, Seo-gu, Daejeon
+  - Location|67-36 Doma-dong, Seo-gu, Daejeon (대전 서구 도마동 67-36)
   - Phone|042-533-4586
   - Hours|**11:30 AM ~ 8:30 PM** · (no closing-day info)
   - Budget|**Under ₩10,000 per person** (changes often — please verify)

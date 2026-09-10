@@ -11,7 +11,7 @@ tags: [Seoul, Yeouido, kongguksu, soybean noodles, cold noodles, summer food, ve
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - Restaurant|Jinjujip (진주집)
-  - Location|33 Gukjegeumyung-ro 6-gil, Yeongdeungpo-gu · **basement level 1** of the Yeouido Department Store building
+  - Location|33 Gukjegeumyung-ro 6-gil, Yeongdeungpo-gu · **basement level 1** of the Yeouido Department Store building (서울 영등포구 국제금융로6길 33)
   - Hours|**Mon-Fri 10:00 AM to 8:00 PM** · closed **every Sunday**
   - Watch out|**Saturday closes at 7:00 PM**
   - Budget|**KRW 15,000** (changes often — please verify)

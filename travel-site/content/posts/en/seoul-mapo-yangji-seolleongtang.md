@@ -10,7 +10,7 @@ excerpt: A seolleongtang place near Mapo/Gongdeok that I've gone to for a long t
 tags: [Seoul, Mapo, Gongdeok, Mapo Yangji Seolleongtang, seolleongtang, doganitang, ox-knee soup, cartilage, green onion kimchi, gukbap, Mapo food, Seoul food, Gongdeok food]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a7%88%ed%8f%ac%ec%96%91%ec%a7%80%ec%84%a4%eb%a0%81%ed%83%95+%ea%b3%b5%eb%8d%95
 info:
-  - Location|Near Gongdeok, Mapo-gu, Seoul (moved to a new spot) · 서울 마포구 새창로 6
+  - Location|6 Saechang-ro, Mapo-gu, Seoul · near Gongdeok (moved to a new spot) (서울 마포구 새창로 6)
   - Signature|**Seolleongtang (large)**, **doganitang (ox-knee soup)**
   - Side dish|The **kimchi**, including a green onion version, is this place's real charm — genuinely good
   - Note|An old favourite that moved into a **proper new shop**, much like Myeongdong Gyoja did

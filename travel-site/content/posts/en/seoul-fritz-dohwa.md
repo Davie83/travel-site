@@ -11,7 +11,7 @@ tags: [Seoul, Mapo, Dohwa-dong, Mapo Station, Fritz, Fritz Coffee, cafe, dessert
 map: https://www.google.com/maps/search/?api=1&query=%ed%94%84%eb%a6%b3%ec%b8%a0+%eb%8f%84%ed%99%94%ec%a0%90
 info:
   - Place|Fritz Coffee Company, **Dohwa branch** (FRITZ) — the main Mapo location
-  - Location|**17 Saechang-ro 2-gil, Mapo-gu, Seoul** · near Mapo Station
+  - Location|**17 Saechang-ro 2-gil, Mapo-gu, Seoul** · near Mapo Station (서울특별시 마포구 새창로2길 17)
   - Building|An old **Western-style house, converted** — a small yard, steps, a tiled gate
   - Character|A specialty coffee roastery (they sell beans too). This time I had **an ade and bread** as dessert
   - With it|Croissants and other pastries, seasonal ades (sometimes served with thyme)

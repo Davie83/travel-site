@@ -11,7 +11,7 @@ tags: [Seoul, Jongno, Gongpyeongdong, Jonggak, hagfish, kkomjangeo, grilled, soj
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 info:
   - Restaurant|Gongpyeongdong Kkomjangeo **branch 1**
-  - Location|13 Samil-daero 15-gil, Jongno-gu, Seoul
+  - Location|13 Samil-daero 15-gil, Jongno-gu, Seoul (서울 종로구 삼일대로15길 13)
   - Phone|0507-1372-1769
   - Hours|**Weekdays 11:00 AM to midnight** · Sat 2:00 PM to midnight · Sun 2:00 PM to 10:00 PM (changes often — please verify)
   - Closing day|**Open every day** — including Sunday

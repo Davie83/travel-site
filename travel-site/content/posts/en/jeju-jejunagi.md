@@ -10,7 +10,7 @@ excerpt: I went because I was craving hitsumabushi — Nagoya-style grilled eel 
 tags: [Jeju, Aewol, Jejunagi, hitsumabushi, unagi, grilled eel, Japanese, takeout, Nagoya]
 map: https://www.google.com/maps/search/?api=1&query=%ec%a0%9c%ec%a3%bc%eb%82%98%ea%b8%b0+%ec%95%a0%ec%9b%94
 info:
-  - Location|Aewol-eup, Jeju · 제주 제주시 애월읍 구엄동1길 7
+  - Location|7 Gueomdong 1-gil, Aewol-eup, Jeju City, Jeju (제주 제주시 애월읍 구엄동1길 7)
   - Menu|**Hitsumabushi** (Nagoya-style grilled eel over rice) · takeout available
   - What comes with it|Eel rice + garnishes (seaweed, sesame, water dropwort, wasabi, etc.) + dashi broth · **eaten three ways**
   - This time|**Got it to go** because the weather was good, and ate it outside

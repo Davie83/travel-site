@@ -10,7 +10,7 @@ excerpt: I stopped here after a funeral at Hanyang University nearby. It's a wel
 tags: [Seoul, Seongdong, Wangsimni, Hanyang University, donkkaseu, pork cutlet, old-school, kimchi fried rice, gyeongyangsik]
 map: https://www.google.com/maps/search/?api=1&query=%ed%96%89%ec%9a%b4%eb%8f%88%ea%b9%8c%ec%8a%a4+%ec%84%b1%eb%8f%99%ea%b5%ac+%ed%96%89%eb%8b%b9%eb%8f%99
 info:
-  - Location|Seongdong-gu, Seoul — near Hanyang University and Wangsimni · 서울 성동구 마조로1길 2
+  - Location|2 Majo-ro 1-gil, Seongdong-gu, Seoul · near Hanyang Univ. & Wangsimni (서울 성동구 마조로1길 2)
   - Menu|**Donkkaseu** (pork cutlet) · **kimchi fried rice set** (cutlet + kimchi fried rice) — the set is the value pick
   - Style|**Old-school Korean cutlet (gyeongyangsik)** — brown sauce, fried egg. Not the thick Japanese katsu that's popular now
   - Portion|**Very large.** You may not finish the set

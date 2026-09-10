@@ -11,7 +11,7 @@ tags: [Seoul, Yeongdeungpo, Mullae, sundaeguk, boiled pork, blood sausage]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
 info:
   - Restaurant|Obok Sundaeguk **Mullae (main branch)**
-  - Location|465 Dorim-ro, Yeongdeungpo-gu, Seoul (Mullae-dong)
+  - Location|465 Dorim-ro, Yeongdeungpo-gu, Seoul (Mullae-dong) (서울 영등포구 도림로 465)
   - Hours|**Mon-Fri 11:00 AM to 10:00 PM** · closed **every Sunday**
   - Watch out|Weekdays **closed 3:00 to 5:00 PM** · **Saturday closes at 2:00 PM**
   - Budget|**KRW 10,000-15,000 per person** (changes often — please verify)

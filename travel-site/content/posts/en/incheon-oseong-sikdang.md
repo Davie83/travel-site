@@ -11,7 +11,7 @@ tags: [Incheon, Jung-gu, Yeonan Pier, bandaengi, raw shad, ganjang gejang]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%B1%EC%8B%9D%EB%8B%B9+%EC%9D%B8%EC%B2%9C+%EC%97%B0%EC%95%88%EB%B6%80%EB%91%90
 info:
   - Restaurant|Oseong Sikdang (오성식당)
-  - Location|**2nd floor, Haeyang Centre**, Yeonan Pier, Jung-gu, Incheon
+  - Location|**2nd floor, Haeyang Centre**, Yeonan Pier, Jung-gu, Incheon (인천 중구 연안부두)
   - Phone|032-884-1355
   - Closes|**9:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

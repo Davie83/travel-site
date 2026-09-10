@@ -11,7 +11,7 @@ tags: [Seoul, Jung-gu, Namdaemun Market, Hoehyeon, Pyongyang naengmyeon, cold no
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 info:
   - Restaurant|Buwon Myeonok (부원면옥)
-  - Location|41-6 Namdaemunsijang 4-gil, Jung-gu, Seoul — **2nd floor**
+  - Location|41-6 Namdaemunsijang 4-gil, Jung-gu, Seoul — **2nd floor** (서울 중구 남대문시장4길 41-6)
   - Phone|02-753-7728
   - Closes|**8:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

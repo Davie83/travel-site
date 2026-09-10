@@ -11,7 +11,7 @@ tags: [Jeju, Seogwipo, Moseulpo, hanchi, squid, hoedeopbap, mulhoe, yellowtail, 
 map: https://www.google.com/maps/place/?q=place_id:ChIJ80k9j_BpDDUR5td5c3kt3LU
 info:
   - Restaurant|Donji Sikdang (돈지식당)
-  - Location|Daejeong-eup, Seogwipo, Jeju — near Moseulpo Harbour · 제주 서귀포시 대정읍 하모항구로 60
+  - Location|60 Hamohanggu-ro, Daejeong-eup, Seogwipo, Jeju · near Moseulpo Harbour (제주 서귀포시 대정읍 하모항구로 60)
   - Phone|064-794-8465
   - Closes|**9:00 PM** · (no closing-day info)
   - Budget|**₩20,000–30,000 per person** (changes often — please verify)

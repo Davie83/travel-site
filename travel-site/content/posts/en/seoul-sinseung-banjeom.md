@@ -10,7 +10,7 @@ excerpt: A Chinese-Korean restaurant in Yeouido. It's on the large side, but it 
 tags: [Seoul, Yeouido, Sinseung Banjeom, jjamppong, Chinese-Korean, kkanpung, shiitake, kkanpung shiitake, seafood jjamppong, Yeouido Chinese, Yeouido food, Seoul food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%8b%a0%ec%8a%b9%eb%b0%98%ec%a0%90+%ec%97%ac%ec%9d%98%eb%8f%84
 info:
-  - Location|Yeouido, Yeongdeungpo-gu, Seoul · 서울 영등포구 국제금융로2길 32 3층
+  - Location|32 Gukje-geumyung-ro 2-gil, Yeongdeungpo-gu, Seoul · 3F · Yeouido (서울 영등포구 국제금융로2길 32 3층)
   - Ordered|**Seafood jjamppong**, **stir-fried kkanpung shiitake**
   - Heat|Jjamppong at **level 4** — it can feel very hot if you're not used to spice
   - Room|**On the large side**, and fairly full even at dinner

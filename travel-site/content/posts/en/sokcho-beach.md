@@ -10,7 +10,7 @@ excerpt: The ㅅㅊ sculpture and the #SokchoTrip sign in front of the sand, plu
 tags: [Gangwon, Sokcho, Sokcho Beach, beach, Sokcho Eye, ferris wheel, Jodo, Gangwon travel, Sokcho travel, things to do in Sokcho]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8d%ec%b4%88%ed%95%b4%ec%88%98%ec%9a%95%ec%9e%a5
 info:
-  - Location|Sokcho, Gangwon State · close to central Sokcho
+  - Location|Sokcho, Gangwon State · close to central Sokcho (강원특별자치도 속초시)
   - Landmarks|The **ㅅㅊ sculpture** in front of the sand, the **#SokchoTrip** sign, a framed photo spot looking out at **Jodo** islet
   - Ferris wheel|The **Sokcho Eye** — beside the beach, with coffee, bakery, beer and ice cream (Sokcho Sand) in the building below
   - What to do|Sand beach and a paved plaza and promenade, the breakwater, photo spots / **swimming only in the summer season**

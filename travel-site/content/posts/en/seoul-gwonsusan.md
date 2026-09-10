@@ -11,7 +11,7 @@ tags: [Seoul, Yeouido, Yeongdeungpo, National Assembly, hoedeopbap, raw fish, se
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
 info:
   - Restaurant|Gwonsusan (권수산)
-  - Location|34 Uisadang-daero 1-gil, Yeongdeungpo-gu, Seoul — **basement level 1, Inyoung Building**
+  - Location|34 Uisadang-daero 1-gil, Yeongdeungpo-gu, Seoul — **basement level 1, Inyoung Building** (서울 영등포구 의사당대로1길 34)
   - Phone|02-780-3984
   - Opens|**11:00 AM** · Closed **Saturday and Sunday**
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

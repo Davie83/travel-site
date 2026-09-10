@@ -11,7 +11,7 @@ tags: [Seoul, Jongno, Ikseon-dong, hanok, soufflé pancake, café, dessert]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91%EA%B3%BC%EC%A0%90+%EC%A2%85%EB%A1%9C%EA%B5%AC
 info:
   - Café|Dongbaek Yanggwajeom (동백양과점)
-  - Location|17-24 Supyo-ro 28-gil, Jongno-gu, Seoul — beside Ikseon-dong hanok alleys
+  - Location|17-24 Supyo-ro 28-gil, Jongno-gu, Seoul — beside Ikseon-dong hanok alleys (서울 종로구 수표로28길 17-24)
   - Phone|02-3144-0429
   - Hours|**9:00 AM ~ 10:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

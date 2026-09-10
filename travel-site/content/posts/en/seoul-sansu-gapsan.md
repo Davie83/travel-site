@@ -10,7 +10,7 @@ excerpt: A long-standing sundae-guk (blood sausage soup) place in Euljiro. You g
 tags: [Seoul, Euljiro, Euljiro 3-ga, Jongno, Jung-gu, Sansu Gapsan, sundae-guk, blood sausage soup, modeum suyuk, suyuk, boiled offal, sundae, old restaurant, Euljiro food, Seoul food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%82%b0%ec%88%98%ea%b0%91%ec%82%b0+%ec%9d%84%ec%a7%80%eb%a1%9c+%ec%88%9c%eb%8c%80%ea%b5%ad
 info:
-  - Location|Jung-gu, Seoul · near Euljiro 3-ga Station · 서울 중구 을지로20길 24
+  - Location|24 Euljiro 20-gil, Jung-gu, Seoul · near Euljiro 3-ga Stn (서울 중구 을지로20길 24)
   - Signature|**Sundae-guk**, **modeum suyuk** (mixed boiled offal plate)
   - On the plate|Blood sausage, head meat, liver, lung, pig stomach, ear and other cuts, by type
   - Broth|Milky, with perilla seed

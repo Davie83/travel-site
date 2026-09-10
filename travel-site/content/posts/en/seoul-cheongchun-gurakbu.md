@@ -10,7 +10,7 @@ excerpt: A grilled beef-offal place in the Mapo galbi alley. Teugyang and daecha
 tags: [Seoul, Mapo, Mapo galbi alley, Cheongchun Gurakbu, grilled offal, teugyang, daechang, beef offal, charcoal, mul-naengmyeon, Mapo food, Seoul food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ec%b6%98%ea%b5%ac%eb%9d%bd%eb%b6%80+%eb%a7%88%ed%8f%ac
 info:
-  - Location|Mapo-gu, Seoul · the **Mapo galbi alley** · 서울 마포구 토정로 308
+  - Location|308 Tojeong-ro, Mapo-gu, Seoul · the Mapo galbi alley (서울 마포구 토정로 308)
   - Signature|**Grilled teugyang**, **grilled daechang** — plus a fairly wide menu
   - Cooking|Over **charcoal** — seared first, finished on the grill at the table
   - Sides|A range, led by **raw beef liver and omasum (cheonyeop)**

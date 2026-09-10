@@ -10,7 +10,7 @@ tags: [Chungcheong, Asan, Inju, Sapgyocheon, hanok, bakery, cafe, bread, master 
 map: https://www.google.com/maps/search/?api=1&query=%ec%9d%b8%ec%a3%bc%ec%b9%b4%ed%8e%98+%ed%95%9c%ec%98%a5%ec%a0%90
 info:
   - Place|Inju Cafe, hanok branch (INJU)
-  - Location|Inju-myeon, Asan, Chungnam · near Sapgyocheon · 충남 아산시 인주면 아산만로 1608
+  - Location|1608 Asanman-ro, Inju-myeon, Asan-si, Chungnam · near Sapgyocheon (충남 아산시 인주면 아산만로 1608)
   - Character|**A hanok bakery cafe** — coffee and bread in a large traditional building, plenty of seating
   - Bread|A **smaller range** than a typical bakery cafe · signage throughout pushing the **"master baker"** angle
   - My note|The space pulled me in; the bread felt **more ordinary than expected** · the room still did its job

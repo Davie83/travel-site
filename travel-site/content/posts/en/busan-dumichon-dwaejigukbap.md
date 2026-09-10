@@ -11,7 +11,7 @@ tags: [Busan, Dongnae, dwaeji-gukbap, pork soup, local food, late night]
 map: https://www.google.com/maps/search/?api=1&query=%EB%91%90%EB%AF%B8%EC%B4%8C%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EB%B6%80%EC%82%B0+%EB%8F%99%EB%9E%98
 info:
   - Restaurant|Dumichon Dwaeji-gukbap (두미촌돼지국밥)
-  - Location|440-15 Oncheon 1-dong, Dongnae-gu, Busan
+  - Location|440-15 Oncheon 1-dong, Dongnae-gu, Busan (부산 동래구 온천제1동 440-15)
   - Phone|051-554-5050
   - Closes|**Midnight** · (no closing-day info)
   - Budget|**Under ₩10,000 per person** (changes often — please verify)

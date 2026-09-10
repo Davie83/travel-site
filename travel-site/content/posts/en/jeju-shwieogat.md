@@ -10,7 +10,7 @@ excerpt: A dessert-and-coffee shop you meet as you near Seongsan, coming from Se
 tags: [Jeju, Seongsan, Seogwipo, Shwieogat, sutlac, kaymak, Turkish, cafe, dessert, garden]
 map: https://www.google.com/maps/search/?api=1&query=%ec%89%ac%ec%96%b4%ea%b0%93+%ec%84%b1%ec%82%b0
 info:
-  - Location|Seongsan-eup, Seogwipo, Jeju · 제주 서귀포시 성산읍 일주동로 5023
+  - Location|5023 Iljudong-ro, Seongsan-eup, Seogwipo, Jeju (제주 서귀포시 성산읍 일주동로 5023)
   - Menu|**Sütlaç** (Turkish milk pudding) · coffee · desserts
   - Atmosphere|**Turkish-style interior** · a well-kept **garden** outside — good for photos
   - How I found it|Reading up on **kaymak** around the time it got popular in Korea

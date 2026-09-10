@@ -10,7 +10,7 @@ excerpt: I had no idea Jecheon was known for tteok-galbi. I found this place by 
 tags: [Jecheon, Cheongpung, Cheongpung Lake, tteok-galbi, beef tteok-galbi, pork tteok-galbi, galbi, hanjeongsik, side dishes, Chungbuk food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ed%92%8d%ed%99%a9%ea%b8%88%eb%96%a1%ea%b0%88%eb%b9%84
 info:
-  - Location|Cheongpung-myeon, Jecheon, North Chungcheong · by Cheongpung Lake · 충북 제천시 청풍면 청풍호로 1682
+  - Location|1682 Cheongpungho-ro, Cheongpung-myeon, Jecheon, North Chungcheong · by Cheongpung Lake (충북 제천시 청풍면 청풍호로 1682)
   - What I ordered|**Tteok-galbi** (two servings) — round patties, served on a hot plate over sliced onion
   - The spread|**A dozen-plus side dishes** + doenjang stew + rice — laid out like a hanjeongsik set
   - Hours · prices · closing day|Not confirmed (check before you go)

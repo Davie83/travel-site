@@ -10,7 +10,7 @@ excerpt: A spa and sauna inside the Paradise City resort on Yeongjong Island. In
 tags: [Incheon, Yeongjong Island, Paradise City, Cimer, spa, sauna, jjimjilbang, pool, Incheon Airport, near the airport]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c%eb%9d%bc%eb%8b%a4%ec%9d%b4%ec%8a%a4%ec%8b%9c%ed%8b%b0+%ec%94%a8%eb%a9%94%eb%a5%b4
 info:
-  - Location|Yeongjong Island, Jung-gu, Incheon · inside the **Paradise City** resort · about 10 min by car from Incheon Airport T1
+  - Location|Yeongjong Island, Jung-gu, Incheon · inside the **Paradise City** resort · about 10 min by car from Incheon Airport T1 (인천 중구 영종해안남로321번길 186)
   - What it is|A **spa-plex** — indoor and outdoor pools plus a Korean sauna / jjimjilbang
   - Time limits|Sauna only **4 hours** · sauna + spa **6 hours** (varies by ticket)
   - The feel|Facilities are new and clean · crowded on weekends and in peak season

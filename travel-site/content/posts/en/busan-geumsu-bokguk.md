@@ -11,7 +11,7 @@ tags: [Busan, Dongnae, bokguk, pufferfish, hangover soup, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD+%EB%8F%99%EB%9E%98%EC%A0%90
 info:
   - Restaurant|Geumsu Bokguk, Dongnae branch (금수복국 동래점)
-  - Location|Dongnae-gu, Busan
+  - Location|210 Chungnyeol-daero, Dongnae-gu, Busan (부산 동래구 충렬대로 210)
   - Phone|051-553-7700
   - Hours|**8:00 AM ~ 10:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

@@ -11,7 +11,7 @@ tags: [Seoul, Mapo, Gongdeok, monkfish, agujjim, monkfish liver, seafood, baseme
 map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84%EA%B5%AC%EC%B0%9C+%EA%B3%B5%EB%8D%95
 info:
   - Restaurant|Hongbak Agujjim (홍박아구찜)
-  - Location|11 Mapo-daero 7-gil, Mapo-gu, Seoul · **it is in a basement**
+  - Location|11 Mapo-daero 7-gil, Mapo-gu, Seoul · **it is in a basement** (서울 마포구 마포대로7길 11)
   - Phone|02-337-3066
   - Hours|**11:30 AM to 9:30 PM** · closed **every Sunday**
   - Break|**3:00 PM to 5:00 PM** (kitchen closed)

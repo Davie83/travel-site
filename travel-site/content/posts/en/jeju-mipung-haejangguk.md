@@ -10,7 +10,7 @@ excerpt: Every time I'm on Jeju for work I make one meal a hangover soup. Of the
 tags: [Jeju, Jeju City, haejang-guk, hangover soup, gukbap, fiery, grated garlic, Jeju-style]
 map: https://www.google.com/maps/search/?api=1&query=%eb%af%b8%ed%92%8d%ed%95%b4%ec%9e%a5%ea%b5%ad+%ec%a0%9c%ec%a3%bc%ec%8b%9c
 info:
-  - Location|Jeju City, Jeju (main branch) · 제주 제주시 중앙로14길 13
+  - Location|13 Jungang-ro 14-gil, Jeju City, Jeju (main branch) (제주 제주시 중앙로14길 13)
   - Menu|**Haejang-guk** — one bowl; rice comes on the side
   - How to eat it|**Load it with grated garlic** — the standard move for Jeju hangover soup
   - Hours · prices · closing day|Not confirmed (changes often — please verify)

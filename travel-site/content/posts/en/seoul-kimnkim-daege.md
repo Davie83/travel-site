@@ -11,7 +11,7 @@ tags: [Seoul, Hongdae, Mapo, snow crab, king crab, course meal, private room, se
 map: https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%95%A4%EA%B9%80%EB%8C%80%EA%B2%8C%EC%A0%84%EB%AC%B8%EC%A0%90+%ED%99%8D%EB%8C%80
 info:
   - Restaurant|Kim & Kim Daege (김앤김대게전문점)
-  - Location|372-1 Seogyo-dong, Mapo-gu — **tanks on floor 1, dining on floor 3**
+  - Location|372-1 Seogyo-dong, Mapo-gu — **tanks on floor 1, dining on floor 3** (서울 마포구 서교동 372-1)
   - Phone|02-333-6659
   - Closes|**10:00 PM** · (no closing-day info)
   - 20th-anniversary promotion|**Snow crab ₩79,000/kg · King crab ₩119,000/kg** (confirm it's still running)

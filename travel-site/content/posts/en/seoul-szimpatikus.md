@@ -14,7 +14,7 @@ lng: 126.9740241
 addr: 서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호
 info:
   - Restaurant|Szimpatikus, **Seoul Station branch** (심퍼티쿠시 서울역점)
-  - Address|**14 Sejong-daero**, Grand Central 1F #102, Jung-gu, Seoul (세종대로 14)
+  - Address|**14 Sejong-daero**, Grand Central 1F #102, Jung-gu, Seoul (세종대로 14) (서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호)
   - Phone|0507-1340-9048
   - Hours|**11:00 AM to 10:00 PM** · **no closing day listed** (changes often — please verify)
   - Break|**3:00 to 5:00 PM** (changes often — please verify)

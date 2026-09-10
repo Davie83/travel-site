@@ -11,7 +11,7 @@ tags: [Seoul, Yeouido, Yeongdeungpo, IFC Mall, Konthai, Thai food, tom yum, tom 
 map: https://www.google.com/maps/search/?api=1&query=%ec%bd%98%ed%83%80%ec%9d%b4+%ec%97%ac%ec%9d%98%eb%8f%84+IFC
 info:
   - Place|**Konthai (KON THAI), Yeouido branch** — one of several beyond the Yeonnam-dong original
-  - Location|**10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul · IFC Mall** food court (connected to Yeouido Station)
+  - Location|**10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul · IFC Mall** food court (connected to Yeouido Station) (서울 영등포구 국제금융로 10 (IFC몰))
   - Signature|**Seafood tom yum noodle soup** — generous with mussels, clams, shrimp and squid
   - Taste|**Sour-forward**, mildly spicy · topped with ground peanut and cilantro
   - Room|A bright space done up with mosaic lamps and a Bangkok street-scene mural. Busy with office workers at lunch

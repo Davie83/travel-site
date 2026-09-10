@@ -11,7 +11,7 @@ tags: [Gangwon, Cheorwon, makguksu, buckwheat, cold noodles, bindaetteok]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A0%EC%9B%90%EB%A7%89%EA%B5%AD%EC%88%98+%EC%B2%A0%EC%9B%90%EA%B5%B0
 info:
   - Restaurant|Cheorwon Makguksu (철원막국수)
-  - Location|13 Myeongseong-ro 158beon-gil, Galmal-eup, Cheorwon-gun, Gangwon
+  - Location|13 Myeongseong-ro 158beon-gil, Galmal-eup, Cheorwon-gun, Gangwon (강원 철원군 갈말읍 명성로158번길 13)
   - Phone|033-452-2589
   - Hours|**11:00 AM ~ 8:00 PM** · (no closing-day info)
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

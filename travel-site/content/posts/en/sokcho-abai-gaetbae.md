@@ -10,7 +10,7 @@ excerpt: The gaetbae ferry connects central Sokcho with Abai Village. The crossi
 tags: [Gangwon, Sokcho, Abai Village, Cheongho-dong, gaetbae, boat ride, Sokcho gaetbae, Sokcho travel, Gangwon travel, things to do in Sokcho]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8d%ec%b4%88+%ec%95%84%eb%b0%94%ec%9d%b4%eb%a7%88%ec%9d%84+%ea%b0%af%eb%b0%b0
 info:
-  - Location|Cheongho-dong, Sokcho, Gangwon State · between central Sokcho and Abai Village
+  - Location|Cheongho-dong, Sokcho, Gangwon State · between central Sokcho and Abai Village (강원특별자치도 속초시 청호동)
   - Crossing|A short trip — easy to do as a round trip
   - Tickets|**One-way tickets available** (a round trip isn't required)
   - Note|A traditional boat moved by **pulling a rope** rather than a motor

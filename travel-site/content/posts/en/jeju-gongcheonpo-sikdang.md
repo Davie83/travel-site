@@ -11,7 +11,7 @@ tags: [Jeju, Seogwipo, Namwon, Gongcheonpo, abalone porridge, mulhoe, cold soup,
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%B2%9C%ED%8F%AC%EC%8B%9D%EB%8B%B9
 info:
   - Restaurant|Gongcheonpo Sikdang (공천포식당)
-  - Location|89 Gongcheonpo-ro, Namwon-eup, Seogwipo, Jeju (by Gongcheonpo harbour)
+  - Location|89 Gongcheonpo-ro, Namwon-eup, Seogwipo, Jeju (by Gongcheonpo harbour) (제주 서귀포시 남원읍 공천포로 89)
   - Phone|064-767-2425
   - Hours|**10:00 AM to 3:30 PM** (last order 3:00 PM) · closed **every Thursday**
   - Watch out|**Lunch only.** They close earlier once they run out

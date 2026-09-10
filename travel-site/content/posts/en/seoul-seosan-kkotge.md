@@ -11,7 +11,7 @@ tags: [Seoul, Mapo, ganjang gejang, raw crab, set meal, reservation required, Ko
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%82%B0%EA%BD%83%EA%B2%8C+%EB%A7%88%ED%8F%AC
 info:
   - Restaurant|Seosan Kkotge (서산꽃게)
-  - Location|12-3 Dohwa-gil, Mapo-gu, Seoul
+  - Location|12-3 Dohwa-gil, Mapo-gu, Seoul (서울 마포구 도화길 12-3)
   - Phone|02-719-9693
   - Opens|**5:30 PM** · (no closing-day info)
   - Budget|**₩40,000–50,000 per person** (changes often — please verify)

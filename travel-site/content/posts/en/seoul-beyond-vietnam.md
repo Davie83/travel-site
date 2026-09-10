@@ -11,7 +11,7 @@ tags: [Seoul, Yeouido, National Assembly, Vietnamese, pho, phở, spring rolls, 
 map: https://www.google.com/maps/search/?api=1&query=%eb%b9%84%ec%9a%98%eb%93%9c%eb%b9%84%ec%97%a3%eb%82%a8+%ea%b5%ad%ed%9a%8c%ec%9d%98%ec%82%ac%eb%8b%b9%ec%a0%90
 info:
   - Place|Beyond Vietnam, National Assembly branch
-  - Location|Yeongdeungpo-gu, Seoul · near National Assembly Station (Line 9) · 서울 영등포구 의사당대로 26 107호
+  - Location|26 Uisadang-daero, Yeongdeungpo-gu, Seoul · Room 107 · near National Assembly Stn (Line 9) (서울 영등포구 의사당대로 26 107호)
   - Phone|0507-1398-8085
   - Hours|**11:00 – 22:00** · break 14:30–16:30 · last order 21:20 (changes often — confirm)
   - Branches|This is the larger West Yeouido branch · there are said to be branches in East Yeouido and Seolleung (Gangnam) too

@@ -11,7 +11,7 @@ tags: [Seoul, Yeouido, Korean-Chinese, jjajangmyeon, truffle, fried chicken, res
 map: https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%ED%83%84+%EC%97%AC%EC%9D%98%EB%8F%84%EC%A0%90
 info:
   - Restaurant|Mutan, Yeouido branch (무탄 여의도점)
-  - Location|2F, TP Tower, 96 Uisadang-daero, Yeongdeungpo-gu, Seoul
+  - Location|2F, TP Tower, 96 Uisadang-daero, Yeongdeungpo-gu, Seoul (서울 영등포구 의사당대로 96)
   - Phone|02-6264-7775
   - Hours|**11:00 AM – 10:00 PM** · (no closing-day info)
   - Budget|**₩20,000–50,000 per person** (changes often — please verify)

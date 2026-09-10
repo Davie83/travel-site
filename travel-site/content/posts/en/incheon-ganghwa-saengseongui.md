@@ -10,7 +10,7 @@ excerpt: A grilled-fish place right where you enter Ganghwa Island. For a simple
 tags: [Incheon, Ganghwa Island, Ganghwa, grilled fish, charcoal grilled fish, banded herring, Spanish mackerel, seafood, fish set meal, Ganghwa food]
 map: https://www.google.com/maps/search/?api=1&query=%ea%b0%95%ed%99%94%eb%8f%84%eb%a7%9b%ec%a7%91+%ec%88%af%eb%b6%88%ec%83%9d%ec%84%a0%ea%b5%ac%ec%9d%b4
 info:
-  - Location|Gilsang-myeon, Ganghwa-gun, Incheon · just over the Choji bridge onto Ganghwa Island · 인천 강화군 길상면 해안동로 14-6
+  - Location|14-6 Haeandong-ro, Gilsang-myeon, Ganghwa-gun, Incheon · just over the Choji bridge onto Ganghwa Island (인천 강화군 길상면 해안동로 14-6)
   - What I ordered|**Charcoal grilled-fish set** — Spanish mackerel, banded herring and other fish, all on one table
   - How it's cooked|Grilled **over charcoal** in the kitchen · the doneness is spot on
   - Side dishes|Not fancy, but they **taste good**

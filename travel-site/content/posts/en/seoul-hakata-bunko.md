@@ -11,7 +11,7 @@ tags: [Seoul, Hongdae, Sangsu, Mapo, ramen, tonkotsu, Hakata, late night]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80%EB%B6%84%EC%BD%94+%ED%99%8D%EB%8C%80
 info:
   - Restaurant|Hakata Bunko (하카타분코)
-  - Location|43 Dongmak-ro 19-gil, Mapo-gu, Seoul
+  - Location|43 Dongmak-ro 19-gil, Mapo-gu, Seoul (서울 마포구 독막로19길 43)
   - Phone|02-338-5536
   - Hours|**11:30 AM to 3:00 AM** · (no closing-day info)
   - Budget|**KRW 10,000-20,000 per person** (changes often — please verify)

@@ -10,7 +10,7 @@ excerpt: Windy Hill has over 11,000 Google reviews, and it feels like it. What s
 tags: [Geoje, Gyeongsangnam, Windy Hill, Dojangpo, Haegeumgang, hiking, coastal walk, island]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
 info:
-  - Where|Nambu-myeon, Geoje, South Gyeongsang Province
+  - Where|Nambu-myeon, Geoje, South Gyeongsang Province (경남 거제시 남부면 갈곶리)
   - Windy Hill (바람의 언덕)|Galgot-ri · **Open 24 hours** — it's an open hillside
   - Dojangpo cruises|55 Dojangpo 1-gil · 055-632-8787 · **From 8:30 AM** — routes to Oedo and Haegeumgang
   - Admission|Windy Hill is **free** · cruises charged separately (please verify)

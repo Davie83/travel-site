@@ -11,7 +11,7 @@ tags: [Seoul, Myeongdong, Euljiro, pork bones, gamjatang, 24 hours, late night, 
 map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:
   - Restaurant|Shindonggung Gamjatang Ppyeo Sutbul Gui
-  - Address|43 Myeongdong 9-gil, Jung-gu, Seoul
+  - Address|43 Myeongdong 9-gil, Jung-gu, Seoul (서울 중구 명동9길 43)
   - Phone|02-318-4222
   - Hours|**Open 24 hours** · No regular closing day
   - Budget|**₩10,000–20,000 per person** (changes often — please verify)

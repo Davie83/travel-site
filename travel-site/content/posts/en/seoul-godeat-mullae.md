@@ -15,7 +15,7 @@ addr: 서울 영등포구 경인로77길 14 영문빌딩 108호
 closed: unknown
 info:
   - Restaurant|God Eat, **Mullae branch** (갓잇 문래점) — the brand has several locations
-  - Address|Unit 108, Yeongmun Building, **14 Gyeongin-ro 77-gil**, Yeongdeungpo-gu, Seoul (경인로77길 14)
+  - Address|Unit 108, Yeongmun Building, **14 Gyeongin-ro 77-gil**, Yeongdeungpo-gu, Seoul (서울 영등포구 경인로77길 14 영문빌딩 108호)
   - Phone|070-7757-9451
   - Hours|**Mon-Thu & Sun 11:00-21:30** · **Fri & Sat 11:00-22:00** · **open every day** (per Naver Map)
   - Break time|**3:00-5:00 PM on weekdays** — **no break on Saturday and Sunday**

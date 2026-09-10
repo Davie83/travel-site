@@ -10,7 +10,7 @@ excerpt: Inside Mercure Seoul Magok there's an unlimited wine buffet. It runs at
 tags: [Seoul, Magok, Gangseo, Mercure, wine buffet, buffet, wine, steak, Western, hotel]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a8%b8%ed%81%90%ec%96%b4+%ec%84%9c%ec%9a%b8+%eb%a7%88%ea%b3%a1+%eb%aa%a8%ec%95%84%ec%8b%9c%ec%8a%a4
 info:
-  - Location|Magok, Gangseo-gu, Seoul · inside the Mercure Ambassador Seoul Magok hotel (near Magongnaru Station)
+  - Location|62 Magok-jungang-ro, Gangseo-gu, Seoul · inside Mercure Ambassador Seoul Magok, near Magongnaru Stn (서울 강서구 마곡중앙로 62)
   - Format|**Unlimited wine buffet** — Western food built to pair with wine
   - Hours|**Dinner service only** · not available at lunch
   - Set|Recently a set that **adds a striploin steak** seems to have appeared (confirm when booking)

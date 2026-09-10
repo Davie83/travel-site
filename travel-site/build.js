@@ -416,6 +416,10 @@ function applyGeo(byLocale) {
     if (g.lat === undefined || g.lng === undefined) {
       warnings.push(`content/posts/ko/${p.slug}.md — lat / lng 가 없습니다 (동선 기능에서 빠집니다)`);
     }
+    // 서울 맛집 글은 "한눈에 보기"에 가까운 역을 보여줍니다 — subway: 값을 넣어 주세요.
+    if (p.meta.region === 'seoul' && p.meta.cat === 'food' && g.subway === undefined) {
+      warnings.push(`content/posts/ko/${p.slug}.md — 서울 맛집인데 subway: 가 없습니다 (예: "2,6 합정 5")`);
+    }
     base[p.slug] = g;
   }
   for (const code of Object.keys(byLocale)) {

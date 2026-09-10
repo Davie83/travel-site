@@ -7,8 +7,9 @@
   </section>
 
 {{intro}}
-  <!-- "내 주변" — build.js 의 nearWidgetHTML() 이 채웁니다 (data-target=region-grid) -->
+  <!-- 이 지역 추천 코스 (해당 지역 글로 시작하는 것만) + "내 주변" 위젯 -->
   <div class="wrap">
+{{routeShelf}}
 {{near}}
   </div>
 
@@ -17,6 +18,9 @@
         {{tabs}}
     </div>
   </div>
+
+  <!-- 장르 바로가기 칩 — 이 지역에 있는 음식 장르만. 그리드를 그 자리에서 좁힙니다 -->
+{{genreChips}}
 
   <!-- 동네 칩 — 글이 있는 동네가 2곳 이상일 때만 채워집니다 -->
   <div class="wrap achips-wrap" data-target="region-grid">{{areaChips}}</div>

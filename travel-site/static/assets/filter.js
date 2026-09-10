@@ -25,11 +25,12 @@
     const tabBox   = document.querySelector(`.rtabs[data-target="${grid.id}"]`);
     const areaBox  = document.querySelector(`.achips-wrap[data-target="${grid.id}"]`);
     const pickBox  = document.querySelector(`.picks[data-target="${grid.id}"]`);
+    const genreBox = document.querySelector(`.gchips[data-target="${grid.id}"]`);
 
-    if (!input && !chipBox && !tabBox && !areaBox && !pickBox) return;   // 관련 글 목록 등은 그대로 둡니다
+    if (!input && !chipBox && !tabBox && !areaBox && !pickBox && !genreBox) return;   // 관련 글 목록 등은 그대로 둡니다
 
-    // 검색어 · 지역 · 카테고리 · 소문난/끌리는 을 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
-    const state = { keyword: '', region: 'all', area: 'all', cat: 'all', pick: 'all' };
+    // 검색어 · 지역 · 카테고리 · 장르 · 소문난/끌리는 을 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
+    const state = { keyword: '', region: 'all', area: 'all', cat: 'all', genre: 'all', pick: 'all' };
     const hasLimit = grid.classList.contains('limit-4');
     let sorted = false;   // 검색 관련도 순으로 재정렬한 상태인지
 
@@ -63,7 +64,7 @@
     function apply() {
       const kw = state.keyword.trim().toLowerCase();
       const terms = kw ? kw.split(/\s+/).filter(Boolean) : [];
-      const filtering = !!kw || state.region !== 'all' || state.area !== 'all' || state.cat !== 'all' || state.pick !== 'all';
+      const filtering = !!kw || state.region !== 'all' || state.area !== 'all' || state.cat !== 'all' || state.genre !== 'all' || state.pick !== 'all';
       let shown = 0;
       const hits = [];
 
@@ -71,8 +72,9 @@
         const okRegion = state.region === 'all' || card.dataset.region === state.region;
         const okArea   = state.area   === 'all' || card.dataset.area   === state.area;
         const okCat    = state.cat    === 'all' || card.dataset.cat    === state.cat;
+        const okGenre  = state.genre  === 'all' || card.dataset.genre  === state.genre;
         const okPick   = state.pick   === 'all' || card.dataset.pick   === state.pick;
-        const sc       = (okRegion && okArea && okCat && okPick) ? kwScore(card, terms) : 0;
+        const sc       = (okRegion && okArea && okCat && okGenre && okPick) ? kwScore(card, terms) : 0;
         card.hidden = !(sc > 0);
         if (sc > 0) { shown++; if (kw) hits.push({ c: card, s: sc }); }
       });
@@ -156,6 +158,23 @@
 
     // 동네 칩은 이제 필터가 아니라 동네 페이지(/en/seoul/myeongdong)로 가는 링크입니다.
 
+    // 카테고리 탭(여행지/맛집)과 장르 칩(국밥·냉면…)은 목록을 나누는 두 방식이라
+    // 서로를 풉니다. 하나를 누르면 다른 쪽은 "전체" 로 되돌립니다.
+    function resetGenre() {
+      if (!genreBox) return;
+      genreBox.querySelectorAll('.gchip').forEach(b => b.classList.remove('on'));
+      const first = genreBox.querySelector('.gchip[data-genre="all"]') || genreBox.querySelector('.gchip');
+      if (first) first.classList.add('on');
+      state.genre = 'all';
+    }
+    function resetCat() {
+      if (!tabBox) return;
+      tabBox.querySelectorAll('.rtab').forEach(b => b.classList.remove('on'));
+      const first = tabBox.querySelector('.rtab[data-cat="all"]') || tabBox.querySelector('.rtab');
+      if (first) first.classList.add('on');
+      state.cat = 'all';
+    }
+
     if (tabBox) {
       tabBox.addEventListener('click', e => {
         const btn = e.target.closest('.rtab');
@@ -163,6 +182,19 @@
         tabBox.querySelectorAll('.rtab').forEach(b => b.classList.remove('on'));
         btn.classList.add('on');
         state.cat = btn.dataset.cat;
+        if (state.cat !== 'all') resetGenre();
+        apply();
+      });
+    }
+
+    if (genreBox) {
+      genreBox.addEventListener('click', e => {
+        const btn = e.target.closest('.gchip');
+        if (!btn) return;
+        genreBox.querySelectorAll('.gchip').forEach(b => b.classList.remove('on'));
+        btn.classList.add('on');
+        state.genre = btn.dataset.genre;
+        if (state.genre !== 'all') resetCat();
         apply();
       });
     }

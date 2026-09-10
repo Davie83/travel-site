@@ -936,6 +936,27 @@
   }
   closedToday();
 
+  /* ---- 오늘 휴무 배지 (목록 카드) ------------------------------------
+     같은 이유로 카드에서도 "오늘"은 브라우저가 판단합니다. 각 카드에
+     .card-closed 배지를 숨겨서 미리 넣어 두고, 오늘이 휴무 요일이면 켭니다. */
+  (function closedCards() {
+    var cards = document.querySelectorAll('.card[data-closed]');
+    if (!cards.length) return;
+    var map = { sun: 0, mon: 1, tue: 2, wed: 3, thu: 4, fri: 5, sat: 6 };
+    var today = new Date().getDay(), i, j;
+    for (i = 0; i < cards.length; i++) {
+      var raw = cards[i].getAttribute('data-closed') || '';
+      if (!raw || raw === 'none' || raw === 'unknown') continue;
+      var parts = raw.split(','), hit = false;
+      for (j = 0; j < parts.length; j++) {
+        if (map[parts[j].replace(/^\s+|\s+$/g, '')] === today) { hit = true; break; }
+      }
+      if (!hit) continue;
+      var b = cards[i].querySelector('.card-closed');
+      if (b) b.hidden = false;
+    }
+  })();
+
   /* ---- 추천 코스 담기 ---------------------------------------------------
      동선은 저장한 곳에서 만들어지므로(rSync), 저장 목록과 동선 순서를
      둘 다 채워야 합니다. 지금 담아둔 것은 지우지 않고 뒤에 더합니다. */
@@ -966,4 +987,16 @@
 
 
   paint();
+
+  /* 홈·지역 페이지의 "추천 코스" 카드가 /saved?route=<slug> 로 링크합니다.
+     그 slug 의 코스 버튼을 찾아 눌러 주면, 위의 클릭 처리기가 담기+스크롤까지 합니다. */
+  (function () {
+    var m = (location.search.match(/[?&]route=([^&]+)/) || [])[1];
+    if (!m) return;
+    var slug; try { slug = decodeURIComponent(m); } catch (e) { slug = m; }
+    var all = document.querySelectorAll('.preset'), i;
+    for (i = 0; i < all.length; i++) {
+      if (all[i].getAttribute('data-route') === slug) { all[i].click(); break; }
+    }
+  })();
 })();

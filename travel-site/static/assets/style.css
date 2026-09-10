@@ -402,6 +402,37 @@ a.more{color:var(--ink);font-weight:600;}
 .genre-name{font-size:14.5px;font-weight:800;letter-spacing:-.02em;line-height:1.25;color:var(--ink);word-break:keep-all;}
 .genre-sub{font-family:var(--en);font-size:11px;color:var(--ink-mute);}
 
+/* 홈 "지역으로 찾기" — 지도 + 이름 줄을 한 덩어리로 (region-pick).
+   지역 8칸 카드를 걷어내고, 지도 아래 가벼운 칩 줄로 이름 선택을 받습니다. */
+.region-pick{display:flex;flex-direction:column;align-items:center;gap:20px;}
+.region-pick .hero-map svg{height:min(46vh,400px);}
+.region-chips{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;}
+.region-chip{
+  display:inline-flex;align-items:baseline;gap:6px;
+  padding:7px 13px 7px 12px;border-radius:999px;
+  font-size:13.5px;font-weight:700;letter-spacing:-.02em;
+  border:1px solid var(--line);border-left:3px solid var(--r);
+  background:var(--ground);color:var(--ink);
+  transition:border-color .14s ease,transform .14s ease;
+}
+.region-chip:hover{border-color:var(--line-hard);transform:translateY(-1px);}
+.region-chip b{font-family:var(--en);font-weight:800;font-size:12px;color:var(--ink-mute);font-variant-numeric:tabular-nums;}
+.region-chip.is-empty{opacity:.4;}
+
+/* 홈 "무엇을 먹지?" — 큰 타일 대신 칩 한 줄 */
+.genre-chips{display:flex;flex-wrap:wrap;gap:9px;}
+.genre-chip{
+  display:inline-flex;align-items:center;gap:7px;
+  padding:9px 15px;border-radius:999px;
+  font-size:14px;font-weight:700;letter-spacing:-.02em;
+  border:1px solid var(--line);background:var(--surface);color:var(--ink);
+  text-decoration:none;
+  transition:border-color .14s ease,transform .14s ease;
+}
+.genre-chip:hover{border-color:var(--line-hard);transform:translateY(-1px);}
+.genre-chip-emoji{font-size:16px;line-height:1;}
+.genre-chip b{font-family:var(--en);font-weight:800;font-size:12px;color:var(--ink-mute);font-variant-numeric:tabular-nums;}
+
 /* ==========================================================================
    글 카드
    ========================================================================== */
@@ -428,7 +459,7 @@ a.more{color:var(--ink);font-weight:600;}
      일반 흐름에 두면 세로로 긴 사진이 컨테이너를 밀어올려서
      aspect-ratio 가 무시되고 카드마다 높이가 제각각이 됩니다. */
 .card-thumb{
-  aspect-ratio:4/3;display:grid;place-items:center;
+  aspect-ratio:3/2;display:grid;place-items:center;
   position:relative;overflow:hidden;min-height:0;
   background:color-mix(in srgb,var(--r) 15%,var(--surface));
 }
@@ -438,14 +469,17 @@ a.more{color:var(--ink);font-weight:600;}
   position:absolute;inset:0;
   width:100%;height:100%;object-fit:cover;
 }
-.card-tag{
-  position:absolute;left:9px;top:9px;font-size:11px;font-weight:700;
-  padding:3px 9px;border-radius:999px;background:rgba(0,0,0,.62);color:#fff;
-}
 
-.card-body{padding:13px 14px 14px;display:flex;flex-direction:column;gap:7px;flex:1;}
+.card-body{padding:12px 14px 13px;display:flex;flex-direction:column;gap:6px;flex:1;}
+/* 머리줄 — 장르(지역색) + 지역·동네(흐림). 제목 위에서 "무엇 / 어디" 를 먼저 읽습니다. */
+.card-kicker{
+  display:flex;align-items:baseline;gap:7px;flex-wrap:wrap;
+  font-size:11.5px;font-weight:700;letter-spacing:-.01em;line-height:1.3;
+}
+.card-genre{color:var(--r);white-space:nowrap;}
+.card-place{color:var(--ink-mute);font-weight:600;white-space:nowrap;}
 .card-body h3{
-  margin:0;font-size:15.5px;line-height:1.45;letter-spacing:-.02em;font-weight:700;
+  margin:0;font-size:15px;line-height:1.38;letter-spacing:-.025em;font-weight:750;
 }
 /* 제목 2단 — 대시 앞 이름 / 대시 뒤 설명. 각 조각을 따로 2줄까지 자릅니다. */
 .card-body h3 .t-name{
@@ -454,16 +488,20 @@ a.more{color:var(--ink);font-weight:600;}
 }
 .card-body h3 .t-sub{
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
-  margin-top:3px;font-size:12.5px;font-weight:600;line-height:1.45;color:var(--ink-mute);
+  margin-top:3px;font-size:12.5px;font-weight:500;line-height:1.45;color:var(--ink-mid);
 }
 .card-body p{
-  margin:0;font-size:13px;color:var(--ink-mute);line-height:1.6;flex:1;
+  margin:0;font-size:12.5px;color:var(--ink-mute);line-height:1.55;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
 }
 .card-meta{
   display:flex;align-items:center;gap:8px;font-size:12px;color:var(--ink-mute);
-  border-top:1px solid var(--line);padding-top:10px;
-  font-family:var(--en);font-variant-numeric:tabular-nums;
+  margin-top:auto;border-top:1px solid var(--line);padding-top:9px;
+  font-variant-numeric:tabular-nums;
+}
+.card-closed{
+  font-family:var(--kr);font-weight:800;font-size:11px;letter-spacing:-.01em;
+  color:var(--ground);background:var(--ink);border-radius:5px;padding:2px 7px;
 }
 
 /* ==========================================================================
@@ -501,6 +539,24 @@ a.more{color:var(--ink);font-weight:600;}
 .rtab:hover{color:var(--ink);}
 .rtab.on{color:var(--ink);border-bottom-color:var(--ink);}
 .rtab .n{font-family:var(--en);font-size:11.5px;opacity:.6;margin-left:5px;}
+
+/* 장르 바로가기 칩 (지역·동네 페이지) — 카테고리 탭 바로 아래에서 목록을 좁힙니다.
+   많을 수 있어 모바일에서는 가로로 넘깁니다. */
+.gchips-wrap{padding:14px 20px 0;}
+.gchips-wrap:empty{display:none;}
+.gchips{display:flex;flex-wrap:wrap;gap:7px;}
+.gchip{
+  padding:6px 12px;border-radius:999px;font-size:12.5px;font-weight:600;font-family:inherit;
+  border:1px solid var(--line);background:var(--ground);color:var(--ink-mute);cursor:pointer;
+  white-space:nowrap;
+}
+.gchip:hover{border-color:var(--line-hard);color:var(--ink);}
+.gchip.on{background:var(--ink);border-color:var(--ink);color:var(--ground);}
+.gchip .n{font-family:var(--en);font-size:11px;opacity:.65;margin-left:5px;}
+@media (max-width:640px){
+  .gchips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin:0 -20px;padding:0 20px;}
+  .gchips::-webkit-scrollbar{display:none;}
+}
 
 /* 소문난 곳 / 끌리는 곳 토글 — 지역 칩과 같은 알약 모양, 크기만 살짝 작습니다 */
 .picks{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px;}
@@ -974,11 +1030,9 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 /* 카드 안에서는 한 단계 작게, 날짜는 오른쪽으로 밀어 배지와 갈라놓습니다 */
 .card-meta{flex-wrap:wrap;row-gap:6px;overflow:visible;}
 .card-meta .badge{font-size:11px;padding:2px 9px;font-weight:700;}
-.card-date{margin-left:auto;font-variant-numeric:tabular-nums;}
-/* 카드 매운맛 칩 — 고추만. 켜진 것/꺼진 것 색 대비는 상세와 동일하게. */
-.card-spicy{display:inline-flex;gap:1px;line-height:1;}
-.card-spicy b{font-size:12px;font-style:normal;font-weight:400;}
-.card-spicy b.off{filter:grayscale(1);opacity:.3;}
+.card-date{margin-left:auto;font-family:var(--en);font-variant-numeric:tabular-nums;}
+/* 카드 매운맛 — 켜진 고추만 (상세 페이지 위젯만 5칸 고정 격자). */
+.card-spicy{display:inline-flex;gap:1px;line-height:1;font-size:12px;}
 
 /* ==========================================================================
    동선 (/saved 페이지)
@@ -1351,6 +1405,71 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 .preset-name{flex:1 1 0;min-width:0;font-size:.94rem;font-weight:700;color:var(--ink);line-height:1.4;}
 .preset-n{flex:0 0 auto;font-size:.78rem;color:var(--ink-mute);}
 .preset-go{flex:0 0 auto;font-size:.82rem;font-weight:700;color:var(--ink);white-space:nowrap;}
+
+/* ── 추천 코스 미리보기 (홈·지역 페이지) ────────────────────────────
+   /saved 의 "코스 담기" 버튼과 달리, 눌러서 미리 볼 수 있는 링크 카드입니다.
+   /saved?route=<slug> 로 가면 assets/saved.js 가 그 코스를 자동으로 담습니다. */
+.route-shelf{padding-bottom:8px;}
+.route-shelf-scroll{
+  display:flex;gap:12px;overflow-x:auto;
+  scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;
+  padding:2px 2px 10px;margin:0 -2px;scrollbar-width:thin;
+}
+.route-shelf-scroll::-webkit-scrollbar{height:6px;}
+.route-shelf-scroll::-webkit-scrollbar-thumb{background:var(--line-hard);border-radius:3px;}
+.route-card{
+  flex:0 0 250px;scroll-snap-align:start;
+  display:flex;flex-direction:column;gap:9px;
+  padding:14px 15px 15px;
+  background:var(--surface);border:1px solid var(--line);border-radius:13px;
+  color:inherit;text-decoration:none;
+  transition:transform .14s ease,border-color .14s ease;
+}
+.route-card:hover{transform:translateY(-2px);border-color:var(--line-hard);}
+.route-card:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
+.route-card-top{display:flex;align-items:baseline;gap:8px;}
+.route-card-region{font-size:11px;font-weight:800;letter-spacing:.02em;color:var(--r,var(--ink-mute));}
+.route-card-n{margin-left:auto;font-size:11px;font-weight:700;color:var(--ink-mute);}
+.route-card-name{
+  font-size:14px;font-weight:750;line-height:1.32;letter-spacing:-.025em;color:var(--ink);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.route-card-sub{
+  font-size:11.5px;font-weight:500;line-height:1.4;letter-spacing:-.01em;color:var(--ink-mid);
+  margin-top:-3px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.route-card-stops{display:flex;align-items:center;gap:5px;flex-wrap:wrap;margin-top:1px;}
+.route-card-stop{
+  font-size:10.5px;font-weight:700;color:var(--ink-mid);
+  border:1px solid var(--line);border-radius:6px;padding:2px 7px;white-space:nowrap;
+}
+.route-card-stop.is-more{border:0;padding:2px;color:var(--ink-mute);}
+.route-card-arw{font-size:9px;color:var(--ink-mute);}
+@media (max-width:640px){
+  .route-shelf-scroll{margin:0 -16px;padding-left:16px;padding-right:16px;}
+}
+
+/* ── Davie's Pick 선반 (홈 상단) ────────────────────────────────────
+   일반 카드를 그대로 쓰되 가로로 넘겨 봅니다. 썸네일 왼쪽 위에 PICK 딱지. */
+.pick-shelf{padding-bottom:8px;}
+.pick-shelf-scroll{
+  display:flex;gap:14px;overflow-x:auto;
+  scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;
+  padding:2px 2px 12px;margin:0 -2px;scrollbar-width:thin;
+}
+.pick-shelf-scroll::-webkit-scrollbar{height:6px;}
+.pick-shelf-scroll::-webkit-scrollbar-thumb{background:var(--line-hard);border-radius:3px;}
+.pick-shelf-scroll .card{flex:0 0 264px;scroll-snap-align:start;}
+.pick-shelf-scroll .card-thumb::after{
+  content:"PICK";position:absolute;left:9px;top:9px;
+  font-size:10px;font-weight:800;letter-spacing:.04em;
+  background:var(--ink);color:var(--ground);padding:2px 8px;border-radius:999px;
+}
+@media (max-width:640px){
+  .pick-shelf-scroll{margin:0 -16px;padding-left:16px;padding-right:16px;}
+  .pick-shelf-scroll .card{flex-basis:230px;}
+}
 
 /* ── 내 주변 (홈·카테고리·지역·동네·장르 페이지 공통) ───────────────
    이미 한국에 도착한 사람이 "지금 서 있는 자리" 기준으로 가까운 곳을 봅니다.

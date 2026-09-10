@@ -394,7 +394,7 @@ function loadPosts(code) {
    "43 Dongmak-ro 19-gil, Mapo-gu, Seoul" 로 알아서 바꿔서 보여줍니다.
    4개 언어 파일에 나눠 적으면 한 곳만 고치고 나머지를 잊게 되므로,
    한국어 글을 원본으로 두고 여기서 나머지 언어로 복사합니다.          */
-const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode', 'famous'];
+const GEO_KEYS = ['lat', 'lng', 'addr', 'closed', 'spicy', 'order', 'orderRoman', 'season', 'seasonMode', 'famous', 'pick'];
 
 function applyGeo(byLocale) {
   const base = {};
@@ -504,31 +504,23 @@ function navHTML(current, base, code, t) {
  *  카테고리 이름은 site.config.js 에서 그대로 가져옵니다.
  *  (전에 'places' 로 직접 적어두었다가 카테고리 이름을 바꾸면서
  *   화면에 undefined 가 찍혔습니다. 다시는 하드코딩하지 않습니다) */
-function regionCardHTML(region, base, code, counts, t) {
+/** 홈 "지역으로 찾기" — 지도 아래 이름 줄. 글 많은 순, 각 칩에 지역색 왼쪽 띠.
+    지도(koreaMapHTML)와 같은 링크(/region/<slug>)로 보냅니다 — 지도는 그림,
+    이 줄은 이름으로 고르는 방법입니다. 글이 없는 지역은 흐린 비링크로 둡니다. */
+function regionChipRowHTML(totals, base, code, t) {
   const d = localeDir(code);
-  const total = site.categories.reduce((s, c) => s + (counts[c.slug] || 0), 0);
-  const name = regionName(region.slug, code);
-
-  // 카테고리별 개수는 배지로 나눕니다.
-  // 전에는 "여행지 0 · 맛집 1" 처럼 점으로 이었는데, 서로 다른 값이라 점만으로는
-  // 어디까지가 한 덩어리인지 읽히지 않았습니다. 0 인 배지는 흐리게 해서
-  // "글이 있는 쪽"이 먼저 눈에 들어오게 합니다. (글이 없어도 칸은 그대로 보여줍니다)
-  const countBadges = site.categories
-    .map(c => {
-      const n = counts[c.slug] || 0;
-      const label = escapeHtml(t.category[c.slug] || c.slug);
-      return `<span class="r-count${n ? '' : ' zero'}">${label}<b>${n}</b></span>`;
+  return site.regions
+    .slice()
+    .sort((a, b) => (totals[b.slug] || 0) - (totals[a.slug] || 0))
+    .map(r => {
+      const n = totals[r.slug] || 0;
+      const name = escapeHtml(regionName(r.slug, code));
+      const style = ` style="--r:var(--region-${r.slug})"`;
+      return n
+        ? `        <a class="region-chip" href="${base}${d}region/${r.slug}"${style}>${name}<b>${n}</b></a>`
+        : `        <span class="region-chip is-empty"${style}>${name}<b>0</b></span>`;
     })
-    .join('');
-
-  const inner = `<div><span class="r-name">${escapeHtml(name)}</span><span class="r-en">${escapeHtml(region.slug)}</span></div>
-          <div class="r-counts">${countBadges}</div>`;
-
-  if (!total) return `        <div class="region empty">\n          ${inner}\n        </div>`;
-
-  return `        <a class="region" href="${base}${d}region/${region.slug}" style="--r:var(--region-${region.slug})">
-          ${inner}
-        </a>`;
+    .join('\n');
 }
 
 /* ---- 대한민국 지도 -------------------------------------------------------
@@ -719,7 +711,7 @@ function presetsHTML(posts, code, t) {
     });
     if (stops.length < 2) return '';
     const name = (r.names && (r.names[code] || r.names.en)) || r.slug;
-    return `        <button class="preset" type="button" data-stops="${escapeHtml(stops.join(','))}">` +
+    return `        <button class="preset" type="button" data-route="${escapeHtml(r.slug)}" data-stops="${escapeHtml(stops.join(','))}">` +
       `<span class="preset-name">${escapeHtml(name)}</span>` +
       `<span class="preset-n">${escapeHtml(t.presetStops(stops.length))}</span>` +
       `<span class="preset-go">${escapeHtml(t.presetAdd)} +</span></button>`;
@@ -732,6 +724,103 @@ function presetsHTML(posts, code, t) {
 ${cards}
         </div>
       </section>`;
+}
+/** 추천 코스 미리보기 카드 — 홈·지역 페이지에서 동선을 눈에 띄게 보여줍니다.
+    /saved 의 "코스 담기" 버튼과 달리 링크 카드입니다 — 누르면
+    /saved?route=<slug> 로 가서 그 코스가 자동으로 담깁니다 (assets/saved.js).
+    opts.regionSlug 를 주면 그 지역 글로 시작하는 코스만 남기고 지역 이름표는 뺍니다. */
+function routeCardsHTML(posts, code, t, opts) {
+  opts = opts || {};
+  const list = site.routes || [];
+  if (!list.length) return '';
+  const d = localeDir(code);
+  const base = opts.base || '';
+  const bySlug = {};
+  posts.forEach(p => { bySlug[p.slug] = p; });
+
+  const cards = list.map(r => {
+    const stops = (r.stops || []).filter(s => bySlug[s]);
+    if (stops.length < 2) return null;
+    const rSlug = (bySlug[stops[0]].meta || {}).region || '';
+    if (opts.regionSlug && rSlug !== opts.regionSlug) return null;
+    const name = (r.names && (r.names[code] || r.names.en)) || r.slug;
+    const np = titleParts(name);
+    const nameHTML = np.sub
+      ? `<span class="route-card-name">${escapeHtml(np.name)}</span>` +
+        `<span class="route-card-sub">${escapeHtml(np.sub)}</span>`
+      : `<span class="route-card-name">${escapeHtml(np.name)}</span>`;
+    const chips = stops.slice(0, 4).map(s =>
+      `<span class="route-card-stop">${escapeHtml(shortTitle((bySlug[s].meta || {}).title || s))}</span>`
+    ).join('<span class="route-card-arw" aria-hidden="true">→</span>');
+    const more = stops.length > 4
+      ? `<span class="route-card-stop is-more">+${stops.length - 4}</span>` : '';
+    const region = opts.regionSlug ? ''
+      : `<span class="route-card-region">${escapeHtml(regionName(rSlug, code))}</span>`;
+    return `        <a class="route-card" style="--r:var(--region-${escapeHtml(rSlug)})"` +
+      ` href="${base}${d}saved?route=${encodeURIComponent(r.slug)}"` +
+      ` aria-label="${escapeHtml(name + ' — ' + t.presetStops(stops.length))}">
+          <span class="route-card-top">${region}<span class="route-card-n">${escapeHtml(t.presetStops(stops.length))}</span></span>
+          ${nameHTML}
+          <span class="route-card-stops">${chips}${more}</span>
+        </a>`;
+  }).filter(Boolean);
+  if (!cards.length) return '';
+
+  const head = opts.regionSlug
+    ? `<div class="section-head"><h2>${escapeHtml(t.presetTitle)}</h2></div>`
+    : `<div class="section-head"><h2>${escapeHtml(t.presetTitle)}</h2>` +
+      `<a class="more" href="${base}${d}saved">${escapeHtml(t.routeShelfAll)} →</a></div>`;
+  return `    <section class="section route-shelf">
+      ${head}
+      <div class="route-shelf-scroll">
+${cards.join('\n')}
+      </div>
+    </section>`;
+}
+/** Davie's Pick — 홈 맨 위, 손수 고른 몇 곳을 가로로 넘겨 봅니다.
+    글 프론트매터(ko)에 pick: true 를 단 글을 씁니다. 아직 하나도 없으면
+    소문난 곳(famous) 최신 글로 자동으로 채워 빈 선반이 되지 않게 합니다. */
+function pickShelfHTML(posts, base, code, t) {
+  const picked = posts.filter(p => String(p.meta.pick) === 'true');
+  const list = (picked.length ? picked
+    : posts.filter(p => String(p.meta.famous) === 'true')).slice(0, 8);
+  if (list.length < 3) return '';
+  return `    <section class="section pick-shelf">
+      <div class="section-head"><h2>${escapeHtml(t.pickShelfTitle)}</h2>` +
+    `<span class="more">${escapeHtml(t.pickShelfHint)}</span></div>
+      <div class="pick-shelf-scroll">
+${list.map(p => cardHTML(p, base, code, t)).join('\n')}
+      </div>
+    </section>`;
+}
+/** 지역·동네 페이지의 장르 바로가기 칩 — 그 목록에 실제로 있는 음식 장르만,
+    글 많은 순. filter.js 가 .gchips[data-target] → 그리드의 카드 data-genre 를
+    걸러 그 자리에서 좁힙니다 (페이지 이동도 검색도 아닙니다). */
+function genreQuickChipsHTML(list, code, t) {
+  const food = list.filter(p => p.meta.cat === 'food');
+  if (food.length < 5) return '';
+  const counts = {};
+  for (const p of food) {
+    const g = genreOf(p.meta);
+    if (g) counts[g.slug] = (counts[g.slug] || 0) + 1;
+  }
+  const slugs = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b));
+  if (slugs.length < 2) return '';
+  const chip = (genre, label, n, on) =>
+    `<button class="gchip${on ? ' on' : ''}" type="button" data-genre="${escapeHtml(genre)}">` +
+    `${escapeHtml(label)}<span class="n">${n}</span></button>`;
+  const chips = [chip('all', t.all, food.length, true)].concat(
+    slugs.map(s => {
+      const g = genreOfSlug(s);
+      const label = (g && g.emoji ? g.emoji + ' ' : '') + genreName(s, code);
+      return chip(s, label, counts[s], false);
+    })
+  );
+  return `  <div class="wrap gchips-wrap">
+    <div class="gchips" data-target="region-grid">
+      ${chips.join('\n      ')}
+    </div>
+  </div>`;
 }
 /** 제철 배지.
     season      = 제철인 달 (쉼표. 예: 12,1,2)
@@ -1355,25 +1444,25 @@ function tipsNudgeHTML(base, code, t) {
  *  있어야 하니 색인 여부와 상관없이 전부 넣습니다. 장르가 3개 미만이면 아예 안 그립니다. */
 function homeGenresHTML(base, code, countsByGenre, t) {
   const d = localeDir(code);
-  // 홈에서는 글이 2개 이상인 장르만 (한 곳짜리 카드는 빈약해 보입니다).
+  // 홈에서는 글이 2개 이상인 장르만 (한 곳짜리는 빈약해 보입니다). 글 많은 순.
   // 전체 목록은 /food 상단의 장르 칩 줄에 있습니다.
-  const live = GENRES.filter(g => (countsByGenre[g.slug] || 0) >= 2);
+  const live = GENRES
+    .filter(g => (countsByGenre[g.slug] || 0) >= 2)
+    .sort((a, b) => (countsByGenre[b.slug] || 0) - (countsByGenre[a.slug] || 0));
   if (live.length < 3) return '';
-  const cards = live.map(g => {
+  const chips = live.map(g => {
     const n = countsByGenre[g.slug] || 0;
-    return `        <a class="genre-card" href="${base}${d}food/${g.slug}">
-          <span class="genre-emoji" aria-hidden="true">${g.emoji || '🍽'}</span>
-          <span class="genre-name">${escapeHtml(genreName(g, code))}</span>
-          <span class="genre-sub">${escapeHtml(t.nearCount(n))}</span>
-        </a>`;
+    return `        <a class="genre-chip" href="${base}${d}food/${g.slug}">` +
+      `<span class="genre-chip-emoji" aria-hidden="true">${g.emoji || '🍽'}</span>` +
+      `${escapeHtml(genreName(g, code))}<b>${n}</b></a>`;
   }).join('\n');
   return `    <section class="section">
       <div class="section-head">
         <h2>${escapeHtml(t.genreHomeTitle)}</h2>
         <span class="more">${escapeHtml(t.genreHomeHint)}</span>
       </div>
-      <div class="genres">
-${cards}
+      <div class="genre-chips">
+${chips}
       </div>
     </section>`;
 }
@@ -1419,9 +1508,8 @@ function cardSpicyHTML(m, t) {
   if (!Number.isInteger(n) || n < 1 || n > 5) return '';
   const name = (t.spicyNames || [])[n] || '';
   const aria = typeof t.spicyAria === 'function' ? t.spicyAria(n, name) : `${t.spicyLabel} ${n}/5`;
-  const peppers = Array.from({ length: 5 }, (_, i) =>
-    `<b class="${i < n ? 'on' : 'off'}">🌶</b>`).join('');
-  return `<span class="card-spicy spicy-${n}" role="img" aria-label="${escapeHtml(aria)}">${peppers}</span>`;
+  // 카드에서는 켜진 고추만 (5칸 고정 격자는 상세 페이지 위젯에만 씁니다).
+  return `<span class="card-spicy spicy-${n}" role="img" aria-label="${escapeHtml(aria)}">${'🌶'.repeat(n)}</span>`;
 }
 
 /** 소문난 곳 / 끌리는 곳 토글 — 카드의 data-pick 를 filter.js 가 걸러냅니다.
@@ -1441,7 +1529,7 @@ function cardHTML(post, base, code, t) {
   // width/height 를 적어두면 사진이 오기 전에도 칸이 잡혀 화면이 덜 흔들립니다.
   const cardImg = cardThumbPath(m.thumb) || m.thumb;
   const thumb = m.thumb
-    ? `<img src="${base}${cardImg}${imgVer(cardImg)}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="700" height="525">`
+    ? `<img src="${base}${cardImg}${imgVer(cardImg)}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="700" height="467">`
     : `<span class="emoji">${m.emoji || '📍'}</span>`;
   const rname = regionName(m.region, code);
   const aname = areaName(m.region, m.area, code);
@@ -1462,13 +1550,27 @@ function cardHTML(post, base, code, t) {
   const sPlace = [rname, aname, m.addr].filter(Boolean).join(' ').toLowerCase();
   const sText  = String(m.excerpt || '').toLowerCase();
 
-  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-pick="${String(m.famous) === 'true' ? 'famous' : 'draw'}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-s-name="${escapeHtml(sName)}" data-s-tag="${escapeHtml(sTag)}" data-s-place="${escapeHtml(sPlace)}" data-s-text="${escapeHtml(sText)}" style="--r:var(--region-${escapeHtml(m.region)})">
+  /* 카드 머리줄 — "무슨 음식인지 / 어디인지" 를 제목 위에서 바로 읽게 합니다.
+     맛집은 음식 장르(없으면 이모지+카테고리), 여행지는 이모지+카테고리.
+     지역·동네는 지역색(--r)이 아니라 흐린 글씨로, 장르만 지역색을 띱니다. */
+  const kIcon  = g ? (g.emoji || '') : (m.emoji || '📍');
+  const kLabel = g ? genreName(g, code) : (t.category[m.cat] || m.cat);
+  const kPlace = [rname, aname].filter(Boolean).join(' · ');
+  const kicker = `<div class="card-kicker">` +
+    `<span class="card-genre">${escapeHtml((kIcon + ' ' + kLabel).trim())}</span>` +
+    (kPlace ? `<span class="card-place">${escapeHtml(kPlace)}</span>` : '') +
+    `</div>`;
+  // 제목에 "이름 — 설명" 형태의 설명이 없을 때만 발췌문 한 줄을 대신 보여줍니다.
+  const fallbackSub = !titleParts(m.title).sub && m.excerpt
+    ? `\n              <p class="card-excerpt">${escapeHtml(m.excerpt)}</p>` : '';
+
+  return `        <article class="card" data-slug="${post.slug}" data-cat="${escapeHtml(m.cat)}" data-genre="${g ? escapeHtml(g.slug) : ''}" data-region="${escapeHtml(m.region)}" data-area="${escapeHtml(m.area || '')}" data-pick="${String(m.famous) === 'true' ? 'famous' : 'draw'}" data-lat="${escapeHtml(m.lat || '')}" data-lng="${escapeHtml(m.lng || '')}" data-addr="${escapeHtml(m.addr || '')}" data-closed="${escapeHtml(m.closed || '')}" data-s-name="${escapeHtml(sName)}" data-s-tag="${escapeHtml(sTag)}" data-s-place="${escapeHtml(sPlace)}" data-s-text="${escapeHtml(sText)}" style="--r:var(--region-${escapeHtml(m.region)})">
           <a href="${base}${d}posts/${post.slug}">
-            <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}<span class="card-tag">${escapeHtml(t.category[m.cat] || m.cat)}</span></div>
+            <div class="card-thumb${m.thumb ? ' has-photo' : ''}">${thumb}</div>
             <div class="card-body">
-              <h3>${titleHTML(m.title)}</h3>
-              <p>${escapeHtml(m.excerpt)}</p>
-              <div class="card-meta"><span class="badge badge-region" style="--r:var(--region-${escapeHtml(m.region)})">${escapeHtml(rname)}</span>${aname ? `<span class="badge">${escapeHtml(aname)}</span>` : ''}${cardSpicyHTML(m, t)}<time class="card-date">${String(m.date).replace(/-/g, '.')}</time></div>
+              ${kicker}
+              <h3>${titleHTML(m.title)}</h3>${fallbackSub}
+              <div class="card-meta"><span class="card-closed" hidden>${escapeHtml(t.closedCardBadge || '')}</span>${cardSpicyHTML(m, t)}<time class="card-date">${String(m.date).replace(/-/g, '.')}</time></div>
             </div>
           </a>
           ${saveBtnHTML(post.slug, t, false)}
@@ -1835,14 +1937,10 @@ function build() {
     const homeBase = baseOf(d + 'index.html');
     const totalByRegion = {};
 
-    const regionCards = site.regions.map(r => {
-      const counts = {};
-      for (const c of site.categories) {
-        counts[c.slug] = posts.filter(p => p.meta.region === r.slug && p.meta.cat === c.slug).length;
-      }
-      totalByRegion[r.slug] = Object.values(counts).reduce((a, b) => a + b, 0);
-      return regionCardHTML(r, homeBase, code, counts, t);
-    }).join('\n');
+    for (const r of site.regions) {
+      totalByRegion[r.slug] = posts.filter(p => p.meta.region === r.slug).length;
+    }
+    const regionChips = regionChipRowHTML(totalByRegion, homeBase, code, t);
 
     const homeAvail = availFor('index.html', () => true);
     writeFile(d + 'index.html', renderPage({
@@ -1859,7 +1957,7 @@ function build() {
         searchPlaceholder: escapeHtml(t.searchPlaceholder),
         findByRegion: escapeHtml(t.findByRegion),
         regionCount: escapeHtml(t.regionCount(site.regions.length)),
-        regions: regionCards,
+        regionChips: regionChips,
         latestTitle: escapeHtml(t.latest),
         searchTitle: escapeHtml(t.searchTitle),
         searchCountTpl: escapeHtml(t.searchCountTpl),
@@ -1885,6 +1983,8 @@ function build() {
         tipsTags:  escapeHtml(t.tipsTags),
         tipsCta:   escapeHtml(t.tipsCta),
         genreBlock: homeGenresHTML(homeBase, code, genreCounts, t),
+        pickShelf: pickShelfHTML(posts, homeBase, code, t),
+        routeShelf: routeCardsHTML(posts, code, t, { base: homeBase }),
         pickToggle: pickToggleHTML('latest-grid', t),
         latest: posts.map(p => cardHTML(p, baseOf(d + 'index.html'), code, t)).join('\n'),
         noResult: escapeHtml(t.noResult),
@@ -1916,6 +2016,10 @@ function build() {
           `<span class="n">${inRegion.filter(p => p.meta.area === a.slug).length}</span></a>`
         ).join('\n        ');
 
+      /* 장르 바로가기 칩 — 이 지역에 글이 있는 음식 장르만. 필터 JS 가 카드의
+         data-genre 를 걸러 그리드에서 바로 좁힙니다 (검색·페이지 이동 없음). */
+      const regionGenreChips = genreQuickChipsHTML(inRegion, code, t);
+
       writeFile(out, renderPage({
         out, code, current: 'home',
         title: `${name} — ${siteName(code)}`,
@@ -1926,8 +2030,10 @@ function build() {
           regionName: escapeHtml(name),
           regionEn: escapeHtml(r.slug),
           intro: pageIntroHTML((r.intro && r.intro[code]) || '', r.slug),
+          routeShelf: routeCardsHTML(posts, code, t, { base, regionSlug: r.slug }),
           near: nearWidgetHTML(t, code, 'region-grid'),
           tabs: tabs,
+          genreChips: regionGenreChips,
           areaChips: areaChips,
           cards: inRegion.length
             ? inRegion.map(p => cardHTML(p, base, code, t)).join('\n')
@@ -1988,8 +2094,10 @@ function build() {
             regionName: escapeHtml(aName),
             regionEn: escapeHtml(a.slug),
             intro: pageIntroHTML(areaIntroTxt, r.slug),
+            routeShelf: '',
             near: nearWidgetHTML(t, code, 'region-grid'),
             tabs: tabs,
+            genreChips: genreQuickChipsHTML(inArea, code, t),
             areaChips: '',
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
             noResult: escapeHtml(t.noResult),

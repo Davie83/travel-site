@@ -1,4 +1,4 @@
-  <!-- 홈 = 지역 인덱스. 히어로(글+검색+내주변) 아래에 큐레이션·지역·장르·최근 순 -->
+  <!-- 홈 = 지역 인덱스. 히어로(글+검색+내주변) 아래에 지역·큐레이션(Pick·코스)·장르·최근 순 -->
   <section class="hero">
     <div class="wrap">
       <div class="hero-text">
@@ -30,11 +30,7 @@
       <span class="tips-strip-cta">{{tipsCta}} →</span>
     </a>
 
-{{pickShelf}}
-
-{{routeShelf}}
-
-    <!-- 지역으로 찾기 — 지도(핀 클릭) + 이름 줄을 한 덩어리로 -->
+    <!-- 지역으로 찾기 — 지도(핀 클릭) + 이름 줄을 한 덩어리로. 큐레이션보다 먼저 둡니다 -->
     <section class="section">
       <div class="section-head">
         <h2>{{findByRegion}}</h2>
@@ -47,6 +43,10 @@
         </div>
       </div>
     </section>
+
+{{pickShelf}}
+
+{{routeShelf}}
 
 {{genreBlock}}
 

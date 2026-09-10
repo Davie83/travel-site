@@ -7,6 +7,7 @@ date: 2026-08-22
 emoji: 🏯
 thumb: assets/img/gyeongju-bulguksa-cheomseongdae.jpg
 famous: true
+pick: true
 excerpt: 한국의 역사 도시. 일본의 교토에 해당하는 곳입니다. 낮에는 불국사, 해가 지면 첨성대. 첨성대는 밤 10시까지 조명이 들어와서, 리뷰 2만 개에서 가장 많이 나오는 말이 야경입니다.
 tags: [경주, 경상북도, 불국사, 첨성대, 신라, 유네스코, 야경, 갈비]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80+%EA%B2%BD%EC%A3%BC

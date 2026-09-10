@@ -7,6 +7,7 @@ date: 2026-09-02
 emoji: 🍜
 thumb: assets/img/seoul-myeongdong-gyoja.jpg
 famous: true
+pick: true
 excerpt: 대부분이 아는 명동의 유명한 칼국수집. 가성비도 좋고, 웬만한 입에는 착 붙는 육수다. 예전 허름한 자리가 아니라 명동역 8번 출구 근처 새 건물로 멋스럽게 이전했다. 오랜만에 가서 그런지 예전의 감동까지는 아니었지만, 기본 이상은 하는 곳. 겨울이 되면 또 생각날 맛이다.
 tags: [서울, 중구, 명동, 명동교자, 칼국수, 만두, 만두국, 국수, 마늘김치, 명동맛집]
 map: https://www.google.com/maps/search/?api=1&query=%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90+%eb%b3%b8%ec%a0%90+%eb%aa%85%eb%8f%99

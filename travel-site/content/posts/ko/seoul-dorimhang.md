@@ -6,6 +6,7 @@ area: yeongdeungpo
 date: 2026-08-26
 emoji: 🍣
 thumb: assets/img/seoul-dorimhang.jpg
+pick: true
 excerpt: 오마카세처럼 여러 회와 평소 못 먹어보는 성게알·해산물을 모둠으로 맛볼 수 있습니다. 김에 싸서 초밥처럼 만들어 먹어도 됩니다. 한 가지에 집중하기보다 여러 가지를 두루 보고 싶을 때 좋습니다. 저녁에는 서둘러야 자리가 있습니다.
 tags: [서울, 영등포, 숙성회, 모둠회, 성게알, 우니, 해산물, 이자카야, 웨이팅]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD+%EC%98%81%EB%93%B1%ED%8F%AC%EC%A0%90

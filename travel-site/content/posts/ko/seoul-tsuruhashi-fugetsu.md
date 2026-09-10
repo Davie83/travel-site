@@ -6,6 +6,7 @@ area: myeongdong
 date: 2026-08-25
 emoji: 🍺
 thumb: assets/img/seoul-tsuruhashi-fugetsu.jpg
+pick: true
 excerpt: 오사카 츠루하시에서 시작한 오코노미야끼 집의 명동점입니다. 자리마다 철판이 있고 직원이 앞에서 구워 줍니다. 쉬는 날 낮에 오코노미야끼에 맥주 한 잔, 이만한 조합이 드뭅니다. 브레이크 타임 14:30~17:00을 꼭 확인하세요.
 tags: [서울, 명동, 오코노미야끼, 야끼소바, 일식, 철판, 맥주, 오사카]
 map: https://www.google.com/maps/search/?api=1&query=%EC%AF%94%EB%A3%A8%ED%95%98%EC%8B%9C+%ED%9B%84%EA%B2%8C%EC%B8%A0+%EB%AA%85%EB%8F%99%EC%A0%90

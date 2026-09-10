@@ -7,6 +7,7 @@ date: 2026-09-07
 emoji: 🌺
 thumb: assets/img/jeju-camellia-hill.jpg
 famous: true
+pick: true
 excerpt: 제주 서쪽 서귀포의 큰 정원이다. 제주시를 벗어나면 오설록·성산일출봉과 함께 다들 한 번씩 들르는 곳. 이름은 동백(카멜리아)이지만 계절마다 주력 꽃이 바뀌고, 체감상 수국이 한창인 여름이 메인이다. 생각보다 넓어서 다 걸어 돌면 시간이 꽤 걸린다. 꽃과 정원을 보고 있으면 마음이 상쾌해진다.
 tags: [제주, 서귀포, 안덕, 카멜리아힐, 정원, 수목원, 동백, 수국, 온실, 서쪽]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b9%b4%eb%a9%9c%eb%a6%ac%ec%95%84%ed%9e%90

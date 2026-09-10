@@ -7,6 +7,7 @@ date: 2026-09-06
 emoji: ☕
 thumb: assets/img/seoul-fritz-dohwa.jpg
 famous: true
+pick: true
 excerpt: 마포역 인근, 오래된 양옥을 개조한 프릳츠 커피의 도화점. 주변에 식사할 곳이 많아 한 끼 든든히 먹고 차와 빵을 후식으로 즐기기 좋다. 필자는 빵을 깊게 볼 줄은 모르지만, 크로아상과 계절 에이드를 후식 삼아 기분 좋게 먹고 나왔다. 마당과 계단이 있는 건물 자체가 은근히 멋스럽다.
 tags: [서울, 마포, 도화동, 마포역, 프릳츠, 프릳츠커피, 카페, 디저트, 베이커리, 크로아상, 드립커피, 에이드, 양옥, 마포카페, 서울카페]
 map: https://www.google.com/maps/search/?api=1&query=%ed%94%84%eb%a6%b3%ec%b8%a0+%eb%8f%84%ed%99%94%ec%a0%90

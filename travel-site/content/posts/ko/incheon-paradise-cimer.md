@@ -7,6 +7,7 @@ date: 2026-08-31
 emoji: ♨️
 thumb: assets/img/incheon-paradise-cimer.jpg
 famous: true
+pick: true
 excerpt: 영종도 파라다이스시티 안에 있는 스파·사우나. 인천공항이 바로 옆이라 외국인 관광객도 눈에 띈다. 수도권에 이만한 시설을 갖춘 스파가 있었나 싶다. 사우나만 4시간, 사우나+스파는 6시간. 사람이 많은 편이라 '푹 쉰다'기보다, 공항 근처에서 시간을 보내거나 최신식 사우나를 경험하고 싶을 때.
 tags: [인천, 영종도, 파라다이스시티, 씨메르, 스파, 사우나, 찜질, 수영장, 인천공항, 공항근처]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c%eb%9d%bc%eb%8b%a4%ec%9d%b4%ec%8a%a4%ec%8b%9c%ed%8b%b0+%ec%94%a8%eb%a9%94%eb%a5%b4

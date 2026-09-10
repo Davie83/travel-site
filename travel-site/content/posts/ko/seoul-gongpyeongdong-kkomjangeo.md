@@ -7,6 +7,7 @@ date: 2026-08-23
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
 famous: true
+pick: true
 excerpt: 소주 생각날 때 떠오르는 안주입니다. 냄새는 없고, 낯선 건 탱글탱글한 식감입니다. 저는 소금구이를 좋아하고 양념구이도 평이 좋습니다. 종각역 도보 2분, 자정까지 합니다.
 tags: [서울, 종로, 공평동, 종각, 꼼장어, 소금구이, 양념구이, 술집, 심야]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90

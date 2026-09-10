@@ -815,7 +815,7 @@ function pickCardHTML(post, base, code, t) {
 function pickShelfHTML(posts, base, code, t) {
   const picked = posts.filter(p => String(p.meta.pick) === 'true');
   const list = (picked.length ? picked
-    : posts.filter(p => String(p.meta.famous) === 'true')).slice(0, 10);
+    : posts.filter(p => String(p.meta.famous) === 'true').slice(0, 8));
   if (list.length < 3) return '';
   return `    <section class="section pick-shelf">
       <div class="section-head"><h2>${escapeHtml(t.pickShelfTitle)}</h2>` +

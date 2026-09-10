@@ -7,6 +7,7 @@ date: 2026-08-23
 emoji: 🐟
 thumb: assets/img/seoul-hongbak-agujjim.jpg
 famous: true
+pick: true
 excerpt: 아귀 수육이라고 하면 이 집이 떠오릅니다. 싱싱한 아귀를 정말 잘 삶고, 아귀간의 풍미가 일품입니다. 매콤한 찜을 먹겠다고 다짐하고 가도 결국 수육을 시킵니다.
 tags: [서울, 마포, 공덕, 아귀, 아구찜, 아구수육, 아귀간, 해산물, 지하]
 map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84%EA%B5%AC%EC%B0%9C+%EA%B3%B5%EB%8D%95

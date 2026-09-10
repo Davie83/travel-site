@@ -12,6 +12,7 @@ map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 lat: 37.5656992
 lng: 126.9839630
 addr: 서울 중구 명동9길 43
+subway: 2 을지로입구 3
 closed: none
 spicy: 3
 order: 뼈숯불구이 주세요

@@ -12,6 +12,7 @@ excerpt: 필자가 오래 다닌 마포·공덕 인근 설렁탕집. 예전엔 �
 tags: [서울, 마포, 공덕, 마포양지설렁탕, 설렁탕, 도가니탕, 도가니, 파김치, 국밥, 마포맛집, 서울맛집, 공덕맛집]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a7%88%ed%8f%ac%ec%96%91%ec%a7%80%ec%84%a4%eb%a0%81%ed%83%95+%ea%b3%b5%eb%8d%95
 addr: 서울 마포구 새창로 6
+subway: 5,6 공덕 5
 spicy: 0
 order: 도가니탕 하나 주세요
 orderRoman: Doganitang hana juseyo

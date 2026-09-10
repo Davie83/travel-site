@@ -10,6 +10,7 @@ excerpt: 남대문 갈치조림 골목에 있는 식당. 골목에 가게가 워
 tags: [서울, 중구, 남대문, 남대문시장, 갈치조림골목, 호남식당, 갈치조림, 갈치, 해산물, 계란찜, 막걸리]
 map: https://www.google.com/maps/search/?api=1&query=%ed%98%b8%eb%82%a8%ec%8b%9d%eb%8b%b9+%eb%82%a8%eb%8c%80%eb%ac%b8+%ea%b0%88%ec%b9%98%ec%a1%b0%eb%a6%bc%ea%b3%a8%eb%aa%a9
 addr: 서울 중구 남대문시장길 18-6
+subway: 4 회현 5
 spicy: 3
 order: 갈치조림 주세요
 orderRoman: Galchi-jorim juseyo

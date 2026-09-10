@@ -12,6 +12,7 @@ excerpt: 마포역 인근, 오래된 양옥을 개조한 프릳츠 커피의 도
 tags: [서울, 마포, 도화동, 마포역, 프릳츠, 프릳츠커피, 카페, 디저트, 베이커리, 크로아상, 드립커피, 에이드, 양옥, 마포카페, 서울카페]
 map: https://www.google.com/maps/search/?api=1&query=%ed%94%84%eb%a6%b3%ec%b8%a0+%eb%8f%84%ed%99%94%ec%a0%90
 addr: 서울특별시 마포구 새창로2길 17
+subway: 5 마포 5
 spicy: 0
 order: 계절 에이드랑 크로아상 주세요
 orderRoman: Gyejeol eideu-rang keurowasang juseyo

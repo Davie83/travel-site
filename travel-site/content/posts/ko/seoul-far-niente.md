@@ -10,6 +10,7 @@ excerpt: 신사동에 있는 양식집. 몇 년 만에 다시 갔다. 크림 뇨
 tags: [서울, 강남, 신사동, 신사, 파니엔테, 양식, 파스타, 뇨끼, 그라탕, 디저트]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%94%ed%85%8c+%ec%8b%a0%ec%82%ac%eb%8f%99
 addr: 서울 강남구 도산대로11길 21
+subway: 3 신사 8
 spicy: 0
 order: 크림 뇨끼 그라탕 하나 주세요
 orderRoman: Keurim nyokki geuratang hana juseyo

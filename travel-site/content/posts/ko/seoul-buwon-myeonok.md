@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4
 lat: 37.5584249
 lng: 126.9775873
 addr: 서울 중구 남대문시장4길 41-6
+subway: 4 회현 3
 closed: sun
 spicy: 0
 order: 평양냉면 주세요

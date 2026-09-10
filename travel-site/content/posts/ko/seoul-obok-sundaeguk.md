@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C
 lat: 37.5156891
 lng: 126.8915259
 addr: 서울 영등포구 도림로 465
+subway: 2 문래 6
 closed: sun
 spicy: 0
 order: 정식 순대국 주세요

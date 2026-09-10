@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EA%B0%93%EC%9E%87+%EB%AC%B
 lat: 37.5130659
 lng: 126.892914
 addr: 서울 영등포구 경인로77길 14 영문빌딩 108호
+subway: 2 문래 5
 closed: none
 spicy: 1
 order: 파히타 타코 세트 주세요

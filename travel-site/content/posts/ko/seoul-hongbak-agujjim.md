@@ -14,6 +14,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84
 lat: 37.5468483
 lng: 126.9519734
 addr: 서울 마포구 마포대로7길 11
+subway: 5,6 공덕 5
 closed: sun
 spicy: 3
 order: 아구수육 주세요

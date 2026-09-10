@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%A7%88%ED%8F%AC%EC%86%8C
 lat: 37.5491064
 lng: 126.9122242
 addr: 서울특별시 마포구 양화로 27
+subway: 2,6 합정 3
 closed: sun
 spicy: 0
 order: 껍데기하고 소금구이 주세요

@@ -12,6 +12,7 @@ excerpt: 을지로 노가리골목에서 술 한잔 하고 2차로 찾은 갈비
 tags: [서울, 을지로, 을지로3가, 중구, 시골집, 갈비, LA갈비, 소갈비, 계란말이, 노포, 을지로맛집, 서울맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%8b%9c%ea%b3%a8%ec%a7%91+%ec%9d%84%ec%a7%80%eb%a1%9c+%ea%b0%88%eb%b9%84%ea%b3%a8%eb%aa%a9
 addr: 서울 중구 을지로20길 36
+subway: 2,3 을지로3가 5
 spicy: 0
 order: LA갈비 2인분 주세요
 orderRoman: LA galbi i-inbun juseyo

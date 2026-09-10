@@ -11,6 +11,7 @@ excerpt: 을지로에 오래 자리 잡은 순대국 노포. 순대국 한 그�
 tags: [서울, 을지로, 을지로3가, 종로, 중구, 산수갑산, 순대국, 순댓국, 모둠수육, 수육, 편육, 순대, 노포, 을지로맛집, 서울맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%82%b0%ec%88%98%ea%b0%91%ec%82%b0+%ec%9d%84%ec%a7%80%eb%a1%9c+%ec%88%9c%eb%8c%80%ea%b5%ad
 addr: 서울 중구 을지로20길 24
+subway: 2,3 을지로3가 5
 order: 순대국 하나랑 모둠 수육 주세요
 orderRoman: Sundaeguk hana-rang modum suyuk juseyo
 closed: unknown

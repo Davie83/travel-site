@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%AA%A9%EB%A9%B1%EC%82%B0
 lat: 37.5581153
 lng: 126.9869015
 addr: 서울 중구 퇴계로20길 71
+subway: 4 명동 8
 closed: unknown
 spicy: 1
 order: 산방비빔밥 주세요

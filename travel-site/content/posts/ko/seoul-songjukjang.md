@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5
 lat: 37.5182009
 lng: 126.9047157
 addr: 서울 영등포구 문래로 203
+subway: 1 영등포 6
 closed: none
 spicy: 4
 order: 짬뽕 주세요

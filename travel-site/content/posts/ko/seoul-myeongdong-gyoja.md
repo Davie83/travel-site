@@ -12,6 +12,7 @@ excerpt: 대부분이 아는 명동의 유명한 칼국수집. 가성비도 좋�
 tags: [서울, 중구, 명동, 명동교자, 칼국수, 만두, 만두국, 국수, 마늘김치, 명동맛집]
 map: https://www.google.com/maps/search/?api=1&query=%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90+%eb%b3%b8%ec%a0%90+%eb%aa%85%eb%8f%99
 addr: 서울 중구 명동10길 29
+subway: 4 명동 3
 spicy: 1
 order: 칼국수 하나 주세요
 orderRoman: Kalguksu hana juseyo

@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%98%B9%EB%82%A8
 lat: 37.5350219
 lng: 126.9038128
 addr: 서울 영등포구 당산로48길 15
+subway: 2,9 당산 5
 closed: none
 spicy: 0
 order: 쌀국수 주세요

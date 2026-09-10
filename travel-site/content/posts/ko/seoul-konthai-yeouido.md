@@ -11,6 +11,7 @@ excerpt: 연남동 본점으로 알려진 태국집 콘타이의 여의도점. �
 tags: [서울, 여의도, 영등포, IFC몰, 콘타이, 태국음식, 똠얌, 똠얌쌀국수, 쌀국수, 해산물, 해물, 고수, 여의도맛집, 서울맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%bd%98%ed%83%80%ec%9d%b4+%ec%97%ac%ec%9d%98%eb%8f%84+IFC
 addr: 서울 영등포구 국제금융로 10 (IFC몰)
+subway: 5,9 여의도 3
 spicy: 2
 order: 해물 똠얌 쌀국수 주세요
 orderRoman: Haemul ttomyam ssalguksu juseyo

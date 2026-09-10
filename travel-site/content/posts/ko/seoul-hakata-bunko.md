@@ -14,6 +14,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80
 lat: 37.5489264
 lng: 126.9237570
 addr: 서울 마포구 독막로19길 43
+subway: 6 상수 5
 closed: none
 spicy: 0
 order: 인라멘 주세요

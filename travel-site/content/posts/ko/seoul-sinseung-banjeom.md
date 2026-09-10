@@ -10,6 +10,7 @@ excerpt: 여의도에 있는 중식당. 넓은 편인데 저녁에도 사람이 
 tags: [서울, 여의도, 신승반점, 짬뽕, 중식, 깐풍, 표고버섯, 깐풍표고버섯, 해물짬뽕, 여의도중식, 여의도맛집, 서울맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%8b%a0%ec%8a%b9%eb%b0%98%ec%a0%90+%ec%97%ac%ec%9d%98%eb%8f%84
 addr: 서울 영등포구 국제금융로2길 32 3층
+subway: 5,9 여의도 6
 spicy: 4
 order: 짬뽕이랑 깐풍표고버섯볶음 주세요
 orderRoman: Jjamppong-irang kkanpung-pyogo-beoseot-bokkeum juseyo

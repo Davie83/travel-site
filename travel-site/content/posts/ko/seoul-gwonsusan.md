@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0
 lat: 37.5199763
 lng: 126.9307110
 addr: 서울 영등포구 의사당대로1길 34
+subway: 9 국회의사당 5
 closed: sat,sun
 spicy: 1
 order: 회덮밥 주세요

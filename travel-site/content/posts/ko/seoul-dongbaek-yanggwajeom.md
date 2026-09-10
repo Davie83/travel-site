@@ -14,6 +14,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91
 lat: 37.5734039
 lng: 126.9896005
 addr: 서울 종로구 수표로28길 17-24
+subway: 1,3,5 종로3가 3
 closed: none
 spicy: 0
 order: 수플레 주세요

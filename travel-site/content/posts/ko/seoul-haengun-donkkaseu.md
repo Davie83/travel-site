@@ -10,6 +10,7 @@ excerpt: 지인의 한양대 장례식장에 다녀오고 들렀다. 왕십리·
 tags: [서울, 성동, 왕십리, 행당동, 한양대, 돈까스, 왕돈까스, 옛날돈까스, 경양식, 김치볶음밥]
 map: https://www.google.com/maps/search/?api=1&query=%ed%96%89%ec%9a%b4%eb%8f%88%ea%b9%8c%ec%8a%a4+%ec%84%b1%eb%8f%99%ea%b5%ac+%ed%96%89%eb%8b%b9%eb%8f%99
 addr: 서울 성동구 마조로1길 2
+subway: 2,5 왕십리 8
 spicy: 1
 order: 김치볶음밥 세트 하나 주세요
 orderRoman: Kimchi-bokkeumbap set hana juseyo

@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4
 lat: 37.5664812
 lng: 126.9662905
 addr: 서울 종로구 통일로 134
+subway: 5 서대문 5
 closed: none
 spicy: 0
 order: 드립커피 주세요

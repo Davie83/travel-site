@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%95%A4%EA%B9%80
 lat: 37.5526745
 lng: 126.9187278
 addr: 서울 마포구 서교동 372-1
+subway: 2 홍대입구 5
 closed: unknown
 spicy: 0
 order: 대게 코스 주세요

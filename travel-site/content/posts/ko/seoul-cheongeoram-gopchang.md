@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%B2%AD%EC%96%B4%EB%9E%8C
 lat: 37.5581268
 lng: 126.9075123
 addr: 서울특별시 마포구 망원로 97
+subway: 6 망원 6
 closed: sun
 spicy: 3
 order: 곱창전골 주세요

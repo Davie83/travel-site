@@ -10,6 +10,7 @@ excerpt: 이태원과 한남동 사이에 있는 한우집. "한우가 무엇인
 tags: [서울, 이태원, 한남, 한남동, 소와나, 한우, 한우오마카세, 부위별, 고기집, 숯불, 코스, 이태원맛집, 서울맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8c%ec%99%80%eb%82%98+%ed%95%9c%eb%82%a8
 addr: 서울 용산구 이태원로54길 68
+subway: 6 한강진 8
 spicy: 0
 order: 한우 세트 하나 주세요
 orderRoman: Hanu set hana juseyo

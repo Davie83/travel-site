@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%eb%a8%b8%ed%81%90%ec%96%b4
 lat: 37.5666
 lng: 126.8297
 addr: 서울 강서구 마곡중앙로 62
+subway: 9,공항 마곡나루 5
 closed: none
 spicy: 0
 order: 무제한 와인뷔페 예약했습니다

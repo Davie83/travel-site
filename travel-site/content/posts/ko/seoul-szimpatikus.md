@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%8B%AC%ED%8D%BC%ED%8B%B0
 lat: 37.5578577
 lng: 126.9740241
 addr: 서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호
+subway: 1,4 서울 2
 spicy: 0
 order: 차돌 고사리 파스타 주세요
 orderRoman: Chadol gosari pasta juseyo

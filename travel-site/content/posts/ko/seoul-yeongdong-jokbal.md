@@ -11,6 +11,7 @@ excerpt: 양재에 있는 족발집. 지금까지 강남권에서 먹어본 족�
 tags: [서울, 서초, 양재, 강남, 영동족발, 족발, 쌈, 강남족발]
 map: https://www.google.com/maps/search/?api=1&query=%ec%98%81%eb%8f%99%ec%a1%b1%eb%b0%9c+%ec%84%9c%ec%b4%88%ea%b5%ac+%ec%96%91%ec%9e%ac%eb%8f%99
 addr: 서울 서초구 남부순환로358길 8
+subway: 3,신분당 양재 8
 spicy: 0
 order: 족발 하나 주세요
 orderRoman: Jokbal hana juseyo

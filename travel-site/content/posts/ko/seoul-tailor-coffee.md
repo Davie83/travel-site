@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ED%85%8C%EC%9D%BC%EB%9F%AC
 lat: 37.5624128
 lng: 126.9811725
 addr: 서울특별시 중구 남대문로 55
+subway: 2 을지로입구 5
 closed: unknown
 spicy: 0
 order: 아메리카노 주세요

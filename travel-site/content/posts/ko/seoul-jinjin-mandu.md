@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A7%84%EB%A7%8C
 lat: 37.5201519
 lng: 126.9272177
 addr: 서울 영등포구 여의동 36-4
+subway: 5,9 여의도 6
 closed: sat,sun
 spicy: 2
 order: 얼큰만두국 주세요

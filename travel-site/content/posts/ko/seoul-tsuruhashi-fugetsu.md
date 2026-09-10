@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%AF%94%EB%A3%A8%ED%95%98
 lat: 37.5628016
 lng: 126.9850163
 addr: 서울특별시 중구 명동8길 21-5
+subway: 4 명동 4
 closed: none
 spicy: 0
 order: 오코노미야끼 주세요

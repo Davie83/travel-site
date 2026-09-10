@@ -14,6 +14,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%ED%83%84+%EC%97%A
 lat: 37.5213125
 lng: 126.9231012
 addr: 서울 영등포구 의사당대로 96
+subway: 5,9 여의도 5
 closed: none
 spicy: 0
 order: 트러플 자장면 주세요

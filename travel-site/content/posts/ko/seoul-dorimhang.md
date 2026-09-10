@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD
 lat: 37.5194526
 lng: 126.905292
 addr: 서울특별시 영등포구 영중로 36
+subway: 5 영등포시장 5
 closed: sun
 spicy: 0
 order: 오늘의 숙성회 주세요

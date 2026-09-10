@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%83%84%EC%B8%84
 lat: 37.5563576
 lng: 126.9267339
 addr: 서울특별시 마포구 와우산로35길 75
+subway: 2 홍대입구 8
 closed: unknown
 spicy: 0
 order: 토코 톤코츠 주세요

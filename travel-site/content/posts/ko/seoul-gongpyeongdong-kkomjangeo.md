@@ -14,6 +14,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99
 lat: 37.5687784
 lng: 126.9867374
 addr: 서울 종로구 삼일대로15길 13
+subway: 1 종각 4
 closed: none
 spicy: 0
 order: 꼼장어 소금구이 주세요

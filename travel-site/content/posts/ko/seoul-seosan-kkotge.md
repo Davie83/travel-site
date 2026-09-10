@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%82%B0%EA%BD%83
 lat: 37.5398600
 lng: 126.9479320
 addr: 서울 마포구 도화길 12-3
+subway: 5 마포 6
 closed: none
 spicy: 0
 order: 간장게장 정식 주세요

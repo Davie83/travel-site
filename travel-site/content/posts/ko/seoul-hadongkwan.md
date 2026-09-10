@@ -14,6 +14,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%8F%99%EA%B4%80
 lat: 37.5274761
 lng: 126.9196491
 addr: 서울 영등포구 은행로 3
+subway: 9 국회의사당 3
 closed: sun
 spicy: 0
 order: 곰탕 주세요

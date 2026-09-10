@@ -11,6 +11,7 @@ excerpt: 가끔 몸보신하러 가는 서대문의 닭곰탕집. 서울시가 �
 tags: [서울, 서대문, 광화문, 평양옥, 닭곰탕, 곰탕, 능이, 감자전, 백년가게, 몸보신]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8f%89%ec%96%91%ec%98%a5+%ec%84%9c%eb%8c%80%eb%ac%b8
 addr: 서울 서대문구 통일로 107-23
+subway: 5 서대문 6
 spicy: 0
 order: 닭곰탕 하나 주세요
 orderRoman: Dak-gomtang hana juseyo

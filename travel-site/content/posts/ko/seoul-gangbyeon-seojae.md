@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%B3%80%EC%84%9C
 lat: 37.5329267
 lng: 126.9165053
 addr: 서울 영등포구 의사당대로 1
+subway: 9 국회의사당 8
 closed: sun
 season: 4
 seasonMode: best

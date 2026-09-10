@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91
 lat: 37.5207229
 lng: 126.9270353
 addr: 서울 영등포구 국제금융로6길 33
+subway: 5,9 여의도 5
 closed: sun
 season: 6,7,8
 seasonMode: best

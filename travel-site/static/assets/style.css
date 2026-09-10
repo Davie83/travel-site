@@ -625,6 +625,14 @@ a.more{color:var(--ink);font-weight:600;}
 .post-pill .n{font-family:var(--en);}
 a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 
+/* 대표 사진 — 왼쪽 열(짧은 리드/바이라인) 아래 여백을 채워 오른쪽 카드와 높이를 맞춥니다. */
+.post-hero{
+  margin:24px 0 0;border-radius:14px;overflow:hidden;
+  background:color-mix(in srgb,var(--r) 12%,var(--surface));
+}
+.post-hero img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;}
+@media (max-width:860px){ .post-hero{margin-top:20px;} }
+
 /* 오른쪽 카드 */
 .post-aside-col{min-width:0;}
 .post-aside{

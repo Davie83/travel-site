@@ -1706,6 +1706,15 @@ function pillsHTML(m, t) {
   }
   return `    <div class="post-pills">${pills.join('')}</div>`;
 }
+/** 헤더 왼쪽 열의 대표 사진 — 짧은 리드/바이라인 아래 여백을 채워, 오른쪽
+    "한눈에 보기" 카드와 세로 길이를 맞춥니다. LCP 요소라 eager 로 받습니다. */
+function postHeroHTML(m, base) {
+  if (!m.thumb) return '';
+  const sz = jpegSize(String(m.thumb).replace(/^\//, ''));
+  const dim = sz ? ` width="${sz.w}" height="${sz.h}"` : '';
+  return `    <figure class="post-hero"><img src="${base}${escapeHtml(m.thumb)}${imgVer(m.thumb)}"` +
+    ` alt="${escapeHtml(m.title)}"${dim} fetchpriority="high" decoding="async"></figure>`;
+}
 
 /** 리액션 — 언어와 무관하게 글 슬러그 단위로 집계됩니다 */
 /** 저장(즐겨찾기) 버튼.
@@ -2320,6 +2329,7 @@ function build() {
           title: titleHTML(m.title),
           lead: leadHTML,
           pills: pillsHTML(m, t),
+          hero: postHeroHTML(m, base),
           aside: asideHTML,
           content: markdown(restMd),
           adTop: adSlotHTML('post-top'), adBottom: adSlotHTML('post-bottom'),

@@ -14,7 +14,6 @@ info:
   - Address|43 Myeongdong 9-gil, Jung-gu, Seoul (서울 중구 명동9길 43)
   - Phone|02-318-4222
   - Hours|**Open 24 hours** · No regular closing day
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Good for|**Small size feeds 2 adults**
   - Spice level|Mild-to-medium — about like gamjatang
   - Takeout|Yes

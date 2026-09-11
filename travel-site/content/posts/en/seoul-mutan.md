@@ -14,7 +14,6 @@ info:
   - Location|2F, TP Tower, 96 Uisadang-daero, Yeongdeungpo-gu, Seoul (서울 영등포구 의사당대로 96)
   - Phone|02-6264-7775
   - Hours|**11:00 AM – 10:00 PM** · (no closing-day info)
-  - Budget|**₩20,000–50,000 per person** (changes often — please verify)
   - Google rating|4.9 (**2,993 reviews**)
   - Booking|**Effectively required** for dinner
   - Nearest station|**Yeouido** — connected directly to the station

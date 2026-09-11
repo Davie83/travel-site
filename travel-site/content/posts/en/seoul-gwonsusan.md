@@ -14,7 +14,6 @@ info:
   - Location|34 Uisadang-daero 1-gil, Yeongdeungpo-gu, Seoul — **basement level 1, Inyoung Building** (서울 영등포구 의사당대로1길 34)
   - Phone|02-780-3984
   - Opens|**11:00 AM** · Closed **Saturday and Sunday**
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Booking|**Reservable via CatchTable** (has an English interface)
   - Set lunch course|**Teuk-hoe-jeongsik** (특회정식), on the lunch menu
   - Google rating|4.2 (**364 reviews**)

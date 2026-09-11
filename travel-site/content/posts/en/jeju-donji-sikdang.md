@@ -14,7 +14,6 @@ info:
   - Location|60 Hamohanggu-ro, Daejeong-eup, Seogwipo, Jeju · near Moseulpo Harbour (제주 서귀포시 대정읍 하모항구로 60)
   - Phone|064-794-8465
   - Closes|**9:00 PM** · (no closing-day info)
-  - Budget|**₩20,000–30,000 per person** (changes often — please verify)
   - Google rating|4.2 (268 reviews)
   - In season|Hanchi squid **summer** · Yellowtail **winter**
 ---

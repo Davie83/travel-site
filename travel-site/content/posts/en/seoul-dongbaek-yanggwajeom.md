@@ -14,7 +14,6 @@ info:
   - Location|17-24 Supyo-ro 28-gil, Jongno-gu, Seoul — beside Ikseon-dong hanok alleys (서울 종로구 수표로28길 17-24)
   - Phone|02-3144-0429
   - Hours|**9:00 AM ~ 10:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|3.9 (852 reviews)
   - Wait|(changes often — please verify) — one of the most-mentioned things in reviews
 ---

@@ -14,7 +14,6 @@ info:
   - Location|43 Dongmak-ro 19-gil, Mapo-gu, Seoul (서울 마포구 독막로19길 43)
   - Phone|02-338-5536
   - Hours|**11:30 AM to 3:00 AM** · (no closing-day info)
-  - Budget|**KRW 10,000-20,000 per person** (changes often — please verify)
   - Google rating|4.1 (**1,381 reviews**)
   - What to order|**Inramen** · Cheongramen · chashu rice bowl
   - Nearest station|**Sangsu Stn.** (Line 6) · walkable from Hongik Univ. Stn.

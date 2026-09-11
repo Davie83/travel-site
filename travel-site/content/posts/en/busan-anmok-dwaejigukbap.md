@@ -14,7 +14,6 @@ info:
   - Location|3 Gwangnam-ro 22beon-gil, Suyeong-gu, Busan (Namcheon-dong) (부산 수영구 광남로22번길 3)
   - Phone|0507-1461-0523
   - Hours|**11:00 AM to 9:00 PM daily** (last order 8:30 PM) · **open every day**
-  - Budget|**around KRW 10,000** (changes often — please verify)
   - What to order|**Dwaeji gukbap** about 10,000 · **suyuk** (sliced boiled pork) · a **solo set** with both
   - Google rating|4.5 (**218 reviews**) · the Seomyeon branch is 4.9 with 805
   - Michelin|**Bib Gourmand** — listed in the MICHELIN Guide Korea 2026, second year running

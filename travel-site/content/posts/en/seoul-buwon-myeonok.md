@@ -14,7 +14,6 @@ info:
   - Location|41-6 Namdaemunsijang 4-gil, Jung-gu, Seoul — **2nd floor** (서울 중구 남대문시장4길 41-6)
   - Phone|02-753-7728
   - Closes|**8:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Opening time / closed days|(changes often — please verify)
   - Google rating|4.0 (**1,009 reviews**)
   - Nearest station|**Hoehyeon** (Line 4) — inside Namdaemun Market

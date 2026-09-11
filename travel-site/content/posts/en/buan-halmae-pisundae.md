@@ -14,7 +14,6 @@ info:
   - Location|2524 Buan-ro, Haengan-myeon, Buan-gun, Jeonbuk (전북 부안군 행안면 부안로 2524)
   - Phone|063-584-4371
   - Opens|**7:00 AM** · (no closing-day info)
-  - Budget|**Under ₩10,000 per person** (changes often — please verify)
   - Google rating|4.1 (737 reviews)
   - Takeaway|Yes
 ---

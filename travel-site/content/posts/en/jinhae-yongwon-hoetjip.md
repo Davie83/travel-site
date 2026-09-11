@@ -21,7 +21,6 @@ info:
   - What to order|**Fresh cod soup** · the **cod course** (sashimi, pancake, soup) · wild-caught sashimi
   - Season|**Fresh cod is a winter fish.** Reviews mention cold raw fish soup in summer and flounder-mugwort soup in spring
   - Spice|**Not spicy at all** (a clear, unseasoned broth)
-  - Budget|**20,000~30,000 KRW per person** (Google Maps, from 21 users — changes often, please verify)
   - Note|**Several reviews call it expensive.** Fresh cod is an expensive fish to begin with
   - Service|**Dine in, takeaway and delivery** all available
   - Location|The **Yongwon fish market** area, right on the border with Busan Gangseo-gu

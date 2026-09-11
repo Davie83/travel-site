@@ -15,7 +15,6 @@ info:
   - Phone|02-6788-3331
   - Hours|**Weekdays 8:30 AM to 7:00 PM** · Sat 11:00 AM to 7:00 PM · closed **every Sunday**
   - Watch out|**The bread usually sells out after lunchtime**, according to many reviews
-  - Budget|**Cafe prices** (changes often — please verify)
   - Best timing|For a window seat, aim for **around 10:00 AM**. At weekends, go at opening
   - What to see|Floor-to-ceiling river view · **rooftop terrace** · the Assembly building itself
   - Nearest station|**National Assembly Stn.** (Line 9) · walkable from Yeouido Stn. (Lines 5 and 9)

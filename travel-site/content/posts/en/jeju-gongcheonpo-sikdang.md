@@ -15,7 +15,6 @@ info:
   - Phone|064-767-2425
   - Hours|**10:00 AM to 3:30 PM** (last order 3:00 PM) · closed **every Thursday**
   - Watch out|**Lunch only.** They close earlier once they run out
-  - Budget|**KRW 13,000-16,000 per person** (changes often — please verify)
   - What to order|**Abalone porridge** 13,000 · **Squid mulhoe** 13,000-16,000 (fresh/frozen) · abalone mulhoe 16,000
   - Also on the menu|Braised or boiled hairtail · braised mackerel
   - Parking|**Gongcheonpo harbour car park**

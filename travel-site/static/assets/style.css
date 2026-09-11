@@ -636,6 +636,11 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
   background:color-mix(in srgb,var(--r) 12%,var(--surface));
 }
 .post-hero img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;}
+/* 세로 사진(보통 세로 3:4 비율) — 3:2 로 꽉 채우면 위아래를 절반이나 잘라냅니다.
+   5:4 로 완화하면 잘리는 양이 줄고(위아래 40%→더 보임), 가로 사진 높이와도 크게
+   벌어지지 않습니다. 회전은 하지 않습니다 — 테이블이 비스듬히 보이는 구도는
+   90도 돌리면 기울어 보여서(사진마다 확인 없이는 위험) 자르는 쪽을 택했습니다. */
+.post-hero.is-portrait img{aspect-ratio:5/4;}
 @media (max-width:860px){ .post-hero{margin-top:20px;} }
 
 /* 오른쪽 카드 */

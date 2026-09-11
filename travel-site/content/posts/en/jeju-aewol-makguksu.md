@@ -19,7 +19,6 @@ info:
   - Hours|**Closes 8:00 PM** (per Google Maps) · **(no closing-day information available)**
   - Phone|**No number registered on Google Maps**
   - Signature|**Perilla oil makguksu 10,000 KRW** (prices change often — please verify) · cold-broth makguksu · suyuk
-  - Budget|**About 10,000 KRW for one bowl**; adding suyuk raises it (prices change often — please verify)
   - Best order|For two people: **perilla oil makguksu + cold-broth makguksu + suyuk**
   - Spice level|**Not spicy at all** (both noodle dishes)
   - Location|**Directly on the Aewol coastal road**, next to the Aewol cafe strip

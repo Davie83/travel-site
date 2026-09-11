@@ -14,7 +14,6 @@ info:
   - Location|15 Dangsan-ro 48-gil, Yeongdeungpo-gu, Seoul (서울 영등포구 당산로48길 15)
   - Phone|02-2636-7717
   - Hours|**11:00 AM ~ 10:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|4.3 (**50 reviews**)
   - Nearest station|**Dangsan** (Lines 2 and 9), next to Han River Park
 ---

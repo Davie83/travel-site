@@ -14,7 +14,6 @@ info:
   - Location|6-1 Geumseonggwan-gil, Naju, Jeonnam-Gwangju (전남광주 나주시 금성관길 6-1)
   - Phone|061-333-4292
   - Hours|**8:00 AM ~ 8:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|4.2 (**5,790 reviews**)
   - Queue|(changes often — please verify) — bookable via the CatchTable app
 ---

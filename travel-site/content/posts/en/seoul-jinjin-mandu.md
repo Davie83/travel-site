@@ -15,7 +15,6 @@ info:
   - National Assembly branch|11 Gukhoe-daero 72-gil, **Princetel** · 02-761-5454
   - Main branch hours|**Opens 11:00 AM** · Closed **Saturday and Sunday**
   - Assembly branch hours|**Closes 9:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify) — the eobok-jeongban is separate
   - Google rating|Main 4.3 (431 reviews) · Assembly 4.3 (373 reviews)
   - Nearest station|**Yeouido** (Lines 5, 9) · National Assembly (Line 9)
 ---

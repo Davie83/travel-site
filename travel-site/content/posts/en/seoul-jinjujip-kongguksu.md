@@ -14,7 +14,6 @@ info:
   - Location|33 Gukjegeumyung-ro 6-gil, Yeongdeungpo-gu · **basement level 1** of the Yeouido Department Store building (서울 영등포구 국제금융로6길 33)
   - Hours|**Mon-Fri 10:00 AM to 8:00 PM** · closed **every Sunday**
   - Watch out|**Saturday closes at 7:00 PM**
-  - Budget|**KRW 15,000** (changes often — please verify)
   - What to order|**Kongguksu** 15,000 · bibim guksu (spicy cold noodles) 12,000 · plate dumplings 12,000
   - Google rating|4.2 (**3,772 reviews**)
   - Nearest station|**Yeouido Stn.** (Lines 5 and 9)

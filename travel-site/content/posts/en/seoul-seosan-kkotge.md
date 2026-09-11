@@ -14,7 +14,6 @@ info:
   - Location|12-3 Dohwa-gil, Mapo-gu, Seoul (서울 마포구 도화길 12-3)
   - Phone|02-719-9693
   - Opens|**5:30 PM** · (no closing-day info)
-  - Budget|**₩40,000–50,000 per person** (changes often — please verify)
   - Booking|**Effectively required** — booking button on Google Maps (AutoReserve)
   - Google rating|4.3 (**609 reviews**)
   - Nearest station|**Gongdeok** (Lines 5, 6, Gyeongui-Jungang, Airport Railroad) / **Mapo** (Line 5)

@@ -14,7 +14,6 @@ info:
   - Location|210 Chungnyeol-daero, Dongnae-gu, Busan (부산 동래구 충렬대로 210)
   - Phone|051-553-7700
   - Hours|**8:00 AM ~ 10:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|3.9
   - What I had|Bokguk, raw pufferfish salad, fried pufferfish
 ---

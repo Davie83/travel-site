@@ -14,7 +14,6 @@ info:
   - Location|203 Mullae-ro, Yeongdeungpo-gu, Seoul (서울 영등포구 문래로 203)
   - Phone|02-2631-9184
   - Closes|**9:30 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Opening time / closed days|(changes often — please verify)
   - Price of jjamppong & dumplings|(changes often — please verify)
   - Rice dishes|**₩10,500–18,000** (read off the menu card)

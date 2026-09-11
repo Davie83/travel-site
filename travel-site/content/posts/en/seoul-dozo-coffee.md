@@ -14,7 +14,6 @@ info:
   - Location|134 Tongil-ro, Jongno-gu, Seoul (서울 종로구 통일로 134)
   - Phone|02-6390-5757
   - Hours|**10:00 AM – 6:00 PM** (Saturday) · (no closing-day info)
-  - Budget|**From ₩5,000** (changes often — please verify)
   - Google rating|4.7 (**only 3 reviews** — a very small sample)
   - Nearest station|**Seodaemun** (Line 5), near Donuimun Museum Village
 ---

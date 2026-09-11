@@ -24,7 +24,6 @@ info:
   - Spice|**Sashimi is not spicy at all**
   - Booking|**CatchTable** · on site, remote queueing via **Tabling**
   - Queue|**Full soon after opening in the evening.** One review logs being 17th in line and waiting 90 minutes
-  - Budget|**20,000~70,000 KRW per person** (Google Maps, from 22 users — changes often, please verify)
   - Nearest station|**Yeongdeungpo Market Station**; walkable from Yeongdeungpo Station
   - Rating|**4.9** on Google Maps (28 reviews)
 ---

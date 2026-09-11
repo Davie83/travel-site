@@ -14,7 +14,6 @@ info:
   - Location|440-15 Oncheon 1-dong, Dongnae-gu, Busan (부산 동래구 온천제1동 440-15)
   - Phone|051-554-5050
   - Closes|**Midnight** · (no closing-day info)
-  - Budget|**Under ₩10,000 per person** (changes often — please verify)
   - Google rating|4.2 (**211 reviews**)
   - Signature|**Dwaeji-gukbap** (pork soup with rice) · boiled pork · blood sausage
   - Nearest station|**Oncheonjang** (Line 1) · Dongnae (Lines 1, 4)

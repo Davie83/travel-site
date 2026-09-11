@@ -18,7 +18,6 @@ info:
   - Address|55 Namdaemun-ro, Jung-gu, Seoul (남대문로 55) · **1st floor**
   - Hours|**Closes 8:30 PM** (per Google Maps) · **(no closing-day information available)**
   - Phone|**No number registered on Google Maps**
-  - Budget|**Under 10,000 KRW** (Google Maps, from 9 users — changes often, please verify) — though it is **pricier than an average cafe**
   - Spice|**Not applicable** (this is a coffee shop)
   - Service|**Dine in and takeaway** both available
   - Seating|**Few tables.** Reviews suggest booking ahead

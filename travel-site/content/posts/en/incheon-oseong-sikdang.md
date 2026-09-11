@@ -14,7 +14,6 @@ info:
   - Location|**2nd floor, Haeyang Centre**, Yeonan Pier, Jung-gu, Incheon (인천 중구 연안부두)
   - Phone|032-884-1355
   - Closes|**9:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|4.5 (**66 reviews**)
   - Signature|**Fresh raw shad salad** (*bandaengi-hoe-muchim*) · fresh cusk-eel soup
   - Getting there|**No subway** — bus from Incheon Station (Line 1), or taxi

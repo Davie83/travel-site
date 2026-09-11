@@ -15,7 +15,6 @@ info:
   - Phone|02-337-3066
   - Hours|**11:30 AM to 9:30 PM** · closed **every Sunday**
   - Break|**3:00 PM to 5:00 PM** (kitchen closed)
-  - Budget|**KRW 20,000-30,000 per person** (changes often — please verify)
   - What to order|**Agu suyuk** (boiled monkfish) small 60,000 · agujjim (spicy) small 50,000 · **lunch monkfish soup** 18,000
   - Google rating|4.0
   - Nearest station|**Gongdeok Stn.** exit 3, 5 min walk (Lines 5 and 6 · Gyeongui-Jungang · **AREX airport line**)

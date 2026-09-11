@@ -1764,7 +1764,13 @@ function postHeroHTML(m, base) {
   if (!m.thumb) return '';
   const sz = jpegSize(String(m.thumb).replace(/^\//, ''));
   const dim = sz ? ` width="${sz.w}" height="${sz.h}"` : '';
-  return `    <figure class="post-hero"><img src="${base}${escapeHtml(m.thumb)}${imgVer(m.thumb)}"` +
+  // 세로 사진(휴대폰으로 위에서 내려찍은 상차림 등)은 3:2 로 꽉 채우면 위아래를 반 넘게
+  // 잘라 먹습니다 — 5:4 로 덜 자릅니다(세로 사진 기준 보이는 비율 60→75%).
+  // 가로 사진은 그대로 3:2. 회전은 안 합니다 — 각도 있게 찍은 사진(테이블이 비스듬히 보이는 구도)은
+  // 90도 돌리면 기울어 보여서, 사진마다 손으로 확인하지 않는 한 안전하지 않습니다.
+  const portrait = sz && sz.h > sz.w;
+  const cls = portrait ? ' is-portrait' : '';
+  return `    <figure class="post-hero${cls}"><img src="${base}${escapeHtml(m.thumb)}${imgVer(m.thumb)}"` +
     ` alt="${escapeHtml(m.title)}"${dim} fetchpriority="high" decoding="async"></figure>`;
 }
 

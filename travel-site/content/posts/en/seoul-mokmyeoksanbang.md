@@ -14,7 +14,6 @@ info:
   - Location|71 Toegye-ro 20-gil, Jung-gu, Seoul (서울 중구 퇴계로20길 71)
   - Phone|02-318-4790
   - Hours|**11:00 AM to 8:00 PM** (last order 7:20 PM) · (no closing-day info)
-  - Budget|**KRW 9,000-15,000 per person** (changes often — please verify)
   - What to order|**Sanbang bibimbap** 9,000 · bulgogi bibimbap 12,500 · **1++ beef tartare bibimbap** 14,500 · cheese kimchi pancake 13,000
   - Google rating|4.0 (**about 2,200 reviews**)
   - Nearest station|**Myeongdong Stn.** (Line 4), about 430 m from exit 1

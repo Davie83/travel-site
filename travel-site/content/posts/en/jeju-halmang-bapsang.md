@@ -21,7 +21,6 @@ info:
   - Signature|**Halmang Geunal Jeongsik 15,000 KRW** (prices change often — please verify)
   - What arrives|Grilled fish + spicy stir-fried pork + 10 side dishes + **free refills on rice and soup**
   - Important|**One order required per person aged 8 and over.** Two people cannot share a single portion
-  - Budget|**10,000~20,000 KRW per person** (per Google Maps · prices change often — please verify)
   - Extra|Reviews mention an **extra portion of stir-fried pork for 5,000 KRW**
   - Parking|**Large car park**
   - Nearby|Same corner of the island as **Sanbangsan, Songaksan and the Marado ferry** (Unjin Port)

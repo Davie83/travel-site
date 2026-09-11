@@ -14,7 +14,6 @@ info:
   - Location|13 Myeongseong-ro 158beon-gil, Galmal-eup, Cheorwon-gun, Gangwon (강원 철원군 갈말읍 명성로158번길 13)
   - Phone|033-452-2589
   - Hours|**11:00 AM ~ 8:00 PM** · (no closing-day info)
-  - Budget|**₩10,000–20,000 per person** (changes often — please verify)
   - Google rating|3.9 (1,743 reviews)
   - Commonly ordered with|Mung bean pancake, dumplings
 ---

@@ -14,7 +14,6 @@ info:
   - Location|465 Dorim-ro, Yeongdeungpo-gu, Seoul (Mullae-dong) (서울 영등포구 도림로 465)
   - Hours|**Mon-Fri 11:00 AM to 10:00 PM** · closed **every Sunday**
   - Watch out|Weekdays **closed 3:00 to 5:00 PM** · **Saturday closes at 2:00 PM**
-  - Budget|**KRW 10,000-15,000 per person** (changes often — please verify)
   - What to order|**Jeongsik sundaeguk** (set) 15,000 · Abai sundaeguk 14,000 · plain sundaeguk 10,000
   - For a group|**Modeum** platter (pork + sausage + soup) 28,000-35,000 — sources differ, please verify
   - Google rating|4.2 (**501 reviews**)

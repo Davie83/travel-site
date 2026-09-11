@@ -16,7 +16,6 @@ info:
   - Hours|**11:00 – 22:00** · break 14:30–16:30 · last order 21:20 (changes often — confirm)
   - Branches|This is the larger West Yeouido branch · there are said to be branches in East Yeouido and Seolleung (Gangnam) too
   - Spice|**Mild** — add the pickled chilli to taste
-  - Budget|About the price of a lunch (changes often — confirm)
 ---
 
 A pho place I go to now and then for **lunch** in West Yeouido. There used to be two branches on this side of Yeouido; only this bigger one is left.

@@ -14,7 +14,6 @@ info:
   - Location|67-36 Doma-dong, Seo-gu, Daejeon (대전 서구 도마동 67-36)
   - Phone|042-533-4586
   - Hours|**11:30 AM ~ 8:30 PM** · (no closing-day info)
-  - Budget|**Under ₩10,000 per person** (changes often — please verify)
   - Google rating|3.9 (725 reviews)
   - Queue|(changes often — please verify) — busy at meal times
 ---

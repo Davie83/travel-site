@@ -21,9 +21,9 @@ info:
   - 最近車站|**鐘閣站**（1 號線）4 號出口步行 2～5 分鐘
 ---
 
-![公平洞盲鰻的辣醬烤 — 紅色醬料配蒜苗，和年糕、蘑菇一起烤](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
-
 這是**想喝燒酒時會想起的下酒菜**。不是天天吃的東西，就是那種晚上才會想到。
+
+![公平洞盲鰻的辣醬烤 — 紅色醬料配蒜苗，和年糕、蘑菇一起烤](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
 
 ## 盲鰻是什麼
 

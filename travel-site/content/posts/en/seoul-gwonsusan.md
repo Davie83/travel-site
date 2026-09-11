@@ -20,9 +20,9 @@ info:
   - Nearest station|**National Assembly** (Line 9); walkable from Yeouido Station (Lines 5, 9)
 ---
 
-![The full lunch set at Gwonsusan — raw fish rice bowls, a pot of spicy fish stew, breaded fish cutlet and side dishes](/assets/img/seoul-gwonsusan-table.jpg)
-
 Yeouido is Seoul's finance district — Korea's Manhattan, and priced like it. **Finding good value at lunch here is the hard part**, and this place is the answer.
+
+![The full lunch set at Gwonsusan — raw fish rice bowls, a pot of spicy fish stew, breaded fish cutlet and side dishes](/assets/img/seoul-gwonsusan-table.jpg)
 
 ## What *hoedeopbap* actually is
 

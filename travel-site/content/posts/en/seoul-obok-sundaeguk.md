@@ -20,9 +20,9 @@ info:
   - Nearest station|**Mullae Stn.** (Line 2) · same neighbourhood as Mullae Art Village
 ---
 
-![The full table at Obok Sundaeguk — a platter of boiled pork, a stone bowl of sundaeguk, two dipping sauces, raw garlic, cabbage kimchi and radish kimchi](/assets/img/seoul-obok-sundaeguk-table.jpg)
-
 **The boiled pork here is more tender than anywhere else I have had it.** I went in expecting the side dish a soup shop throws in. I left thinking about the pork.
+
+![The full table at Obok Sundaeguk — a platter of boiled pork, a stone bowl of sundaeguk, two dipping sauces, raw garlic, cabbage kimchi and radish kimchi](/assets/img/seoul-obok-sundaeguk-table.jpg)
 
 And it **arrives fast.** There is no long wait after ordering, and what lands on the table that quickly is genuinely good.
 

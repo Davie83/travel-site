@@ -20,9 +20,9 @@ info:
   - Other branch|A separate **Namsan Tower branch** sits up the mountain (627 Namsan-gongwon-gil)
 ---
 
-![The tray at Mokmyeoksanbang — rice in a brass bowl, seven seasoned vegetables, raw beef, bean sprout soup and pickles](/assets/img/seoul-mokmyeoksanbang-table.jpg)
-
 A **bibimbap built on seasoned vegetables**, balanced rather than punchy. Mild and clean-tasting.
+
+![The tray at Mokmyeoksanbang — rice in a brass bowl, seven seasoned vegetables, raw beef, bean sprout soup and pickles](/assets/img/seoul-mokmyeoksanbang-table.jpg)
 
 ## The main branch is not on the mountain
 

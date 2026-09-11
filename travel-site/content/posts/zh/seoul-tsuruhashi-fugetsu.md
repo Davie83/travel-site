@@ -28,9 +28,9 @@ info:
   - 起源|**大阪鶴橋**。品牌可追溯到 1950 年在大阪天滿創立的「風月」
 ---
 
-![在鐵板上現做的御好燒，旁邊是玉子燒](/assets/img/seoul-tsuruhashi-fugetsu-table.jpg)
-
 **這家御好燒店，你可能在大阪見過。**
+
+![在鐵板上現做的御好燒，旁邊是玉子燒](/assets/img/seoul-tsuruhashi-fugetsu-table.jpg)
 
 疫情那陣子突然想吃就去了一趟，記得當時正臨時歇業。**現在已經正常營業。**
 

@@ -21,9 +21,9 @@ info:
   - 行程|位於**西歸浦 ↔ 城山**之間
 ---
 
-![孔泉浦食堂的一桌 — 鮑魚粥、烤鯖魚、魷魚水生魚片和小菜](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
-
 在濟州**吃過不少家的鮑魚粥。** 但沒見過比這裡**更香濃、價格還這麼實在**的。
+
+![孔泉浦食堂的一桌 — 鮑魚粥、烤鯖魚、魷魚水生魚片和小菜](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
 
 ## 先說這碗粥
 

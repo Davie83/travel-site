@@ -31,9 +31,9 @@ info:
   - 가까운 역|**종각역**(1호선) 4번 출구 도보 2~5분
 ---
 
-![공평동꼼장어 양념구이 — 붉은 양념에 마늘쫑을 넣고 떡, 버섯과 함께 굽습니다](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
-
 **소주가 생각날 때 떠오르는 안주**입니다. 꼼장어는 아무 때나 먹는 음식은 아니고, 딱 그런 날 생각납니다.
+
+![공평동꼼장어 양념구이 — 붉은 양념에 마늘쫑을 넣고 떡, 버섯과 함께 굽습니다](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
 
 ## 소금구이로 먼저 드세요
 

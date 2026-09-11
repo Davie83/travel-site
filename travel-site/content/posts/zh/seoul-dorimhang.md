@@ -28,9 +28,9 @@ info:
   - 評分|Google 地圖 **4.9**（28 則評價）
 ---
 
-![道林港的整桌 — 熟成生魚片拼盤配白飯、海苔和小菜](/assets/img/seoul-dorimhang-table.jpg)
-
 **這裡是道林港。**
+
+![道林港的整桌 — 熟成生魚片拼盤配白飯、海苔和小菜](/assets/img/seoul-dorimhang-table.jpg)
 
 ## 適合廣泛嚐一遍的店
 

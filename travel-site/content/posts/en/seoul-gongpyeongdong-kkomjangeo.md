@@ -21,9 +21,9 @@ info:
   - Nearest station|**Jonggak Stn.** (Line 1), 2-5 min walk from exit 4
 ---
 
-![The spicy-marinated version at Gongpyeongdong Kkomjangeo — red chilli marinade with garlic scapes, grilled alongside rice cake and mushrooms](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
-
 This is the dish Koreans think of **when they want soju.** Not everyday food — food for that particular kind of evening.
+
+![The spicy-marinated version at Gongpyeongdong Kkomjangeo — red chilli marinade with garlic scapes, grilled alongside rice cake and mushrooms](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
 
 ## What kkomjangeo is
 

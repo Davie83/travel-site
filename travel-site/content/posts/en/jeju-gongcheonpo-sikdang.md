@@ -21,9 +21,9 @@ info:
   - Route|Sits between **Seogwipo and Seongsan**
 ---
 
-![The table at Gongcheonpo Sikdang — abalone porridge, grilled mackerel, squid mulhoe and side dishes](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
-
 I have eaten **abalone porridge in a lot of places on Jeju.** I have not found one as rich and nutty as this, at this price.
+
+![The table at Gongcheonpo Sikdang — abalone porridge, grilled mackerel, squid mulhoe and side dishes](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
 
 ## The porridge first
 

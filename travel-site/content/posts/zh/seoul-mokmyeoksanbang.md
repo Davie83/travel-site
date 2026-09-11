@@ -20,9 +20,9 @@ info:
   - 另一家店|南山上還有**南山塔店**（南山公園路627）
 ---
 
-![木覓山房的一套 — 銅碗白飯、七種野菜、生牛肉、豆芽湯和醃菜](/assets/img/seoul-mokmyeoksanbang-table.jpg)
-
 **用野菜撐起來的拌飯**，均衡而不刺激，味道清淡。
+
+![木覓山房的一套 — 銅碗白飯、七種野菜、生牛肉、豆芽湯和醃菜](/assets/img/seoul-mokmyeoksanbang-table.jpg)
 
 ## 本店不在山上
 

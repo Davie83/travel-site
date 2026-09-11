@@ -28,9 +28,9 @@ info:
   - Rating|**4.9** on Google Maps (28 reviews)
 ---
 
-![The full table at Dorimhang — the sashimi platter with rice, seaweed and side dishes](/assets/img/seoul-dorimhang-table.jpg)
-
 **This is Dorimhang.**
+
+![The full table at Dorimhang — the sashimi platter with rice, seaweed and side dishes](/assets/img/seoul-dorimhang-table.jpg)
 
 ## A place for tasting widely
 

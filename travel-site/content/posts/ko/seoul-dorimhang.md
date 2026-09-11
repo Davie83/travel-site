@@ -33,9 +33,9 @@ info:
   - 평점|구글 지도 **4.9** (리뷰 28개)
 ---
 
-![도림항 상차림 — 숙성회 모둠과 밥, 김, 곁들이 반찬이 함께 나옵니다](/assets/img/seoul-dorimhang-table.jpg)
-
 **도림항입니다.**
+
+![도림항 상차림 — 숙성회 모둠과 밥, 김, 곁들이 반찬이 함께 나옵니다](/assets/img/seoul-dorimhang-table.jpg)
 
 ## 여러 가지를 두루 맛보기 좋은 집
 

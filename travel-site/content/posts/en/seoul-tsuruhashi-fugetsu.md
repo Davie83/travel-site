@@ -28,9 +28,9 @@ info:
   - Origin|**Tsuruhashi, Osaka.** The brand traces back to "Fugetsu", opened in Tenma, Osaka in 1950
 ---
 
-![Okonomiyaki cooking on the table hot plate, with a rolled omelette beside it](/assets/img/seoul-tsuruhashi-fugetsu-table.jpg)
-
 **You may have seen this okonomiyaki house in Osaka.**
+
+![Okonomiyaki cooking on the table hot plate, with a rolled omelette beside it](/assets/img/seoul-tsuruhashi-fugetsu-table.jpg)
 
 I went once around the Covid period on a sudden craving and found it temporarily closed. **It is open and running normally now.**
 

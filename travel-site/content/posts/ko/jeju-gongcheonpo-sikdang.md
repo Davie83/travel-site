@@ -29,9 +29,9 @@ info:
   - 동선|**서귀포 ↔ 성산** 이동 구간에 있습니다
 ---
 
-![공천포식당 한 상 — 전복죽, 고등어구이, 한치물회와 곁반찬](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
-
 제주에서 **전복죽을 여러 곳에서 먹어봤습니다.** 그런데 여기만큼 **고소하고 녹진하면서 값까지 착한 곳**은 못 봤습니다.
+
+![공천포식당 한 상 — 전복죽, 고등어구이, 한치물회와 곁반찬](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
 
 ## 전복죽 이야기부터
 

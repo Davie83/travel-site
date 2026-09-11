@@ -28,9 +28,9 @@ info:
   - 評価|Googleマップ **4.9** (口コミ28件)
 ---
 
-![道林港の食卓 — 熟成刺身の盛り合わせにご飯、海苔、付け合わせが並びます](/assets/img/seoul-dorimhang-table.jpg)
-
 **道林港(トリムハン)です。**
+
+![道林港の食卓 — 熟成刺身の盛り合わせにご飯、海苔、付け合わせが並びます](/assets/img/seoul-dorimhang-table.jpg)
 
 ## 幅広く味わうのに向いた店
 

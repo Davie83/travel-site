@@ -440,7 +440,8 @@ const STATION_NAMES = {
   '한강진':     { en: 'Hangangjin',        ja: '漢江鎮',       zh: '漢江鎮' },
   '이태원':     { en: 'Itaewon',           ja: '梨泰院',       zh: '梨泰院' },
   '왕십리':     { en: 'Wangsimni',         ja: '往十里',       zh: '往十里' },
-  '마곡나루':   { en: 'Magongnaru',        ja: '麻谷ナル',     zh: '麻谷渡口' }
+  '마곡나루':   { en: 'Magongnaru',        ja: '麻谷ナル',     zh: '麻谷渡口' },
+  '역삼':       { en: 'Yeoksam',           ja: '駅三',         zh: '驛三' }
 };
 
 function applyGeo(byLocale) {

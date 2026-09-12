@@ -452,6 +452,7 @@ a.more{color:var(--ink);font-weight:600;}
   transition:transform .16s ease,box-shadow .16s ease;
 }
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(0,0,0,.11);}
+.card.is-map-hover{transform:translateY(-3px);box-shadow:0 0 0 2px var(--r),0 10px 28px rgba(0,0,0,.11);}
 .card > a{display:flex;flex-direction:column;height:100%;}
 
 /* 썸네일은 사진 비율과 무관하게 항상 같은 크기(4:3)로 잘립니다.
@@ -1050,6 +1051,58 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 .arealink .pin{align-self:center;font-size:11.5px;margin-right:1px;filter:grayscale(.25);}
 .arealink .n{font-family:var(--en);font-size:11px;font-weight:700;color:var(--ink-mute);}
 .arealink:hover{color:var(--ink);text-decoration:underline;text-underline-offset:3px;}
+
+/* ---- 지역/동네 페이지 — 목록 + 약식 지도 -------------------------------
+   실제 지도 타일은 안 씁니다(사이트가 외부 지도 SDK를 전혀 안 씁니다). 대신
+   이미 갖고 있는 lat/lng 로 "글끼리 얼마나 가까운지" 감만 보여주는 점 배치도입니다.
+   글이 2~25개일 때만 build.js 가 만들어 줍니다. 데스크톱은 목록 옆에, 모바일은
+   버튼을 눌러 여는 오버레이로 둡니다. */
+.region-split{display:flex;gap:28px;align-items:flex-start;}
+.region-list{flex:1;min-width:0;}
+.region-map-toggle{
+  display:none;align-items:center;gap:6px;margin:0 20px 14px;padding:8px 14px;
+  border:1px solid var(--line-hard);border-radius:999px;background:var(--surface);
+  color:var(--ink-mid);font-family:var(--kr);font-size:13px;font-weight:700;cursor:pointer;
+}
+.region-map-toggle svg{flex:none;}
+.region-map-toggle:hover{border-color:var(--ink-mute);color:var(--ink);}
+.region-map-panel{
+  flex:none;width:300px;position:sticky;top:106px;
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px;max-height:calc(100vh - 130px);overflow:auto;
+}
+.region-map-head{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px;}
+.region-map-title{font-family:var(--kr);font-size:13px;font-weight:800;color:var(--ink);}
+.region-map-close{
+  display:none;border:0;background:none;font-size:20px;line-height:1;color:var(--ink-mute);
+  cursor:pointer;padding:2px 4px;
+}
+.region-map-close:hover{color:var(--ink);}
+.schematic-map{
+  position:relative;aspect-ratio:1;background:var(--ground);
+  border:1px solid var(--line);border-radius:10px;overflow:hidden;
+}
+.smap-dot{
+  position:absolute;width:20px;height:20px;margin:-10px 0 0 -10px;
+  border-radius:50%;background:var(--r);border:2px solid var(--ground);
+  box-shadow:0 1px 3px rgba(0,0,0,.25);transition:transform .12s ease;
+}
+.smap-dot:hover,.smap-dot.is-active{transform:scale(1.35);z-index:2;}
+.smap-dot[hidden]{display:none;}
+.region-map-note{margin:10px 2px 0;font-size:11.5px;line-height:1.5;color:var(--ink-mute);}
+
+@media (max-width:860px){
+  .region-split{display:block;}
+  .region-map-toggle{display:inline-flex;}
+  .region-map-panel{
+    display:none;position:fixed;inset:0;top:auto;bottom:0;left:0;right:0;width:auto;
+    max-height:82vh;border-radius:16px 16px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.25);
+    z-index:60;padding:16px;
+  }
+  .region-map-panel.is-open{display:block;}
+  .region-map-close{display:block;}
+  body.map-panel-open{overflow:hidden;}
+}
 
 /* ---- 카테고리 · 지역 · 동네 배지 --------------------------------------
    전에는 "맛집 · 서울" 처럼 점으로 이었습니다. 각각이 눌러야 할 정보라

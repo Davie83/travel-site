@@ -43,7 +43,7 @@ const DEMO_POSTS = new Set(site.demoPosts || []);
    글을 새로 올려도 방문자는 옛 CSS·옛 JS 를 계속 씁니다.
    (실제로 저장 기능을 올렸을 때 옛 CSS 가 걸려 스타일이 빠졌습니다) */
 function assetVersion() {
-  const files = ['assets/style.css', 'assets/filter.js', 'assets/reactions.js', 'assets/saved.js', 'assets/totop.js'];
+  const files = ['assets/style.css', 'assets/filter.js', 'assets/reactions.js', 'assets/saved.js', 'assets/totop.js', 'assets/map.js'];
   const h = crypto.createHash('sha1');
   for (const f of files) {
     const p = path.join(STATIC, f);
@@ -894,6 +894,66 @@ function genreQuickChipsHTML(list, code, t) {
       ${chips.join('\n      ')}
     </div>
   </div>`;
+}
+/** 동네 지도 — 지역·동네 페이지 목록 옆에 붙는 "약도" 입니다.
+    진짜 지도 타일(구글맵 API 등)을 쓰면 의존성이 생기므로, 이미 모든 글에 있는
+    lat/lng 만으로 그 목록의 좌표 범위에 맞춰 점을 찍습니다 — 정확한 지도가 아니라
+    "이 중에 뭐가 서로 가까운지" 감을 잡는 용도입니다. 위도 1도와 경도 1도의
+    실제 거리가 달라서(위도가 올라갈수록 경도 1도가 짧아짐), 화면에 찍을 때
+    실제 거리 비율이 어긋나지 않도록 위도 보정을 해서 좌표를 잡습니다.
+    글이 2개 미만이거나(비교할 게 없음) 25개 넘으면(너무 흩어져 있어 약도로는
+    오히려 헷갈림 — 보통 지역 전체 페이지) 아예 안 그립니다. */
+function schematicMapHTML(list, base, code, t) {
+  const d = localeDir(code);
+  const pts = list
+    .filter(p => p.meta.lat && p.meta.lng)
+    .map(p => ({
+      slug: p.slug, title: p.meta.title, region: p.meta.region,
+      lat: parseFloat(p.meta.lat), lng: parseFloat(p.meta.lng)
+    }))
+    .filter(p => Number.isFinite(p.lat) && Number.isFinite(p.lng));
+  if (pts.length < 2 || pts.length > 25) return '';
+
+  const lats = pts.map(p => p.lat), lngs = pts.map(p => p.lng);
+  let minLat = Math.min(...lats), maxLat = Math.max(...lats);
+  let minLng = Math.min(...lngs), maxLng = Math.max(...lngs);
+  const latPad = (maxLat - minLat || 0.002) * 0.18;
+  const lngPad = (maxLng - minLng || 0.002) * 0.18;
+  minLat -= latPad; maxLat += latPad; minLng -= lngPad; maxLng += lngPad;
+
+  const midLat = (minLat + maxLat) / 2;
+  const kmPerLat = 111;
+  const kmPerLng = 111 * Math.cos(midLat * Math.PI / 180);
+  const physW = (maxLng - minLng) * kmPerLng;
+  const physH = (maxLat - minLat) * kmPerLat;
+  const scale = Math.min(100 / physW, 100 / physH) * 0.92;   // 100 = 뷰 상 % 단위, 0.92 = 안쪽 여백
+  const offX = (100 - physW * scale) / 2, offY = (100 - physH * scale) / 2;
+  const toXY = (lat, lng) => [
+    offX + (lng - minLng) * kmPerLng * scale,
+    offY + (maxLat - lat) * kmPerLat * scale   // 위도가 높을수록(북쪽) 위(y 작게)
+  ];
+
+  const dots = pts.map(p => {
+    const [x, y] = toXY(p.lat, p.lng);
+    return `        <a class="smap-dot" href="${base}${d}posts/${p.slug}" data-slug="${escapeHtml(p.slug)}"` +
+      ` style="left:${x.toFixed(2)}%;top:${y.toFixed(2)}%;--r:var(--region-${escapeHtml(p.region)})"` +
+      ` aria-label="${escapeHtml(p.title)}"></a>`;
+  }).join('\n');
+
+  return `      <button class="region-map-toggle" type="button" data-panel="region-map-panel">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>
+        ${escapeHtml(t.mapPanelToggle(pts.length))}
+      </button>
+      <aside class="region-map-panel" id="region-map-panel">
+        <div class="region-map-head">
+          <span class="region-map-title">${escapeHtml(t.mapPanelTitle)}</span>
+          <button class="region-map-close" type="button" aria-label="${escapeHtml(t.mapPanelClose)}">&times;</button>
+        </div>
+        <div class="schematic-map" data-target="region-grid">
+${dots}
+        </div>
+        <p class="region-map-note">${escapeHtml(t.mapPanelNote)}</p>
+      </aside>`;
 }
 /** 제철 배지.
     season      = 제철인 달 (쉼표. 예: 12,1,2)
@@ -2149,6 +2209,7 @@ function build() {
       /* 장르 바로가기 칩 — 이 지역에 글이 있는 음식 장르만. 필터 JS 가 카드의
          data-genre 를 걸러 그리드에서 바로 좁힙니다 (검색·페이지 이동 없음). */
       const regionGenreChips = genreQuickChipsHTML(inRegion, code, t);
+      const regionMap = schematicMapHTML(inRegion, base, code, t);
 
       writeFile(out, renderPage({
         out, code, current: 'home',
@@ -2165,6 +2226,7 @@ function build() {
           tabs: tabs,
           genreChips: regionGenreChips,
           areaChips: areaChips,
+          schematicMap: regionMap,
           cards: inRegion.length
             ? inRegion.map(p => cardHTML(p, base, code, t)).join('\n')
             : `        <p class="empty" style="grid-column:1/-1">${escapeHtml(t.empty)}</p>`,
@@ -2229,6 +2291,7 @@ function build() {
             tabs: tabs,
             genreChips: genreQuickChipsHTML(inArea, code, t),
             areaChips: '',
+            schematicMap: schematicMapHTML(inArea, base, code, t),
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
             noResult: escapeHtml(t.noResult),
             adTop: adSlotHTML('area-top'), adBottom: adSlotHTML('area-bottom')

@@ -28,11 +28,14 @@
   <div class="wrap">
     {{adTop}}
 
-    <section class="section">
-      <div class="grid" id="region-grid">
+    <section class="section region-split">
+      <div class="region-list">
+        <div class="grid" id="region-grid">
 {{cards}}
+        </div>
+        <p class="empty" hidden>{{noResult}}</p>
       </div>
-      <p class="empty" hidden>{{noResult}}</p>
+{{schematicMap}}
     </section>
 
     {{adBottom}}

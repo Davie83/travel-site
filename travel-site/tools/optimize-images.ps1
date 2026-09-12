@@ -13,7 +13,7 @@
 #    카드는 화면에 255~350px 폭으로 그려지는데, 1200~1600px 원본을 그대로
 #    내려보내면 필요한 픽셀의 20배 이상을 씁니다. 홈을 끝까지 스크롤하면
 #    썸네일만 12MB 였습니다. 해외 관광객이 로밍으로 보는 사이트라 부담이 큽니다.
-#    카드는 CSS 가 4:3 으로 잘라 쓰므로(object-fit:cover) 폭만 맞추면 됩니다.
+#    카드는 CSS 가 3:2 로 잘라 쓰므로(object-fit:cover) 폭만 맞추면 됩니다.
 #    글 본문의 큰 사진은 원본을 그대로 씁니다.
 #
 #  원본은 git 이력과 Takeout\_정리 폴더에 남아 있습니다.
@@ -99,13 +99,13 @@ Get-ChildItem $dir -Filter *.jpg | Sort-Object Name | ForEach-Object {
     $ms2 = New-Object System.IO.MemoryStream($srcBytes, $false)
     $img2 = [System.Drawing.Image]::FromStream($ms2)
 
-    # 카드는 CSS 가 4:3 · object-fit:cover · 가운데 기준으로 잘라 보여줍니다.
-    # 그래서 여기서도 똑같이 가운데 4:3 으로 잘라 둡니다.
+    # 카드는 CSS 가 3:2 · object-fit:cover · 가운데 기준으로 잘라 보여줍니다.
+    # 그래서 여기서도 똑같이 가운데 3:2 로 잘라 둡니다.
     # 잘려 나갈 부분을 담지 않으니 용량이 절반으로 줄고, 화면에 보이는 그림은 같습니다.
     $sw = $CardWidth
-    $sh = [int][Math]::Round($CardWidth * 3 / 4)      # 700 x 525
+    $sh = [int][Math]::Round($CardWidth * 2 / 3)      # 700 x 467
     $srcRatio = $img2.Width / $img2.Height
-    $tgtRatio = 4.0 / 3.0
+    $tgtRatio = 3.0 / 2.0
     if ($srcRatio -gt $tgtRatio) {
       # 원본이 더 넓다 → 좌우를 잘라냅니다
       $cropH = $img2.Height

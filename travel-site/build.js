@@ -1688,10 +1688,13 @@ function cardHTML(post, base, code, t) {
      지역·동네는 지역색(--r)이 아니라 흐린 글씨로, 장르만 지역색을 띱니다. */
   const kIcon  = g ? (g.emoji || '') : (m.emoji || '📍');
   const kLabel = g ? genreName(g, code) : (t.category[m.cat] || m.cat);
-  const kPlace = [rname, aname].filter(Boolean).join(' · ');
+  // 지역(1뎁스)은 배지로, 동네(2뎁스)는 그 옆에 흐린 글씨로 — 동네가 지역 아래
+  // 단계라는 게 한눈에 보이게 합니다(둘을 그냥 같은 톤으로 이으면 같은 급으로 보입니다).
+  const kPlace = (rname ? `<span class="card-region">${escapeHtml(rname)}</span>` : '') +
+    (aname ? `<span class="card-area">${escapeHtml(aname)}</span>` : '');
   const kicker = `<div class="card-kicker">` +
     `<span class="card-genre">${escapeHtml((kIcon + ' ' + kLabel).trim())}</span>` +
-    (kPlace ? `<span class="card-place">${escapeHtml(kPlace)}</span>` : '') +
+    kPlace +
     `</div>`;
   // 제목에 "이름 — 설명" 형태의 설명이 없을 때만 발췌문 한 줄을 대신 보여줍니다.
   const fallbackSub = !titleParts(m.title).sub && m.excerpt

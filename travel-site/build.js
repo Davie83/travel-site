@@ -904,8 +904,7 @@ function genreQuickChipsHTML(list, code, t) {
     실제 거리 비율이 어긋나지 않도록 위도 보정을 해서 좌표를 잡습니다.
     글이 2개 미만이거나(비교할 게 없음) 25개 넘으면(너무 흩어져 있어 약도로는
     오히려 헷갈림 — 보통 지역 전체 페이지) 아예 안 그립니다. */
-function schematicMapHTML(list, base, code, t) {
-  const d = localeDir(code);
+function mapBBoxOf(list) {
   const pts = list
     .filter(p => p.meta.lat && p.meta.lng)
     .map(p => ({
@@ -913,7 +912,7 @@ function schematicMapHTML(list, base, code, t) {
       lat: parseFloat(p.meta.lat), lng: parseFloat(p.meta.lng)
     }))
     .filter(p => Number.isFinite(p.lat) && Number.isFinite(p.lng));
-  if (pts.length < 2 || pts.length > 25) return '';
+  if (pts.length < 2 || pts.length > 25) return null;
 
   const lats = pts.map(p => p.lat), lngs = pts.map(p => p.lng);
   let minLat = Math.min(...lats), maxLat = Math.max(...lats);
@@ -921,6 +920,14 @@ function schematicMapHTML(list, base, code, t) {
   const latPad = (maxLat - minLat || 0.002) * 0.18;
   const lngPad = (maxLng - minLng || 0.002) * 0.18;
   minLat -= latPad; maxLat += latPad; minLng -= lngPad; maxLng += lngPad;
+  return { pts, minLat, maxLat, minLng, maxLng };
+}
+
+function schematicMapHTML(list, base, code, t, mapImg) {
+  const d = localeDir(code);
+  const box = mapBBoxOf(list);
+  if (!box) return '';
+  const { pts, minLat, maxLat, minLng, maxLng } = box;
 
   const midLat = (minLat + maxLat) / 2;
   const kmPerLat = 111;
@@ -941,6 +948,17 @@ function schematicMapHTML(list, base, code, t) {
       ` aria-label="${escapeHtml(p.title)}"></a>`;
   }).join('\n');
 
+  // mapImg 가 있으면(빌드 시점에 Geoapify 에서 미리 받아둔 배경 지도) 그 위에 점을 얹고,
+  // 없으면(키 미설정·요청 실패) CSS 의 격자 배경만 남습니다 — 둘 다 방문자 브라우저는
+  // 외부 지도 서버에 붙지 않습니다(이미 저장된 이미지거나, 격자뿐).
+  const mapStyle = mapImg ? ` style="background-image:url('${base}${mapImg}')"` : '';
+  const mapClass = mapImg ? ' has-mapimg' : '';
+  // 배경 지도가 진짜 지도면 "실제 지도가 아닙니다" 문구 대신 출처 표기를 보여줍니다
+  // (점 위치는 여전히 근사치이지만, 바탕 자체는 진짜 OpenStreetMap 렌더입니다).
+  const note = mapImg
+    ? `<p class="region-map-attrib">${escapeHtml(t.mapPanelAttrib || '')} <a href="https://www.geoapify.com" target="_blank" rel="noopener">Geoapify</a></p>`
+    : `<p class="region-map-note">${escapeHtml(t.mapPanelNote)}</p>`;
+
   return `      <button class="region-map-toggle" type="button" data-panel="region-map-panel">
         <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>
         ${escapeHtml(t.mapPanelToggle(pts.length))}
@@ -950,11 +968,59 @@ function schematicMapHTML(list, base, code, t) {
           <span class="region-map-title">${escapeHtml(t.mapPanelTitle)}</span>
           <button class="region-map-close" type="button" aria-label="${escapeHtml(t.mapPanelClose)}">&times;</button>
         </div>
-        <div class="schematic-map" data-target="region-grid">
+        <div class="schematic-map${mapClass}" data-target="region-grid"${mapStyle}>
 ${dots}
         </div>
-        <p class="region-map-note">${escapeHtml(t.mapPanelNote)}</p>
+        ${note}
       </aside>`;
+}
+
+/** 위 schematicMapHTML 이 쓸 배경 지도 이미지를 빌드 시작 시 한 번에 미리 받아 둡니다.
+ *  Geoapify Static Maps API(무료 키, area=rect: 로 우리가 쓰는 것과 똑같은 좌표 범위를
+ *  그대로 넘길 수 있어 점 위치와 어긋나지 않습니다) — 방문자 브라우저는 이 요청에
+ *  관여하지 않고, 빌드 결과물(이미 저장된 이미지)만 받습니다.
+ *  키가 없거나 요청이 실패하면 그냥 건너뜁니다 — schematicMapHTML 은 CSS 격자로 대체됩니다. */
+async function prefetchMapImages(posts) {
+  const images = {};
+  const key = site.geoapifyKey;
+  if (!key) {
+    warnings.push('site.config.js 에 geoapifyKey 가 없어 동네 지도 배경 이미지를 건너뜁니다 (격자 배경으로 대체)');
+    return images;
+  }
+  const targets = [];
+  for (const r of site.regions) {
+    const inRegion = posts.filter(p => p.meta.region === r.slug);
+    targets.push({ key: r.slug, list: inRegion });
+    for (const a of areasOf(r.slug)) {
+      const inArea = inRegion.filter(p => p.meta.area === a.slug);
+      targets.push({ key: `${r.slug}-${a.slug}`, list: inArea });
+    }
+  }
+
+  const outDir = path.join(STATIC, 'assets', 'img', 'maps');
+  fs.mkdirSync(outDir, { recursive: true });
+
+  for (const { key: mapKey, list } of targets) {
+    const box = mapBBoxOf(list);
+    if (!box) continue;
+    const { minLat, maxLat, minLng, maxLng } = box;
+    const url = `https://maps.geoapify.com/v1/staticmap?style=osm-bright&width=640&height=640` +
+      `&area=rect:${minLng.toFixed(5)},${maxLat.toFixed(5)},${maxLng.toFixed(5)},${minLat.toFixed(5)}` +
+      `&apiKey=${key}`;
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(15000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const ct = res.headers.get('content-type') || '';
+      const ext = ct.includes('png') ? 'png' : 'jpg';   // Geoapify 는 기본으로 jpeg 를 돌려줍니다
+      const buf = Buffer.from(await res.arrayBuffer());
+      const rel = `assets/img/maps/${mapKey}.${ext}`;
+      fs.writeFileSync(path.join(STATIC, rel), buf);
+      images[mapKey] = rel;
+    } catch (e) {
+      warnings.push(`동네 지도 배경(${mapKey}) 요청 실패 — 격자 배경으로 대체: ${e.message}`);
+    }
+  }
+  return images;
 }
 /** 제철 배지.
     season      = 제철인 달 (쉼표. 예: 12,1,2)
@@ -2064,7 +2130,7 @@ function writeRssFeeds(byLocale) {
    8. 실행
    ========================================================================== */
 
-function build() {
+async function build() {
   fs.rmSync(DIST, { recursive: true, force: true });
   fs.mkdirSync(DIST, { recursive: true });
 
@@ -2084,6 +2150,9 @@ function build() {
 
   // 위치 정보(lat/lng/addr/closed)를 한국어 글에서 나머지 언어로 복사합니다
   applyGeo(byLocale);
+
+  // 동네 지도 배경 이미지 — 4개 언어 페이지가 전부 같은 좌표 범위를 쓰므로 한 번만 받습니다
+  const mapImages = await prefetchMapImages(byLocale.ko.posts);
 
   // 여행 팁을 섹션별로 쪼개 둡니다 (허브 + 개별 페이지 · hreflang 계산에 필요)
   const tipsSections = {};
@@ -2213,7 +2282,7 @@ function build() {
       /* 장르 바로가기 칩 — 이 지역에 글이 있는 음식 장르만. 필터 JS 가 카드의
          data-genre 를 걸러 그리드에서 바로 좁힙니다 (검색·페이지 이동 없음). */
       const regionGenreChips = genreQuickChipsHTML(inRegion, code, t);
-      const regionMap = schematicMapHTML(inRegion, base, code, t);
+      const regionMap = schematicMapHTML(inRegion, base, code, t, mapImages[r.slug]);
 
       writeFile(out, renderPage({
         out, code, current: 'home',
@@ -2295,7 +2364,7 @@ function build() {
             tabs: tabs,
             genreChips: genreQuickChipsHTML(inArea, code, t),
             areaChips: '',
-            schematicMap: schematicMapHTML(inArea, base, code, t),
+            schematicMap: schematicMapHTML(inArea, base, code, t, mapImages[`${r.slug}-${a.slug}`]),
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
             noResult: escapeHtml(t.noResult),
             adTop: adSlotHTML('area-top'), adBottom: adSlotHTML('area-bottom')
@@ -2785,4 +2854,4 @@ ${tocList}
 
 module.exports = { markdown, parseFrontMatter, inline, escapeHtml, fill, baseOf };
 
-if (require.main === module) build();
+if (require.main === module) build().catch(err => { console.error(err); process.exit(1); });

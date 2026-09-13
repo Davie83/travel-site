@@ -1099,7 +1099,15 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 }
 .smap-dot:hover,.smap-dot.is-active{transform:scale(1.35);z-index:2;}
 .smap-dot[hidden]{display:none;}
+/* 실제 배경 지도(Geoapify, 빌드 시점에 미리 받아둔 이미지)가 있을 때만 붙는 클래스.
+   격자 배경 대신 사진을 꽉 채우고, 어두운 테마에서는 지도가 항상 밝은 색(OSM 스타일)이라
+   살짝 눌러서 화면 톤과 부딪히지 않게 합니다. */
+.schematic-map.has-mapimg{background-size:cover;background-position:center;}
+:root:not([data-theme="light"]) .schematic-map.has-mapimg{filter:brightness(.78) saturate(.85);}
+:root[data-theme="dark"] .schematic-map.has-mapimg{filter:brightness(.78) saturate(.85);}
 .region-map-note{margin:10px 2px 0;font-size:11.5px;line-height:1.5;color:var(--ink-mute);}
+.region-map-attrib{margin:4px 2px 0;font-size:10.5px;color:var(--ink-mute);}
+.region-map-attrib a{color:inherit;}
 
 @media (max-width:860px){
   .region-split{display:block;}

@@ -135,23 +135,26 @@ img{max-width:100%;display:block;}
   .logo{gap:7px;}
 }
 
+/* 언어 전환 — 예전엔 헤더 배경(var(--surface))과 거의 안 갈라져서 눈에 잘 안 띄었습니다.
+   사이트 크롬은 무채색만 쓰기로 했으니(색은 지역 전용) 색을 더하는 대신 대비를 올렸습니다:
+   테두리를 굵고 진하게, 배경을 한 단 더 띄우고, 지구본 아이콘은 화면 크기와 상관없이 항상
+   보이게, 선택된 언어는 반전 색(잉크색 배경)으로 눌러서 "여기서 고르는 거구나"가 바로 읽히게. */
 .langs{
   margin-left:auto;display:flex;align-items:center;gap:2px;
-  border:1px solid var(--line);border-radius:999px;padding:2px;background:var(--surface);
+  border:1.5px solid var(--line-hard);border-radius:999px;padding:2px;background:var(--surface-2);
+  box-shadow:0 1px 3px rgba(0,0,0,.08);
 }
-.langs-ico{display:none;}
+.langs-ico{display:inline;font-size:13px;line-height:1;opacity:.85;margin:0 2px 0 5px;}
 .lang{
   font-family:var(--en);font-size:12px;
   padding:4px 10px;border-radius:999px;color:var(--ink-mute);line-height:1.6;white-space:nowrap;
 }
 .lang:hover{color:var(--ink);}
-.lang.on{background:var(--ground);color:var(--ink);font-weight:700;box-shadow:0 1px 2px rgba(0,0,0,.08);}
-/* 좁은 화면: 약어(KO·EN…)만. 넓은 화면(≥1100px, 헤더에 자리 있을 때): 그 언어 문자로 된 이름 + 🌐 */
+.lang.on{background:var(--ink);color:var(--ground);font-weight:700;}
+/* 좁은 화면: 약어(KO·EN…)만. 넓은 화면(≥1100px, 헤더에 자리 있을 때): 그 언어 문자로 된 이름 */
 .lang-full{display:none;}
 .lang-abbr{display:inline;letter-spacing:.06em;}
 @media (min-width:1100px){
-  .langs{padding-left:4px;}
-  .langs-ico{display:inline;font-size:12px;line-height:1;opacity:.55;margin:0 3px;}
   .lang-full{display:inline;}
   .lang-abbr{display:none;}
   .lang{padding:4px 9px;}

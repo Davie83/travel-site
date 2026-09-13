@@ -9,6 +9,8 @@ thumb: assets/img/seoul-far-niente.jpg
 excerpt: 신사동에 있는 양식집. 몇 년 만에 다시 갔다. 크림 뇨끼 그라탕이 맛있고, 디저트도 잘한다. 일정 금액 이상 주문하면 지인들끼리만 쓰는 프라이빗 룸에서 먹을 수 있다.
 tags: [서울, 강남, 신사동, 신사, 파니엔테, 양식, 파스타, 뇨끼, 그라탕, 디저트]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%94%ed%85%8c+%ec%8b%a0%ec%82%ac%eb%8f%99
+lat: 37.5188441
+lng: 127.0221698
 addr: 서울 강남구 도산대로11길 21
 subway: 3 신사 8
 spicy: 0

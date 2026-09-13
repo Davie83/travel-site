@@ -9,6 +9,8 @@ thumb: assets/img/seoul-urban-mungtigi.jpg
 excerpt: 뭉티기. 전라도 말로는 생고기라고 부른다. 익히지 않은 소고기를 그대로 먹는 것으로, 표준어의 육회·육사시미와 같은 범주다. 육사시미보다 크고 두껍게 썰려 나와서 육향과 육질이 더 분명하다. 고추장 베이스 특제 소스와 궁합이 좋다. 육전도 괜찮다. 가게가 작으니 예약하고 가는 게 낫다.
 tags: [서울, 마포, 어반뭉티기, 뭉티기, 생고기, 육회, 육사시미, 육전, 소고기]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b4%eb%b0%98%eb%ad%89%ed%8b%b0%ea%b8%b0+%eb%a7%88%ed%8f%ac
+lat: 37.5387975
+lng: 126.9487765
 addr: 서울 마포구 도화2안길 2-3
 subway: 5 마포 7
 spicy: 1

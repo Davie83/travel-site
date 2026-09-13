@@ -10,7 +10,7 @@ excerpt: A cat cafe I ended up stopping by. "Hongdae branch" suggests there are 
 tags: [Seoul, Hongdae, Mapo, Roofcatme, cat cafe, cats, animal cafe, Hongik Univ Station]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a3%a8%ed%94%84%ec%ba%a3%eb%af%b8+%ea%b3%a0%ec%96%91%ec%9d%b4%ec%b9%b4%ed%8e%98+%ed%99%8d%eb%8c%80
 info:
-  - Location|Mapo-gu, Seoul · near **Hongik Univ. Station Exit 9** (basement level)
+  - Location|140 Yanghwa-ro, Mapo-gu, Seoul, B2 H-CUBE (서울 마포구 양화로 140) · near **Hongik Univ. Station Exit 9**
   - What it is|A **cat cafe** — you order a drink and stay in the space with the cats
   - Branch|**Hongdae branch** · the name suggests there are others
   - Visitors|Plenty of **foreign visitors** too

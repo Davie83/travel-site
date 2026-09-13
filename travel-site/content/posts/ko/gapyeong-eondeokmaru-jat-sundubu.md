@@ -9,6 +9,8 @@ thumb: assets/img/gapyeong-eondeokmaru-jat-sundubu.jpg
 excerpt: 가평에 있다가 순두부가 생각나 찾아간 집. 가평은 원래 잣이 유명한 고장이고, 여기는 그 잣을 넣은 잣순두부를 낸다. 국물이 슴슴하고, 잣 덕분인지 매우 담백하다. 자극적인 맛을 기대하면 밍밍할 수 있지만, 담백한 순두부를 좋아하면 기억에 남는 한 그릇.
 tags: [가평, 잣, 잣순두부, 순두부, 두부, 콩요리, 초당순두부, 담백, 경기맛집, 가평맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b8%eb%8d%95%eb%a7%88%eb%a3%a8+%ea%b0%80%ed%8f%89%ec%9e%a3%eb%91%90%eb%b6%80%ec%a7%91
+lat: 37.756671
+lng: 127.360799
 addr: 경기 가평군 상면 수목원로 248
 spicy: 0
 order: 잣순두부 주세요

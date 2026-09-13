@@ -9,6 +9,8 @@ thumb: assets/img/incheon-ganghwa-saengseongui.jpg
 excerpt: 강화도 진입 초입에 있는 생선구이집. 간단히 점심으로 치기엔 정식 값이 싼 편은 아니다. 다만 먹고 나면 돈이 아깝지 않았다. 여러 생선을 사장님 솜씨로 절묘하게 숯불에 구워 내는데, 간만에 맛있게 먹은 생선구이였다. 반찬도 화려하진 않지만 맛이 좋았다.
 tags: [인천, 강화도, 강화, 생선구이, 숯불생선구이, 밴댕이, 삼치, 해산물, 생선정식, 강화맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ea%b0%95%ed%99%94%eb%8f%84%eb%a7%9b%ec%a7%91+%ec%88%af%eb%b6%88%ec%83%9d%ec%84%a0%ea%b5%ac%ec%9d%b4
+lat: 37.6287866
+lng: 126.5327092
 addr: 인천 강화군 길상면 해안동로 14-6
 spicy: 0
 order: 생선구이 정식 주세요

@@ -9,6 +9,8 @@ thumb: assets/img/seoul-ujeong-sikdang.jpg
 excerpt: 남대문시장 안에 숨어 있는 한식당. 백반처럼 먹을 수 있는 집이다. 제육볶음과 오징어볶음이 메인 격이라 늘 뭘 먹을지 망설이게 된다. 숨은 메뉴인 반반(계란말이/소세지)도 있다. 한식이 입에 잘 안 맞는 외국인 관광객에게도 권할 만하다.
 tags: [서울, 중구, 남대문, 남대문시장, 우정식당, 백반, 한식, 제육볶음, 오징어볶음, 계란말이]
 map: https://www.google.com/maps/search/?api=1&query=%ec%9a%b0%ec%a0%95%ec%8b%9d%eb%8b%b9+%eb%82%a8%eb%8c%80%eb%ac%b8%ec%8b%9c%ec%9e%a5
+lat: 37.559804
+lng: 126.976755
 addr: 서울 중구 남대문시장길 12-9
 subway: 4 회현 5
 spicy: 2

@@ -9,6 +9,8 @@ thumb: assets/img/seoul-honam-sikdang.jpg
 excerpt: 남대문 갈치조림 골목에 있는 식당. 골목에 가게가 워낙 많고 호객도 조금 있어서, 예전에 갔던 집이 어디였는지 늘 헷갈린다. 이번에도 그 집인 줄 알고 왔는데 아니었다. 다만 이 골목 반찬 구성은 대부분 비슷하다. 갈치조림에 계란찜, 밥 한 공기면 뚝딱이고, 낮술 막걸리까지면 행복한 구성이다.
 tags: [서울, 중구, 남대문, 남대문시장, 갈치조림골목, 호남식당, 갈치조림, 갈치, 해산물, 계란찜, 막걸리]
 map: https://www.google.com/maps/search/?api=1&query=%ed%98%b8%eb%82%a8%ec%8b%9d%eb%8b%b9+%eb%82%a8%eb%8c%80%eb%ac%b8+%ea%b0%88%ec%b9%98%ec%a1%b0%eb%a6%bc%ea%b3%a8%eb%aa%a9
+lat: 37.559963
+lng: 126.9770448
 addr: 서울 중구 남대문시장길 18-6
 subway: 4 회현 5
 spicy: 3

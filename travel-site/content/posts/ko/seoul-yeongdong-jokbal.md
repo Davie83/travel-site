@@ -10,6 +10,8 @@ famous: true
 excerpt: 양재에 있는 족발집. 지금까지 강남권에서 먹어본 족발 중 맛이 가장 좋았다. 오랜만에 가도 껍질은 쫀쫀하고 살은 야들야들한 식감이 그대로다. 본점 주변에 별관이 여러 곳 있다. 가깝기만 하면 이따금 다시 가고 싶은 집.
 tags: [서울, 서초, 양재, 강남, 영동족발, 족발, 쌈, 강남족발]
 map: https://www.google.com/maps/search/?api=1&query=%ec%98%81%eb%8f%99%ec%a1%b1%eb%b0%9c+%ec%84%9c%ec%b4%88%ea%b5%ac+%ec%96%91%ec%9e%ac%eb%8f%99
+lat: 37.484605
+lng: 127.038034
 addr: 서울 서초구 남부순환로358길 8
 subway: 3,신분당 양재 8
 spicy: 0

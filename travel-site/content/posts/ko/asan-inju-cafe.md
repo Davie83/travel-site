@@ -9,6 +9,8 @@ thumb: assets/img/asan-inju-cafe.jpg
 excerpt: 삽교천 인근을 지나다 한옥에 끌려 들른 베이커리 카페. 큰 한옥 골조에 현대적인 마감이 깔끔하게 얹혔고, 공간이 좋다. 빵 명장을 앞세운 홍보물이 매장 곳곳에 있지만, 정작 빵은 종류도 적고 기대보다 평범했다. 그래도 지친 마음을 잠깐 내려놓기엔 충분한 분위기.
 tags: [충남, 아산, 인주, 삽교천, 한옥, 베이커리, 카페, 빵, 명장]
 map: https://www.google.com/maps/search/?api=1&query=%ec%9d%b8%ec%a3%bc%ec%b9%b4%ed%8e%98+%ed%95%9c%ec%98%a5%ec%a0%90
+lat: 36.867725
+lng: 126.875185
 addr: 충남 아산시 인주면 아산만로 1608
 spicy: 0
 order: 아메리카노 한 잔 주세요

@@ -9,6 +9,8 @@ thumb: assets/img/seoul-haengun-donkkaseu.jpg
 excerpt: 지인의 한양대 장례식장에 다녀오고 들렀다. 왕십리·행당동에서 가성비로 이름난 돈까스집. 요즘 유행하는 일식 돈까스가 아니라 갈색 소스에 계란후라이가 올라가는 전형적인 옛날식(경양식) 돈까스다. 맛도 좋고 양은 어마어마하다. 김치볶음밥이 함께 나오는 세트가 이득이지만, 다 먹기는 쉽지 않다.
 tags: [서울, 성동, 왕십리, 행당동, 한양대, 돈까스, 왕돈까스, 옛날돈까스, 경양식, 김치볶음밥]
 map: https://www.google.com/maps/search/?api=1&query=%ed%96%89%ec%9a%b4%eb%8f%88%ea%b9%8c%ec%8a%a4+%ec%84%b1%eb%8f%99%ea%b5%ac+%ed%96%89%eb%8b%b9%eb%8f%99
+lat: 37.558372
+lng: 127.0402988
 addr: 서울 성동구 마조로1길 2
 subway: 2,5 왕십리 8
 spicy: 1

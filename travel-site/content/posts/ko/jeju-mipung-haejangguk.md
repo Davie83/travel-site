@@ -10,6 +10,8 @@ famous: true
 excerpt: 제주 출장 때마다 한 끼는 해장국을 먹는다. 여러 곳을 다녀봤지만 미풍해장국이 1순위다. 국물이 얼큰하고, 매운맛과 자극적인 맛이 섞이는 지점이 좋다. 제주 해장국은 간마늘을 듬뿍 넣어야 제맛이다.
 tags: [제주, 제주시, 해장국, 해장, 국밥, 얼큰, 간마늘, 제주식해장국]
 map: https://www.google.com/maps/search/?api=1&query=%eb%af%b8%ed%92%8d%ed%95%b4%ec%9e%a5%ea%b5%ad+%ec%a0%9c%ec%a3%bc%ec%8b%9c
+lat: 33.5114082
+lng: 126.52289
 addr: 제주 제주시 중앙로14길 13
 spicy: 4
 order: 해장국 하나 주세요

@@ -9,6 +9,8 @@ thumb: assets/img/seoul-cheongchun-gurakbu.jpg
 excerpt: 마포갈비골목에 있는 소 내장 구이집. 특양과 대창이 간판이지만 메뉴는 다양한 편이다. 숯불에 구워 맛은 기본 이상이고, 생간·천엽 같은 반찬도 여러 가지 나온다. 특양 특유의 서걱서걱한 식감을 좋아한다면 가 볼 만하다. 홀은 조금 시끄러운 편.
 tags: [서울, 마포, 마포갈비골목, 청춘구락부, 곱창, 특양, 대창, 소곱창, 내장구이, 숯불, 물냉면, 마포맛집, 서울맛집]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ec%b6%98%ea%b5%ac%eb%9d%bd%eb%b6%80+%eb%a7%88%ed%8f%ac
+lat: 37.540089
+lng: 126.942906
 addr: 서울 마포구 토정로 308
 subway: 5,6 공덕 7
 spicy: 1

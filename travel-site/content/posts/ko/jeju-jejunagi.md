@@ -9,6 +9,8 @@ thumb: assets/img/jeju-jejunagi.jpg
 excerpt: 히츠마부시가 생각나서 갔다. 나고야식 장어덮밥이다. 날이 좋아 포장했고, 배도 고팠던 터라 날씨와 함께 맛있게 먹었다. 장어가 부들부들했다. 솔직히 사치스러운 한 끼였다. 나고야 노포에서 먹어본 그 맛을 다시 떠올리게 하는 집이다.
 tags: [제주, 애월, 제주나기, 히츠마부시, 장어덮밥, 장어, 일식, 포장, 나고야]
 map: https://www.google.com/maps/search/?api=1&query=%ec%a0%9c%ec%a3%bc%eb%82%98%ea%b8%b0+%ec%95%a0%ec%9b%94
+lat: 33.47567
+lng: 126.377797
 addr: 제주 제주시 애월읍 구엄동1길 7
 spicy: 0
 order: 히츠마부시 하나 주세요

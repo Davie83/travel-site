@@ -9,6 +9,8 @@ thumb: assets/img/gangneung-little-diner.jpg
 excerpt: 강릉에 도착한 다음 날, 아점으로 브런치를 먹으러 갔다. 콘크리트 천장에 빨간 다이너 의자, 팝아트 배너까지 아날로그 미국 다이너 분위기다. 팬케이크처럼 도톰한 번에 훈제 고기와 체더를 끼운 버거가 나오고, 곁들인 작은 시럽 저그가 재미있다. 여길 기점으로 강릉 여행을 기분 좋게 시작했다.
 tags: [강릉, 강릉맛집, 강릉브런치, 리틀다이너, 브런치, 버거, 팬케이크버거, 양식, 아침식사, 다이너]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a6%ac%ed%8b%80%eb%8b%a4%ec%9d%b4%eb%84%88+%ea%b0%95%eb%a6%89
+lat: 37.7625317
+lng: 128.9364954
 addr: 강원 강릉시 성덕로 105
 spicy: 0
 order: 버거 하나 주세요

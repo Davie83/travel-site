@@ -2,7 +2,7 @@
 title: 청풍리조트 — 청풍호반이 내려다보이는, 오래됐지만 풍경 하나는 좋은 곳
 cat: travel
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🏞️
 thumb: assets/img/jecheon-cheongpung-resort.jpg

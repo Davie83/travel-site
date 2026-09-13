@@ -2,7 +2,7 @@
 title: 청풍황금떡갈비 — 제천에서 우연히 만난, 반찬 한 상 가득한 떡갈비집
 cat: food
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🍖
 thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg

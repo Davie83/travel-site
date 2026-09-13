@@ -2,7 +2,7 @@
 title: 清風黃金年糕排骨 — 在堤川偶然遇到的、小菜擺滿一桌的年糕排骨店
 cat: food
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🍖
 thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg

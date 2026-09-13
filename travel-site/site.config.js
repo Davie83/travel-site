@@ -137,8 +137,9 @@ module.exports = {
         ja: '忠清はソウルと釜山の間、内陸のちょうど真ん中です。大田の淡いコングクスのようなあっさりした一食があり、清風湖畔を見下ろす堤川の清風リゾートとその近くのトッカルビ店のように、湖のそばで一息つくコースもあります。高速道路で通る道すがらの一食や、丹陽・忠州をまとめた内陸の湖の旅に入れやすいです。',
         zh: '忠清位在首爾和釜山之間，內陸的正中央。有大田清淡的豆漿麵這種爽口的一餐，也有俯瞰清風湖的堤川清風度假村加附近年糕排骨店這種傍著湖休息的行程。適合開高速公路經過時吃一頓，或排進丹陽、忠州串起來的內陸湖泊旅行。' },
       areas: [
-        { slug: 'daejeon', names: { ko: '대전', en: 'Daejeon', ja: '大田', zh: '大田' } },
-        { slug: 'jecheon', names: { ko: '제천', en: 'Jecheon', ja: '堤川', zh: '堤川' } }
+        { slug: 'daejeon',  names: { ko: '대전', en: 'Daejeon',  ja: '大田', zh: '大田' } },
+        { slug: 'chungbuk', names: { ko: '충북', en: 'Chungbuk', ja: '忠北', zh: '忠北' } },
+        { slug: 'chungnam', names: { ko: '충남', en: 'Chungnam', ja: '忠南', zh: '忠南' } }
       ] },
     { slug: 'jeolla',      color: '#998329', colorDark: '#e7d488',   // 황금
       names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全羅' },
@@ -303,6 +304,7 @@ module.exports = {
     { key: '갈비',     names: { ko: '갈비',     en: 'Galbi',           ja: 'カルビ',       zh: '牛排骨' } },
     { key: '곱창',     names: { ko: '곱창',     en: 'Grilled offal',   ja: 'ホルモン焼き', zh: '烤牛腸' } },
     { key: '정식',     names: { ko: '정식',     en: 'Set meal',        ja: '定食',         zh: '套餐' } },
+    { key: '비빔밥',   names: { ko: '비빔밥',   en: 'Bibimbap',        ja: 'ビビンバ',     zh: '拌飯' } },
     { key: '족발',     names: { ko: '족발',     en: 'Jokbal',          ja: 'チョッパル',   zh: '豬腳' } },
     { key: '육회',     names: { ko: '육회',     en: 'Yukhoe',          ja: 'ユッケ',       zh: '生牛肉' } },
     { key: '떡갈비',   names: { ko: '떡갈비',   en: 'Tteok-galbi',     ja: 'トッカルビ',   zh: '年糕排骨' } },

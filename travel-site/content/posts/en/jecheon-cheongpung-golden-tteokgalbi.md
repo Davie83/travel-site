@@ -2,7 +2,7 @@
 title: Cheongpung Golden Tteok-galbi — A Chance Find in Jecheon, with a Table Full of Side Dishes
 cat: food
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🍖
 thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg

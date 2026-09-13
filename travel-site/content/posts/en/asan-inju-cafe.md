@@ -2,6 +2,7 @@
 title: Inju Cafe (Hanok Branch) — A Hanok Bakery by Sapgyocheon, More Space Than Bread
 cat: food
 region: chungcheong
+area: chungnam
 date: 2026-09-08
 emoji: 🥐
 thumb: assets/img/asan-inju-cafe.jpg

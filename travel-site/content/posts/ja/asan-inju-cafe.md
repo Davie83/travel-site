@@ -2,6 +2,7 @@
 title: インジュカフェ 韓屋店 — 挿橋川のそばの韓屋ベーカリー、パンより空間
 cat: food
 region: chungcheong
+area: chungnam
 date: 2026-09-08
 emoji: 🥐
 thumb: assets/img/asan-inju-cafe.jpg

@@ -2,7 +2,7 @@
 title: 清風度假村 — 設施老舊，但俯瞰清風湖的景色沒話說
 cat: travel
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🏞️
 thumb: assets/img/jecheon-cheongpung-resort.jpg

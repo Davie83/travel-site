@@ -2,7 +2,7 @@
 title: 清風黄金トッカルビ — 堤川でたまたま見つけた、おかずが一膳いっぱいのトッカルビ店
 cat: food
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🍖
 thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg

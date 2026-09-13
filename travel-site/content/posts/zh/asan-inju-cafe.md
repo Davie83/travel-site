@@ -2,6 +2,7 @@
 title: 仁州咖啡 韓屋店 — 挿橋川旁的韓屋烘焙坊，空間比麵包出色
 cat: food
 region: chungcheong
+area: chungnam
 date: 2026-09-08
 emoji: 🥐
 thumb: assets/img/asan-inju-cafe.jpg

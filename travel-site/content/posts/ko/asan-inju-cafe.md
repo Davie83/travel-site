@@ -2,6 +2,7 @@
 title: 인주카페 한옥점 — 삽교천 옆 한옥 베이커리, 빵보다 공간
 cat: food
 region: chungcheong
+area: chungnam
 date: 2026-09-08
 emoji: 🥐
 thumb: assets/img/asan-inju-cafe.jpg

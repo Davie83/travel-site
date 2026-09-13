@@ -2,7 +2,7 @@
 title: Cheongpung Resort — Dated Rooms, but the View Over Cheongpung Lake Delivers
 cat: travel
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🏞️
 thumb: assets/img/jecheon-cheongpung-resort.jpg

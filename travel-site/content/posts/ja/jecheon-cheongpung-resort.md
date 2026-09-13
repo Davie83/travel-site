@@ -2,7 +2,7 @@
 title: 清風リゾート — 施設は古いけれど、清風湖の眺めだけは確かな場所
 cat: travel
 region: chungcheong
-area: jecheon
+area: chungbuk
 date: 2026-08-31
 emoji: 🏞️
 thumb: assets/img/jecheon-cheongpung-resort.jpg

@@ -908,7 +908,7 @@ function mapBBoxOf(list) {
   const pts = list
     .filter(p => p.meta.lat && p.meta.lng)
     .map(p => ({
-      slug: p.slug, title: p.meta.title, region: p.meta.region,
+      slug: p.slug, title: p.meta.title, name: shortTitle(p.meta.title), region: p.meta.region,
       lat: parseFloat(p.meta.lat), lng: parseFloat(p.meta.lng)
     }))
     .filter(p => Number.isFinite(p.lat) && Number.isFinite(p.lng));
@@ -943,9 +943,11 @@ function schematicMapHTML(list, base, code, t, mapImg) {
 
   const dots = pts.map(p => {
     const [x, y] = toXY(p.lat, p.lng);
+    // 좌표만 찍으면 외국인 방문자는 그게 어디인지 알 길이 없어서, 점 옆에 상호명을
+    // 작게 같이 답니다(전체 제목은 너무 기니 대시 앞 이름만).
     return `        <a class="smap-dot" href="${base}${d}posts/${p.slug}" data-slug="${escapeHtml(p.slug)}"` +
       ` style="left:${x.toFixed(2)}%;top:${y.toFixed(2)}%;--r:var(--region-${escapeHtml(p.region)})"` +
-      ` aria-label="${escapeHtml(p.title)}"></a>`;
+      ` aria-label="${escapeHtml(p.title)}"><span class="smap-label">${escapeHtml(p.name)}</span></a>`;
   }).join('\n');
 
   // mapImg 가 있으면(빌드 시점에 Geoapify 에서 미리 받아둔 배경 지도) 그 위에 점을 얹고,

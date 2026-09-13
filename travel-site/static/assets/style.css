@@ -1048,7 +1048,8 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
    글이 있는 동네가 1곳뿐이면 build.js 가 아예 만들지 않습니다. */
 .achips-wrap{display:block;padding:14px 20px 0;}
 .achips-wrap:empty{display:none;}
-.gchips-wrap + .achips-wrap{margin-top:14px;border-top:1px solid var(--line);padding-top:14px;}
+.gchips-wrap + .achips-wrap,
+.achips-wrap + .gchips-wrap{margin-top:14px;border-top:1px solid var(--line);padding-top:14px;}
 .arealinks{display:flex;flex-wrap:wrap;gap:6px 16px;}
 .arealink{
   display:inline-flex;align-items:baseline;gap:3px;padding:3px 0;

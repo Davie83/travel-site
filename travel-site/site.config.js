@@ -18,7 +18,7 @@ module.exports = {
   // ★ 끝에 / 붙이지 마세요
   url: 'https://kfoodtrip.net',
 
-  email: 'ckqkrdl83@naver.com',
+  email: 'ckqkrdl83@gmail.com',
 
   /* ---- 링크 공유 미리보기 이미지 -------------------------------------
      카카오톡·페이스북·X 에서 링크를 붙였을 때 보이는 대표 이미지입니다.

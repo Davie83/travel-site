@@ -15,7 +15,8 @@ info:
   - With it|Steamed egg + rice + side dishes · **fried hairtail** is added as a free side
   - To drink|**Makgeolli** (popular as a daytime drink)
   - The fish|Not domestic (imported) · don't expect the taste of Jeju's domestic braised hairtail
-  - Hours · prices · closing day|Not confirmed (Namdaemun Market often closes Sundays · check before you go)
+  - Phone|02-775-5033
+  - Hours|**Daily 7:00 AM to 8:00 PM** · closed **every other Sunday** (not every week — check before you go)
 ---
 
 It's a diner inside Namdaemun Market, in the braised-hairtail alley. There are so many braised-hairtail shops here, and a bit of touting, that I can never remember which one I went to last time. I came in thinking this was that place — it wasn't.
@@ -55,6 +56,6 @@ They add **fried hairtail** as a free side dish. Picking at crisp fried hairtail
 
 - **Getting there** — Jung-gu, Seoul, the braised-hairtail alley of Namdaemun Market. There are several similar shops, so check the name before you sit down — the meal is much the same at any of them.
 - **Ordering** — braised hairtail + rice. Steamed egg and fried hairtail usually come with it. Makgeolli is separate.
-- **Closing day · hours · prices** — I couldn't confirm them this time. Many places in Namdaemun Market close on Sundays, so check before you go.
+- **Hours · closing day** — Daily 7 AM-8 PM, closed every other Sunday. It opens early, so it works well as the first stop of a market food crawl.
 
-> Based on a personal visit. Judgements on the taste, the spice level and the fish's origin are personal, and hours, prices and the closing day I couldn't confirm — check the venue's details once more before you go.
+> Based on a personal visit. Judgements on the taste, the spice level and the fish's origin are personal, and prices and the closing-day cycle can change — check the venue's details once more before you go.

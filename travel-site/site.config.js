@@ -228,11 +228,11 @@ module.exports = {
       stops: ['seoul-mokmyeoksanbang', 'seoul-tailor-coffee', 'seoul-myeongdong-gyoja', 'seoul-myeongdong-shindonggung'] },
 
     { slug: 'namdaemun-market',
-      names: { ko: '남대문시장 — 평양냉면, 백반, 갈치조림까지 시장 미식투어',
-               en: 'Namdaemun Market — a food crawl through pyeongyang naengmyeon, baekban, and braised hairtail',
-               ja: '南大門市場 — 平壌冷麺、白飯定食、太刀魚の煮付けまで市場食べ歩き',
-               zh: '南大門市場 — 平壤冷麵、家常定食、燉白帶魚的市場美食巡禮' },
-      stops: ['seoul-buwon-myeonok', 'seoul-ujeong-sikdang', 'seoul-honam-sikdang'] },
+      names: { ko: '남대문시장 — 아침 갈치조림, 점심 회정식, 저녁 전 냉면 한 그릇',
+               en: 'Namdaemun Market — braised hairtail for breakfast, a sashimi set for lunch, then naengmyeon before dinner',
+               ja: '南大門市場 — 朝は太刀魚の煮付け、昼は刺身定食、夕方は冷麺で一息',
+               zh: '南大門市場 — 早餐燉白帶魚、午餐生魚片定食、晚餐前來碗冷麵' },
+      stops: ['seoul-honam-sikdang', 'seoul-maknae-hoejip', 'seoul-buwon-myeonok'] },
 
     { slug: 'mapo-station',
       names: { ko: '마포 — 마포역 고깃집·생소고기와 양옥 카페',

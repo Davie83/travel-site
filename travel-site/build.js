@@ -867,6 +867,31 @@ ${list.map(p => pickCardHTML(p, base, code, t)).join('\n')}
       </div>
     </section>`;
 }
+/** 모음글(가이드) 픽 목록 — "OO 맛집 베스트" 같은 글에서, 이미 있는 글들을
+    순서대로 엮어 보여줍니다. picks 는 [{slug, note}] — note 는 사람이 쓴
+    한 줄 코멘트고, 사진·제목·링크는 그 slug 의 실제 글에서 그대로 가져옵니다
+    (원본 글이 나중에 바뀌어도 모음글이 자동으로 최신 상태를 따라갑니다). */
+function guideListHTML(picks, postsBySlug, base, code, t) {
+  const d = localeDir(code);
+  const rows = picks.map((pick, i) => {
+    const p = postsBySlug[pick.slug];
+    if (!p) { warnings.push(`가이드가 존재하지 않는 글을 가리킵니다: ${pick.slug}`); return ''; }
+    const m = p.meta;
+    const img = cardThumbPath(m.thumb) || m.thumb;
+    const thumb = img
+      ? `<img src="${base}${img}${imgVer(img)}" alt="${escapeHtml(m.title)}" loading="lazy" decoding="async" width="120" height="90">`
+      : `<span class="guide-pick-emoji" aria-hidden="true">${m.emoji || '📍'}</span>`;
+    return `        <a class="guide-pick" href="${base}${d}posts/${p.slug}" style="--r:var(--region-${escapeHtml(m.region)})">
+          <span class="guide-pick-n">${i + 1}</span>
+          <span class="guide-pick-thumb">${thumb}</span>
+          <span class="guide-pick-body">
+            <span class="guide-pick-name">${escapeHtml(shortTitle(m.title))}</span>
+            <span class="guide-pick-note">${escapeHtml(pick.note)}</span>
+          </span>
+        </a>`;
+  }).filter(Boolean).join('\n');
+  return `      <div class="guide-list">\n${rows}\n      </div>`;
+}
 /** 지역·동네 페이지의 장르 바로가기 칩 — 그 목록에 실제로 있는 음식 장르만,
     글 많은 순. filter.js 가 .gchips[data-target] → 그리드의 카드 data-genre 를
     걸러 그 자리에서 좁힙니다 (페이지 이동도 검색도 아닙니다). */
@@ -2140,7 +2165,7 @@ async function build() {
   // 언어별 글/페이지를 먼저 전부 읽습니다 (hreflang 계산에 필요)
   const byLocale = {};
   for (const l of LOCALES) {
-    byLocale[l.code] = { posts: loadPosts(l.code), pages: readWithLegacy('pages', l.code) };
+    byLocale[l.code] = { posts: loadPosts(l.code), pages: readWithLegacy('pages', l.code), guides: readWithLegacy('guides', l.code) };
 
     // 푸터가 항상 링크하는 3개 문서가 그 언어에 있는지 확인
     // (없으면 방문자가 푸터를 눌렀을 때 404 를 만납니다)
@@ -2331,6 +2356,12 @@ async function build() {
         const indexed = inArea.length >= AREA_PAGE_MIN;
         const areaUrl = `${SITE_URL}/${cleanUrl(out)}`;
 
+        // 이 동네를 다룬 모음글(가이드)이 있으면 상단에 짧게 링크합니다
+        const areaGuide = (byLocale[code].guides || []).find(g => g.meta.region === r.slug && g.meta.area === a.slug);
+        const guideBanner = areaGuide
+          ? `  <a class="guide-banner" href="${base}${d}guides/${areaGuide.slug}">${escapeHtml(t.guideBannerLabel)} →</a>`
+          : '';
+
         const tabs = [{ slug: 'all', label: t.all, n: inArea.length }]
           .concat(site.categories.map(c => ({
             slug: c.slug, label: t.category[c.slug], n: inArea.filter(p => p.meta.cat === c.slug).length
@@ -2362,7 +2393,7 @@ async function build() {
             regionName: escapeHtml(aName),
             regionEn: escapeHtml(a.slug),
             intro: pageIntroHTML(areaIntroTxt, r.slug),
-            routeShelf: '',
+            routeShelf: guideBanner,
             near: nearWidgetHTML(t, code, 'region-grid'),
             tabs: tabs,
             genreChips: genreQuickChipsHTML(inArea, code, t),
@@ -2660,6 +2691,61 @@ ${tocList}
         })
       }));
       urls.push({ loc: out, pri: '0.3' });
+    }
+
+    /* ---- 모음글(가이드) — "명동 맛집 베스트" 처럼 이미 있는 글 여러 개를
+       엮은 편집 콘텐츠. picks 프론트매터가 가리키는 글의 실제 데이터(사진·
+       제목)를 그대로 가져다 쓰므로, 원본 글이 바뀌면 자동으로 반영됩니다. */
+    const postsBySlug = {};
+    posts.forEach(p => { postsBySlug[p.slug] = p; });
+    const hasGuide = (slug, c) => (byLocale[c].guides || []).some(x => x.slug === slug);
+
+    for (const g of (byLocale[code].guides || [])) {
+      const picks = (g.meta.picks || []).map(row => {
+        const s = String(row);
+        const i = s.indexOf('|');
+        return i < 0 ? null : { slug: s.slice(0, i).trim(), note: s.slice(i + 1).trim() };
+      }).filter(Boolean);
+
+      const out = d + `guides/${g.slug}.html`;
+      const base = baseOf(out);
+      const rName = g.meta.region ? regionName(g.meta.region, code) : '';
+      const aName = (g.meta.region && g.meta.area) ? areaName(g.meta.region, g.meta.area, code) : '';
+      const label = [rName, aName].filter(Boolean).join(' · ');
+      const backHref = (g.meta.region && g.meta.area) ? `${base}${d}${g.meta.region}/${g.meta.area}` : '';
+      const backLink = backHref
+        ? `\n    <p class="guide-back"><a href="${backHref}">${escapeHtml(aName || rName)} ${escapeHtml(t.guideBackSuffix)} →</a></p>`
+        : '';
+
+      const pageUrl = `${SITE_URL}/${cleanUrl(out)}`;
+      const itemListLd = {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: g.meta.title,
+        url: pageUrl,
+        itemListElement: picks.map((pick, i) => {
+          const p = postsBySlug[pick.slug];
+          return p ? { '@type': 'ListItem', position: i + 1, name: p.meta.title, url: `${SITE_URL}/${cleanUrl(d + 'posts/' + p.slug + '.html')}` } : null;
+        }).filter(Boolean)
+      };
+
+      writeFile(out, renderPage({
+        out, code, current: g.meta.region || 'guides',
+        title: `${g.meta.title} — ${siteName(code)}`,
+        description: g.meta.excerpt || I18N[code].siteDesc,
+        availability: availFor(`guides/${g.slug}.html`, c => hasGuide(g.slug, c)),
+        headExtra: `<script type="application/ld+json">${JSON.stringify(itemListLd)}</script>`,
+        body: fill(T.page, {
+          crumbs: '',
+          title: escapeHtml(g.meta.title),
+          updated: '',
+          content: (label ? `<p class="guide-label">${escapeHtml(label)}</p>\n` : '')
+            + markdown(g.body) + '\n'
+            + guideListHTML(picks, postsBySlug, base, code, t)
+            + backLink
+        })
+      }));
+      urls.push({ loc: out, pri: '0.7', freq: 'monthly' });
     }
 
     /* ---- 저장한 곳 (즐겨찾기) ----

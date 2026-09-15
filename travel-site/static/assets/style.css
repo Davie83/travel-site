@@ -1660,11 +1660,33 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
   src:url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeumSBA.woff') format('woff');
   font-weight:700;font-style:normal;font-display:swap;
 }
+/* 사이트 전체 제목 계열(h1·h2)과 목록 카드 제목(h3)에 훈민정음체를 적용합니다.
+   한글 전용 폰트라 영어·일본어·중국어 페이지에서는 글자별로 이 폰트에 없는
+   글자만 자동으로 --kr(Pretendard) 폴백으로 넘어갑니다 — font-family 목록의
+   기본 동작이라 별도 분기 코드 없이 언어별로 자연스럽게 갈립니다.
+   굵기(font-weight) 값은 각 요소에 이미 있는 값을 그대로 두고 폰트만 바꿉니다 —
+   이 폰트엔 400·700 두 굵기만 있어서 750·800 같은 값도 가장 가까운 700으로
+   자동으로 매칭됩니다. */
+.hero h1,
+.region-head h1,
+.post-head h1,
+.doc h1,
+.section-head h2,
+.post-body h2,
+.saved-strip-head h2,
+.route-head h2,
+.tips-toc h2,
+.presets-head h2,
+.doc h2,
+.card-body h3,
+.route-card-name{
+  font-family:'EBS Hunminjeongeum',var(--kr);
+}
 .route-card-top{display:flex;align-items:baseline;gap:6px;}
 .route-card-region{font-size:10px;font-weight:800;letter-spacing:.02em;color:var(--r,var(--ink-mute));}
 .route-card-n{margin-left:auto;font-size:10px;font-weight:700;color:var(--ink-mute);}
 .route-card-name{
-  font-family:'EBS Hunminjeongeum',var(--kr);font-weight:700;
+  font-weight:700;
   font-size:16px;line-height:1.3;letter-spacing:-.01em;color:var(--ink);
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }

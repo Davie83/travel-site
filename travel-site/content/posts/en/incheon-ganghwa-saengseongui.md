@@ -30,7 +30,9 @@ Order the grilled-fish set and **several kinds of fish** come out together — b
 
 The point is the grilling. **It's done over charcoal in the kitchen, and the doneness is exact** — crisp outside, moist inside, cooked through without a burnt taste. It had been a while since I'd said out loud that grilled fish was good.
 
-![Fish on the charcoal grill and grilled fish on a plate — Ganghwa-do Matjip Charcoal Grilled Fish](/assets/img/incheon-ganghwa-saengseongui-grill.jpg)
+The shop's own window is plastered with big photos of the grilled fish, so you know exactly what they serve before you even walk in.
+
+![Photos of grilled fish covering the storefront window at Ganghwa-do Matjip Charcoal Grilled Fish](/assets/img/incheon-ganghwa-saengseongui-storefront.jpg)
 
 ## The set isn't cheap, but
 

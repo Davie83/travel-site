@@ -30,7 +30,9 @@ info:
 
 重點在火候。**在廚房用炭火烤好端出來，這個拿捏得剛剛好。** 外面酥、裡面嫩，沒有焦味地烤透。很久沒有把「烤魚好吃」講出口了。
 
-![炭火上的魚，和盤子裡盛的烤魚 —— 江華島美食 炭火烤魚](/assets/img/incheon-ganghwa-saengseongui-grill.jpg)
+店門口的玻璃窗上也貼滿了烤魚的大幅照片，從外面就能一眼看出這是賣什麼的店。
+
+![江華島美食炭火烤魚店門口，玻璃窗上貼的烤魚照片](/assets/img/incheon-ganghwa-saengseongui-storefront.jpg)
 
 ## 定食不便宜，但
 

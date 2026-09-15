@@ -550,15 +550,50 @@ a.more{color:var(--ink);font-weight:600;}
 .rtab.on{color:var(--ink);border-bottom-color:var(--ink);}
 .rtab .n{font-family:var(--en);font-size:11.5px;opacity:.6;margin-left:5px;}
 
-/* 장르 바로가기 칩 (지역·동네 페이지) — 카테고리 탭 바로 아래에서 목록을 좁힙니다.
+/* ── 지역 페이지 탭 줄 — 카테고리 탭 + "내 주변" 을 한 줄에 ─────────────
+   예전에는 "내 주변"이 문장형 버튼으로 탭 아래 따로 한 줄을 차지했습니다.
+   지역 페이지에서는 탭 옆 작은 알약 버튼으로 줄여 화면을 아낍니다
+   (홈·카테고리 페이지의 원래 크기는 그대로 둡니다 — 그쪽은 안 건드립니다). */
+.rtabs-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.rtabs-row .rtabs{flex:1 1 auto;min-width:0;}
+.rtabs-row .nearbar{margin:0;flex:0 0 auto;}
+.rtabs-row .near{display:flex;align-items:center;gap:6px;}
+.rtabs-row .near-btn{
+  width:auto;padding:7px 14px;font-size:.8rem;font-weight:700;border-radius:999px;
+  background:var(--surface-2);color:var(--ink-mid);border-color:var(--line);
+  box-shadow:none;animation:none;
+}
+.rtabs-row .near-btn:hover{border-color:var(--line-hard);color:var(--ink);opacity:1;}
+.rtabs-row .near-btn-ico{font-size:.9rem;}
+.rtabs-row .near-hint{display:none;}
+.rtabs-row .near-msg{display:block;flex-basis:100%;font-size:.75rem;}
+
+/* ── 동네·음식 종류 필터 바 (지역 페이지, build.js 의 filterBarHTML) ──────
+   예전에는 동네 이동 링크와 음식 종류 칩이 각각 늘 펼쳐진 두 줄이라 화면을
+   많이 차지했습니다. 접힌 버튼 두 개로 줄이고, 누르면 그 아래에 패널이
+   펼쳐집니다 (동작은 assets/filter.js 의 .fbar 처리기). "동네"는 필터가
+   아니라 다른 페이지로 가는 링크라 선택 상태를 표시하지 않고, "음식 종류"만
+   고른 값을 버튼에 그대로 보여줍니다(.fbtn-value). */
+.fbar{padding:12px 20px 4px;}
+.fbar-buttons{display:flex;gap:8px;flex-wrap:wrap;}
+.fbtn{
+  display:inline-flex;align-items:center;gap:6px;font:inherit;
+  padding:7px 14px;border-radius:999px;font-size:13px;font-weight:700;
+  border:1px solid var(--line);background:var(--surface);color:var(--ink-mid);cursor:pointer;
+}
+.fbtn:hover{border-color:var(--line-hard);color:var(--ink);}
+.fbtn.open{border-color:var(--line-hard);color:var(--ink);background:var(--surface-2);}
+.fbtn.is-set{border-color:var(--line-hard);}
+.fbtn-value{color:var(--ink);font-weight:800;}
+.fbtn-arrow{font-size:10px;color:var(--ink-mute);display:inline-block;transition:transform .14s ease;}
+.fbtn.open .fbtn-arrow{transform:rotate(180deg);}
+.fpanel{padding-top:12px;}
+.fpanel[hidden]{display:none;}
+
+/* 장르 바로가기 칩 (지역·동네 페이지) — 위 필터 바의 펼침 패널 안에 들어갑니다.
    많을 수 있어 모바일에서는 가로로 넘깁니다.
    ★ "음식 종류"(필터, 이 페이지에서 걸러짐)와 "동네"(링크, 동네 페이지로 이동)는
      하는 일이 달라서 — 음식은 알약 칩, 동네는 핀 붙은 텍스트 링크로 갈라 놓습니다. */
-.gchips-wrap{padding:14px 20px 0;}
-.gchips-wrap:empty{display:none;}
-.gchips-label,.arealinks-label{
-  margin:0 0 8px;font-size:11px;font-weight:800;letter-spacing:.01em;color:var(--ink-mute);
-}
 .gchips{display:flex;flex-wrap:wrap;gap:7px;}
 .gchip{
   padding:6px 12px;border-radius:999px;font-size:12.5px;font-weight:600;font-family:inherit;
@@ -1086,13 +1121,9 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
 }
 
 /* ---- 동네 이동 링크 (지역 페이지) -----------------------------------
-   여의도·명동 같은 동네 페이지로 가는 링크입니다 (필터 아님). 위의 "음식 종류"
-   필터 칩과 헷갈리지 않게, 알약이 아니라 핀 붙은 텍스트 링크로 그립니다.
+   여의도·명동 같은 동네 페이지로 가는 링크입니다 (필터 아님). 필터 바(.fbar)의
+   펼침 패널 안에 들어가, 알약이 아니라 핀 붙은 텍스트 링크로 그립니다.
    글이 있는 동네가 1곳뿐이면 build.js 가 아예 만들지 않습니다. */
-.achips-wrap{display:block;padding:14px 20px 0;}
-.achips-wrap:empty{display:none;}
-.gchips-wrap + .achips-wrap,
-.achips-wrap + .gchips-wrap{margin-top:14px;border-top:1px solid var(--line);padding-top:14px;}
 .arealinks{display:flex;flex-wrap:wrap;gap:6px 16px;}
 .arealink{
   display:inline-flex;align-items:baseline;gap:3px;padding:3px 0;
@@ -1585,44 +1616,46 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 
 /* ── 추천 코스 미리보기 (홈·지역 페이지) ────────────────────────────
    /saved 의 "코스 담기" 버튼과 달리, 눌러서 미리 볼 수 있는 링크 카드입니다.
-   /saved?route=<slug> 로 가면 assets/saved.js 가 그 코스를 자동으로 담습니다. */
+   /saved?route=<slug> 로 가면 assets/saved.js 가 그 코스를 자동으로 담습니다.
+   예전에는 정류장 이름을 화살표로 이은 칩을 카드마다 늘어놓아 세로로 길었습니다.
+   첫 정류장 사진 + 이름 + 소개 한 줄로 줄인 가로형 카드로 바꿨습니다. */
 .route-shelf{padding-bottom:8px;}
 .route-shelf-scroll{
-  display:flex;gap:12px;overflow-x:auto;
+  display:flex;gap:10px;overflow-x:auto;
   scroll-snap-type:x proximity;-webkit-overflow-scrolling:touch;
   padding:2px 2px 10px;margin:0 -2px;scrollbar-width:thin;
 }
 .route-shelf-scroll::-webkit-scrollbar{height:6px;}
 .route-shelf-scroll::-webkit-scrollbar-thumb{background:var(--line-hard);border-radius:3px;}
 .route-card{
-  flex:0 0 250px;scroll-snap-align:start;
-  display:flex;flex-direction:column;gap:9px;
-  padding:14px 15px 15px;
+  flex:0 0 216px;scroll-snap-align:start;
+  display:flex;align-items:center;gap:10px;
+  padding:9px 12px;
   background:var(--surface);border:1px solid var(--line);border-radius:13px;
   color:inherit;text-decoration:none;
   transition:transform .14s ease,border-color .14s ease;
 }
 .route-card:hover{transform:translateY(-2px);border-color:var(--line-hard);}
 .route-card:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
-.route-card-top{display:flex;align-items:baseline;gap:8px;}
-.route-card-region{font-size:11px;font-weight:800;letter-spacing:.02em;color:var(--r,var(--ink-mute));}
-.route-card-n{margin-left:auto;font-size:11px;font-weight:700;color:var(--ink-mute);}
+.route-card-thumb{
+  flex:none;width:52px;height:52px;border-radius:10px;overflow:hidden;
+  background:color-mix(in srgb,var(--r) 15%,var(--surface));
+  display:flex;align-items:center;justify-content:center;
+}
+.route-card-thumb img{width:100%;height:100%;object-fit:cover;display:block;}
+.route-card-emoji{font-size:20px;}
+.route-card-body{min-width:0;flex:1 1 auto;display:flex;flex-direction:column;gap:1px;}
+.route-card-top{display:flex;align-items:baseline;gap:6px;}
+.route-card-region{font-size:10px;font-weight:800;letter-spacing:.02em;color:var(--r,var(--ink-mute));}
+.route-card-n{margin-left:auto;font-size:10px;font-weight:700;color:var(--ink-mute);}
 .route-card-name{
-  font-size:14px;font-weight:750;line-height:1.32;letter-spacing:-.025em;color:var(--ink);
-  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  font-size:13px;font-weight:750;line-height:1.3;letter-spacing:-.02em;color:var(--ink);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
 .route-card-sub{
-  font-size:11.5px;font-weight:500;line-height:1.4;letter-spacing:-.01em;color:var(--ink-mid);
-  margin-top:-3px;
-  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  font-size:11px;font-weight:500;line-height:1.3;letter-spacing:-.01em;color:var(--ink-mid);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
-.route-card-stops{display:flex;align-items:center;gap:5px;flex-wrap:wrap;margin-top:1px;}
-.route-card-stop{
-  font-size:10.5px;font-weight:700;color:var(--ink-mid);
-  border:1px solid var(--line);border-radius:6px;padding:2px 7px;white-space:nowrap;
-}
-.route-card-stop.is-more{border:0;padding:2px;color:var(--ink-mute);}
-.route-card-arw{font-size:9px;color:var(--ink-mute);}
 @media (max-width:640px){
   .route-shelf-scroll{margin:0 -16px;padding-left:16px;padding-right:16px;}
 }

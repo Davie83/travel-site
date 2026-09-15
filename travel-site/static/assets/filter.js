@@ -23,11 +23,10 @@
     const input    = document.querySelector(`input[data-target="${grid.id}"]`);
     const chipBox  = document.querySelector(`.chips[data-target="${grid.id}"]`);
     const tabBox   = document.querySelector(`.rtabs[data-target="${grid.id}"]`);
-    const areaBox  = document.querySelector(`.achips-wrap[data-target="${grid.id}"]`);
     const pickBox  = document.querySelector(`.picks[data-target="${grid.id}"]`);
     const genreBox = document.querySelector(`.gchips[data-target="${grid.id}"]`);
 
-    if (!input && !chipBox && !tabBox && !areaBox && !pickBox && !genreBox) return;   // 관련 글 목록 등은 그대로 둡니다
+    if (!input && !chipBox && !tabBox && !pickBox && !genreBox) return;   // 관련 글 목록 등은 그대로 둡니다
 
     // 검색어 · 지역 · 카테고리 · 장르 · 소문난/끌리는 을 함께 기억합니다 (하나를 바꿔도 나머지가 풀리지 않음)
     const state = { keyword: '', region: 'all', area: 'all', cat: 'all', genre: 'all', pick: 'all' };
@@ -160,12 +159,29 @@
 
     // 카테고리 탭(여행지/맛집)과 장르 칩(국밥·냉면…)은 목록을 나누는 두 방식이라
     // 서로를 풉니다. 하나를 누르면 다른 쪽은 "전체" 로 되돌립니다.
+
+    // 장르 칩을 고르면 위 "음식 종류로 좁히기" 버튼에도 고른 값을 그대로 보여줍니다
+    // (filterBarHTML 이 만든 .fbtn-label/.fbtn-value 를 켜고 끕니다).
+    const genreFbtn = document.querySelector('.fbtn[data-panel="fp-genre"]');
+    function paintGenreBtn(activeChip) {
+      if (!genreFbtn) return;
+      const label = genreFbtn.querySelector('.fbtn-label');
+      const value = genreFbtn.querySelector('.fbtn-value');
+      if (!label || !value) return;
+      const isAll = !activeChip || activeChip.dataset.genre === 'all';
+      label.hidden = !isAll;
+      value.hidden = isAll;
+      value.textContent = isAll ? '' : (activeChip.dataset.label || '');
+      genreFbtn.classList.toggle('is-set', !isAll);
+    }
+
     function resetGenre() {
       if (!genreBox) return;
       genreBox.querySelectorAll('.gchip').forEach(b => b.classList.remove('on'));
       const first = genreBox.querySelector('.gchip[data-genre="all"]') || genreBox.querySelector('.gchip');
       if (first) first.classList.add('on');
       state.genre = 'all';
+      paintGenreBtn(first);
     }
     function resetCat() {
       if (!tabBox) return;
@@ -195,6 +211,7 @@
         btn.classList.add('on');
         state.genre = btn.dataset.genre;
         if (state.genre !== 'all') resetCat();
+        paintGenreBtn(btn);
         apply();
       });
     }
@@ -210,6 +227,28 @@
       });
     }
   }
+
+  /* ---------------------------------------------------------------------
+     지역 페이지 필터 바 — "동네" · "음식 종류" 버튼을 누르면 그 아래 패널이
+     펼쳐집니다 (build.js 의 filterBarHTML). 한 번에 하나만 열어 둡니다.
+     --------------------------------------------------------------------- */
+  document.querySelectorAll('.fbar').forEach(bar => {
+    const buttons = Array.from(bar.querySelectorAll('.fbtn'));
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const panel = document.getElementById(btn.getAttribute('data-panel'));
+        if (!panel) return;
+        const willOpen = panel.hidden;
+        buttons.forEach(b => {
+          const p = document.getElementById(b.getAttribute('data-panel'));
+          if (p && p !== panel) { p.hidden = true; b.classList.remove('open'); b.setAttribute('aria-expanded', 'false'); }
+        });
+        panel.hidden = !willOpen;
+        btn.classList.toggle('open', willOpen);
+        btn.setAttribute('aria-expanded', String(willOpen));
+      });
+    });
+  });
 
   /* ---------------------------------------------------------------------
      모바일 햄버거 메뉴

@@ -781,7 +781,10 @@ ${cards}
 /** 추천 코스 미리보기 카드 — 홈·지역 페이지에서 동선을 눈에 띄게 보여줍니다.
     /saved 의 "코스 담기" 버튼과 달리 링크 카드입니다 — 누르면
     /saved?route=<slug> 로 가서 그 코스가 자동으로 담깁니다 (assets/saved.js).
-    opts.regionSlug 를 주면 그 지역 글로 시작하는 코스만 남기고 지역 이름표는 뺍니다. */
+    opts.regionSlug 를 주면 그 지역 글로 시작하는 코스만 남기고 지역 이름표는 뺍니다.
+    예전에는 정류장 이름을 화살표로 이은 칩을 카드마다 늘어놓아 세로로 길었습니다.
+    첫 정류장의 사진 한 장 + 이름 + 소개 한 줄로 줄여서, 지역 페이지 맨 위가
+    카드 여러 장으로 화면을 다 채우지 않게 했습니다. */
 function routeCardsHTML(posts, code, t, opts) {
   opts = opts || {};
   const list = site.routes || [];
@@ -794,27 +797,26 @@ function routeCardsHTML(posts, code, t, opts) {
   const cards = list.map(r => {
     const stops = (r.stops || []).filter(s => bySlug[s]);
     if (stops.length < 2) return null;
-    const rSlug = (bySlug[stops[0]].meta || {}).region || '';
+    const first = bySlug[stops[0]];
+    const rSlug = (first.meta || {}).region || '';
     if (opts.regionSlug && rSlug !== opts.regionSlug) return null;
     const name = (r.names && (r.names[code] || r.names.en)) || r.slug;
     const np = titleParts(name);
-    const nameHTML = np.sub
-      ? `<span class="route-card-name">${escapeHtml(np.name)}</span>` +
-        `<span class="route-card-sub">${escapeHtml(np.sub)}</span>`
-      : `<span class="route-card-name">${escapeHtml(np.name)}</span>`;
-    const chips = stops.slice(0, 4).map(s =>
-      `<span class="route-card-stop">${escapeHtml(shortTitle((bySlug[s].meta || {}).title || s))}</span>`
-    ).join('<span class="route-card-arw" aria-hidden="true">→</span>');
-    const more = stops.length > 4
-      ? `<span class="route-card-stop is-more">+${stops.length - 4}</span>` : '';
+    const img = cardThumbPath(first.meta.thumb) || first.meta.thumb;
+    const thumb = img
+      ? `<img src="${base}${img}${imgVer(img)}" alt="" loading="lazy" decoding="async" width="52" height="52">`
+      : `<span class="route-card-emoji" aria-hidden="true">${first.meta.emoji || '📍'}</span>`;
     const region = opts.regionSlug ? ''
       : `<span class="route-card-region">${escapeHtml(regionName(rSlug, code))}</span>`;
     return `        <a class="route-card" style="--r:var(--region-${escapeHtml(rSlug)})"` +
       ` href="${base}${d}saved?route=${encodeURIComponent(r.slug)}"` +
       ` aria-label="${escapeHtml(name + ' — ' + t.presetStops(stops.length))}">
-          <span class="route-card-top">${region}<span class="route-card-n">${escapeHtml(t.presetStops(stops.length))}</span></span>
-          ${nameHTML}
-          <span class="route-card-stops">${chips}${more}</span>
+          <span class="route-card-thumb">${thumb}</span>
+          <span class="route-card-body">
+            <span class="route-card-top">${region}<span class="route-card-n">${escapeHtml(t.presetStops(stops.length))}</span></span>
+            <span class="route-card-name">${escapeHtml(np.name)}</span>` +
+    (np.sub ? `\n            <span class="route-card-sub">${escapeHtml(np.sub)}</span>` : '') + `
+          </span>
         </a>`;
   }).filter(Boolean);
   if (!cards.length) return '';
@@ -894,7 +896,9 @@ function guideListHTML(picks, postsBySlug, base, code, t) {
 }
 /** 지역·동네 페이지의 장르 바로가기 칩 — 그 목록에 실제로 있는 음식 장르만,
     글 많은 순. filter.js 가 .gchips[data-target] → 그리드의 카드 data-genre 를
-    걸러 그 자리에서 좁힙니다 (페이지 이동도 검색도 아닙니다). */
+    걸러 그 자리에서 좁힙니다 (페이지 이동도 검색도 아닙니다).
+    칩 자체만 돌려주고, "음식 종류로 좁히기" 라벨과 접었다 펼치는 버튼은
+    filterBarHTML() 이 동네 이동 링크와 함께 묶어 하나의 필터 바로 그립니다. */
 function genreQuickChipsHTML(list, code, t) {
   const food = list.filter(p => p.meta.cat === 'food');
   if (food.length < 5) return '';
@@ -906,7 +910,7 @@ function genreQuickChipsHTML(list, code, t) {
   const slugs = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b));
   if (slugs.length < 2) return '';
   const chip = (genre, label, n, on) =>
-    `<button class="gchip${on ? ' on' : ''}" type="button" data-genre="${escapeHtml(genre)}">` +
+    `<button class="gchip${on ? ' on' : ''}" type="button" data-genre="${escapeHtml(genre)}" data-label="${escapeHtml(label)}">` +
     `${escapeHtml(label)}<span class="n">${n}</span></button>`;
   const chips = [chip('all', t.all, food.length, true)].concat(
     slugs.map(s => {
@@ -915,11 +919,46 @@ function genreQuickChipsHTML(list, code, t) {
       return chip(s, label, counts[s], false);
     })
   );
-  return `  <div class="wrap gchips-wrap">
-    <p class="gchips-label">${escapeHtml(t.genreNarrowLabel || '')}</p>
-    <div class="gchips" data-target="region-grid">
+  return `    <div class="gchips" data-target="region-grid">
       ${chips.join('\n      ')}
+    </div>`;
+}
+
+/** 지역 페이지 상단의 "동네" · "음식 종류" 필터 바.
+    예전에는 동네 이동 링크(.arealinks)와 음식 종류 칩(.gchips)이 각각 늘
+    펼쳐진 채로 화면을 차지했습니다. 이제 접힌 버튼 두 개로 줄이고, 누르면
+    그 아래에 패널이 펼쳐집니다 (동작은 assets/filter.js 의 .fbar 처리기).
+    "동네"는 필터가 아니라 다른 페이지(동네 페이지)로 가는 링크라 선택 상태를
+    표시하지 않고, "음식 종류"만 filter.js 가 고른 값을 버튼에 그대로 보여줍니다.
+    둘 중 하나만 있어도(예: 동네 페이지에서는 음식 종류만) 그만큼만 그립니다. */
+function filterBarHTML(areaLinksInner, genreInner, code, t) {
+  const e = escapeHtml;
+  const parts = [];
+  if (areaLinksInner) {
+    parts.push({
+      id: 'fp-area',
+      btn: `<button class="fbtn" type="button" data-panel="fp-area" aria-expanded="false" aria-controls="fp-area">` +
+        `<span class="fbtn-label">${e(t.areaJumpLabel)}</span>` +
+        `<span class="fbtn-arrow" aria-hidden="true">▾</span></button>`,
+      body: areaLinksInner
+    });
+  }
+  if (genreInner) {
+    parts.push({
+      id: 'fp-genre',
+      btn: `<button class="fbtn" type="button" data-panel="fp-genre" aria-expanded="false" aria-controls="fp-genre">` +
+        `<span class="fbtn-label">${e(t.genreNarrowLabel)}</span>` +
+        `<span class="fbtn-value" hidden></span>` +
+        `<span class="fbtn-arrow" aria-hidden="true">▾</span></button>`,
+      body: genreInner
+    });
+  }
+  if (!parts.length) return '';
+  return `  <div class="wrap fbar">
+    <div class="fbar-buttons">
+${parts.map(p => '      ' + p.btn).join('\n')}
     </div>
+${parts.map(p => `    <div class="fpanel" id="${p.id}" hidden>\n${p.body}\n    </div>`).join('\n')}
   </div>`;
 }
 /** 동네 지도 — 지역·동네 페이지 목록 옆에 붙는 "약도" 입니다.
@@ -2296,10 +2335,10 @@ async function build() {
 
       /* 동네 줄 — 글이 있는 동네가 2곳 이상일 때만. 필터가 아니라 각 동네
          페이지(/en/seoul/myeongdong)로 가는 링크라, 알약이 아니라 핀 붙은
-         텍스트 링크로 그려서 위의 "음식 종류" 필터 칩과 확실히 갈라 놓습니다. */
+         텍스트 링크로 그려서 "음식 종류" 필터 칩과 확실히 갈라 놓습니다.
+         라벨과 여닫는 버튼은 filterBarHTML() 이 붙입니다. */
       const liveAreas = areasOf(r.slug).filter(a => inRegion.some(p => p.meta.area === a.slug));
-      const areaChips = liveAreas.length < 2 ? '' :
-        `<p class="arealinks-label">${escapeHtml(t.areaJumpLabel || '')}</p>\n` +
+      const areaLinksInner = liveAreas.length < 2 ? '' :
         `        <div class="arealinks">\n` +
         liveAreas.map(a =>
           `          <a class="arealink" href="${base}${d}${r.slug}/${a.slug}"><span class="pin" aria-hidden="true">📍</span>${escapeHtml(areaName(r.slug, a.slug, code))}` +
@@ -2325,8 +2364,7 @@ async function build() {
           routeShelf: routeCardsHTML(posts, code, t, { base, regionSlug: r.slug }),
           near: nearWidgetHTML(t, code, 'region-grid'),
           tabs: tabs,
-          genreChips: regionGenreChips,
-          areaChips: areaChips,
+          filterBar: filterBarHTML(areaLinksInner, regionGenreChips, code, t),
           schematicMap: regionMap,
           cards: inRegion.length
             ? inRegion.map(p => cardHTML(p, base, code, t)).join('\n')
@@ -2396,8 +2434,7 @@ async function build() {
             routeShelf: guideBanner,
             near: nearWidgetHTML(t, code, 'region-grid'),
             tabs: tabs,
-            genreChips: genreQuickChipsHTML(inArea, code, t),
-            areaChips: '',
+            filterBar: filterBarHTML('', genreQuickChipsHTML(inArea, code, t), code, t),
             schematicMap: schematicMapHTML(inArea, base, code, t, mapImages[`${r.slug}-${a.slug}`]),
             cards: inArea.map(p => cardHTML(p, base, code, t)).join('\n'),
             noResult: escapeHtml(t.noResult),

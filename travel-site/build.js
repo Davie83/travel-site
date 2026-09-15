@@ -784,7 +784,8 @@ ${cards}
     opts.regionSlug 를 주면 그 지역 글로 시작하는 코스만 남기고 지역 이름표는 뺍니다.
     예전에는 정류장 이름을 화살표로 이은 칩을 카드마다 늘어놓아 세로로 길었습니다.
     첫 정류장의 음식 사진을 썸네일로 썼더니 "코스"인데 "음식 사진"처럼 보인다는
-    지적이 있어, 사진 대신 동네 이름 배지(.route-card-badge, 명조체)로 바꿨습니다. */
+    지적을 받아, 사진/배지 이미지 자리를 아예 없애고 코스 이름 자체를 훈민정음체
+    굵게(.route-card-name)로 눈에 띄게 하는 쪽으로 바꿨습니다. */
 function routeCardsHTML(posts, code, t, opts) {
   opts = opts || {};
   const list = site.routes || [];
@@ -801,19 +802,14 @@ function routeCardsHTML(posts, code, t, opts) {
     if (opts.regionSlug && rSlug !== opts.regionSlug) return null;
     const name = (r.names && (r.names[code] || r.names.en)) || r.slug;
     const np = titleParts(name);
-    // 배지에 넣을 짧은 이름 — 코스 이름 맨 앞 동네만(예: "여의도 서여의도" → "여의도")
-    const badgeLabel = (np.name.split(/[\s·]+/)[0] || np.name).slice(0, 6);
     const region = opts.regionSlug ? ''
       : `<span class="route-card-region">${escapeHtml(regionName(rSlug, code))}</span>`;
     return `        <a class="route-card" style="--r:var(--region-${escapeHtml(rSlug)})"` +
       ` href="${base}${d}saved?route=${encodeURIComponent(r.slug)}"` +
       ` aria-label="${escapeHtml(name + ' — ' + t.presetStops(stops.length))}">
-          <span class="route-card-thumb" aria-hidden="true"><span class="route-card-badge">${escapeHtml(badgeLabel)}</span></span>
-          <span class="route-card-body">
-            <span class="route-card-top">${region}<span class="route-card-n">${escapeHtml(t.presetStops(stops.length))}</span></span>
-            <span class="route-card-name">${escapeHtml(np.name)}</span>` +
-    (np.sub ? `\n            <span class="route-card-sub">${escapeHtml(np.sub)}</span>` : '') + `
-          </span>
+          <span class="route-card-top">${region}<span class="route-card-n">${escapeHtml(t.presetStops(stops.length))}</span></span>
+          <span class="route-card-name">${escapeHtml(np.name)}</span>` +
+    (np.sub ? `\n          <span class="route-card-sub">${escapeHtml(np.sub)}</span>` : '') + `
         </a>`;
   }).filter(Boolean);
   if (!cards.length) return '';

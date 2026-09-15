@@ -1622,8 +1622,10 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 /* ── 추천 코스 미리보기 (홈·지역 페이지) ────────────────────────────
    /saved 의 "코스 담기" 버튼과 달리, 눌러서 미리 볼 수 있는 링크 카드입니다.
    /saved?route=<slug> 로 가면 assets/saved.js 가 그 코스를 자동으로 담습니다.
-   예전에는 정류장 이름을 화살표로 이은 칩을 카드마다 늘어놓아 세로로 길었습니다.
-   첫 정류장 사진 + 이름 + 소개 한 줄로 줄인 가로형 카드로 바꿨습니다. */
+   예전엔 정류장 이름을 화살표로 이은 칩을 늘어놓아 세로로 길었고, 그다음엔
+   첫 정류장 음식 사진 → 동네 이름 배지를 차례로 넣어봤는데, "코스"에 사진/배지
+   이미지가 있는 게 어색하다는 지적을 받아 이미지 자리를 아예 없앴습니다.
+   대신 코스 이름 자체를 훈민정음체 굵게(.route-card-name)로 키워 눈에 띄게 합니다. */
 .route-shelf{padding-bottom:8px;}
 .route-shelf-scroll{
   display:flex;gap:10px;overflow-x:auto;
@@ -1634,8 +1636,8 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 .route-shelf-scroll::-webkit-scrollbar-thumb{background:var(--line-hard);border-radius:3px;}
 .route-card{
   flex:0 0 216px;scroll-snap-align:start;
-  display:flex;align-items:center;gap:10px;
-  padding:9px 12px;
+  display:flex;flex-direction:column;gap:3px;
+  padding:12px 14px;
   background:var(--surface);border:1px solid var(--line);border-radius:13px;
   color:inherit;text-decoration:none;
   transition:transform .14s ease,border-color .14s ease;
@@ -1643,34 +1645,27 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 .route-card:hover{transform:translateY(-2px);border-color:var(--line-hard);}
 .route-card:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
 /* EBS 훈민정음 — EBS가 한글 반포를 기념해 무료로 배포한 서체(상업적 사용 가능).
-   해례본 원형 자모를 살린 서체라 "반포체" 느낌에 가장 가깝습니다. 배지에만 쓰는
-   장식용이라 노운노(noonnu) 프로젝트가 올려둔 jsdelivr 파일을 그대로 씁니다 —
-   본문 글꼴이 아니라 font-display:swap 만으로 충분하고 별도 비동기 로드가 필요 없습니다. */
+   해례본 원형 자모를 살린 서체라 "반포체" 느낌에 가장 가깝습니다. 코스 이름에만
+   쓰는 장식용이라 노운노(noonnu) 프로젝트가 올려둔 jsdelivr 파일을 그대로 씁니다 —
+   본문 글꼴이 아니라 font-display:swap 만으로 충분하고 별도 비동기 로드가 필요 없습니다.
+   Regular·SemiBold 두 굵기를 각각 등록해서 굵게(700)를 브라우저가 가짜로 만들어내지
+   (합성 볼드) 않고 실제 SemiBold 원도로 그리게 합니다. */
 @font-face{
   font-family:'EBS Hunminjeongeum';
   src:url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeum.woff') format('woff');
   font-weight:400;font-style:normal;font-display:swap;
 }
-/* 예전엔 코스의 첫 정류장 음식 사진을 썸네일로 썼는데, "코스"인데 "음식 사진"처럼
-   보인다는 지적을 받아 사진 대신 동네 이름을 훈민정음체로 새긴 색 배지로 바꿨습니다
-   (해당 지역 고유 색 --r 위에 올립니다). */
-.route-card-thumb{
-  flex:none;width:52px;height:52px;border-radius:10px;
-  background:var(--r);
-  display:flex;align-items:center;justify-content:center;padding:4px;
+@font-face{
+  font-family:'EBS Hunminjeongeum';
+  src:url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeumSBA.woff') format('woff');
+  font-weight:700;font-style:normal;font-display:swap;
 }
-.route-card-badge{
-  font-family:'EBS Hunminjeongeum',var(--kr);font-weight:400;
-  font-size:13px;line-height:1.2;letter-spacing:-.01em;color:var(--on-region);
-  text-align:center;word-break:keep-all;
-  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
-}
-.route-card-body{min-width:0;flex:1 1 auto;display:flex;flex-direction:column;gap:1px;}
 .route-card-top{display:flex;align-items:baseline;gap:6px;}
 .route-card-region{font-size:10px;font-weight:800;letter-spacing:.02em;color:var(--r,var(--ink-mute));}
 .route-card-n{margin-left:auto;font-size:10px;font-weight:700;color:var(--ink-mute);}
 .route-card-name{
-  font-size:13px;font-weight:750;line-height:1.3;letter-spacing:-.02em;color:var(--ink);
+  font-family:'EBS Hunminjeongeum',var(--kr);font-weight:700;
+  font-size:16px;line-height:1.3;letter-spacing:-.01em;color:var(--ink);
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
 .route-card-sub{

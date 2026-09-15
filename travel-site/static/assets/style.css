@@ -621,7 +621,7 @@ a.more{color:var(--ink);font-weight:600;}
    광고 자리
    ========================================================================== */
 .ad-slot{
-  margin:30px auto;min-height:96px;display:grid;place-items:center;
+  margin:16px auto;min-height:96px;display:grid;place-items:center;
   border:1px dashed var(--line);border-radius:12px;background:var(--surface);
   color:var(--ink-mute);font-family:var(--en);font-size:12px;letter-spacing:.14em;
 }
@@ -1138,7 +1138,9 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
    이미 갖고 있는 lat/lng 로 "글끼리 얼마나 가까운지" 감만 보여주는 점 배치도입니다.
    글이 2~25개일 때만 build.js 가 만들어 줍니다. 데스크톱은 목록 옆에, 모바일은
    버튼을 눌러 여는 오버레이로 둡니다. */
-.region-split{display:flex;gap:28px;align-items:flex-start;}
+/* 필터 바(.fbar) 바로 다음에 오는 섹션이라, .section 의 기본 위쪽 padding(42px)이
+   광고 자리(.ad-slot)의 여백과 겹쳐 카드까지 공백이 컸습니다. 위쪽만 줄입니다. */
+.region-split{display:flex;gap:28px;align-items:flex-start;padding-top:16px;}
 .region-list{flex:1;min-width:0;}
 .region-map-toggle{
   display:none;align-items:center;gap:6px;margin:0 20px 14px;padding:8px 14px;

@@ -1642,13 +1642,29 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 }
 .route-card:hover{transform:translateY(-2px);border-color:var(--line-hard);}
 .route-card:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
-.route-card-thumb{
-  flex:none;width:52px;height:52px;border-radius:10px;overflow:hidden;
-  background:color-mix(in srgb,var(--r) 15%,var(--surface));
-  display:flex;align-items:center;justify-content:center;
+/* EBS 훈민정음 — EBS가 한글 반포를 기념해 무료로 배포한 서체(상업적 사용 가능).
+   해례본 원형 자모를 살린 서체라 "반포체" 느낌에 가장 가깝습니다. 배지에만 쓰는
+   장식용이라 노운노(noonnu) 프로젝트가 올려둔 jsdelivr 파일을 그대로 씁니다 —
+   본문 글꼴이 아니라 font-display:swap 만으로 충분하고 별도 비동기 로드가 필요 없습니다. */
+@font-face{
+  font-family:'EBS Hunminjeongeum';
+  src:url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/EBSHunminjeongeum.woff') format('woff');
+  font-weight:400;font-style:normal;font-display:swap;
 }
-.route-card-thumb img{width:100%;height:100%;object-fit:cover;display:block;}
-.route-card-emoji{font-size:20px;}
+/* 예전엔 코스의 첫 정류장 음식 사진을 썸네일로 썼는데, "코스"인데 "음식 사진"처럼
+   보인다는 지적을 받아 사진 대신 동네 이름을 훈민정음체로 새긴 색 배지로 바꿨습니다
+   (해당 지역 고유 색 --r 위에 올립니다). */
+.route-card-thumb{
+  flex:none;width:52px;height:52px;border-radius:10px;
+  background:var(--r);
+  display:flex;align-items:center;justify-content:center;padding:4px;
+}
+.route-card-badge{
+  font-family:'EBS Hunminjeongeum',var(--kr);font-weight:400;
+  font-size:13px;line-height:1.2;letter-spacing:-.01em;color:var(--on-region);
+  text-align:center;word-break:keep-all;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
 .route-card-body{min-width:0;flex:1 1 auto;display:flex;flex-direction:column;gap:1px;}
 .route-card-top{display:flex;align-items:baseline;gap:6px;}
 .route-card-region{font-size:10px;font-weight:800;letter-spacing:.02em;color:var(--r,var(--ink-mute));}

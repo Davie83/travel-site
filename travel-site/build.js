@@ -783,8 +783,8 @@ ${cards}
     /saved?route=<slug> 로 가서 그 코스가 자동으로 담깁니다 (assets/saved.js).
     opts.regionSlug 를 주면 그 지역 글로 시작하는 코스만 남기고 지역 이름표는 뺍니다.
     예전에는 정류장 이름을 화살표로 이은 칩을 카드마다 늘어놓아 세로로 길었습니다.
-    첫 정류장의 사진 한 장 + 이름 + 소개 한 줄로 줄여서, 지역 페이지 맨 위가
-    카드 여러 장으로 화면을 다 채우지 않게 했습니다. */
+    첫 정류장의 음식 사진을 썸네일로 썼더니 "코스"인데 "음식 사진"처럼 보인다는
+    지적이 있어, 사진 대신 동네 이름 배지(.route-card-badge, 명조체)로 바꿨습니다. */
 function routeCardsHTML(posts, code, t, opts) {
   opts = opts || {};
   const list = site.routes || [];
@@ -797,21 +797,18 @@ function routeCardsHTML(posts, code, t, opts) {
   const cards = list.map(r => {
     const stops = (r.stops || []).filter(s => bySlug[s]);
     if (stops.length < 2) return null;
-    const first = bySlug[stops[0]];
-    const rSlug = (first.meta || {}).region || '';
+    const rSlug = (bySlug[stops[0]].meta || {}).region || '';
     if (opts.regionSlug && rSlug !== opts.regionSlug) return null;
     const name = (r.names && (r.names[code] || r.names.en)) || r.slug;
     const np = titleParts(name);
-    const img = cardThumbPath(first.meta.thumb) || first.meta.thumb;
-    const thumb = img
-      ? `<img src="${base}${img}${imgVer(img)}" alt="" loading="lazy" decoding="async" width="52" height="52">`
-      : `<span class="route-card-emoji" aria-hidden="true">${first.meta.emoji || '📍'}</span>`;
+    // 배지에 넣을 짧은 이름 — 코스 이름 맨 앞 동네만(예: "여의도 서여의도" → "여의도")
+    const badgeLabel = (np.name.split(/[\s·]+/)[0] || np.name).slice(0, 6);
     const region = opts.regionSlug ? ''
       : `<span class="route-card-region">${escapeHtml(regionName(rSlug, code))}</span>`;
     return `        <a class="route-card" style="--r:var(--region-${escapeHtml(rSlug)})"` +
       ` href="${base}${d}saved?route=${encodeURIComponent(r.slug)}"` +
       ` aria-label="${escapeHtml(name + ' — ' + t.presetStops(stops.length))}">
-          <span class="route-card-thumb">${thumb}</span>
+          <span class="route-card-thumb" aria-hidden="true"><span class="route-card-badge">${escapeHtml(badgeLabel)}</span></span>
           <span class="route-card-body">
             <span class="route-card-top">${region}<span class="route-card-n">${escapeHtml(t.presetStops(stops.length))}</span></span>
             <span class="route-card-name">${escapeHtml(np.name)}</span>` +

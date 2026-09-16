@@ -226,7 +226,7 @@ img{max-width:100%;display:block;}
    교체했습니다. 글자 크기에 비례해서 따라오고, 살짝 기울여서 손글씨로
    붙인 스티커 같은 느낌을 냅니다. 장식용이라 스크린리더는 건너뜁니다. */
 .flag-deco{
-  display:inline-block;width:1.03em;height:auto;margin-left:.2em;
+  display:inline-block;width:1.9em;height:auto;margin-left:.2em;
   transform:rotate(11deg) translateY(.08em);
   filter:drop-shadow(0 3px 4px rgba(0,0,0,.3));
   vertical-align:middle;

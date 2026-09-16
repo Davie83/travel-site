@@ -116,6 +116,15 @@
 <script src="{{base}}assets/totop.js?v={{v}}" defer></script>
 <script src="{{base}}assets/map.js?v={{v}}" defer></script>
 <script>
+/* 이미지 우클릭 저장 억제 — 사진(img) 위에서만 우클릭 메뉴를 막습니다.
+   링크·본문 등 다른 요소의 우클릭은 그대로 둡니다(전체 페이지를 막으면
+   사용성이 나빠집니다). 진짜 방지는 불가능하고(개발자 도구는 못 막음),
+   캐주얼한 "이미지로 저장"만 막는 용도입니다. */
+document.addEventListener('contextmenu', function (e) {
+  if (e.target && e.target.tagName === 'IMG') e.preventDefault();
+});
+</script>
+<script>
 /* 서비스워커 등록 — PWA 오프라인 대응. 실패해도 사이트는 그대로 동작합니다. */
 if ('serviceWorker' in navigator) {
   addEventListener('load', function () {

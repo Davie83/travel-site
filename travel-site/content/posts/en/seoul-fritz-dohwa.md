@@ -22,10 +22,6 @@ info:
 
 A cafe near Mapo Station, in an old Western-style house that's been converted. Of Fritz Coffee's several branches, this is the main one on the Mapo side.
 
-## In a converted house
-
-Through the tiled gate there's a small yard and a short flight of steps. The brick and the wooden window frames have been kept, so it has an atmosphere a newly built cafe doesn't. In summer, trumpet-vine flowers hang red over the gate.
-
 ## Good to drop into after a meal
 
 The area around Mapo Station is food-street territory, thick with places to eat. This is a good spot to come to afterwards, for a cup of tea and some bread as dessert.
@@ -34,7 +30,11 @@ The area around Mapo Station is food-street territory, thick with places to eat.
 
 I don't judge bread with any depth. I just cut into a croissant and had it with a seasonal ade topped with thyme, as dessert, and left happy. Coffee is what this place is known for, but this visit was a light one.
 
-## For visitors
+## The building itself is a converted house
+
+Through the tiled gate there's a small yard and a short flight of steps. The brick and the wooden window frames have been kept, so it has an atmosphere a newly built cafe doesn't. In summer, trumpet-vine flowers hang red over the gate.
+
+## First time here
 
 - **Fritz (FRITZ)** is a well-known specialty coffee roastery in Seoul. The seal logo is its emblem, and it sells beans.
 - The **Dohwa branch** is in Dohwa-dong, Mapo-gu, in a converted old **yangok** — a Western-style house of the 1970s–80s. The building alone is worth the trip.
@@ -42,7 +42,7 @@ I don't judge bread with any depth. I just cut into a croissant and had it with 
 - You order at the counter and take a number (or a buzzer). A little English works.
 - It's a short walk from **Mapo Station** (lines 5 and 6); Gongdeok Station isn't far either.
 
-## Who it's for
+## This works well if
 
 - ✅ Anyone who likes the feel of a **cafe made from an old building**
 - ✅ Anyone in Mapo looking for somewhere for **dessert and tea after a meal**
@@ -58,4 +58,4 @@ I don't judge bread with any depth. I just cut into a croissant and had it with 
 - **Seating** — a popular branch; it gets crowded on weekends and afternoons.
 - **Price · hours · closing day** — not confirmed. Check the map or call before you go.
 
-> This post is a write-up of a personal visit. Taste and preference vary by person (I don't assess bread professionally), and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.
+> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally), and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

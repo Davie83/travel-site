@@ -21,23 +21,7 @@ info:
   - Route|Sits between **Seogwipo and Seongsan**
 ---
 
-I have eaten **abalone porridge in a lot of places on Jeju.** I have not found one as rich and nutty as this, at this price.
-
-![The table at Gongcheonpo Sikdang — abalone porridge, grilled mackerel, squid mulhoe and side dishes](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
-
-## The porridge first
-
-That is the bowl on the left of the photo. **The green colour is because the abalone innards go into the pot.** That is exactly what makes it rich. Shops that hold the innards back end up with a white, bland porridge.
-
-**For two people, one porridge and one mulhoe is the right order.** That is the best way to use this restaurant.
-
-## For the mulhoe, get squid
-
-What is mulhoe? **Raw fish in a cold broth** — eaten as a soup, in summer especially.
-
-I recommend the **squid** version, the bowl on the right of the photo.
-
-There is also **jari mulhoe**, made with a small reef fish sliced bones and all — a Jeju thing. A fair number of people order it. I personally do not like it. If you do, this is a place people travel for it.
+There are three ways to show up here and leave hungry. That's how much the timing matters.
 
 ## Three ways to miss out
 
@@ -46,6 +30,24 @@ There is also **jari mulhoe**, made with a small reef fish sliced bones and all 
 3. **They close earlier when the food runs out.** One reviewer arrived at 12:30 PM and half the menu was gone. To be safe, aim for **11:00 AM**
 
 Park at the **harbour car park**.
+
+## The porridge first
+
+I have eaten **abalone porridge in a lot of places on Jeju.** I have not found one as rich and nutty as this, at this price.
+
+![The table at Gongcheonpo Sikdang — abalone porridge, grilled mackerel, squid mulhoe and side dishes](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
+
+**The green colour is because the abalone innards go into the pot.** That is exactly what makes it rich. Shops that hold the innards back end up with a white, bland porridge.
+
+**For two people, one porridge and one mulhoe is the right order.** That is the best way to use this restaurant.
+
+## For the mulhoe, get squid
+
+What is mulhoe? **Raw fish in a cold broth** — eaten as a soup, in summer especially.
+
+I recommend the **squid** version.
+
+There is also **jari mulhoe**, made with a small reef fish sliced bones and all — a Jeju thing. A fair number of people order it. I personally do not like it. If you do, this is a place people travel for it.
 
 ## Where it fits in a Jeju plan
 
@@ -70,4 +72,4 @@ So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or
 - ⚠️ **Closes 3:30 PM · shut Thursdays · sells out early** — dinner is not an option
 - ⚠️ Jari mulhoe is eaten bones and all, which may be unfamiliar
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up after my own visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.

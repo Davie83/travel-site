@@ -35,14 +35,6 @@ There's a small bakery selection too, good to pair with the coffee.
 
 Worth a stop if you have errands nearby.
 
-## For foreign visitors
-
-- **L'OISEAU** is a pour-over specialty cafe that's won awards at several domestic coffee competitions.
-- You can watch staff **hand-brew pour-over coffee** at the brewing bar.
-- If you like coffee with strong acidity, note that the beans here run rich and low-acid.
-- There's a small **bakery selection** too — croissants, cookies, egg tarts.
-- About a **4-minute walk** from Yeoksam Station (Line 2).
-
 ## Good for you if
 
 - ✅ You're looking for an award-winning pour-over cafe
@@ -51,10 +43,13 @@ Worth a stop if you have errands nearby.
 - ⚠️ You prefer coffee with strong acidity — this one runs low-acid
 - ⚠️ You want a spacious, quiet seat — it's in an office district and can get busy
 
-## Before you go
+## Worth knowing
 
-- **Location** — 10 Nonhyeon-ro 95-gil, Gangnam-gu, Seoul, 1F.
-- **Station** — About a 4-minute walk from Yeoksam Station (Line 2).
+- **L'OISEAU** is a pour-over specialty cafe that's won awards at several domestic coffee competitions.
+- You can watch staff **hand-brew pour-over coffee** at the brewing bar.
+- If you like coffee with strong acidity, note that the beans here run rich and low-acid.
+- There's a small **bakery selection** too — croissants, cookies, egg tarts.
+- **Location** — 10 Nonhyeon-ro 95-gil, Gangnam-gu, Seoul, 1F, about a 4-minute walk from Yeoksam Station (Line 2).
 - **Hours** — Weekdays 8 AM-9 PM, weekends 10 AM-9 PM.
 
-> This is a first-hand account. Taste judgments (like acidity) are personal, and prices and hours can change, so it's worth double-checking before you visit.
+> Written up after stopping in on a whim and liking it. Taste judgments like acidity are personal, and hours can change, so it's worth double-checking before you visit.

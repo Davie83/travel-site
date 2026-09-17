@@ -19,13 +19,7 @@ info:
   - Facilities|Car park · parasol rental · cafes and restaurants nearby
 ---
 
-A beach on Jeju's west coast, **right next to Hyeopjae Beach**. It's **smaller and quieter** than Hyeopjae.
-
-## A beach to rest at, quietly
-
-It shares one stretch of white sand with Hyeopjae, and the crowds gather on the Hyeopjae side. The Geumneung end is that much **calmer and more relaxed.**
-
-Jeju has filled up with visitors, Korean and foreign alike. So if you want a **quiet beach**, this kind of spot is the one to pick. You don't come here to do anything in particular — it's a place where **time passes slowly.**
+Come down the stone-paved plaza onto the sand and there's a noticeably different air from the tour-bus crowd next door.
 
 ## The sand and the water
 
@@ -34,6 +28,12 @@ Jeju has filled up with visitors, Korean and foreign alike. So if you want a **q
 You come down to the sand from a stone-paved plaza. Parasols stand in rows, and in the summer open season a roped-off area in the shallows holds tubes and inflatable water toys. Black basalt sits here and there in the water, which is shallow and calm.
 
 **Biyangdo** island floats offshore. Wind turbines stand at the far end of the coastline.
+
+## The quiet side of the beach it shares with Hyeopjae
+
+A beach on Jeju's west coast, **right next to Hyeopjae Beach**. It shares one stretch of white sand with Hyeopjae, and the crowds gather on the Hyeopjae side. The Geumneung end is that much **calmer and more relaxed.**
+
+Jeju has filled up with visitors, Korean and foreign alike. So if you want a **quiet beach**, this kind of spot is the one to pick. You don't come here to do anything in particular — it's a place where **time passes slowly.**
 
 ## For visitors
 
@@ -59,4 +59,4 @@ You come down to the sand from a stone-paved plaza. Parasols stand in rows, and 
 - **Season** — swimming only in the summer open season. Otherwise it's walking, photos and cafes.
 - **Facilities** — car park, parasol rental, and cafes and restaurants nearby.
 
-> Based on a personal visit. The beach season and nearby facilities can change — check before you go.
+> Written up after walking the beach myself. The swimming season and nearby facilities can change, so it's worth checking again before you go.

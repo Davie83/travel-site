@@ -84,7 +84,7 @@ The Myeongdong branch has a reputation among guide-readers, and Michelin comes u
 
 **Check the branch name**, not just "Hadongkwan," when you search.
 
-## Who this suits
+## This is the right bowl if
 
 - ✅ You want a proper old-school clear Korean beef soup
 - ✅ You'll try the kimchi-brine trick for a second flavour
@@ -93,4 +93,4 @@ The Myeongdong branch has a reputation among guide-readers, and Michelin comes u
 - ⚠️ Brisk, functional service and fast turnover
 - ⚠️ The broth may not arrive very hot
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written from a personal visit. Old-school restaurants like this sometimes run later or shorter than posted, so call ahead if you're planning to go late.

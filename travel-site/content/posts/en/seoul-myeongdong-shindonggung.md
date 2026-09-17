@@ -23,16 +23,11 @@ Finding a proper meal in Myeongdong after midnight is harder than it looks. Plen
 
 This place is **open 24 hours**, and what it serves is *ppyeo sutbul gui*: pork neck bones marinated in a red chilli paste and finished over charcoal.
 
-## First, the name will confuse you
+## How spicy, honestly — first
 
-Look this place up and you will find two different names:
+This is the question most visitors actually want answered, so it goes first. There is a real chilli kick, but **this is not a hot dish by Korean standards.** For reference: I eat spicy food comfortably, and nothing here registered as "hot".
 
-- **Google Maps** — Shindonggung Gamjatang Ppyeo Sutbul Gui, Euljiro branch
-- **Korean review sites** — Shindonggung Gamjatang, Myeongdong branch
-
-Same address, same phone number, same restaurant. Korean businesses often register slightly different names on different platforms, and this trips up visitors constantly.
-
-The address is **43 Myeongdong 9-gil, Jung-gu**. It sits between Myeongdong and Euljiro-ipgu stations, so it is a short walk from either.
+A useful benchmark — if you have eaten **gamjatang** (the pork bone soup) or *jjimdak* and been fine, you will be fine here. If chilli is genuinely a problem for you, this one is not for you; the marinade is on every piece and cannot be set aside.
 
 ## What to order: two people, small size
 
@@ -44,17 +39,20 @@ Bone dishes look like there is less meat than there is, so first-timers tend to 
 - Adding drinks or a side dish makes the small feel generous
 - If in doubt, start small and add more; Korean restaurants take extra orders without fuss
 
-## How spicy, honestly
-
-This is the question most visitors actually want answered.
-
-There is a real chilli kick, but **this is not a hot dish by Korean standards.** For reference: I eat spicy food comfortably, and nothing here registered as "hot".
-
-A useful benchmark — if you have eaten **gamjatang** (the pork bone soup) or *jjimdak* and been fine, you will be fine here. If chilli is genuinely a problem for you, this one is not for you; the marinade is on every piece and cannot be set aside.
-
 ## The charcoal is the point
 
 The bones are finished over charcoal, and the smoke sits underneath everything rather than shouting over it. It cuts the heaviness that bone dishes usually carry. That restraint is what separates this from the same dish braised or pan-cooked.
+
+## Getting there — the name is confusing, the address is not
+
+Look this place up and you will find two different names:
+
+- **Google Maps** — Shindonggung Gamjatang Ppyeo Sutbul Gui, Euljiro branch
+- **Korean review sites** — Shindonggung Gamjatang, Myeongdong branch
+
+Same address, same phone number, same restaurant. Korean businesses often register slightly different names on different platforms, and this trips up visitors constantly.
+
+The address is **43 Myeongdong 9-gil, Jung-gu**. It sits between Myeongdong and Euljiro-ipgu stations, so it is a short walk from either. It's a narrow street in the middle of Myeongdong, though, so don't expect to park — take the subway. The 24-hour schedule can also shift on Korean public holidays, so if you're going in the middle of the night, a quick phone check is worth it.
 
 ## Takeout works
 
@@ -72,12 +70,5 @@ What it does is deliver that expectation properly. So:
 - ✅ You need real food in central Seoul at an hour when nothing else is open
 - ✅ You want something distinctly Korean that is not barbecue or fried chicken
 - ❌ You are looking for a dish that reinvents something — set expectations lower
-
-## Practical notes for visitors
-
-- **Getting there** — walking distance from both Myeongdong and Euljiro-ipgu stations. Central enough that you will likely pass nearby anyway.
-- **Parking** — do not. This is a narrow street in the middle of Myeongdong. Take the subway.
-- **Holidays** — the 24-hour schedule can change on Korean public holidays. If you are going in the middle of the night, a quick phone check is worth it.
-- **Eating with your hands** — you will need to. Bones are bones. Gloves are usually provided; ask if they are not on the table.
 
 > Based on a personal visit. Prices and hours change often in Seoul — check the restaurant's current information before you go.

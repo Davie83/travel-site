@@ -58,7 +58,7 @@ The practical strength of this place.
 
 Sources disagree on the weekday opening time — some say 9:30 AM, others 11:00 AM. If you are planning an early drink, call first.
 
-## Who will like this
+## This fits your night if
 
 - ✅ You want something to eat alongside soju
 - ✅ You like food with chew (if you enjoy squid or tripe, this is for you)
@@ -69,4 +69,4 @@ Sources disagree on the weekday opening time — some say 9:30 AM, others 11:00 
 - ⚠️ This is a drinking place more than a meal place
 - ⚠️ Saturday opens at 2 PM, Sunday ends at 10 PM
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written from a personal visit. As with most drinking spots, prices and hours shift often, so a quick call before you go is the safer bet.

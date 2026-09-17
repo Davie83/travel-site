@@ -19,17 +19,19 @@ info:
   - Getting there|Close to central Jeju City · parking available
 ---
 
-In canola season, I'd suggest **a short stop at Iho Tewoo Beach, since it's close to the airport**. It's especially good when you have an awkward gap right after landing, or before a flight out.
-
-## The canola field and a coffee
-
-There's a **canola field set up a little to the right of the beach**. It isn't large. But walking through the yellow flowers with the sea beside you, then sitting down with a coffee — **for that, it's just the right size**.
-
-![The canola field set up to the right of the beach — a dirt path along the sea, yellow flowers between basalt walls](/assets/img/jeju-iho-tewoo-yuchae.jpg)
+Just walking out to see the red horse lighthouse at the end of the breakwater makes for a short stroll on its own.
 
 ## Iho Tewoo's landmark: the red horse lighthouse
 
 The symbol of Iho Tewoo Beach is the **Jeju-pony-shaped red lighthouse** at the end of the breakwater. A white one stands opposite it as a pair. Walking out along the breakwater to the lighthouse and back is a short stroll in itself.
+
+## The canola field and a coffee
+
+In canola season, I'd suggest **a short stop at Iho Tewoo Beach, since it's close to the airport**. It's especially good when you have an awkward gap right after landing, or before a flight out.
+
+There's a **canola field set up a little to the right of the beach**. It isn't large. But walking through the yellow flowers with the sea beside you, then sitting down with a coffee — **for that, it's just the right size**.
+
+![The canola field set up to the right of the beach — a dirt path along the sea, yellow flowers between basalt walls](/assets/img/jeju-iho-tewoo-yuchae.jpg)
 
 ## When to go
 
@@ -58,4 +60,4 @@ The symbol of Iho Tewoo Beach is the **Jeju-pony-shaped red lighthouse** at the 
 - **Route** — airport to Iho Tewoo is 10–15 minutes by car. It slots naturally into a rental-car itinerary.
 - **Coffee** — there are cafés around the beach. See the canola, then get one.
 
-> Based on a personal visit. Canola bloom timing and the facilities around the beach can change — check before you go.
+> Written up after my own visit. Canola bloom timing and the facilities around the beach can change, so it's worth checking again before you go.

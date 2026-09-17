@@ -67,6 +67,15 @@ The building in the photo is the botanical garden. **You cannot go in at the mom
 
 **If you are going now, do not count on the botanical garden.** The flower beds in the photo are the garden in front of it and fall inside the same works. The park itself is wide and well planted, so there is still plenty to walk through.
 
+## Getting there
+
+The subway is easiest.
+
+- **Line 7, Children's Grand Park Station, Exit 1** — the station is named after the park, and the main gate is right there
+- **Line 5, Achasan Station, Exit 4** — for the back gate
+
+**It is one stop from Konkuk University Station on Line 7.** Konkuk is known for eating and a young crowd, so **the park in the afternoon and Konkuk for dinner** is a natural pairing.
+
 ## Who it suits
 
 Honestly: **this is not a reason to come to Seoul.**
@@ -78,16 +87,7 @@ The reason to write about it is different. It earns its place **when your route 
 - **A rest in the middle of a walk** — there are benches and shade
 - **Not on a rainy day** — nearly all of it is outdoors
 
-## Getting there
-
-The subway is easiest.
-
-- **Line 7, Children's Grand Park Station, Exit 1** — the station is named after the park, and the main gate is right there
-- **Line 5, Achasan Station, Exit 4** — for the back gate
-
-**It is one stop from Konkuk University Station on Line 7.** Konkuk is known for eating and a young crowd, so **the park in the afternoon and Konkuk for dinner** is a natural pairing.
-
-## Notes for visitors
+## If you're visiting from abroad
 
 **Seoul Children's Grand Park is a free public park run by the city of Seoul.** The name says "children," but **adults on their own are perfectly welcome.**
 
@@ -101,7 +101,7 @@ The subway is easiest.
 - **Think about shade in summer and wind in winter.** Most of it is open air
 - There are kiosks inside, but **a proper meal is better found around Konkuk University**
 
-## Come here if
+## Especially good for
 
 - ✅ You are **travelling with children**
 - ✅ You want an hour or two **without spending anything** — admission is zero
@@ -113,4 +113,4 @@ The subway is easiest.
 - ⚠️ For a serious zoo, **Seoul Grand Park in Gwacheon** is far larger
 - ⚠️ **Not recommended in the rain** — it is mostly outdoors
 
-> A record of an actual visit. Opening hours and the state of the facilities can change, so check the Seoul Facilities Corporation notices before you go.
+> Written up from a visit of my own. Opening hours and the state of the facilities can change, so check the Seoul Facilities Corporation notices once more before you go.

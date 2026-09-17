@@ -19,7 +19,7 @@ info:
 
 When I'm eating jokbal on the Gangnam side, this is the place I think of first. **It's Yeongdong Jokbal, in Yangjae.**
 
-## Easily the best in the Gangnam area
+## Springy skin, tender meat — that's the reason
 
 Of all the jokbal I've had around Gangnam, **this was the best.** Going back after a long gap, the impression held.
 
@@ -27,10 +27,6 @@ Of all the jokbal I've had around Gangnam, **this was the best.** Going back aft
 - **The meat is fall-apart tender**
 
 Both textures are there in one slice. It's braised without any gamey edge, and the seasoning isn't heavy. Wrapping it in lettuce, you end up ordering another plate.
-
-## There are several annexes
-
-There are **several annex branches** near the main one. At busy times the main branch fills up and you may be sent to a nearby annex, so check which branch you're heading to on the map.
 
 ## For foreign visitors
 
@@ -49,8 +45,10 @@ There are **several annex branches** near the main one. At busy times the main b
 
 ## Before you go
 
+There are **several annex branches** near the main one. At busy times the main branch fills up and you may be sent to a nearby annex, so check which branch you're heading to on the map.
+
 - **Check the branch** — there are several annexes besides the main one. See which branch on the map.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Ordering** — pick small, medium or large. Small or medium for two.
 
-> Based on a personal visit. Any judgement of taste and texture is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.
+> Written up after eating there myself. Impressions of taste and texture can vary from person to person. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.

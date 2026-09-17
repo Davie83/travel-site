@@ -20,11 +20,9 @@ info:
 
 It's a place right where you cross onto Ganghwa Island. I wanted grilled fish, and a simple lunch, so I stopped in.
 
-## A grilled-fish place at the island's gateway
+## Several kinds of fish, grilled to a precise doneness
 
 Cross the Ganghwa or Choji bridge onto the island and it comes up before long. A good spot for a first meal when you're starting a Ganghwa day from Seoul or Gimpo.
-
-## Several kinds of fish over charcoal
 
 Order the grilled-fish set and **several kinds of fish** come out together — big cuts like Spanish mackerel, and smaller whole fish such as banded herring and gizzard shad. Ganghwa is, in fact, a place known for banded herring.
 
@@ -40,21 +38,15 @@ Honestly, **for a simple lunch the set isn't cheap.** But once I'd finished, I d
 
 The side dishes aren't laid out lavishly. But each one was decent. If you like grilled fish, this will be a satisfying meal.
 
-## For foreign visitors
+## What foreign visitors should know
 
 - **Saengseon-gui** is fish grilled plain. Here it's over **charcoal**, and several kinds arrive at once as a set. **It is not spicy.**
 - Small fish (banded herring, gizzard shad) are sometimes eaten **bones and head included**. If that's off-putting, just pick the flesh.
 - If you're not used to picking fish off the bone, it takes a while. This isn't a place for a rushed meal.
 - **Ganghwa is an island, so a car makes getting around much easier.** By public transport from Seoul, take a Ganghwa-bound bus from Hapjeong or Sinchon (around 1.5 hours).
 - Bear in mind it costs a bit more than a "quick lunch."
-
-## Who this suits
-
-- ✅ You **like grilled fish**
-- ✅ You need a spot for a **first meal** as you start a Ganghwa itinerary
-- ✅ You want a **plain, clean Korean spread** rather than bold flavours
-- ⚠️ You're expecting a very cheap lunch — the set isn't that cheap
-- ⚠️ You find picking fish off the bone a chore
+- ✅ Good if you like grilled fish, need a spot for a first meal as you start a Ganghwa itinerary, or want a plain, clean Korean spread rather than bold flavours
+- ⚠️ Reconsider if you're expecting a very cheap lunch, or you find picking fish off the bone a chore
 
 ## Before you go
 

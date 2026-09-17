@@ -20,6 +20,12 @@ info:
 
 *Naju gomtang* is one of the few Korean dishes named after the town that makes it. **Hayanjip is the restaurant most associated with it.**
 
+## What 5,790 reviews reveal
+
+Across 5,790 Google reviews, the single most-mentioned word is **kkakdugi — 189 times.** That's the cubed radish kimchi, and it outranks any discussion of the soup itself.
+
+There's a reason. A clean broth needs something sharp against it. **Treat the soup and the radish kimchi as one thing**, not a main and a side. That one number tells you most of what you need to know about this place.
+
 ## Clean, not heavy
 
 *Gomtang* is a long-simmered beef broth, and the risk with the style is that it turns cloudy, fatty or dull.
@@ -33,12 +39,6 @@ If you have tried *seolleongtang* (the milky-white ox bone soup) and found it to
 **The boiled brisket was tender** — the thing I remember most clearly here.
 
 It isn't chewy; it pulls apart along the grain. If you only order the soup you're missing the better half of the meal. Get the *suyuk* alongside it.
-
-## The kkakdugi is part of the dish
-
-Across 5,790 Google reviews, the single most-mentioned word is **kkakdugi — 189 times.** That's the cubed radish kimchi, and it outranks everything else people talk about.
-
-There's a reason. A clean broth needs something sharp against it. **Treat the soup and the radish kimchi as one thing**, not a main and a side.
 
 ## Expect a queue — and work around it
 
@@ -64,4 +64,4 @@ Takeaway is also available.
 - ✅ You'll order the **suyuk** as well
 - ⚠️ Meal times mean queuing — go early or book
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything I couldn't pin down is marked **(changes often — please verify)**.

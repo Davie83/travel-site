@@ -23,17 +23,15 @@ The building is brick, and outside there's an open-air terrace with parasols and
 
 ![The open-air terrace beside the brick building — parasols, a fountain, and mountains in the distance](/assets/img/gapyeong-eondeokmaru-jat-sundubu-terrace.jpg)
 
-## Gapyeong means pine nuts
+## Gapyeong's pine nuts, and what jat-sundubu is
 
 Gapyeong has long been known for pine nuts. There are a lot of Korean pine trees, and the nuts themselves are sold as a local specialty. So pine-nut dishes come naturally here — pine-nut noodles, pine-nut porridge, and jat-sundubu.
-
-## What jat-sundubu is
 
 It arrives as soft tofu simmered white in an earthenware pot. It looks like ordinary sundubu, but the broth is milkier and there's a nutty smell to it — because pine nuts have been ground in or steeped into it.
 
 The seasoning sauce comes separately. Try it plain first, then stir in a little of the sauce if it needs more salt.
 
-## Gentle and clean
+## Gentle and clean — a taste that divides opinion
 
 If you're into sundubu, you'll know Chodang sundubu from Gangneung — soft tofu set with seawater, clean and lightly seasoned. This is in that family.
 
@@ -41,21 +39,15 @@ The jat-sundubu is similar. **It's gentle, and the pine nuts make it very clean 
 
 Because it's like this, **opinions will divide.** If you go expecting a fiery sundubu stew, treat it as a different dish. For me it was a bowl I still remember.
 
-## For foreign visitors
+## What foreign visitors should know
 
 - **Sundubu** is very soft, uncurdled tofu. The jat-sundubu here comes **plain in a white broth**, with no chilli — it's a different dish from the spicy sundubu-jjigae stew.
 - **Pine nuts** make it nutty and mild. Gapyeong is the region in Korea best known for them.
 - How to eat it: spoon it as it is, then add the **soy-based seasoning sauce** that comes on the side, a little at a time, to bring up the salt. You can tip rice into it too.
 - The taste is soft and understated. If you want a strong flavour, it may feel bland.
 - Gapyeong is about an hour from Seoul by ITX train or car. It pairs well with **Nami Island, the Garden of Morning Calm and Jaraseom**.
-
-## Who this suits
-
-- ✅ You like **clean, gentle tofu dishes**
-- ✅ You like plain sundubu in the style of Gangneung's Chodang sundubu
-- ✅ You want a quiet meal on a Gapyeong day (Nami Island, Jaraseom, the arboretum)
-- ⚠️ You're expecting a fiery sundubu stew — this goes a different way
-- ⚠️ You like clearly seasoned food — you may need a generous hand with the sauce
+- ✅ Good if you like clean, gentle tofu dishes, you like plain sundubu in the style of Gangneung's Chodang sundubu, or you want a quiet meal on a Gapyeong day
+- ⚠️ Less good if you're expecting a fiery sundubu stew, or you like clearly seasoned food — you may need a generous hand with the sauce
 
 ## Before you go
 

@@ -20,22 +20,20 @@ info:
   - Other branch|A separate **Namsan Tower branch** sits up the mountain (627 Namsan-gongwon-gil)
 ---
 
-A **bibimbap built on seasoned vegetables**, balanced rather than punchy. Mild and clean-tasting.
+I assumed the one up on Namsan was the original. It is not. There are two restaurants with the same name, easy to mix up, so that's worth clearing up first.
 
-![The tray at Mokmyeoksanbang — rice in a brass bowl, seven seasoned vegetables, raw beef, bean sprout soup and pickles](/assets/img/seoul-mokmyeoksanbang-table.jpg)
-
-## The main branch is not on the mountain
-
-I assumed the one up on Namsan was the original. It is not.
+## The main branch is at the foot of Namsan, not on it
 
 - **Main branch** — down on the street at 71 Toegye-ro 20-gil. You walk from Myeongdong station
 - **Namsan Tower branch** — up the mountain at 627 Namsan-gongwon-gil, the one to pair with a Namsan walk or N Seoul Tower
 
-**The view is far better at the Namsan Tower branch.** The main branch is much easier to reach. If you just want lunch while you are in Myeongdong, come here.
+**The view is far better at the Namsan Tower branch.** The main branch is much easier to reach. If you just want lunch while you are in Myeongdong, come here. One more difference: **the Namsan Tower branch does not serve alcohol. The main branch does.**
 
-One more difference: **the Namsan Tower branch does not serve alcohol. The main branch does.**
+What this branch actually serves is a **bibimbap built on seasoned vegetables**, balanced rather than punchy. Mild and clean-tasting.
 
 ## What arrives
+
+![The tray at Mokmyeoksanbang — rice in a brass bowl, seven seasoned vegetables, raw beef, bean sprout soup and pickles](/assets/img/seoul-mokmyeoksanbang-table.jpg)
 
 Looking at the photo:
 
@@ -48,6 +46,10 @@ You tip the vegetables into the rice and mix with gochujang. **Go easy on the go
 
 The paper placemat carries a Joseon-era poem called Namsan Palyeong. Mokmyeok is the old name for Namsan.
 
+## It was once on Michelin's list
+
+**It is said to have been listed in the Michelin Guide around 2017-2019.** It does not appear in Michelin's current listings. Treat it as past history, nothing more — the reason to come is the vegetable bibimbap itself, not the old title.
+
 ## Notes for visitors from abroad
 
 **If you want to eat a proper Korean bibimbap once, this is a reasonable place to do it.**
@@ -56,10 +58,6 @@ The paper placemat carries a Joseon-era poem called Namsan Palyeong. Mokmyeok is
 - **Vegetables are the point.** The basic sanbang bibimbap (9,000 won) has no meat. If you are vegetarian, order that and ask about the gochujang
 - **The beef tartare version is raw beef.** Not cooked. If that is new to you, the plain or bulgogi version is safer
 - **You can walk from Myeongdong** — about 430 m from exit 1
-
-## Michelin, for reference only
-
-**It is said to have been listed in the Michelin Guide around 2017-2019.** It does not appear in Michelin's current listings. Treat it as past history, nothing more.
 
 ## Who will like this
 

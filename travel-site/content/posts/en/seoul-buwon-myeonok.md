@@ -68,7 +68,7 @@ Come in through Namdaemun Market from **Hoehyeon Station (Line 4).**
 - **Payment** — card is standard in Seoul, but keep some cash for the market itself.
 - **Combine it with** Namdaemun Market, which is already on most itineraries. This makes a good lunch stop mid-shopping.
 
-## Who this suits
+## This suits you if
 
 - ✅ You want the old, subtle style of Pyongyang naengmyeon
 - ✅ You'll add the nutty **bindaeddeok** alongside
@@ -76,4 +76,4 @@ Come in through Namdaemun Market from **Hoehyeon Station (Line 4).**
 - ⚠️ First time with this dish? It will taste plain — that's intended
 - ⚠️ Second floor, easy to miss, and closes at 8:00 PM
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(changes often — please verify)**.

@@ -20,15 +20,13 @@ info:
   - Hours · prices · closing day|Not confirmed (check before you go)
 ---
 
-A chicken-gomtang place in Seodaemun I go to now and then for a **restorative meal**. It's a **Seoul-designated "century store."**
+## The broth is the whole reason
 
-## Native-breed chicken gomtang, with neungi mushroom
-
-They boil a **native-breed chicken and pick off just the meat** into the broth. No bones or bony bits — a clear soup with the chicken, spring onion and mushrooms.
+A chicken-gomtang place in Seodaemun I go to now and then for a **restorative meal**. It's a **Seoul-designated "century store,"** and they boil a **native-breed chicken and pick off just the meat** into the broth. No bones or bony bits — a clear soup with the chicken, spring onion and mushrooms.
 
 **The broth is the standout.** A good amount of neungi mushroom goes in, so even though the soup is clear it carries a **deep mushroom aroma**. Nothing sharp about it; a few spoonfuls in and you start to feel **looked after**. The broth is, in the end, the reason to come.
 
-## The potato pancake is a side, at most
+## Think of the potato pancake as a separate thing
 
 The **gamja-jeon — a pancake of shredded potato** — has become well known lately. I ordered one alongside, and on its own it's fine.
 

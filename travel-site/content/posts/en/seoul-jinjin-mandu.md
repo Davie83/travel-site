@@ -71,7 +71,7 @@ For a bigger group there is **eobok-jeongban**, a Pyongyang-style platter of sli
 
 **If you're going at the weekend, go to the Assembly branch.** Yeouido is a finance district and much of it shuts down on weekends, so this catches people out.
 
-## Who this suits
+## Your kind of bowl if
 
 - ✅ You want dumplings in soup rather than fried or steamed
 - ✅ You like choosing between broths
@@ -80,4 +80,4 @@ For a bigger group there is **eobok-jeongban**, a Pyongyang-style platter of sli
 - ⚠️ If you want genuine heat, this won't deliver it
 - ⚠️ The main branch is closed at weekends
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written after eating there myself. Prices and closing days at both branches can change, so double-check before you go, especially on weekends.

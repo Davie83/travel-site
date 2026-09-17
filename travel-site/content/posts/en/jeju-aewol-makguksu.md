@@ -25,23 +25,9 @@ info:
   - Note|A **different restaurant** from Jeju Sun Memil Makguksu in Andeok-myeon, Seogwipo
 ---
 
-**Perilla oil makguksu is not something I crave often, but it does come back to me now and then.**
+It took visiting two similarly-named noodle houses to work out which style I actually prefer.
 
-When the perilla oil and the buckwheat land together properly, the bowl empties before you notice. There is no great technique in it. That plainness is exactly what makes it return to mind.
-
-I came here **because of its reputation.**
-
-## I ordered all three
-
-Exactly what you see in the photo — the three staples, ordered as they come.
-
-- **Bottom right** — perilla oil makguksu, buried under a very generous layer of dried seaweed
-- **Top right** — cold-broth makguksu: clear broth, cucumber, half a boiled egg, a slice of beef
-- **Left** — suyuk, boiled pork sliced thick
-
-**For two people this combination is the standard play.** Split the two noodle bowls, add the pork, and you have seen everything the kitchen does.
-
-## Honestly — maybe I expected too much
+## Two similarly named shops, and my taste picked a side
 
 Here is the part I want to write plainly.
 
@@ -54,6 +40,16 @@ The names are confusingly similar, so to be clear: **these are two different res
 | Name | Aewolli Sun Memil Makguksu | Jeju Sun Memil Makguksu |
 | Location | **Aewol-eup**, Jeju City | **Andeok-myeon**, Seogwipo |
 | My preference | Good | **Better perilla oil aroma** |
+
+## I still ordered all three staples here
+
+**Perilla oil makguksu is not something I crave often, but it does come back to me now and then.** When the perilla oil and the buckwheat land together properly, the bowl empties before you notice. I came here **because of its reputation**, and ordered the three staples as they come.
+
+- **Perilla oil makguksu** — buried under a very generous layer of dried seaweed
+- **Cold-broth makguksu** — clear broth, cucumber, half a boiled egg, a slice of beef
+- **Suyuk** — boiled pork sliced thick
+
+**For two people this combination is the standard play.** Split the two noodle bowls, add the pork, and you have seen everything the kitchen does.
 
 ## But this is not a weak kitchen
 
@@ -92,4 +88,4 @@ It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which
 - ⚠️ **The closing day could not be confirmed.** Check ahead if you are travelling far for it
 - ⚠️ If perilla oil is unfamiliar to you, the cold-broth bowl is the gentler start
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(prices change often — please verify)**.
+> Written after comparing both restaurants directly. Taste judgements here are entirely my own preference. Prices and hours change often, so anything unconfirmed is marked **(prices change often — please verify)**.

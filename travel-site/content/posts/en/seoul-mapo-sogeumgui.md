@@ -30,33 +30,29 @@ info:
   - Rating|**3.9** on Google Maps and DiningCode
 ---
 
-**This place is known for pork skin.**
+**Restaurants with the sign "Mapo Sogeumgui" exist all over the country — not just this one.**
 
-There are days when pork skin is specifically what you want. This is where you go on one of them.
+They are not branches of each other. They are separate, unrelated businesses. Worth explaining why, before anything else.
 
-## What kkeopdegi is
+## "Mapo" is a type of food, not a brand
 
-**It is pork skin** — the rind off the belly, separated out and grilled on its own.
+**Salt-grilled pork and pork skin began in Mapo.** After the Korean War, the meat shops of Mapo's Texas Alley sold cuts of pork grilled with salt, and a whole pork-rib district grew up around them. Ever since, **the word "Mapo" has worked as a label for the food itself.** It is why Mapo Galbi and Choi Daepo are the most common pork-rib restaurant names nationwide.
 
-Grilled, **the outside turns chewy while the fat underneath melts.** Texture is the whole point of the dish, so if you enjoy something with real chew to it, this suits you.
+So read "Mapo Sogeumgui" on a sign as **a kind of food, not a brand.** **This particular shop is not a chain** — it has been independently run since 1995.
 
-In Korea pork skin is **drinking food.** Nobody eats it as a side dish with rice; you order it with a bottle of soju and grill it slowly. It is cheap enough that you can sit for a long time.
+**The confusion is real.** There is another Mapo Sogeumgui within Mapo itself — 32 Wausan-ro 32-gil, a separate old shop running since 1996. There are more out towards Seokgye and Amsa. **Which is why the address matters** — the place in this post is **27 Yanghwa-ro, Hapjeong.**
 
-## The pairing here is skin plus pork neck
+## The pairing: skin and pork neck
 
-Pork skin on its own gets tiring — too much fat, too little variation in texture.
+**Kkeopdegi** is pork skin — the rind off the belly, separated out and grilled on its own. Grilled, **the outside turns chewy while the fat underneath melts.** Texture is the whole point of the dish, so if you enjoy something with real chew to it, this suits you. In Korea pork skin is **drinking food** — nobody eats it as a side dish with rice; you order it with a bottle of soju and grill it slowly.
 
-So at this place you order **pork neck alongside it.** That is the signature combination.
-
-**The neck is remarkably tender.** It gives way easily under the teeth. Alternating chewy skin with soft neck keeps either from wearing you out.
+Pork skin on its own gets tiring — too much fat, too little variation in texture. So at this place you order **pork neck alongside it.** That is the signature combination. **The neck is remarkably tender** — it gives way easily under the teeth. Alternating chewy skin with soft neck keeps either from wearing you out.
 
 ![Pork neck, part-grilled over charcoal — you only finish it at the table](/assets/img/seoul-mapo-sogeumgui-table.jpg)
 
-## It arrives part-cooked
+## Why it arrives part-cooked
 
-As in the photo, **the meat has already been grilled once** over charcoal before it reaches your table.
-
-For a traveller this is convenient.
+As in the photo, **the meat has already been grilled once** over charcoal before it reaches your table. For a traveller this is convenient.
 
 - **You do not need to know how to grill.** Put it on the grill, warm the surface, done
 - **You eat sooner.** Places that start from raw meat cost you twenty minutes
@@ -64,58 +60,23 @@ For a traveller this is convenient.
 
 ## Not quite what I remember
 
-Honestly: **it did not taste quite the way I remember it.**
+Honestly: **it did not taste quite the way I remember it.** This is an old place, running since 1995, and flavour at long-standing restaurants shifts a little over the years. That is not a complaint.
 
-This is **an old place, running since 1995.** Flavour at long-standing restaurants shifts a little over the years. That is not a complaint.
+**The skin-and-neck combination is still genuinely good.** That is the reason to come here, and the reason still holds.
 
-And **the skin-and-neck combination is still genuinely good.** That is the reason to come here, and the reason still holds.
+## Getting there and hours
 
-## Well located, but the sign is invisible
+It is **a two-minute walk from Exit 8 of Hapjeong Station** — access like that is rare. The problem is elsewhere: **neither the shop nor its sign stands out.** There is no bright signage, so it is entirely possible to walk straight past the door. **Navigate by the address** — 27 Yanghwa-ro, Mapo-gu.
 
-It is **a two-minute walk from Exit 8 of Hapjeong Station.** Access like that is rare.
-
-The problem is elsewhere. **Neither the shop nor its sign stands out.** There is no bright signage, so it is entirely possible to walk straight past the door.
-
-**Navigate by the address** — 27 Yanghwa-ro, Mapo-gu. Looking for it with your eyes will cost you time.
-
-## "Mapo Sogeumgui" is not a brand
-
-Worth clearing up: **this is not a chain.** The shop is independently run.
-
-Yet **restaurants across the country use the same name.** They are not branches — they are separate, unrelated businesses.
-
-There is a reason. **Salt-grilled pork and pork skin began in Mapo.** After the Korean War, the meat shops of Mapo's Texas Alley sold cuts of pork grilled with salt, and a whole pork-rib district grew up around them. Ever since, **the word "Mapo" has worked as a label for the food itself.** It is why Mapo Galbi and Choi Daepo are the most common pork-rib restaurant names nationwide.
-
-So read "Mapo Sogeumgui" on a sign as **a kind of food, not a brand.**
-
-**The confusion is real.** There is another Mapo Sogeumgui within Mapo itself — 32 Wausan-ro 32-gil, a separate old shop running since 1996. There are more out towards Seokgye and Amsa.
-
-**Which is why the address matters** — confirm you are heading to **27 Yanghwa-ro in Hapjeong** before you set off.
-
-## Before you go
-
-**It opens at 4:30 PM.** There is no lunch service — this is a dinner-only place.
-
-**Closed Sundays.** Saturdays start at 4:00 PM.
-
-**Last order is 9:00 PM** and the door closes at ten. It is not a place to sit late into the night.
-
-There is no car park. Walk from Hapjeong Station.
+**It opens at 4:30 PM**, with no lunch service — this is dinner-only. **Closed Sundays**; Saturdays start at 4:00 PM. **Last order is 9:00 PM** and the door closes at ten. There is no car park.
 
 ## Notes for visitors
 
-**Kkeopdegi is pork skin**, and it is what this restaurant is known for.
-
-- **You grill the skin yourself.** The outside goes chewy, the fat underneath melts. Texture is the point
-- **It may be unfamiliar** — though eating skin is universal. Britain has pork scratchings, Latin America chicharrón, China 猪皮. The Korean way is over charcoal, like this
-- **Order pork neck (moksal) with it.** Skin alone gets tiring. The combination is the dish here
-- **The meat arrives part-grilled.** You only warm it through, so there is nothing to burn
-- **Not spicy.** Salt-grilled means salt and nothing else
+- **Kkeopdegi is pork skin.** It may sound unfamiliar, but eating skin is universal — Britain has pork scratchings, Latin America chicharrón, China 猪皮. The Korean way is over charcoal, like this
+- **Order pork neck (moksal) with it.** Skin alone gets tiring
 - **This is pork.** Not suitable if you avoid it
-- **It is a place for soju**, not a place for a rice meal. Think drinking food
-- **Opens 4:30 PM, closed Sundays.** Lunch is not an option
-- **Two minutes from Hapjeong Exit 8** — but **the sign is easy to miss, so navigate by the address** (27 Yanghwa-ro)
-- **Do not expect an English menu.** It is an old neighbourhood place. Use the phrase above
+- **It is a place for soju**, not a rice meal. Think drinking food
+- **Do not expect an English menu.** It is an old neighbourhood place — just say "kkeopdegi-hago sogeumgui juseyo"
 
 ## Come here if
 
@@ -126,9 +87,8 @@ There is no car park. Walk from Hapjeong Station.
 - ✅ Grilling your own meat feels daunting — **it comes part-cooked**
 - ✅ You want the atmosphere of **an old neighbourhood grill house**
 - ⚠️ **Opens 4:30 PM.** No lunch
-- ⚠️ **Closed Sundays**
-- ⚠️ **The sign is hard to spot.** Go by address
+- ⚠️ **Closed Sundays**, and the sign is easy to miss — go by address
 - ⚠️ Pork skin is **fatty.** Not for you if you want something light
 - ⚠️ It is not a quiet room
 
-> A record of an actual visit. Judgements about taste are personal. Prices and opening hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on an actual visit, and taste is a matter of personal judgement. Prices and hours here change more often than most, so treat anything marked **(changes often — please verify)** as worth double-checking before you go.

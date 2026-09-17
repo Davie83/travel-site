@@ -20,23 +20,21 @@ info:
   - Price · hours · closing day|Not confirmed (check before you go) — ordering a full meal here can add up more than you expect
 ---
 
-An old place in Euljiro's galbi alley. After drinks nearby, I came by as a second stop for the first time in a while.
+## Leave the grilling to the staff
 
-## After Sansu Gapsan, a second stop
-
-We had our first round — boiled offal and a drink — at **Sansu Gapsan**, an old sundae-guk (blood sausage soup) place in Euljiro, then walked over here. Coming back after a long gap, the seats are still comfortable and the worn-alley feel of Euljiro 3-ga is unchanged.
-
-Already full, I skipped the **gyeranmari** this place is known for and ordered only the **LA galbi**.
-
-## Just the LA galbi — leave the grilling to them
-
-LA galbi is beef short rib sliced thin across the bone (the "LA cut") and steeped in a soy marinade. It's grilled on a domed pan like the one in the photo.
+An old place in Euljiro's galbi alley. LA galbi is beef short rib sliced thin across the bone (the "LA cut") and steeped in a soy marinade, grilled on a domed pan like the one in the photo.
 
 Here, **the staff grill it for you.** Even after a long time away, they judge it well — a proper browned crust outside, not chewy inside, cut with scissors at just the right moment. They know when to turn it before the marinade scorches bitter.
 
 ![The LA galbi pan with doenjang stew and side dishes](/assets/img/seoul-sigoljip-table.jpg)
 
 The sides come with a pot of doenjang stew and an assortment of namul and kimchi. The seasoning isn't strong, so it's easy going even if you can't take spice.
+
+## After Sansu Gapsan, a second stop
+
+After drinks nearby, I came by as a second stop for the first time in a while. We had our first round — boiled offal and a drink — at **Sansu Gapsan**, an old sundae-guk (blood sausage soup) place in Euljiro, then walked over here. Coming back after a long gap, the seats are still comfortable and the worn-alley feel of Euljiro 3-ga is unchanged.
+
+Already full, I skipped the **gyeranmari** this place is known for and ordered only the **LA galbi**.
 
 ## For visitors
 

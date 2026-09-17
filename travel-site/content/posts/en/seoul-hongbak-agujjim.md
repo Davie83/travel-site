@@ -55,14 +55,14 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 - **The skin is gelatinous and slippery.** Those translucent grey pieces in the photo. If unfamiliar textures bother you, eat the white flesh and the liver
 - **It does not smell fishy.** This is the worry people have, and it is not warranted here. The broth is clean and mild
 
-## Before you go
+## Checklist before you go
 
 - **Closed Sundays.** Confirmed
 - **Closed 3 PM to 5 PM.** A late lunch will find the door shut
 - **Bring someone.** The platters are made for sharing
 - **Alone at lunch?** There is a fresh monkfish soup for 18,000 won
 
-## Who will like this
+## Who this restaurant is for
 
 - ✅ You like rich liver dishes — ankimo, foie gras, cod roe
 - ✅ You want fish that tastes of fish, not of sauce
@@ -72,4 +72,4 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 - ⚠️ The skin has a slippery texture some people dislike
 - ⚠️ Closed Sundays and between 3 and 5 PM
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Put together from several visits over time. The break-time hours and prices can change, so check again before you go to avoid a wasted trip.

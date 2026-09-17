@@ -17,25 +17,25 @@ info:
   - Hours · prices · closing day|Not confirmed (changes often — please verify)
 ---
 
-In Aewol I got a craving for hitsumabushi — Nagoya-style grilled eel over rice.
+The taste I got in Nagoya after trying to book a table twice at an old restaurant there — that's what suddenly came back to me in Aewol.
 
-The weather was good, so **I got it to go**, and ate it in the sun on an empty stomach. That made it better.
+## A memory from Nagoya
+
+I've also eaten it at **a famous old restaurant in Nagoya**, said to be the home of hitsumabushi. I don't remember the name, but it was a very old place, and I got a table only **after trying to book twice**.
+
+I haven't forgotten that taste. It's the reason hitsumabushi was on my mind in Aewol in the first place.
 
 ## Tender eel, an indulgent meal
 
-The eel was **so tender it was a pleasure to eat**. Honestly, it was **an indulgent meal** — not an everyday one, but now and then a meal like this feels right.
+The weather was good, so **I got it to go**, and ate it in the sun on an empty stomach. That made it better.
+
+The eel was **so tender it was a pleasure to eat**. Honestly, it was **an indulgent meal** — not an everyday one, but now and then a meal like this feels right. Jejunagi's hitsumabushi **brought that Nagoya taste back to mind.**
 
 ## What hitsumabushi is
 
 Hitsumabushi is **Nagoya's grilled-eel rice bowl**. You usually eat one bowl in three passes — plain first; then with garnishes like seaweed, sesame and spring onion; and finally with dashi broth poured over, like ochazuke.
 
 As in the photo, the garnishes come divided into little compartments. Because it was takeout, that whole format came packed as is.
-
-## A memory from Nagoya
-
-I've also eaten it at **a famous old restaurant in Nagoya**, said to be the home of hitsumabushi. I don't remember the name, but it was a very old place, and I got a table only **after trying to book twice**.
-
-I haven't forgotten that taste. Jejunagi's hitsumabushi **brought it back to mind**.
 
 ## For foreign visitors
 
@@ -59,4 +59,4 @@ I haven't forgotten that taste. Jejunagi's hitsumabushi **brought it back to min
 - **Takeout** — available. Good for eating nearby in fine weather.
 - **How to eat it** — plain / with garnishes / with broth poured over, in three passes.
 
-> Based on a personal visit. Any judgement of taste is personal preference. Hours, prices, and the closing day I couldn't confirm — check the venue's details once more before you go.
+> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.

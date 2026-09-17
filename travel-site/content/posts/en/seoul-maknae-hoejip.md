@@ -29,13 +29,6 @@ Flounder sashimi, spicy seasoned squid, a braised fish dish, and a spicy fish st
 
 If you're in the mood for a light, casual plate of sashimi, this place will more than satisfy.
 
-## For foreign visitors
-
-- On the **2nd floor of Namdaemun Market**, the core draw here is the **sashimi set** (₩14,000/person), served only at weekday lunch.
-- The set requires a **minimum of 2 people**, and stops selling after 2:00 PM. It's not offered at all on weekends.
-- With sashimi, braised fish, and a stew all in one meal, it's an easy, approachable way to try raw fish even if it's your first time.
-- About a **3-minute walk** from Hoehyeon Station (Line 4) — easy to combine with a stroll through Namdaemun Market.
-
 ## Good for you if
 
 - ✅ You want an affordable full sashimi meal
@@ -44,10 +37,11 @@ If you're in the mood for a light, casual plate of sashimi, this place will more
 - ⚠️ You're going after 2 PM on a weekday, or on a weekend — the sashimi set won't be available
 - ⚠️ You're dining solo — the set requires at least 2 people
 
-## Before you go
+## Worth knowing
 
-- **Location** — 2 Namdaemunsijang 2-ga-gil, Jung-gu, Seoul, 2F.
-- **Station** — About a 3-minute walk from Hoehyeon Station (Line 4).
-- **Sashimi set** — Weekday lunch only (until 2 PM), minimum 2 people, ₩14,000/person.
+- On the **2nd floor of Namdaemun Market**, the core draw here is the **sashimi set** (₩14,000/person), served only at weekday lunch.
+- The set requires a **minimum of 2 people**, and stops selling after 2:00 PM. It's not offered at all on weekends.
+- With sashimi, braised fish, and a stew all in one meal, it's an easy, approachable way to try raw fish even if it's your first time.
+- **Location** — 2 Namdaemunsijang 2-ga-gil, Jung-gu, Seoul, 2F, about a 3-minute walk from Hoehyeon Station (Line 4) — easy to combine with a stroll through Namdaemun Market.
 
-> This is a first-hand account. Prices and hours can change, so it's worth double-checking before you visit.
+> Put together after a couple of return visits. The sashimi set only runs at weekday lunch for two or more, so double-check that condition before you go.

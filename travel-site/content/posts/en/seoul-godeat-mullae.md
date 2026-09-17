@@ -65,7 +65,7 @@ That means **no transfer**. From Mullae it is roughly 5 km in a straight line to
 
 The restaurant is **510 m from exit 7 of Mullae Station, a 9-minute walk**.
 
-## For international visitors
+## Not Korean food, but worth knowing
 
 **This is not Korean food** — it is Mexican. But it makes an easy meal if you are in Mullae, so it is worth noting.
 
@@ -89,4 +89,4 @@ The restaurant is **510 m from exit 7 of Mullae Station, a 9-minute walk**.
 - ⚠️ **Weekday break from 3:00 to 5:00 PM** (Saturday and Sunday excepted)
 - ⚠️ If you are travelling for Korean food, this is not that
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written after eating there myself. Take the taste opinions as personal preference, and double-check prices and hours before you go, since they shift often.

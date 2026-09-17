@@ -19,6 +19,8 @@ info:
   - Nearest station|About a **3-minute walk** from Yeoksam Station (Line 2)
 ---
 
+## Lured in by the sign
+
 **It's right by exit 3 of Yeoksam Station.** I'm not usually much of a burger person, but seeing the Bas Burger sign, the craving just hit, and I ended up walking in.
 
 ## Burger, onion rings, and a daytime beer
@@ -31,24 +33,19 @@ The space added to it too — pink tile counter, a neon sign glowing on the bric
 
 **It was excellent.** Good enough that I wanted to just lie down right there afterward.
 
-## For foreign visitors
+## Notes for travellers
 
 - **Bas Burger** is a handmade-burger chain with several branches around Seoul.
 - The **Bas Burger** with a hearty patty is the base order; there are distinctive options too, like the **WasabiMayo shrimp burger** topped with shrimp.
 - **Chips come with free refills**, so it's an easy side to order, and a beer in the daytime works well here.
 - About a **3-minute walk** from exit 3 of **Yeoksam Station** (Line 2) — easy to reach.
 
-## Good for you if
-
-- ✅ You want a handmade burger with a substantial patty
-- ✅ You'd like a light beer alongside lunch
-- ✅ You want sides like free-refill chips too
-- ⚠️ You're not usually a burger person — the sign alone might still pull you in
-
 ## Before you go
 
+- ✅ Good if you want a handmade burger with a substantial patty, a light beer alongside lunch, or sides like free-refill chips.
+- ⚠️ Not usually a burger person? The sign alone might still pull you in.
 - **Location** — 10 Teheran-ro 26-gil, Gangnam-gu, Seoul, B1 Seongbo Building.
 - **Station** — About a 3-minute walk from exit 3 of Yeoksam Station (Line 2).
 - **Hours** — Weekdays 11 AM-9:15 PM, weekends 11 AM-8:45 PM (last order 45 min-1 hour before close).
 
-> This is a first-hand account. Prices and hours can change, so it's worth double-checking before you visit.
+> Written up from a visit of my own. Prices and hours can shift, so it's worth double-checking before you go.

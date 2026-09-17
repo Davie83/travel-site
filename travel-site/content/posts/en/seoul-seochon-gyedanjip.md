@@ -19,6 +19,10 @@ info:
   - Nearest station|About a **3-minute walk** from Gyeongbokgung Station (Line 3)
 ---
 
+## Worth the distance
+
+**It's not close to where I live, so I don't get here often.** But on the coldest, harshest days, this place suddenly comes to mind — enough to make me forget the distance.
+
 **This is a place seafood lovers tend to already know about.** It's good for seasonal seafood, and while the price runs a bit higher, you get unique seasonal catches you won't find at an ordinary seafood spot.
 
 ## Whatever's in season that day
@@ -29,13 +33,7 @@ Crab was also in season this visit, so a big steamed crab came out alongside it 
 
 ![Seasonal steamed crab at Seochon Gyedanjip, served with vinegar-chili and sesame-oil dips](/assets/img/seoul-seochon-gyedanjip-crab.jpg)
 
-## The seafood ramyeon, next time
-
 **There's a seafood ramyeon that everyone who comes here seems to order without fail**, but I was too full to try it this time. Definitely on the list for next visit.
-
-## Worth the distance
-
-**It's not close to where I live, so I don't get here often.** But on the coldest, harshest days, this place suddenly comes to mind — enough to make me forget the distance.
 
 ## For foreign visitors
 

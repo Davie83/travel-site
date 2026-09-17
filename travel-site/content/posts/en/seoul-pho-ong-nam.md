@@ -18,21 +18,19 @@ info:
   - Nearest station|**Dangsan** (Lines 2 and 9), next to Han River Park
 ---
 
-## Why eat Vietnamese food in Seoul?
+The place that comes to mind when **you want pho.**
 
-Fair question, so let's deal with it first.
+## Regulars say the broth tastes like gomtang
 
-Korea has a large Vietnamese community, and **pho is genuinely part of everyday eating here** — not a novelty. If you're in Seoul for two days, spend them on Korean food. But if you're here longer, or you've had three straight days of grilled pork and want a clear, light bowl, this is a good use of a meal.
+**This place is run by Vietnamese owners**, so it isn't the Koreanised version. **The noodles and the broth both have real depth.** The broth is clear but not thin — it tastes long-simmered.
 
-**This place is run by Vietnamese owners**, so it isn't the Koreanised version.
-
-## The broth is the reason
-
-**The noodles and the broth both have real depth.** The broth is clear but not thin — it tastes long-simmered.
-
-Here's the interesting part: Korean diners describe it as tasting like **"clear gomtang."** They're right. Beef simmered for hours and drawn off clear is exactly what [Naju gomtang](naju-gomtang-hayanjip) and [Hadongkwan](seoul-hadongkwan) do — so if you've had those, you'll recognise the family resemblance immediately.
+Here's the interesting part: Korean diners describe it as tasting like **"clear gomtang."** They're right. Beef simmered for hours and drawn off clear is exactly what [Naju gomtang](naju-gomtang-hayanjip) and [Hadongkwan](seoul-hadongkwan) do — so if you've had those, you'll recognise the family resemblance immediately. That's also why it's an easy recommendation for an older relative trying pho for the first time.
 
 One reviewer who had just come back from Vietnam said the interior and the pho both felt like the real thing.
+
+## Why eat Vietnamese food in Seoul, anyway
+
+Korea has a large Vietnamese community, and **pho is genuinely part of everyday eating here** — not a novelty. If you're in Seoul for two or three days, spend them on Korean food. But if you're here longer, or you've had three straight days of grilled pork and want a clear, light bowl, this is a good use of a meal.
 
 ## How to eat it — this matters
 
@@ -44,9 +42,7 @@ What comes alongside, and what to do with it:
 - **Pickled onion and carrot** — sharp and sour. Add a little when the broth starts feeling rich
 - **Pickled chilli** — only if you want heat
 
-**Taste the broth plain first, before adding anything.** That's what the kitchen made. Everything after that is your preference.
-
-**A note for anyone avoiding spice:** pho itself is not spicy at all. The chilli is a separate jar you control.
+**Taste the broth plain first, before adding anything.** That's what the kitchen made. Everything after that is your preference. **If you avoid spice, don't worry** — pho itself has no heat at all, and the chilli sits in its own dish so you decide whether to touch it.
 
 ## Then walk it off by the river
 

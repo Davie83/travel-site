@@ -52,7 +52,7 @@ Expect crowds too. Yeouido during blossom season is one of the busiest places in
 
 This is the best way to use the place: **see the river from above at the cafe, then walk beside it in the park.**
 
-## Before you go
+## Practical notes: hours and entry
 
 - **Closed Sundays.** Saturday starts at 11:00 AM
 - **Closes at 7:00 PM.** Depending on the season, that can be tight for sunset
@@ -61,7 +61,7 @@ This is the best way to use the place: **see the river from above at the cafe, t
 
 **On entry:** daytime access to the Assembly grounds is reported to be possible without an ID check. Rules can change and differ by building, so **bring your passport to be safe.**
 
-## Who will like this
+## Who this cafe suits
 
 - ✅ You want to look down over the Han River properly
 - ✅ You need one cafe during a Yeouido day
@@ -72,4 +72,4 @@ This is the best way to use the place: **see the river from above at the cafe, t
 - ⚠️ Closed Sundays · closes 7 PM · bread sells out early
 - ⚠️ The good window and rooftop seats are contested
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> This comes from an actual visit. Cafe hours and the Assembly's entry rules can change, so it's worth checking again before you go.

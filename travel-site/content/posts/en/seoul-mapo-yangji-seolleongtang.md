@@ -18,19 +18,15 @@ info:
   - Prices · hours · closing day|Not confirmed (check before you go)
 ---
 
-It's a seolleongtang place I've gone to for a long time. I kept coming back to it around Mapo and Gongdeok, and it has moved once along the way.
+I've been going to this place for a long time. In that time the shop itself has moved once, and what I order has changed too. Following those two changes is more or less the introduction to this place.
 
-## A long-time regular spot, now properly relocated
+## Still going, even after it moved
 
-These days there's a proper shop at the current address, but it used to sit in a humbler spot just behind the Shilla Stay across the street. Much like **Myeongdong Gyoja** moved into a stylish new location near Myeongdong Station Exit 8, this place has, over the years, moved to where it is now.
+These days there's a proper shop at the current address, but it used to sit in a humbler spot just behind the Shilla Stay across the street. Much like **Myeongdong Gyoja** moved into a stylish new location near Myeongdong Station Exit 8, this place has, over the years, moved to where it is now. The address changed; the reason to keep coming didn't.
 
-## The large seolleongtang, and the green onion kimchi
+## From the large seolleongtang to doganitang
 
-When I first started coming here, I always ordered the **large seolleongtang**. Ordering large gets you a generous helping of meat too, enough to leave the bowl properly full.
-
-At a Korean gukbap place, the **kimchi** matters almost as much as the broth. This place takes that seriously — the side dishes include **green onion kimchi** as well. The kimchi here is genuinely good, and the seolleongtang eaten alongside it barely needs explaining.
-
-## These days, the ox-knee soup
+When I first started coming here, I always ordered the **large seolleongtang**. Ordering large gets you a generous helping of meat too, enough to leave the bowl properly full. At a Korean gukbap place, the **kimchi** matters almost as much as the broth, and this place takes that seriously — the side dishes include **green onion kimchi** as well. The kimchi here is genuinely good, and the seolleongtang eaten alongside it barely needs explaining.
 
 I don't get here as often as I used to — maybe it's age — but these days I mostly order the **doganitang** (ox-knee soup). It comes generous with cartilage, and the flavour is good. Unlike the seolleongtang, it's the one I reach for when I'm after the distinctive, chewy texture of the cartilage itself.
 
@@ -58,4 +54,4 @@ I don't get here as often as I used to — maybe it's age — but these days I m
 - **Side dishes** — don't skip the green onion kimchi. Half of this place's appeal is the kimchi.
 - **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
-> This post is a write-up of a personal experience from visiting over a long period. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.
+> This is a personal record from visiting over a long stretch of time, so it leans on my own taste more than most write-ups. Others may judge the flavour differently, and since I couldn't confirm prices, hours, or the closing day this time, please check the shop's current information once more before you go.

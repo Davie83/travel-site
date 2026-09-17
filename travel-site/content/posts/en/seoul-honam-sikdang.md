@@ -35,14 +35,6 @@ Add a bottle of **daytime makgeolli** and the spread is complete. Sitting in the
 
 They add **fried hairtail** as a free side dish. Picking at crisp fried hairtail like a banchan is a small privilege you only get in this braised-hairtail alley.
 
-## For foreign visitors
-
-- **Galchi-jorim** is hairtail (cutlassfish) braised with radish and vegetables in a spicy sauce. **It's spicy** — about the heat of a Korean spicy braise.
-- Hairtail has **a lot of small bones.** If you're not used to picking fish off the bone, it takes a while.
-- The hairtail here is **not domestic (it's imported).** If you come expecting the taste of Jeju's domestic braised hairtail, you may be let down. **Come with expectations lowered** and it's a perfectly satisfying market meal.
-- The **steamed egg that comes with it is not spicy.** If spice is a problem, you can lean on the steamed egg and rice.
-- It's a good spot for **makgeolli from midday**. Walk over from Namdaemun Market or Myeongdong.
-
 ## Who this suits
 
 - ✅ You want a **spicy braised-fish meal** on a Namdaemun Market or Myeongdong day
@@ -52,10 +44,13 @@ They add **fried hairtail** as a free side dish. Picking at crisp fried hairtail
 - ⚠️ You find picking small fish bones a chore
 - ⚠️ Touting and a crowded alley wear you out
 
-## Before you go
+## The practical rundown
 
 - **Getting there** — Jung-gu, Seoul, the braised-hairtail alley of Namdaemun Market. There are several similar shops, so check the name before you sit down — the meal is much the same at any of them.
 - **Ordering** — braised hairtail + rice. Steamed egg and fried hairtail usually come with it. Makgeolli is separate.
 - **Hours · closing day** — Daily 7 AM-8 PM, closed every other Sunday. It opens early, so it works well as the first stop of a market food crawl.
+- **Spice** — galchi-jorim runs about as hot as a Korean spicy braise. The steamed egg that comes with it isn't spicy, so lean on that and the rice if heat is a problem.
+- **Origin** — the hairtail here is imported, not domestic. Expecting the taste of Jeju's domestic version may disappoint you; come with expectations lowered and it's a satisfying market meal.
+- **Bones** — hairtail has a lot of small bones, so picking the flesh off takes a while if you're not used to it.
 
-> Based on a personal visit. Judgements on the taste, the spice level and the fish's origin are personal, and prices and the closing-day cycle can change — check the venue's details once more before you go.
+> Written after getting lost in this Namdaemun Market alley more than once. Judgements on the taste, the spice level and the fish's origin are personal, and the closing-day cycle can change — check the venue's details once more before you go.

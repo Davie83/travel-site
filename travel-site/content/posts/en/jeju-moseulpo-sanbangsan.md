@@ -19,21 +19,23 @@ info:
   - Getting there|**Rental car recommended** · slots naturally into a west-Jeju itinerary
 ---
 
-The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. Even with no set destination, **it's a stretch where the road itself is the point**.
+Right around where Hyeongjeseom comes into view, look left — Sanbangsan is already there.
 
-## What you pass
+## Where Hyeongjeseom appears, Sanbangsan is on your left
 
-- **Moseulpo Harbour** — you can catch the **boat to Gapado** here. Check sailing times and cancellations on the day.
-- **Songaksan** — there's a well-made walking loop around it. The grade is gentle, so it's an easy walk.
-- **Hyeongjeseom** — once you pass Songaksan, you'll see **two small islands joined together** in the sea. Because they're joined, they're called the "brother islands."
+Once you pass Songaksan, you'll see **two small islands joined together** in the sea. Because they're joined, they're called the "brother islands."
 
 ![Hyeongjeseom — two small islands joined in the sea, beyond black basalt rocks on the shore](/assets/img/jeju-moseulpo-sanbangsan-hyeongjeseom.jpg)
 
-- **Sanbangsan** — around where you can see Hyeongjeseom, **look inland to your left** and there's Sanbangsan rising up. It's the landmark peak of this stretch.
+Around where you can see Hyeongjeseom, **look inland to your left** and there's Sanbangsan rising up. It's the landmark peak of this stretch. It feels good no matter when you drive it. Clear or overcast, the sea, the islands and the mountain's outline all read differently.
 
-## Good in any weather
+## What you pass
 
-It feels good no matter when you drive it. Clear or overcast, the sea, the islands and the mountain's outline all read differently.
+The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. Even with no set destination, **it's a stretch where the road itself is the point**.
+
+- **Moseulpo Harbour** — you can catch the **boat to Gapado** here. Check sailing times and cancellations on the day.
+- **Songaksan** — there's a well-made walking loop around it. The grade is gentle, so it's an easy walk.
+- **Hyeongjeseom and Sanbangsan** — as above, the highlight of this stretch.
 
 ## For foreign visitors
 
@@ -57,4 +59,4 @@ It feels good no matter when you drive it. Clear or overcast, the sea, the islan
 - **Gapado boat** — departs from Moseulpo Harbour. Check times, fares and cancellations on the day.
 - **Sanbangsan / Songaksan** — check admission and which sections are open before you go.
 
-> Based on driving the route personally. Boat services and which viewpoints are open can change — check before you go.
+> Written after driving this road myself. Boat services and which viewpoints are open can change, so it's worth checking again before you go.

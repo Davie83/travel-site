@@ -18,36 +18,26 @@ info:
   - What I had|Bokguk, raw pufferfish salad, fried pufferfish
 ---
 
-There is a reason a pufferfish restaurant in Busan **opens at eight in the morning.**
+## Eight in the morning, and a hangover culture
 
-*Bokguk* — pufferfish soup — is not primarily a delicacy for visitors here. It is what Busan drinks the morning after. Hangover food. Restaurants that serve it open when people need it, which is early.
+There is a reason a pufferfish restaurant in Busan **opens at eight in the morning.** *Bokguk* — pufferfish soup — is not primarily a delicacy for visitors here. It is what Busan drinks the morning after. Hangover food. Restaurants that serve it open when people need it, which is early.
 
-## What bokguk actually is
+## What bokguk is, and this place's strength
 
 A clear broth simmered with pufferfish, *minari* (water dropwort) and bean sprouts, brought to the table still boiling in a stone pot.
 
 The important thing to know: **the broth is not spicy and not strong.** If you arrive expecting the fiery red soups Korea is known for, this will taste plain. That is the point. It is built to settle a stomach, and the minari gives it a clean, herbal edge rather than heat.
 
-## The appeal here: several pufferfish dishes, affordably
-
-Pufferfish carries a reputation for being expensive. This place is the opposite of that — **a range of pufferfish dishes at prices that don't require a special occasion.** That is what it is for.
-
-If soup alone feels thin, add these two:
+Pufferfish carries a reputation for being expensive. This place is the opposite of that — **a range of pufferfish dishes at prices that don't require a special occasion.** That is what it is for. If soup alone feels thin, add these two:
 
 - **Fried pufferfish** — the contrast against the mild soup is what makes the meal. This was good.
 - **Raw pufferfish salad** (*yukhoe* style) — unfamiliar to most visitors, and better than I expected. Pufferfish flesh dressed and served raw; the texture is firm and springy.
 
-## Being honest about it
+## Being honest about it, and is pufferfish safe
 
-**This is a textbook Korean pufferfish restaurant.** It is not somewhere to make a special trip for.
+**This is a textbook Korean pufferfish restaurant.** It is not somewhere to make a special trip for. What it does is the standard version of the genre, done properly, at a fair price. For a morning in Busan when you need something restorative — or if you simply want to try pufferfish once — it is a safe choice.
 
-What it does is the standard version of the genre, done properly, at a fair price. For a morning in Busan when you need something restorative — or if you simply want to try pufferfish once — it is a safe choice.
-
-## Is pufferfish safe to eat?
-
-Yes, and this is worth understanding rather than worrying about.
-
-Korean law requires a **separate national licence to prepare pufferfish.** It is not a fish any kitchen is allowed to serve. A restaurant operating openly under a *bokguk* sign is a licensed one, and the dish has been part of everyday eating in Busan for generations.
+On safety: Korean law requires a **separate national licence to prepare pufferfish.** It is not a fish any kitchen is allowed to serve. A restaurant operating openly under a *bokguk* sign is a licensed one, and the dish has been part of everyday eating in Busan for generations.
 
 ## Practical notes
 

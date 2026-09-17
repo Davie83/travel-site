@@ -42,12 +42,6 @@ Count what arrives on one table: tuna, amberjack, salmon, mackerel, flounder, sc
 
 **This is not a place you go for one particular thing. It is a place to taste widely across seafood.**
 
-## You can build your own sushi
-
-The photo shows the full table. **Rice and dried seaweed come with it.**
-
-So you can **lay rice and a slice of fish on the seaweed and eat it like sushi.** When plain sashimi starts to feel repetitive, you can switch method — one table, two ways of eating.
-
 ## Move quickly in the evening
 
 **In the evening, unless you move quickly you will not get a table before the first sitting fills.**
@@ -59,13 +53,19 @@ Reviews say the same thing repeatedly.
 
 Book through **CatchTable**, or put your name into **Tabling** for remote queueing and wait nearby.
 
+## You can build your own sushi too
+
+The photo shows the full table. **Rice and dried seaweed come with it.**
+
+So you can **lay rice and a slice of fish on the seaweed and eat it like sushi.** When plain sashimi starts to feel repetitive, you can switch method — one table, two ways of eating.
+
 ## There is a separate main branch
 
 This post is the **Yeongdeungpo branch**. The **main branch is at 8 Jowon-ro 4-gil, Gwanak-gu**, near Guro Digital Complex.
 
 The main branch has far more reviews (145 against 28), and draws correspondingly bigger crowds. **Check which one you are navigating to.**
 
-## For international visitors
+## If this is your first visit
 
 **Suk-seong-hoe is sashimi aged for a period after the catch.** It gains savoury depth and a softer texture compared with fish served immediately.
 
@@ -78,7 +78,7 @@ The main branch has far more reviews (145 against 28), and draws correspondingly
 - **This is raw fish.** Not suitable if you do not eat sashimi
 - **Closed on Sundays.** Plan around it
 
-## Go if
+## This suits you well if
 
 - ✅ You want **variety rather than one thing**
 - ✅ You want to try **something you rarely get, like sea urchin**
@@ -91,4 +91,4 @@ The main branch has far more reviews (145 against 28), and draws correspondingly
 - ⚠️ **Closed every Sunday**
 - ⚠️ **Different from the main branch.** Check the address
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(changes often — please verify)**.

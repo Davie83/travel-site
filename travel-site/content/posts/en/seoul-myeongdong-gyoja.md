@@ -18,25 +18,23 @@ info:
   - Hours · prices · closing day|Not confirmed (check before you go)
 ---
 
-It's the famous Myeongdong kalguksu place that most people know. Decent value, and a broth that clicks with most palates — if you're Korean, you've probably been at least once.
+## Let's start with the kimchi
 
-## It has moved to Myeongdong Station Exit 8
+This place's kimchi is well known — **cabbage kimchi with a lot of garlic, and quite spicy.** There's a notice on the table along the lines of "ingredients are expensive, so take only as much kimchi as you need," which itself tells you how much attention goes into this side dish — it's self-serve, and they still felt the need to post that.
 
-It's not the scruffy alley spot from when I used to go a lot. It has moved, smartly, to **a new building near Myeongdong Station Exit 8**. If you're remembering the old cramped, busy room, it can feel unfamiliar.
+It contrasts with the mild broth, so a bite at a time alongside the noodles works well. If you're new here, this one side dish alone should tell you why the place is famous.
 
-## That broth, that bowl
+## How the bowl actually arrives
 
 Order the kalguksu and you get **one bowl topped with minced meat and dumplings**. The broth is on the rich side and not especially sharp, so it divides few people.
 
-That said — maybe because I went back after a while with the taste built up in my head — **the broth looked a bit cloudier than it used to.** It wasn't quite the thrill of when I was a regular. Still, it does more than the baseline, and I ate well.
+That said — maybe because I went back after a while with the taste built up in my head — **the broth looked a bit cloudier than it used to.** It wasn't quite the thrill of when I was a regular. Still, it does more than the baseline, and I ate well. Something felt changed, so I'm not sure I'll be back soon, but it is the kind of taste that **comes back to mind once the weather turns cold.**
 
-Something felt changed, so I'm not sure I'll be back soon. But it is the kind of taste that **comes back to mind once the weather turns cold.**
+## It has moved to Myeongdong Station Exit 8
 
-## The famous garlic kimchi
+It's the famous Myeongdong kalguksu place that most people know. Decent value, and a broth that clicks with most palates — if you're Korean, you've probably been at least once.
 
-This place's kimchi is well known — **cabbage kimchi with a lot of garlic, and quite spicy.** It contrasts with the mild broth, so a bite at a time alongside the noodles works well.
-
-There's a notice on the table along the lines of "ingredients are expensive, so take only as much kimchi as you need." The kimchi is self-serve, so don't pile it on.
+But it's not the scruffy alley spot from when I used to go a lot. It has moved, smartly, to **a new building near Myeongdong Station Exit 8**. If you're remembering the old cramped, busy room, it can feel unfamiliar.
 
 ## For foreign visitors
 

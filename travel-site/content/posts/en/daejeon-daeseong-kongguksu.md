@@ -22,7 +22,7 @@ info:
 
 Two things make it click. Knowing what to expect, and knowing that **every shop makes the broth at a different thickness.**
 
-## Thick or thin — that's the whole question
+## Thick shops, thin shops, and this one
 
 Some shops grind the soybeans fine and serve something almost like a cold porridge. Others keep it loose enough to drink. Korean regulars have strong preferences and will travel for the version they like.
 
@@ -32,7 +32,7 @@ The broth is not unseasoned — there is salt in it — but it is **light enough
 
 If you have found kongguksu heavy or chalky before, this thinner style may be the one that works for you. It goes down easily.
 
-## The noodles
+## Soft noodles that still push back
 
 Softer than expected — but not mushy. **There is still some chew left in them.**
 
@@ -44,25 +44,16 @@ Here is the practical part: **if the broth tastes flat to you, eat it with the k
 
 This isn't just my impression. Across 725 Google reviews of this place, the single most-mentioned word is **kimchi** — 62 mentions, at a noodle shop.
 
-Treat the bowl and the kimchi as one dish rather than a main and a side, and the meal makes sense.
+Treat the bowl and the kimchi as one dish rather than a main and a side, and the meal makes sense. It's worth knowing more generally that with kongguksu, **seasoning to taste is normal and expected** — adding salt yourself is not an insult to the kitchen. Some Koreans add sugar instead, which is a genuine regional split and not a mistake either.
 
-## Salt is on the table
-
-Worth knowing generally: with kongguksu, **seasoning to taste is normal and expected.** Adding salt yourself is not an insult to the kitchen — it's how the dish is eaten. Some Koreans add sugar instead, which is a genuine regional split and not a mistake either.
-
-## Who this suits
-
-- ✅ You want a light, drinkable version rather than a heavy one
-- ✅ You've found kongguksu too thick or pasty in the past
-- ✅ A proper meal for under ₩10,000
-- ❌ You came for a dense, creamy soy broth — different shop
-
-## Practical notes
+## Before you go
 
 - **Where** — Doma-dong, Seo-gu. A little out from the Dunsan city centre.
 - **Opens 11:30 AM.** Not a breakfast option.
 - **Busy** — 725 reviews on a neighbourhood noodle shop tells you something. Expect a wait at meal times.
 - **Parking** — a back-street location; don't count on it.
 - **Language** — a local shop, no English menu expected. Pointing works.
+- ✅ Good if you want a light, drinkable version rather than a heavy one, you've found kongguksu too thick or pasty before, or you want a proper meal for under ₩10,000
+- ❌ Less good if you came for a dense, creamy soy broth — different shop
 
 > Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.

@@ -39,13 +39,17 @@ You can order the cutlet on its own, but **the set with kimchi fried rice is bet
 
 The cutlet itself is large, and then a full bowl's worth of fried rice arrives on top of it. **I couldn't finish it**, and I usually can. Two people ordering one set plus one plain cutlet and sharing is a reasonable move.
 
-## For foreign visitors
+## Good to know before you order
 
-- **The cutlet and brown sauce are not spicy.** The **kimchi fried rice** in the set is **mildly spicy** (about 1 out of 5).
-- A fork and knife come with it. No chopstick skills needed.
-- **This is a different dish from Japanese *tonkatsu*.** It's an old Korean take on Western food, so think of it as "the taste of an old Korean Western-style diner."
+- **Getting there** — Haengdang-dong, Seongdong-gu, between Hanyang University and Wangsimni Station. The name is common, so check the branch on the map before you go.
+- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Ordering** — the kimchi fried rice set is the value pick. If the volume is daunting, get a plain cutlet, or share between two.
+- **Spice level** — the cutlet and brown sauce are not spicy. The kimchi fried rice in the set is only mildly spicy (about 1 out of 5).
+- **Utensils** — a fork and knife come with it. No chopstick skills needed.
 
-## Who this suits
+## Who this fits
+
+The main thing to know is that this is a different dish from Japanese *tonkatsu* — it's an old Korean take on Western food, so think of it as "the taste of an old Korean Western-style diner."
 
 - ✅ You want the **old-school (gyeongyangsik) cutlet**, not the trendy Japanese-style one
 - ✅ You want both **value** and **volume**
@@ -54,10 +58,4 @@ The cutlet itself is large, and then a full bowl's worth of fried rice arrives o
 - ⚠️ You have a small appetite — the set is genuinely a lot
 - ⚠️ You're expecting a thick Japanese katsu — this is a different thing
 
-## Before you go
-
-- **Getting there** — Haengdang-dong, Seongdong-gu, between Hanyang University and Wangsimni Station. The name is common, so check the branch on the map before you go.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
-- **Ordering** — the kimchi fried rice set is the value pick. If the volume is daunting, get a plain cutlet, or share between two.
-
-> Based on a personal visit. Any judgement of taste and portion is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.
+> A personal record from a stop made after a nearby funeral. Taste and portion judgements are personal preference, and I couldn't confirm hours, prices or the closing day this time — check the venue's details once more before you go.

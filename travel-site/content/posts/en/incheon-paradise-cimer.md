@@ -17,21 +17,19 @@ info:
   - Prices · hours|Not confirmed (check the booking page)
 ---
 
-It's a spa inside Paradise City on Yeongjong Island. Incheon Airport is so close that you spot foreign travellers here, some of them looking like they've come straight off a flight with their suitcases.
+The moment the indoor pool opened up under its big domed roof, I found myself wondering whether the Seoul area had anything this well-equipped.
 
-It made me wonder whether the Seoul area had a spa this well-equipped.
-
-## A spa inside Paradise City
-
-Paradise City is an integrated resort on Yeongjong Island, next to Incheon Airport — a hotel, casino, art space and club all in one place. Cimer is the spa-and-sauna part of it.
-
-There's an indoor-and-outdoor pool area you enter in swimwear, and a separate bathe-and-sauna zone you enter undressed.
-
-## The facilities are genuinely good
+## Under the dome, it reads like a resort
 
 Inside, the indoor pool opens up under a big domed roof. Sun loungers set out over the water, coloured glass railings, an arched colonnade — it all reads as resort. As Korean sauna facilities go, this is one of the sleeker ones.
 
 ![The indoor pool under the big domed roof, loungers set over the water — Paradise City Cimer](/assets/img/incheon-paradise-cimer-dome.jpg)
+
+## Tucked inside the Paradise City resort
+
+Cimer is the spa-and-sauna part of Paradise City, an integrated resort on Yeongjong Island next to Incheon Airport — a hotel, casino, art space and club all in one place.
+
+Incheon Airport is so close that you spot foreign travellers here, some of them looking like they've come straight off a flight with their suitcases. There's an indoor-and-outdoor pool area you enter in swimwear, and a separate bathe-and-sauna zone you enter undressed.
 
 ## Time limits — four hours or six
 
@@ -59,4 +57,4 @@ The ticket comes with a time limit. **Sauna only is four hours; add the spa (poo
 - **Tickets** — a sauna ticket (4 hours) and a spa-plus-sauna ticket (6 hours). The outdoor pool runs seasonally, so check before booking.
 - **What to bring** — swimwear is required for the spa and pool zone. The sauna zone provides a gown and towels.
 
-> Based on a personal visit. Prices, hours and whether the outdoor pool is open change often — check the official booking page before you go.
+> Written up after my own visit — prices, hours and whether the outdoor pool is running shift often, so it's worth a check on the official booking page before you go.

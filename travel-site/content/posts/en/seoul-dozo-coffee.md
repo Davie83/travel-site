@@ -63,7 +63,7 @@ Prices start at **₩5,000**, rising with the bean and the cup you choose. That 
 - **Ordering** — a short menu; pointing at the bean list works
 - **Takeaway** — possible, but the tray service is the reason to come, so drink in if you can
 
-## Who this suits
+## Good fit for
 
 - ✅ You like single-origin filter coffee and will sit with one cup
 - ✅ You might buy beans to take home
@@ -71,4 +71,4 @@ Prices start at **₩5,000**, rising with the bean and the cup you choose. That 
 - ⚠️ Small room, busy with office workers on weekdays
 - ⚠️ Not the place for a long work session
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(changes often — please verify)**.

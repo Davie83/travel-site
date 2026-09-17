@@ -18,9 +18,13 @@ info:
   - Getting there|**Car recommended** · about 30 min from central Jecheon, next to the Cultural Heritage Complex
 ---
 
-Have you heard of the Cheongpung lakeside? It's a lake village in Jecheon, in North Chungcheong province.
+Judging by the facilities alone, "dated" is the first word that comes to mind. Then you step onto the balcony and that word stops mattering.
 
-The scenery is genuinely good. Do nothing, just look at the water, and you find yourself unwinding.
+## The facilities are old, but
+
+I'll be straight. The resort itself is quite old, and neither the rooms nor the shared facilities are what you'd picture from a modern resort. Fresh linens, a polished lobby — expect those and you may be let down.
+
+Approach it by location, though, and it reads differently. This is **a place you come for the view**. That the window is basically Cheongpung Lake is almost the whole point of the stay.
 
 ## The Cheongpung lakeside
 
@@ -29,12 +33,6 @@ Cheongpung Lake was formed in 1985 when the Chungju Dam went up. Its official na
 The resort sits on a hill looking down over that shoreline. Step onto the balcony and the water and Bibongsan are right in front of you. On an overcast day the ridges blur into layers; on a clear day the colour of the water changes.
 
 ![Cheongpung Lake and the mountains wrapped around it — the view from Cheongpung Resort](/assets/img/jecheon-cheongpung-resort-hoban.jpg)
-
-## The facilities are old, but
-
-I'll be straight. The resort itself is quite old, and neither the rooms nor the shared facilities are what you'd picture from a modern resort. Fresh linens, a polished lobby — expect those and you may be let down.
-
-Approach it by location, though, and it reads differently. This is **a place you come for the view**. That the window is basically Cheongpung Lake is almost the whole point of the stay.
 
 ## What's around
 
@@ -65,4 +63,4 @@ Approach it by location, though, and it reads differently. This is **a place you
 - **Rooms** — book with the age of the place in mind. The thing to check is whether you're getting a lake-facing room.
 - **Bundling** — Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car → Danyang (Dodamsambong, Mancheonha Skywalk) makes a natural two-day loop.
 
-> Based on a personal visit. The state of the facilities and the operation of nearby attractions can change — check before you book.
+> Written after my own stay. Facility conditions and the operation of nearby attractions can shift, so it's worth checking again before you book.

@@ -20,13 +20,7 @@ info:
 
 A pho place I go to now and then for **lunch** in West Yeouido. There used to be two branches on this side of Yeouido; only this bigger one is left.
 
-## Clean, bright broth — and a lot of it
-
-Two things carry this place: **the broth is bright and clean, and the portion is generous.**
-
-It's a clear beef broth, not thin, and a full bowl **takes care of a hangover and hunger at once**. Whether you were drinking the night before or just hungry, there isn't much better for lunch. That's why the National Assembly and West Yeouido office crowd queues for it at noon.
-
-## The sides hold up too
+## Nothing on the side menu misses
 
 It isn't only pho. There are **spring rolls (chả giò) and fried rice** on the side, and they're all the kind of thing **anyone would rate at least fine**.
 
@@ -34,7 +28,13 @@ Nothing here is a standout, but that also means nothing is a miss — good for a
 
 ![A spread at Beyond Vietnam — pho, a soup with a big bone, spring rolls with salad, shrimp fried rice, a side broth and pickled onion](/assets/img/seoul-beyond-vietnam-table.jpg)
 
-## For visitors
+## Hangover and hunger, in one bowl
+
+Two things carry this place: **the broth is bright and clean, and the portion is generous.**
+
+It's a clear beef broth, not thin, and a full bowl **takes care of a hangover and hunger at once**. Whether you were drinking the night before or just hungry, there isn't much better for lunch. That's why the National Assembly and West Yeouido office crowd queues for it at noon.
+
+## First time here? A few pointers
 
 - **Pho (phở) is a clear broth of long-simmered beef** over rice noodles. It is not spicy. Pickled chilli comes on the side here, so you **add heat yourself** to taste.
 - **The menu has several kinds of pho.** The standard one is called **"Beyond ssal-guksu" (비욘드쌀국수)** — order that if it's your first time.
@@ -42,7 +42,7 @@ Nothing here is a standout, but that also means nothing is a miss — good for a
 - Chả giò are fried spring rolls — wrap them in lettuce and herbs and dip. There's fried rice too, so a companion who doesn't want pho is covered.
 - Close to **National Assembly Station (Line 9)** — for West Yeouido this station beats Yeouido Station.
 
-## Who it's for
+## Good fit, and not so good fit
 
 - ✅ Anyone who wants a **brothy lunch** to settle the stomach
 - ✅ Anyone after a generous bowl of pho
@@ -50,10 +50,10 @@ Nothing here is a standout, but that also means nothing is a miss — good for a
 - ⚠️ Anyone expecting a strongly local, characterful pho — this is the ordinary kind
 - ⚠️ At the lunch peak (noon–1) there can be a wait
 
-## Before you go
+## Route notes
 
 - **Getting there** — 26 Uisadang-daero, Unit 107, Yeongdeungpo-gu, Seoul. Near National Assembly Station.
 - **Timing** — there's a break (14:30–16:30), so skip a late lunch.
 - **Branches** — this is the big West Yeouido one. The East Yeouido and Seolleung (Gangnam) branches are separate — check the map before you go.
 
-> This post is a write-up of a personal visit. Taste and preference vary, and prices, hours and closing days change often — items I couldn't confirm are marked **(changes often — confirm)**.
+> Written up from a visit of my own. Taste and preference vary by person, and prices, hours and closing days shift often — anything I couldn't confirm is marked **(changes often — confirm)**.

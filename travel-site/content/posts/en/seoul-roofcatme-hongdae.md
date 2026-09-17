@@ -17,21 +17,15 @@ info:
   - Admission · time limit · closing day|Not confirmed (changes often — please verify)
 ---
 
-I like animals. I haven't kept a pet since I was a child, but I ended up stopping by this place.
+## A cat cafe I wandered into
 
-The fact that it's the **"Hongdae branch"** suggests there are others.
-
-## A break with the cats
+I like animals. I haven't kept a pet since I was a child, but I ended up stopping by this place. The fact that it's the **"Hongdae branch"** suggests there are others.
 
 At a cat cafe you order a drink and stay in the space with the cats. The cats here were used to being around people.
 
 ![Roofcatme Hongdae — three cats resting on the herringbone tile floor](/assets/img/seoul-roofcatme-hongdae-2.jpg)
 
-**If you like cats**, it's a good place to sit and rest for a bit while you're going around Hongdae.
-
-## Location
-
-It's **close to Hongik Univ. Station Exit 9**. There were **plenty of foreign visitors** when I went.
+It's **close to Hongik Univ. Station Exit 9**, and there were **plenty of foreign visitors** when I went. **If you like cats**, it's a good place to sit and rest for a bit while you're going around Hongdae.
 
 ## For foreign visitors
 

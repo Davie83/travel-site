@@ -19,13 +19,7 @@ info:
 
 It's a Western restaurant in Sinsa-dong. I went back after a few years, and it tasted the way I remembered.
 
-## Cream gnocchi gratin
-
-What I wanted to eat again here was the cream gnocchi gratin — potato-dough gnocchi under a cream sauce, baked in the oven, golden on top and soft underneath. The cream isn't heavy, so you finish the dish.
-
-The pastas come out solidly too. As you'd expect from a place built around Western food, the fundamentals are there.
-
-## Dessert
+## They do dessert well
 
 They do dessert well. This time I ordered the churros and the tiramisu.
 
@@ -33,11 +27,17 @@ The churros come rolled in cinnamon sugar, fried crisp, with a scoop of pistachi
 
 ![Cinnamon-sugar churros with pistachio ice cream — Far Niente](/assets/img/seoul-far-niente-churros.jpg)
 
+## The cream gnocchi gratin still holds up
+
+What I wanted to eat again here was the cream gnocchi gratin — potato-dough gnocchi under a cream sauce, baked in the oven, golden on top and soft underneath. The cream isn't heavy, so you finish the dish.
+
+The pastas come out solidly too. As you'd expect from a place built around Western food, the fundamentals are there.
+
 ## The private room
 
 Order above a set amount and you can eat in a private room. It's good for when you want a meal with just your own group, undisturbed. Check the threshold amount and how to book directly with the restaurant.
 
-## For foreign visitors
+## Worth knowing as a traveller
 
 - This is not a Korean restaurant — it's a **Western (Italian-leaning) one**. Gnocchi gratin, pasta and dessert are the core, so it works on a day when Korean food feels like too much.
 - **Nothing on the menu is spicy.**
@@ -45,7 +45,7 @@ Order above a set amount and you can eat in a private room. It's good for when y
 - Booking is the safer bet in the evening. The **private room** has a minimum-spend condition, so ask when you reserve.
 - I didn't check whether the menu has English. The dish names (gnocchi, tiramisu) generally get through.
 
-## Who this suits
+## The right occasion for this
 
 - ✅ You want **a light Western meal plus dessert** on a Sinsa-dong day
 - ✅ You like **soft Western dishes** — cream sauce, gratin
@@ -59,4 +59,4 @@ Order above a set amount and you can eat in a private room. It's good for when y
 - **Booking** — recommended for evenings and weekends. The private room has a minimum-spend condition, so ask ahead.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
-> Based on a personal visit. Judgements on the food and the plating are personal taste, and hours, prices and the private-room condition can change — check with the restaurant before you go.
+> Written up from a visit of my own. Judgements on the food and the plating are personal taste, and hours, prices and the private-room condition can change — check with the restaurant once more before you go.

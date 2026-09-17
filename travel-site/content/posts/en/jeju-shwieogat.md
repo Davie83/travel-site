@@ -17,15 +17,15 @@ info:
   - Hours · prices · closing day|Not confirmed (changes often — please verify)
 ---
 
-It's a dessert-and-coffee shop you meet as you near Seongsan, coming from Seogwipo through Pyoseon.
+## Found while reading up on kaymak
 
-I found it while reading around about **kaymak**, back when it was getting popular in Korea.
+I found this place while reading around about **kaymak**, back when it was starting to get popular in Korea. It turns up on the road from Seogwipo through Pyoseon, just as you're nearing Seongsan.
 
-## A space done up Turkish-style
+## A space and garden done up Turkish-style
 
 The interior feels **deliberately done in a Turkish style** — a row of brass coffee pots along the windowsill, colourful fish paintings on the wall. Outside there's a **well-kept garden**. Good atmosphere for photos.
 
-## I order the sütlaç
+## I always end up ordering the sütlaç
 
 When I get here, I end up ordering the **sütlaç** (a Turkish milk pudding).
 
@@ -33,25 +33,19 @@ When I get here, I end up ordering the **sütlaç** (a Turkish milk pudding).
 
 It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute enough that you want to keep it. The garden is out the window.
 
-## For foreign visitors
+## Notes for travellers
 
 - **Sütlaç is a Turkish milk pudding.** Not spicy; it's dairy.
 - Worth a stop if you're interested in Turkish desserts like **kaymak** (thick clotted cream).
 - The location works well as **a stop on the way** to a Seongsan itinerary (Seongsan Ilchulbong, Seopjikoji, Gwangchigi Beach).
 - The garden and window seats are **good for photos**.
+- ✅ Good for anyone who wants **coffee and dessert on the way** to Seongsan, is curious about Turkish desserts, or wants photos in the interior or garden.
+- ⚠️ Less good if you're expecting Korean-style cafe desserts, or can't have dairy — sütlaç is a milk pudding.
 
-## Who this suits
-
-- ✅ You want somewhere to **stop for coffee and dessert** on the way to Seongsan
-- ✅ You're curious about Turkish desserts (sütlaç, kaymak)
-- ✅ You want **photos** in the interior or garden
-- ⚠️ You're expecting Korean-style cafe desserts — this leans Turkish
-- ⚠️ You can't have dairy — sütlaç is a milk pudding
-
-## Before you go
+## Before you set off
 
 - **Getting there** — on the road from Seogwipo through Pyoseon toward Seongsan. Check the name on the map before you go.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Garden** — good for photos, so give yourself time in fine weather.
 
-> Based on a personal visit. Any judgement of taste and atmosphere is personal preference. Hours, prices, and the closing day I couldn't confirm — check the venue's details once more before you go.
+> Written up from a visit of my own. Any judgement of taste and atmosphere is personal preference, and the hours, prices, and closing day I couldn't pin down — worth checking the venue's details once more before you go.

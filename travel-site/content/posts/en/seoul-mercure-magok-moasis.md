@@ -18,27 +18,23 @@ info:
   - Hours · prices · closing day|Not confirmed (changes often — please verify)
 ---
 
-Inside Mercure Seoul Magok, the F&B space Moasis has an **unlimited wine buffet**.
+## A card worth playing when Korean food isn't working
 
-## Dinner only
+Magok has become somewhat known to visitors — you now see **foreign tourists here now and then**. If Korean food isn't quite sitting right on your trip, or you're missing food from home, or you just **want wine freely**, the F&B space Moasis inside Mercure Seoul Magok is worth a visit. It has an **unlimited wine buffet**.
 
-The unlimited wine buffet runs **at dinner only**. It isn't offered at lunch — worth noting.
+## The unlimited wine buffet is dinner only
+
+It runs **at dinner only**. It isn't offered at lunch — worth noting.
 
 The food is built to **go with wine**: steak, ribs, sausages, olives, salads.
 
 ![Mercure Seoul Magok, Moasis — a plate of steak, ribs and shrimp fried rice with red wine, the dining room behind](/assets/img/seoul-mercure-magok-moasis-2.jpg)
 
-## Booking and the set
+## Book ahead for a discount, and there's a steak set now
 
 **A NAVER reservation gets you a discount.** Booking ahead is the way to go.
 
-Recently there seems to be an unlimited-wine-buffet set that **adds a striploin steak**. Check the current line-up when you book.
-
-## Magok and foreign visitors
-
-Magok has become somewhat known to visitors — you now see **foreign tourists here now and then**.
-
-If Korean food isn't quite sitting right on your trip, or you're missing food from home, or you just **want wine freely**, it's worth a visit.
+Recently there seems to be an unlimited-wine-buffet set that **adds a striploin steak**. Check the current line-up when you book — and since hours, prices, and the closing day weren't confirmed this time either, it's worth confirming all of it together before you go.
 
 ## For foreign visitors
 
@@ -57,11 +53,4 @@ If Korean food isn't quite sitting right on your trip, or you're missing food fr
 - ⚠️ You want to go at lunch — the wine buffet is dinner only
 - ⚠️ You're here for a traditional Korean-food experience — this is Western + wine
 
-## Before you go
-
-- **Hours** — the unlimited wine buffet is dinner only. No lunch.
-- **Reservation** — discount with a NAVER reservation. Book ahead.
-- **Set line-up** — the added-steak set seems recent, so confirm the current format when you book.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check before you go.
-
-> Based on a personal visit. Any judgement of taste and format is personal preference. Hours, prices, and the set line-up change — check again before you go.
+> Written from a personal visit. How you judge the taste and format is a matter of preference, and hours, prices, and the set line-up here change more than most — worth checking again before you go.

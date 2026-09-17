@@ -19,21 +19,23 @@ info:
   - Getting there|**By rental car**
 ---
 
-A large garden in Seogwipo, on Jeju's **west side**. Once you leave Jeju City, isn't it one of the places everyone stops at — **O'sulloc, Camellia Hill, Seongsan Ilchulbong**?
+A low sign along the path read, "Loving you is making the camellia bloom" — one line, and I slowed right down.
 
-## The headline flower changes by season
-
-The name is **camellia**. Winter into spring, when the camellias bloom, is the garden's original face.
-
-But which flower it leads with shifts through the year. **By feel, the main season is summer, when the hydrangeas are out.** As in the photo, one greenhouse fills up with pink, purple and white hydrangea.
-
-## It's big — a fair walk
+## Big enough to need half a day
 
 What caught me off guard was the **size**. It's bigger than you'd expect, so walking the greenhouses and the outdoor gardens end to end takes a while. Take it slowly and properly and it's half a day.
 
 ![A low sign along a garden path — "Loving you is making the camellia bloom" — with an azalea hedge behind it](/assets/img/jeju-camellia-hill-sign.jpg)
 
 Low wooden signs with short, poem-like lines stand along the paths. You don't come here to do anything in particular — it's a place where **walking and looking at the flowers clears your head.**
+
+## The headline flower changes by season
+
+The name is **camellia**. Winter into spring, when the camellias bloom, is the garden's original face.
+
+But which flower it leads with shifts through the year. **By feel, the main season is summer, when the hydrangeas are out.** One greenhouse fills up with pink, purple and white hydrangea.
+
+This large garden in Seogwipo, on Jeju's **west side**, is one of the places most people stop at once they leave Jeju City — **O'sulloc, Camellia Hill, Seongsan Ilchulbong.**
 
 ## For visitors
 
@@ -60,4 +62,4 @@ Low wooden signs with short, poem-like lines stand along the paths. You don't co
 - **Route** — Jeju's west side. Pair it with O'sulloc Tea Museum, Sanbangsan and the Andeok area for a day.
 - **Admission and hours** — it's paid and can vary by season, so check the official information before you go.
 
-> Based on a personal visit. The flower in season, the admission and the opening hours all change with the season — check before you go.
+> Written after walking the whole garden myself. The flower in season, the admission and the opening hours all change with the season, so it's worth a check before you go.

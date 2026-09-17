@@ -29,31 +29,23 @@ It's closer to chewing rib meat itself than to ground meat pressed and grilled. 
 
 The seasoning is on the sweet-and-savoury, marinated-grill side, but not heavy-handed. **There is no heat.**
 
-## A clear bone soup comes free
+## The bone soup is a plus, the side dishes less so
 
 A **clear pork-bone soup** comes with the tteok-galbi, free of charge. It's the same pork spine that goes into *gamja-tang*, and there's **a fair amount of meat still on the bone**. As something to cut the richness, it does the job.
-
-## The side dishes are less than I hoped
 
 I'll be straight. **The tteok-galbi and the bone soup are fine, but the rest of the side dishes were thinner than I expected** — some pickles and a seasoned cucumber, and not much else. Whether it was like this on my earlier visits, I honestly can't remember.
 
 Compared with the other places in the tteok-galbi alley, this isn't one that lays out an especially generous spread.
 
-## For foreign visitors
+## What foreign visitors should know
 
 - **Tteok-galbi is not spicy at all.** There's no hot dip to deal with — you eat it as it is, with rice.
 - **Tteok-galbi** is rib meat, chopped, marinated in a sweet soy sauce and grilled. This is the Gwangju style, so it's soft and falls apart rather than firm like a patty.
 - No wrapping or assembly — **just cut it and eat**. If you can use chopsticks, you're set.
 - The free **clear bone soup** isn't spicy either; pick the meat off the spine with your chopsticks.
 - It's walking distance from Gwangju Songjeong Station (KTX/SRT), so it works as a stop before or after a train.
-
-## Who this suits
-
-- ✅ You want to try a **soft, loose tteok-galbi** rather than the firm patty type
-- ✅ A meal before or after a KTX/SRT ride from Gwangju Songjeong Station
-- ✅ You can't eat spicy food — the tteok-galbi itself isn't spicy
-- ⚠️ You're expecting a table full of generous side dishes
-- ⚠️ You're picturing the Seoul-style (firm, patty-like) tteok-galbi — the texture here is quite different
+- ✅ Good if you want to try a soft, loose tteok-galbi rather than the firm patty type, need a meal before or after a KTX/SRT ride from Gwangju Songjeong Station, or can't eat spicy food
+- ⚠️ Less good if you're expecting a table full of generous side dishes, or you're picturing Seoul-style (firm, patty-like) tteok-galbi — the texture here is quite different
 
 ## Before you go
 

@@ -26,13 +26,7 @@ info:
 
 And it **arrives fast.** There is no long wait after ordering, and what lands on the table that quickly is genuinely good.
 
-## What sundaeguk is
-
-A pork soup built on bones and offal, served with **sundae** — Korean blood sausage. It is one of the most ordinary things Koreans eat and one of the least translated.
-
-The thing to understand from the photo: **the broth is pale and clear, not red.** Spring onion on top, black pepper, nothing else. It is not a spicy dish by default.
-
-**You add the heat yourself.** Stir in the red seasoning paste sitting beside the bowl and it becomes spicy. Leave it alone and it stays mild.
+Sundaeguk itself is a pork soup built on bones and offal, served with **sundae** — Korean blood sausage — and it is one of the most ordinary things Koreans eat. Look at the stone bowl in the photo: **the broth is pale and clear, not red.** **You add the heat yourself** — stir in the red seasoning paste beside the bowl and it becomes spicy; leave it alone and it stays mild.
 
 ## Order the set first
 

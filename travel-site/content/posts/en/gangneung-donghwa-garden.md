@@ -19,35 +19,27 @@ info:
 
 It's a jjamppong-sundubu place in Gangneung's Chodang tofu village. It's famous well past the point of needing an introduction, so plenty of people will have heard the name.
 
-## That place in the Chodang tofu village
-
-Chodang-dong in Gangneung has a village where the tofu restaurants cluster together. Chodang sundubu — soft tofu set with seawater, clean and lightly seasoned — is what the neighbourhood is known for. Donghwa Garden is the place inside that village that made its name with **jjamppong sundubu**.
-
-## Fiery jjamppong broth, cloud-soft tofu
+## Two flavors sharing one bowl
 
 Two things share one bowl. A **hot, bracing jjamppong broth** with squid and mushrooms in it, and over the top, **soft, curd-like tofu**. It comes with garlic chives, sesame and black pepper on top.
 
 The appeal is getting the spicy, clear broth and the mild tofu in the same spoonful. If you like sundubu, one taste and you understand why this combination got famous.
 
-## Factor in the wait
+## How it became the village's name to know
+
+Chodang-dong in Gangneung has a village where the tofu restaurants cluster together. Chodang sundubu — soft tofu set with seawater, clean and lightly seasoned — is what the neighbourhood is known for. Donghwa Garden is the place inside that village that made its name with **jjamppong sundubu**.
 
 As famous as it is, it's busy. Go on a weekend or at mealtime and expect to queue. There are several tofu restaurants in the village, so if the wait is too long you can eat Chodang sundubu at another one nearby. But for jjamppong sundubu specifically, this is the flagship.
 
-## For foreign visitors
+## What foreign visitors should know
 
 - **Sundubu** is very soft, uncurdled tofu. **Jjamppong sundubu** puts that tofu in a **spicy seafood broth**, and it's this restaurant's signature dish.
 - **It's spicy** — roughly the heat of a Korean spicy stew. If you can't take spice, it may be a lot.
 - The Chodang tofu village also has many places serving **plain, non-spicy sundubu (white broth)**. If you'd rather avoid the heat, choose one of those.
 - It comes with rice. You can tip the rice into the broth.
 - Gangneung is about **two hours from Seoul by KTX**. It pairs well with Gyeongpo or Anmok Beach.
-
-## Who this suits
-
-- ✅ You **like sundubu**
-- ✅ You like the combination of a spicy broth and soft tofu
-- ✅ You want a **meal in Chodang-dong** on a Gangneung itinerary
-- ⚠️ You can't eat spicy food — go for a plain sundubu place instead
-- ⚠️ You want a quiet meal with no wait — it's famous, so it's crowded
+- ✅ Good if you like sundubu, like the combination of a spicy broth and soft tofu, or want a meal in Chodang-dong on a Gangneung itinerary
+- ⚠️ Less good if you can't eat spicy food, or want a quiet meal with no wait — it's famous, so it's crowded
 
 ## Before you go
 

@@ -20,17 +20,13 @@ info:
 
 It's a place I stop at, almost every time, even briefly, whenever I'm in Gangwon. This time too, I pulled over on the way past.
 
-## ㅅㅊ, and the ferris wheel
-
-A large **ㅅㅊ** sculpture stands in front of the sand. That alone will tell a lot of people where this is (ㅅ and ㅊ are the first consonants of "Sokcho" in Korean). If you're still not sure — one more hint: once you see the **ferris wheel** beside the beach, there's no mistaking it. This is Sokcho Beach.
-
-Next to the sculpture there's a frame-shaped photo spot that catches **Jodo** islet inside it, and a **#SokchoTrip** sign. People take turns standing there for photos.
-
-## A place I stop at, even briefly, on a Gangwon trip
+## The same every time, and that's the appeal
 
 It's not somewhere you come to do anything in particular. You walk a loop of the plaza, put your feet in the sand for a bit, look at the sea, and leave. And still — **one visit here lifts the mood.** It's the kind of spot that makes it feel like you're actually on a trip.
 
 The surroundings always greet you the same way: the paved stone plaza, the palm trees, the breakwater, the sea in front of it. Nothing much changes, and that sameness is itself part of why it's easy to be here.
+
+A large **ㅅㅊ** sculpture stands in front of the sand. That alone will tell a lot of people where this is (ㅅ and ㅊ are the first consonants of "Sokcho" in Korean). If you're still not sure — one more hint: once you see the **ferris wheel** beside the beach, there's no mistaking it. This is Sokcho Beach. Next to the sculpture there's a frame-shaped photo spot that catches **Jodo** islet inside it, and a **#SokchoTrip** sign. People take turns standing there for photos.
 
 ## The Sokcho Eye and around the beach
 
@@ -66,4 +62,4 @@ The beach itself is only open for swimming during the summer season; the rest of
 - **Combine with** — Sokcho Tourist & Fishery Market, Yeonggeumjeong, and Abai Village for a half-day.
 - **Hours · fees** — ferris wheel and parking fees and hours vary by season, so check before you go.
 
-> This post is a write-up of a visit in person. The atmosphere and impressions are personal, and the beach season, ferris wheel fees, and parking fees change by season — please check the latest information once more before you go.
+> Written up after visiting in person. How the atmosphere lands can vary from person to person, and the beach season, ferris wheel fees, and parking fees change by season — please check the latest information once more before you go.

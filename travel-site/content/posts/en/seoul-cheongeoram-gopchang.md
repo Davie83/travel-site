@@ -30,7 +30,13 @@ info:
 
 **This place is known for its gopchang jeongol — beef tripe hot pot.**
 
-## Two things it does well
+## What the dish is
+
+Think of it as **beef small intestine simmered in a shallow pot with all sorts of vegetables.**
+
+Those curled pieces in the middle of the photo are the **gopchang**. Underneath sit cabbage, spring onion, onion, mushroom and courgette. The longer it bubbles, the more the two sides of the flavour merge.
+
+## Two things that set this place apart
 
 **1. It is comparatively cheap.** In Korea, **beef small-intestine hot pot is normally an expensive dish** — the cut itself is costly. Here it starts at **30,000 KRW for the two-person size.**
 
@@ -38,13 +44,7 @@ info:
 
 It looks red and fierce in the photo, but the flavour is **drawn out of the vegetables.** Gopchang hot pot easily turns greasy and heavy; this one does not cross that line. Spring onion, onion, mushroom and cabbage hold the broth up.
 
-## What the dish is
-
-Think of it as **beef small intestine simmered in a shallow pot with all sorts of vegetables.**
-
-Those curled pieces in the middle of the photo are the **gopchang**. Underneath sit cabbage, spring onion, onion, mushroom and courgette. The longer it bubbles, the more the two sides of the flavour merge.
-
-## It may be unfamiliar
+## It may take some getting used to
 
 Worth saying plainly. **Gopchang is beef small intestine.**
 
@@ -52,14 +52,14 @@ Places like Taiwan eat intestine noodle soup, so it may not be strange across As
 
 One way to place it: France has andouille, Scotland has haggis, Italy has trippa. **Offal is eaten everywhere.** This is the Korean way of doing it.
 
-## Before you go — two things
+## Timing, in short
 
 1. **Closed on Sundays**
 2. **There is a break from 2:00 to 4:00 PM on weekdays.** Arriving for a late lunch is an easy way to waste the trip
 
 Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 
-## For international visitors
+## If it's your first time
 
 **Gopchang jeongol is a shared pot of beef intestine and vegetables simmered in a mildly spicy broth.**
 
@@ -72,7 +72,7 @@ Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 - **Finishing with fried rice or extra noodles** is the Korean way. Check the menu
 - **Mind the Sunday closure and the 2–4 PM weekday break**
 
-## Go if
+## Good fit, or not
 
 - ✅ You want to try **gopchang hot pot without paying a lot**
 - ✅ You prefer **a clean broth** to a greasy one
@@ -84,4 +84,4 @@ Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 - ⚠️ Too spicy if you cannot take chili at all
 - ⚠️ The smallest size is **for two**
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(changes often — please verify)**.

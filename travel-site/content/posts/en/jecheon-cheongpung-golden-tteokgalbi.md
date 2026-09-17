@@ -16,9 +16,17 @@ info:
   - Hours · prices · closing day|Not confirmed (check before you go)
 ---
 
-I had no idea Jecheon was known for tteok-galbi. I was over near Cheongpung Lake, searched for somewhere to eat nearby, and this is what came up.
+I gave up counting the side dishes somewhere past ten plates and just focused on eating them all.
 
-## Tteok-galbi in Jecheon
+## The side dishes fill the table
+
+What actually stays with you is the banchan. Namul, savoury pancakes, pickles, braised dishes, salted seafood, kimchi — **a dozen or more side dishes** get laid out. Doenjang stew and rice come with it, and you could fill up without the tteok-galbi at all.
+
+I left properly full.
+
+## The tteok-galbi itself was a surprise find
+
+I had no idea Jecheon was known for tteok-galbi. I was over near Cheongpung Lake, searched for somewhere to eat nearby, and this is what came up.
 
 Inside, it was busier than I expected. I found it by chance through a search, but it seems to be one of those places the people who know, know.
 
@@ -29,12 +37,6 @@ The tteok-galbi comes as round patties, set on a hot plate over sliced onion. Se
 Nothing about it jumps out. It's **faithful to the tteok-galbi flavour you already know** — a sweet-and-savoury marinated grill, the soft texture of minced meat. Call it a no-miss version and you'd be right.
 
 **There is no heat.** The tteok-galbi itself isn't spicy; there's a little in the seasoned vegetables and the kimchi.
-
-## The side dishes fill the table
-
-What actually stays with you is the banchan. Namul, savoury pancakes, pickles, braised dishes, salted seafood, kimchi — **a dozen or more side dishes** get laid out. Doenjang stew and rice come with it, and you could fill up without the tteok-galbi at all.
-
-I left properly full.
 
 ## For foreign visitors
 
@@ -57,4 +59,4 @@ I left properly full.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Bundling** — it slots in well as lunch on a Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car itinerary.
 
-> Based on a personal visit. Judgements on the flavour and the spread are personal taste, and hours, prices and the closing day I couldn't confirm — check the venue's details once more before you go.
+> Written up after my own visit. The flavour and the spread are down to personal taste, and hours, prices and the closing day I couldn't pin down this time — check the venue's details once more before you go.

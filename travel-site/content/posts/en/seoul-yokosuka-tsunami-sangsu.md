@@ -19,23 +19,23 @@ info:
   - Nearest station|About a **3-minute walk** from Sangsu Station (Line 6)
 ---
 
+There's no fixed menu board here. The lineup is decided by **whatever came in from the dawn market that morning**.
+
+## The "menu of the day" is the real reason to come
+
+Seasonal sashimi rotates in and out, and there are standing items like the assorted sashimi platter, but what you're really here for is the **"menu of the day,"** posted on Instagram (@yokosuka_tsunami).
+
 **This place is clearly good at what it does — getting in is the hard part.** You need to line up before opening most days.
 
-## Why go — the aging
+## The aging is what makes the texture
 
 What makes this place is the **aging**. The sashimi here is aged particularly well, so it has a chewy, almost sticky texture that clings to your palate — noticeably different from the usual sashimi.
 
 ![Aged mackerel sashimi at Yokosuka Tsunami Sangsu, sliced and topped with sauce](/assets/img/seoul-yokosuka-tsunami-sangsu-saba.jpg)
 
-## The "menu of the day" is the signature
-
-There's no fixed menu board. The **ingredients come from the dawn market that same day**, so the lineup changes daily, and seasonal sashimi rotates in and out. There are standing items like the assorted sashimi platter, but what you're really here for is the **"menu of the day,"** posted on Instagram (@yokosuka_tsunami).
-
-## The line is the catch
+## The wait, and notes for visitors
 
 **I think about this place from time to time, but the wait keeps me from going often.** You need to arrive before opening to get a table. Going with low expectations about the wait is good for your sanity.
-
-## For foreign visitors
 
 - **If you enjoy raw fish, this suits you well.** The aging gives it a noticeably chewier texture than typical sashimi
 - **The menu changes every day.** There's no fixed board, so just ask the staff what's good today
@@ -50,4 +50,4 @@ There's no fixed menu board. The **ingredients come from the dawn market that sa
 - ⚠️ You want to walk straight in with no wait — look elsewhere
 - ⚠️ You prefer ordering off a fixed menu — here you ask what's available that day
 
-> This is a first-hand account. The menu and prices can change day to day, so check Instagram before you go.
+> Written up after queuing and eating there myself. The menu and prices can change day to day, so check Instagram before you go.

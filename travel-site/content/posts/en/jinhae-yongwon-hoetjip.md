@@ -56,7 +56,7 @@ Soup with the cod pancake alongside is the most common order here. The soup alon
 
 If you are travelling far, **call first and ask whether fresh cod is on today.**
 
-## What Yongwon is like
+## What Yongwon is like, and the same-name trap
 
 This is **Yongwon in Jinhae.** Administratively it is Jinhae-gu, Changwon, Gyeongnam — but it **sits right against Busan's Gangseo-gu.**
 
@@ -64,13 +64,9 @@ This is **Yongwon in Jinhae.** Administratively it is Jinhae-gu, Changwon, Gyeon
 - It is actually easier to reach from western Busan than from central Changwon
 - Not far from Gimhae Airport either
 
-A good place to attach to a Busan itinerary.
+A good place to attach to a Busan itinerary — but one thing to watch for: there are **two places called Yongwon Hoetjip** in Yongwon-dong. This post is the one at **242-6 Yongwon-dong-ro**, rated 4.2 with 81 reviews. Check the address when you navigate.
 
-## There is another restaurant with the same name
-
-There are **two places called Yongwon Hoetjip** in Yongwon-dong. This post is the one at **242-6 Yongwon-dong-ro**, rated 4.2 with 81 reviews. Check the address when you navigate.
-
-## For international visitors
+## Things that may feel unfamiliar
 
 **Saeng-daegu-tang is a clear soup made with fresh cod.** Koreans eat it in winter.
 
@@ -82,7 +78,7 @@ There are **two places called Yongwon Hoetjip** in Yongwon-dong. This post is th
 - **This is not a cheap restaurant** — expect 20,000~30,000 KRW per person
 - **Korean is likely the only language spoken.** Show the order phrase above
 
-## Go if
+## Fits well, or not so much
 
 - ✅ You have a Busan or Changwon plan **in winter**
 - ✅ You like eating fish in its proper season
@@ -94,4 +90,4 @@ There are **two places called Yongwon Hoetjip** in Yongwon-dong. This post is th
 - ⚠️ Milt is an unfamiliar ingredient for many
 - ⚠️ **The closing day is unconfirmed.** Call ahead if you are travelling far
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own; taste is personal preference. Prices and hours shift often, so anything I couldn't pin down is flagged **(changes often — please verify)**.

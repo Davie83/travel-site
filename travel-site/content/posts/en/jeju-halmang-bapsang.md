@@ -27,31 +27,27 @@ info:
   - Rating|**4.5** on Google Maps (37 reviews)
 ---
 
-**Come hungry.** That is the first thing to say about this place.
-
-The *halmang* in the name is **Jeju dialect for grandmother** — the name means "grandmother's table".
-
-I left uncomfortably full. What you see in the photo is what arrives.
-
-## If you like grilled fish, this is paradise
-
-**I like grilled fish.** For me this place was paradise.
-
-That is the platter along the bottom of the photo — several whole fish, grilled through. Reviews repeatedly mention that the owner catches the fish himself.
-
-And **the side dishes arrive just as generously.** Look at the large round tray. Count the plates and you pass ten. Stir-fried pork in the centre, a seafood pancake below it, lettuce and soybean paste on the right, and everything else is banchan.
-
-**Rice and soup are refilled free.**
+I thought two of us could share one order. I only found out otherwise when I tried to place it.
 
 ## Honestly — you cannot split one portion
-
-One thing to be clear about.
 
 The volume is so large that it seems obvious **two people could share a single order.** I thought so too.
 
 **You cannot.** The set meal requires **one order per person aged 8 and over.** Korean set meals usually carry that condition.
 
 So plan for it: **30,000 KRW for two**, and you will be genuinely full.
+
+The *halmang* in the name is **Jeju dialect for grandmother** — the name means "grandmother's table". What you see in the photo is what arrives, and I left uncomfortably full.
+
+## If you like grilled fish, this is paradise
+
+**I like grilled fish.** For me this place was paradise.
+
+Several whole fish arrive, grilled through. Reviews repeatedly mention that the owner catches the fish himself.
+
+And **the side dishes arrive just as generously.** Count the plates and you pass ten. Stir-fried pork in the centre, a seafood pancake below it, lettuce and soybean paste on the right, and everything else is banchan.
+
+**Rice and soup are refilled free.**
 
 ## The flavour is average
 
@@ -104,4 +100,4 @@ It fits well as lunch on a day spent circling western Jeju.
 - ⚠️ The flavour is **average**. If you want one overwhelming dish, go elsewhere
 - ⚠️ It can run a little salty
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(prices change often — please verify)**.
+> Written up after my own visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(prices change often — please verify)**.

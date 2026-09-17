@@ -21,11 +21,11 @@ info:
   - Branches|Also in Seoul — **Yeoksam (Gangnam), Jamsil, Seongsu**
 ---
 
-The broth tastes **closer to a rich beef seolleongtang** than you might expect, with thinly sliced pork laid over it.
+The broth tastes **closer to a rich beef seolleongtang** than you might expect, with thinly sliced pork laid over it. The thing that stops people eating dwaeji gukbap is the smell — and this is the shop that already has that part solved.
 
-## No funk
+## No need to worry about the smell
 
-The thing that stops people eating dwaeji gukbap is the smell. **This place does not have it.** Which makes it a version a first-timer can actually enjoy.
+**This place does not have it.** Which makes it a version a first-timer can actually enjoy.
 
 The broth is milky and deep without being heavy, and the meat in the photo is **thin-sliced pressed pork** — a different experience from versions with thick chunks you chew through.
 
@@ -42,38 +42,20 @@ This is the most useful line in this post.
 
 Decide before it arrives. It is not something you can change halfway through.
 
-## It is a Bib Gourmand
+## Bib Gourmand, and the Seoul branches
 
-**Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**, for the second year running. This is verifiable on Michelin's own site.
+**Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**, for the second year running, verifiable on Michelin's own site. Bib Gourmand is not a star. It marks **good food at a reasonable price** — exactly the point of putting it on a 10,000 won bowl of pork soup.
 
-Bib Gourmand is not a star. It marks **good food at a reasonable price** — which is exactly the point of putting it on a 10,000 won bowl of pork soup.
+**Several branches have opened in Seoul recently** — Yeoksam in Gangnam, Jamsil, Seongsu. So you do not have to travel to Busan for it. If your trip is Seoul-only, **eat at whichever branch is closest.** Save the Busan original for a day when you are going to Gwangalli anyway. For reference, within Busan the **Seomyeon branch actually scores higher** on Google — 4.9 from 805 reviews, against 4.5 here.
 
-## There are Seoul branches now
-
-**Several have opened in Seoul recently** — Yeoksam in Gangnam, Jamsil, Seongsu.
-
-So you do not have to travel to Busan for it. If your trip is Seoul-only, **eat at whichever branch is closest.** Save the Busan original for a day when you are going to Gwangalli anyway.
-
-Within Busan, the **Seomyeon branch actually scores higher** on Google — 4.9 from 805 reviews, against 4.5 here.
-
-## Notes for visitors from abroad
+## What's worth knowing before you order
 
 **Dwaeji gukbap is Busan's signature dish** — pork bone broth with rice and pork.
 
 - **It is not spicy** as served
 - **You season it yourself.** Salted shrimp or the red minced seasoning (in the photo) adjust it. The **Michelin inspector's note suggests trying it with nothing added first** — take a spoonful plain before you touch anything
 - **Add the chives.** The raw garlic chives in the photo go into the soup and lift the whole thing. That is the Busan way
-- **You do not need to worry about the smell.** This is the shop that solved that part
+- ✅ Good if it's your first dwaeji gukbap, you want a deep broth that isn't heavy, you're around Gwangalli or Namcheon, you can't handle spicy food, or you're alone but want both soup and pork (get the solo set)
+- ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. Reviews mention queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
 
-## Who will like this
-
-- ✅ It is your first dwaeji gukbap
-- ✅ You want a deep broth that is not heavy
-- ✅ You are around Gwangalli or Namcheon
-- ✅ You cannot handle spicy food
-- ✅ You are alone but want both soup and pork (get the solo set)
-- ⚠️ **Rice in the soup can leave the broth lukewarm.** Choose when ordering
-- ⚠️ Reviews mention queues since the Michelin listing
-- ⚠️ With several Seoul branches, a special trip to the Busan original is hard to justify
-
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written after an actual visit. Hours and prices can change, so anything unconfirmed is marked **(changes often — please verify)**.

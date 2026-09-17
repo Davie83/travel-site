@@ -68,7 +68,7 @@ This shop has **held the same spot for over 20 years**. So the fair way to put i
 - **Extra chashu** is the popular add-on, and reviewers mention it constantly
 - **Cheongramen** is a separate item on the menu. Ask in the shop what makes it different
 
-## Who will like this
+## This is your bowl if
 
 - ✅ You like Hakata-style tonkotsu and thin noodles
 - ✅ You enjoy adding your own garlic at the table
@@ -77,4 +77,4 @@ This shop has **held the same spot for over 20 years**. So the fair way to put i
 - ⚠️ The broth is rich and some find it salty
 - ⚠️ Thin noodles soften quickly, so start eating right away
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Based on repeat visits over the years. Since this is a late-night operation, hours can shift, so check ahead if you're heading over late.

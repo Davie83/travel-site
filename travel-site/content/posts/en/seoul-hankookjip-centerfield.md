@@ -28,14 +28,20 @@ info:
 
 This visit was honestly an ordering mistake — I ended up with the bibimbap set and the bulgogi home-style set, and looking back, **I wish I'd tried the octopus bibimbap.** Still, nothing was over-seasoned, and it had been a while since I'd had good Jeonju-style bibimbap.
 
-## For foreign visitors
+## The essentials
+
+- **Location** — 231 Teheran-ro, Gangnam-gu, Seoul, B2 Centerfield EAST.
+- **Station** — About a 10-minute walk from Yeoksam Station (Line 2); a similar distance from Seolleung Station.
+- **Hours** — 11 AM-8 PM both weekdays and weekends (weekend break 3-5 PM).
+- **Menu** — Dolsot bibimbap is the base order; octopus and yukhoe bibimbap sets are also available.
+
+## Worth knowing
 
 - **Hankookjip** has been around since 1952 and is considered one of the places that helped popularize Jeonju bibimbap. It also has a branch inside the Lotte Department Store main store.
-- **Dolsot bibimbap** is the base order, with topped-up versions like octopus or yukhoe (raw beef) bibimbap available. The gochujang runs mild, so it's fine even if you're not great with spice.
+- The gochujang runs mild, so it's fine even if you're not great with spice.
 - It's in the basement dining area of Centerfield in Gangnam, so **weekday lunches get busy with office workers.**
-- About a **10-minute walk** from Yeoksam Station (Line 2); a similar distance from Seolleung Station.
 
-## Good for you if
+## This lunch works if
 
 - ✅ You want an easy taste of Jeonju-style bibimbap in Gangnam
 - ✅ You're looking for a gochujang that isn't very spicy
@@ -43,11 +49,4 @@ This visit was honestly an ordering mistake — I ended up with the bibimbap set
 - ⚠️ You want a really spicy bibimbap — this one runs mild
 - ⚠️ You're going right at noon on a weekday — it can get crowded
 
-## Before you go
-
-- **Location** — 231 Teheran-ro, Gangnam-gu, Seoul, B2 Centerfield EAST.
-- **Station** — About a 10-minute walk from Yeoksam Station (Line 2).
-- **Hours** — 11 AM-8 PM both weekdays and weekends (weekend break 3-5 PM).
-- **Menu** — Dolsot bibimbap is the base order; octopus and yukhoe bibimbap sets are also available.
-
-> This is a first-hand account. Prices and hours can change, so it's worth double-checking before you visit.
+> Written after eating in Centerfield's basement myself. The menu lineup and break-time hours can shift, so double-check if you're planning a weekday lunch visit.

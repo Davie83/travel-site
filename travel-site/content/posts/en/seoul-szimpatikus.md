@@ -48,7 +48,7 @@ Then there is **perilla oil**, pressed from perilla seeds. It is nutty in a way 
 
 ![The table — ribs in the centre, the bracken and brisket pasta at the top right](/assets/img/seoul-szimpatikus-table.jpg)
 
-## Above average on every count
+## Above average all round, and reasonably priced
 
 To be honest about it: **this is not a once-in-a-lifetime restaurant.** What it is, is **a place that does not disappoint you on any single count.**
 
@@ -58,7 +58,7 @@ To be honest about it: **this is not a once-in-a-lifetime restaurant.** What it 
 
 That makes it **a safe place to bring anyone.** It is a slight waste to eat here alone; two or four people is the right size.
 
-## Why it is worth a tourist's time
+## A break from Korean food, without leaving it behind
 
 People come to Korea and look for **Korean food**. Of course they do.
 
@@ -68,7 +68,7 @@ But **Korean Western food** is a separate story. Western cooking was not simply 
 
 It also **is not spicy at all**, which on its own is reason enough for some visitors.
 
-## The location is genuinely useful
+## The location, and the other branches
 
 It is on the **ground floor of Grand Central, directly outside Seoul Station** — a three-minute walk.
 
@@ -77,8 +77,6 @@ For a traveller that matters.
 - **The AREX airport line runs straight to Incheon Airport from here.** Good for a last meal before flying out
 - **You can eat unhurried before a KTX departure**
 - **Namdaemun Gate is a 3-minute walk**, Namdaemun Market 10 minutes, Myeongdong 15
-
-## There are several branches
 
 Besides Seoul Station there are **six branches in total**, including one at Gwanghwamun.
 
@@ -93,7 +91,7 @@ Besides Seoul Station there are **six branches in total**, including one at Gwan
 
 **Prices differ slightly between branches.** The bracken and brisket pasta is 23,000 KRW at Seongsu and 23,500 at Seoul Station and Yeouido. The menus vary a little too, so check the branch you are actually going to.
 
-## Before you go — the afternoon break
+## Before you go — the break, and booking
 
 **They close from 3:00 to 5:00 PM.**
 
@@ -129,4 +127,4 @@ Evenings and weekends fill up. **CatchTable takes reservations.**
 - ⚠️ **Book ahead** for evenings and weekends
 - ⚠️ **Prices and menus differ slightly by branch**
 
-> A record of an actual visit. Judgements about taste are personal. Prices and opening hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up after an actual visit. Judgements about taste are personal. Prices and opening hours change often, so anything uncertain is marked **(changes often — please verify)**.

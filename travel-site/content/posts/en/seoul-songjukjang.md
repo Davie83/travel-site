@@ -24,19 +24,13 @@ info:
 
 This is the place I think of when I want *jjamppong*. I have worked through most of the standard menu here, and the answer is the same every time: **the jjamppong and the fried dumplings.**
 
-## First — what "Korean-Chinese" means
+## Sweat first, then the flavour catches up
 
-The food here is **Korean-Chinese** (*jjungguk-jip*), and it is worth understanding before you order.
+**You will sweat.** Not "a little warm" — actual sweating, halfway down the bowl. That's just how it goes here.
 
-It grew out of Chinese immigrant cooking in Korea over a century, and then went its own way. **If you have eaten in China, this will not taste like that.** It is its own cuisine, and Koreans eat it as comfort food — usually delivered, usually on a weeknight.
+But it isn't heat for its own sake. The chilli hits sharp and clean, and a deep savoury flavour comes in right behind it — that's why the bowl keeps pulling you back instead of wearing you out. Push the heat alone and you'd tap out after two or three spoonfuls; this one doesn't let you.
 
-*Jjamppong* is its spicy pole: **wheat noodles in a red, chilli-oil seafood broth** with squid, shrimp, mussels and cabbage. The other pole is *jjajangmyeon*, black bean noodles, not spicy at all.
-
-## The heat is real
-
-This is not a mild, tourist-facing bowl. **You will sweat.** Not "a little warm" — actual sweating, halfway down.
-
-What makes it good is that the chilli is not the only thing there. It hits sharp and clean, and a deep savoury flavour comes in right behind it. That is why the bowl keeps pulling you back instead of wearing you out.
+Worth knowing: this is Korean-Chinese food (*jjungguk-jip*), not a dish you'd meet in China itself — a cuisine that grew out of a century of Chinese immigrant cooking in Korea and went its own way from there.
 
 - **If you like heat** — this is the version you came for
 - **If you don't** — the chilli will block you before you get to the good part underneath
@@ -49,13 +43,13 @@ Getting only the noodles means eating half the meal. **The *gunmandu* — pan-fr
 
 There is a practical reason too. A bowl this hot needs something to break the heat, and a dumpling between mouthfuls resets your palate. The *danmuji* (yellow pickled radish) and the black bean paste on the table do the same job — both are free, both are meant to be eaten alongside.
 
-## Getting there
+## Getting there, and when it closes
 
 Come out of **Yeongdeungpo Station (Line 1)** and walk toward the Shinsegae department store. It is **not right at the station** — expect a short walk.
 
 The address is **203 Mullae-ro.** Use the map link; the street layout around the station is busy.
 
-**It closes at 9:30 PM**, earlier than a lot of Seoul, so it is not a late-dinner option.
+**It closes at 9:30 PM**, earlier than a lot of Seoul, so it is not a late-dinner option. Opening hours and any closing day are worth double-checking.
 
 ## What things cost
 
@@ -69,13 +63,11 @@ The noodle prices were not visible in my photo, so I have not guessed at them.
 
 Worth knowing: Korean law requires restaurants to post ingredient origins, and this menu does — rice from Korea, kimchi and chilli powder from China, shrimp from Vietnam, scallops from China.
 
-## Set your expectations honestly
+## The honest bottom line
 
 The Google rating is **3.8.** This is not a queue-around-the-block destination. It is **a long-running neighbourhood Chinese restaurant** that happens to do jjamppong and fried dumplings very well.
 
 So the honest framing is not "travel across Seoul for this." It is **"you're near Yeongdeungpo and you want spicy noodles"** — and then it is exactly right.
-
-## Who this suits
 
 - ✅ You genuinely like spicy food
 - ✅ You'll order the **fried dumplings** too
@@ -83,4 +75,4 @@ So the honest framing is not "travel across Seoul for this." It is **"you're nea
 - ⚠️ Low heat tolerance? You'll miss what's good about it
 - ⚠️ A walk from the station, and it closes at 9:30 PM
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up after an actual meal there. Prices and hours shift often, so anything I couldn't pin down is flagged **(changes often — please verify)**.

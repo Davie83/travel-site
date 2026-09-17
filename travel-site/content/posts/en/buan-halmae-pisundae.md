@@ -18,13 +18,13 @@ info:
   - Takeaway|Yes
 ---
 
-*Pisundae* is a dish most visitors hesitate over, and the hesitation is understandable.
+*Pisundae* is a dish most visitors hesitate over. When the plate arrived, it looked like it would taste strongly of offal. It didn't.
 
-Korean *sundae* is usually described in English as "blood sausage," but the common version is mostly glass noodles with a little pig's blood as a binder. **Pisundae is the opposite: blood is the main ingredient.** It comes out dark and dense.
+## The look is scarier than the dish
 
-**When the plate arrived, it looked like it would taste strongly of offal.** It didn't.
+Korean *sundae* is usually described in English as "blood sausage," but the common version is mostly glass noodles with a little pig's blood as a binder. **Pisundae is the opposite: blood is the main ingredient.** It comes out dark and dense, and that color alone is enough to make you brace for a strong smell before you've even tasted it.
 
-## The smell question
+## So how does it actually smell
 
 This is the thing reviewers of this place disagree about most. Some say it smells too much of pork. Others say that smell is the point and its absence would mean something was done to strip it out.
 
@@ -40,30 +40,19 @@ You hit them while chewing, and they break up what would otherwise be a heavy, u
 
 The broth is good too: long-simmered, and it belongs with the sausage rather than sitting beside it.
 
-## It opens at 7 in the morning
+## Open early, simmered long
 
-**Service starts at 7:00 AM.** Sundae soup in Korea is breakfast food and hangover food, so the early hours are normal rather than unusual.
+**Service starts at 7:00 AM.** Sundae soup in Korea is breakfast food and hangover food, so the early hours are normal rather than unusual. Buan sits on the route toward the Byeonsan peninsula and the Saemangeum seawall, so if you're setting out early, this works as a first meal of the day.
 
-Buan sits on the route toward the Byeonsan peninsula and the Saemangeum seawall. **If you're setting out early, this works as a first meal of the day.**
+The words that recur across its 737 Google reviews are **sundae-guk (66), cauldron (30), makchang (20)**. That tells you the kind of place it is: not technique-driven, but ingredients simmered a long time in a large pot. Don't come looking for refinement. Come when refinement is exactly what you don't want.
 
-## An old-style cauldron kitchen
-
-The words that recur across its 737 Google reviews are **sundae-guk (66), cauldron (30), makchang (20)**.
-
-That tells you the kind of place it is: not technique-driven, but ingredients simmered a long time in a large pot. Don't come looking for refinement. Come when refinement is exactly what you don't want.
-
-## Who this suits
+## Before you go
 
 - ✅ You want to try pisundae properly, once
 - ✅ You're starting early toward Byeonsan or Saemangeum
 - ✅ A filling meal under ₩10,000
 - ❌ You're very sensitive to organ meat — order the soup only
-
-## Practical notes
-
-- **Where** — Haengan-myeon, just outside Buan town, on the way to the Byeonsan peninsula.
-- **7:00 AM opening** is this restaurant's biggest practical advantage.
-- **Rural Korea** — no English menu expected. Pointing and a translation app work fine.
+- **Where** — Haengan-myeon, just outside Buan town, on the way to the Byeonsan peninsula. No English menu expected; pointing and a translation app work fine.
 - **Takeaway** available.
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit and my own tasting. Prices and hours change often, so anything uncertain here is marked **(changes often — please verify)**.

@@ -19,6 +19,12 @@ info:
 
 It's a Korean diner tucked away inside Namdaemun Market. Back in an alley, so you may wander a bit the first time — but once you know it, it's a place you come back to.
 
+## Start with the banban that isn't on the board
+
+There's a **banban** that isn't up on the menu board in big letters. One plate comes **half rolled omelette, half pan-fried sausage**. The omelette is thick with vegetables in it; the sausages are the old-fashioned kind, scored to open up like little octopuses when fried.
+
+Add a banban to the spicy pork or squid and the table is complete. It's especially good if you're with a child, or with someone who can't eat spicy food.
+
 ## A home-style diner inside Namdaemun Market
 
 Nothing grand. It works as a **baekban** — rice, soup and side dishes come together, and you pick one main. It has the narrow, busy feel of an old market diner.
@@ -31,12 +37,6 @@ The mains are **jeyuk-bokkeum (spicy pork)** and **ojingeo-bokkeum (spicy squid)
 
 Pork stir-fried in a gochujang sauce with plenty of onion — a familiar, no-miss taste. Spoon it over rice and the bowl empties fast. Not very hot, but there's some heat.
 
-## The hidden item: banban
-
-There's a **banban** that isn't up on the menu board in big letters. One plate comes **half rolled omelette, half pan-fried sausage**. The omelette is thick with vegetables in it; the sausages are the old-fashioned kind, scored to open up like little octopuses when fried.
-
-Add a banban to the spicy pork or squid and the table is complete. It's especially good if you're with a child, or with someone who can't eat spicy food.
-
 ## For foreign visitors
 
 - This place serves **Korean baekban** — one main with rice, soup and several side dishes. It's close to plain Korean home cooking, or a working-person's diner.
@@ -45,7 +45,7 @@ Add a banban to the spicy pork or squid and the table is complete. It's especial
 - Even if Korean food generally hasn't agreed with you, these particular dishes are worth a try.
 - It's **inside Namdaemun Market**, walkable from Myeongdong or Seoul Station. It's back in an alley, so navigate with a map.
 
-## Who this suits
+## Who this suits, and before you go
 
 - ✅ You want **a proper baekban meal** during a Namdaemun Market or Myeongdong day
 - ✅ You like **familiar Korean dishes** like spicy pork and squid
@@ -53,10 +53,10 @@ Add a banban to the spicy pork or squid and the table is complete. It's especial
 - ⚠️ You're expecting a big, clean restaurant — this is an old market diner
 - ⚠️ You want a slow, course-paced meal — this is more eat-and-go
 
-## Before you go
+**Getting there** — Jung-gu, Seoul, inside Namdaemun Market. It's back in an alley, so check the name on the map before you go.
 
-- **Getting there** — Jung-gu, Seoul, inside Namdaemun Market. It's back in an alley, so check the name on the map before you go.
-- **Ordering** — one of spicy pork or spicy squid, plus a banban if you want it. Rice comes per person.
-- **Closing day · hours · prices** — I couldn't confirm them this time. Many places in Namdaemun Market close on Sundays, so check before you go.
+**Ordering** — one of spicy pork or spicy squid, plus a banban if you want it. Rice comes per person.
 
-> Based on a personal visit. The taste and the spice level are personal, and hours, prices and the closing day I couldn't confirm — check the venue's details once more before you go.
+**Closing day · hours · prices** — I couldn't confirm them this time. Many places in Namdaemun Market close on Sundays, so check before you go.
+
+> Written up after eating there myself. Taste and how spicy something feels vary from person to person, and I couldn't confirm hours, prices or the closing day — check the venue's details once more before you go.

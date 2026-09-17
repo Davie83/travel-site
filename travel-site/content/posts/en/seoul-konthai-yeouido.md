@@ -41,7 +41,14 @@ This one comes generous with mussels, clams, shrimp and squid. The broth is sour
 - **A little spicy, a lot sour.** It isn't fiercely hot, but the sourness can surprise you if you're not used to it.
 - It's in the **Yeouido IFC Mall** food court, linked to Yeouido Station (subway lines 5 and 9) by an underground moving walkway from Exit 3.
 
-## Who it's for
+## Before you go, and who it's for
+
+- **Ordering** — if you want a sour broth, the seafood tom yum noodle soup. You can ask for no cilantro.
+- **Seating** — there can be a wait at the lunch peak (12–1). A bit earlier or later is calmer.
+- **Location** — IFC Mall food court, Yeouido. An underground moving walkway from Yeouido Station Exit 3 gets you there without stepping outside, rain or not.
+- **Price · hours · closing day** — not confirmed. Check the map or IFC Mall info before you go.
+
+This especially suits you if:
 
 - ✅ Anyone who likes a **sour broth** (tom yum)
 - ✅ Anyone in Yeouido who wants **something other than Korean food**
@@ -50,11 +57,4 @@ This one comes generous with mussels, clams, shrimp and squid. The broth is sour
 - ⚠️ Anyone put off by sourness or cilantro — tom yum is built around the sour note
 - ⚠️ Anyone wanting a quiet meal — it's crowded with office workers at lunch
 
-## Before you go
-
-- **Ordering** — if you want a sour broth, the seafood tom yum noodle soup. You can ask for no cilantro.
-- **Seating** — there can be a wait at the lunch peak (12–1). A bit earlier or later is calmer.
-- **Location** — IFC Mall food court, Yeouido. An underground moving walkway from Yeouido Station Exit 3 gets you there without stepping outside, rain or not.
-- **Price · hours · closing day** — not confirmed. Check the map or IFC Mall info before you go.
-
-> This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.
+> Written from repeat visits over time. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

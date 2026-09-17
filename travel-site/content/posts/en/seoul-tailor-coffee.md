@@ -34,7 +34,7 @@ When I think of this place, **the space comes to mind before the coffee does.**
 
 The photo is that impression. Cups lined up on dark wood shelving, and along the bar a grinder, drippers, and glass jars of beans in a row. You can see at a glance that someone has fussed over this room.
 
-## One americano
+## One americano, and a confession of taste
 
 **I ordered an americano in that cool weather, and the flavour of the coffee and the atmosphere of the place both stayed with me.**
 
@@ -42,13 +42,11 @@ One thing I should declare, though. **I like coffee with acidity.**
 
 Coffee taste splits people, and acidity splits them most sharply of all — some seek it out, some avoid it. It seems more useful to tell you where my impression is coming from than to pretend it is neutral.
 
-## Being honest about the price
+## Three honest things — price, seats, location
 
 **Coffee here is not cheap.** If you arrive with neighbourhood-cafe prices in mind, it will feel expensive.
 
 Even so, **if you are nearby, it is worth stopping in for one cup.** This is less a place to travel across the city for, and more **a good place to know about when you are already in that area.**
-
-## Seating and location
 
 **There are not many tables.** Some reviews call that a plus — it never feels crowded — but it also means you may not get a seat.
 
@@ -76,4 +74,4 @@ It works well as **somewhere to sit for a while** in the middle of a Myeongdong 
 - ⚠️ **Few tables** — awkward for a group
 - ⚠️ **The closing day is unconfirmed**
 
-> A record of an actual visit. Taste judgements are personal preference, and the writer favours coffee with acidity. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up after actually drinking there. The taste judgement carries my own preference for acidity. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.

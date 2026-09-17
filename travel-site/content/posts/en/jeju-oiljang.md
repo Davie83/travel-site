@@ -19,11 +19,24 @@ info:
   - Google rating|4.2 (6,973 reviews)
 ---
 
+Find a spot in the food section, spread out a pajeon and a bowl of makgeolli, and you find out what you actually came here for.
+
+## Head for the food section
+
+There is an area inside the market where **stalls from around the market sell cooked food in one place**. You grab things from different vendors, find a seat outdoors, and spread it all out.
+
+I had **pajeon** and **chapssal sundae**.
+
+- **Pajeon** (savoury spring onion pancake) — crisp at the edges, excellent. Eating it straight off the griddle makes a real difference.
+- **Chapssal sundae** (glutinous rice blood sausage) — honestly, not to my taste. The texture read as closer to a Chinese-style sausage than the sundae I'm used to. If you have strong opinions about sundae, try a small portion first.
+
+And **Jeju makgeolli** — the local unfiltered rice wine, on the sweet side here, which works well against a fried pancake. A cup in the middle of the afternoon at a market is a very good way to spend a Jeju day.
+
+## Check the market day first
+
 Start with the part that catches people out. A Korean *oiljang* — literally "five-day market" — is **not** a market that runs for five days, and it is not open every fifth day of the month either.
 
 This one opens only on **dates ending in 2 or 7**.
-
-## Market days
 
 | Open on |
 |---|
@@ -41,18 +54,7 @@ Around **1,000 stalls** — the largest market of its kind in Korea. "We'll do a
 
 Fruit, dried seafood, vegetables, clothes, household goods, tools. What stands out is how **busy** it is. This is not a market arranged for visitors; it is where people on the island actually shop, and the energy is completely different because of it.
 
-## Head for the food section
-
-There is an area inside the market where **stalls from around the market sell cooked food in one place**. You grab things from different vendors, find a seat outdoors, and spread it all out.
-
-I had **pajeon** and **chapssal sundae**.
-
-- **Pajeon** (savoury spring onion pancake) — crisp at the edges, excellent. Eating it straight off the griddle makes a real difference.
-- **Chapssal sundae** (glutinous rice blood sausage) — honestly, not to my taste. The texture read as closer to a Chinese-style sausage than the sundae I'm used to. If you have strong opinions about sundae, try a small portion first.
-
-And **Jeju makgeolli** — the local unfiltered rice wine, on the sweet side here, which works well against a fried pancake. A cup in the middle of the afternoon at a market is a very good way to spend a Jeju day.
-
-## Practical notes
+## Before you go
 
 - **The date is everything.** Ending in 2 or 7. Get that right and the rest takes care of itself.
 - **Closes at 6:00 PM.** Arrive by 4:00 PM at the latest unless you specifically want to watch stalls packing up.
@@ -63,4 +65,4 @@ And **Jeju makgeolli** — the local unfiltered rice wine, on the sweet side her
 
 If the dates line up, this is worth half a day. If they don't, the Dongmun Market in central Jeju City runs daily and is the practical alternative.
 
-> Based on a personal visit. Market days and hours can change — check before you travel.
+> Written up after my own visit. Market days and hours can change, so it's worth checking again before you travel.

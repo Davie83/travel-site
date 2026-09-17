@@ -20,15 +20,13 @@ info:
 
 **Come up from Centerfield in Gangnam toward Yeoksam Station and you'll spot it right on the ground floor.** Terarosa has quite a few branches around Seoul (search and you'll find plenty), and this Yeoksam Station one is among them.
 
-## The pour-over bar catches your eye first
+## Coffee that seems to be in no hurry at all
 
 Walk in and the pour-over bar under the TERAROSA sign is the first thing you see. Several cups brew at once, and staff pour the water slowly, one cup at a time.
 
 ![Inside Terarosa Yeoksam Station, seating by the floor-to-ceiling windows](/assets/img/seoul-terarosa-yeoksam-interior.jpg)
 
 **Watching coffee come down slowly, on its own schedule, no matter who's waiting, is quietly enviable.** No rush, its own pace. The shop itself is clean and well-kept, so it's comfortable to sit for a while.
-
-## Gangneung coffee, the Cloud Americano
 
 Terarosa is well known as a roastery that started in Gangneung. I had a **Cloud Americano** — deep, rich flavor — and looking around, plenty of the other tables were drinking Terarosa's Gangneung-born coffee too.
 
@@ -52,4 +50,4 @@ Terarosa is well known as a roastery that started in Gangneung. I had a **Cloud 
 - **Station** — About a 5-minute walk from Yeoksam Station (Line 2).
 - **Hours** — Weekdays 7 AM-8 PM, Sat 9 AM-8 PM, Sun & holidays 9 AM-6 PM.
 
-> This is a first-hand account. Prices and hours can change, so it's worth double-checking before you visit.
+> Written up after visiting and drinking there myself. Prices and hours can shift, so it's worth checking again before you go.

@@ -27,24 +27,17 @@ Two of us ordered **janchi-guksu and the egg-wrapped gimbap** — that's what's 
 - **Egg-wrapped gimbap** (*gyeranmari-gimbap*) — a gimbap roll wrapped once more in a thin fried-egg sheet. The filling inside is ordinary snack-bar gimbap
 - **Janchi-guksu** — thin wheat noodles in a mild anchovy broth, topped with fried tofu, fish cake, seaweed and spring onion. Not spicy
 
-## Being straight about it
-
 **It wasn't bad.** The egg-wrapped gimbap was warm and soft, and the janchi-guksu was fine. It was more than enough for a filling meal.
 
 But **I'm not sure the "well known nearby" reputation justifies a special trip.** It's a decent neighbourhood snack bar, not somewhere to bend your itinerary for.
 
-## For foreign visitors
+## What foreign visitors should know
 
 - **Neither dish is spicy.** Janchi-guksu is a mild anchovy noodle soup, and the egg-wrapped gimbap has no heat. A safe combination if you can't eat spicy.
 - **Egg-wrapped gimbap** is a gimbap roll sheathed in a fried-egg layer — unfamiliar at first sight, but an easy, mild taste.
 - Being a *bunsik* (snack bar), it's **fast and cheap**. Good for a light meal.
-
-## Who this suits
-
-- ✅ You have business in Incheon and want **a light meal nearby**
-- ✅ You want to fill up on something not spicy
-- ✅ You're curious about egg-wrapped gimbap
-- ⚠️ You're expecting a "local famous restaurant" and would **go out of your way** for it — it isn't quite that
+- ✅ Good if you have business in Incheon and want a light meal nearby, want to fill up on something not spicy, or are curious about egg-wrapped gimbap
+- ⚠️ Less good if you're expecting a "local famous restaurant" and would go out of your way for it — it isn't quite that
 
 ## Before you go
 

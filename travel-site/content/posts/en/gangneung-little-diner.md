@@ -20,13 +20,7 @@ info:
 
 I got into Gangneung the evening before. I hadn't had much to drink, so I could start the next morning at an easy pace. I decided on a late brunch, and the place I picked was Little Diner.
 
-## The morning after arriving, a late brunch
-
-The first meal in a new place sets the mood for the day. I wanted to start light but solid, and brunch sits somewhere in between. A coffee, a burger or pancakes, maybe some eggs — and the morning opens up nicely.
-
-Little Diner fit that "start the day well" idea. From the atmosphere the moment you open the door to the plate that arrived, it was better than I expected.
-
-## A burger on a thick, pancake-like bun
+## The bun alone sets it apart: a pancake of a burger
 
 The thing I ordered was the burger. What catches your eye first is the **bun**. Not a regular hamburger bun — a **thick, golden, griddled bun that looks like a pancake** sits on top. Below it are lettuce, cheddar, and layers of smoked meat that look like **pastrami and bacon**.
 
@@ -34,7 +28,9 @@ On the side come **fries**, ketchup, and a small **jug of syrup**. Drizzle a lit
 
 The other plate we ordered came sliced into triangles like a **quesadilla or panini**, with a single onion ring on top. Splitting the two plates was just the right amount for a morning meal.
 
-## The feel of an analog American diner
+The first meal in a new place sets the mood for the day. I wanted to start light but solid, and Little Diner fit that "start the day well" idea from the moment we walked in.
+
+## An analog American diner — the space is half of it
 
 ![The interior of Little Diner, done up with red diner chairs and pop-art banners — Gangneung](/assets/img/gangneung-little-diner-interior.jpg)
 
@@ -44,21 +40,15 @@ The walls are filled with old American things: pop-art chimpanzee banners, a Kur
 
 Sitting in a room like this for brunch, on a trip, lifts the mood of the whole day on its own. Little Diner was a good place to start a Gangneung trip from.
 
-## For visitors
+## What foreign visitors should know
 
 - It's a **brunch / diner** style place. The menu is burgers, pancakes, egg dishes — close to a Western breakfast. An easy choice on a morning when Korean food feels like too much.
 - The signature burger's **bun is thick, like a pancake**. Pouring the syrup from the small jug over the bun is the house way to eat it.
 - **Not spicy.** Pickled jalapeños come on the side, but you can leave them off.
 - Gangneung is about **two hours from Seoul by KTX**. It works well as a next-morning stop after you arrive.
 - I couldn't confirm whether there's an English menu. If the menu has photos, pointing works fine.
-
-## Who it's for
-
-- ✅ Anyone who wants to start the **first morning** of a Gangneung trip light and in a good mood
-- ✅ People who like **analog, retro spaces** — there's plenty to photograph
-- ✅ Anyone for whom Korean food or soup in the morning is too much
-- ⚠️ People who want a quiet, tidy atmosphere — it's heavily decorated and can get busy
-- ⚠️ People who just want to grab a quick meal — brunch here suits a slower pace
+- ✅ Good if you want to start the first morning of a Gangneung trip light and in a good mood, you like analog/retro spaces, or Korean food and soup in the morning feels like too much
+- ⚠️ Less good if you want a quiet, tidy atmosphere, or just want to grab a quick meal — it's heavily decorated, can get busy, and suits a slower pace
 
 ## Before you go
 

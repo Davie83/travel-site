@@ -20,7 +20,7 @@ info:
 
 Mungtigi. In the Jeolla dialect it's called *saenggogi*, "raw meat." It's uncooked beef eaten as is — in standard Korean, the same family as *yukhoe* and *yuk-sashimi*.
 
-## It's different from yuk-sashimi
+## Cut bigger and thicker than yuk-sashimi
 
 Even among raw beef, mungtigi has its own character.
 
@@ -29,11 +29,9 @@ Even among raw beef, mungtigi has its own character.
 
 You eat it with a **house gochujang-based sauce**. The recipe varies by restaurant, and this one goes well with the meat.
 
-## About the ageing
+## Ageing, and the yukjeon
 
 Depending on the restaurant, it seems to be **sold same-day or aged for 1–2 days**. The exact method isn't confirmed, so ask on the spot if it matters to you.
-
-## The yukjeon is good too
 
 The main event is mungtigi, but the **yukjeon** — beef sliced thin, coated in egg and pan-fried — was good as well. Worth ordering on the side.
 
@@ -59,4 +57,4 @@ The main event is mungtigi, but the **yukjeon** — beef sliced thin, coated in 
 - **Ageing method** — whether it's same-day or 1–2 days isn't confirmed. Ask when you visit if you're curious.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
-> Based on a personal visit. Any judgement of taste and texture is personal preference. The ageing method, hours, prices, and closing day I couldn't confirm — check the venue's details once more before you go.
+> Written up after eating there myself. Impressions of taste and texture can vary from person to person. The ageing method, hours, prices, and closing day I couldn't confirm — check the venue's details once more before you go.

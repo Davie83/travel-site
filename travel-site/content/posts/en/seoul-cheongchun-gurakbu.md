@@ -20,15 +20,15 @@ info:
 
 It's a grilled beef-offal place inside the Mapo galbi alley. I had something to do nearby and stopped in.
 
-## Grilled beef offal in the Mapo galbi alley
-
-Mapo has an alley where galbi and grill houses cluster together. Cheongchun Gurakbu sits inside it, but it leads with **grilled beef offal** rather than galbi. Teugyang and daechang are the signatures, though it isn't a one-note place — the menu is fairly wide.
-
-## Teugyang — a crisp, crunchy bite
+## Teugyang comes first, always
 
 Of all the grilled beef offal, **teugyang** is my favourite. It's a cut from the cow's stomach, and grilled well it has a distinctive **crisp, crunchy** texture. That bite is why I reach for teugyang before gopchang or daechang.
 
 Here too, that texture came through. Alternating it with the fatty, chewy daechang keeps it from getting monotonous.
+
+## Inside the Mapo galbi alley, an offal specialist
+
+Mapo has an alley where galbi and grill houses cluster together. Cheongchun Gurakbu sits inside it, but it leads with **grilled beef offal** rather than galbi. Teugyang and daechang are the signatures, though it isn't a one-note place — the menu is fairly wide.
 
 ## Daechang, and a wide menu
 
@@ -38,7 +38,7 @@ Because it's **grilled over charcoal**, the taste is solidly above average. The 
 
 Given what teugyang and daechang cost, it's the sort of place you could use for entertaining. That said, I ate in the main room this time and it was **quite loud**. I'll have to check next time whether there's a private room in the back.
 
-## For visitors
+## Worth knowing on a first visit
 
 - It's a specialist in **grilled beef offal**. The headliners are **teugyang** (a cut from the cow's stomach) and **daechang** (large intestine).
 - **Teugyang**, grilled well, has a crisp, crunchy bite; **daechang** is rich and chewy from the fat inside. There's almost no smell.
@@ -47,7 +47,7 @@ Given what teugyang and daechang cost, it's the sort of place you could use for 
 - **Not very spicy.** The marinade is mildly spicy at most; you dip it in salt or a sesame-oil sauce.
 - It's inside the **Mapo galbi alley** — close to Gongdeok Station (lines 5 and 6) and Daeheung Station (line 6).
 
-## Who it's for
+## This works well for you if
 
 - ✅ Anyone who likes grilled beef offal like **teugyang and daechang**
 - ✅ Anyone who enjoys the **crisp, crunchy texture** of teugyang
@@ -63,4 +63,4 @@ Given what teugyang and daechang cost, it's the sort of place you could use for 
 - **Seating** — if you want to talk quietly, ask when booking whether there's a private room (I couldn't confirm this time).
 - **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
-> This post is a write-up of a visit in person. The cut names, texture, and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go.
+> Written up from a visit of my own. The cut names, texture, and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go.

@@ -20,15 +20,13 @@ info:
 
 The gaetbae ferry connects central Sokcho with Abai Village. I figured it was worth riding at least once while in Sokcho, so I went.
 
-## Connecting central Sokcho with Abai Village
-
-Board the boat from the pier on the Sokcho city side and it carries you across to Cheongho-dong, better known as **Abai Village**. The two neighbourhoods face each other across a narrow channel — walking the long way around would take a while, and this little boat closes the gap quickly.
-
-## A boat you pull across yourself
+## No motor — you pull it across yourself
 
 The fun of this boat is in **how it crosses** — you pull it yourself. Instead of a motor, there's a rope strung across the channel, and passengers or the boatman pull the boat forward along it with a hooked pole. It's not flashy, but that's exactly why the ride itself is the appeal.
 
-## A short but easy round trip, and one-way tickets too
+## A short crossing linking central Sokcho and Abai Village
+
+Board the boat from the pier on the Sokcho city side and it carries you across to Cheongho-dong, better known as **Abai Village**. The two neighbourhoods face each other across a narrow channel — walking the long way around would take a while, and this little boat closes the gap quickly.
 
 ![People queuing for the gaetbae at the pier on the Sokcho city side — Abai Village gaetbae](/assets/img/sokcho-abai-gaetbae-queue.jpg)
 
@@ -59,4 +57,4 @@ As the photo shows, there are times when it gets busy. At peak times you'll queu
 - **Timing** — as the photo shows, some times get busy; visiting with time to spare means less waiting.
 - **Hours · fares · closing day** — I couldn't confirm them this time. Service may pause for holidays or bad weather, so check before you go.
 
-> This post is a write-up of a visit in person. Impressions are personal, and I couldn't confirm the operating hours, fares, or closing day — please check the latest information once more before you go.
+> Written up after riding it myself. Impressions can vary from person to person, and I couldn't confirm the operating hours, fares, or closing day — please check the latest information once more before you go.

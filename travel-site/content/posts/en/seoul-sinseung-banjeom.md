@@ -18,19 +18,7 @@ info:
   - Prices · hours · closing day|Not confirmed (check before you go)
 ---
 
-It's a Chinese-Korean restaurant in Yeouido. I went in the evening, and even though the room is on the large side, it was fairly full.
-
-## A Chinese-Korean restaurant in Yeouido
-
-Yeouido is an office district, so a lot of places pack out at lunch — but this one had plenty of seats taken at dinner too. The room is wide enough that a bigger group shouldn't struggle to sit. After a long look at the menu, I ordered **jjamppong** and **stir-fried kkanpung shiitake**, partly as something to drink over.
-
-## Jjamppong — level 4, and generous with the seafood
-
-The jjamppong has a deep broth and is **on the spicy side** — about **level 4** by this site's scale. It's generous with the fillings: abalone, shrimp and squid, plus napa cabbage and shiitake.
-
-I like spicy food, so this was welcome rather than a problem. But someone **not used to heat** — a visitor, especially, going in with no warning — could find it seriously hot.
-
-## Kkanpung shiitake — a genuine find as drinking food
+## The find this time: kkanpung shiitake
 
 ![Kkanpung shiitake — crisply fried shiitake stir-fried with dried chillies and peanuts — Sinseung Banjeom](/assets/img/seoul-sinseung-banjeom-kkanpung.jpg)
 
@@ -39,6 +27,12 @@ The new find this time was the **stir-fried kkanpung shiitake**. Thick-cut shiit
 The fried shiitake has a **chewy-yet-crisp texture** that gives you something to bite into without any meat. The sweet-sour, faintly spicy kkanpung sauce clings well, and it was **excellent with a drink**. It felt like discovering a new bar snack.
 
 A friend says several of the restaurant's other dishes are good too. There seem to be other branches, so if one is near you it's worth a stop.
+
+## Jjamppong — level 4, and generous with the seafood
+
+The jjamppong has a deep broth and is **on the spicy side** — about **level 4** by this site's scale. It's generous with the fillings: abalone, shrimp and squid, plus napa cabbage and shiitake.
+
+I like spicy food, so this was welcome rather than a problem. But someone **not used to heat** — a visitor, especially, going in with no warning — could find it seriously hot.
 
 ## For visitors
 
@@ -58,6 +52,8 @@ A friend says several of the restaurant's other dishes are good too. There seem 
 - ⚠️ Anyone wanting a very quiet meal — it's busy in the evening
 
 ## Before you go
+
+Yeouido is an office district, so a lot of places pack out at lunch — but this one had plenty of seats taken at dinner too. The room is wide enough that a bigger group shouldn't struggle to sit.
 
 - **Location** — Yeouido, Yeongdeungpo-gu, Seoul. There may be other branches, so check which one on the map before you go.
 - **Ordering** — if you can't take heat, choose a milder noodle or rice dish instead of the jjamppong, and have the kkanpung shiitake alongside.

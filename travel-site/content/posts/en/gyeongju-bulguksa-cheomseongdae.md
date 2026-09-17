@@ -67,13 +67,7 @@ This is the way to use Gyeongju properly.
 
 Reviewers mention **Anapji and Daereungwon** alongside Cheomseongdae constantly. Those three form a walkable night circuit, and it is genuinely one of the better night walks in the country.
 
-## The food: galbi
-
-Gyeongju is known for **galbi** — grilled beef short ribs. It would be a waste to come only for the ruins.
-
-I haven't eaten widely enough here to recommend a specific restaurant honestly, so I'm not going to name one. When I go back I'll write it up separately.
-
-## Getting there and around
+## Getting there, and the food
 
 **KTX runs to Singyeongju Station**, so reaching Gyeongju from Seoul is straightforward — roughly two hours.
 
@@ -81,6 +75,8 @@ The harder part is after you arrive. **The sites are scattered and public transp
 
 - A car is easiest
 - Without one, **taxis or a day tour** are the realistic options. Tours from Busan and Daegu are common and often include Bulguksa and Seokguram together
+
+Gyeongju is also known for **galbi** — grilled beef short ribs. It would be a waste to come only for the ruins. I haven't eaten widely enough here to recommend a specific restaurant honestly, so I'm not going to name one. When I go back I'll write it up separately.
 
 ## Who this suits
 

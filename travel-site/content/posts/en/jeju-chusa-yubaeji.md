@@ -18,23 +18,23 @@ info:
   - Admission · hours · closing day|Not confirmed (the museum usually closes Mondays · check before you go)
 ---
 
-If you're passing through the southwest of Jeju, around Daejeong, this is worth a short stop. Whether you're heading straight down to Moseulpo Harbour or coming over from Aewol toward Seogwipo, it's barely a detour.
+Off to one side of the yard, two big pine trees stand very upright, like people with something to say.
 
-This is where Kim Jeong-hui — the "Chusa" of Chusa-che, the calligraphic style — lived out his exile. It's quiet, the way an exile site should be, and there's an air of *so this is the place*.
-
-## Kim Jeong-hui and this spot
-
-In 1840, caught up in a political purge, Kim Jeong-hui (1786–1856) was banished here to Daejeong. He wasn't released until 1848 — more than eight years. The sentence was called *wiri-anchi*: the house is ringed with a hedge of thorns, and you do not leave it.
-
-His writing, they say, only grew firmer in that confinement. The hand we now call Chusa-che matured around this time, and the painting he gave his student — the *Sehando* (1844) — came out of these years too. It shows a bare hut with a pine and a juniper that stay green through the cold season.
-
-## The feel of the place
+## Two pine trees standing guard over the yard
 
 The thatched house standing here now is not the original. It was rebuilt from the accounts of descendants and villagers, on the site of the Kang Do-sun house where Kim actually stayed. A stone wall, a narrow yard, a few low thatched roofs — that is all of it.
 
-Off to one side of the yard, two big pine trees stand very upright. They look like people with something to say. I caught myself wondering whether it was *Chusa was framed*.
+Standing in front of those pines, I caught myself wondering whether it was *Chusa was framed*. It's quiet, the way an exile site should be, and there's an air of *so this is the place*.
 
 ![The reconstructed thatched house and stone wall, with the tree that guards the yard — Chusa's place of exile](/assets/img/jeju-chusa-yubaeji-choga.jpg)
+
+## Kim Jeong-hui and this spot
+
+If you're passing through the southwest of Jeju, around Daejeong, this is worth a short stop. Whether you're heading straight down to Moseulpo Harbour or coming over from Aewol toward Seogwipo, it's barely a detour.
+
+This is where Kim Jeong-hui — the "Chusa" of Chusa-che, the calligraphic style — lived out his exile. In 1840, caught up in a political purge, Kim Jeong-hui (1786–1856) was banished here to Daejeong. He wasn't released until 1848 — more than eight years. The sentence was called *wiri-anchi*: the house is ringed with a hedge of thorns, and you do not leave it.
+
+His writing, they say, only grew firmer in that confinement. The hand we now call Chusa-che matured around this time, and the painting he gave his student — the *Sehando* (1844) — came out of these years too. It shows a bare hut with a pine and a juniper that stay green through the cold season.
 
 ## The Jeju Chusa Museum
 
@@ -62,4 +62,4 @@ Next to the house is the Jeju Chusa Museum. It is a low building, mostly undergr
 - **Admission · hours · closing day** — I couldn't confirm them this time. The Jeju Chusa Museum usually closes on Mondays, so check before you go.
 - **Bundling** — Moseulpo Harbour → Sanbangsan → Chusa's place of exile makes a natural loop.
 
-> Based on a personal visit. Admission, hours and the closing day can change — check before you go.
+> Written after my own visit. Admission, hours and the closing day can change, so it's worth checking again before you go.

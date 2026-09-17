@@ -77,7 +77,7 @@ It works equally well for family, for hosting someone, or for two. **Being able 
 - **Closes at 10:00 PM**
 - **Not spicy** — the crab and most of the course carry no chilli heat
 
-## Who this suits
+## Right for this kind of occasion
 
 - ✅ You want crab served as a full course, not just a boiled crab
 - ✅ You need a quiet private room for an occasion
@@ -86,4 +86,4 @@ It works equally well for family, for hosting someone, or for two. **Being able 
 - ⚠️ Not a cheap meal — even at promotion prices, budget ₩50,000–80,000 per person
 - ⚠️ Parking is difficult, and dining is up on the 3rd floor
 
-> Based on a personal visit. The promotion is time-limited and prices and hours change often, so please confirm before you go.
+> Written from a personal visit. The promotion won't run forever, and regular prices and hours shift too, so confirm again before booking.

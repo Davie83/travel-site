@@ -86,7 +86,7 @@ Yeouido fills up fast at lunch. If you want one of the private rooms, booking is
 
 Everything nearby is walkable: **the National Assembly building, Yeouido Han River Park, and the 63 Building.** If you're spending a half day in Yeouido, putting lunch here keeps the route tidy.
 
-## Who this suits
+## This lunch works if
 
 - ✅ You're in Yeouido and want a proper lunch without paying district prices
 - ✅ You like a table covered in small dishes
@@ -94,4 +94,4 @@ Everything nearby is walkable: **the National Assembly building, Yeouido Han Riv
 - ⚠️ **The fish is raw** — pick another dish if that's not for you
 - ⚠️ Book ahead for lunch
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit. Prices in Yeouido shift often, so it's worth confirming the price and booking availability again before you go.

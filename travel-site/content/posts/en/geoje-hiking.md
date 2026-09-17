@@ -69,19 +69,13 @@ Cruises leave **Dojangpo harbour for Oedo and Haegeumgang** — those are the wh
 
 Boat and walk are different experiences. **With one full day, take the boat in the morning and walk in the afternoon.**
 
-## Practical notes
+## Before you go
 
 - **A car makes this much easier.** Getting around the island on public transport alone eats a lot of the day
 - **Windy Hill is free and open 24 hours.** It's a hillside — there's no gate
 - **The wind is real.** The name isn't decorative. Bring a layer
 - **Weather is everything here.** The sea in the overcast photo and the sea in the clear one are different colours entirely — both of those pictures are from the same walk
-
-## Who this suits
-
-- ✅ You like travel where the walking is the point
-- ✅ You're drawn more to the space between sights than the sights
-- ✅ You can look at the sea for a long time without getting bored
-- ⚠️ The famous viewpoint is crowded — pick your hour if you want quiet
-- ⚠️ Without a car, transport will take a real bite out of your day
+- ✅ Good if you like travel where the walking is the point, you're drawn more to the space between sights than the sights, or you can look at the sea for a long time without getting bored
+- ⚠️ The famous viewpoint is crowded — pick your hour if you want quiet. Without a car, transport will take a real bite out of your day
 
 > Based on a personal visit. Fares and sailing times can change, so anything uncertain is marked **(please verify)**.

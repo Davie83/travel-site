@@ -51,7 +51,13 @@ Chijiremen are curly noodles. With a broth on the heavy side, I find noodles tha
 
 **The gyoza set turns it into a full meal.** If one bowl of ramen is not enough, go that way.
 
-## Honestly — it is not spectacular
+## Right in the middle of Hongdae
+
+**Three minutes on foot from exit 7 of Hongik Univ. Station.** It sits in the middle of Hongdae, so it is easy to slot into another plan.
+
+There are nights in Hongdae when a bowl of ramen is exactly how you want to finish. Bear in mind that **the door closes at 10 PM**, so get in before then.
+
+## Honestly, it is not spectacular
 
 **It is not spectacular. But something about it keeps pulling me back.**
 
@@ -59,13 +65,7 @@ Both sentences have to sit together to be accurate. This is not a place you seek
 
 Set your expectation to **"a bowl of tonkotsu you get to configure"** rather than "the best ramen in Hongdae", and it lands well.
 
-## Location
-
-**Three minutes on foot from exit 7 of Hongik Univ. Station.** It sits in the middle of Hongdae, so it is easy to slot into another plan.
-
-There are nights in Hongdae when a bowl of ramen is exactly how you want to finish. Bear in mind that **the door closes at 10 PM**, so get in before then.
-
-## For international visitors
+## First time here
 
 **Tonkotsu ramen is Japanese ramen in a heavy broth simmered from pork bones.** Not Korean food, but an easy meal in Hongdae, so it is worth noting.
 
@@ -77,7 +77,7 @@ There are nights in Hongdae when a bowl of ramen is exactly how you want to fini
 - **You may lift the bowl and drink the broth.** That is not rude in a Japanese or Korean ramen shop
 - **Gyoza are pan-fried dumplings.** The set portion is generous
 
-## Go if
+## Good fit, or not
 
 - ✅ You want to **choose your noodles and broth strength**
 - ✅ You like heavy tonkotsu
@@ -87,4 +87,4 @@ There are nights in Hongdae when a bowl of ramen is exactly how you want to fini
 - ⚠️ **It is a pork-bone broth.** No good if you avoid pork
 - ⚠️ **No fixed weekly closing day.** Ring ahead over public holidays
 
-> A record of an actual visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(changes often — please verify)**.

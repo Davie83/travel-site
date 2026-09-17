@@ -19,13 +19,11 @@ info:
   - Nearest station|**Yeouido** — connected directly to the station
 ---
 
-A Korean-Chinese restaurant on the second floor of TP Tower in Yeouido. **4.9 across 2,993 reviews** — that is a high score on a sample large enough to mean something.
-
-## First: this is Korean-Chinese food, not Chinese food
+## First, this is Korean-Chinese food
 
 *Jjajangmyeon* is wheat noodles in a thick black sauce made from fermented black bean paste, and it is one of the most-eaten dishes in Korea. It grew out of Chinese immigrant cooking in Incheon and became **its own Korean thing** — if you know Chinese *zhajiangmian*, this is sweeter, darker and glossier.
 
-Almost every neighbourhood in Korea has a cheap version. **This place is the opposite end of that scale.**
+Almost every neighbourhood in Korea has a cheap version. **This place is the opposite end of that scale** — a Korean-Chinese restaurant on the second floor of TP Tower in Yeouido, with **4.9 across 2,993 reviews.** That is a high score on a sample large enough to mean something.
 
 ## The signature: steak and truffle jjajangmyeon
 
@@ -62,25 +60,15 @@ The portion size offsets a lot of it. **Counting one bowl as two servings**, the
 
 Budget **₩20,000–50,000 per person.** The range is wide because it depends entirely on what you order: noodles alone sit at the bottom, while the signature dishes and shared plates push you to the top.
 
-## Book before you go
+## Booking, location, and the small stuff
 
-**Treat booking as compulsory.** Even a weekday evening fills up.
-
-Google Maps shows a **booking button** on the listing. Use it.
+**Treat booking as compulsory.** Even a weekday evening fills up. Google Maps shows a **booking button** on the listing — use it before you go.
 
 The restaurant also posted an event offering **three kinds of handmade dim sum to customers who reserve** — but it excludes same-day bookings and says it may end early, so **whether it is still running is (changes often — please verify).**
 
-## Getting there
+**It connects directly to Yeouido Station.** Second floor of TP Tower, so you can arrive dry in the rain. Yeouido is an office district without much sightseeing around it, but **for sheer ease of access this is among the easiest good Chinese restaurants to reach in Seoul.** It **closes at 10:00 PM.**
 
-**It connects directly to Yeouido Station.** Second floor of TP Tower, so you can arrive dry in the rain. Yeouido is an office district without much sightseeing around it, but **for sheer ease of access this is among the easiest good Chinese restaurants to reach in Seoul.**
-
-It **closes at 10:00 PM.**
-
-## Practical notes
-
-- **Payment** — card is standard
-- **Ordering** — a photo menu and a well-known signature dish make this straightforward
-- **Vegetarians** — this is a meat-and-seafood menu; options are limited
+Card is the standard way to pay, and a photo menu plus a well-known signature dish keep ordering simple. This is a meat-and-seafood menu, though, so options for vegetarians are limited.
 
 ## Who this suits
 

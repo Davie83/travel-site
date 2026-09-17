@@ -22,38 +22,36 @@ info:
 
 When spring comes, I think of **Jeju in canola-flower season**. Seongsan is at the centre of that picture.
 
+## Timing is everything
+
+Jeju is supposed to be good any time of year, but this particular combination isn't. **To see the canola and Ilchulbong together, it has to be late March to April.**
+
+Ilchulbong itself can be climbed any season, but miss those few spring weeks for the canola and you're waiting until next year. True to its name, early morning is the most beautiful time to go — but expect it to be busy too.
+
 ## The canola field at Gwangchigi Beach
 
 Right below Seongsan Ilchulbong, **the area around Gwangchigi Beach is cited as the largest canola field on Jeju**. In spring, yellow rapeseed flowers spill across the ground between the black basalt walls.
 
 ![The canola field at Gwangchigi Beach — yellow flowers in full bloom under a blue sky, with a basalt wall behind](/assets/img/jeju-seongsan-ilchulbong-yuchae.jpg)
 
-The sea, the flowers, and Ilchulbong rising behind them all fit in one frame. Late March to April is the window for photos.
+The sea, the flowers, and Ilchulbong rising behind them all fit in one frame.
 
-## Seongsan Ilchulbong — more a walk than a climb
+## Ilchulbong, then a coffee to close it out
 
 Seongsan Ilchulbong is a volcanic crater that rose straight out of the sea. It's a **UNESCO World Heritage Site**.
 
 The summit is **about an hour round trip** on a stair path. Too short to call a "climb", but with enough steps that it isn't quite a stroll. Take it slowly and most people manage it fine. From the top you see the crater and the sea off Seongsan in one sweep.
 
-## And the coffee
-
 Coming back down and having a coffee at a nearby café is how this loop ends. Maybe it's the walking — it tastes especially good.
 
-## When to go
-
-- **If canola is the point, late March to April.** Bloom timing shifts a little each year, so check before you go.
-- Ilchulbong is worth visiting any season, but **the spring canola pairing only happens in this window**.
-- As the name (Sunrise Peak) suggests, early morning is best — and busiest.
-
-## For foreign visitors
+## Worth knowing before you land here
 
 - **Seongsan Ilchulbong charges admission** (around ₩5,000 for adults, verify). Gwangchigi Beach is free.
 - There are **stairs** to the summit. Wear comfortable shoes and take your time.
 - It's **about an hour by car** from Jeju City. Public transport reaches it, but buses aren't frequent.
 - It's reported to **close on the first Monday of each month** for maintenance — check before you go.
 
-## Who this suits
+## Good fit, and not so good fit
 
 - ✅ You're travelling Jeju **in spring** and want to see canola in bloom
 - ✅ You want a light walk, a wide view, and photos in one stop
@@ -62,10 +60,10 @@ Coming back down and having a coffee at a nearby café is how this loop ends. Ma
 - ⚠️ You dislike crowds — Ilchulbong is one of the busiest spots on Jeju
 - ⚠️ You're here for canola but visiting **out of season**
 
-## Before you go
+## Checklist before you leave
 
 - **Canola season** — late March to April. Bloom timing varies by year; check.
 - **Admission, hours, closing day** — I couldn't confirm them this time. Check the official notice or the map before you go.
 - **Route** — see the canola at Gwangchigi Beach, then up Ilchulbong, then coffee on the way down. A comfortable half-day.
 
-> Based on a personal visit. Admission, hours, the closing day, and canola bloom timing all change — check again before you go.
+> Written up from a trip I made myself. Admission, hours, the closing day, and canola bloom timing can all shift year to year, so it's worth confirming again before you set out.

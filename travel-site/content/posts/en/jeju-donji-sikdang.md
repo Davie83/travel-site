@@ -18,20 +18,22 @@ info:
   - In season|Hanchi squid **summer** · Yellowtail **winter**
 ---
 
-When you plan a seafood meal on Jeju, the first thing to check is not the restaurant — it's **the calendar**. This place is a good example of why.
-
 I found it by searching for *hanchi hoedeopbap* while driving past, went in on a whim, and ended up with one of the better lunches of the trip.
+
+## Check the season before anything else
+
+When you plan a seafood meal on Jeju, the first thing to check is not the restaurant — it's **the calendar**. This place is a good example of why.
 
 > **Read this first** — *Hanchi* (a squid caught around Jeju) is a **summer** catch. If the raw squid rice bowl is what you came for, check before you go. In winter it may simply not be on the menu.
 
-## The same restaurant, different in each season
+The same restaurant serves a different table depending on the month.
 
 | Season | What people order |
 |---|---|
 | Summer | Hanchi hoedeopbap, hanchi *mulhoe*, *jari* mulhoe |
 | Winter | Yellowtail (*bangeo*) |
 
-Going in summer, the tables around me were mostly ordering **mulhoe** — a chilled, tangy raw-fish soup that Jeju does particularly well. Locals told me the winter yellowtail here is worth a trip on its own. I haven't tried it, so treat that as hearsay rather than a recommendation.
+Going in summer, the tables around me were mostly ordering **mulhoe** — a chilled, tangy raw-fish soup that Jeju does particularly well. Locals told me the winter yellowtail here is worth a trip on its own. I haven't tried it, so treat that as hearsay rather than a recommendation, and one more reason to come back.
 
 ## Hanchi hoedeopbap — the lettuce is the point
 
@@ -69,4 +71,4 @@ People rave about the **fried hanchi**. I'll order it next time. Passing that al
 - **Language** — this is a local restaurant, not a tourist one. A translation app is worth having open. Pointing at the menu works fine.
 - **Closing time** — 9:00 PM, and holidays may differ.
 
-> Based on a personal visit. Prices, hours, and which fish is available all change with the season — check before you travel.
+> Written up after my own visit. Prices, hours, and which fish is available all change with the season — check before you travel.

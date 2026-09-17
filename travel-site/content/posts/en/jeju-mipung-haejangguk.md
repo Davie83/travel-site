@@ -16,19 +16,17 @@ info:
   - Hours · prices · closing day|Not confirmed (changes often — please verify)
 ---
 
-I'm on Jeju for work three or four times a year, and every trip I set aside one meal for **haejang-guk** — hangover soup.
+I don't naturally reach for aggressive, punchy flavours — except at this one place.
 
-Jeju hangover soup splits into two camps. One is *gosari haejang-guk*, thick with bracken fern and buckwheat flour. The other is the fiery, clear-red kind. The fern version isn't my thing, so I skip it.
-
-I've worked through several of the fiery ones, and **Mipung is my first pick.** (Sanji Haejang-guk is second.)
-
-## What kind of soup it is
-
-The broth is fiery. As in the photo, it's loaded with spring onion, with bean sprouts, glass noodles and ground perilla seed on top. Stir in the dab of seasoning paste sitting on top and it gets hotter.
+## Not usually a fan of punchy broths, but
 
 Honestly, I don't naturally go for punchy, aggressive flavours. But this place hits a spot where the heat and that sharp edge overlap just right, and that combination is what makes me think of it whenever I'm back on Jeju.
 
-I'd put the heat at about 4 out of 5.
+I'm on Jeju for work three or four times a year, and every trip I set aside one meal for **haejang-guk** — hangover soup. Jeju hangover soup splits into two camps. One is *gosari haejang-guk*, thick with bracken fern and buckwheat flour. The other is the fiery, clear-red kind. The fern version isn't my thing, so I skip it.
+
+I've worked through several of the fiery ones, and **Mipung is my first pick.** (Sanji Haejang-guk is second.)
+
+The broth is fiery. As in the photo, it's loaded with spring onion, with bean sprouts, glass noodles and ground perilla seed on top. Stir in the dab of seasoning paste sitting on top and it gets hotter. I'd put the heat at about 4 out of 5.
 
 ## You load it with grated garlic
 
@@ -54,4 +52,4 @@ Still, a **Jeju-style hangover soup is worth trying once**. It's a different ani
 - **Hours · prices · closing day** — I couldn't confirm them this time. Hangover soup places often open before dawn; check the map or call before you go.
 - **How to eat it** — mix the rice into the soup or eat it separately, whichever you like. Go heavy on the grated garlic.
 
-> Based on a personal visit. The heat rating and any judgement of taste are personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.
+> Written up after several visits. The heat rating and any judgement of taste are personal preference. Hours, prices, and the closing day I couldn't confirm — check the venue's details once more before you go.

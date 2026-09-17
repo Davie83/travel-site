@@ -18,9 +18,9 @@ info:
   - Booking · prices · hours · closing day|Not confirmed (check before you go)
 ---
 
-It's a hanwoo (Korean beef) house between Itaewon and Hannam-dong. It walks you through "what hanwoo is" one cut at a time, so I wanted to write it up.
+It's a hanwoo (Korean beef) house between Itaewon and Hannam-dong. Rather than just grilling it, this place serves hanwoo cut by cut, in order — a way of relearning "what hanwoo actually is" from scratch.
 
-## Tasting hanwoo cut by cut
+## Tasting hanwoo cut by cut, side by side
 
 The number of cuts and the price change with the set. Cuts with different grain and fat — skirt, flank, sirloin and the like — come out in order. Eating them back to back in one sitting, you end up comparing **how the chew, the richness of the fat, and the beefy aroma differ from cut to cut**.
 
@@ -34,7 +34,7 @@ Behind the counter, staff grill each piece **over charcoal**, bring it to the ri
 
 The cooking differs a little by cut. Some are grilled with just salt; others are **marinated** first. Vegetables — cabbage, shiitake, garlic — are grilled on the same fire and served alongside.
 
-## A clean room
+## A quiet, clean counter
 
 A dark-wood counter with lattice screens. It's a calm seat rather than a loud grill house, and with little smoke or smell, there's less worry about it soaking into your clothes.
 
@@ -48,7 +48,13 @@ The clean space lifts the taste one more notch. Dinner that isn't heavy, but is 
 - The price depends on the **set (number of cuts)**. Check whether booking is possible, and the prices, before you go.
 - It's around Itaewon and Hannam — close to Itaewon and Hangangjin stations on subway line 6.
 
-## Who it's for
+## Booking, price, and who it's for
+
+**Booking** — it's counter-focused with limited seats, so booking ahead is the safe move.
+
+**Prices · sets** — the price is split by the number of cuts served. Check a set that fits your budget in advance.
+
+**Hours · closing day** — I couldn't confirm them this time. Check the map or their social media before you go.
 
 - ✅ Anyone who wants to eat hanwoo **cut by cut, comparing** as they go
 - ✅ Anyone who wants to leave the grilling to someone else and **sit back** with conversation and wine
@@ -57,10 +63,4 @@ The clean space lifts the taste one more notch. Dinner that isn't heavy, but is 
 - ⚠️ Anyone whose aim is to eat their fill — it's a course, more tasting than volume
 - ⚠️ Anyone after a cheap meal — a hanwoo course by cut carries a price
 
-## Before you go
-
-- **Booking** — it's counter-focused with limited seats, so booking ahead is the safe move.
-- **Prices · sets** — the price is split by the number of cuts served. Check a set that fits your budget in advance.
-- **Hours · closing day** — I couldn't confirm them this time. Check the map or their social media before you go.
-
-> This post is a write-up of a visit in person. The format and taste are a matter of personal preference, and I couldn't confirm the booking, prices, sets, hours, or closing day — please check the shop's current information once more before you go.
+> Written up after visiting in person. Impressions of the format and taste carry personal preference, and I couldn't confirm the booking, prices, sets, hours, or closing day — check the shop's current information once more before you go.

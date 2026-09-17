@@ -22,7 +22,7 @@ info:
 
 A wood-fired whole-chicken place in Goyang. I went once on a hot summer day.
 
-## Whole chicken over a wood fire
+## The wood-fired chicken I think of every summer
 
 It's the classic Korean **rotisserie chicken**, except here it's cooked over a **wood fire**. As in the photo, one bird is spatchcocked and grilled whole, then set over rice.
 
@@ -30,7 +30,7 @@ Walk in and **several staff are working the wood fire, turning chickens as they 
 
 The big room was full, and people were happily waiting even on that hot day. It's the kind of place that **comes back to mind every summer.**
 
-## The skewers and the fish-cake broth
+## The skewers are just a side act
 
 The **fish-cake broth** that comes with it is a slightly odd thing to find at a chicken house, but it was fine.
 
@@ -38,7 +38,7 @@ I saw **chicken skewers** on a lot of nearby tables, so I ordered one — chicke
 
 ![Gochujang-glazed chicken skewers — grilled with spring onion and sesame](/assets/img/goyang-sinhodeung-kkochi.jpg)
 
-## For visitors
+## What foreign visitors should know
 
 - **Jangjak-gui is a whole chicken grilled over a wood fire.** Think of it as the wood-fired version of the "rotisserie chicken" common in Korea. **It is not spicy.**
 - Staff grill and serve it, so you don't need to know how. It comes set over rice — just pull it apart and eat.
@@ -46,16 +46,8 @@ I saw **chicken skewers** on a lot of nearby tables, so I ordered one — chicke
 - The **chicken skewers** carry a gochujang glaze, so they're **mildly spicy.** If heat is a problem, the whole chicken alone is plenty.
 - **Draft beer** pairs well with it. A fish-cake broth comes alongside too.
 - It's **away from central Seoul.** A rental car makes it an easy stop; on public transport alone it's a hassle.
-
-## Who it's for
-
-- ✅ Anyone who likes **wood-fired or rotisserie whole chicken** — a good fit if you want a chicken dish that isn't spicy
-- ✅ Anyone who's been put off by dry chicken breast — here the breast is tender too
-- ✅ Anyone who wants an easy meal with a **glass of draft beer**
-- ✅ Anyone with plans around Goyang or Ilsan, or **driving a loop of Seoul's outskirts**
-- ⚠️ Anyone trying to get here from central Seoul on public transport alone — it's out of the way
-- ⚠️ A meal-time visit in high summer — the room is large but there can still be a wait
-- ⚠️ Anyone coming for the skewers — the wood-fired whole chicken is the main event here
+- ✅ Good if you like wood-fired or rotisserie whole chicken, you've been put off by dry chicken breast, you want an easy meal with a glass of draft beer, or you have plans around Goyang or Ilsan
+- ⚠️ Reconsider if you're relying on public transport from central Seoul, or you're coming for the skewers — the wood-fired whole chicken is the main event here. Even the large room can have a wait at meal times in high summer
 
 ## Before you go
 

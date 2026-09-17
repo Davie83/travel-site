@@ -20,6 +20,14 @@ info:
 
 A café inside a restored *hanok* — a traditional Korean house — in the Ikseon-dong alleys. The short version: **decide what you're going for before you go.**
 
+## The wait is how this dessert works
+
+Soufflé pancakes are **cooked to order, after you sit down.** They cannot be made in advance — a soufflé that has been sitting collapses.
+
+So the delay isn't the kitchen being slow; it's the mechanics of the dish itself. The review data further down makes that plain.
+
+**Don't slot this into a tight itinerary.** Budget sitting-and-waiting time deliberately.
+
 ## The soufflé pancakes
 
 Honestly: **fine.**
@@ -47,15 +55,7 @@ You can see what this café actually sells in the words its 852 Google reviewers
 
 Waiting, photos and the building all rank above any discussion of flavour. That's the honest profile of the place.
 
-## The wait is built into the dessert
-
-Soufflé pancakes are **cooked to order, after you sit down.** They cannot be made in advance — a soufflé that has been sitting collapses.
-
-So the delay isn't the kitchen being slow; it's how this dessert works. That's why "wait" appears 40 times in the reviews.
-
-**Don't slot this into a tight itinerary.** Budget sitting-and-waiting time deliberately.
-
-## Who this is for
+## Bottom line
 
 - ✅ You want to spend an hour inside a hanok in the middle of Seoul
 - ✅ You're here for the photographs
@@ -72,4 +72,4 @@ As a restaurant, it underwhelms. **As a hanok café, it works.**
 - **Narrow alleys** — the approach is tight. Awkward with large luggage or a pushchair.
 - **Ordering** — a photo menu and pointing will get you there.
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(changes often — please verify)**.

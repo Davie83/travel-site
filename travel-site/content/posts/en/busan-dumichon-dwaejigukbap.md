@@ -42,9 +42,9 @@ Look at the photo. None of it is decoration.
 
 The rice comes in its own bowl. **Tip it into the soup or eat it separately** — both are normal.
 
-## Open until midnight
+## Its real strength: it's open until midnight
 
-This is the practical reason to note the place. **It runs until 12:00 AM.**
+**It runs until 12:00 AM.**
 
 Busan keeps late hours, and a real sit-down meal after 10pm is harder to find than you'd think. A pork soup place open this late is genuinely useful.
 
@@ -63,20 +63,13 @@ That's fair. So, plainly:
 
 Another reviewer noted it seems to be **"a restaurant more locals than visitors go to."** It isn't dressed up for tourists — it's where the neighbourhood eats. If that's what you want, this fits.
 
-## Practical notes
+## Before you go
 
 - **No parking lot** — you'll be hunting for a space nearby if driving
 - **Lunch is busy**
 - **Not spicy.** The green chilli is served separately, so leave it out if you prefer
 - **Ordering** — a short menu; pointing works fine
-
-## Who this suits
-
-- ✅ You want to try Busan's signature dish
-- ✅ You prefer a clear broth to a rich one
-- ✅ You need a real meal late at night
-- ✅ You can't eat spicy food — the broth is mild
-- ⚠️ Not a destination restaurant; Dongnae has many options
-- ⚠️ No parking
+- ✅ Good if you want to try Busan's signature dish, prefer a clear broth to a rich one, need a real meal late at night, or can't eat spicy food
+- ⚠️ Not a destination restaurant — Dongnae has many options, and there's no parking
 
 > Based on a personal visit — though a brief one, so this write-up combines that impression with details confirmed from Google reviews. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.

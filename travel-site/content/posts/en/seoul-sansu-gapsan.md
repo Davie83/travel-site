@@ -20,25 +20,21 @@ info:
   - Price · hours · closing day|Not confirmed (check before you go)
 ---
 
-A sundae-guk place that has been in Euljiro a long time. You come here to put a bowl of the soup and a plate of well-boiled offal on the table together.
+## The smell, first
+
+Being honest: open the door and **a deep pork smell hangs in the room**. It's a place that simmers offal for a long time, so that comes with it, and if you're not used to it, it can read as "off." Worth knowing before you go.
+
+To me, that smell is — with only slight exaggeration — fragrant. It's the same thing as the flavour of the broth and the offal here. If you're sensitive to smells, a cleaner, franchise-style sundae-guk place with a plain broth might suit you better.
 
 ## Sundae-guk and a mixed offal plate, together
 
-The sign says sundae-guk, but the real draw here is the **modeum suyuk** — the mixed boiled plate. One plate carries blood sausage (glutinous-rice sundae), head meat, liver, lung, pig stomach, ear and other cuts, laid out by type. They're boiled well — not dry — and each part has its own texture.
+A sundae-guk place that has been in Euljiro a long time. The sign says sundae-guk, but the real draw here is the **modeum suyuk** — the mixed boiled plate. One plate carries blood sausage (glutinous-rice sundae), head meat, liver, lung, pig stomach, ear and other cuts, laid out by type. They're boiled well — not dry — and each part has its own texture.
 
 ![The sundae-guk bowl and a plate of mixed offal](/assets/img/seoul-sansu-gapsan-sundaeguk.jpg)
 
 The sundae-guk broth is milky, made with perilla seed. Have it plain and gentle, or season it with salted shrimp and stir in the chilli paste for a hotter bowl. The suyuk is dipped in salted shrimp or the chilli sauce.
 
-## The room is small, and lately there's always a wait
-
-It isn't a big place. It used to be easy to walk into; now there's a wait most times I go. Avoid the meal-time rush (evenings especially), or put your name down and walk the block while you wait.
-
-## For visitors — the smell, first
-
-Being honest: open the door and **a deep pork smell hangs in the room**. It's a place that simmers offal for a long time, so that comes with it, and if you're not used to it, it can read as "off." Worth knowing before you go.
-
-To me, that smell is — with only slight exaggeration — fragrant. It's the same thing as the flavour of the broth and the offal here. If you're sensitive to smells, a cleaner, franchise-style sundae-guk place with a plain broth might suit you better.
+## For visitors
 
 - **Sundae-guk** is a soup of pork bone and offal broth with **sundae** (a sausage of cellophane noodle, glutinous rice and pig's blood stuffed in intestine casing) and cuts of meat.
 - **Modeum suyuk** is a plate of boiled cuts gathered by type — liver, lung, pig stomach, head meat, ear and so on. If offal is new to you, start with the head meat and the sundae.
@@ -57,6 +53,8 @@ To me, that smell is — with only slight exaggeration — fragrant. It's the sa
 - ⚠️ Anyone who needs to eat and leave quickly — there's often a wait now
 
 ## Before you go
+
+It isn't a big place. It used to be easy to walk into; now there's a wait most times I go. Avoid the meal-time rush (evenings especially), or put your name down and walk the block while you wait.
 
 - **Ordering** — a bowl of sundae-guk with a plate of modeum suyuk is how to eat here properly. For two, one suyuk plate and one soup is plenty.
 - **Seasoning** — saeujeot, a little at a time. The chilli paste only if you want it hot.

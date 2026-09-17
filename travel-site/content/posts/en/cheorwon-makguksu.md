@@ -20,7 +20,7 @@ info:
 
 *Makguksu* is a Gangwon province noodle dish made from buckwheat. It comes two ways — **bibim** (mixed with a chilli sauce, no broth) and **mul** (in cold broth). This is about the bibim version.
 
-## The noodles are the point
+## Let me start with the noodles
 
 Start there, because that's what stayed with me. **The texture is very good.**
 
@@ -58,12 +58,7 @@ A bowl of cold buckwheat noodles alone is light. With two or more people, add th
 - **Busy** — 1,743 reviews for a countryside noodle house. Expect a wait at weekend lunch.
 - **Mul vs bibim** — I had the bibim. Some regulars prefer the cold-broth version; both are standard.
 - **Language** — rural restaurant, no English menu expected.
-
-## Who this suits
-
-- ✅ You want to taste **buckwheat noodles themselves**, not a sauce
-- ✅ You prefer restrained seasoning
-- ✅ Lunch on a Cheorwon or Hantangang day
-- ❌ You want a bold, heavily sauced cold noodle
+- ✅ Good if you want to taste **buckwheat noodles themselves** rather than a sauce, prefer restrained seasoning, or need lunch on a Cheorwon or Hantangang day
+- ❌ Less good if you want a bold, heavily sauced cold noodle
 
 > Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.

@@ -76,7 +76,7 @@ The harder part is after you arrive. **The sites are scattered and public transp
 - A car is easiest
 - Without one, **taxis or a day tour** are the realistic options. Tours from Busan and Daegu are common and often include Bulguksa and Seokguram together
 
-Gyeongju is also known for **galbi** — grilled beef short ribs. It would be a waste to come only for the ruins. I haven't eaten widely enough here to recommend a specific restaurant honestly, so I'm not going to name one. When I go back I'll write it up separately.
+Gyeongju is also known for **galbi** — grilled beef short ribs. It would be a waste to come only for the ruins. I haven't eaten widely enough here to recommend a specific restaurant honestly, so I'm not going to name one. When I go back I'll write it up separately. If you're chasing seafood elsewhere in Gyeongsang, I've also written up [Yongwon Hoetjip](/en/posts/jinhae-yongwon-hoetjip) in Jinhae for its fresh cod soup — it's a separate trip from here, not a day-trip pairing.
 
 ## Who this suits
 

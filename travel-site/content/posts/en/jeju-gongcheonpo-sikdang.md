@@ -53,7 +53,7 @@ There is also **jari mulhoe**, made with a small reef fish sliced bones and all 
 
 Gongcheonpo is on the south-east coast, **between Seogwipo and Seongsan.**
 
-So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or the other way), this is a natural lunch stop. Slotting it into a leg you are already driving beats making a special trip.
+So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or the other way), this is a natural lunch stop. Slotting it into a leg you are already driving beats making a special trip. If your Seogwipo trip stretches out to the west side too, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth a separate afternoon.
 
 ## Notes for visitors from abroad
 

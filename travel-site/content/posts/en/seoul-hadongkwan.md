@@ -51,7 +51,7 @@ Reviewers note food arriving **within a minute of ordering.** It is fast.
 
 The flip side: **service is brisk and impersonal.** This is not a place for a warm welcome — it's a working old restaurant where you eat and go.
 
-Closing time I could not confirm. If you plan to go late, call ahead.
+Closing time I could not confirm. If you plan to go late, call ahead. Since this branch shuts by mid-afternoon, if you're staying in Yeouido through the evening, [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam) nearby is a good way to cover dinner with a bowl of pho.
 
 ## On price — being straight with you
 

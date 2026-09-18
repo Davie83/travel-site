@@ -44,5 +44,6 @@ But **I'm not sure the "well known nearby" reputation justifies a special trip.*
 - **Getting there** — Incheon. Check the location on the map before you go.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Ordering** — most people get one egg-wrapped gimbap each. Add janchi-guksu if you want something with broth.
+- **More of Incheon** — if you're heading out to Yeongjong Island, [Paradise City Cimer](/en/posts/incheon-paradise-cimer) fits into the same Incheon trip.
 
 > Based on a personal visit. Any judgement of taste is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.

@@ -54,5 +54,6 @@ The words that recur across its 737 Google reviews are **sundae-guk (66), cauldr
 - ❌ You're very sensitive to organ meat — order the soup only
 - **Where** — Haengan-myeon, just outside Buan town, on the way to the Byeonsan peninsula. No English menu expected; pointing and a translation app work fine.
 - **Takeaway** available.
+- **Elsewhere in Jeolla** — over in Gwangju, Jeonnam, I've also written up [Hyeongje Songjeong Tteok-galbi](/en/posts/gwangju-hyeongje-tteokgalbi).
 
 > Based on a personal visit and my own tasting. Prices and hours change often, so anything uncertain here is marked **(changes often — please verify)**.

@@ -80,6 +80,7 @@ There is a technique, and it's worth knowing.
 - **Parking** is mentioned 17 times in reviews — check ahead (changes often — please verify)
 - **Dinner starts at 5:30 PM.** Lunch hours need confirming
 - **Delivery** is available
+- **Dessert** — being in Dohwa-dong, finishing with coffee at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a cafe in a converted old house, is an easy add-on
 - **Getting there** — between **Gongdeok** and **Mapo** stations. Gongdeok connects to the Airport Railroad, so it's easy from Incheon Airport
 
 ## Who this suits

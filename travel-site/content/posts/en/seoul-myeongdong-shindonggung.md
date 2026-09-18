@@ -54,6 +54,8 @@ Same address, same phone number, same restaurant. Korean businesses often regist
 
 The address is **43 Myeongdong 9-gil, Jung-gu**. It sits between Myeongdong and Euljiro-ipgu stations, so it is a short walk from either. It's a narrow street in the middle of Myeongdong, though, so don't expect to park — take the subway. The 24-hour schedule can also shift on Korean public holidays, so if you're going in the middle of the night, a quick phone check is worth it.
 
+The same broad Myeongdong area also has [Maknae Hoejip](/en/posts/seoul-maknae-hoejip) and its weekday-lunch-only sashimi set, so a day-and-night itinerary around this neighbourhood is easy to build.
+
 ## Takeout works
 
 We took an order back with us and the charcoal aroma and marinade held up fine. Useful if your hotel is nearby, or if you would rather eat in your room than sit in a restaurant at 1am.

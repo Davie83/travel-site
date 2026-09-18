@@ -55,5 +55,6 @@ I saw **chicken skewers** on a lot of nearby tables, so I ordered one — chicke
 - **Ordering** — the wood-fired whole chicken first. Skewers as a side at most. Draft beer and the fish-cake broth come with it.
 - **Wait** — in the summer peak and at meal times, even a large room can be full.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Elsewhere in Gyeonggi** — I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) on Yeongjong Island in Incheon. It's a proper drive from Goyang, not a same-day pairing.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

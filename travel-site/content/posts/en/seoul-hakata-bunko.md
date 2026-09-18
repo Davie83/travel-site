@@ -74,6 +74,7 @@ This shop has **held the same spot for over 20 years**. So the fair way to put i
 - ✅ You enjoy adding your own garlic at the table
 - ✅ You need a real meal late at night or in the early hours
 - ✅ You cannot handle spicy food
+- ✅ You want a short break with cats somewhere in Hongdae before or after — [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae), by exit 9 of Hongik Univ. Station, is an easy walk
 - ⚠️ The broth is rich and some find it salty
 - ⚠️ Thin noodles soften quickly, so start eating right away
 

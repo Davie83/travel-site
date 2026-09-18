@@ -55,6 +55,7 @@ The practical strength of this place.
 - **Open Sundays too** (2:00 to 10:00 PM). Old-school Seoul drinking spots that open on Sunday are not common
 - **Saturday starts at 2:00 PM.** Do not go in the morning
 - **2 to 5 minutes on foot from Jonggak station exit 4.** It fits a Gwanghwamun or Insadong day
+- Want a solid dinner first? [Sigoljip](/en/posts/seoul-sigoljip), for LA galbi in Euljiro's rib alley, is in the same Jongno area and works well as a first stop before this one
 
 Sources disagree on the weekday opening time — some say 9:30 AM, others 11:00 AM. If you are planning an early drink, call first.
 

@@ -33,7 +33,7 @@ There's a small bakery selection too, good to pair with the coffee.
 
 **It's reasonably priced for hand-drip coffee, but there wasn't much acidity.** I personally lean toward coffee that's both rich and bright/acidic, so that was a small letdown for me. That said, the taste beat the usual franchise chain at the same price point, so it felt like solid value overall.
 
-Worth a stop if you have errands nearby.
+Worth a stop if you have errands nearby. If you're still in Gangnam come evening, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae), also around Teheran-ro, makes a filling way to close out the day.
 
 ## Good for you if
 

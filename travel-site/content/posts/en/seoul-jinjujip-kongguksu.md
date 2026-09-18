@@ -68,7 +68,7 @@ So I would put it this way. **If you are willing to give up a little,** you now 
 - **It is in basement level 1** of a building called the Yeouido Department Store. Despite the name it is an ageing commercial block, not a modern mall. Go downstairs
 - **Closed Sundays.** Saturday ends at 7 PM
 - **There is a queue.** Lunchtime certainly, and reports of a ten-minute wait even around 3 PM
-- **It is a summer dish.** Many shops run kongguksu seasonally, so check first if you are visiting in winter
+- **It is a summer dish.** Many shops run kongguksu seasonally, so check first if you are visiting in winter. Out of season, [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam), also in Yeouido, is a solid pho lunch instead
 
 ## To sum up, go if
 

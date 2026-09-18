@@ -32,7 +32,7 @@ The sides come with a pot of doenjang stew and an assortment of namul and kimchi
 
 ## After Sansu Gapsan, a second stop
 
-After drinks nearby, I came by as a second stop for the first time in a while. We had our first round — boiled offal and a drink — at **Sansu Gapsan**, an old sundae-guk (blood sausage soup) place in Euljiro, then walked over here. Coming back after a long gap, the seats are still comfortable and the worn-alley feel of Euljiro 3-ga is unchanged.
+After drinks nearby, I came by as a second stop for the first time in a while. We had our first round — boiled offal and a drink — at [Sansu Gapsan](/en/posts/seoul-sansu-gapsan), an old sundae-guk (blood sausage soup) place in Euljiro, then walked over here. Coming back after a long gap, the seats are still comfortable and the worn-alley feel of Euljiro 3-ga is unchanged.
 
 Already full, I skipped the **gyeranmari** this place is known for and ordered only the **LA galbi**.
 

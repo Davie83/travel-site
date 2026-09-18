@@ -62,5 +62,6 @@ The resort sits on a hill looking down over that shoreline. Step onto the balcon
 - **Getting there** — 1798 Cheongpung-ho-ro, Cheongpung-myeon, Jecheon. Right beside the Cheongpung Cultural Heritage Complex, about 30 minutes by car from central Jecheon.
 - **Rooms** — book with the age of the place in mind. The thing to check is whether you're getting a lake-facing room.
 - **Bundling** — Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car → Danyang (Dodamsambong, Mancheonha Skywalk) makes a natural two-day loop.
+- **Meals** — [Cheongpung Golden Tteok-galbi](/en/posts/jecheon-cheongpung-golden-tteokgalbi) is just down the road, good for a filling meal with a dozen-plus side dishes.
 
 > Written after my own stay. Facility conditions and the operation of nearby attractions can shift, so it's worth checking again before you book.

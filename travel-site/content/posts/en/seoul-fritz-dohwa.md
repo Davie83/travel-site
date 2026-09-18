@@ -56,6 +56,7 @@ Through the tiled gate there's a small yard and a short flight of steps. The bri
 - **Location** — 17 Saechang-ro 2-gil, Mapo-gu, Seoul. Walking distance from Mapo Station.
 - **Ordering** — coffee is the headline, but bread and an ade on their own are fine. Coming for dessert, one or two pastries and a drink is enough.
 - **Seating** — a popular branch; it gets crowded on weekends and afternoons.
+- **A meal first** — if you want something substantial before dessert, [Mapo Yangji Seolleongtang](/en/posts/seoul-mapo-yangji-seolleongtang), a long-time regular spot near the station, is an easy walk too.
 - **Price · hours · closing day** — not confirmed. Check the map or call before you go.
 
 > Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally), and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

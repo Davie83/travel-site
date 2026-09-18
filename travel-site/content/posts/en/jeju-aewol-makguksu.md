@@ -66,6 +66,7 @@ It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which
 - **About 30 minutes by car from Jeju Airport** — good as a first or last meal of the trip
 - Walk the **coastal road** or move straight to a cafe afterwards
 - The Handam coastal walking path is close by
+- Craving something else in the same Aewol-eup area? [Jejunagi](/en/posts/jeju-jejunagi)'s hitsumabushi takeout isn't far
 
 ## For international visitors
 

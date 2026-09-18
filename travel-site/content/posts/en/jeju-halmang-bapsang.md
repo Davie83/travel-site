@@ -75,6 +75,7 @@ It sits **directly in front of Moseulpo Port**, at the southwestern tip of Jeju.
 - The **ferry to Marado** leaves from nearby Unjin Port
 - In spring, many people stop here after seeing the **canola flowers** at Sanbangsan
 - In winter, Moseulpo is known for **amberjack** (November to February)
+- In flower season, quite a few people push a little further west to [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon and make a day of both
 
 It fits well as lunch on a day spent circling western Jeju.
 

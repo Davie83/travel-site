@@ -69,7 +69,7 @@ For a bigger group there is **eobok-jeongban**, a Pyongyang-style platter of sli
 - **Yeouido main branch** — **closed Saturday and Sunday.** Weekdays from 11:00 AM
 - **National Assembly branch** — open Saturdays, closes 9:00 PM
 
-**If you're going at the weekend, go to the Assembly branch.** Yeouido is a finance district and much of it shuts down on weekends, so this catches people out.
+**If you're going at the weekend, go to the Assembly branch.** Yeouido is a finance district and much of it shuts down on weekends, so this catches people out. If you're near that branch, it's worth keeping [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam) in mind for a pho lunch on another day.
 
 ## Your kind of bowl if
 

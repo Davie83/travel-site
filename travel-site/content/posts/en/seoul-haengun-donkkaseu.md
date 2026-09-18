@@ -55,6 +55,7 @@ The main thing to know is that this is a different dish from Japanese *tonkatsu*
 - ✅ You want both **value** and **volume**
 - ✅ You have plans near Hanyang University or Wangsimni
 - ✅ You can't eat spicy food — the cutlet itself isn't spicy
+- ✅ You're mixing up your Seoul trip with something completely different elsewhere — [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae) is a separate outing across town, not a nearby stop from here
 - ⚠️ You have a small appetite — the set is genuinely a lot
 - ⚠️ You're expecting a thick Japanese katsu — this is a different thing
 

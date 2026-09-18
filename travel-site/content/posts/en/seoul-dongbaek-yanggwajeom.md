@@ -71,5 +71,6 @@ As a restaurant, it underwhelms. **As a hanok café, it works.**
 - **Opens 9:00 AM** — early for this area. **Arriving at opening is the simplest way to avoid the queue.**
 - **Narrow alleys** — the approach is tight. Awkward with large luggage or a pushchair.
 - **Ordering** — a photo menu and pointing will get you there.
+- **Carrying on to dinner** — [Sigoljip](/en/posts/seoul-sigoljip), in Euljiro's rib alley, is within walking distance if you want LA galbi to close out the day.
 
 > Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(changes often — please verify)**.

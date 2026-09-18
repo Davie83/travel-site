@@ -56,5 +56,6 @@ The ticket comes with a time limit. **Sauna only is four hours; add the spa (poo
 - **Getting there** — Yeongjong Island, Jung-gu, Incheon, inside the Paradise City resort. From Incheon Airport Terminal 1, take the maglev, a shuttle or a taxi.
 - **Tickets** — a sauna ticket (4 hours) and a spa-plus-sauna ticket (6 hours). The outdoor pool runs seasonally, so check before booking.
 - **What to bring** — swimwear is required for the spa and pool zone. The sauna zone provides a gown and towels.
+- **A meal elsewhere in Incheon** — if your trip takes you into the city, [Cheonghae Gimbap](/en/posts/incheon-cheonghae-gimbap) is an easy, low-key snack-bar stop.
 
 > Written up after my own visit — prices, hours and whether the outdoor pool is running shift often, so it's worth a check on the official booking page before you go.

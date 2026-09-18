@@ -53,7 +53,7 @@ Pork stir-fried in a gochujang sauce with plenty of onion — a familiar, no-mis
 - ⚠️ You're expecting a big, clean restaurant — this is an old market diner
 - ⚠️ You want a slow, course-paced meal — this is more eat-and-go
 
-**Getting there** — Jung-gu, Seoul, inside Namdaemun Market. It's back in an alley, so check the name on the map before you go.
+**Getting there** — Jung-gu, Seoul, inside Namdaemun Market. It's back in an alley, so check the name on the map before you go. If it's a weekday lunch, it's worth weighing this against [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), a sashimi set place in the same market.
 
 **Ordering** — one of spicy pork or spicy squid, plus a banban if you want it. Rice comes per person.
 

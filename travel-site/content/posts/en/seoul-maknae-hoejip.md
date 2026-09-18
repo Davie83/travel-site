@@ -43,5 +43,6 @@ If you're in the mood for a light, casual plate of sashimi, this place will more
 - The set requires a **minimum of 2 people**, and stops selling after 2:00 PM. It's not offered at all on weekends.
 - With sashimi, braised fish, and a stew all in one meal, it's an easy, approachable way to try raw fish even if it's your first time.
 - **Location** — 2 Namdaemunsijang 2-ga-gil, Jung-gu, Seoul, 2F, about a 3-minute walk from Hoehyeon Station (Line 4) — easy to combine with a stroll through Namdaemun Market.
+- It's all **the same Myeongdong area**, so pairing this with [Myeongdong Gyoja](/en/posts/seoul-myeongdong-gyoja), the kalguksu place near Exit 8, works well too.
 
 > Put together after a couple of return visits. The sashimi set only runs at weekday lunch for two or more, so double-check that condition before you go.

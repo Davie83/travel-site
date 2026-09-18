@@ -49,5 +49,6 @@ Terarosa is well known as a roastery that started in Gangneung. I had a **Cloud 
 - **Location** — 217 Teheran-ro, Gangnam-gu, Seoul, 1F Orange Planet. A short walk from Centerfield toward Yeoksam Station.
 - **Station** — About a 5-minute walk from Yeoksam Station (Line 2).
 - **Hours** — Weekdays 7 AM-8 PM, Sat 9 AM-8 PM, Sun & holidays 9 AM-6 PM.
+- **Nearby** — If you want something filling before coffee, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is on the same Teheran-ro stretch.
 
 > Written up after visiting and drinking there myself. Prices and hours can shift, so it's worth checking again before you go.

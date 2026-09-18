@@ -56,5 +56,6 @@ The main event is mungtigi, but the **yukjeon** — beef sliced thin, coated in 
 - **Reservations** — the place is small, so booking is the safe move.
 - **Ageing method** — whether it's same-day or 1–2 days isn't confirmed. Ask when you visit if you're curious.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Nearby** — for a coffee to cut through the meat afterward, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) is walkable, in the same Dohwa-dong neighborhood.
 
 > Written up after eating there myself. Impressions of taste and texture can vary from person to person. The ageing method, hours, prices, and closing day I couldn't confirm — check the venue's details once more before you go.

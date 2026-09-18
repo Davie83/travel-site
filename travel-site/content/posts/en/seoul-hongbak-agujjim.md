@@ -68,6 +68,7 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 - ✅ You want fish that tastes of fish, not of sauce
 - ✅ You are two or more and can share a platter
 - ✅ You cannot handle spicy food (order the suyuk)
+- ✅ You want dessert and coffee to follow — [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), also in Mapo, isn't far
 - ⚠️ Around 30,000 won a head — not a budget meal
 - ⚠️ The skin has a slippery texture some people dislike
 - ⚠️ Closed Sundays and between 3 and 5 PM

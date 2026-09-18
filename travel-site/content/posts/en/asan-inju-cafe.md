@@ -51,5 +51,6 @@ Approach it as a restaurant and it disappoints; approach it as a **hanok cafe** 
 - **Transport** — a rental car is assumed. There's a large car park in front.
 - **Ordering** — pick bread at the display and pay, coffee separately at the counter. Buying a few to eat on the road works fine.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), which looks out over Cheongpung Lake.
 
 > This is a record I kept after visiting in person. Taste is personal, and since I couldn't pin down the prices, hours, or closing day, please double-check the shop's details before you head out.

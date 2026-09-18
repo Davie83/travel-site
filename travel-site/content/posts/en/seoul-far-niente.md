@@ -58,5 +58,6 @@ Order above a set amount and you can eat in a private room. It's good for when y
 - **Getting there** — Sinsa-dong, Gangnam-gu, Seoul. Check the branch and the sign on the map before you go.
 - **Booking** — recommended for evenings and weekends. The private room has a minimum-spend condition, so ask ahead.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **If Korean food sounds better instead** — [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is another option in the same Gangnam area.
 
 > Written up from a visit of my own. Judgements on the food and the plating are personal taste, and hours, prices and the private-room condition can change — check with the restaurant once more before you go.

@@ -56,6 +56,8 @@ The clean space lifts the taste one more notch. Dinner that isn't heavy, but is 
 
 **Hours · closing day** — I couldn't confirm them this time. Check the map or their social media before you go.
 
+If your trip also takes you to Hongdae on a different day, [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae) is another spot I visited elsewhere in Seoul — it's not close to Itaewon, so plan it as a separate outing.
+
 - ✅ Anyone who wants to eat hanwoo **cut by cut, comparing** as they go
 - ✅ Anyone who wants to leave the grilling to someone else and **sit back** with conversation and wine
 - ✅ Anyone who dislikes meat smell in their clothes — it's relatively clean

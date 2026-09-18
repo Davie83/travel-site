@@ -29,7 +29,7 @@ I assumed the one up on Namsan was the original. It is not. There are two restau
 
 **The view is far better at the Namsan Tower branch.** The main branch is much easier to reach. If you just want lunch while you are in Myeongdong, come here. One more difference: **the Namsan Tower branch does not serve alcohol. The main branch does.**
 
-What this branch actually serves is a **bibimbap built on seasoned vegetables**, balanced rather than punchy. Mild and clean-tasting.
+What this branch actually serves is a **bibimbap built on seasoned vegetables**, balanced rather than punchy. Mild and clean-tasting. If you're after another light lunch nearby, [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), the weekday-lunch-only sashimi set on Namdaemun Market's 2nd floor, is another option in the same broad Myeongdong area.
 
 ## What arrives
 

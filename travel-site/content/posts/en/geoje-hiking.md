@@ -77,5 +77,6 @@ Boat and walk are different experiences. **With one full day, take the boat in t
 - **Weather is everything here.** The sea in the overcast photo and the sea in the clear one are different colours entirely — both of those pictures are from the same walk
 - ✅ Good if you like travel where the walking is the point, you're drawn more to the space between sights than the sights, or you can look at the sea for a long time without getting bored
 - ⚠️ The famous viewpoint is crowded — pick your hour if you want quiet. Without a car, transport will take a real bite out of your day
+- **Elsewhere in Gyeongsang** — I've also written up [Yongwon Hoetjip](/en/posts/jinhae-yongwon-hoetjip) in Jinhae for its fresh cod soup. It's a real drive from Geoje, so treat it as a separate trip.
 
 > Based on a personal visit. Fares and sailing times can change, so anything uncertain is marked **(please verify)**.

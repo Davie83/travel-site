@@ -50,5 +50,6 @@ There are **several annex branches** near the main one. At busy times the main b
 - **Check the branch** — there are several annexes besides the main one. See which branch on the map.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Ordering** — pick small, medium or large. Small or medium for two.
+- **Another meal in Gangnam** — craving something spicy and brothy instead, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is another option in the same Gangnam area.
 
 > Written up after eating there myself. Impressions of taste and texture can vary from person to person. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.

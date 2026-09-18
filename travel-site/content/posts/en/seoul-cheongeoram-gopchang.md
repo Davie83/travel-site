@@ -79,6 +79,7 @@ Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 - ✅ You are looking for something to drink alongside
 - ✅ **You avoid pork** — this is beef
 - ✅ You have a Mangwon or Hapjeong plan
+- ✅ You'd like to walk off the hot pot with a coffee after — [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) is within walking distance
 - ⚠️ **Offal may be unfamiliar if it is your first time**
 - ⚠️ **Closed Sundays · weekday break 2–4 PM**
 - ⚠️ Too spicy if you cannot take chili at all

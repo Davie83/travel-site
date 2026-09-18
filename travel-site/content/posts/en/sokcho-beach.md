@@ -59,7 +59,7 @@ The beach itself is only open for swimming during the summer season; the rest of
 
 - **Location** — Sokcho, Gangwon State. Close to central Sokcho, with several paid car parks nearby.
 - **Season** — the beach operates only in summer. Other times, it's the plaza, promenade and ferris wheel.
-- **Combine with** — Sokcho Tourist & Fishery Market, Yeonggeumjeong, and Abai Village for a half-day.
+- **Combine with** — Sokcho Tourist & Fishery Market, Yeonggeumjeong, and Abai Village for a half-day. To reach Abai Village, [the hand-pulled Gaetbae ferry](/en/posts/sokcho-abai-gaetbae) is more fun than walking the long way around.
 - **Hours · fees** — ferris wheel and parking fees and hours vary by season, so check before you go.
 
 > Written up after visiting in person. How the atmosphere lands can vary from person to person, and the beach season, ferris wheel fees, and parking fees change by season — please check the latest information once more before you go.

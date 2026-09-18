@@ -58,5 +58,6 @@ Yeouido is an office district, so a lot of places pack out at lunch — but this
 - **Location** — Yeouido, Yeongdeungpo-gu, Seoul. There may be other branches, so check which one on the map before you go.
 - **Ordering** — if you can't take heat, choose a milder noodle or rice dish instead of the jjamppong, and have the kkanpung shiitake alongside.
 - **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Nearby** — still in Yeouido, [Beyond Vietnam (National Assembly branch)](/en/posts/seoul-beyond-vietnam) is an easy walk if you're craving pho for lunch instead.
 
 > This post is a write-up of a visit in person. The heat level and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or the menu at individual branches — please check the shop's current information once more before you go.

@@ -59,6 +59,7 @@ It isn't a big place. It used to be easy to walk into; now there's a wait most t
 - **Ordering** — a bowl of sundae-guk with a plate of modeum suyuk is how to eat here properly. For two, one suyuk plate and one soup is plenty.
 - **Seasoning** — saeujeot, a little at a time. The chilli paste only if you want it hot.
 - **Wait** — a queue at meal times. It's often a write-your-name-and-wait system.
+- **A second stop** — after suyuk and a drink here, walking over to [Sigoljip](/en/posts/seoul-sigoljip) in the Euljiro rib alley for LA galbi makes a good second round.
 - **Price · hours · closing day** — not confirmed. Check the map or call before you go.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person (the smell especially), and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

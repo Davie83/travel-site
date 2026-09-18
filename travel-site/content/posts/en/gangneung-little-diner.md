@@ -55,5 +55,6 @@ Sitting in a room like this for brunch, on a trip, lifts the mood of the whole d
 - **Location** — in town in Gangneung, Gangwon. Check the shop name on the map before you go.
 - **Ordering** — the pancake-bun burger is the signature. With a group, add one quesadilla-style plate to share.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Brunch spots vary a lot in opening hours and break times, so check the map or their social media before you go.
+- **For dinner** — [Donghwa Garden](/en/posts/gangneung-donghwa-garden) in the Chodang tofu village is worth pairing with this for a spicier finish to the day in Gangneung.
 
 > This post is a write-up of a visit in person. The menu and taste are a matter of personal preference, and I couldn't confirm the hours, prices, or closing day — please check the shop's current information once more before you go.

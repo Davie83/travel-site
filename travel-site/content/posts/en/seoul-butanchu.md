@@ -55,7 +55,7 @@ Chijiremen are curly noodles. With a broth on the heavy side, I find noodles tha
 
 **Three minutes on foot from exit 7 of Hongik Univ. Station.** It sits in the middle of Hongdae, so it is easy to slot into another plan.
 
-There are nights in Hongdae when a bowl of ramen is exactly how you want to finish. Bear in mind that **the door closes at 10 PM**, so get in before then.
+There are nights in Hongdae when a bowl of ramen is exactly how you want to finish. Bear in mind that **the door closes at 10 PM**, so get in before then. If you have time to kill beforehand, [Roofcatme Cat Cafe](/en/posts/seoul-roofcatme-hongdae) is near the same station exit and makes for a good stop with the cats first.
 
 ## Honestly, it is not spectacular
 

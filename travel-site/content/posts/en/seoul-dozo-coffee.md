@@ -62,6 +62,7 @@ Prices start at **₩5,000**, rising with the bean and the cup you choose. That 
 - **Payment** — card is standard everywhere in Seoul, including small cafes
 - **Ordering** — a short menu; pointing at the bean list works
 - **Takeaway** — possible, but the tray service is the reason to come, so drink in if you can
+- **Staying in the area for dinner** — [Seochon Gyedanjip](/en/posts/seoul-seochon-gyedanjip), also in the Gwanghwamun area, is worth considering for seasonal seafood later on
 
 ## Good fit for
 

@@ -56,5 +56,6 @@ As the photo shows, there are times when it gets busy. At peak times you'll queu
 - **Tickets** — one-way tickets are available, so you can ride one way and walk the other.
 - **Timing** — as the photo shows, some times get busy; visiting with time to spare means less waiting.
 - **Hours · fares · closing day** — I couldn't confirm them this time. Service may pause for holidays or bad weather, so check before you go.
+- **Nearby** — after the ferry, it's an easy walk on to [Sokcho Beach](/en/posts/sokcho-beach), with its sculpture and Ferris wheel.
 
 > Written up after riding it myself. Impressions can vary from person to person, and I couldn't confirm the operating hours, fares, or closing day — please check the latest information once more before you go.

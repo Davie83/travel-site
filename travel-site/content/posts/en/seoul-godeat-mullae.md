@@ -67,7 +67,7 @@ The restaurant is **510 m from exit 7 of Mullae Station, a 9-minute walk**.
 
 ## Not Korean food, but worth knowing
 
-**This is not Korean food** — it is Mexican. But it makes an easy meal if you are in Mullae, so it is worth noting.
+**This is not Korean food** — it is Mexican. But it makes an easy meal if you are in Mullae, so it is worth noting. If you're craving real Korean sashimi instead, [Dorimhang Yeongdeungpo](/en/posts/seoul-dorimhang) is in the same Yeongdeungpo district.
 
 - **Barely spicy.** The heat is in the **salsa served on the side**, so you decide. Skip it and nothing is spicy
 - **Coriander comes separately.** If you dislike it, simply leave it out — it is not mixed in beforehand

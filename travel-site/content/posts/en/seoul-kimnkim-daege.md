@@ -83,6 +83,7 @@ It works equally well for family, for hosting someone, or for two. **Being able 
 - ✅ You need a quiet private room for an occasion
 - ✅ You're hosting someone and want the table to look after them
 - ✅ You can't eat spicy food
+- ✅ You want somewhere to unwind in Hongdae before or after — [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae) is within walking distance of the station
 - ⚠️ Not a cheap meal — even at promotion prices, budget ₩50,000–80,000 per person
 - ⚠️ Parking is difficult, and dining is up on the 3rd floor
 

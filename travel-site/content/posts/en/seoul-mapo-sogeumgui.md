@@ -70,6 +70,8 @@ It is **a two-minute walk from Exit 8 of Hapjeong Station** — access like that
 
 **It opens at 4:30 PM**, with no lunch service — this is dinner-only. **Closed Sundays**; Saturdays start at 4:00 PM. **Last order is 9:00 PM** and the door closes at ten. There is no car park.
 
+If you want something sweet afterward, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a cafe in a converted house, sits in the same broad Mapo area for dessert.
+
 ## Notes for visitors
 
 - **Kkeopdegi is pork skin.** It may sound unfamiliar, but eating skin is universal — Britain has pork scratchings, Latin America chicharrón, China 猪皮. The Korean way is over charcoal, like this

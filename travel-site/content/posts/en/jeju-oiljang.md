@@ -62,6 +62,7 @@ Fruit, dried seafood, vegetables, clothes, household goods, tools. What stands o
 - **The food area is outdoors.** Rain or peak summer heat makes sitting there hard work.
 - **Driving?** The car park fills quickly on market days. Mornings are easier.
 - **Language** — very little English here. A translation app and pointing will get you through, and vendors are used to it.
+- **Next meal** — if you want more than market food, [Mipung Haejang-guk](/en/posts/jeju-mipung-haejangguk) in central Jeju City isn't far.
 
 If the dates line up, this is worth half a day. If they don't, the Dongmun Market in central Jeju City runs daily and is the practical alternative.
 

@@ -68,6 +68,7 @@ This is the best way to use the place: **see the river from above at the cafe, t
 - ✅ You plan to walk the river park afterwards
 - ✅ You are in Seoul for the spring blossom
 - ✅ You like places other visitors do not reach (it is inside a parliament)
+- ✅ You want a proper bowl of noodles in Yeouido before or after coffee — [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam) is close by
 - ⚠️ **Go for the coffee and bread alone and it is unremarkable.** You go for the view
 - ⚠️ Closed Sundays · closes 7 PM · bread sells out early
 - ⚠️ The good window and rooftop seats are contested

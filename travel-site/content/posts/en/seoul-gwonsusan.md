@@ -84,7 +84,7 @@ Yeouido fills up fast at lunch. If you want one of the private rooms, booking is
 
 **34 Uisadang-daero 1-gil**, close to **National Assembly Station (Line 9).**
 
-Everything nearby is walkable: **the National Assembly building, Yeouido Han River Park, and the 63 Building.** If you're spending a half day in Yeouido, putting lunch here keeps the route tidy.
+Everything nearby is walkable: **the National Assembly building, Yeouido Han River Park, and the 63 Building.** If you're spending a half day in Yeouido, putting lunch here keeps the route tidy. Staying into the evening, [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam), a few minutes away, is a light way to close it out with a bowl of pho.
 
 ## This lunch works if
 

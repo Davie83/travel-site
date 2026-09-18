@@ -57,5 +57,6 @@ Crab was also in season this visit, so a big steamed crab came out alongside it 
 - **Station** — About a 3-minute walk from Gyeongbokgung Station (Line 3).
 - **Hours** — Daily 1 PM-11 PM (last order 10:15 PM), no reservations.
 - **Menu** — Built around whatever seafood is in season that day. Don't skip the seafood ramyeon.
+- **Want something warming first** — [Pyeongyangok](/en/posts/seoul-pyeongyangok), a chicken-gomtang place with a deep neungi-mushroom broth, is in the same Gwanghwamun area.
 
 > This is a first-hand account. The menu and prices change often with the season and market rate, so it's worth double-checking before you visit.

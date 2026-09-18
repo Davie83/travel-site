@@ -54,5 +54,6 @@ Because it's like this, **opinions will divide.** If you go expecting a fiery su
 - **Getting there** — Gapyeong-gun, Gyeonggi. It's a drive out from central Gapyeong, so check the map before you set off.
 - **Ordering** — jat-sundubu is the basic dish. As a tofu house it tends to have other tofu dishes (whole block tofu and so on) too.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Elsewhere in Gyeonggi** — out on Yeongjong Island in Incheon, I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) — same wider province, though it's a real trip from Gapyeong.
 
 > Based on a personal visit. The judgement on the flavour is personal taste, and hours, prices and the closing day I couldn't confirm — check the venue's details once more before you go.

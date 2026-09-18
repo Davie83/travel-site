@@ -55,5 +55,6 @@ Treat the bowl and the kimchi as one dish rather than a main and a side, and the
 - **Language** — a local shop, no English menu expected. Pointing works.
 - ✅ Good if you want a light, drinkable version rather than a heavy one, you've found kongguksu too thick or pasty before, or you want a proper meal for under ₩10,000
 - ❌ Less good if you came for a dense, creamy soy broth — different shop
+- **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort) for the view over Cheongpung Lake.
 
 > Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.

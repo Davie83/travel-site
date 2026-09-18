@@ -46,5 +46,6 @@ As famous as it is, it's busy. Go on a weekend or at mealtime and expect to queu
 - **Getting there** — Chodang-dong, Gangneung, Gangwon, inside the Chodang tofu village. Check the name on the map before you go.
 - **Ordering** — jjamppong sundubu is the signature. If someone in your group can't eat spicy, order a plain sundubu alongside it.
 - **Wait · hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Next meal** — if the spicy jjamppong sundubu leaves you wanting something different, [Little Diner](/en/posts/gangneung-little-diner) isn't far, with its pancake-bun burger.
 
 > Based on a personal visit. The taste and the spice level are personal, and hours, prices and the closing day I couldn't confirm — check the venue's details once more before you go.

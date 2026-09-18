@@ -61,5 +61,6 @@ This large garden in Seogwipo, on Jeju's **west side**, is one of the places mos
 - **Time** — walking the whole garden takes a while; budget half a day.
 - **Route** — Jeju's west side. Pair it with O'sulloc Tea Museum, Sanbangsan and the Andeok area for a day.
 - **Admission and hours** — it's paid and can vary by season, so check the official information before you go.
+- **Eat** — if you're heading toward Moseulpo in Daejeong-eup, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is a good spot for a full Korean spread.
 
 > Written after walking the whole garden myself. The flower in season, the admission and the opening hours all change with the season, so it's worth a check before you go.

@@ -61,5 +61,6 @@ Next to the house is the Jeju Chusa Museum. It is a low building, mostly undergr
 - **Getting there** — 44 Chusa-ro, Daejeong-eup, Seogwipo, Jeju. Under 10 minutes by car from Moseulpo Harbour, near Daejeong Hyanggyo.
 - **Admission · hours · closing day** — I couldn't confirm them this time. The Jeju Chusa Museum usually closes on Mondays, so check before you go.
 - **Bundling** — Moseulpo Harbour → Sanbangsan → Chusa's place of exile makes a natural loop.
+- **Eat** — down toward the harbour, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is worth it for a grilled-fish spread.
 
 > Written after my own visit. Admission, hours and the closing day can change, so it's worth checking again before you go.

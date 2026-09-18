@@ -52,5 +52,6 @@ Compared with the other places in the tteok-galbi alley, this isn't one that lay
 - **Getting there** — the tteok-galbi alley between Gwangju Songjeong Station and Gwangsan-gu Office, in Gwangsan-gu, Gwangju. Several restaurants in the alley have similar names, so check the sign before you sit down.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Ordering** — beef and pork tteok-galbi are ordered by the serving. Get one of each if you want to try both.
+- **Next stop** — [Naju Gomtang Hayanjip](/en/posts/naju-gomtang-hayanjip) is a short drive away in Naju and worth pairing with this for its clean beef broth.
 
 > Based on a personal visit. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.

@@ -40,6 +40,7 @@ They add **fried hairtail** as a free side dish. Picking at crisp fried hairtail
 - ✅ You want a **spicy braised-fish meal** on a Namdaemun Market or Myeongdong day
 - ✅ You enjoy the pairing of **daytime makgeolli** and braised hairtail
 - ✅ You like the feel of a "market-alley diner"
+- ✅ On a weekday, it pairs well with [Maknae Hoejip](/en/posts/seoul-maknae-hoejip)'s lunch-only sashimi set, also in Namdaemun Market
 - ⚠️ You're expecting the level of Jeju's domestic braised hairtail — this is imported fish
 - ⚠️ You find picking small fish bones a chore
 - ⚠️ Touting and a crowded alley wear you out

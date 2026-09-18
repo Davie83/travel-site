@@ -42,7 +42,7 @@ Seongsan Ilchulbong is a volcanic crater that rose straight out of the sea. It's
 
 The summit is **about an hour round trip** on a stair path. Too short to call a "climb", but with enough steps that it isn't quite a stroll. Take it slowly and most people manage it fine. From the top you see the crater and the sea off Seongsan in one sweep.
 
-Coming back down and having a coffee at a nearby café is how this loop ends. Maybe it's the walking — it tastes especially good.
+Coming back down and having a coffee at a nearby café is how this loop ends. Maybe it's the walking — it tastes especially good. On the road into Seongsan there's also a Turkish-styled cafe, [Shwieogat](/en/posts/jeju-shwieogat), worth a stop if you'd rather have that coffee close to Ilchulbong itself.
 
 ## Worth knowing before you land here
 

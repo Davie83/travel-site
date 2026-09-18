@@ -58,5 +58,6 @@ Jeju has filled up with visitors, Korean and foreign alike. So if you want a **q
 - **Route** — 30–40 minutes west of Jeju Airport. Pair it with Hallim Park and Hyeopjae Beach for a half-day.
 - **Season** — swimming only in the summer open season. Otherwise it's walking, photos and cafes.
 - **Facilities** — car park, parasol rental, and cafes and restaurants nearby.
+- **A meal** — if your day takes you into central Jeju City, [Mipung Haejang-guk](/en/posts/jeju-mipung-haejangguk) is worth setting aside a bowl for.
 
 > Written up after walking the beach myself. The swimming season and nearby facilities can change, so it's worth checking again before you go.

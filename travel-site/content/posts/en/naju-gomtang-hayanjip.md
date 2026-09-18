@@ -56,6 +56,7 @@ Takeaway is also available.
 - **Where** — right beside Geumseonggwan, the old Joseon-era guest hall in Naju's historic centre. Easy to combine with a walk around the old town.
 - **8:00 AM opening** is the simplest way to skip the wait.
 - **Language** — a traditional restaurant. Gomtang and suyuk are essentially the whole menu, so ordering is simple.
+- **Nearby city** — if you're extending the trip a short drive over to Gwangju, [Hyeongje Songjeong Tteok-galbi](/en/posts/gwangju-hyeongje-tteokgalbi) is worth pairing with it.
 
 ## Who this suits
 

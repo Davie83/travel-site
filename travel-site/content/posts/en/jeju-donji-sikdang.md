@@ -70,5 +70,6 @@ People rave about the **fried hanchi**. I'll order it next time. Passing that al
 - **Getting there** — near Moseulpo Harbour on the southwest coast. It's a long drive from Jeju City, so pair it with a west-coast day rather than a special trip.
 - **Language** — this is a local restaurant, not a tourist one. A translation app is worth having open. Pointing at the menu works fine.
 - **Closing time** — 9:00 PM, and holidays may differ.
+- **Flowers too** — if your west-Seogwipo day runs longer, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth folding in.
 
 > Written up after my own visit. Prices, hours, and which fish is available all change with the season — check before you travel.

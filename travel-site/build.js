@@ -2482,7 +2482,8 @@ async function build() {
       const out   = d + `food/${g.slug}.html`;
       const base  = baseOf(out);
       const gname = genreName(g, code);
-      const heading = String(t.genreTitleTpl).replace('{name}', gname);
+      const heading = (t.genreTitles && t.genreTitles[g.slug])
+        || String(t.genreTitleTpl).replace('{name}', gname);
       const desc    = String(t.genreDescTpl).replace('{name}', gname);
       const gIntro  = (t.genreIntros && t.genreIntros[g.slug]) || '';
       const indexed = inGenre.length >= GENRE_PAGE_MIN;

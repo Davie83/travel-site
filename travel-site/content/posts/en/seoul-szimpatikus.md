@@ -78,6 +78,8 @@ For a traveller that matters.
 - **You can eat unhurried before a KTX departure**
 - **Namdaemun Gate is a 3-minute walk**, Namdaemun Market 10 minutes, Myeongdong 15
 
+If Namdaemun Market is on your route, [Maknae Hoejip](/en/posts/seoul-maknae-hoejip) and its weekday-lunch-only sashimi set is worth folding into the same walk.
+
 Besides Seoul Station there are **six branches in total**, including one at Gwanghwamun.
 
 | Branch | Location |

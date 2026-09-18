@@ -85,6 +85,7 @@ The main branch has far more reviews (145 against 28), and draws correspondingly
 - ✅ You want sashimi and sushi in one sitting
 - ✅ **You cannot eat spicy food** — sashimi is not spicy
 - ✅ You have an evening in Yeongdeungpo
+- ✅ If the queue gets too long, [God Eat Mullae](/en/posts/seoul-godeat-mullae) is a fallback in the same Yeongdeungpo area
 - ⚠️ **Move quickly in the evening.** Booking is advised
 - ⚠️ **Opens at 5:00 PM** — no lunch
 - ⚠️ **Not a cheap restaurant** (smallest platter 39,000 KRW)

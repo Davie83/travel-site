@@ -22,6 +22,8 @@ info:
 
 Magok has become somewhat known to visitors — you now see **foreign tourists here now and then**. If Korean food isn't quite sitting right on your trip, or you're missing food from home, or you just **want wine freely**, the F&B space Moasis inside Mercure Seoul Magok is worth a visit. It has an **unlimited wine buffet**.
 
+For reference, on a completely different side of Seoul, in Hongdae, I also stopped by [Roofcatme Cat Cafe](/en/posts/seoul-roofcatme-hongdae) for a break with the cats — worth knowing about if that's where your day takes you instead.
+
 ## The unlimited wine buffet is dinner only
 
 It runs **at dinner only**. It isn't offered at lunch — worth noting.

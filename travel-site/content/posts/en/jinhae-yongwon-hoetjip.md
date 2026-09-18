@@ -85,6 +85,7 @@ A good place to attach to a Busan itinerary — but one thing to watch for: ther
 - ✅ You like **rich, creamy things** such as milt
 - ✅ **You cannot eat spicy food** — this is a clear broth
 - ✅ You want to compare sashimi, pancake and soup from one fish
+- ✅ Your Gyeongsang itinerary is broad enough to also fit [Gyeongju's Bulguksa and Cheomseongdae](/en/posts/gyeongju-bulguksa-cheomseongdae) as a separate stop elsewhere in the region (it is not near Jinhae)
 - ⚠️ **In summer the fresh cod soup may not be available**
 - ⚠️ **It may strain your budget** (20,000~30,000 KRW per person)
 - ⚠️ Milt is an unfamiliar ingredient for many

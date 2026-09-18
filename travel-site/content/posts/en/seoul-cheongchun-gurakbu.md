@@ -62,5 +62,6 @@ Given what teugyang and daechang cost, it's the sort of place you could use for 
 - **Ordering** — teugyang and daechang are the signatures. With a group, mix cuts and add naengmyeon to finish.
 - **Seating** — if you want to talk quietly, ask when booking whether there's a private room (I couldn't confirm this time).
 - **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Coffee after** — it's the same Mapo area, so once you're full of grilled offal, closing out at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) works as a follow-up.
 
 > Written up from a visit of my own. The cut names, texture, and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go.

@@ -54,6 +54,7 @@ This especially suits you if:
 - ✅ Anyone in Yeouido who wants **something other than Korean food**
 - ✅ Anyone who likes a seafood soup
 - ✅ Anyone eating before or after shopping or a film at IFC Mall
+- ✅ Anyone curious about Vietnamese pho too, while craving noodle soup — [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam) is also within Yeouido
 - ⚠️ Anyone put off by sourness or cilantro — tom yum is built around the sour note
 - ⚠️ Anyone wanting a quiet meal — it's crowded with office workers at lunch
 

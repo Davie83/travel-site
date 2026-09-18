@@ -59,5 +59,6 @@ There's a **canola field set up a little to the right of the beach**. It isn't l
 - **Canola season** — late March to April. Bloom timing varies by year; check.
 - **Route** — airport to Iho Tewoo is 10–15 minutes by car. It slots naturally into a rental-car itinerary.
 - **Coffee** — there are cafés around the beach. See the canola, then get one.
+- **Rough morning?** — [Mipung Haejang-guk](/en/posts/jeju-mipung-haejangguk) in central Jeju City is a short drive from here.
 
 > Written up after my own visit. Canola bloom timing and the facilities around the beach can change, so it's worth checking again before you go.

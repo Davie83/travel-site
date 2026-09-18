@@ -68,6 +68,8 @@ The restaurant also posted an event offering **three kinds of handmade dim sum t
 
 **It connects directly to Yeouido Station.** Second floor of TP Tower, so you can arrive dry in the rain. Yeouido is an office district without much sightseeing around it, but **for sheer ease of access this is among the easiest good Chinese restaurants to reach in Seoul.** It **closes at 10:00 PM.**
 
+If a brothy lunch sounds better another day, [Beyond Vietnam](/en/posts/seoul-beyond-vietnam)'s pho near National Assembly Station is another option in the same broad Yeouido area.
+
 Card is the standard way to pay, and a photo menu plus a well-known signature dish keep ordering simple. This is a meat-and-seafood menu, though, so options for vegetarians are limited.
 
 ## Who this suits

@@ -47,5 +47,6 @@ It's **close to Hongik Univ. Station Exit 9**, and there were **plenty of foreig
 - **Location** — near Hongik Univ. Station Exit 9, basement level.
 - **Admission · time limit · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Etiquette** — don't wake or pick up the cats. Treats only per the cafe's rules.
+- **Nearby** — a short walk toward Sangsu-dong, [Yokosuka Tsunami Sangsu](/en/posts/seoul-yokosuka-tsunami-sangsu), the aged-sashimi izakaya with the pre-opening line, is in the same broad Hongdae area.
 
 > Based on a personal visit. Admission, time limits, closing days and branch details can change — check before you go.

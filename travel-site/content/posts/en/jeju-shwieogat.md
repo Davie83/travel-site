@@ -38,6 +38,7 @@ It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute
 - **Sütlaç is a Turkish milk pudding.** Not spicy; it's dairy.
 - Worth a stop if you're interested in Turkish desserts like **kaymak** (thick clotted cream).
 - The location works well as **a stop on the way** to a Seongsan itinerary (Seongsan Ilchulbong, Seopjikoji, Gwangchigi Beach).
+- It pairs well with a climb up [Seongsan Ilchulbong](/en/posts/jeju-seongsan-ilchulbong) — come down and close the loop here with coffee and dessert.
 - The garden and window seats are **good for photos**.
 - ✅ Good for anyone who wants **coffee and dessert on the way** to Seongsan, is curious about Turkish desserts, or wants photos in the interior or garden.
 - ⚠️ Less good if you're expecting Korean-style cafe desserts, or can't have dairy — sütlaç is a milk pudding.

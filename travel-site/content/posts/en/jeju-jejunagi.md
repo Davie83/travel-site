@@ -58,5 +58,6 @@ As in the photo, the garnishes come divided into little compartments. Because it
 - **Location, hours, prices, closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Takeout** — available. Good for eating nearby in fine weather.
 - **How to eat it** — plain / with garnishes / with broth poured over, in three passes.
+- **Want noodles instead?** — [Aewolli Sun Memil Makguksu](/en/posts/jeju-aewol-makguksu) is a short drive away, in the same Aewol-eup.
 
 > Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.

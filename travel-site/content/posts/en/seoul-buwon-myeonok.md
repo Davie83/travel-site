@@ -67,6 +67,7 @@ Come in through Namdaemun Market from **Hoehyeon Station (Line 4).**
 - **Ordering** — a small traditional menu, so pointing works.
 - **Payment** — card is standard in Seoul, but keep some cash for the market itself.
 - **Combine it with** Namdaemun Market, which is already on most itineraries. This makes a good lunch stop mid-shopping.
+- **On a weekday lunch** — [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), also inside Namdaemun Market, only runs its sashimi set then, so it's worth weighing against this one if the timing lines up.
 
 ## This suits you if
 

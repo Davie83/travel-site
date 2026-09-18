@@ -51,5 +51,6 @@ Still, a **Jeju-style hangover soup is worth trying once**. It's a different ani
 - **Getting there** — Jeju City, Jeju. Mipung has several branches, so check that you're heading to the main one.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Hangover soup places often open before dawn; check the map or call before you go.
 - **How to eat it** — mix the rice into the soup or eat it separately, whichever you like. Go heavy on the grated garlic.
+- **After you're settled** — if your day stretches west, [Geumneung Beach](/en/posts/jeju-geumneung) out in Hallim is a quiet place to unwind.
 
 > Written up after several visits. The heat rating and any judgement of taste are personal preference. Hours, prices, and the closing day I couldn't confirm — check the venue's details once more before you go.

@@ -55,6 +55,7 @@ One thing, though. **The broth already carries a fair amount of chicken fat, and
 - **Getting there** — Seodaemun, Seoul. Check the name on the map before you set off.
 - **Ordering** — the dak-gomtang first. Add the gamja-jeon only if you genuinely love potato pancake.
 - **Seasoning** — the broth comes plain; adjust with salt and pepper. Rice can go in the soup or be eaten separately.
+- **Another option** — if seafood sounds better in the same Gwanghwamun area, [Seochon Gyedanjip](/en/posts/seoul-seochon-gyedanjip), a seasonal-seafood spot in a Seochon alley, is also nearby.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

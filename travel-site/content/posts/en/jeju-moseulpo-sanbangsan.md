@@ -58,5 +58,6 @@ The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. E
 - **Route** — Moseulpo Harbour → Songaksan → Hyeongjeseom viewpoint → Sanbangsan, continuing toward Seogwipo. It's just as good in the other direction.
 - **Gapado boat** — departs from Moseulpo Harbour. Check times, fares and cancellations on the day.
 - **Sanbangsan / Songaksan** — check admission and which sections are open before you go.
+- **Eat** — [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang), right in front of the harbour, sits perfectly at either end of this stretch.
 
 > Written after driving this road myself. Boat services and which viewpoints are open can change, so it's worth checking again before you go.

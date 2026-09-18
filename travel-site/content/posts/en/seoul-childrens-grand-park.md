@@ -108,6 +108,7 @@ The reason to write about it is different. It earns its place **when your route 
 - ✅ You have plans around **Konkuk University, Seongsu or Gwangjin**
 - ✅ You want **a short walk and a sit down** in the middle of the city
 - ✅ You like animals but **are not expecting a great deal**
+- ✅ You're also working other Seoul food spots into the trip — [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) over in Gangnam is nowhere near this park, but it's a fine separate stop elsewhere in the city
 - ⚠️ **The botanical garden is closed** (reopening expected late 2027)
 - ⚠️ **The zoo shuts at 5:00 PM**
 - ⚠️ For a serious zoo, **Seoul Grand Park in Gwacheon** is far larger

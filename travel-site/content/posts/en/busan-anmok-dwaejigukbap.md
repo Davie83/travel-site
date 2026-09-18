@@ -57,5 +57,6 @@ Decide before it arrives. It is not something you can change halfway through.
 - **Add the chives.** The raw garlic chives in the photo go into the soup and lift the whole thing. That is the Busan way
 - ✅ Good if it's your first dwaeji gukbap, you want a deep broth that isn't heavy, you're around Gwangalli or Namcheon, you can't handle spicy food, or you're alone but want both soup and pork (get the solo set)
 - ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. Reviews mention queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
+- If you want to compare Busan-style dwaeji gukbap, I also wrote up [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) over in Dongnae
 
 > Written after an actual visit. Hours and prices can change, so anything unconfirmed is marked **(changes often — please verify)**.

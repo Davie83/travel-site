@@ -46,6 +46,7 @@ This visit was honestly an ordering mistake — I ended up with the bibimbap set
 - ✅ You want an easy taste of Jeonju-style bibimbap in Gangnam
 - ✅ You're looking for a gochujang that isn't very spicy
 - ✅ You need a lunch spot near Centerfield
+- ✅ You're craving a hot, spicy stew for dinner in Gangnam later — [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae), also on Teheran-ro, is close by
 - ⚠️ You want a really spicy bibimbap — this one runs mild
 - ⚠️ You're going right at noon on a weekday — it can get crowded
 

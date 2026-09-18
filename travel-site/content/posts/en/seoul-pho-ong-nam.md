@@ -52,6 +52,8 @@ Finish your bowl and walk straight out to the river. Pho sits lightly enough tha
 
 **Dangsan Station** is on **Lines 2 and 9** — an interchange, so it's easy to reach from anywhere in the city, and Line 9 connects toward Yeouido and Gimpo Airport.
 
+A little further toward Yeongdeungpo, [Dorimhang](/en/posts/seoul-dorimhang) serves aged sashimi and sea urchin, if you want another stop in the area.
+
 ## Vietnamese iced coffee
 
 Reviews keep mentioning **condensed milk**, which means they're doing *cà phê sữa đá* — dark coffee poured over condensed milk and ice. Very sweet, very strong. A good full stop after the noodles.

@@ -39,13 +39,20 @@ module.exports = {
     genreTitleTpl: '{name} 맛집',
     genreDescTpl:  '직접 다녀온 {name} 맛집을 모았습니다. 가격·주문 방법·관광객이 편한지 위주로 적었습니다.',
     genreIntroTpl: '직접 다녀와 적은 {name} 기록 {count}곳입니다. 별점 대신 가격대와 주문 방법, 매운 정도, 관광객이 앉아서 편한지를 적었습니다. 지역은 {regions}이며, 아래 버튼으로 좁혀 볼 수 있습니다.',
+    /* 장르 페이지 제목은 기본 템플릿({name} 맛집)을 쓰지만, 특정 장르는 검색어와 더
+       맞게 손으로 따로 씁니다. japanese-in-korea 는 실제 검색 유입 대부분이 "돈코츠
+       라멘"·"근처" 같은 구체적인 표현인데 제목엔 그 단어가 아예 없어서 (Sep 2026,
+       GSC 분석) 추가했습니다. */
+    genreTitles: {
+      'japanese-in-korea': '서울 돈코츠 라멘 맛집 — 직접 가본 곳만'
+    },
     genreIntros: {
       'korean-bbq':        '숯불이나 불판에 직접 구워 먹는 고기구이입니다. 삼겹살·목살 같은 돼지구이부터 소금구이, 갈비, 곱창·대창 같은 특수부위, 한우 오마카세까지 다룹니다. 어느 부위를 시켜야 하는지, 직원이 구워 주는지, 관광객이 앉아서 편한 자리인지를 위주로 적었습니다.',
       'korean-soup':       '뜨끈한 국물에 밥을 마는 국밥과 탕 종류입니다. 돼지국밥, 순대국, 곰탕, 감자탕, 해장국을 지역별로 담았습니다. 혼자 가도 부담 없는지, 새우젓·다대기로 간을 맞추는 방식, 아침 일찍 여는 집인지를 함께 적었습니다.',
       'korean-noodles':    '냉면과 국수 종류입니다. 평양·함흥식 냉면, 막국수, 콩국수, 칼국수를 다룹니다. 육수가 슴슴한지 새콤한지, 가위로 잘라 주는지, 여름 한정인지 사철 하는지를 적어 두었습니다.',
       'korean-seafood':    '회, 물회, 게장, 아구찜, 대게처럼 해산물이 중심인 집입니다. 항구 근처 노포부터 도심 전문점까지, 제철이 언제인지와 시가(時價) 여부, 초장·간장 중 무엇에 찍는지를 함께 적었습니다. 이 사이트에서 글이 가장 많은 장르입니다.',
       'chinese-korean':    '한국에서 발전한 중식입니다. 자장면, 짬뽕, 탕수육에 더해 깐풍기·유린기 같은 요리류를 시켜 볼 만한 집을 담았습니다. 짬뽕이 얼마나 매운지, 요리를 나눠 먹기 좋은지를 위주로 적었습니다.',
-      'japanese-in-korea': '한국에서 먹는 일식입니다. 돈코츠·쇼유 라멘 전문점과 이자카야식 안주, 오코노미야끼를 다룹니다. 면·국물의 진하기, 자리 회전이 빠른지, 혼밥 카운터가 있는지를 적었습니다.',
+      'japanese-in-korea': '직접 가본 서울의 돈코츠·쇼유 라멘 전문점입니다. 이자카야식 안주와 오코노미야끼도 함께 다룹니다. 면·국물의 진하기, 자리 회전이 빠른지, 혼밥 카운터가 있는지를 적었습니다.',
       'cafe-dessert':      '커피와 디저트가 중심인 곳입니다. 직접 볶는 드립 전문점, 베이커리, 수플레·팬케이크처럼 자리에서 굽는 디저트를 담았습니다. 콘센트·와이파이가 되는지, 오래 앉아 있어도 되는 분위기인지를 함께 적었습니다.',
       'western':           '파스타·스테이크·타코처럼 한식이 아닌, 앉아서 먹는 레스토랑입니다. 신사동 양식집부터 멕시칸, 와인 뷔페까지 다룹니다. 예약이 필요한지, 1인당 예산이 얼마쯤인지, 프라이빗 룸이 있는지를 적어 두었습니다.'
     },
@@ -229,13 +236,16 @@ module.exports = {
     genreTitleTpl: 'Best {name} in Korea',
     genreDescTpl:  '{name} places we actually visited, across Korea. Honest notes on price, how to order, and how tourist-friendly each spot is.',
     genreIntroTpl: '{count} {name} write-ups, all from visits in person. Instead of star ratings, each notes the price range, how to order, the spice level, and whether it is comfortable for a visitor. Regions covered: {regions} — use the buttons below to filter.',
+    genreTitles: {
+      'japanese-in-korea': 'Tonkotsu Ramen in Seoul, Tried in Person'
+    },
     genreIntros: {
       'korean-bbq':        'Meat you grill yourself over charcoal or on a hot plate. It covers pork cuts like samgyeopsal and moksal, salt-grilled pork, galbi, offal cuts like gopchang and daechang, and hanwoo omakase. Each note focuses on which cut to order, whether the staff grill it for you, and whether the seating is comfortable for a visitor.',
       'korean-soup':       'Hot soups and gukbap you eat with rice. It covers pork gukbap, sundae-guk, gomtang, gamjatang, and hangover soups by region. Notes cover whether it is easy to go alone, how you season the bowl with salted shrimp or chilli paste, and whether it opens early.',
       'korean-noodles':    'Cold noodles and noodle soups. It covers Pyongyang- and Hamhung-style naengmyeon, makguksu, kongguksu, and kalguksu. Notes say whether the broth is plain or tangy, whether they cut it with scissors for you, and whether it is summer-only or year-round.',
       'korean-seafood':    'Places built around seafood — raw fish, mulhoe, soy-marinated crab, braised monkfish, snow crab. From old harbourside places to city specialists, notes cover when each is in season, whether it is market price, and which dip goes with it. This is the largest genre on the site.',
       'chinese-korean':    'Chinese food as it developed in Korea. Beyond jajangmyeon, jjamppong, and sweet-and-sour pork, it covers places worth ordering the cooked dishes at, like kkanpunggi and yurinji. Notes focus on how spicy the jjamppong is and whether the dishes share well.',
-      'japanese-in-korea': 'Japanese food eaten in Korea. It covers tonkotsu and shoyu ramen specialists, izakaya-style plates, and okonomiyaki. Notes cover how rich the noodles and broth are, whether tables turn over quickly, and whether there is a solo counter.',
+      'japanese-in-korea': 'Tonkotsu and shoyu ramen shops in Seoul, all tried in person, plus izakaya-style plates and okonomiyaki. Notes cover how rich the noodles and broth are, whether tables turn over quickly, and whether there is a solo counter.',
       'cafe-dessert':      'Places built around coffee and dessert. It covers shops that roast their own, bakeries, and desserts made to order like souffle and pancakes. Notes cover whether there are power outlets and wi-fi, and whether it is the kind of room you can sit in for a while.',
       'western':           'Sit-down restaurants that are not Korean — pasta, steak, tacos. From a Sinsa-dong Western spot to Mexican and wine buffets. Notes cover whether you need to book, roughly what to budget per person, and whether there is a private room.'
     },
@@ -419,13 +429,16 @@ module.exports = {
     genreTitleTpl: '韓国の{name}',
     genreDescTpl:  '実際に足を運んだ{name}の店をまとめました。価格・注文方法・観光客の使いやすさを中心に。',
     genreIntroTpl: '実際に足を運んで書いた{name}の記録が{count}件です。星の数ではなく、価格帯・注文方法・辛さの度合い・観光客が座って居心地よいかを書いています。対象地域は{regions}で、下のボタンで絞り込めます。',
+    genreTitles: {
+      'japanese-in-korea': 'ソウルの豚骨ラーメン店 — 実際に行った店だけ'
+    },
     genreIntros: {
       'korean-bbq':        '炭火や鉄板で自分で焼く焼肉です。サムギョプサルやモクサルなどの豚、塩焼き、カルビ、コプチャン・テチャンなどのホルモン、韓牛オマカセまで扱います。どの部位を頼むべきか、店員が焼いてくれるか、観光客が座って居心地よいかを中心に書いています。',
       'korean-soup':       'ご飯を入れて食べる熱いスープ・クッパ類です。テジクッパ、スンデグク、コムタン、カムジャタン、ヘジャングクを地域別に。一人でも入りやすいか、アミの塩辛やダデギでの味の調え方、朝早くから開くかを併記しています。',
       'korean-noodles':    '冷麺と麺類です。平壌・咸興式の冷麺、マッククス、コングクス、カルグクスを扱います。スープが淡泊か酸味があるか、ハサミで切ってくれるか、夏限定か通年かを書いています。',
       'korean-seafood':    '刺身、ムルフェ、カンジャンケジャン、アグチム、ズワイガニなど海鮮が中心の店です。港近くの老舗から都心の専門店まで、旬の時期と時価かどうか、チョジャンと醤油のどちらで食べるかを併記。このサイトで最も記事の多いジャンルです。',
       'chinese-korean':    '韓国で発展した中華です。ジャジャン麺、チャンポン、酢豚に加え、カンプンギ・ユーリンギのような料理を頼む価値のある店を。チャンポンの辛さ、料理を分けて食べやすいかを中心に書いています。',
-      'japanese-in-korea': '韓国で食べる和食です。豚骨・醤油ラーメンの専門店、居酒屋風のつまみ、お好み焼きを扱います。麺とスープの濃さ、席の回転が速いか、一人カウンターがあるかを書いています。',
+      'japanese-in-korea': '実際に足を運んだソウルの豚骨・醤油ラーメン専門店です。居酒屋風のつまみ、お好み焼きも扱います。麺とスープの濃さ、席の回転が速いか、一人カウンターがあるかを書いています。',
       'cafe-dessert':      'コーヒーとデザートが中心の店です。自家焙煎のドリップ専門店、ベーカリー、スフレやパンケーキのように席で焼くデザートを。コンセントとWi-Fiがあるか、長居できる雰囲気かを併記しています。',
       'western':           'パスタ・ステーキ・タコスなど、韓国料理ではない着席レストランです。新沙洞の洋食店からメキシカン、ワインビュッフェまで。予約が必要か、一人あたりの予算、個室があるかを書いています。'
     },
@@ -609,13 +622,16 @@ module.exports = {
     genreTitleTpl: '韓國{name}',
     genreDescTpl:  '我們實際去過的{name}餐廳彙整。價位、點餐方式、對遊客是否友善，都據實記錄。',
     genreIntroTpl: '親自跑過、寫下來的{name}記錄共{count}篇。不打星等，而是寫價位、點餐方式、辣度，以及遊客坐下來自不自在。涵蓋地區：{regions}，可用下方按鈕篩選。',
+    genreTitles: {
+      'japanese-in-korea': '首爾豚骨拉麵店 — 只收實際去過的店'
+    },
     genreIntros: {
       'korean-bbq':        '在炭火或鐵板上自己烤的烤肉。從五花肉、梅花肉等豬肉，到鹽烤、排骨，以及小腸、大腸等內臟部位，還有韓牛套餐。記錄重點在該點哪個部位、店員會不會幫你烤、座位對遊客來說自不自在。',
       'korean-soup':       '配飯吃的熱湯與湯飯類。收錄豬肉湯飯、血腸湯、牛肉湯、馬鈴薯排骨湯、解酒湯，按地區整理。也一併寫了一個人去方不方便、怎麼用蝦醬或辣醬調味、是不是一大早就開。',
       'korean-noodles':    '冷麵與麵食。收錄平壤、咸興式冷麵，蕎麥拌麵，豆漿麵，刀切麵。會寫湯頭是清淡還是帶酸、會不會幫你用剪刀剪、是夏季限定還是整年都有。',
       'korean-seafood':    '以海鮮為主的店 —— 生魚片、冷湯生魚、醬油醃蟹、燉鮟鱇魚、雪蟹。從港口邊的老店到市區的專門店，會寫各項的產季、是不是時價、要沾醋醬還是醬油。這是本站文章最多的分類。',
       'chinese-korean':    '在韓國發展出來的中餐。除了炸醬麵、炒碼麵、糖醋肉，也收錄值得點熱炒菜色的店，像乾烹雞、油淋雞。重點寫炒碼麵有多辣、菜適不適合分著吃。',
-      'japanese-in-korea': '在韓國吃的日式料理。收錄豚骨、醬油拉麵的專門店，居酒屋式的下酒菜，以及大阪燒。會寫麵和湯頭的濃淡、翻桌快不快、有沒有單人吧台。',
+      'japanese-in-korea': '實際走訪過的首爾豚骨、醬油拉麵專門店，還有居酒屋式下酒菜與大阪燒。會寫麵和湯頭的濃淡、翻桌快不快、有沒有單人吧台。',
       'cafe-dessert':      '以咖啡和甜點為主的地方。收錄自家烘豆的手沖專門店、烘焙坊，以及舒芙蕾、鬆餅這類現點現做的甜點。一併寫有沒有插座和Wi-Fi、是不是可以久坐的氛圍。',
       'western':           '不是韓式的、坐下來吃的餐廳 —— 義大利麵、牛排、塔可。從新沙洞的西餐館到墨西哥菜、葡萄酒吃到飽。會寫要不要訂位、每人預算大概多少、有沒有包廂。'
     },

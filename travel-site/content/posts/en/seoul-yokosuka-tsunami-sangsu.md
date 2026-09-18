@@ -35,7 +35,7 @@ What makes this place is the **aging**. The sashimi here is aged particularly we
 
 ## The wait, and notes for visitors
 
-**I think about this place from time to time, but the wait keeps me from going often.** You need to arrive before opening to get a table. Going with low expectations about the wait is good for your sanity.
+**I think about this place from time to time, but the wait keeps me from going often.** You need to arrive before opening to get a table. Going with low expectations about the wait is good for your sanity. If you have time to kill in line, [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae) is a short detour in the same Hongdae area.
 
 - **If you enjoy raw fish, this suits you well.** The aging gives it a noticeably chewier texture than typical sashimi
 - **The menu changes every day.** There's no fixed board, so just ask the staff what's good today

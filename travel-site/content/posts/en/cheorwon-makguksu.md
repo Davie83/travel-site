@@ -60,5 +60,6 @@ A bowl of cold buckwheat noodles alone is light. With two or more people, add th
 - **Language** — rural restaurant, no English menu expected.
 - ✅ Good if you want to taste **buckwheat noodles themselves** rather than a sauce, prefer restrained seasoning, or need lunch on a Cheorwon or Hantangang day
 - ❌ Less good if you want a bold, heavily sauced cold noodle
+- **Elsewhere in Gangwon** — over in Sokcho, I've also written up [the Abai Village Gaetbae](/en/posts/sokcho-abai-gaetbae), a hand-pulled ferry ride.
 
 > Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.

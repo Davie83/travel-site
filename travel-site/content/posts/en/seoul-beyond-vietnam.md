@@ -55,5 +55,6 @@ It's a clear beef broth, not thin, and a full bowl **takes care of a hangover an
 - **Getting there** — 26 Uisadang-daero, Unit 107, Yeongdeungpo-gu, Seoul. Near National Assembly Station.
 - **Timing** — there's a break (14:30–16:30), so skip a late lunch.
 - **Branches** — this is the big West Yeouido one. The East Yeouido and Seolleung (Gangnam) branches are separate — check the map before you go.
+- **East Yeouido option** — for another brothy Asian option, [Konthai Yeouido](/en/posts/seoul-konthai-yeouido) in the IFC Mall on the east side is worth a look too.
 
 > Written up from a visit of my own. Taste and preference vary by person, and prices, hours and closing days shift often — anything I couldn't confirm is marked **(changes often — confirm)**.

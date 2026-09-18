@@ -52,6 +52,7 @@ I don't get here as often as I used to — maybe it's age — but these days I m
 - **Location** — near Gongdeok, Mapo-gu, Seoul. Go to the **current, relocated address**, not the old spot behind the Shilla Stay.
 - **Ordering** — if it's your first time, go large on the seolleongtang for a filling bowl with meat; go doganitang if you want that plainer, chewier texture.
 - **Side dishes** — don't skip the green onion kimchi. Half of this place's appeal is the kimchi.
+- **Dessert** — after a filling bowl, if you're in the mood for coffee, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a converted-house cafe in the same Gongdeok/Mapo area, makes a good finish.
 - **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
 > This is a personal record from visiting over a long stretch of time, so it leans on my own taste more than most write-ups. Others may judge the flavour differently, and since I couldn't confirm prices, hours, or the closing day this time, please check the shop's current information once more before you go.

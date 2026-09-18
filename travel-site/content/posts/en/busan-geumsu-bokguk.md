@@ -45,5 +45,6 @@ On safety: Korean law requires a **separate national licence to prepare pufferfi
 - **Where** — Dongnae district. It pairs well with a morning around Dongnae Oncheonjang hot springs or Dongnae Eupseong fortress.
 - **Ordering** — this is a neighbourhood restaurant, not a tourist one. A translation app helps; pointing works.
 - **Holidays** — hours may differ.
+- **Want a heartier follow-up?** [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) is a short walk away, also in Dongnae.
 
 > Based on a personal visit. Prices and menus change often, so anything uncertain is marked **(changes often — please verify)**. Check the restaurant’s current information before you go.

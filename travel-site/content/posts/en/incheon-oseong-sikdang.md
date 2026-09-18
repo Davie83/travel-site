@@ -56,6 +56,7 @@ The table brings the raw shad salad (the main event), the soy-marinated crab (st
 - **It's spicy** — a gochujang dressing, so expect real heat
 - **No subway.** Yeonan Pier needs a bus from Incheon Station, or a taxi. Driving is easiest
 - **Closes at 9:00 PM**
+- **Staying in Incheon a bit longer?** — [Paradise City Cimer](/en/posts/incheon-paradise-cimer), a spa on Yeongjong Island, is another stop worth working into the trip
 - **Ordering** — a short menu at an old market-building restaurant. Pointing works
 
 ## Who this suits

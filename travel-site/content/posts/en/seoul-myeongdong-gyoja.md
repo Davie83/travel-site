@@ -56,6 +56,7 @@ But it's not the scruffy alley spot from when I used to go a lot. It has moved, 
 
 - **Getting there** — Jung-gu, Seoul, a new building near Myeongdong Station Exit 8. Don't head for the old alley address.
 - **Ordering** — kalguksu or mandu. The kalguksu comes with dumplings. Kimchi is self-serve.
+- **Nearby** — [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), known for its weekday-lunch-only sashimi set on the 2nd floor of Namdaemun Market, sits in the same broad Myeongdong area if you want another stop.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 
 > Based on a personal visit. The judgement on the taste is personal, and the new location, hours and prices can change — check the venue's details once more before you go.

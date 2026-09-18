@@ -53,5 +53,6 @@ The side dishes aren't laid out lavishly. But each one was decent. If you like g
 - **Getting there** — Ganghwa-gun, Incheon, right at the island entrance. It's the stretch just over the bridge, so check the name on the map before you go.
 - **Ordering** — the grilled-fish set is the basic. Order per person and several fish come on one table.
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Elsewhere in Incheon** — [Paradise City Cimer](/en/posts/incheon-paradise-cimer) out on Yeongjong Island is technically the same city, but far enough from Ganghwa that it's a separate trip.
 
 > Based on a personal visit. Judgements on the food and the spread are personal taste, and the fish selection, prices and hours can change — check with the restaurant before you go.

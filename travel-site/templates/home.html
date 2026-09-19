@@ -1,6 +1,10 @@
   <!-- 홈 = 지역 인덱스. 히어로(글+검색+내주변) 아래에 지역·큐레이션(Pick·코스)·장르·최근 순 -->
-  <section class="hero">
-    <div class="wrap">
+  <!-- 히어로 — 왼쪽 글+검색, 오른쪽 지역 지도 카드.
+       예전엔 지도가 화면 꽉 채우는 별도 섹션이라 "최근 올라온 글"까지 스크롤을
+       여러 번 내려야 했습니다. 검색 옆 컴팩트 카드로 붙여서 첫 화면 안에
+       검색·지도·최근 글이 다 들어오게 합니다 (Sep 2026 개편). -->
+  <section class="hero hero-split">
+    <div class="wrap hero-inner">
       <div class="hero-text">
         <h1>{{tagline}}<img class="flag-deco" src="/assets/img/flag-korea.png" alt="" aria-hidden="true" width="400" height="296" loading="eager"></h1>
         <p>{{description}}</p>
@@ -14,6 +18,17 @@
         <!-- "내 주변" — 검색(계획해서 찾기) 바로 아래에 둡니다 (지금 서 있는 자리에서 찾기).
              위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. build.js 의 nearWidgetHTML() 이 채웁니다. -->
 {{near}}
+      </div>
+
+      <div class="hero-map-card">
+        <div class="hero-map-card-head">
+          <h2>{{findByRegion}}</h2>
+          <span class="more">{{regionCount}}</span>
+        </div>
+{{map}}
+        <div class="region-chips region-chips-compact">
+{{regionChips}}
+        </div>
       </div>
     </div>
   </section>
@@ -29,20 +44,6 @@
       </span>
       <span class="tips-strip-cta">{{tipsCta}} →</span>
     </a>
-
-    <!-- 지역으로 찾기 — 지도(핀 클릭) + 이름 줄을 한 덩어리로. 큐레이션보다 먼저 둡니다 -->
-    <section class="section">
-      <div class="section-head">
-        <h2>{{findByRegion}}</h2>
-        <span class="more">{{regionCount}}</span>
-      </div>
-      <div class="region-pick">
-{{map}}
-        <div class="region-chips">
-{{regionChips}}
-        </div>
-      </div>
-    </section>
 
 {{pickShelf}}
 

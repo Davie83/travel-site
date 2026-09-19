@@ -251,16 +251,39 @@ img{max-width:100%;display:block;}
    그래서 폭이 아니라 '높이'를 기준으로 크기를 정합니다. */
 .hero-split{padding:48px 0 44px;}
 /* 지도 칸에 최대 폭을 줘서, 글과 지도가 양끝으로 벌어지지 않게 합니다 */
-.hero-inner{display:grid;grid-template-columns:minmax(0,1fr) minmax(190px,300px);gap:40px;align-items:center;}
+.hero-inner{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,420px);gap:40px;align-items:start;}
 .hero-text{min-width:0;max-width:600px;}
 .hero-split h1{font-size:clamp(28px,4.4vw,42px);}
 .hero-map{display:flex;justify-content:center;}
 
+/* 검색 옆 지역 지도 카드 (Sep 2026) — 지도를 화면 꽉 채우는 별도 섹션 대신
+   히어로 안에 압축해 넣어, 첫 화면 안에 검색·지도·최근 글이 다 보이게 합니다. */
+.hero-map-card{
+  background:linear-gradient(160deg,var(--surface) 0%,var(--surface-2) 100%);
+  border:1px solid var(--line);border-radius:calc(var(--radius) + 8px);
+  padding:22px 24px;box-shadow:var(--shadow);
+}
+.hero-map-card-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:14px;gap:10px;}
+.hero-map-card-head h2{margin:0;font-size:14.5px;font-weight:800;color:var(--ink);}
+.hero-map-card-head .more{font-size:11.5px;color:var(--ink-mute);white-space:nowrap;}
+/* 지도 자체는 압축 카드에 맞게 훨씬 작게 — 큰 히어로용 높이 규칙을 덮어씁니다 */
+.hero-map-card .hero-map svg{height:180px;}
+/* 칩도 카드 폭에 맞게 조용하게 — 예전엔 칩이 너무 커서 지도를 밀어내는 느낌이 있었습니다 */
+.region-chips-compact{gap:6px;}
+.region-chips-compact .region-chip{
+  padding:5px 10px 5px 9px;font-size:11px;border-left-width:2px;
+}
+.region-chips-compact .region-chip b{font-size:10px;}
+
 @media (max-width:860px){
   .hero-split{padding:30px 0 24px;}
-  .hero-inner{grid-template-columns:1fr;gap:20px;justify-items:center;}
+  .hero-inner{grid-template-columns:1fr;gap:20px;justify-items:stretch;}
   .hero-text{width:100%;}
 }
+@media (max-width:480px){
+  .hero-map-card .hero-map svg{height:150px;}
+}
+
 /* 어절 단위로 끊으면 줄 수가 늘어나므로, 좁은 화면에서는 살짝 줄입니다 */
 @media (max-width:600px){
   .hero p{font-size:15.5px;}

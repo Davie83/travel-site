@@ -15,7 +15,7 @@ info:
   - Signature|**Pancake-bun burger** — a thick griddled bun + smoked meat + cheddar + lettuce, fries on the side
   - On the side|Ketchup and a small **jug of syrup**, pickled onions and jalapeños
   - Best time|A late brunch the morning after you arrive
-  - Hours · prices · closing day|Not confirmed (check before you go)
+  - Hours · prices · closing day|**Wed–Sun, 11:00 AM – 8:00 PM** (break 3–5 PM, last order 2:30 PM/7:30 PM) · prices not confirmed · **closed Mon & Tue** (as of last check — subject to change)
 ---
 
 I got into Gangneung the evening before. I hadn't had much to drink, so I could start the next morning at an easy pace. I decided on a late brunch, and the place I picked was Little Diner.
@@ -54,7 +54,7 @@ Sitting in a room like this for brunch, on a trip, lifts the mood of the whole d
 
 - **Location** — in town in Gangneung, Gangwon. Check the shop name on the map before you go.
 - **Ordering** — the pancake-bun burger is the signature. With a group, add one quesadilla-style plate to share.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Brunch spots vary a lot in opening hours and break times, so check the map or their social media before you go.
+- **Hours · closing day** — Wed–Sun 11:00 AM–8:00 PM (break 3–5 PM), closed Mondays and Tuesdays, as of last check. Prices I still couldn't confirm — check the map or their social media before you go.
 - **For dinner** — [Donghwa Garden](/en/posts/gangneung-donghwa-garden) in the Chodang tofu village is worth pairing with this for a spicier finish to the day in Gangneung.
 
-> This post is a write-up of a visit in person. The menu and taste are a matter of personal preference, and I couldn't confirm the hours, prices, or closing day — please check the shop's current information once more before you go.
+> This post is a write-up of a visit in person. The menu and taste are a matter of personal preference. Hours and closing day are as of last check, and I still couldn't confirm prices — please check the shop's current information once more before you go.

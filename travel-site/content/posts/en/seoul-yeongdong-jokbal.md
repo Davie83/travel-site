@@ -14,7 +14,7 @@ info:
   - Menu|**Jokbal** (small / medium / large) · lettuce for wraps, bean-sprout soup, side dishes
   - What stands out|**Springy skin, fall-apart tender meat** — that texture holds up even years between visits
   - Branches|**Several annexes** near the main branch · check which one on the map
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|**Closed every Sunday** (confirmed) · exact hours and prices vary between the main branch and annexes — check before you go
 ---
 
 When I'm eating jokbal on the Gangnam side, this is the place I think of first. **It's Yeongdong Jokbal, in Yangjae.**
@@ -48,8 +48,8 @@ Both textures are there in one slice. It's braised without any gamey edge, and t
 There are **several annex branches** near the main one. At busy times the main branch fills up and you may be sent to a nearby annex, so check which branch you're heading to on the map.
 
 - **Check the branch** — there are several annexes besides the main one. See which branch on the map.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — closed every Sunday, confirmed. Exact hours and prices vary between the main branch and its annexes, though, so check which branch you're at and confirm via map or phone.
 - **Ordering** — pick small, medium or large. Small or medium for two.
 - **Another meal in Gangnam** — craving something spicy and brothy instead, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is another option in the same Gangnam area.
 
-> Written up after eating there myself. Impressions of taste and texture can vary from person to person. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.
+> Written up after eating there myself. Impressions of taste and texture can vary from person to person. The closing day (Sunday) is confirmed, but exact hours and prices vary by branch — check the venue's details once more before you go.

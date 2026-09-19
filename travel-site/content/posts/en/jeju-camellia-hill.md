@@ -6,7 +6,7 @@ area: seogwipo
 date: 2026-09-07
 emoji: 🌺
 thumb: assets/img/jeju-camellia-hill.jpg
-excerpt: A large garden in Seogwipo, on Jeju's west side. Once you leave Jeju City, it's one of the places most people stop at, along with O'sulloc and Seongsan Ilchulbong. The name is camellia, but the headline flower changes by season — and by feel, summer, when the hydrangeas are out, is the main one. It's bigger than you'd expect, so walking the whole thing takes a while. Looking at the flowers and the garden clears your head.
+excerpt: A large garden in Seogwipo, on Jeju's west side. Once you leave Jeju City, it's one of the places most people stop at, along with O'sulloc and Sanbangsan. The name is camellia, but the headline flower changes by season — and by feel, summer, when the hydrangeas are out, is the main one. It's bigger than you'd expect, so walking the whole thing takes a while. Looking at the flowers and the garden clears your head.
 tags: [Jeju, Seogwipo, Andeok, Camellia Hill, garden, arboretum, camellia, hydrangea, greenhouse, west coast]
 map: https://www.google.com/maps/search/?api=1&query=%ec%b9%b4%eb%a9%9c%eb%a6%ac%ec%95%84%ed%9e%90
 info:
@@ -35,7 +35,7 @@ The name is **camellia**. Winter into spring, when the camellias bloom, is the g
 
 But which flower it leads with shifts through the year. **By feel, the main season is summer, when the hydrangeas are out.** One greenhouse fills up with pink, purple and white hydrangea.
 
-This large garden in Seogwipo, on Jeju's **west side**, is one of the places most people stop at once they leave Jeju City — **O'sulloc, Camellia Hill, Seongsan Ilchulbong.**
+This large garden in Seogwipo, on Jeju's **west side**, is one of the places most people stop at once they leave Jeju City — **O'sulloc, Camellia Hill, Sanbangsan.**
 
 ## For visitors
 
@@ -47,7 +47,7 @@ This large garden in Seogwipo, on Jeju's **west side**, is one of the places mos
 
 ## Who it's for
 
-- ✅ Anyone fitting a flower-and-garden stop into a **west-Jeju day** (with O'sulloc and Seongsan Ilchulbong)
+- ✅ Anyone fitting a flower-and-garden stop into a **west-Jeju day** (with O'sulloc and Sanbangsan)
 - ✅ Anyone going for the **summer hydrangea** or the **winter–spring camellia**
 - ✅ Anyone who likes to **walk slowly and rest**
 - ✅ Anyone after a garden with plenty to photograph

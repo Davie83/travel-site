@@ -17,7 +17,7 @@ info:
   - Seasoning|Done with **saeujeot** (salted shrimp) — stir the chilli paste (dadaegi) into the white broth to set the heat yourself
   - Smell|**The room carries a strong pork-and-offal smell** — worth knowing if you're sensitive to it
   - Seating · wait|Small room, and there's usually a wait these days
-  - Price · hours · closing day|Not confirmed (check before you go)
+  - Price · hours · closing day|Weekdays 11:00–21:30, Sat until ~21:00 (break 15:00–17:00) · sundae-guk from ₩10,000 · closed Sundays (as of Sept 2026, subject to change)
 ---
 
 ## The smell, first
@@ -60,6 +60,6 @@ It isn't a big place. It used to be easy to walk into; now there's a wait most t
 - **Seasoning** — saeujeot, a little at a time. The chilli paste only if you want it hot.
 - **Wait** — a queue at meal times. It's often a write-your-name-and-wait system.
 - **A second stop** — after suyuk and a drink here, walking over to [Sigoljip](/en/posts/seoul-sigoljip) in the Euljiro rib alley for LA galbi makes a good second round.
-- **Price · hours · closing day** — not confirmed. Check the map or call before you go.
+- **Price · hours · closing day** — Sundae-guk from ₩10,000; weekdays 11:00–21:30, Saturday until around 21:00 (break 15:00–17:00), closed Sundays (as of September 2026, subject to change). Still worth checking the map or calling before you go.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person (the smell especially), and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

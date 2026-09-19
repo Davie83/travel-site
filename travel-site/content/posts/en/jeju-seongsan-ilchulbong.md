@@ -13,9 +13,9 @@ info:
   - Area|Seongsan-eup, Seogwipo, Jeju
   - Seongsan Ilchulbong|284-12 Ilchul-ro · **UNESCO World Heritage Site** · about 1 hour round trip to the summit (stair path)
   - Gwangchigi Beach|5–10 min on foot or by car from Seongsan Ilchulbong · known for its **spring canola field**
-  - Admission|Seongsan Ilchulbong roughly **₩5,000 for adults** (changes often — please verify)
-  - Opening hours|Vary by season · early morning to evening (changes often — please verify)
-  - Closed|**First Monday of each month for maintenance** (changes often — please verify)
+  - Admission|Individual rate: **₩5,000** for adults (25–64) · **₩2,500** for teens/military/children (7–24) (group discounts for 10+; as of 2025 — subject to change)
+  - Opening hours|Winter (Nov–Feb) 06:00–18:00 · Spring/Fall (Mar–Apr, Sep–Oct) 05:00–19:00 · Summer (May–Aug) 04:30–20:00 (ticket sales close 1 hr before closing; varies by season)
+  - Closed|**First Monday of each month** (next day if it's a holiday — check before you go, as this can change)
   - Canola season|**Late March to April** (shifts year to year)
   - Getting there|About 1 hour by car from Jeju City · buses run but not frequently
 ---
@@ -46,7 +46,7 @@ Coming back down and having a coffee at a nearby café is how this loop ends. Ma
 
 ## Worth knowing before you land here
 
-- **Seongsan Ilchulbong charges admission** (around ₩5,000 for adults, verify). Gwangchigi Beach is free.
+- **Seongsan Ilchulbong charges admission** (₩5,000 for adults, ₩2,500 for teens/children). Gwangchigi Beach is free.
 - There are **stairs** to the summit. Wear comfortable shoes and take your time.
 - It's **about an hour by car** from Jeju City. Public transport reaches it, but buses aren't frequent.
 - It's reported to **close on the first Monday of each month** for maintenance — check before you go.
@@ -63,7 +63,7 @@ Coming back down and having a coffee at a nearby café is how this loop ends. Ma
 ## Checklist before you leave
 
 - **Canola season** — late March to April. Bloom timing varies by year; check.
-- **Admission, hours, closing day** — I couldn't confirm them this time. Check the official notice or the map before you go.
+- **Admission, hours, closing day** — ₩5,000 for adults (₩2,500 for teens/children) · opening hours run 04:30–20:00 depending on the season · closed the first Monday of each month. Rates and hours can shift, so double-check before you go.
 - **Route** — see the canola at Gwangchigi Beach, then up Ilchulbong, then coffee on the way down. A comfortable half-day.
 
-> Written up from a trip I made myself. Admission, hours, the closing day, and canola bloom timing can all shift year to year, so it's worth confirming again before you set out.
+> Written up from a trip I made myself. Admission, hours, and the closing day are confirmed as above, but along with canola bloom timing they can all shift year to year, so it's worth confirming again before you set out.

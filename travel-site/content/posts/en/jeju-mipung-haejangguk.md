@@ -13,7 +13,7 @@ info:
   - Location|13 Jungang-ro 14-gil, Jeju City, Jeju (main branch) (제주 제주시 중앙로14길 13)
   - Menu|**Haejang-guk** — one bowl; rice comes on the side
   - How to eat it|**Load it with grated garlic** — the standard move for Jeju hangover soup
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|**Open 5am-3pm**, no closing day found · **haejang-guk 11,000 KRW** (as of research; subject to change)
 ---
 
 I don't naturally reach for aggressive, punchy flavours — except at this one place.
@@ -49,8 +49,8 @@ Still, a **Jeju-style hangover soup is worth trying once**. It's a different ani
 ## Before you go
 
 - **Getting there** — Jeju City, Jeju. Mipung has several branches, so check that you're heading to the main one.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Hangover soup places often open before dawn; check the map or call before you go.
+- **Hours · prices · closing day** — open 5am-3pm, haejang-guk runs 11,000 KRW (as of research). Hangover soup places often open before dawn; check the map or call before you go, since this can shift.
 - **How to eat it** — mix the rice into the soup or eat it separately, whichever you like. Go heavy on the grated garlic.
 - **After you're settled** — if your day stretches west, [Geumneung Beach](/en/posts/jeju-geumneung) out in Hallim is a quiet place to unwind.
 
-> Written up after several visits. The heat rating and any judgement of taste are personal preference. Hours, prices, and the closing day I couldn't confirm — check the venue's details once more before you go.
+> Written up after several visits. The heat rating and any judgement of taste are personal preference. Hours and prices can change — check the venue's details once more before you go.

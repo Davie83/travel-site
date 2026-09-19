@@ -15,7 +15,7 @@ info:
   - Side dish|The **kimchi**, including a green onion version, is this place's real charm — genuinely good
   - Note|An old favourite that moved into a **proper new shop**, much like Myeongdong Gyoja did
   - Current pick|These days I mostly order the **doganitang** — generous with cartilage, and good
-  - Prices · hours · closing day|Not confirmed (check before you go)
+  - Prices · hours · closing day|**Open daily 7:00am-8:50pm**, no closing day · **seolleongtang 14,000 KRW · large seolleongtang 18,000 KRW · doganitang 25,000 KRW** (as of research; subject to change)
 ---
 
 I've been going to this place for a long time. In that time the shop itself has moved once, and what I order has changed too. Following those two changes is more or less the introduction to this place.
@@ -53,6 +53,6 @@ I don't get here as often as I used to — maybe it's age — but these days I m
 - **Ordering** — if it's your first time, go large on the seolleongtang for a filling bowl with meat; go doganitang if you want that plainer, chewier texture.
 - **Side dishes** — don't skip the green onion kimchi. Half of this place's appeal is the kimchi.
 - **Dessert** — after a filling bowl, if you're in the mood for coffee, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a converted-house cafe in the same Gongdeok/Mapo area, makes a good finish.
-- **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Prices · hours · closing day** — open daily 7am-8:50pm, no closing day. Seolleongtang runs 14,000 KRW, doganitang 25,000 KRW (as of research — worth a quick check via map or phone before you go).
 
-> This is a personal record from visiting over a long stretch of time, so it leans on my own taste more than most write-ups. Others may judge the flavour differently, and since I couldn't confirm prices, hours, or the closing day this time, please check the shop's current information once more before you go.
+> This is a personal record from visiting over a long stretch of time, so it leans on my own taste more than most write-ups. Others may judge the flavour differently, and prices or hours can shift over time, so please check the shop's current information once more before you go.

@@ -17,7 +17,7 @@ info:
   - To drink|Soju
   - Spice|**Barely any** — soy-marinated galbi
   - Side dishes|Doenjang stew plus namul and kimchi
-  - Price · hours · closing day|Not confirmed (check before you go) — ordering a full meal here can add up more than you expect
+  - Price · hours · closing day|Mon–Sat 11:30–21:30 (last order 20:30) · LA galbi from ₩18,000 · closed Sundays (as of Sept 2026, subject to change) — ordering a full meal here can add up more than you expect
 ---
 
 ## Leave the grilling to the staff
@@ -56,8 +56,8 @@ Already full, I skipped the **gyeranmari** this place is known for and ordered o
 ## Before you go
 
 - **Ordering** — galbi is usually from two portions. On a first visit, adding a gyeranmari rounds out the table.
-- **Price** — I couldn't confirm it this time. Just know that coming in for "a quick drink" and then ordering around can run up a fair bill.
-- **Hours · closing day** — not confirmed. Check the map or call before you go.
+- **Price** — LA galbi runs from ₩18,000 (as of September 2026, subject to change). Just know that coming in for "a quick drink" and then ordering around can run up a fair bill.
+- **Hours · closing day** — Mon–Sat 11:30–21:30 (last order 20:30), closed Sundays (as of September 2026, subject to change). Still worth checking the map or calling before you go.
 - **Seating** — it's an old alley place, so it can get crowded in the evening.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

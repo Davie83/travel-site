@@ -21,7 +21,7 @@ info:
   - Admission|**Completely free** 🎫 — **no ticket for the park or the zoo.** No booking, no queue
   - Zoo|**10:00 AM to 5:00 PM** (closes earlier than the park)
   - Botanical garden|**Closed for renovation** (27 May 2026 to **an expected reopening in late 2027**)
-  - Rides|The amusement rides inside the park are **charged separately** (changes often — please verify)
+  - Rides|The amusement rides inside the park are **charged separately** — freepass runs **30,000 KRW adults · 27,000 teens · 26,000 children** (as of last check — may change)
   - Nearest station|**Children's Grand Park Station** (Line 7) Exit 1 · **Achasan Station** (Line 5) Exit 4
   - Time needed|**1 to 2 hours** at an easy pace; half a day to see everything
 ---
@@ -95,7 +95,7 @@ The reason to write about it is different. It earns its place **when your route 
 - **The park is open from 5:00 AM to 10:00 PM**
 - **The zoo runs 10:00 AM to 5:00 PM.** Time your visit around this if you want the animals
 - **The botanical garden is closed for renovation**, with reopening expected in late 2027
-- **The rides are charged separately** and are not covered by park entry
+- **The rides are charged separately** and are not covered by park entry. The freepass runs around 30,000 KRW for adults (may change)
 - **Line 7 takes you to the gate.** The station shares the park's name, so it is hard to miss
 - **One to two hours** is enough for an easy loop
 - **Think about shade in summer and wind in winter.** Most of it is open air

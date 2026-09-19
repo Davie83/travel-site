@@ -14,7 +14,7 @@ info:
   - Menu|**Donkkaseu** (pork cutlet) · **kimchi fried rice set** (cutlet + kimchi fried rice) — the set is the value pick
   - Style|**Old-school Korean cutlet (gyeongyangsik)** — brown sauce, fried egg. Not the thick Japanese katsu that's popular now
   - Portion|**Very large.** You may not finish the set
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|**10:30 AM–9:00 PM** · **kimchi fried rice set around 10,000 won** · a regular closing day isn't confirmed (sources disagree — changes often, please verify)
 ---
 
 I stopped here for a late meal after a funeral at Hanyang University nearby. It's **a cutlet place people around Wangsimni and Haengdang-dong know for value**.
@@ -42,7 +42,7 @@ The cutlet itself is large, and then a full bowl's worth of fried rice arrives o
 ## Good to know before you order
 
 - **Getting there** — Haengdang-dong, Seongdong-gu, between Hanyang University and Wangsimni Station. The name is common, so check the branch on the map before you go.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — Open **10:30 AM–9:00 PM**, the **kimchi fried rice set runs around 10,000 won**. The regular closing day is unclear — sources disagree — so check the map or call before you go.
 - **Ordering** — the kimchi fried rice set is the value pick. If the volume is daunting, get a plain cutlet, or share between two.
 - **Spice level** — the cutlet and brown sauce are not spicy. The kimchi fried rice in the set is only mildly spicy (about 1 out of 5).
 - **Utensils** — a fork and knife come with it. No chopstick skills needed.
@@ -59,4 +59,4 @@ The main thing to know is that this is a different dish from Japanese *tonkatsu*
 - ⚠️ You have a small appetite — the set is genuinely a lot
 - ⚠️ You're expecting a thick Japanese katsu — this is a different thing
 
-> A personal record from a stop made after a nearby funeral. Taste and portion judgements are personal preference, and I couldn't confirm hours, prices or the closing day this time — check the venue's details once more before you go.
+> A personal record from a stop made after a nearby funeral. Taste and portion judgements are personal preference. Hours and prices are as confirmed above, but the closing day I couldn't pin down this time — check the venue's details once more before you go.

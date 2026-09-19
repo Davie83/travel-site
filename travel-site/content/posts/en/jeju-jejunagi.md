@@ -14,7 +14,7 @@ info:
   - Menu|**Hitsumabushi** (Nagoya-style grilled eel over rice) · takeout available
   - What comes with it|Eel rice + garnishes (seaweed, sesame, water dropwort, wasabi, etc.) + dashi broth · **eaten three ways**
   - This time|**Got it to go** because the weather was good, and ate it outside
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|**11:00 AM – 9:00 PM** (break 3–5 PM, last order 2 PM / 8 PM) · Hitsumabushi ₩39,000 (special ₩53,000) · no regular closing day (as of last check — subject to frequent change)
 ---
 
 The taste I got in Nagoya after trying to book a table twice at an old restaurant there — that's what suddenly came back to me in Aewol.
@@ -55,9 +55,9 @@ As in the photo, the garnishes come divided into little compartments. Because it
 
 ## Before you go
 
-- **Location, hours, prices, closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours, prices, closing day** — 11:00 AM–9:00 PM (break 3–5 PM, last order 2 PM/8 PM), hitsumabushi ₩39,000 (special ₩53,000), no regular closing day. This is as of last check and can change, so confirm on the map or by phone before you go.
 - **Takeout** — available. Good for eating nearby in fine weather.
 - **How to eat it** — plain / with garnishes / with broth poured over, in three passes.
 - **Want noodles instead?** — [Aewolli Sun Memil Makguksu](/en/posts/jeju-aewol-makguksu) is a short drive away, in the same Aewol-eup.
 
-> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.
+> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day are as of when I checked and can change often — check the venue's details once more before you go.

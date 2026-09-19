@@ -14,7 +14,7 @@ info:
   - What it is|A **cat cafe** — you order a drink and stay in the space with the cats
   - Branch|**Hongdae branch** · the name suggests there are others
   - Visitors|Plenty of **foreign visitors** too
-  - Admission · time limit · closing day|Not confirmed (changes often — please verify)
+  - Admission · time limit · closing day|₩20,000 adult · ₩15,000 under 20 · 12:00–22:00 (last entry 21:00) · closed the 1st and 3rd Monday of each month (as of Sept 2026, subject to change)
 ---
 
 ## A cat cafe I wandered into
@@ -45,7 +45,7 @@ It's **close to Hongik Univ. Station Exit 9**, and there were **plenty of foreig
 ## Before you go
 
 - **Location** — near Hongik Univ. Station Exit 9, basement level.
-- **Admission · time limit · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Admission · time limit · closing day** — ₩20,000 for adults (₩15,000 under 20), open 12:00–22:00 (last entry 21:00), closed the 1st and 3rd Monday of each month (as of September 2026, subject to change). Still worth checking the map or calling before you go.
 - **Etiquette** — don't wake or pick up the cats. Treats only per the cafe's rules.
 - **Nearby** — a short walk toward Sangsu-dong, [Yokosuka Tsunami Sangsu](/en/posts/seoul-yokosuka-tsunami-sangsu), the aged-sashimi izakaya with the pre-opening line, is in the same broad Hongdae area.
 

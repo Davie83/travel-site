@@ -17,7 +17,7 @@ info:
   - Restaurant|Butanchu, **Hongdae main branch** (부탄츄 홍대본점) — other branches in Konkuk Univ. and Sinchon
   - Address|75 Wausan-ro 35-gil, Mapo-gu, Seoul (와우산로35길 75)
   - Phone|02-3144-3304
-  - Hours|**11:30 AM to 10:00 PM** (changes often — please verify) · **(no closing-day information available)**
+  - Hours|**11:30 AM to 10:00 PM** (changes often — please verify) · **no regular closing day** (as of last check — may close over public holidays)
   - What to order|**Toko tonkotsu** (the rich one) · shio tonkotsu (the clean one) · shoyu tonkotsu (soy)
   - Set|**Toko tonkotsu + karaage donburi set 13,000 KRW** (2025 figure — changes often, please verify)
   - Spice|**The tonkotsu broth is not spicy** (a little chili powder may be sprinkled on top)

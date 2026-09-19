@@ -15,7 +15,7 @@ info:
   - Phone|061-333-4292
   - Hours|**8:00 AM ~ 8:00 PM** · (no closing-day info)
   - Google rating|4.2 (**5,790 reviews**)
-  - Queue|(changes often — please verify) — bookable via the CatchTable app
+  - Queue|**Usually some wait** — up to 40–60 minutes at lunch, quietest right at the 8 AM opening · bookable via the CatchTable app (varies by day)
 ---
 
 *Naju gomtang* is one of the few Korean dishes named after the town that makes it. **Hayanjip is the restaurant most associated with it.**

@@ -17,10 +17,10 @@ info:
   - Restaurant|Dorimhang, **Yeongdeungpo branch** (도림항 영등포점) — **the main branch is elsewhere** (8 Jowon-ro 4-gil, Gwanak-gu, near Guro Digital Complex)
   - Address|**36 Yeongjung-ro**, Yeongdeungpo-gu, Seoul (영중로 36), 1st floor
   - Phone|0507-1303-1386 (not listed on Google Maps — please verify)
-  - Hours|**5:00 PM to midnight** · last order **10:30 PM** (changes often — please verify)
-  - Closing day|**Closed every Sunday** (changes often — please verify)
-  - What to order|**Today's aged sashimi: small 39,000 KRW · medium 59,000 · large 79,000** (changes often — please verify)
-  - Also|Whole fried squid 16,000 KRW · spicy beef tripe hot pot 35,000 · futomaki (changes often — please verify)
+  - Hours|**5:00 PM to midnight** · last order **10:30 PM** (per DiningCode — may change)
+  - Closing day|**Closed every Sunday** (per DiningCode — may change)
+  - What to order|**Today's aged sashimi: small 39,000 KRW · medium 59,000 · large 79,000** (per DiningCode — may change)
+  - Also|Whole fried squid 16,000 KRW · spicy beef tripe hot pot 35,000 · futomaki (per DiningCode — may change)
   - Spice|**Sashimi is not spicy at all**
   - Booking|**CatchTable** · on site, remote queueing via **Tabling**
   - Queue|**Full soon after opening in the evening.** One review logs being 17th in line and waiting 90 minutes

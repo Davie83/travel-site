@@ -15,7 +15,7 @@ info:
   - Phone|042-533-4586
   - Hours|**11:30 AM ~ 8:30 PM** · (no closing-day info)
   - Google rating|3.9 (725 reviews)
-  - Queue|(changes often — please verify) — busy at meal times
+  - Queue|**Usually some wait** — busiest at lunch and dinner, quieter around 2–3 PM on weekends (varies by day)
 ---
 
 *Kongguksu* is one of the harder Korean dishes for a visitor to judge, because **nothing about it announces itself.** Cold noodles in a chilled soy-milk broth. No chilli, no garlic hit, no obvious seasoning. On a first encounter it can read as "noodles in plain soy milk."
@@ -50,7 +50,7 @@ Treat the bowl and the kimchi as one dish rather than a main and a side, and the
 
 - **Where** — Doma-dong, Seo-gu. A little out from the Dunsan city centre.
 - **Opens 11:30 AM.** Not a breakfast option.
-- **Busy** — 725 reviews on a neighbourhood noodle shop tells you something. Expect a wait at meal times.
+- **Busy** — 725 reviews on a neighbourhood noodle shop tells you something. Expect a wait at meal times; weekend afternoons around 2–3 PM tend to be quieter.
 - **Parking** — a back-street location; don't count on it.
 - **Language** — a local shop, no English menu expected. Pointing works.
 - ✅ Good if you want a light, drinkable version rather than a heavy one, you've found kongguksu too thick or pasty before, or you want a proper meal for under ₩10,000

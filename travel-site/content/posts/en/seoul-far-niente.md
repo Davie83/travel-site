@@ -14,7 +14,7 @@ info:
   - Menu|Mostly **Western** · **cream gnocchi gratin**, pasta, dessert
   - Dessert|Churros with ice cream, tiramisu and so on — the dessert has a good name
   - Room|**A private room is available above a set spend** (for a group of your own)
-  - Hours · prices · closing day|Not confirmed (check before you go)
+  - Hours · prices · closing day|**Weekdays (Mon-Thu) noon-1am, Fri noon-2am, Sat 11:30am-2am**, no regular closing day · **cream gnocchi gratin around 25,000 KRW** (as of research; subject to change)
 ---
 
 It's a Western restaurant in Sinsa-dong. I went back after a few years, and it tasted the way I remembered.
@@ -57,7 +57,7 @@ Order above a set amount and you can eat in a private room. It's good for when y
 
 - **Getting there** — Sinsa-dong, Gangnam-gu, Seoul. Check the branch and the sign on the map before you go.
 - **Booking** — recommended for evenings and weekends. The private room has a minimum-spend condition, so ask ahead.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — weekdays noon-1am, Friday to 2am, Saturday 11:30am-2am, no regular closing day. Cream gnocchi gratin runs around 25,000 KRW (as of research; worth a check before you go since it can shift).
 - **If Korean food sounds better instead** — [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is another option in the same Gangnam area.
 
 > Written up from a visit of my own. Judgements on the food and the plating are personal taste, and hours, prices and the private-room condition can change — check with the restaurant once more before you go.

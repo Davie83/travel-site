@@ -15,7 +15,7 @@ info:
   - Character|**A hanok bakery cafe** — coffee and bread in a large traditional building, plenty of seating
   - Bread|A **smaller range** than a typical bakery cafe · signage throughout pushing the **"master baker"** angle
   - My note|The space pulled me in; the bread felt **more ordinary than expected** · the room still did its job
-  - Hours · prices · closing day|Not confirmed (check before you go)
+  - Hours · prices · closing day|**Daily 10:00–22:00** (last order 21:00) · Americano around ₩6,500 · no fixed closing day found, appears to run daily (confirmed as of research date — worth double-checking before you go)
 ---
 
 Driving past Sapgyocheon for work, what made me pull over wasn't the bread — it was a hanok that caught my eye.
@@ -50,7 +50,7 @@ Approach it as a restaurant and it disappoints; approach it as a **hanok cafe** 
 - **Getting there** — near the Sapgyocheon sea wall, Inju-myeon, Asan, Chungnam. Check the name on the map before you set off.
 - **Transport** — a rental car is assumed. There's a large car park in front.
 - **Ordering** — pick bread at the display and pay, coffee separately at the counter. Buying a few to eat on the road works fine.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — daily 10:00–22:00 (last order 21:00), Americano around ₩6,500, no fixed closing day found. This can still change, so check the map or call before you go.
 - **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), which looks out over Cheongpung Lake.
 
-> This is a record I kept after visiting in person. Taste is personal, and since I couldn't pin down the prices, hours, or closing day, please double-check the shop's details before you head out.
+> This is a record I kept after visiting in person. Taste is personal, and while I've confirmed the hours, prices, and closing day above, these can still change — please double-check the shop's details before you head out.

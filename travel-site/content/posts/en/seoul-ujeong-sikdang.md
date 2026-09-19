@@ -14,7 +14,7 @@ info:
   - Mains|**Spicy pork · spicy squid** — served baekban-style with rice, soup and side dishes
   - Hidden item|**Banban** — half rolled omelette, half pan-fried sausage
   - Character|An old market diner · fine for eating alone or a quick meal
-  - Hours · prices · closing day|Not confirmed (Namdaemun Market often closes Sundays · check before you go)
+  - Hours · prices · closing day|**Weekdays 10:00–21:00** (break 15:00–16:30) · **closed Sundays** · jeyuk-bokkeum/banban 10,000 KRW each, ojingeo-bokkeum around 12,000 (as of last check — may change)
 ---
 
 It's a Korean diner tucked away inside Namdaemun Market. Back in an alley, so you may wander a bit the first time — but once you know it, it's a place you come back to.
@@ -57,6 +57,6 @@ Pork stir-fried in a gochujang sauce with plenty of onion — a familiar, no-mis
 
 **Ordering** — one of spicy pork or spicy squid, plus a banban if you want it. Rice comes per person.
 
-**Closing day · hours · prices** — I couldn't confirm them this time. Many places in Namdaemun Market close on Sundays, so check before you go.
+**Closing day · hours · prices** — confirmed as weekdays 10:00–21:00 (break 15:00–16:30), closed Sundays; jeyuk-bokkeum and banban run 10,000 KRW, ojingeo-bokkeum around 12,000. Still worth checking before you go.
 
-> Written up after eating there myself. Taste and how spicy something feels vary from person to person, and I couldn't confirm hours, prices or the closing day — check the venue's details once more before you go.
+> Written up after eating there myself. Taste and how spicy something feels vary from person to person. Hours and closing day are confirmed as weekdays 10:00–21:00, closed Sundays (may still change) — check the venue's details once more before you go.

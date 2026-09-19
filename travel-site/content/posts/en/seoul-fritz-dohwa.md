@@ -17,7 +17,7 @@ info:
   - With it|Croissants and other pastries, seasonal ades (sometimes served with thyme)
   - Best for|Tea and a bit of bread, unhurried, after eating nearby
   - Around it|Mapo Station's food streets — plenty of places to eat
-  - Price · hours · closing day|Not confirmed (check before you go)
+  - Price · hours · closing day|Hours confirmed: **weekdays 08:00–22:00 · weekends/holidays 10:00–22:00** (no fixed closing day found) · prices not confirmed (check before you go)
 ---
 
 A cafe near Mapo Station, in an old Western-style house that's been converted. Of Fritz Coffee's several branches, this is the main one on the Mapo side.
@@ -57,6 +57,6 @@ Through the tiled gate there's a small yard and a short flight of steps. The bri
 - **Ordering** — coffee is the headline, but bread and an ade on their own are fine. Coming for dessert, one or two pastries and a drink is enough.
 - **Seating** — a popular branch; it gets crowded on weekends and afternoons.
 - **A meal first** — if you want something substantial before dessert, [Mapo Yangji Seolleongtang](/en/posts/seoul-mapo-yangji-seolleongtang), a long-time regular spot near the station, is an easy walk too.
-- **Price · hours · closing day** — not confirmed. Check the map or call before you go.
+- **Price · hours · closing day** — hours confirmed as weekdays 08:00–22:00, weekends/holidays 10:00–22:00. Prices and a fixed closing day weren't confirmed, so check the map or call before you go.
 
-> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally), and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.
+> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally). Hours are confirmed as above, but I couldn't pin down prices or a fixed closing day — please check the shop's current information once more before you go.

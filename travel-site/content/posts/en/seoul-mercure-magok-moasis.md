@@ -15,7 +15,7 @@ info:
   - Hours|**Dinner service only** · not available at lunch
   - Set|Recently a set that **adds a striploin steak** seems to have appeared (confirm when booking)
   - Reservation|**Discount with a NAVER reservation** · booking recommended
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|**Dinner service 17:00-21:30** (two seatings) · **roughly 50,000-60,000 KRW per person**, varies with seasonal promotions (as of research; confirm current price) · no closing day found — confirm latest pricing when booking
 ---
 
 ## A card worth playing when Korean food isn't working
@@ -36,7 +36,7 @@ The food is built to **go with wine**: steak, ribs, sausages, olives, salads.
 
 **A NAVER reservation gets you a discount.** Booking ahead is the way to go.
 
-Recently there seems to be an unlimited-wine-buffet set that **adds a striploin steak**. Check the current line-up when you book — and since hours, prices, and the closing day weren't confirmed this time either, it's worth confirming all of it together before you go.
+Recently there seems to be an unlimited-wine-buffet set that **adds a striploin steak**. Check the current line-up when you book. Dinner service runs 17:00-21:30 across two seatings, and pricing lands somewhere in the 50,000-60,000 KRW per-person range depending on the season's promotion — worth confirming the exact figure when you book.
 
 ## For foreign visitors
 

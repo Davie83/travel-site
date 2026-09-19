@@ -17,7 +17,7 @@ info:
   - On the side|**Gamja-jeon** (a pancake of shredded potato) — recently well known · fine on its own
   - My note|The broth itself carries some chicken fat and the pancake is oil-fried, so going between the two was oil on oil and **didn't feel especially harmonious**
   - Spice|**Barely any** — a clear chicken broth
-  - Hours · prices · closing day|Not confirmed (check before you go)
+  - Hours · prices · closing day|11:00–22:00 (break 14:30–16:30) · dak-gomtang from ₩9,000 · closed Sundays (as of Sept 2026, subject to change)
 ---
 
 ## The broth is the whole reason
@@ -56,6 +56,6 @@ One thing, though. **The broth already carries a fair amount of chicken fat, and
 - **Ordering** — the dak-gomtang first. Add the gamja-jeon only if you genuinely love potato pancake.
 - **Seasoning** — the broth comes plain; adjust with salt and pepper. Rice can go in the soup or be eaten separately.
 - **Another option** — if seafood sounds better in the same Gwanghwamun area, [Seochon Gyedanjip](/en/posts/seoul-seochon-gyedanjip), a seasonal-seafood spot in a Seochon alley, is also nearby.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — Dak-gomtang from ₩9,000; open 11:00–22:00 (break 14:30–16:30), closed Sundays (as of September 2026, subject to change). Still worth checking the map or calling before you go.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.

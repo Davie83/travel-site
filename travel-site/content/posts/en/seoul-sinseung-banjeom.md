@@ -15,7 +15,7 @@ info:
   - Heat|Jjamppong at **level 4** — it can feel very hot if you're not used to spice
   - Room|**On the large side**, and fairly full even at dinner
   - Note|There seem to be other branches — a friend says several of the dishes are good
-  - Prices · hours · closing day|Not confirmed (check before you go)
+  - Prices · hours · closing day|**Hours** weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) · weekends 10:50 AM–8:30 PM · **no regular closing day found** (per Diningcode) · dish prices vary by order (reference: uni-jjajangmyeon ₩11,500) — worth a quick check before you go since this can change
 ---
 
 ## The find this time: kkanpung shiitake
@@ -57,7 +57,7 @@ Yeouido is an office district, so a lot of places pack out at lunch — but this
 
 - **Location** — Yeouido, Yeongdeungpo-gu, Seoul. There may be other branches, so check which one on the map before you go.
 - **Ordering** — if you can't take heat, choose a milder noodle or rice dish instead of the jjamppong, and have the kkanpung shiitake alongside.
-- **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Prices · hours · closing day** — hours run weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) and weekends 10:50 AM–8:30 PM, with no regular closing day found (per Diningcode). Dish prices vary by order — check the menu on-site, and it's still worth a quick check before you go since this can shift.
 - **Nearby** — still in Yeouido, [Beyond Vietnam (National Assembly branch)](/en/posts/seoul-beyond-vietnam) is an easy walk if you're craving pho for lunch instead.
 
-> This post is a write-up of a visit in person. The heat level and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or the menu at individual branches — please check the shop's current information once more before you go.
+> This post is a write-up of a visit in person. The heat level and taste are a matter of personal preference, prices, hours and closing day are based on Diningcode's listing, and the menu may vary by branch — please check the shop's current information once more before you go.

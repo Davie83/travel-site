@@ -15,7 +15,7 @@ info:
   - Hours|**Mon-Fri 11:00 AM to 10:00 PM** · closed **every Sunday**
   - Watch out|Weekdays **closed 3:00 to 5:00 PM** · **Saturday closes at 2:00 PM**
   - What to order|**Jeongsik sundaeguk** (set) 15,000 · Abai sundaeguk 14,000 · plain sundaeguk 10,000
-  - For a group|**Modeum** platter (pork + sausage + soup) 28,000-35,000 — sources differ, please verify
+  - For a group|**Modeum** platter (pork + sausage + soup) — small ₩35,000 · medium ₩41,000 (as of Sept 2026, subject to change)
   - Google rating|4.2 (**501 reviews**)
   - Nearest station|**Mullae Stn.** (Line 2) · same neighbourhood as Mullae Art Village
 ---

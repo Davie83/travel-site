@@ -13,7 +13,7 @@ info:
   - Location|414 Gyeongin-ro, Michuhol-gu, Incheon (인천 미추홀구 경인로 414)
   - Menu|**Egg-wrapped gimbap** (the signature) · janchi-guksu · standard bunsik (snack-bar) dishes
   - What I ordered|**Janchi-guksu + egg-wrapped gimbap** (for two)
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|**Open 24 hours, every day** · egg-roll gimbap around 6,000 KRW (as of last check — may change)
 ---
 
 I had something to do in Incheon and stopped here for a quick meal because it's **a snack bar people around here say is well known**.
@@ -42,8 +42,8 @@ But **I'm not sure the "well known nearby" reputation justifies a special trip.*
 ## Before you go
 
 - **Getting there** — Incheon. Check the location on the map before you go.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — confirmed as open 24 hours, every day; egg-roll gimbap runs around 6,000 KRW. Still worth a quick check before you go, since it can change.
 - **Ordering** — most people get one egg-wrapped gimbap each. Add janchi-guksu if you want something with broth.
 - **More of Incheon** — if you're heading out to Yeongjong Island, [Paradise City Cimer](/en/posts/incheon-paradise-cimer) fits into the same Incheon trip.
 
-> Based on a personal visit. Any judgement of taste is personal preference. Hours, prices, and the closing day I couldn't confirm this time — check the venue's details once more before you go.
+> Based on a personal visit. Any judgement of taste is personal preference. Hours and closing day are confirmed as 24 hours, every day (may still change) — check the venue's details once more before you go.

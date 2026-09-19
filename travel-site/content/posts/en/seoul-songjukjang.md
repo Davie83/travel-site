@@ -15,7 +15,7 @@ info:
   - Phone|02-2631-9184
   - Closes|**9:30 PM** · (no closing-day info)
   - Opening time / closed days|(changes often — please verify)
-  - Price of jjamppong & dumplings|(changes often — please verify)
+  - Price of jjamppong & dumplings|**Jjamppong ₩11,000 · Gunmandu ₩9,500** (per Diningcode, may change)
   - Rice dishes|**₩10,500–18,000** (read off the menu card)
   - Drinks|Soju & beer **₩5,000** · Tsingtao ₩8,500 (read off the menu card)
   - Google rating|3.8 (**794 reviews**)
@@ -59,7 +59,7 @@ Only what I could actually read on the menu card:
 - **Soju and beer ₩5,000 each**, Tsingtao ₩8,500
 - Yantai *gaoliang* liquor ₩14,000 / 24,000 / 43,000 by size
 
-The noodle prices were not visible in my photo, so I have not guessed at them.
+Jjamppong runs about ₩11,000 and the fried dumplings about ₩9,500, per Diningcode's listing — worth a quick check on-site since prices shift.
 
 Worth knowing: Korean law requires restaurants to post ingredient origins, and this menu does — rice from Korea, kimchi and chilli powder from China, shrimp from Vietnam, scallops from China.
 

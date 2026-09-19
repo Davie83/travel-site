@@ -13,7 +13,7 @@ info:
   - City|Gyeongju, North Gyeongsang Province
   - Bulguksa|385 Bulguk-ro · 054-746-9913 · **Opens 9:00 AM** · bulguksa.or.kr
   - Cheomseongdae|839-1 Inwang-dong · **Open until 10:00 PM** — worth seeing after dark
-  - Admission|(please verify) — check each site before you go
+  - Admission|**Free at both sites** — Bulguksa dropped its heritage viewing fee in 2023, Cheomseongdae has been free since 2014 (Bulguksa parking is a separate fee · as of last check)
   - Google rating|Bulguksa 4.6 (**18,044 reviews**) · Cheomseongdae 4.5 (**20,540 reviews**)
   - Getting there|**KTX to Singyeongju Station** · then bus, taxi, or a day tour
   - Local speciality|**Galbi** (grilled beef ribs)
@@ -86,4 +86,4 @@ Gyeongju is also known for **galbi** — grilled beef short ribs. It would be a 
 - ⚠️ One day is not enough
 - ⚠️ Awkward to cover on public transport alone
 
-> Based on a personal visit. Admission and opening hours can change, so anything uncertain is marked **(please verify)**.
+> Based on a personal visit. Admission is confirmed free at both Bulguksa and Cheomseongdae (Bulguksa parking costs extra; may still change). Opening hours and other details are worth checking again before you go.

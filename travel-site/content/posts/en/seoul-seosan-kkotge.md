@@ -13,7 +13,7 @@ info:
   - Restaurant|Seosan Kkotge (서산꽃게)
   - Location|12-3 Dohwa-gil, Mapo-gu, Seoul (서울 마포구 도화길 12-3)
   - Phone|02-719-9693
-  - Opens|**5:30 PM** · (no closing-day info)
+  - Hours|**Lunch 11:50am–2:30pm · Dinner 5:30–8pm** (break 2:30–5:30pm) · no closing-day info found (as of Sept 2026, subject to change)
   - Booking|**Effectively required** — booking button on Google Maps (AutoReserve)
   - Google rating|4.3 (**609 reviews**)
   - Nearest station|**Gongdeok** (Lines 5, 6, Gyeongui-Jungang, Airport Railroad) / **Mapo** (Line 5)
@@ -78,7 +78,7 @@ There is a technique, and it's worth knowing.
 ## Practical notes
 
 - **Parking** is mentioned 17 times in reviews — check ahead (changes often — please verify)
-- **Dinner starts at 5:30 PM.** Lunch hours need confirming
+- **Lunch runs 11:50am–2:30pm, dinner 5:30–8pm** (break 2:30–5:30pm, as of September 2026, subject to change). No regular closing day turned up in a check
 - **Delivery** is available
 - **Dessert** — being in Dohwa-dong, finishing with coffee at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a cafe in a converted old house, is an easy add-on
 - **Getting there** — between **Gongdeok** and **Mapo** stations. Gongdeok connects to the Airport Railroad, so it's easy from Incheon Airport

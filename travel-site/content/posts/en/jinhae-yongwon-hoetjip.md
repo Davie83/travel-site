@@ -17,7 +17,7 @@ info:
   - Restaurant|Yongwon Hoetjip (용원횟집)
   - Address|**242-6 Yongwon-dong-ro**, Jinhae-gu, Changwon, Gyeongnam (용원동로 242-6)
   - Phone|055-547-0455
-  - Hours|**10:00 AM to 9:00 PM** (changes often — please verify) · **(no closing-day information available)**
+  - Hours|**10:00 AM to 9:00 PM** (per Diningcode listing) · **appears to have no regular closing day** — Sundays may close early once the catch runs out
   - What to order|**Fresh cod soup** · the **cod course** (sashimi, pancake, soup) · wild-caught sashimi
   - Season|**Fresh cod is a winter fish.** Reviews mention cold raw fish soup in summer and flounder-mugwort soup in spring
   - Spice|**Not spicy at all** (a clear, unseasoned broth)
@@ -89,6 +89,6 @@ A good place to attach to a Busan itinerary — but one thing to watch for: ther
 - ⚠️ **In summer the fresh cod soup may not be available**
 - ⚠️ **It may strain your budget** (20,000~30,000 KRW per person)
 - ⚠️ Milt is an unfamiliar ingredient for many
-- ⚠️ **The closing day is unconfirmed.** Call ahead if you are travelling far
+- ⚠️ **No regular closing day found, though this isn't fully certain.** Sundays can close early if they sell out — call ahead if you're travelling far
 
 > Written up from a visit of my own; taste is personal preference. Prices and hours shift often, so anything I couldn't pin down is flagged **(changes often — please verify)**.

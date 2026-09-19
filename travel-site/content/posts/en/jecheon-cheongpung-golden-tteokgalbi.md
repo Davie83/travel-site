@@ -13,7 +13,7 @@ info:
   - Location|1682 Cheongpungho-ro, Cheongpung-myeon, Jecheon, North Chungcheong · by Cheongpung Lake (충북 제천시 청풍면 청풍호로 1682)
   - What I ordered|**Tteok-galbi** (two servings) — round patties, served on a hot plate over sliced onion
   - The spread|**A dozen-plus side dishes** + doenjang stew + rice — laid out like a hanjeongsik set
-  - Hours · prices · closing day|Not confirmed (check before you go)
+  - Hours · prices · closing day|**About 9:00 AM – 8:30/9:00 PM** (varies a bit by day) · prices not confirmed · **no regular closing day** (open daily, as of last check — subject to change)
 ---
 
 I gave up counting the side dishes somewhere past ten plates and just focused on eating them all.
@@ -56,8 +56,8 @@ Nothing about it jumps out. It's **faithful to the tteok-galbi flavour you alrea
 ## Before you go
 
 - **Getting there** — Cheongpung-myeon, Jecheon, North Chungcheong. Close to Cheongpung Lake and the Cultural Heritage Complex.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · closing day** — roughly 9:00 AM–8:30/9:00 PM (varies a bit by day), no regular closing day, as of last check. Prices I still couldn't confirm — check the map or call before you go.
 - **Bundling** — it slots in well as lunch on a Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car itinerary.
 - **Staying over?** — [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), just up the road with the lake view, pairs naturally with a night here.
 
-> Written up after my own visit. The flavour and the spread are down to personal taste, and hours, prices and the closing day I couldn't pin down this time — check the venue's details once more before you go.
+> Written up after my own visit. The flavour and the spread are down to personal taste. Hours and closing day are as of when I checked, and prices I still couldn't pin down — check the venue's details once more before you go.

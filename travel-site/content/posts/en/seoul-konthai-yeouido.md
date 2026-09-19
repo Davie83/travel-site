@@ -16,7 +16,7 @@ info:
   - Taste|**Sour-forward**, mildly spicy · topped with ground peanut and cilantro
   - Room|A bright space done up with mosaic lamps and a Bangkok street-scene mural. Busy with office workers at lunch
   - My angle|I like sour flavours (the way I like acidity in coffee), so when I want a tom yum noodle soup I go to Konthai or Soi Yeonnam
-  - Price · hours · closing day|Not confirmed (check IFC Mall info before you go)
+  - Price · hours · closing day|**Open daily 11am-10pm** (last order 9pm), no closing day found · **seafood tom yum noodle soup 15,900 KRW** (as of research; subject to change)
 ---
 
 The Yeouido branch of Konthai. It's inside IFC Mall, which has become a symbol of Yeouido.
@@ -46,7 +46,7 @@ This one comes generous with mussels, clams, shrimp and squid. The broth is sour
 - **Ordering** — if you want a sour broth, the seafood tom yum noodle soup. You can ask for no cilantro.
 - **Seating** — there can be a wait at the lunch peak (12–1). A bit earlier or later is calmer.
 - **Location** — IFC Mall food court, Yeouido. An underground moving walkway from Yeouido Station Exit 3 gets you there without stepping outside, rain or not.
-- **Price · hours · closing day** — not confirmed. Check the map or IFC Mall info before you go.
+- **Price · hours · closing day** — open daily 11am-10pm (last order 9pm), no closing day found. Seafood tom yum noodle soup runs 15,900 KRW (as of research — worth a check via map or IFC Mall info before you go).
 
 This especially suits you if:
 
@@ -58,4 +58,4 @@ This especially suits you if:
 - ⚠️ Anyone put off by sourness or cilantro — tom yum is built around the sour note
 - ⚠️ Anyone wanting a quiet meal — it's crowded with office workers at lunch
 
-> Written from repeat visits over time. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go.
+> Written from repeat visits over time. Taste and preference vary by person, and prices or hours can change — please check the shop's current information once more before you go.

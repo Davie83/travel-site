@@ -360,6 +360,8 @@ module.exports = {
     /* 여행지 · 풍경 — travel 글에도 하단 칩이 붙도록 하는 축 */
     { key: '스파',     names: { ko: '스파',     en: 'Spa',             ja: 'スパ',         zh: '水療' } },
     { key: '해변',     names: { ko: '해변',     en: 'Beach',           ja: 'ビーチ',       zh: '海灘' } },
+    { key: '갯벌',     names: { ko: '갯벌',     en: 'Mudflat',         ja: '干潟',         zh: '灘塗' } },
+    { key: '캠핑',     names: { ko: '캠핑',     en: 'Camping',         ja: 'キャンプ',     zh: '露營' } },
     { key: '호수',     names: { ko: '호수',     en: 'Lake',            ja: '湖',           zh: '湖' } },
     { key: '계곡',     names: { ko: '계곡',     en: 'Valley stream',   ja: '渓谷',         zh: '溪谷' } },
     { key: '드라이브', names: { ko: '드라이브', en: 'Scenic drive',    ja: 'ドライブ',     zh: '自駕兜風' } },

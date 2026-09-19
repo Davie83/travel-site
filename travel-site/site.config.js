@@ -411,6 +411,13 @@ module.exports = {
   tipsPages: ['transport', 'money', 'maps', 'help', 'dining'],
 
   genres: [
+    /* korean-seafood 는 korean-bbq 보다 앞에 둡니다 — 꼼장어처럼 "소금구이·양념구이"로
+       먹는 해산물이, 장르 태그 목록에 겹치는 조리법 태그(소금구이) 때문에 고기구이로
+       잘못 분류되는 걸 막기 위해서입니다 (Sep 2026, 공평동꼼장어 오분류 발견). 재료
+       태그(꼼장어 등)가 조리법 태그보다 먼저 매칭되게 합니다. */
+    { slug: 'korean-seafood',   emoji: '🦑',
+      names: { ko: '해산물',     en: 'Korean Seafood',    ja: '韓国の魚介',    zh: '韓式海鮮' },
+      tags:  ['해산물', '물회', '회덮밥', '숙성회', '모둠회', '대게', '킹크랩', '생대구탕', '밴댕이', '전복죽', '아구찜', '간장게장', '게장', '생선구이', '갈치조림', '꼼장어'] },
     { slug: 'korean-bbq',       emoji: '🍖',
       names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韓式烤肉' },
       tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살', '한우', '곱창', '대창', '막창'] },
@@ -420,9 +427,6 @@ module.exports = {
     { slug: 'korean-noodles',   emoji: '🍜',
       names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韓式麵食' },
       tags:  ['냉면', '막국수', '콩국수', '국수', '칼국수'] },
-    { slug: 'korean-seafood',   emoji: '🦑',
-      names: { ko: '해산물',     en: 'Korean Seafood',    ja: '韓国の魚介',    zh: '韓式海鮮' },
-      tags:  ['해산물', '물회', '회덮밥', '숙성회', '모둠회', '대게', '킹크랩', '생대구탕', '밴댕이', '전복죽', '아구찜', '간장게장', '게장', '생선구이', '갈치조림'] },
     { slug: 'chinese-korean',   emoji: '🥢',
       names: { ko: '중식',       en: 'Chinese-Korean',    ja: '韓国式中華',    zh: '韓式中餐' },
       tags:  ['중식', '자장면', '짬뽕', '유린기'] },

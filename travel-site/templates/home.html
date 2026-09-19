@@ -18,6 +18,17 @@
         <!-- "내 주변" — 검색(계획해서 찾기) 바로 아래에 둡니다 (지금 서 있는 자리에서 찾기).
              위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. build.js 의 nearWidgetHTML() 이 채웁니다. -->
 {{near}}
+        <!-- 도착 첫날 막히는 것들 — 원래 히어로 아래 화면 꽉 채우는 띠였는데,
+             "내 주변 맛집 찾기" 바로 밑으로 옮기고 폭을 줄여서, 히어로 다음에
+             바로 Davie's Pick 이 보이게 합니다 (Sep 2026). -->
+        <a class="tips-strip tips-strip-compact" href="{{tipsHref}}">
+          <span class="tips-strip-ico" aria-hidden="true">🧭</span>
+          <span class="tips-strip-text">
+            <strong class="tips-strip-title">{{tipsTitle}}</strong>
+            <span class="tips-strip-tags">{{tipsTags}}</span>
+          </span>
+          <span class="tips-strip-cta">{{tipsCta}} →</span>
+        </a>
       </div>
 
       <div class="hero-map-card">
@@ -38,16 +49,6 @@
   </section>
 
   <div class="wrap">
-
-    <!-- 도착 첫날 막히는 것들 — 처음 오는 사람에게 가장 급한 정보라 맨 위에 둡니다 -->
-    <a class="tips-strip" href="{{tipsHref}}">
-      <span class="tips-strip-ico" aria-hidden="true">🧭</span>
-      <span class="tips-strip-text">
-        <strong class="tips-strip-title">{{tipsTitle}}</strong>
-        <span class="tips-strip-tags">{{tipsTags}}</span>
-      </span>
-      <span class="tips-strip-cta">{{tipsCta}} →</span>
-    </a>
 
 {{pickShelf}}
 

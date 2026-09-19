@@ -26,11 +26,11 @@ Over the years this stretch has visibly developed — more cafes, a more finishe
 
 A wooden boardwalk runs through the pine trees straight down to the sand and the water. It's an easy, well-kept walk in — no real effort involved.
 
+![A wooden boardwalk through the pine trees at Donmak Beach, with tents pitched on the sand beside it](/assets/img/incheon-ganghwa-donmak-beach-boardwalk.jpg)
+
 ## High tide, low tide, mudflat
 
 This is a West Sea beach, so the scenery shifts completely with the tide. At high tide it's an ordinary beach. At low tide, the mudflat stretches out for a long way. Various creatures live in it, but collecting anything is banned to protect the ecosystem — look, don't take.
-
-![The "Donmak" lettering on the sand at Donmak Beach, with the exposed mudflat and sea behind it](/assets/img/incheon-ganghwa-donmak-beach-sign.jpg)
 
 Large "Donmak" block letters stand on the sand. There's no mistaking where you are, and it's a solid photo spot — the mudflat and sea fill the frame behind it.
 

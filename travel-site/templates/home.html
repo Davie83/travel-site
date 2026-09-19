@@ -25,9 +25,13 @@
           <h2>{{findByRegion}}</h2>
           <span class="more">{{regionCount}}</span>
         </div>
+        <!-- 지도는 왼쪽에 크게, 지역 버튼은 오른쪽에 한 줄씩 세로로 —
+             지도가 칩한테 밀리지 않고, 지도 안 글자도 읽을 수 있게 -->
+        <div class="hero-map-row">
 {{map}}
-        <div class="region-chips region-chips-compact">
+          <div class="region-chips region-chips-col">
 {{regionChips}}
+          </div>
         </div>
       </div>
     </div>

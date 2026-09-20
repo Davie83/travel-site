@@ -2384,7 +2384,10 @@ async function build() {
         const base  = baseOf(out);
         const aName = areaName(r.slug, a.slug, code);
         const rName = regionName(r.slug, code);
-        const title = String(t.areaTitleTpl).replace('{area}', aName).replace('{region}', rName);
+        // 특정 동네는 경쟁이 덜한 틈새 소재를 앞세운 <title> 을 site.config.js 에 따로 둘 수 있습니다
+        // (예: 명동 — '명동 맛집'은 최상위 경쟁 키워드라 '남대문시장 노포' 를 앞세움).
+        const title = (a.seoTitle && a.seoTitle[code])
+          || String(t.areaTitleTpl).replace('{area}', aName).replace('{region}', rName);
         const desc  = String(t.areaDescTpl).replace('{area}', aName).replace('{region}', rName);
         const areaIntroTxt = inArea.length >= 2 ? areaIntroText(r.slug, a.slug, code, inArea) : '';
         const indexed = inArea.length >= AREA_PAGE_MIN;

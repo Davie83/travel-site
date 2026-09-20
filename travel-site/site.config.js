@@ -68,6 +68,14 @@ module.exports = {
             ja: '汝矣島はこのサイトがソウルで最も多く記録した地区で、国会とIFC周辺に会社員ランチの老舗と漢江ビューのカフェが集まっています。西汝矣島（国会側）はハドングァンのコムタン、チンジュジプのコングクスといったランチの老舗、それに国会敷地内の漢江ビューのベーカリー、カンビョンソジェ。IFC側にはタイ料理のコンタイ、中華の新勝飯店があります。多くは平日ランチに並ぶので、正午前か13時半以降が楽です。',
             zh: '汝矣島是本站在首爾記錄最多的街區，國會和 IFC 周邊聚集了上班族午餐老店和漢江景觀咖啡館。西汝矣島（國會一帶）是午餐老店 —— 河東館的清燉牛肉湯、晉州家的豆漿麵，還有國會園區裡的漢江景觀烘焙坊江邊書齋；IFC 一側有泰式的 Konthai、韓式中餐的新勝飯店。大多在平日午餐時段要排隊，中午前或一點半後比較從容。' } },
         { slug: 'myeongdong',   names: { ko: '명동·남대문', en: 'Myeongdong & Namdaemun', ja: '明洞・南大門',  zh: '明洞·南大門' },
+          /* '명동 맛집'은 전국 최상위 경쟁 키워드라 새 도메인은 뚫기 어렵습니다.
+             대신 이 동네가 실제로 다루는 더 좁은 소재(남대문시장 노포)를 <title> 앞에 내세워
+             경쟁이 덜한 틈새 검색에서 먼저 걸리게 합니다. (2026-09-21) */
+          seoTitle: {
+            ko: '남대문시장 노포 맛집 — 명동·남대문',
+            en: 'Old-School Eats at Namdaemun Market — Myeongdong & Namdaemun',
+            ja: '南大門市場の老舗グルメ — 明洞・南大門',
+            zh: '南大門市場老店美食 — 明洞·南大門' },
           intro: {
             ko: '명동·남대문은 남대문시장 노포와 명동·남산 관광 동선이 겹치는 곳으로, 냉면·칼국수·갈치조림·비빔밥이 모여 있습니다. 남대문시장 안에는 부원면옥(2층 냉면·만둣국), 우정식당(백반), 호남식당(갈치조림 골목)이 있고, 명동 쪽에는 명동교자 칼국수와 남산 자락 목멱산방 나물 비빔밥이 있습니다. 시장 골목은 처음엔 찾기 어려우니 지도에서 상호를 확인하고 들어가세요.',
             en: 'Myeongdong & Namdaemun is where Namdaemun Market veterans overlap with the Myeongdong–Namsan tourist route — naengmyeon, kalguksu, braised hairtail and bibimbap. Inside the market are Buwon Myeonok (second-floor naengmyeon and dumpling soup), Ujeong Sikdang (home-style set meals) and Honam Sikdang in the braised-hairtail alley; over in Myeongdong there is Myeongdong Gyoja for kalguksu and Mongmyeoksanbang for mild namul bibimbap on the slope of Namsan. The market alleys are hard to find the first time — check the name on the map before you go in.',

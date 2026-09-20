@@ -866,3 +866,194 @@
     try { synth.cancel(); } catch (e) {}
   });
 })();
+
+
+/* ==========================================================================
+   홈 히어로 — 지역별 / 내 주변 탭 전환 (Sep 2026)
+   --------------------------------------------------------------------------
+   "내 주변 맛집 찾기"를 지도 카드 안의 두 번째 뷰로 합쳤습니다. 여기서는
+   .hero-map-pane 에 hidden 속성만 붙였다 뗍니다 — 내 주변 버튼을 누른 뒤
+   모달을 여는 실제 동작은 위쪽의 "내 근처" 스크립트(.near-btn)가 그대로 맡습니다.
+   ========================================================================== */
+(function () {
+  'use strict';
+  var tabs = document.querySelectorAll('.hero-map-tab');
+  if (!tabs.length) return;
+
+  // .nearmodal 은 position:fixed 전체화면 오버레이라 어디 있든 화면엔 똑같이 뜨지만,
+  // nearWidgetHTML() 이 .nearbar 바로 뒤에 형제로 내보내서 지금은 "내 주변" 탭 안에
+  // 같이 들어 있습니다. 그 탭에서 모달을 연 채로 "지역별" 탭으로 바꾸면, 탭이 꺼지며
+  // hidden 이 부모(.hero-map-pane)에 걸려 모달까지 함께 사라져 버립니다(그런데 내부
+  // 상태는 "열림"으로 남아 body 스크롤 잠금 등이 꼬입니다). 그래서 페이지가 뜨자마자
+  // body 로 한 번 옮겨 탭 전환과 완전히 분리해 둡니다.
+  var modal = document.querySelector('.hero-map-pane .nearmodal');
+  if (modal) document.body.appendChild(modal);
+
+  tabs.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var card = btn.closest('.hero-map-card');
+      if (!card) return;
+      var pane = btn.getAttribute('data-pane');
+      card.querySelectorAll('.hero-map-tab').forEach(function (b) {
+        var on = b === btn;
+        b.classList.toggle('is-active', on);
+        b.setAttribute('aria-selected', String(on));
+      });
+      card.querySelectorAll('.hero-map-pane').forEach(function (p) {
+        p.hidden = p.getAttribute('data-pane') !== pane;
+      });
+    });
+  });
+})();
+
+
+/* ==========================================================================
+   홈 히어로 검색 — 결과 미리보기 드롭다운 (Sep 2026)
+   --------------------------------------------------------------------------
+   타이핑하는 즉시 카드 몇 개를 사진과 함께 검색창 바로 아래에 보여줍니다.
+   새로 검색하지 않고, 이미 만들어진 카드의 data-s-* 값(위 setupGrid 가 읽는
+   것과 같은 필드)을 그대로 읽어 점수를 매깁니다 — 두 로직이 갈라지지 않게
+   가중치(이름10·태그8·장소5·본문 토큰완전일치1)를 그대로 맞췄습니다.
+   전체 목록 필터링(아래로 스크롤하면 보이는 #latest-grid)은 위 setupGrid 가
+   같은 입력창의 input 이벤트로 이미 따로 처리합니다 — 이 스크립트는 그 위에
+   얹는 미리보기일 뿐, 필터링 자체를 대신하지 않습니다. */
+(function () {
+  'use strict';
+  var drop = document.querySelector('.search-drop');
+  if (!drop) return;
+
+  var targetId = drop.getAttribute('data-target') || '';
+  var grid  = document.getElementById(targetId);
+  var input = document.querySelector('input[data-target="' + targetId + '"]');
+  var goBtn = document.querySelector('.search-go[data-target="' + targetId + '"]');
+  if (!grid || !input) return;
+
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.card'));
+  if (!cards.length) return;
+
+  // 결과 개수·"검색 결과 없음" 문구는 이미 .search-note 에 다국어로 준비돼 있어 그걸 그대로 읽습니다
+  var note = document.querySelector('.search-note[data-target="' + targetId + '"]');
+  var countTpl = note ? (note.getAttribute('data-tpl')  || '') : '';
+  var jumpTxt  = note ? (note.getAttribute('data-jump') || '') : '';
+  var noneTxt  = note ? (note.getAttribute('data-none') || '') : '';
+
+  function tokenize(s) { return (s || '').split(/[\s·・.,()[\]"'!?:;~–—\/]+/); }
+  function wholeToken(hay, term) {
+    var tk = tokenize(hay);
+    for (var i = 0; i < tk.length; i++) if (tk[i] === term) return true;
+    return false;
+  }
+  function score(card, terms) {
+    var nm = card.dataset.sName || '', tg = card.dataset.sTag || '',
+        pl = card.dataset.sPlace || '', tx = card.dataset.sText || '';
+    var total = 0;
+    for (var i = 0; i < terms.length; i++) {
+      var term = terms[i], s = 0;
+      if (nm.indexOf(term) !== -1) s += 10;
+      if (tg.indexOf(term) !== -1) s += 8;
+      if (pl.indexOf(term) !== -1) s += 5;
+      if (s === 0 && wholeToken(tx, term)) s += 1;
+      if (s === 0) return 0;
+      total += s;
+    }
+    return total;
+  }
+  function esc(x) {
+    return String(x == null ? '' : x).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function cardInfo(card) {
+    var a = card.querySelector('a[href]');
+    var img = card.querySelector('img');
+    // h3 는 "이름" + "설명" 두 span 이 띄어쓰기 없이 붙어 있습니다(카드에서는 CSS 로
+    // 줄을 나눠 보여줌). textContent 를 그대로 쓰면 "동막해수욕장강화도에서..."처럼
+    // 붙어 버려서, 이름만 담은 .t-name 을 우선 찾습니다.
+    var h3 = card.querySelector('h3 .t-name') || card.querySelector('h3');
+    var genre = card.querySelector('.card-genre');
+    var region = card.querySelector('.card-region');
+    var area = card.querySelector('.card-area');
+    var place = [];
+    if (region) place.push(region.textContent.trim());
+    if (area) place.push(area.textContent.trim());
+    var meta = [];
+    if (genre) meta.push(genre.textContent.trim());
+    if (place.length) meta.push(place.join(' '));
+    return {
+      href: a ? a.getAttribute('href') : '#',
+      thumb: img ? img.getAttribute('src') : '',
+      name: h3 ? h3.textContent.trim() : '',
+      meta: meta.join(' · ')
+    };
+  }
+
+  var MAX_ROWS = 5;
+
+  function render(kw) {
+    var terms = kw ? kw.trim().toLowerCase().split(/\s+/).filter(Boolean) : [];
+    if (!terms.length) { close(); return; }
+
+    var hits = [];
+    for (var i = 0; i < cards.length; i++) {
+      var sc = score(cards[i], terms);
+      if (sc > 0) hits.push({ c: cards[i], s: sc });
+    }
+    hits.sort(function (a, b) { return b.s - a.s; });
+
+    if (!hits.length) {
+      drop.innerHTML = '<div class="search-drop-empty">' + esc(noneTxt) + '</div>';
+      drop.hidden = false;
+      return;
+    }
+
+    var top = hits.slice(0, MAX_ROWS);
+    var html = '';
+    for (var j = 0; j < top.length; j++) {
+      var info = cardInfo(top[j].c);
+      // 썸네일 없는 카드(이모지만 쓰는 글)는 빈 src 로 <img> 를 만들면 브로큰 아이콘이
+      // 뜹니다 — 사진이 있을 때만 <img>, 없으면 배경색만 있는 빈 박스로 둡니다.
+      var thumbHTML = info.thumb
+        ? '<img class="search-drop-thumb" src="' + esc(info.thumb) + '" alt="" loading="lazy">'
+        : '<span class="search-drop-thumb"></span>';
+      html += '<a class="search-drop-row" href="' + esc(info.href) + '">'
+        + thumbHTML
+        + '<span class="search-drop-body">'
+        + '<span class="search-drop-name">' + esc(info.name) + '</span>'
+        + '<span class="search-drop-meta">' + esc(info.meta) + '</span>'
+        + '</span>'
+        + '<span class="search-drop-arrow" aria-hidden="true">→</span>'
+        + '</a>';
+    }
+    var countTxt = countTpl ? countTpl.replace('{n}', String(hits.length)) : String(hits.length);
+    html += '<div class="search-drop-foot">'
+      + '<span class="search-drop-foot-count">' + esc(countTxt) + '</span>'
+      + '<span class="search-drop-foot-jump">' + esc(jumpTxt) + ' ↓</span>'
+      + '</div>';
+    drop.innerHTML = html;
+    drop.hidden = false;
+  }
+
+  function close() {
+    drop.hidden = true;
+    drop.innerHTML = '';
+  }
+
+  function jumpToGrid() {
+    close();
+    if (grid.scrollIntoView) grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  input.addEventListener('input', function () { render(input.value); });
+  input.addEventListener('focus', function () { if (input.value.trim()) render(input.value); });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') { e.preventDefault(); jumpToGrid(); }
+    if (e.key === 'Escape') close();
+  });
+
+  document.addEventListener('click', function (e) {
+    if (drop.hidden) return;
+    if (drop.contains(e.target) || input.contains(e.target)) return;
+    close();
+  });
+
+  if (goBtn) goBtn.addEventListener('click', jumpToGrid);
+})();

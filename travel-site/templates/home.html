@@ -8,16 +8,20 @@
       <div class="hero-text">
         <h1>{{tagline}}<img class="flag-deco" src="/assets/img/flag-korea.png" alt="" aria-hidden="true" width="400" height="296" loading="eager"></h1>
         <p>{{description}}</p>
-        <div class="search-box">
-          <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid">
+        <!-- 검색창을 더 눈에 띄게 키우고 끝에 검색 버튼을 붙였습니다. 타이핑하는 즉시
+             바로 아래에 결과 미리보기 드롭다운이 뜹니다(filter.js) — 이미 만들어진
+             카드의 data-s-* 값을 그대로 읽어서 새로 검색하지 않습니다. 버튼은 입력이
+             있으면 드롭다운을 열고, 없으면 목록으로 스크롤합니다. -->
+        <div class="search-box search-box-lg">
+          <span class="search-box-ico" aria-hidden="true">🔍</span>
+          <input id="search" type="search" placeholder="{{searchPlaceholder}}" aria-label="{{searchPlaceholder}}" data-target="latest-grid" autocomplete="off">
+          <button type="button" class="search-go" data-target="latest-grid">{{searchGo}}</button>
+          <div class="search-drop" data-target="latest-grid" hidden></div>
         </div>
         <!-- 검색 중에만 나옵니다. 결과가 화면 아래에 있다는 것을 알려주는 줄입니다
              (검색해도 위쪽 화면이 그대로라 결과를 못 찾는 일이 있었습니다) -->
         <p class="search-note" data-target="latest-grid" data-tpl="{{searchCountTpl}}"
            data-jump="{{searchJump}}" data-none="{{noResult}}" aria-live="polite" hidden></p>
-        <!-- "내 주변" — 검색(계획해서 찾기) 바로 아래에 둡니다 (지금 서 있는 자리에서 찾기).
-             위치는 브라우저 안에서만 쓰고 어디에도 보내지 않습니다. build.js 의 nearWidgetHTML() 이 채웁니다. -->
-{{near}}
         <!-- 도착 첫날 막히는 것들 — 원래 히어로 아래 화면 꽉 채우는 띠였는데,
              "내 주변 맛집 찾기" 바로 밑으로 옮기고 폭을 줄여서, 히어로 다음에
              바로 Davie's Pick 이 보이게 합니다 (Sep 2026). -->
@@ -31,18 +35,33 @@
         </a>
       </div>
 
+      <!-- 지역별 찾기 / 내 주변 찾기를 한 카드 안에서 탭으로 전환합니다 (Sep 2026).
+           예전엔 "내 주변 맛집 찾기"가 왼쪽 검색 밑에 따로 떨어진 버튼이었는데,
+           지도랑 목적이 같은("가게를 찾는다") 기능이라 한 카드로 합쳤습니다.
+           탭 전환은 filter.js 의 작은 스크립트가 .is-active 클래스만 바꿉니다 —
+           내 주변 버튼·모달 자체의 동작(nearWidgetHTML)은 그대로입니다. -->
       <div class="hero-map-card">
         <div class="hero-map-card-head">
-          <h2>{{findByRegion}}</h2>
-          <span class="more">{{regionCount}}</span>
-        </div>
-        <!-- 지도는 왼쪽에 크게, 지역 버튼은 오른쪽에 한 줄씩 세로로 —
-             지도가 칩한테 밀리지 않고, 지도 안 글자도 읽을 수 있게 -->
-        <div class="hero-map-row">
-{{map}}
-          <div class="region-chips region-chips-col">
-{{regionChips}}
+          <div class="hero-map-tabs" role="tablist">
+            <button type="button" class="hero-map-tab is-active" data-pane="region" role="tab" aria-selected="true">🗺️ {{mapTabRegion}}</button>
+            <button type="button" class="hero-map-tab" data-pane="nearby" role="tab" aria-selected="false">📍 {{mapTabNearby}}</button>
           </div>
+          <span class="more hero-map-count">{{regionCount}}</span>
+        </div>
+
+        <div class="hero-map-pane is-active" data-pane="region">
+          <!-- 지도는 왼쪽에 크게, 지역 버튼은 오른쪽에 한 줄씩 세로로 —
+               지도가 칩한테 밀리지 않고, 지도 안 글자도 읽을 수 있게 -->
+          <div class="hero-map-row">
+{{map}}
+            <div class="region-chips region-chips-col">
+{{regionChips}}
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-map-pane" data-pane="nearby" hidden>
+{{near}}
         </div>
       </div>
     </div>

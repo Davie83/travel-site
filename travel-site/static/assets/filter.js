@@ -1026,7 +1026,7 @@
     var countTxt = countTpl ? countTpl.replace('{n}', String(hits.length)) : String(hits.length);
     html += '<div class="search-drop-foot">'
       + '<span class="search-drop-foot-count">' + esc(countTxt) + '</span>'
-      + '<span class="search-drop-foot-jump">' + esc(jumpTxt) + ' ↓</span>'
+      + '<button type="button" class="search-drop-foot-jump">' + esc(jumpTxt) + ' ↓</button>'
       + '</div>';
     drop.innerHTML = html;
     drop.hidden = false;
@@ -1047,6 +1047,11 @@
   input.addEventListener('keydown', function (e) {
     if (e.key === 'Enter') { e.preventDefault(); jumpToGrid(); }
     if (e.key === 'Escape') close();
+  });
+  // "결과 보기 ↓" 버튼은 매번 innerHTML 로 새로 그려지므로, 매번 다시 붙이지 않도록
+  // drop 컨테이너 하나에만 위임해서 듣습니다.
+  drop.addEventListener('click', function (e) {
+    if (e.target.closest('.search-drop-foot-jump')) jumpToGrid();
   });
 
   document.addEventListener('click', function (e) {

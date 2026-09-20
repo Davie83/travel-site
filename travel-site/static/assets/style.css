@@ -483,7 +483,11 @@ img{max-width:100%;display:block;}
   margin-top:4px;padding:10px 12px 4px;border-top:1px solid var(--line);
 }
 .search-drop-foot-count{font-size:12px;color:var(--ink-mute);}
-.search-drop-foot-jump{font-size:12.5px;font-weight:700;color:var(--ink);}
+.search-drop-foot-jump{
+  font:inherit;font-size:12.5px;font-weight:700;color:var(--ink);
+  border:none;background:none;padding:0;cursor:pointer;
+}
+.search-drop-foot-jump:hover{text-decoration:underline;}
 .search-drop-empty{padding:16px 12px;font-size:13px;color:var(--ink-mute);text-align:center;}
 
 /* ==========================================================================

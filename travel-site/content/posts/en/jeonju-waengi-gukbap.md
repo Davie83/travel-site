@@ -55,6 +55,7 @@ I like things spicy, so I added a generous amount of cheongyang chili. The broth
 - **Hours** — Daily 7:00 AM–9:00 PM, said to be open year-round.
 - **Price** — 9,000 won for a bowl of kongnamul-gukbap.
 - **Note** — There's a second branch nearby too, worth checking if the main shop is packed.
+- **Nearby** — [Gyodong Seokgalbi](/en/posts/jeonju-gyodong-seokgalbi) is about a 5-minute walk away. Head there if you get hungry touring the hanok village, or come here when you need something to settle the stomach.
 - **Elsewhere in Jeonbuk** — in Buan, I've also been to [Halmae Pisundae](/en/posts/buan-halmae-pisundae). It's a fair drive from Jeonju though, so plan it as a separate outing rather than pairing them same-day.
 
 > Based on a personal visit. Taste and satisfaction are a matter of personal preference, and prices and hours can change — check again before you go.

@@ -13,7 +13,7 @@ info:
   - Location|88 Dongmun-gil, Wansan-gu, Jeonju, Jeonbuk · on the Dongmun-gil stretch by Jeonju Hanok Village
   - What I ordered|**Kongnamul-gukbap** — comes with a raw egg, bean sprouts refillable
   - What it's known for|Anchovy broth with pesticide-free bean sprouts · **40-plus years selling nothing but this dish**
-  - Price|About **8,000 won** per bowl (as of Sep 2026, can change)
+  - Price|**9,000 won** per bowl (as of Sep 2026, can change)
   - Hours|Daily **7:00 AM – 9:00 PM** · open year-round (as of Sep 2026, can change)
   - Note|There's also a **second branch** · no takeout · parking available
 ---
@@ -53,7 +53,7 @@ I like things spicy, so I added a generous amount of cheongyang chili. The broth
 
 - **Location** — 88 Dongmun-gil, Wansan-gu, Jeonju, near Jeonju Hanok Village.
 - **Hours** — Daily 7:00 AM–9:00 PM, said to be open year-round.
-- **Price** — About 8,000 won for a bowl of kongnamul-gukbap.
+- **Price** — 9,000 won for a bowl of kongnamul-gukbap.
 - **Note** — There's a second branch nearby too, worth checking if the main shop is packed.
 - **Elsewhere in Jeonbuk** — in Buan, I've also been to [Halmae Pisundae](/en/posts/buan-halmae-pisundae). It's a fair drive from Jeonju though, so plan it as a separate outing rather than pairing them same-day.
 

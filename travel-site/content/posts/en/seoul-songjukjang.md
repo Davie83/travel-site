@@ -49,7 +49,7 @@ Come out of **Yeongdeungpo Station (Line 1)** and walk toward the Shinsegae depa
 
 The address is **203 Mullae-ro.** Use the map link; the street layout around the station is busy.
 
-**It closes at 9:30 PM**, earlier than a lot of Seoul, so it is not a late-dinner option. Opening hours and any closing day are worth double-checking. If sashimi sounds better than jjamppong that day, [Dorimhang Yeongdeungpo](/en/posts/seoul-dorimhang) is also within walking distance in the same neighborhood.
+**It closes at 9:30 PM**, earlier than a lot of Seoul, so it is not a late-dinner option. Opening hours and any closing day are worth double-checking. If sashimi sounds better than jjamppong that day, [Dorimhang Yeongdeungpo](/en/posts/seoul-dorimhang) is also within walking distance in the same neighborhood. If ox-tail suyuk sounds better than spicy noodles, [Daehanok](/en/posts/seoul-daehanok-sokkorijjim) is also walkable from here.
 
 ## What things cost
 

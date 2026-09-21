@@ -1413,8 +1413,10 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 .card-meta{flex-wrap:wrap;row-gap:6px;overflow:visible;}
 .card-meta .badge{font-size:11px;padding:2px 9px;font-weight:700;}
 .card-date{margin-left:auto;font-family:var(--en);font-variant-numeric:tabular-nums;}
-/* 카드 매운맛 — 켜진 고추만 (상세 페이지 위젯만 5칸 고정 격자). */
-.card-spicy{display:inline-flex;gap:1px;line-height:1;font-size:12px;}
+/* 카드 매운맛 — 켜진 고추만 (상세 페이지 위젯만 5칸 고정 격자).
+   회색 텍스트색을 물려받아 고추가 흐리게 보이던 것을, 상세 페이지와 같은
+   매운맛 단계별 빨간 톤(--sp-ink)으로 칠해 한눈에 "맵다"가 보이게 합니다 (Sep 2026). */
+.card-spicy{display:inline-flex;gap:1px;line-height:1;font-size:12px;color:var(--sp-ink);}
 
 /* ==========================================================================
    동선 (/saved 페이지)

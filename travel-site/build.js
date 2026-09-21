@@ -1241,7 +1241,7 @@ function heroFillerHTML(base, code, t, totalPlaces) {
       <div class="hero-stat-sep" aria-hidden="true"></div>
       <div class="hero-stat"><strong>${escapeHtml(t.statLangs(LOCALES.length))}</strong><span>${escapeHtml(t.statLangsLabel)}</span></div>
     </div>`;
-  return chipsHTML + '\n' + stats;
+  return stats + '\n' + chipsHTML;
 }
 
 /** 글 하단 "이 근처 같이 가기 좋은 곳" 추천.

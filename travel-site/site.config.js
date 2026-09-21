@@ -394,7 +394,9 @@ module.exports = {
      제외했습니다 (예: "ramen tonkotsu near me" 527노출은 라멘 수요가 아니라
      "내 근처" 검색이라 뺐고, 대신 순위 6~11위로 실제 노출된 文庫拉麵 등
      라멘 관련 쿼리 합산으로 넣었습니다). 검색 트렌드가 바뀌면 이 목록도
-     주기적으로 다시 뽑아야 합니다. */
+     주기적으로 다시 뽑아야 합니다.
+     아구찜(15노출) 대신 카페(21노출 — Dozo Coffee·익선동 수플레·루프캣미·
+     Tailor Coffee 합산, Sep 2026 교체)를 넣었습니다. */
   homePopularSearches: [
     { ko: '복국',       en: 'Pufferfish soup',  ja: 'フグ汁',       zh: '河豚湯' },
     { ko: '꽃게',       en: 'Crab',              ja: 'ワタリガニ',   zh: '花蟹' },
@@ -402,7 +404,7 @@ module.exports = {
     { ko: '짬뽕',       en: 'Jjamppong',         ja: 'チャンポン',   zh: '炒碼麵' },
     { ko: '라멘',       en: 'Ramen',             ja: 'ラーメン',     zh: '拉麵' },
     { ko: '막국수',     en: 'Buckwheat noodles', ja: 'マッククス',   zh: '蕎麥涼麵' },
-    { ko: '아구찜',     en: 'Agujjim',           ja: 'アグチム',     zh: '燉鮟鱇魚' }
+    { ko: '카페',       en: 'Cafes',             ja: 'カフェ',       zh: '咖啡廳' }
   ],
 
   /* ---- 카테고리 --------------------------------------------------------

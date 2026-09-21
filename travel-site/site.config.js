@@ -381,6 +381,21 @@ module.exports = {
     { key: '공원',     names: { ko: '공원',     en: 'Park',            ja: '公園',         zh: '公園' } },
     { key: '뱃놀이',   names: { ko: '뱃놀이',   en: 'Boat ride',       ja: '船遊び',       zh: '船遊' } }
   ],
+
+  /* ---- 홈 히어로 "인기 검색어" 칩 ---------------------------------------
+     tagChips 와 달리 동네·지역 이름도 섞습니다 — 첫 화면에서 바로 눌러볼 만한
+     구체적인 검색어를 보여주는 게 목적이라, 음식 종류든 동네든 상관없습니다.
+     클릭하면 홈 검색(/?q=)으로 가므로 등록되지 않은 자유 텍스트도 됩니다. */
+  homePopularSearches: [
+    { ko: '제주 맛집',     en: 'Jeju food',        ja: '済州グルメ',   zh: '濟州美食' },
+    { ko: '노포',         en: 'Old-school diners', ja: '老舗',         zh: '老字號' },
+    { ko: '소꼬리찜',     en: 'Ox-tail stew',      ja: '牛テール煮込み', zh: '燉牛尾' },
+    { ko: '영등포',       en: 'Yeongdeungpo',      ja: '永登浦',       zh: '永登浦' },
+    { ko: '현지인 맛집',   en: 'Local favorites',   ja: '地元で人気',   zh: '在地人氣店' },
+    { ko: '야식',         en: 'Late-night eats',   ja: '夜食',         zh: '宵夜' },
+    { ko: '명동',         en: 'Myeongdong',        ja: '明洞',         zh: '明洞' }
+  ],
+
   /* ---- 카테고리 --------------------------------------------------------
      slug 이 주소가 됩니다: /travel.html · /food.html
      화면에 보이는 이름은 content/i18n.js 에 언어별로 있습니다.        */

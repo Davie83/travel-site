@@ -1657,6 +1657,20 @@ a.badge-genre:hover{border-color:var(--ink);color:var(--ink);}
 .tips-strip-compact .tips-strip-title{font-size:.88rem;}
 .tips-strip-compact .tips-strip-tags{font-size:.75rem;}
 
+/* 홈 히어로, 검색창 밑 — 인기 검색어 칩 + 신뢰 통계 (Sep 2026).
+   오른쪽 지도 카드가 더 길어 왼쪽 칼럼에 생기던 빈 공간을 채웁니다.
+   .tagchips 를 재사용하되 히어로 안이라 위 여백만 살짝 줄입니다. */
+.hero-chips{margin:18px 0 0;padding-top:16px;}
+.hero-stats{
+  display:flex;align-items:center;
+  margin:14px 0 0;padding:14px 4px;
+  background:var(--surface);border:1px solid var(--line);border-radius:14px;
+}
+.hero-stat{flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;text-align:center;}
+.hero-stat strong{font-size:19px;font-weight:800;color:var(--ink);line-height:1;letter-spacing:-.01em;}
+.hero-stat span{font-size:10.5px;color:var(--ink-mute);}
+.hero-stat-sep{flex:0 0 auto;width:1px;height:26px;background:var(--line);}
+
 /* 글·장르 페이지의 여행 팁 넛지 — 본문 끝, 리액션 앞의 한 줄 */
 .tips-nudge{
   display:flex;align-items:center;gap:9px;

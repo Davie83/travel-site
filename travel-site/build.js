@@ -1208,6 +1208,30 @@ function tagChipsHTML(m, base, code, t) {
     `<span class="tagchips-label">${escapeHtml(t.tagLabel)}</span>${chips}</nav>`;
 }
 
+/** 홈 히어로, 검색창 아래 — 인기 검색어 칩 + 신뢰 통계 한 줄 (Sep 2026).
+ *  오른쪽 지도 카드보다 왼쪽 글이 짧아 생기던 빈 공간을 채웁니다.
+ *  칩은 site.config.js 의 homePopularSearches, 통계는 실제 글·지역·언어 수를 그대로 읽습니다. */
+function heroFillerHTML(base, code, t, totalPlaces) {
+  const d = localeDir(code);
+  const searches = Array.isArray(site.homePopularSearches) ? site.homePopularSearches : [];
+  const chips = searches.map(s => {
+    const name = s[code] || s.ko;
+    return `<a class="tagchip" href="${linkTo(base + d)}?q=${encodeURIComponent(name)}">${escapeHtml(name)}</a>`;
+  }).join('');
+  const chipsHTML = chips
+    ? `    <nav class="tagchips hero-chips" aria-label="${escapeHtml(t.popularSearchesLabel)}">`
+      + `<span class="tagchips-label">${escapeHtml(t.popularSearchesLabel)}</span>${chips}</nav>`
+    : '';
+  const stats = `    <div class="hero-stats">
+      <div class="hero-stat"><strong>${escapeHtml(t.statPlaces(totalPlaces))}</strong><span>${escapeHtml(t.statPlacesLabel)}</span></div>
+      <div class="hero-stat-sep" aria-hidden="true"></div>
+      <div class="hero-stat"><strong>${escapeHtml(t.statRegions(site.regions.length))}</strong><span>${escapeHtml(t.statRegionsLabel)}</span></div>
+      <div class="hero-stat-sep" aria-hidden="true"></div>
+      <div class="hero-stat"><strong>${escapeHtml(t.statLangs(LOCALES.length))}</strong><span>${escapeHtml(t.statLangsLabel)}</span></div>
+    </div>`;
+  return chipsHTML + '\n' + stats;
+}
+
 /** 글 하단 "이 근처 같이 가기 좋은 곳" 추천.
  *  같은 동네 → 같은 지역(다른 동네) 순으로 지리적 이웃을 먼저 모으고,
  *  3개가 안 되면 같은 분류(맛집/여행지)에서 채웁니다. 최대 4개.
@@ -2304,6 +2328,7 @@ async function build() {
         tipsDesc:  escapeHtml(t.tipsDesc),
         tipsTags:  escapeHtml(t.tipsTags),
         tipsCta:   escapeHtml(t.tipsCta),
+        heroFiller: heroFillerHTML(homeBase, code, t, byLocale[site.defaultLocale].posts.length),
         genreBlock: homeGenresHTML(homeBase, code, genreCounts, t),
         pickShelf: pickShelfHTML(posts, homeBase, code, t),
         routeShelf: routeCardsHTML(posts, code, t, { base: homeBase }),

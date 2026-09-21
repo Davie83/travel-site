@@ -143,6 +143,18 @@ const genreName = (g, code) => {
   const x = typeof g === 'string' ? genreOfSlug(g) : g;
   return x ? (x.names[code] || x.names.en || x.slug) : (typeof g === 'string' ? g : '');
 };
+
+/* 카드 검색용 장르 라벨 — genreName 과 다릅니다.
+   "라멘·일식"처럼 복합 표시 이름은 화면(배지·제목)에는 맞지만, 검색 텍스트로
+   그대로 쓰면 "일식" 태그만으로 묶인 글(히츠마부시·오코노미야끼 등)이
+   "라멘" 검색에도 걸려버립니다 (Sep 2026, 제주나기/쯔루하시 후게츠가
+   '라멘' 칩에 잡히는 것 발견). 장르에 searchNames 가 따로 있으면 그것만
+   검색 텍스트로 쓰고(진짜 공통 상위어만, 없으면 빈 문자열), 없으면 기존대로
+   genreName 을 씁니다. 화면 표시(genreName 의 다른 17곳 호출부)는 그대로 둡니다. */
+const genreSearchLabel = (g, code) => {
+  if (g && g.searchNames) return g.searchNames[code] || g.searchNames.ko || '';
+  return genreName(g, code);
+};
 function genreOf(m) {
   if (m.cat !== 'food') return null;
   const keys = new Set((m.tagKeys || []).map(String));
@@ -1825,7 +1837,7 @@ function cardHTML(post, base, code, t) {
      이름·태그·장소는 filter.js 에서 부분일치(가중치 큼), 본문(s-text)은 토큰 완전일치로만 씁니다. */
   const g = m.cat === 'food' ? genreOf(m) : null;
   const gExtra = g
-    ? [genreName(g, code),
+    ? [genreSearchLabel(g, code),
        KR_CUISINE_GENRES.indexOf(g.slug) !== -1 ? '한식 korean food' : '',
        GENRE_SEARCH_SYN[g.slug] || ''].join(' ')
     : '';

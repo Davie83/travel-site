@@ -457,17 +457,30 @@ module.exports = {
     { slug: 'korean-bbq',       emoji: '🍖',
       names: { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',      zh: '韓式烤肉' },
       tags:  ['소금구이', '고기집', '뼈구이', '껍데기', '숯불', '갈비', '삼겹살', '목살', '한우', '곱창', '대창', '막창'] },
+    /* korean-soup · korean-noodles: 표시 이름("국밥·탕", "냉면·국수")이 서로 다른
+       여러 음식을 묶은 복합어라, 이 두 장르에 한해 searchNames 를 비워 둡니다
+       (검색 텍스트에서 장르명 전체를 빼고 글 자체 태그만 봄 — 위 genreSearchLabel
+       참고). "국밥"·"냉면" 검색에 복국·부대찌개·막국수·칼국수 같은 남남인
+       글까지 걸리는 걸 막기 위해서입니다. 화면 표시(제목·배지)는 그대로 "국밥·탕"
+       "냉면·국수" 를 씁니다 — names 는 안 건드립니다. */
     { slug: 'korean-soup',      emoji: '🍲',
       names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '湯飯' },
+      searchNames: { ko: '', en: '', ja: '', zh: '' },
       tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장', '설렁탕', '도가니탕', '부대찌개', '콩나물국밥', '꼬리수육'] },
     { slug: 'korean-noodles',   emoji: '🍜',
       names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韓式麵食' },
+      searchNames: { ko: '', en: '', ja: '', zh: '' },
       tags:  ['냉면', '막국수', '콩국수', '국수', '칼국수'] },
     { slug: 'chinese-korean',   emoji: '🥢',
       names: { ko: '중식',       en: 'Chinese-Korean',    ja: '韓国式中華',    zh: '韓式中餐' },
       tags:  ['중식', '자장면', '짬뽕', '유린기'] },
+    /* japanese-in-korea: "라멘·일식" 전체가 아니라 진짜 공통 상위어인 "일식"만
+       검색 텍스트로 씁니다 — 라멘이 아닌 히츠마부시·오코노미야끼 글이
+       "라멘" 검색에 걸리는 걸 막습니다 (Sep 2026, 홈 히어로 인기검색어
+       칩 추가하면서 제주나기·쯔루하시 후게츠가 걸리는 걸 발견). */
     { slug: 'japanese-in-korea', emoji: '🍥',
       names: { ko: '라멘·일식',  en: 'Ramen & Japanese',  ja: 'ラーメン・和食', zh: '拉麵·日料' },
+      searchNames: { ko: '일식', en: 'Japanese', ja: '和食', zh: '日式' },
       tags:  ['라멘', '돈코츠', '일식', '오코노미야끼', '야끼소바'] },
     /* 만두 — 만두가 간판인 집만. 라멘집의 '교자', 중식집의 '군만두'(사이드)는 제외하려고
        뒤에 두고 태그도 좁혔습니다. */

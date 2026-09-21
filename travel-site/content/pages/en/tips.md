@@ -1,16 +1,30 @@
 ---
 title: Korea Travel Basics — What Trips People Up on Day One
 description: Where to buy a transit card, where the exchange rate is actually good, and why Google Maps cannot give you driving directions in Korea. Only the things visitors really get stuck on.
-updated: Verified 24 August 2026
+updated: Verified 21 September 2026
 ---
 
-On a first trip to Korea, **the things that trip you up are not the food or the sights.** They are the transit card, changing money, finding your way, and what to do when nobody speaks your language.
+On a first trip to Korea, **the things that trip you up are not the food or the sights.** They are entry clearance, the transit card, changing money, finding your way, and what to do when nobody speaks your language.
 
 Know what is on this page and your first day gets much easier.
 
-> **Prices and rules change.** This page was verified in August 2026. Where an amount is written, check it once more on the ground.
+> **Prices and rules change.** This page was verified in September 2026. Where an amount is written, check it once more on the ground.
 
-## 1. Transit card — one T-money card covers almost everything {#transport}
+## 1. Entry requirements — check K-ETA before you fly {#visa}
+
+**Unlike everything else on this page, this is the one thing you finish before departure, not after you arrive.**
+
+**What K-ETA is** — an online pre-travel authorization that citizens of visa-waiver countries must get before flying to Korea. It is a separate process from a visa.
+
+- **Currently waived through 31 December 2026** — citizens of 22 countries, including the US, Canada, Japan, Australia and Germany, can enter with just a passport, no K-ETA needed. Check whether your country is on the list at the [official K-ETA site](https://www.k-eta.go.kr) by selecting your nationality
+- Even if you are exempt, **applying anyway skips the paper arrival card at immigration** — worth doing if you have the time
+- If your country is not exempt, **apply on the official site at least a few days before departure** — approval can take time
+
+**Watch out for lookalike sites.** Searching "K-ETA" often surfaces paid agency ads before the official site, and those agencies charge several times the real fee. Before you apply, check the address is exactly **k-eta.go.kr**.
+
+> The waiver has been extended more than once, but it remains a **temporary measure**. Check the current status again right before you fly.
+
+## 2. Transit card — one T-money card covers almost everything {#transport}
 
 A single **T-money** card gets you on buses and subways across most of the country. It also works in taxis and convenience stores.
 
@@ -32,7 +46,9 @@ A single **T-money** card gets you on buses and subways across most of the count
 
 **Recharging** — as of 2026 most subway recharge machines accept foreign-issued **Visa, Mastercard, JCB, UnionPay and AmEx**. It used to be cash only; that is no longer the case.
 
-## 2. Changing money — do not do it all at the airport {#money}
+**There is a tourist-only card too** — the old "Korea Tour Card" has been discontinued and replaced by the **T-Money Travel Card** (4,000 KRW, with partner discounts). The 6,000 KRW **Premium** version adds WOWPASS-style features: IC payment where foreign cards get declined, and won withdrawal. Buy it at a convenience store or the bus ticket counter at Incheon Airport.
+
+## 3. Changing money — do not do it all at the airport {#money}
 
 Rates vary a lot by location. Listed **best first**.
 
@@ -76,7 +92,7 @@ Top-up limits are **1,000,000 KRW at once, 2,000,000 per day, 10,000,000 per wee
 
 **If the rate is all you care about**, the money changers in Myeongdong or Namdaemun are still the best. You just need cash in hand, and they close.
 
-## 3. Paying — Korea runs on cards {#pay}
+## 4. Paying — Korea runs on cards {#pay}
 
 **You do not need to carry much cash.** Restaurants, cafes, convenience stores and taxis nearly all take cards.
 
@@ -88,7 +104,7 @@ A few exceptions:
 
 Carrying **50,000~100,000 KRW in cash** and paying for everything else by card works well.
 
-## 4. Getting around — do not rely on Google Maps alone {#maps}
+## 5. Getting around — do not rely on Google Maps alone {#maps}
 
 This one matters especially in Korea.
 
@@ -107,7 +123,7 @@ So split it up like this:
 
 **To plan a route in advance**, use the [Saved places](saved) feature on this site. Add the places you want in order and it draws the route on a map, with each leg handing off to Google Maps directions.
 
-## 5. When nobody speaks your language — 1330 {#help}
+## 6. When nobody speaks your language — 1330 {#help}
 
 **This is the most valuable line on this page.** Save one number.
 
@@ -127,7 +143,7 @@ A **free, 24-hour** travel helpline run by the Korea Tourism Organization.
 
 **For emergencies, dial 119** — fire, ambulance and rescue all go to 119. Police is 112.
 
-## 6. There is no tipping {#tipping}
+## 7. There is no tipping {#tipping}
 
 **Korea has no tipping culture.** Not in restaurants, cafes, taxis or hotels.
 
@@ -137,7 +153,7 @@ A **free, 24-hour** travel helpline run by the Korea Tourism Organization.
 
 Not tipping is not rude. It is simply how it works.
 
-## 7. Restaurants — what to expect {#dining}
+## 8. Restaurants — what to expect {#dining}
 
 Korean restaurants differ from what you may be used to.
 
@@ -149,7 +165,7 @@ Korean restaurants differ from what you may be used to.
 - **If there is a call button on the table, press it** to get a server. Raising your hand is also fine
 - Wet wipes or extra plates are **occasionally charged**
 
-## 8. Other things worth knowing {#daily}
+## 9. Other things worth knowing {#daily}
 
 - **Toilets are free and everywhere** — subway stations, department stores, parks. In subway stations they are often inside the ticket gates
 - **Use convenience stores.** Open 24 hours, with meals, drinks, basic medicine, umbrellas and T-money recharging
@@ -166,6 +182,6 @@ Korean restaurants differ from what you may be used to.
 4. Save **1330**
 5. Change the rest downtown (Myeongdong / Namdaemun, or a WOWPASS kiosk)
 
-Those five things will get you through day one without getting stuck.
+Those five things will get you through day one without getting stuck. (K-ETA is not on this list because it is a before-you-fly step, not a day-one one — see item 1.)
 
-> This page was verified in August 2026. Fares and rules change, so please re-check anything with an amount attached.
+> This page was verified in September 2026. Fares and rules change, so please re-check anything with an amount attached.

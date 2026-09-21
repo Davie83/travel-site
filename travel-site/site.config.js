@@ -420,7 +420,7 @@ module.exports = {
      "이 주제로 검색 유입을 노린다" 싶은 것만 고르세요.
      tipping·firstday 는 분량이 짧아 단독 페이지로는 빈약해서 뺐습니다
      (허브 /tips 에서는 계속 보입니다). 내용을 늘리면 다시 넣으세요.        */
-  tipsPages: ['transport', 'money', 'maps', 'help', 'dining'],
+  tipsPages: ['visa', 'transport', 'money', 'maps', 'help', 'dining'],
 
   genres: [
     /* korean-seafood 는 korean-bbq 보다 앞에 둡니다 — 꼼장어처럼 "소금구이·양념구이"로

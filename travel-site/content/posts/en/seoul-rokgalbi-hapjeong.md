@@ -1,13 +1,13 @@
 ---
-title: Rokgalbi Hapjeong — Pre-grilled Spicy Pork Ribs with Real Meat on the Bone
+title: Rokgalbi Hapjeong — Pre-grilled Marinated Pork Ribs with Real Meat on the Bone
 cat: food
 region: seoul
 area: hongdae
 date: 2026-09-21
 emoji: 🍖
 thumb: assets/img/seoul-rokgalbi-hapjeong.jpg
-excerpt: Of the several branches, Hapjeong seemed to have the most meat left on the bone. The ribs come pre-grilled once already, so you just finish them off on the tabletop grill — and the spicy version is genuinely spicy. First time here, order the mild marinated ribs — they come with the same spicy sauce on the side, so you can dip and taste before deciding.
-tags: [Seoul, Hongdae, Hapjeong, Jjokgalbi, Rokgalbi, Pork ribs, Spicy, Pre-grilled]
+excerpt: Of the several branches, Hapjeong seemed to have the most meat left on the bone. The ribs come pre-grilled once already, so you just finish them off on the tabletop grill — and the marinated ribs I had this time aren't spicy on their own. If you want heat, there's a fully spicy version too, and even the marinated ribs come with the same spicy sauce on the side, so you can dip and taste before deciding.
+tags: [Seoul, Hongdae, Hapjeong, Jjokgalbi, Rokgalbi, Pork ribs, Pre-grilled, Spicy]
 info:
   - Restaurant|Rokgalbi **Hapjeong branch** (several other branches exist, including the original Sillim location)
   - Address|1F, 51 Dokmak-ro, Mapo-gu, Seoul
@@ -26,19 +26,19 @@ info:
 
 Of the branches I've tried, **Hapjeong seemed to have the most meat left on the bone.** Sillim's original is decent too, but the amount of meat left clinging to the bone is different enough between branches that you can tell — it seems to come down to how each location trims the ribs.
 
-![Spicy pork ribs on the grill at Rokgalbi Hapjeong, mid-way through the final grilling, with side dishes around the edge](/assets/img/seoul-rokgalbi-hapjeong-grill.jpg)
+![Marinated pork ribs on the grill at Rokgalbi Hapjeong, mid-way through the final grilling, with side dishes around the edge](/assets/img/seoul-rokgalbi-hapjeong-grill.jpg)
 
 ## The ribs come pre-grilled once already
 
 Rokgalbi serves its ribs **already grilled once before they reach your table.** You get ribs that have already been partly cooked, then finish them off lightly on the tabletop grill. It's not a place that starts you off with raw meat, so it moves quickly.
 
-## The spicy version is genuinely spicy
+## There's a separate spicy version
 
-**The spicy pork ribs are quite hot.** If you're a foreign visitor who doesn't handle spice well, I'd expect this to be noticeably spicy for you. Even by Korean standards, this isn't in the "mild" range.
+What I had this time was the marinated ribs, but the menu also has **fully spicy pork ribs** as a separate item. Those are quite hot — if you're a foreign visitor who doesn't handle spice well, I'd expect them to be noticeably spicy for you. Even by Korean standards, they're not in the "mild" range.
 
-## First time here, order the mild version
+## This time I ordered the marinated ribs
 
-If it's your first visit, **you can just order the marinated (non-spicy) ribs.** They come with the same spicy dipping sauce served on the side as the spicy version, so you can dip a piece in, taste how hot it is, and decide on a future visit whether to order the fully spicy version. The marinated ribs themselves are not spicy.
+**The marinated ribs themselves are not spicy.** Even so, they come with the same spicy dipping sauce served on the side as the fully spicy version, so you can dip a piece in, taste how hot it is, and decide on a future visit whether to move on to the fully spicy version.
 
 ## Side dishes are up to you
 
@@ -47,8 +47,8 @@ I don't usually order side dishes myself, but the people I went with often order
 ## Before you go
 
 - **The ribs arrive pre-grilled** — this isn't a raw-meat-from-scratch place, so turnover is fast
-- **The spicy ribs are genuinely hot** — if you're sensitive to spice, start with the marinated (mild) version
-- **The mild version still comes with spicy sauce on the side** — you can dip and test the heat before committing
+- **The marinated ribs themselves aren't spicy** — order the fully spicy version separately if you want heat
+- **The marinated ribs still come with spicy sauce on the side** — you can dip and test the heat before committing
 - **Both Hapjeong and Sangsu stations are about a 10-minute walk**
 - Prices and hours can differ by branch — double-check you're not mixing this up with a different location
 

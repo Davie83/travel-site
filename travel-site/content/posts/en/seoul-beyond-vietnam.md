@@ -13,7 +13,7 @@ info:
   - Place|Beyond Vietnam, National Assembly branch
   - Location|26 Uisadang-daero, Yeongdeungpo-gu, Seoul · Room 107 · near National Assembly Stn (Line 9) (서울 영등포구 의사당대로 26 107호)
   - Phone|0507-1398-8085
-  - Hours|**11:00 – 22:00** · break 14:30–16:30 · last order 21:20 (changes often — confirm)
+  - Hours|**11:00 – 22:00** · break 14:30–16:30 · last order 21:20 (as of Sep 2026)
   - Branches|This is the larger West Yeouido branch · there are said to be branches in East Yeouido and Seolleung (Gangnam) too
   - Spice|**Mild** — add the pickled chilli to taste
 ---
@@ -57,4 +57,4 @@ It's a clear beef broth, not thin, and a full bowl **takes care of a hangover an
 - **Branches** — this is the big West Yeouido one. The East Yeouido and Seolleung (Gangnam) branches are separate — check the map before you go.
 - **East Yeouido option** — for another brothy Asian option, [Konthai Yeouido](/en/posts/seoul-konthai-yeouido) in the IFC Mall on the east side is worth a look too.
 
-> Written up from a visit of my own. Taste and preference vary by person, and prices, hours and closing days shift often — anything I couldn't confirm is marked **(changes often — confirm)**.
+> Written up from a visit of my own. Taste and preference vary by person, and prices, hours and closing days shift often — anything I couldn't confirm is marked **(as of Sep 2026)**.

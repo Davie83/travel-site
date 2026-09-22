@@ -65,4 +65,4 @@ Takeaway is also available.
 - ✅ You'll order the **suyuk** as well
 - ⚠️ Meal times mean queuing — go early or book
 
-> Written up from a visit of my own. Prices and hours shift often, so anything I couldn't pin down is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything I couldn't pin down is marked **(as of Aug 2026)**.

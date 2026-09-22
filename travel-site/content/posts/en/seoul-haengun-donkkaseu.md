@@ -14,7 +14,7 @@ info:
   - Menu|**Donkkaseu** (pork cutlet) · **kimchi fried rice set** (cutlet + kimchi fried rice) — the set is the value pick
   - Style|**Old-school Korean cutlet (gyeongyangsik)** — brown sauce, fried egg. Not the thick Japanese katsu that's popular now
   - Portion|**Very large.** You may not finish the set
-  - Hours · prices · closing day|**10:30 AM–9:00 PM** · **kimchi fried rice set around 10,000 won** · a regular closing day isn't confirmed (sources disagree — changes often, please verify)
+  - Hours · prices · closing day|**10:30 AM–9:00 PM** · **kimchi fried rice set around 10,000 won** · a regular closing day isn't confirmed (as of Aug 2026)
 ---
 
 I stopped here for a late meal after a funeral at Hanyang University nearby. It's **a cutlet place people around Wangsimni and Haengdang-dong know for value**.

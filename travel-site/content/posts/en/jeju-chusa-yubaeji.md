@@ -15,7 +15,7 @@ info:
   - Exile|**1840–1848**, more than eight years · *wiri-anchi* — confined to the house behind a hedge of thorns
   - The thatched house|A **reconstruction** from the accounts of descendants and villagers — on the site of the Kang Do-sun house where he stayed
   - Jeju Chusa Museum|A low, mostly-underground hall · the story of the **Sehando** with letters and calligraphy
-  - Admission · hours · closing day|**Free** · open 9:00 AM–6:00 PM (last entry 5:30 PM) · **closed every Monday** (also 1/1, Lunar New Year, Chuseok) — as of last check, subject to change
+  - Admission · hours · closing day|**Free** · open 9:00 AM–6:00 PM (last entry 5:30 PM) · **closed every Monday** (also 1/1, Lunar New Year, Chuseok) — as of Aug 2026, subject to change
 ---
 
 Off to one side of the yard, two big pine trees stand very upright, like people with something to say.
@@ -59,7 +59,7 @@ Next to the house is the Jeju Chusa Museum. It is a low building, mostly undergr
 ## Before you go
 
 - **Getting there** — 44 Chusa-ro, Daejeong-eup, Seogwipo, Jeju. Under 10 minutes by car from Moseulpo Harbour, near Daejeong Hyanggyo.
-- **Admission · hours · closing day** — **Free**, open 9:00 AM–6:00 PM (last entry 5:30 PM), **closed every Monday** (also 1/1, Lunar New Year, Chuseok). This is current as of last check, so it's worth confirming again before you go.
+- **Admission · hours · closing day** — **Free**, open 9:00 AM–6:00 PM (last entry 5:30 PM), **closed every Monday** (also 1/1, Lunar New Year, Chuseok). This is current as of Aug 2026, so it's worth confirming again before you go.
 - **Bundling** — Moseulpo Harbour → Sanbangsan → Chusa's place of exile makes a natural loop.
 - **Eat** — down toward the harbour, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is worth it for a grilled-fish spread.
 

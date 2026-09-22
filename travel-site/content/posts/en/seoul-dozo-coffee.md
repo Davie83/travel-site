@@ -72,4 +72,4 @@ Prices start at **₩5,000**, rising with the bean and the cup you choose. That 
 - ⚠️ Small room, busy with office workers on weekdays
 - ⚠️ Not the place for a long work session
 
-> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(as of Aug 2026)**.

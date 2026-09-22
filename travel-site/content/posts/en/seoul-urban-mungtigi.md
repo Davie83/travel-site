@@ -14,7 +14,7 @@ info:
   - Menu|**Mungtigi** (raw beef, the yuk-sashimi family) · **yukjeon** (egg-battered pan-fried beef) is good too
   - What mungtigi is|Uncooked beef · cut **bigger and thicker than yuk-sashimi**, so the aroma and texture stand out
   - Sauce|A **house gochujang-based sauce** (recipes vary by restaurant)
-  - Ageing|Sold same-day, or aged 1–2 days — appears to depend on the place (changes often — please verify)
+  - Ageing|Sold same-day, or aged 1–2 days — appears to depend on the place (as of Aug 2026)
   - Hours · prices · closing day|**Weekdays 11:00–23:00** (break 14:00–17:00) · **Saturday 17:00–23:00** · **closed Sundays** · Mungtigi from 49,000 KRW (per DiningCode — may change)
 ---
 

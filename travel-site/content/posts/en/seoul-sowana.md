@@ -15,7 +15,7 @@ info:
   - Cooking|Staff grill each piece **over charcoal**, to the right doneness, and serve it one at a time; vegetables grilled alongside
   - Feel|Dark-wood counter with lattice screens; a calm room with little smoke or smell
   - Fits|An evening with **a glass of wine**, or a meal with a visiting friend
-  - Booking · prices · hours · closing day|Booking **via Naver or CatchTable — recommended, seats are limited** · Prices **5-cut set ₩49,000 · 7-cut set ₩69,000 · chef's special ₩99,000** · Hours **11:30 AM – 10:30 PM** (last order 9 PM) · **no regular closing day** (as of last check — subject to change)
+  - Booking · prices · hours · closing day|Booking **via Naver or CatchTable — recommended, seats are limited** · Prices **5-cut set ₩49,000 · 7-cut set ₩69,000 · chef's special ₩99,000** · Hours **11:30 AM – 10:30 PM** (last order 9 PM) · **no regular closing day** (as of Sep 2026 — subject to change)
 ---
 
 It's a hanwoo (Korean beef) house between Itaewon and Hannam-dong. Rather than just grilling it, this place serves hanwoo cut by cut, in order — a way of relearning "what hanwoo actually is" from scratch.
@@ -52,9 +52,9 @@ The clean space lifts the taste one more notch. Dinner that isn't heavy, but is 
 
 **Booking** — it's counter-focused with limited seats. You can book via Naver or CatchTable, and booking ahead is the safe move.
 
-**Prices · sets** — 5-cut set ₩49,000, 7-cut set ₩69,000, chef's special ₩99,000 (as of last check). Check a set that fits your budget in advance.
+**Prices · sets** — 5-cut set ₩49,000, 7-cut set ₩69,000, chef's special ₩99,000 (as of Sep 2026). Check a set that fits your budget in advance.
 
-**Hours · closing day** — 11:30 AM–10:30 PM (last order 9 PM), no regular closing day, as of last check. Prices and hours can change, so confirm on the map or their social media before you go.
+**Hours · closing day** — 11:30 AM–10:30 PM (last order 9 PM), no regular closing day, as of Sep 2026. Prices and hours can change, so confirm on the map or their social media before you go.
 
 If your trip also takes you to Hongdae on a different day, [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae) is another spot I visited elsewhere in Seoul — it's not close to Itaewon, so plan it as a separate outing.
 

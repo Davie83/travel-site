@@ -57,4 +57,4 @@ Treat the bowl and the kimchi as one dish rather than a main and a side, and the
 - ❌ Less good if you came for a dense, creamy soy broth — different shop
 - **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort) for the view over Cheongpung Lake.
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.

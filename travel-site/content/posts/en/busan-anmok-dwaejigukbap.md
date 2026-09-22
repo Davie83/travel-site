@@ -59,4 +59,4 @@ Decide before it arrives. It is not something you can change halfway through.
 - ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. Reviews mention queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
 - If you want to compare Busan-style dwaeji gukbap, I also wrote up [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) over in Dongnae
 
-> Written after an actual visit. Hours and prices can change, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written after an actual visit. Hours and prices can change, so anything unconfirmed is marked **(as of Aug 2026)**.

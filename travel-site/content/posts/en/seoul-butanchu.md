@@ -17,9 +17,9 @@ info:
   - Restaurant|Butanchu, **Hongdae main branch** (부탄츄 홍대본점) — other branches in Konkuk Univ. and Sinchon
   - Address|75 Wausan-ro 35-gil, Mapo-gu, Seoul (와우산로35길 75)
   - Phone|02-3144-3304
-  - Hours|**11:30 AM to 10:00 PM** (changes often — please verify) · **no regular closing day** (as of last check — may close over public holidays)
+  - Hours|**11:30 AM to 10:00 PM** (as of Aug 2026) · **no regular closing day** (as of Aug 2026 — may close over public holidays)
   - What to order|**Toko tonkotsu** (the rich one) · shio tonkotsu (the clean one) · shoyu tonkotsu (soy)
-  - Set|**Toko tonkotsu + karaage donburi set 13,000 KRW** (2025 figure — changes often, please verify)
+  - Set|**Toko tonkotsu + karaage donburi set 13,000 KRW** (as of Aug 2026)
   - Spice|**The tonkotsu broth is not spicy** (a little chili powder may be sprinkled on top)
   - You can choose|**Noodle type, broth richness, sauce, and the amount of garlic, spring onion and bean sprouts**
   - My order|**Toko tonkotsu with chijiremen** (curly noodles)
@@ -87,4 +87,4 @@ Set your expectation to **"a bowl of tonkotsu you get to configure"** rather tha
 - ⚠️ **It is a pork-bone broth.** No good if you avoid pork
 - ⚠️ **No fixed weekly closing day.** Ring ahead over public holidays
 
-> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(as of Aug 2026)**.

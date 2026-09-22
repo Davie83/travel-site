@@ -14,7 +14,7 @@ info:
   - Location|203 Mullae-ro, Yeongdeungpo-gu, Seoul (서울 영등포구 문래로 203)
   - Phone|02-2631-9184
   - Closes|**9:30 PM** · (no closing-day info)
-  - Opening time / closed days|(changes often — please verify)
+  - Opening time / closed days|(as of Aug 2026)
   - Price of jjamppong & dumplings|**Jjamppong ₩11,000 · Gunmandu ₩9,500** (per Diningcode, may change)
   - Rice dishes|**₩10,500–18,000** (read off the menu card)
   - Drinks|Soju & beer **₩5,000** · Tsingtao ₩8,500 (read off the menu card)
@@ -75,4 +75,4 @@ So the honest framing is not "travel across Seoul for this." It is **"you're nea
 - ⚠️ Low heat tolerance? You'll miss what's good about it
 - ⚠️ A walk from the station, and it closes at 9:30 PM
 
-> Written up after an actual meal there. Prices and hours shift often, so anything I couldn't pin down is flagged **(changes often — please verify)**.
+> Written up after an actual meal there. Prices and hours shift often, so anything I couldn't pin down is flagged **(as of Aug 2026)**.

@@ -70,4 +70,4 @@ The paper placemat carries a Joseon-era poem called Namsan Palyeong. Mokmyeok is
 - ⚠️ The tartare bibimbap is raw beef
 - ⚠️ Closes 8:00 PM, last order 7:20 PM
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

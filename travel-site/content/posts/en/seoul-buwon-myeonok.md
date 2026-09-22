@@ -14,7 +14,7 @@ info:
   - Location|41-6 Namdaemunsijang 4-gil, Jung-gu, Seoul — **2nd floor** (서울 중구 남대문시장4길 41-6)
   - Phone|02-753-7728
   - Closes|**8:00 PM** · (no closing-day info)
-  - Opening time / closed days|(changes often — please verify)
+  - Opening time / closed days|(as of Aug 2026)
   - Google rating|4.0 (**1,009 reviews**)
   - Nearest station|**Hoehyeon** (Line 4) — inside Namdaemun Market
 ---
@@ -77,4 +77,4 @@ Come in through Namdaemun Market from **Hoehyeon Station (Line 4).**
 - ⚠️ First time with this dish? It will taste plain — that's intended
 - ⚠️ Second floor, easy to miss, and closes at 8:00 PM
 
-> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(as of Aug 2026)**.

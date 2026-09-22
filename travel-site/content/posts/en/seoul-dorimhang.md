@@ -92,4 +92,4 @@ The main branch has far more reviews (145 against 28), and draws correspondingly
 - ⚠️ **Closed every Sunday**
 - ⚠️ **Different from the main branch.** Check the address
 
-> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(as of Aug 2026)**.

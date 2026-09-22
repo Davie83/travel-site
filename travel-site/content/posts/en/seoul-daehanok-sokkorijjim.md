@@ -14,7 +14,7 @@ info:
   - Location|6 Yeongdeungpo-ro 51-gil, Yeongdeungpo-gu, Seoul (서울 영등포구 영등포로51길 6) · walkable from Yeouido too
   - Phone|02-2633-5052
   - Hours|**11:00 AM – 8:40 PM** (last order 7:40 PM) · closed **every Sunday and Monday**
-  - Signature dishes|Ox-tail suyuk small ₩70,000 · large ₩83,000 · Seolleongtang ₩12,000 (changes often — please verify)
+  - Signature dishes|Ox-tail suyuk small ₩70,000 · large ₩83,000 · Seolleongtang ₩12,000 (as of Sep 2026)
   - Diningcode rating|Taste 4.7 · Price 3.2 · Service 3.7
   - Nearest station|**Yeongdeungpo Station** (Line 1), about a 10-minute walk from Exit 5
 ---

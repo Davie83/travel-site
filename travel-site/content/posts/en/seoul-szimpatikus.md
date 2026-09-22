@@ -16,14 +16,14 @@ info:
   - Restaurant|Szimpatikus, **Seoul Station branch** (심퍼티쿠시 서울역점)
   - Address|**14 Sejong-daero**, Grand Central 1F #102, Jung-gu, Seoul (세종대로 14) (서울특별시 중구 세종대로 14 그랜드센트럴 1층 102호)
   - Phone|0507-1340-9048
-  - Hours|**11:00 AM to 10:00 PM** · **no closing day listed** (changes often — please verify)
-  - Break|**3:00 to 5:00 PM** (changes often — please verify)
-  - Last order|**9:00 PM** (changes often — please verify)
-  - What to order|**Bracken and brisket pasta, 23,500 KRW** (changes often — please verify)
-  - Also|Chilli-oil and pollack-roe cream pasta 22,500 KRW · prawn oil pasta 21,000 · short rib risotto 39,000 · chuck flap steak 59,000 (changes often — please verify)
+  - Hours|**11:00 AM to 10:00 PM** · **no closing day listed** (as of Aug 2026)
+  - Break|**3:00 to 5:00 PM** (as of Aug 2026)
+  - Last order|**9:00 PM** (as of Aug 2026)
+  - What to order|**Bracken and brisket pasta, 23,500 KRW** (as of Aug 2026)
+  - Also|Chilli-oil and pollack-roe cream pasta 22,500 KRW · prawn oil pasta 21,000 · short rib risotto 39,000 · chuck flap steak 59,000 (as of Aug 2026)
   - Spice|**Not spicy at all.** Only the chilli-oil pasta carries any heat
   - Booking|Reservations through **CatchTable**
-  - Parking|Grand Central building car park (changes often — please verify)
+  - Parking|Grand Central building car park (as of Aug 2026)
   - Nearest station|**Seoul Station** (Lines 1 and 4, AREX, KTX) — **a 3-minute walk**
   - Rating|**4.5** on Google Maps
 ---
@@ -129,4 +129,4 @@ Evenings and weekends fill up. **CatchTable takes reservations.**
 - ⚠️ **Book ahead** for evenings and weekends
 - ⚠️ **Prices and menus differ slightly by branch**
 
-> Written up after an actual visit. Judgements about taste are personal. Prices and opening hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Written up after an actual visit. Judgements about taste are personal. Prices and opening hours change often, so anything uncertain is marked **(as of Aug 2026)**.

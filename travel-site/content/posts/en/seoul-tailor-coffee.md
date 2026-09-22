@@ -74,4 +74,4 @@ It works well as **somewhere to sit for a while** in the middle of a Myeongdong 
 - ⚠️ **Few tables** — awkward for a group
 - ⚠️ **The closing day is unconfirmed**
 
-> Written up after actually drinking there. The taste judgement carries my own preference for acidity. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up after actually drinking there. The taste judgement carries my own preference for acidity. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

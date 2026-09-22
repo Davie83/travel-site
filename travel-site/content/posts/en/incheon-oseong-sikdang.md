@@ -67,4 +67,4 @@ The table brings the raw shad salad (the main event), the soy-marinated crab (st
 - ⚠️ Both main dishes are **raw seafood**
 - ⚠️ Awkward to reach without a car
 
-> Written after my own visit. Prices and hours shift often, so I've flagged anything I couldn't pin down as **(changes often — please verify)**.
+> Written after my own visit. Prices and hours shift often, so I've flagged anything I couldn't pin down as **(as of Aug 2026)**.

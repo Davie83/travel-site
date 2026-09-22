@@ -14,7 +14,7 @@ info:
   - What I ordered|**Jat-sundubu** — served bubbling white in an earthenware pot, with a seasoning sauce on the side
   - Pine nuts|A Gapyeong specialty · they push the broth toward milky, nutty and clean
   - With it|Side dishes (young-radish kimchi, namul) + rice
-  - Hours · prices · closing day|**9:30 AM–8:00 PM** (last order 7:15 PM) · **closed Wednesdays** · **jat-sundubu 12,000 won** — as of last check, subject to change
+  - Hours · prices · closing day|**9:30 AM–8:00 PM** (last order 7:15 PM) · **closed Wednesdays** · **jat-sundubu 12,000 won** — as of Aug 2026, subject to change
 ---
 
 I was in Gapyeong when I got a sudden craving for sundubu. A search turned up something called "jat-sundubu," and I went to find out what it tasted like.
@@ -53,7 +53,7 @@ Because it's like this, **opinions will divide.** If you go expecting a fiery su
 
 - **Getting there** — Gapyeong-gun, Gyeonggi. It's a drive out from central Gapyeong, so check the map before you set off.
 - **Ordering** — jat-sundubu is the basic dish. As a tofu house it tends to have other tofu dishes (whole block tofu and so on) too.
-- **Hours · prices · closing day** — Open **9:30 AM–8:00 PM** (last order 7:15 PM), **closed Wednesdays**, **jat-sundubu is 12,000 won**. This is current as of last check, so worth confirming again before you go.
+- **Hours · prices · closing day** — Open **9:30 AM–8:00 PM** (last order 7:15 PM), **closed Wednesdays**, **jat-sundubu is 12,000 won**. This is current as of Aug 2026, so worth confirming again before you go.
 - **Elsewhere in Gyeonggi** — out on Yeongjong Island in Incheon, I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) — same wider province, though it's a real trip from Gapyeong.
 
 > Based on a personal visit. The judgement on the flavour is personal taste. Hours, prices and the closing day are as confirmed above, but they can change — check the venue's details once more before you go.

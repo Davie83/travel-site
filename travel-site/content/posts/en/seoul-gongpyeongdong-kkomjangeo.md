@@ -13,7 +13,7 @@ info:
   - Restaurant|Gongpyeongdong Kkomjangeo **branch 1**
   - Location|13 Samil-daero 15-gil, Jongno-gu, Seoul (서울 종로구 삼일대로15길 13)
   - Phone|0507-1372-1769
-  - Hours|**Weekdays 11:00 AM to midnight** · Sat 2:00 PM to midnight · Sun 2:00 PM to 10:00 PM (changes often — please verify)
+  - Hours|**Weekdays 11:00 AM to midnight** · Sat 2:00 PM to midnight · Sun 2:00 PM to 10:00 PM (as of Aug 2026)
   - Closing day|**Open every day** — including Sunday
   - What to order|**Salt-grilled hagfish** · spicy-marinated hagfish · pork intestine · chicken feet (mostly around 13,000)
   - Spice|**Salt-grilled 0/5 — not spicy at all** · **Spicy-marinated 4/5 — spicy** (the badge above refers to the salt-grilled version)

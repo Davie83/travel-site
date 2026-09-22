@@ -62,4 +62,4 @@ A bowl of cold buckwheat noodles alone is light. With two or more people, add th
 - ❌ Less good if you want a bold, heavily sauced cold noodle
 - **Elsewhere in Gangwon** — over in Sokcho, I've also written up [the Abai Village Gaetbae](/en/posts/sokcho-abai-gaetbae), a hand-pulled ferry ride.
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.

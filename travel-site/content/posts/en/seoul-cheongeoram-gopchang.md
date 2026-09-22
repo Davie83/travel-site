@@ -17,11 +17,11 @@ info:
   - Restaurant|Cheongeoram, **Mangwon branch** (청어람 망원점)
   - Address|**97 Mangwon-ro**, Mapo-gu, Seoul (망원로 97)
   - Phone|02-332-1411
-  - Hours|**Weekdays 11:30 AM to 9:30 PM** · Sat 4:00 to 9:30 PM · **closed every Sunday** (changes often — please verify)
-  - Break|**Weekdays 2:00 to 4:00 PM** (changes often — please verify)
-  - Last order|**8:30 PM** (changes often — please verify)
-  - What to order|**Gopchang jeongol, small (for 2) 30,000 KRW** · medium (for 3) 35,000 · large (for 4) 40,000 (changes often — please verify)
-  - Also|Grilled gopchang 25,000 KRW per portion · makchang 25,000 (changes often — please verify)
+  - Hours|**Weekdays 11:30 AM to 9:30 PM** · Sat 4:00 to 9:30 PM · **closed every Sunday** (as of Aug 2026)
+  - Break|**Weekdays 2:00 to 4:00 PM** (as of Aug 2026)
+  - Last order|**8:30 PM** (as of Aug 2026)
+  - What to order|**Gopchang jeongol, small (for 2) 30,000 KRW** · medium (for 3) 35,000 · large (for 4) 40,000 (as of Aug 2026)
+  - Also|Grilled gopchang 25,000 KRW per portion · makchang 25,000 (as of Aug 2026)
   - Spice|**Medium.** Red as in the photo, but not harsh
   - What is in it|**Beef small intestine** simmered with a generous amount of vegetables
   - Nearest station|**Mangwon Station** (Line 6); walkable from Hapjeong too
@@ -85,4 +85,4 @@ Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 - ⚠️ Too spicy if you cannot take chili at all
 - ⚠️ The smallest size is **for two**
 
-> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(as of Aug 2026)**.

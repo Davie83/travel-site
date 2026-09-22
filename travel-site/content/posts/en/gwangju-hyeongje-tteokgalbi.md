@@ -14,7 +14,7 @@ info:
   - Location|3 Gwangsan-ro 29beon-gil, Gwangsan-gu, Gwangju · the tteok-galbi alley near Gwangju Songjeong Station (전남광주 광산구 광산로29번길 3)
   - What I ordered|**Beef tteok-galbi · pork tteok-galbi** (one serving each)
   - Comes free|**Clear pork-bone soup** — the pork spine used for gamja-tang, with a fair amount of meat still on it
-  - Hours · prices · closing day|**Daily 10:00–21:30** · no regular closing day · tteokgalbi set from 18,000 KRW, up to 31,000 for the Korean beef set (as of last check — may change)
+  - Hours · prices · closing day|**Daily 10:00–21:30** · no regular closing day · tteokgalbi set from 18,000 KRW, up to 31,000 for the Korean beef set (as of Aug 2026 — may change)
 ---
 
 For tteok-galbi in Gwangju, the place to picture is the **tteok-galbi alley near Gwangsan-gu Office**. It's within walking distance of Gwangju Songjeong Station.

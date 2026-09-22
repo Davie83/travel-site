@@ -77,7 +77,7 @@ There is a technique, and it's worth knowing.
 
 ## Practical notes
 
-- **Parking** is mentioned 17 times in reviews — check ahead (changes often — please verify)
+- **Parking** is mentioned 17 times in reviews — check ahead (as of Aug 2026)
 - **Lunch runs 11:50am–2:30pm, dinner 5:30–8pm** (break 2:30–5:30pm, as of September 2026, subject to change). No regular closing day turned up in a check
 - **Delivery** is available
 - **Dessert** — being in Dohwa-dong, finishing with coffee at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a cafe in a converted old house, is an easy add-on
@@ -92,4 +92,4 @@ There is a technique, and it's worth knowing.
 - ⚠️ Come for the crab meat volume and you may be underwhelmed
 - ⚠️ Without a booking you may not get a table
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.

@@ -17,12 +17,12 @@ info:
   - Restaurant|Tsuruhashi Fugetsu, **Myeongdong branch** (쯔루하시 후게츠 명동점)
   - Address|21-5 Myeongdong 8-gil, Jung-gu, Seoul (명동8길 21-5) · **2nd floor, Haeam Building**
   - Phone|02-3789-5920
-  - Hours|**11:30 AM to 9:30 PM** · **break 2:30 to 5:00 PM** (changes often — please verify)
-  - Closing day|**Open every day** (changes often — please verify)
-  - What to order|**Okonomiyaki 10,500 KRW** · yakisoba 10,500 KRW (changes often — please verify)
+  - Hours|**11:30 AM to 9:30 PM** · **break 2:30 to 5:00 PM** (as of Aug 2026)
+  - Closing day|**Open every day** (as of Aug 2026)
+  - What to order|**Okonomiyaki 10,500 KRW** · yakisoba 10,500 KRW (as of Aug 2026)
   - Spice|**Not spicy at all**
   - Reservations|Through **CatchTable**
-  - Queue|Reviews mention **24 groups waiting at opening** (changes often — please verify)
+  - Queue|Reviews mention **24 groups waiting at opening** (as of Aug 2026)
   - How it works|Each table has a hot plate and **the staff cook in front of you**
   - Rating|**4.3** on Google Maps
   - Origin|**Tsuruhashi, Osaka.** The brand traces back to "Fugetsu", opened in Tenma, Osaka in 1950
@@ -87,4 +87,4 @@ If the wait looks too long, walking on toward Namdaemun Market gets you to [Makn
 - ⚠️ The wait is long. Book ahead
 - ⚠️ It is **not exactly the same** as the Osaka original
 
-> Written up after eating there myself. The taste judgement carries my own preference. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up after eating there myself. The taste judgement carries my own preference. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

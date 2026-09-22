@@ -18,10 +18,10 @@ info:
   - Ownership|**Not a chain.** This shop is independently run
   - Address|**27 Yanghwa-ro**, Mapo-gu, Seoul (양화로 27)
   - Phone|02-324-2198
-  - Hours|**4:30 to 10:00 PM** · Sat from 4:00 PM · **closed every Sunday** (changes often — please verify)
-  - Last order|**9:00 PM** (changes often — please verify)
-  - What to order|**Pork skin 18,000 KRW** · **salt-grilled pork for two 36,000 KRW** (changes often — please verify)
-  - Also|Pork neck kimchi stew 9,000 KRW · mixed set (changes often — please verify)
+  - Hours|**4:30 to 10:00 PM** · Sat from 4:00 PM · **closed every Sunday** (as of Aug 2026)
+  - Last order|**9:00 PM** (as of Aug 2026)
+  - What to order|**Pork skin 18,000 KRW** · **salt-grilled pork for two 36,000 KRW** (as of Aug 2026)
+  - Also|Pork neck kimchi stew 9,000 KRW · mixed set (as of Aug 2026)
   - Spice|**Not spicy.** Only the kimchi stew has heat
   - How it is cooked|**Part-grilled over charcoal before it reaches you.** You just finish it at the table
   - Nearest station|**Hapjeong Station** (Lines 2 and 6), Exit 8 — **a 2-minute walk**
@@ -93,4 +93,4 @@ If you want something sweet afterward, [Fritz Coffee Dohwa](/en/posts/seoul-frit
 - ⚠️ Pork skin is **fatty.** Not for you if you want something light
 - ⚠️ It is not a quiet room
 
-> Based on an actual visit, and taste is a matter of personal judgement. Prices and hours here change more often than most, so treat anything marked **(changes often — please verify)** as worth double-checking before you go.
+> Based on an actual visit, and taste is a matter of personal judgement. Prices and hours here change more often than most, so treat anything marked **(as of Aug 2026)** as worth double-checking before you go.

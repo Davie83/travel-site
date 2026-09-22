@@ -73,4 +73,4 @@ Another reviewer noted it seems to be **"a restaurant more locals than visitors 
 - ⚠️ Not a destination restaurant — Dongnae has many options, and there's no parking
 - Once you're full of gukbap, [Geumsu Bokguk](/en/posts/busan-geumsu-bokguk) is a short walk away in the same Dongnae neighborhood if you want to keep the trip going
 
-> Based on a personal visit — though a brief one, so this write-up combines that impression with details confirmed from Google reviews. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit — though a brief one, so this write-up combines that impression with details confirmed from Google reviews. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.

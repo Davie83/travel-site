@@ -71,4 +71,4 @@ Obok Sundaeguk has **several branches.** I have eaten at both Mullae and Deungch
 - ⚠️ The standalone pork plate is not cheap — start with the set
 - ⚠️ Closed Sundays · closed 3-5 PM weekdays · Saturday ends at 2 PM
 
-> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written from an actual visit. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

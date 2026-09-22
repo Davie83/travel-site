@@ -57,4 +57,4 @@ The words that recur across its 737 Google reviews are **sundae-guk (66), cauldr
 - **Elsewhere in Jeolla** — over in Gwangju, Jeonnam, I've also written up [Hyeongje Songjeong Tteok-galbi](/en/posts/gwangju-hyeongje-tteokgalbi).
 - **Elsewhere in Jeonbuk** — in Jeonju, I've also been to [Jeonju Waengi Kongnamul-gukbap](/en/posts/jeonju-waengi-gukbap). It's a fair drive from Buan though, so plan it as a separate outing rather than pairing them same-day.
 
-> Based on a personal visit and my own tasting. Prices and hours change often, so anything uncertain here is marked **(changes often — please verify)**.
+> Based on a personal visit and my own tasting. Prices and hours change often, so anything uncertain here is marked **(as of Aug 2026)**.

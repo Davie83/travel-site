@@ -91,4 +91,4 @@ A good place to attach to a Busan itinerary — but one thing to watch for: ther
 - ⚠️ Milt is an unfamiliar ingredient for many
 - ⚠️ **No regular closing day found, though this isn't fully certain.** Sundays can close early if they sell out — call ahead if you're travelling far
 
-> Written up from a visit of my own; taste is personal preference. Prices and hours shift often, so anything I couldn't pin down is flagged **(changes often — please verify)**.
+> Written up from a visit of my own; taste is personal preference. Prices and hours shift often, so anything I couldn't pin down is flagged **(as of Aug 2026)**.

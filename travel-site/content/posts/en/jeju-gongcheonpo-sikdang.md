@@ -72,4 +72,4 @@ So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or
 - ⚠️ **Closes 3:30 PM · shut Thursdays · sells out early** — dinner is not an option
 - ⚠️ Jari mulhoe is eaten bones and all, which may be unfamiliar
 
-> Written up after my own visit. Prices and hours change often, so anything unconfirmed is marked **(changes often — please verify)**.
+> Written up after my own visit. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

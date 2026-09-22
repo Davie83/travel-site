@@ -67,4 +67,4 @@ Reviews keep mentioning **condensed milk**, which means they're doing *cà phê 
 - ⚠️ Ask them to leave out the coriander if you dislike it
 - ⚠️ On a very short Korea trip, prioritise Korean food first
 
-> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.

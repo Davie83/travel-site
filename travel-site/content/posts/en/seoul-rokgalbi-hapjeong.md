@@ -12,8 +12,8 @@ info:
   - Restaurant|Rokgalbi **Hapjeong branch** (several other branches exist, including the original Sillim location)
   - Address|1F, 51 Dokmak-ro, Mapo-gu, Seoul
   - Phone|02-332-3326
-  - Hours|4:00 PM – midnight (until 2:00 AM on Saturdays) · last order 11:00 PM · **open every day** (changes often — please verify)
-  - Signature dishes|Marinated pork ribs 18,000 KRW · Spicy pork ribs 18,000 KRW (changes often — please verify)
+  - Hours|4:00 PM – midnight (until 2:00 AM on Saturdays) · last order 11:00 PM · **open every day** (as of Sep 2026)
+  - Signature dishes|Marinated pork ribs 18,000 KRW · Spicy pork ribs 18,000 KRW (as of Sep 2026)
   - Side dishes|Flying fish roe rice ball 4,000 KRW · Iced mook (acorn jelly) soup 6,000 KRW
   - Spice level|The spicy ribs are quite hot · the mild marinated ribs come with the same spicy sauce on the side
   - Diningcode rating|Overall 4.6 · Taste 5.0 · Value 4.3 · Service 4.3
@@ -52,4 +52,4 @@ I don't usually order side dishes myself, but the people I went with often order
 - **Both Hapjeong and Sangsu stations are about a 10-minute walk**
 - Prices and hours can differ by branch — double-check you're not mixing this up with a different location
 
-> This is a first-hand account, and taste is subjective. Prices and hours change often, so anything uncertain is marked **(changes often — please verify)**.
+> This is a first-hand account, and taste is subjective. Prices and hours change often, so anything uncertain is marked **(as of Sep 2026)**.

@@ -14,7 +14,7 @@ info:
   - Menu|**Sütlaç** (Turkish milk pudding) · coffee · desserts
   - Atmosphere|**Turkish-style interior** · a well-kept **garden** outside — good for photos
   - How I found it|Reading up on **kaymak** around the time it got popular in Korea
-  - Hours · prices · closing day|Not confirmed (changes often — please verify)
+  - Hours · prices · closing day|Not confirmed (as of Aug 2026)
 ---
 
 ## Found while reading up on kaymak

@@ -47,4 +47,4 @@ On safety: Korean law requires a **separate national licence to prepare pufferfi
 - **Holidays** — hours may differ.
 - **Want a heartier follow-up?** [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) is a short walk away, also in Dongnae.
 
-> Based on a personal visit. Prices and menus change often, so anything uncertain is marked **(changes often — please verify)**. Check the restaurant’s current information before you go.
+> Based on a personal visit. Prices and menus change often, so anything uncertain is marked **(as of Aug 2026)**. Check the restaurant’s current information before you go.

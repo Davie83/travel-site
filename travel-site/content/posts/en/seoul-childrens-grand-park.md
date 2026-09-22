@@ -21,7 +21,7 @@ info:
   - Admission|**Completely free** 🎫 — **no ticket for the park or the zoo.** No booking, no queue
   - Zoo|**10:00 AM to 5:00 PM** (closes earlier than the park)
   - Botanical garden|**Closed for renovation** (27 May 2026 to **an expected reopening in late 2027**)
-  - Rides|The amusement rides inside the park are **charged separately** — freepass runs **30,000 KRW adults · 27,000 teens · 26,000 children** (as of last check — may change)
+  - Rides|The amusement rides inside the park are **charged separately** — freepass runs **30,000 KRW adults · 27,000 teens · 26,000 children** (as of Aug 2026 — may change)
   - Nearest station|**Children's Grand Park Station** (Line 7) Exit 1 · **Achasan Station** (Line 5) Exit 4
   - Time needed|**1 to 2 hours** at an easy pace; half a day to see everything
 ---

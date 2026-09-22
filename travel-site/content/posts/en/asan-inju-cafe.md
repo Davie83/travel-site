@@ -15,7 +15,7 @@ info:
   - Character|**A hanok bakery cafe** — coffee and bread in a large traditional building, plenty of seating
   - Bread|A **smaller range** than a typical bakery cafe · signage throughout pushing the **"master baker"** angle
   - My note|The space pulled me in; the bread felt **more ordinary than expected** · the room still did its job
-  - Hours · prices · closing day|**Daily 10:00–22:00** (last order 21:00) · Americano around ₩6,500 · no fixed closing day found, appears to run daily (confirmed as of research date — worth double-checking before you go)
+  - Hours · prices · closing day|**Daily 10:00–22:00** (last order 21:00) · Americano around ₩6,500 · no fixed closing day found, appears to run daily (confirmed as of Sep 2026 — worth double-checking before you go)
 ---
 
 Driving past Sapgyocheon for work, what made me pull over wasn't the bread — it was a hanok that caught my eye.

@@ -13,7 +13,7 @@ info:
   - Location|414 Gyeongin-ro, Michuhol-gu, Incheon (인천 미추홀구 경인로 414)
   - Menu|**Egg-wrapped gimbap** (the signature) · janchi-guksu · standard bunsik (snack-bar) dishes
   - What I ordered|**Janchi-guksu + egg-wrapped gimbap** (for two)
-  - Hours · prices · closing day|**Open 24 hours, every day** · egg-roll gimbap around 6,000 KRW (as of last check — may change)
+  - Hours · prices · closing day|**Open 24 hours, every day** · egg-roll gimbap around 6,000 KRW (as of Aug 2026 — may change)
 ---
 
 I had something to do in Incheon and stopped here for a quick meal because it's **a snack bar people around here say is well known**.

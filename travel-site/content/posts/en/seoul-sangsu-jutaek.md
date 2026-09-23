@@ -26,7 +26,7 @@ info:
 
 It's on the second floor of an old house down a side street near Sangsu Station. The sign is small enough that it's easy to walk past the first time — the stairs are right next to a clothing shop on the ground floor. There's also a terrace, good for sitting outside on a nice day.
 
-![The entrance to Sangsu Jutaek — stairs up to the second floor of an old house, lit up at night, with a terrace beside them](/assets/img/seoul-sangsu-jutaek-storefront.jpg)
+![The entrance to Sangsu Jutaek — stairs up to the second floor of an old house, with a sandwich board out front listing the menu](/assets/img/seoul-sangsu-jutaek-storefront.jpg)
 
 ## The makgeolli lineup is wide
 

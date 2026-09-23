@@ -26,7 +26,7 @@ info:
 
 在上水站巷子裡，老房子建築的二樓。招牌不大，第一次去很容易錯過，從一樓服飾店旁邊的樓梯上去就到了。也有露台座位，天氣好的話坐外面也不錯。
 
-![上水住宅的入口 — 通往老房子二樓的樓梯和露台，晚上會點燈](/assets/img/seoul-sangsu-jutaek-storefront.jpg)
+![上水住宅的入口 — 通往老房子二樓的樓梯，立牌上寫著菜單](/assets/img/seoul-sangsu-jutaek-storefront.jpg)
 
 ## 馬格利酒種類很多
 

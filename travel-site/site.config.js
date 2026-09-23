@@ -359,6 +359,7 @@ module.exports = {
     { key: '회덮밥',   names: { ko: '회덮밥',   en: 'Sashimi bowl',    ja: '海鮮丼',       zh: '生魚蓋飯' } },
     { key: '디저트',   names: { ko: '디저트',   en: 'Dessert',         ja: 'デザート',     zh: '甜點' } },
     { key: '파스타',   names: { ko: '파스타',   en: 'Pasta',           ja: 'パスタ',       zh: '義大利麵' } },
+    { key: '스테이크', names: { ko: '스테이크', en: 'Steak',           ja: 'ステーキ',     zh: '牛排' } },
 
     /* 요리 계통 */
     { key: '일식',     names: { ko: '일식',     en: 'Japanese',        ja: '和食',         zh: '日本料理' } },

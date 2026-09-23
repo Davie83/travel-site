@@ -14,8 +14,8 @@ lng: 126.9691349
 addr: 서울특별시 중구 정동길 12-15
 subway: 5 서대문 4
 closed: none
-order: 스테이크랑 파스타 아무거나 하나씩 주세요
-orderRoman: Seuteikeu-rang paseuta amugeona hanassik juseyo
+order: 스테이크랑 트러플 머쉬룸 파스타 주세요
+orderRoman: Seuteikeu-rang teureopeul meosyurum paseuta juseyo
 info:
   - 가게|어반가든 본점
   - 위치|서울특별시 중구 정동길 12-15

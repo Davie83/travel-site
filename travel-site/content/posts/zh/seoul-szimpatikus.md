@@ -2,7 +2,7 @@
 title: SZIMPATIKUS 首爾站店 — 蕨菜牛胸肉義大利麵，用韓國食材做的西餐
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-08-27
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg

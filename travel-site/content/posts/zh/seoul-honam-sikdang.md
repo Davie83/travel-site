@@ -2,7 +2,7 @@
 title: 湖南食堂 — 南大門燉白帶魚巷裡的一家，還有蒸蛋和白天的馬格利
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🐟
 thumb: assets/img/seoul-honam-sikdang.jpg

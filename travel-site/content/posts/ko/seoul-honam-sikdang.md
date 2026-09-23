@@ -2,7 +2,7 @@
 title: 호남식당 — 남대문 갈치조림 골목의 한 집, 계란찜과 낮술 막걸리까지
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🐟
 thumb: assets/img/seoul-honam-sikdang.jpg

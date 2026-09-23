@@ -2,7 +2,7 @@
 title: 友情食堂 — 南大門市場裡藏著的家常定食店，辣炒豬肉、辣炒魷魚，還有半半
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🍳
 thumb: assets/img/seoul-ujeong-sikdang.jpg

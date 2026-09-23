@@ -2,7 +2,7 @@
 title: マンネフェッチプ — 平日ランチだけの14,000ウォン刺身定食、南大門市場
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-15
 emoji: 🐟
 thumb: assets/img/seoul-maknae-hoejip.jpg

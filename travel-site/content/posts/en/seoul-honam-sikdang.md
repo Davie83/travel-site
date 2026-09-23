@@ -2,7 +2,7 @@
 title: Honam Sikdang — One Shop in Namdaemun's Braised-Hairtail Alley, with Steamed Egg and Daytime Makgeolli
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🐟
 thumb: assets/img/seoul-honam-sikdang.jpg

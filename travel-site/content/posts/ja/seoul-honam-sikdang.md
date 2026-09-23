@@ -2,7 +2,7 @@
 title: ホナム食堂 — 南大門の太刀魚の煮付け横丁の一軒、茶碗蒸しと昼のマッコリまで
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🐟
 thumb: assets/img/seoul-honam-sikdang.jpg

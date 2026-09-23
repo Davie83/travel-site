@@ -2,7 +2,7 @@
 title: 막내횟집 — 평일 점심에만 나오는 14,000원 회정식, 남대문시장
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-15
 emoji: 🐟
 thumb: assets/img/seoul-maknae-hoejip.jpg

@@ -2,7 +2,7 @@
 title: ウジョン食堂 — 南大門市場の奥に隠れたペクバンの店、チェユク炒め・イカ炒め、そして半々
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🍳
 thumb: assets/img/seoul-ujeong-sikdang.jpg

@@ -2,7 +2,7 @@
 title: シンポティクシ ソウル駅店 — ワラビと牛カルビ肉のパスタ、韓国食材で作る洋食
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-08-27
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg

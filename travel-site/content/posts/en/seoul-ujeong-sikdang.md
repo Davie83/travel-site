@@ -2,7 +2,7 @@
 title: Ujeong Sikdang — A Hidden Home-Style Diner in Namdaemun Market, for Spicy Pork, Spicy Squid, and the Banban
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🍳
 thumb: assets/img/seoul-ujeong-sikdang.jpg

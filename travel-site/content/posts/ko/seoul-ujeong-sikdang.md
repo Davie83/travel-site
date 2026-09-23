@@ -2,7 +2,7 @@
 title: 우정식당 — 남대문시장 안 숨은 백반집, 제육볶음·오징어볶음, 그리고 반반
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-02
 emoji: 🍳
 thumb: assets/img/seoul-ujeong-sikdang.jpg

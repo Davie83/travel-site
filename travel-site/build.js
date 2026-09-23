@@ -935,14 +935,18 @@ function genreQuickChipsHTML(list, code, t) {
     그 아래에 패널이 펼쳐집니다 (동작은 assets/filter.js 의 .fbar 처리기).
     "동네"는 필터가 아니라 다른 페이지(동네 페이지)로 가는 링크라 선택 상태를
     표시하지 않고, "음식 종류"만 filter.js 가 고른 값을 버튼에 그대로 보여줍니다.
-    둘 중 하나만 있어도(예: 동네 페이지에서는 음식 종류만) 그만큼만 그립니다. */
+    둘 중 하나만 있어도(예: 동네 페이지에서는 음식 종류만) 그만큼만 그립니다.
+    "동네" 패널은 지역 페이지에 들어오자마자 동네 목록이 바로 보여야 한다는
+    요청으로 기본 펼침 상태로 둡니다(Sep 2026) — "음식 종류"는 그대로 접힌 채 시작합니다.
+    filter.js 의 아코디언 로직(하나 열면 나머지 닫기)은 그대로라 클릭하면 정상 동작합니다. */
 function filterBarHTML(areaLinksInner, genreInner, code, t) {
   const e = escapeHtml;
   const parts = [];
   if (areaLinksInner) {
     parts.push({
       id: 'fp-area',
-      btn: `<button class="fbtn" type="button" data-panel="fp-area" aria-expanded="false" aria-controls="fp-area">` +
+      open: true,
+      btn: `<button class="fbtn open" type="button" data-panel="fp-area" aria-expanded="true" aria-controls="fp-area">` +
         `<span class="fbtn-label">${e(t.areaJumpLabel)}</span>` +
         `<span class="fbtn-arrow" aria-hidden="true">▾</span></button>`,
       body: areaLinksInner
@@ -963,7 +967,7 @@ function filterBarHTML(areaLinksInner, genreInner, code, t) {
     <div class="fbar-buttons">
 ${parts.map(p => '      ' + p.btn).join('\n')}
     </div>
-${parts.map(p => `    <div class="fpanel" id="${p.id}" hidden>\n${p.body}\n    </div>`).join('\n')}
+${parts.map(p => `    <div class="fpanel" id="${p.id}"${p.open ? '' : ' hidden'}>\n${p.body}\n    </div>`).join('\n')}
   </div>`;
 }
 /** 동네 지도 — 지역·동네 페이지 목록 옆에 붙는 "약도" 입니다.

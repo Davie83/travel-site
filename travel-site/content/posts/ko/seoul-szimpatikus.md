@@ -2,7 +2,7 @@
 title: 심퍼티쿠시 서울역점 — 차돌 고사리 파스타, 한국 재료로 만든 양식
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-08-27
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg

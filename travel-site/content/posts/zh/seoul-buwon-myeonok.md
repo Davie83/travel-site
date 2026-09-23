@@ -2,7 +2,7 @@
 title: 富元麵屋 — 南大門市場二樓的老派平壤冷麵
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg

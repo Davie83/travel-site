@@ -2,7 +2,7 @@
 title: 老么生魚片家 — 只在平日午餐供應的14,000韓元生魚片定食，南大門市場
 cat: food
 region: seoul
-area: myeongdong
+area: namdaemun
 date: 2026-09-15
 emoji: 🐟
 thumb: assets/img/seoul-maknae-hoejip.jpg

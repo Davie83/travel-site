@@ -79,6 +79,15 @@ const TIPS_PAGES = new Set(Array.isArray(site.tipsPages) ? site.tipsPages : []);
 /* 동네 페이지: 글이 이 개수 이상인 동네만 색인에 노출합니다. */
 const AREA_PAGE_MIN = Number.isInteger(site.areaPageMin) ? site.areaPageMin : 2;
 
+/* 구조화 데이터의 Organization/publisher 이름 — 모든 언어 페이지에서 고정입니다.
+   전에는 siteName(code)를 그대로 썼는데, 같은 @id(#org)를 언어마다 다른 name으로
+   선언하는 꼴이라(ko="Davie's K-식도락" vs en/ja/zh="Davie's K-Food Trip") 구글이
+   같은 실체를 놓고 모순된 사실을 보는 상태였습니다 — 실체는 언어별로 여러 개가
+   아니라 하나이므로, 이름도 하나로 고정하고 한국어 이름은 alternateName 으로만 둡니다.
+   (Sep 2026 — 9/7 리브랜딩 커밋에서 siteName(code)로 바뀌며 생긴 문제, 노출 crash 조사 중 발견) */
+const ORG_NAME = (site.name && (site.name.en || site.name.ko)) || '';
+const ORG_ALT_NAME = (site.name && site.name.ko && site.name.ko !== ORG_NAME) ? site.name.ko : null;
+
 /* ==========================================================================
    1. 유틸
    ========================================================================== */
@@ -1475,7 +1484,8 @@ function homeJsonLd(code) {
       {
         '@type': 'Organization',
         '@id': `${SITE_URL}/#org`,
-        name: siteName(code),
+        name: ORG_NAME,
+        ...(ORG_ALT_NAME ? { alternateName: ORG_ALT_NAME } : {}),
         url: `${SITE_URL}/`,
         logo: { '@type': 'ImageObject', url: `${SITE_URL}/${site.ogImage}` },
         sameAs: [site.author && site.author.mapsProfile].filter(Boolean)
@@ -2586,7 +2596,7 @@ async function build() {
             datePublished: m.date, dateModified: m.updated || m.date,
             inLanguage: l.htmlLang,
             author: authorLd(code),
-            publisher: { '@type': 'Organization', name: siteName(code), '@id': `${SITE_URL}/#org` },
+            publisher: { '@type': 'Organization', name: ORG_NAME, '@id': `${SITE_URL}/#org` },
             image: m.thumb ? `${SITE_URL}/${m.thumb}${imgVer(m.thumb)}` : undefined,
             mainEntityOfPage: pageUrl,
             about: { '@id': pageUrl + '#place' }
@@ -2728,7 +2738,7 @@ ${tocList}
                   description: summary || undefined,
                   inLanguage: l.htmlLang,
                   author: authorLd(code),
-                  publisher: { '@type': 'Organization', name: siteName(code) },
+                  publisher: { '@type': 'Organization', name: ORG_NAME },
                   mainEntityOfPage: secUrl,
                   isPartOf: { '@type': 'WebPage', name: pg.meta.title, url: `${SITE_URL}/${d}tips` }
                 },

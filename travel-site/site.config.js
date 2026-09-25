@@ -191,7 +191,7 @@ module.exports = {
       areas: [
         { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '濟州市' } },
         { slug: 'aewol',    names: { ko: '애월',    en: 'Aewol',     ja: '涯月',    zh: '涯月' } },
-        { slug: 'seogwipo', names: { ko: '서귀포',  en: 'Seogwipo',  ja: '西帰浦',  zh: '西歸浦' } },
+        { slug: 'seogwipo', names: { ko: '서귀포시',en: 'Seogwipo',  ja: '西帰浦',  zh: '西歸浦' } },
         { slug: 'seongsan',  names: { ko: '성산',    en: 'Seongsan',  ja: '城山',    zh: '城山' } }
       ] }
   ],

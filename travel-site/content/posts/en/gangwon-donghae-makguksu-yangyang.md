@@ -32,6 +32,8 @@ The density of the buckwheat noodles and this shop's seasoning sauce pair really
 
 If you have the appetite, I'd recommend adding suyuk. The makguksu alone is enough, but pairing it with suyuk turns the meal into something more filling and satisfying.
 
+![Suyuk at Donghae Makguksu Branch — thick-sliced boiled pork served with kimchi, pickled radish, garlic, cheongyang chilies and salted shrimp](/assets/img/gangwon-donghae-makguksu-yangyang-suyuk.jpg)
+
 ## The kind of place that makes you want to plan a Gangwon trip
 
 Every so often I catch myself wondering if I should plan a Gangwon trip just because of this place. It's the kind of meal that leaves you happy after the last slurp.

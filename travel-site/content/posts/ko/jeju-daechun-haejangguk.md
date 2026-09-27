@@ -13,7 +13,7 @@ lat: 33.4804231
 lng: 126.5240233
 addr: 제주 제주시 연북로 398
 closed: mon
-spicy: 3
+spicy: 2
 order: 내장탕 하나 주세요
 orderRoman: Naejangtang hana juseyo
 info:

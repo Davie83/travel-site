@@ -341,6 +341,7 @@ module.exports = {
     { key: '한우',     names: { ko: '한우',     en: 'Hanwoo beef',     ja: '韓牛',         zh: '韓牛' } },
     { key: '갈비',     names: { ko: '갈비',     en: 'Galbi',           ja: 'カルビ',       zh: '牛排骨' } },
     { key: '곱창',     names: { ko: '곱창',     en: 'Grilled offal',   ja: 'ホルモン焼き', zh: '烤牛腸' } },
+    { key: '껍데기',   names: { ko: '껍데기',   en: 'Grilled pork skin', ja: 'コプデギ', zh: '豬皮' } },
     { key: '정식',     names: { ko: '정식',     en: 'Set meal',        ja: '定食',         zh: '套餐' } },
     { key: '비빔밥',   names: { ko: '비빔밥',   en: 'Bibimbap',        ja: 'ビビンバ',     zh: '拌飯' } },
     { key: '족발',     names: { ko: '족발',     en: 'Jokbal',          ja: 'チョッパル',   zh: '豬腳' } },

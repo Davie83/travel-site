@@ -89,6 +89,11 @@ body{
   font-family:var(--kr);font-size:16px;line-height:1.75;
   -webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;
 
+  /* 어딘가에서 요소가 화면 폭을 살짝 넘치면, 넘친 만큼 문서 전체 폭이 늘어나면서
+     position:fixed 요소(맨 위로 버튼 등)의 기준점이 실제 화면보다 오른쪽으로 밀립니다.
+     그 결과를 막는 안전장치 — 세로 스크롤에는 영향 없습니다. */
+  overflow-x:hidden;
+
   /* 한글 줄바꿈 — 이게 없으면 브라우저가 한글을 중국어처럼 취급해서
      "정리합니 / 다" 처럼 단어 중간에서 줄을 끊습니다.
      keep-all 은 어절 단위로 끊고, overflow-wrap 은 한 어절이
@@ -143,6 +148,24 @@ img{max-width:100%;display:block;}
   .logo-name{font-size:15px;letter-spacing:-.04em;}   /* K-식도락이 한 줄에 (white-space:nowrap 와 함께) */
   .header-inner{gap:8px;}
   .logo{gap:7px;}
+}
+/* 아주 좁은 화면(기본 모바일 폭)에서는 로고+언어전환+테마+저장+메뉴 버튼을 다 더하면
+   375px 폭을 넘어서 헤더가 넘칩니다. flex 줄바꿈 없이 그대로 넘치면(overflow) 이 줄이
+   문서 전체 폭을 늘려버려서, position:fixed 요소(맨 위로 버튼 등)가 실제 화면보다
+   오른쪽에 자리잡아 화면 밖으로 밀려납니다(축소해야만 보이는 원인). 언어 전환 배지가
+   폭을 가장 많이 차지하므로 여기를 더 좁혀서 375px 안에 들어오게 합니다. */
+@media (max-width:400px){
+  .header-inner{gap:5px;}
+  .logo{gap:5px;}
+  .logo-mark{width:18px;height:18px;}
+  .logo-name{font-size:13px;}
+  .langs{padding:1px;gap:0;}
+  .langs-ico{margin:0 1px 0 3px;font-size:11px;}
+  .lang{padding:4px 6px;font-size:11px;}
+  .theme-btn{width:28px;height:28px;}
+  .theme-btn span{font-size:12px;}
+  .saved-link{padding:4px 7px;gap:3px;}
+  .nav-toggle{width:32px;height:30px;font-size:15px;}
 }
 
 /* 언어 전환 — 예전엔 헤더 배경(var(--surface))과 거의 안 갈라져서 눈에 잘 안 띄었습니다.

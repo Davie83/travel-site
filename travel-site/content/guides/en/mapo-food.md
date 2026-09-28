@@ -13,4 +13,8 @@ picks:
   - seoul-mapo-sogeumgui|Known for pork skin, eaten together with pork neck.
 ---
 
-Mapo district stretches wide, from Gongdeok to Mangwon and Hapjeong, and each pocket has its own character. Six picks from what we've already reviewed here.
+Mapo district stretches wide, from Gongdeok to Mangwon and Hapjeong, and each pocket has its own character. Gongdeok is an old-restaurant alley where office workers grab lunch, Mangwon mixes a traditional market with a cafe street, and Hapjeong is a younger commercial strip that runs into Hongdae. Six picks from what we've already reviewed here.
+
+For a route: start with lunch in Gongdeok (**Mapo Yangji Seolleongtang** or **Hongbak Agujjim**), cross over to Mangwon in the afternoon for a coffee break at **Fritz Dohwa**, then finish the evening at a grill in Hapjeong or Mangwon (**Mapo Sogeumgui** or **Cheongeoram**).
+
+Prices span a wide range — from casual, old-school spots around 10,000 KRW per person, up to 20,000–30,000 KRW evenings built around drinks, like sogeumgui or gopchang hot pot. If a place takes reservations only (**Seosan Kkotge**), check ahead before you go.

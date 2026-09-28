@@ -13,4 +13,8 @@ picks:
   - seoul-gangbyeon-seojae|A Han River-view bakery cafe inside the National Assembly grounds, open to the public.
 ---
 
-Yeouido mixes office-lunch veterans with a Han River-view cafe. Here's a pick from what I've reviewed, ordered around the National Assembly and IFC side.
+Yeouido mixes office-lunch veterans with a Han River-view cafe. It's an office district built around the National Assembly and the securities firms nearby, so it's especially busy on weekday lunches, and the mood shifts toward the Han River Park side in the evening. Here's a pick from what I've reviewed, ordered around the National Assembly and IFC side.
+
+For lunch, stick to the veteran spots office workers line up for — gomtang at **Hadongkwan**, kongguksu at **Jinjujip**, or hoedeopbap at **Gwonsusan**. For dinner, there's steak-truffle jjajangmyeon at **Mutan** or mandu-guk at **Jinjin Mandu** — both work well split between two people. To close out the day, **Gangbyeon Seojae**, a cafe inside the National Assembly grounds, is a good spot for coffee with a Han River view.
+
+Lunch at the veteran spots is mostly in the 10,000-KRW range, so it's easy on the budget. Since Gangbyeon Seojae sits inside the National Assembly grounds, check its hours before you go — it closes at 7 PM and is shut on Sundays.

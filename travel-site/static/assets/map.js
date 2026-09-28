@@ -50,12 +50,19 @@
       dot.addEventListener('mouseleave', function () { card.classList.remove('is-map-hover'); });
     });
 
-    // 점 클릭 → 해당 카드로 스크롤 + 잠깐 반짝임
+    // 점 클릭 → 해당 카드로 스크롤 + 잠깐 반짝임.
+    // is-active 를 여기서도 켜두는 이유: 터치 기기는 :hover 가 없어서, 이름표를
+    // "선택했을 때만" 보이게 하려면 클릭 자체가 선택 상태를 만들어줘야 합니다.
+    // 다른 점을 클릭하면 이전 점의 이름표는 다시 숨깁니다.
+    var activeDot = null;
     dots.forEach(function (dot) {
       dot.addEventListener('click', function (e) {
         var card = grid.querySelector('.card[data-slug="' + dot.getAttribute('data-slug') + '"]');
         if (!card || card.hidden) return;
         e.preventDefault();
+        if (activeDot && activeDot !== dot) activeDot.classList.remove('is-active');
+        dot.classList.add('is-active');
+        activeDot = dot;
         card.scrollIntoView({ behavior: 'smooth', block: 'center' });
         card.classList.add('is-map-hover');
         setTimeout(function () { card.classList.remove('is-map-hover'); }, 1200);

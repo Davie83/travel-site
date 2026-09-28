@@ -1375,6 +1375,18 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
   padding:1px 6px;border-radius:4px;
   box-shadow:0 1px 2px rgba(0,0,0,.18);
   pointer-events:none;
+  /* 점이 많으면(10개 안팎) 이름표가 서로 겹쳐 지도가 복잡해 보여서, 기본은
+     숨겨두고 그 점을 선택했을 때만(hover·키보드 포커스·클릭 후 is-active) 보여줍니다.
+     transition은 일부러 안 씁니다 — opacity에 transition을 걸어두면 브라우저가
+     "새로 삽입된 스타일시트"를 초기값(1)에서 새 값(0)으로 트랜지션 처리하면서
+     끝나지 않고 1에 멈춰버리는 경우가 있어(직접 라이브 사이트에서 재현·확인),
+     그냥 즉시 전환이 훨씬 안전합니다. */
+  opacity:0;visibility:hidden;
+}
+.smap-dot:hover .smap-label,
+.smap-dot:focus-visible .smap-label,
+.smap-dot.is-active .smap-label{
+  opacity:1;visibility:visible;
 }
 /* 실제 배경 지도(Geoapify, 빌드 시점에 미리 받아둔 이미지)가 있을 때만 붙는 클래스.
    격자 배경 대신 사진을 꽉 채우고, 어두운 테마에서는 지도가 항상 밝은 색(OSM 스타일)이라

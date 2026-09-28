@@ -134,7 +134,8 @@ module.exports = {
         { slug: 'sokcho',    names: { ko: '속초', en: 'Sokcho',    ja: '束草', zh: '束草' } },
         { slug: 'cheorwon',  names: { ko: '철원', en: 'Cheorwon',  ja: '鉄原', zh: '鐵原' } },
         { slug: 'gangneung', names: { ko: '강릉', en: 'Gangneung', ja: '江陵', zh: '江陵' } },
-        { slug: 'yangyang',  names: { ko: '양양', en: 'Yangyang',  ja: '襄陽', zh: '襄陽' } }
+        { slug: 'yangyang',  names: { ko: '양양', en: 'Yangyang',  ja: '襄陽', zh: '襄陽' } },
+        { slug: 'jumunjin',  names: { ko: '주문진', en: 'Jumunjin', ja: '注文津', zh: '注文津' } }
       ] },
     { slug: 'chungcheong', color: '#498235', colorDark: '#9fd98c',   // 초록
       names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' },
@@ -321,6 +322,7 @@ module.exports = {
     { key: '곰탕',     names: { ko: '곰탕',     en: 'Gomtang',         ja: 'コムタン',     zh: '牛肉湯' } },
     { key: '설렁탕',   names: { ko: '설렁탕',   en: 'Seolleongtang',   ja: 'ソルロンタン', zh: '雪濃湯' } },
     { key: '도가니탕', names: { ko: '도가니탕', en: 'Ox-knee soup',    ja: 'トガニタン',   zh: '牛膝軟骨湯' } },
+    { key: '복국',     names: { ko: '복국',     en: 'Pufferfish soup', ja: 'フグ汁',       zh: '河豚湯' } },
     { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '豬肉湯飯' } },
     { key: '콩나물국밥', names: { ko: '콩나물국밥', en: 'Kongnamul gukbap', ja: 'コンナムルクッパ', zh: '豆芽湯飯' } },
     { key: '순대국',   names: { ko: '순대국',   en: 'Sundae-guk',      ja: 'スンデクッパ', zh: '血腸湯' } },

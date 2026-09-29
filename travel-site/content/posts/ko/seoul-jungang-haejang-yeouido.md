@@ -15,8 +15,8 @@ addr: 서울특별시 영등포구 여의대로 70 원센티널 2층
 subway: 5,9 여의도 5
 closed: none
 spicy: 2
-order: 소곱창전골이랑 해장국 주세요
-orderRoman: So-gopchang-jeongol-irang haejang-guk juseyo
+order: 소곱창전골 주세요
+orderRoman: So-gopchang-jeongol juseyo
 info:
   - 가게|중앙해장 여의도점
   - 위치|서울특별시 영등포구 여의대로 70 원센티널 2층

@@ -17,6 +17,7 @@ closed: none
 spicy: 2
 order: 소곱창전골 주세요
 orderRoman: So-gopchang-jeongol juseyo
+famous: true
 info:
   - 가게|중앙해장 여의도점
   - 위치|서울특별시 영등포구 여의대로 70 원센티널 2층

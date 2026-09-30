@@ -17,7 +17,6 @@ closed: none
 spicy: 2
 order: 비리아 타코 주세요
 orderRoman: Biria tako juseyo
-famous: true
 info:
   - 가게|더타코부스 여의도역점
   - 위치|서울 영등포구 의사당대로 108 아일렉스 1층 101호 · 여의도역 6번 출구 바로 앞

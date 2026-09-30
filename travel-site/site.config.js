@@ -365,6 +365,7 @@ module.exports = {
     { key: '디저트',   names: { ko: '디저트',   en: 'Dessert',         ja: 'デザート',     zh: '甜點' } },
     { key: '파스타',   names: { ko: '파스타',   en: 'Pasta',           ja: 'パスタ',       zh: '義大利麵' } },
     { key: '스테이크', names: { ko: '스테이크', en: 'Steak',           ja: 'ステーキ',     zh: '牛排' } },
+    { key: '타코',     names: { ko: '타코',     en: 'Tacos',           ja: 'タコス',       zh: '塔可' } },
 
     /* 요리 계통 */
     { key: '일식',     names: { ko: '일식',     en: 'Japanese',        ja: '和食',         zh: '日本料理' } },

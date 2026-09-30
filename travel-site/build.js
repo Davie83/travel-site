@@ -1053,8 +1053,14 @@ function schematicMapHTML(list, base, code, t, mapImg) {
           <span class="region-map-title">${escapeHtml(t.mapPanelTitle)}</span>
           <button class="region-map-close" type="button" aria-label="${escapeHtml(t.mapPanelClose)}">&times;</button>
         </div>
-        <div class="schematic-map${mapClass}" data-target="region-grid"${mapStyle}>
+        <div class="schematic-map-frame">
+          <div class="schematic-map${mapClass}" data-target="region-grid"${mapStyle}>
 ${dots}
+          </div>
+          <div class="smap-zoom">
+            <button type="button" class="smap-zoom-btn smap-zoom-in" aria-label="${escapeHtml(t.mapZoomIn || 'Zoom in')}">+</button>
+            <button type="button" class="smap-zoom-btn smap-zoom-out" aria-label="${escapeHtml(t.mapZoomOut || 'Zoom out')}">&minus;</button>
+          </div>
         </div>
         ${note}
       </aside>`;

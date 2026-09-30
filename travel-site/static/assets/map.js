@@ -24,6 +24,26 @@
     var dotBySlug = {};
     dots.forEach(function (dot) { dotBySlug[dot.getAttribute('data-slug')] = dot; });
 
+    // 확대/축소 — 실제 지도 타일이 아니라 사전 렌더 이미지 + 좌표 점이라, 팬(드래그
+    // 이동)까지는 지원하지 않고 가운데를 기준으로 커지는 간단한 버튼식 줌만 둡니다.
+    var frame = map.closest('.schematic-map-frame');
+    var zoomInBtn = frame ? frame.querySelector('.smap-zoom-in') : null;
+    var zoomOutBtn = frame ? frame.querySelector('.smap-zoom-out') : null;
+    var ZOOM_STEPS = [1, 1.5, 2, 2.75];
+    var zoomIdx = 0;
+    function applyZoom() {
+      map.style.transform = zoomIdx === 0 ? '' : 'scale(' + ZOOM_STEPS[zoomIdx] + ')';
+      if (zoomInBtn) zoomInBtn.disabled = zoomIdx === ZOOM_STEPS.length - 1;
+      if (zoomOutBtn) zoomOutBtn.disabled = zoomIdx === 0;
+    }
+    if (zoomInBtn) zoomInBtn.addEventListener('click', function () {
+      if (zoomIdx < ZOOM_STEPS.length - 1) { zoomIdx++; applyZoom(); }
+    });
+    if (zoomOutBtn) zoomOutBtn.addEventListener('click', function () {
+      if (zoomIdx > 0) { zoomIdx--; applyZoom(); }
+    });
+    applyZoom();
+
     function syncVisibility() {
       grid.querySelectorAll('.card[data-slug]').forEach(function (card) {
         var dot = dotBySlug[card.getAttribute('data-slug')];

@@ -1345,14 +1345,31 @@ a.post-pill:hover{border-color:var(--line-hard);color:var(--ink);}
   cursor:pointer;padding:2px 4px;
 }
 .region-map-close:hover{color:var(--ink);}
+.schematic-map-frame{
+  position:relative;aspect-ratio:1;
+  border:1px solid var(--line);border-radius:10px;overflow:hidden;
+}
 .schematic-map{
-  position:relative;aspect-ratio:1;background-color:var(--ground);
+  position:absolute;inset:0;background-color:var(--ground);
   background-image:
     linear-gradient(var(--line) 1px, transparent 1px),
     linear-gradient(90deg, var(--line) 1px, transparent 1px);
   background-size:12.5% 12.5%;
-  border:1px solid var(--line);border-radius:10px;overflow:hidden;
+  transform-origin:center center;transition:transform .15s ease;
 }
+/* 확대/축소 버튼 — 지도 프레임 안쪽 우상단에 떠 있습니다. 클릭할 때마다
+   map.js 가 .schematic-map 에 transform:scale() 을 걸어줍니다(핀·배경 지도가
+   같은 레이어라 함께 커집니다). 실제 지도 타일이 아니라 사전 렌더 이미지라
+   팬(드래그 이동)은 지원하지 않고, 확대한 채로는 가운데를 기준으로 커집니다. */
+.smap-zoom{position:absolute;top:8px;right:8px;z-index:3;display:flex;flex-direction:column;gap:4px;}
+.smap-zoom-btn{
+  width:26px;height:26px;border-radius:6px;border:1px solid var(--line-hard);
+  background:var(--surface);color:var(--ink-mid);font-size:15px;font-weight:800;line-height:1;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;
+  box-shadow:0 1px 3px rgba(0,0,0,.18);
+}
+.smap-zoom-btn:hover{border-color:var(--ink-mute);color:var(--ink);}
+.smap-zoom-btn:disabled{opacity:.4;cursor:default;}
 .smap-dot{
   position:absolute;width:20px;height:20px;margin:-10px 0 0 -10px;
   border-radius:50%;background:var(--r);border:2px solid var(--ground);

@@ -46,7 +46,7 @@ It's on the first floor of the Eyelex building, visible as soon as you step out 
 ## For foreign visitors
 
 - A **taco** is a tortilla topped with meat, vegetables, and salsa; a **quesadilla** is a tortilla grilled with cheese and fillings folded inside; a **burrito** is a tortilla wrapped around the fillings
-- Overall it leans spicy, though not extremely so (2 out of 5)
+- There's a mildly spicy kick from the salsa and sauces, but overall it's not very hot (1 out of 5)
 - Forks are provided, so use a fork and knife if eating with your hands isn't comfortable
 
 ## Who this is for
@@ -55,7 +55,7 @@ It's on the first floor of the Eyelex building, visible as soon as you step out 
 - ✅ Anyone needing a light meal on a low-appetite day
 - ✅ Anyone who wants a beer alongside lunch
 - ✅ Anyone going with a group who wants to share a variety off a set menu
-- ⚠️ Anyone who can't handle spicy food at all — it leans spicy overall
+- ⚠️ Anyone who can't handle any spice at all — there's a mild kick from the salsa and sauces
 - ⚠️ Anyone wanting a quiet meal — there's usually a wait at both lunch and dinner
 
 > This is a first-hand account, and taste is subjective. Prices and hours are **(as of Oct 2026)** — worth checking again before you go.

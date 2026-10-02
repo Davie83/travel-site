@@ -14,6 +14,7 @@ info:
   - Phone|02-736-0124
   - Hours|Weekdays 10:00 AM–10:00 PM (break 2:30–4:00 PM) · Sat 10:00 AM–9:00 PM · Closed Sundays (as of Oct 2026)
   - Signature dishes|Lunch set 30,000 KRW per person · Premium set 40,000 KRW per person (as of Oct 2026)
+  - À la carte|Raw-fish rice bowl 15,000 KRW · Sea squirt bibimbap 14,000 KRW · Fish roe rice set 13,000 KRW · Fish cake udon set 13,000 KRW · Pollock roe soup 13,000 KRW · Fresh cod soup 20,000 KRW (as of Oct 2026)
   - Diningcode rating|Overall 4.7 · Taste 5.0 · Value 3.7 · Service 5.0
   - Nearest station|Seodaemun (Line 5), about a 3-minute walk
   - Note|Private-room layout — good for a quiet meal with friends
@@ -26,6 +27,10 @@ info:
 The **lunch set is 30,000 KRW per person, the premium set 40,000 KRW**. I later found out that ordering the premium set adds a full plate of **seasoned grilled eel** and a **large steamed abalone (one per person)**. For a 10,000 KRW gap, that's not a bad trade.
 
 ![The entrance to Makssaeorihoe Seodaemun — near Seodaemun Station, with the restaurant's name and phone number on the sign and a menu board posted beside it](/assets/img/seoul-maksseorihoe-seodaemun-storefront.jpg)
+
+## You don't have to order a full set — à la carte works too
+
+A full set isn't required. At lunch there are several standalone dishes too, good for eating light solo or just picking whatever you're craving. Options include a **raw-fish rice bowl (15,000 KRW)**, **sea squirt bibimbap (14,000 KRW)**, **fish roe rice set (13,000 KRW)**, **fish cake udon set (13,000 KRW)**, **pollock roe soup (13,000 KRW)**, and **fresh cod soup (20,000 KRW)**. Good choices if you want a single light bowl instead of a full sashimi-centered set.
 
 ## The sides are ordinary, but the main dish is the star
 

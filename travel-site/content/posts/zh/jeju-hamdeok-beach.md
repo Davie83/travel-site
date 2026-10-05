@@ -22,9 +22,9 @@ info:
 
 ## 如今已經相當有觀光區的氣氛
 
-周邊住宿很多，**如今已經相當有觀光區的氣氛。** 照片後方突出海邊的建築也是一間咖啡館（Cafe Delmoondo）。
+周邊住宿很多，**如今已經相當有觀光區的氣氛。** 下方照片中突出向海面的露台建築也是一間咖啡館（Cafe Delmoondo）。
 
-![咸德海水浴場的海灘廣場 — 刻有「Ham deok」字樣的石牆和棕櫚樹，後方可見海邊咖啡館](/assets/img/jeju-hamdeok-beach-plaza.jpg)
+![咸德海水浴場的景色 — 翡翠綠的海水，岸邊可見海邊咖啡館（Cafe Delmoondo）](/assets/img/jeju-hamdeok-beach-view.jpg)
 
 ## 接著走Seowubong也很順
 

@@ -22,9 +22,9 @@ info:
 
 ## It's fairly touristy now
 
-With so many places to stay nearby, it **feels fairly touristy these days.** The building out over the water at the back of the photo is a cafe too (Cafe Delmoondo).
+With so many places to stay nearby, it **feels fairly touristy these days.** The terrace building jutting out toward the water in the photo below is a cafe too (Cafe Delmoondo).
 
-![The beach plaza at Hamdeok Beach — a stone wall with "Ham deok" lettering and palm trees, with a seaside cafe in the background](/assets/img/jeju-hamdeok-beach-plaza.jpg)
+![The view over Hamdeok Beach — emerald water, with a seaside cafe (Cafe Delmoondo) along the shore](/assets/img/jeju-hamdeok-beach-view.jpg)
 
 ## Seowubong is right there for a walk
 

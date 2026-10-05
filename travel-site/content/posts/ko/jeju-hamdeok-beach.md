@@ -27,9 +27,9 @@ info:
 
 ## 이제는 제법 관광지다
 
-주변에 숙소가 많아서 **이제는 제법 관광지스럽습니다.** 사진 뒤쪽 바닷가에 걸쳐 있는 건물도 카페(Cafe Delmoondo)입니다.
+주변에 숙소가 많아서 **이제는 제법 관광지스럽습니다.** 아래 사진 속 바다 쪽으로 튀어나온 테라스 건물도 카페(Cafe Delmoondo)입니다.
 
-![함덕해수욕장 해변 광장 — 'Ham deok' 글자가 붙은 돌담과 야자수, 뒤쪽으로 바닷가 카페가 보입니다](/assets/img/jeju-hamdeok-beach-plaza.jpg)
+![함덕해수욕장 전망 — 에메랄드빛 바다와 해안 너머 바닷가 카페(Cafe Delmoondo)가 내려다보입니다](/assets/img/jeju-hamdeok-beach-view.jpg)
 
 ## 서우봉 산책까지 한 번에
 

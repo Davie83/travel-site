@@ -149,24 +149,10 @@ img{max-width:100%;display:block;}
   .header-inner{gap:8px;}
   .logo{gap:7px;}
 }
-/* 아주 좁은 화면(기본 모바일 폭)에서는 로고+언어전환+테마+저장+메뉴 버튼을 다 더하면
-   375px 폭을 넘어서 헤더가 넘칩니다. flex 줄바꿈 없이 그대로 넘치면(overflow) 이 줄이
-   문서 전체 폭을 늘려버려서, position:fixed 요소(맨 위로 버튼 등)가 실제 화면보다
-   오른쪽에 자리잡아 화면 밖으로 밀려납니다(축소해야만 보이는 원인). 언어 전환 배지가
-   폭을 가장 많이 차지하므로 여기를 더 좁혀서 375px 안에 들어오게 합니다. */
-@media (max-width:400px){
-  .header-inner{gap:5px;}
-  .logo{gap:5px;}
-  .logo-mark{width:18px;height:18px;}
-  .logo-name{font-size:13px;}
-  .langs{padding:1px;gap:0;}
-  .langs-ico{margin:0 1px 0 3px;font-size:11px;}
-  .lang{padding:4px 6px;font-size:11px;}
-  .theme-btn{width:28px;height:28px;}
-  .theme-btn span{font-size:12px;}
-  .saved-link{padding:4px 7px;gap:3px;}
-  .nav-toggle{width:32px;height:30px;font-size:15px;}
-}
+/* 아주 좁은 화면(≤400px)의 헤더 압축 규칙은 이 파일 맨 끝으로 옮겼습니다.
+   예전에는 여기(.langs·.lang·.theme-btn·.saved-link·.nav-toggle 의 기본 규칙보다 앞)에
+   있어서, 같은 우선순위인 뒤쪽 기본 규칙에 전부 덮여 한 줄도 적용되지 않았습니다
+   (2026-10 모바일에서 저장·메뉴 버튼이 화면 밖으로 밀려나던 원인). 맨 끝 "모바일 헤더" 참고. */
 
 /* 언어 전환 — 예전엔 헤더 배경(var(--surface))과 거의 안 갈라져서 눈에 잘 안 띄었습니다.
    사이트 크롬은 무채색만 쓰기로 했으니(색은 지역 전용) 색을 더하는 대신 대비를 올렸습니다:
@@ -2240,4 +2226,39 @@ body.nm-open{overflow:hidden;}
 .to-top:focus-visible{outline:2px solid var(--ink);outline-offset:2px;}
 @media (max-width:640px){
   .to-top{width:38px;height:38px;right:8px;font-size:17px;}
+}
+
+/* ==========================================================================
+   모바일 헤더 — 반드시 파일 맨 끝에 둘 것
+   --------------------------------------------------------------------------
+   로고+언어전환+테마+저장+메뉴 버튼을 한 줄에 다 넣으면 360px 폰에서 헤더가 폭을
+   넘칩니다. 넘치면 문서 폭이 늘어나 오른쪽 끝의 저장·메뉴 버튼이 화면 밖으로 밀려나서,
+   화면을 축소하거나 옆으로 밀어야 보였습니다. 이 규칙들은 .langs/.lang/.theme-btn/
+   .saved-link/.nav-toggle 의 기본 규칙(위쪽 파일 곳곳)과 우선순위가 같아서, 그보다
+   앞에 쓰면 덮여서 안 먹습니다. 그래서 맨 끝에 둡니다.
+   실측(가장 긴 영어/일본어 사이트명 기준): 360px → 오른쪽 끝 348px(여유 12px),
+   320px → 312px. 새 버튼을 헤더에 더하면 이 폭 계산을 다시 해보세요. */
+@media (max-width:400px){
+  .site-header .wrap{padding-left:12px;padding-right:12px;}
+  .header-inner{gap:4px;}
+  .logo{gap:4px;}
+  .logo-mark{width:18px;height:18px;}
+  .logo-name{font-size:12.5px;}
+  .langs{padding:1px;gap:0;border-width:1px;}
+  .langs-ico{display:none;}
+  .lang{padding:4px 5px;font-size:10.5px;}
+  .theme-btn{width:26px;height:26px;}
+  .theme-btn span{font-size:12px;}
+  .saved-link{padding:4px 6px;gap:3px;}
+  .nav-toggle{width:30px;height:28px;font-size:14px;}
+}
+/* 320px 안팎의 아주 작은 폰: 로고 마크를 빼고 여백을 더 줄입니다 */
+@media (max-width:340px){
+  .site-header .wrap{padding-left:8px;padding-right:8px;}
+  .header-inner{gap:3px;}
+  .logo-mark{display:none;}
+  .logo-name{font-size:12px;}
+  .lang{padding:4px 4px;font-size:10px;}
+  .theme-btn{width:24px;height:24px;}
+  .nav-toggle{width:28px;}
 }

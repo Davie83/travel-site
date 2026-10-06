@@ -420,7 +420,7 @@ module.exports = {
     { ko: '고기구이',   en: 'Korean BBQ',        ja: '韓国式BBQ',    zh: '韓式烤肉' },
     { ko: '카페',       en: 'Cafes',             ja: 'カフェ',       zh: '咖啡廳' },
     { ko: '양식',       en: 'Western',           ja: '洋食',         zh: '西餐' },
-    { ko: '국수',       en: 'Noodles',           ja: '麺',           zh: '麵' },
+    { ko: '국수',       en: 'Noodles',           ja: '麺',           zh: '涼麵' },
     { ko: '라멘',       en: 'Ramen',             ja: 'ラーメン',     zh: '拉麵' }
   ],
 

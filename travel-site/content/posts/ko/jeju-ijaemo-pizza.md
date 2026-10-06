@@ -14,6 +14,7 @@ lng: 126.5434375
 addr: 제주 제주시 간월동로 6
 closed: unknown
 spicy: 0
+famous: true
 order: 치즈크러스트피자 라지 하나 주세요
 orderRoman: Chijeu-keureoseuteu pija raji hana juseyo
 info:

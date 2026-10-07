@@ -13,7 +13,7 @@ info:
   - Address|107 Gonae-ro 13-gil, 2nd floor, Aewol-eup, Jeju-si, Jeju (near Gonae-ri Port)
   - Phone|064-799-5433
   - Hours|**9:00 AM–7:30 PM** · a break around 2:30–4:00 PM · listed as open every day (as of Oct 2026)
-  - Signature dishes|**Sea urchin rice bowl (uni-don) from 29,000 KRW** (varies by small/large) · Sea urchin platter (uni hanpan) 40,000 KRW · Sea urchin bibimbap 23,000 KRW · Sea urchin seaweed soup 19,000 KRW (as of Oct 2026)
+  - Signature dishes|**Sea urchin rice bowl (uni-don) small 29,000 KRW · large 39,000 KRW** · Sea urchin platter (uni hanpan) 40,000 KRW · Sea urchin bibimbap 23,000 KRW · Sea urchin seaweed soup 19,000 KRW (as of Oct 2026)
   - Google Maps rating|4.2 (575 reviews, as of Oct 2026)
   - Alcohol|Not sold
   - Takeout|Available — I took the uni platter to go
@@ -28,7 +28,7 @@ The center of the menu is the **uni rice bowl (seonggedeopbap).** There are also
 
 ## Small and large, by grams
 
-The uni-don is **split into small and large by the grams of uni, and the price differs.** As I remember it, the large was 80 g and the uni platter (uni hanpan) was 100 g (check the exact grams before you go).
+The uni-don is **split into small and large by the grams of uni, and the price differs.** As I remember it, the large was 80 g and the uni platter (uni hanpan) was 100 g (check the exact grams before you go). As of Oct 2026 the price is 29,000 KRW for small and 39,000 KRW for large.
 
 ## Even the large wasn't enough, but the uni was sweet
 

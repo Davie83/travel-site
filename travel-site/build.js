@@ -1554,6 +1554,7 @@ function titleParts(title) {
   if (!sep || sep.index === 0) return { name: s.trim(), sub: '' };
   return { name: s.slice(0, sep.index).trim(), sub: s.slice(sep.index + sep[0].length).trim() };
 }
+const SEO_INTENT_WORD = { ko: '맛집', ja: 'グルメ', zh: '美食' };
 /** 검색 결과 제목용 — 맛집 글 제목에 동네·지역이 하나도 없으면 가게 이름 뒤에 동네를 붙입니다.
  *  예: "Hakata Bunko — 20-Year-Old Ramen Shop…" → "Hakata Bunko, Hongdae, Seoul — 20-Year-Old…"
  *  (Oct 2026) 원래 제목에는 홍대·서울이 어디에도 없어서 "ramen Hongdae" 같은 검색어와 연결될 단서가
@@ -1562,17 +1563,29 @@ function titleParts(title) {
  *  붙이고(나머지는 동네만), 한·중·일은 동네만 붙입니다. */
 function seoPostTitle(m, code) {
   const title = String(m.title || '');
-  if (m.cat !== 'food' || !m.region || !m.area) return title;
-  const split = s => String(s || '').split(/\s*(?:&|·|・|、|\/)\s*|-/).filter(Boolean);
-  const aParts = split(areaName(m.region, m.area, code));
-  const rParts = split(regionName(m.region, code));
-  const low = title.toLowerCase();
-  if ([...aParts, ...rParts].some(n => low.includes(n.toLowerCase()))) return title;
-  const withRegion = code === 'en' && ['seoul', 'busan', 'jeju'].includes(m.region);
-  const loc = [aParts[0], withRegion ? rParts[0] : ''].filter(Boolean).join(', ');
-  if (!loc) return title;
+  if (m.cat !== 'food') return title;
   const { name, sub } = titleParts(title);
-  const head = code === 'en' ? `${name}, ${loc}` : `${name} ${loc}`;
+  // 검색 의도 단어 (ko 맛집 · ja グルメ · zh 美食) — 가게 이름 뒤에 붙여 "○○ 맛집" 류 검색어와 맞춥니다.
+  // 카페·디저트 글은 "맛집"이 어색해서 제외하고, 제목에 이미 있으면 다시 붙이지 않습니다. en 은 붙이지 않습니다
+  // (영어 검색은 "restaurant" 보다 요리+동네 조합이 많고, 요리 이름은 제목 설명부에 이미 있습니다).
+  const g = genreOf(m);
+  const word = SEO_INTENT_WORD[code] || '';
+  const intent = word && !title.includes(word) && !(g && g.slug === 'cafe-dessert') ? word : '';
+  let loc = '';
+  if (m.region && m.area) {
+    const split = s => String(s || '').split(/\s*(?:&|·|・|、|\/)\s*|-/).filter(Boolean);
+    const aParts = split(areaName(m.region, m.area, code));
+    const rParts = split(regionName(m.region, code));
+    const low = title.toLowerCase();
+    if (![...aParts, ...rParts].some(n => low.includes(n.toLowerCase()))) {
+      const withRegion = code === 'en' && ['seoul', 'busan', 'jeju'].includes(m.region);
+      loc = [aParts[0], withRegion ? rParts[0] : ''].filter(Boolean).join(', ');
+    }
+  }
+  if (!loc && !intent) return title;
+  const head = code === 'en'
+    ? (loc ? `${name}, ${loc}` : name)
+    : [name, loc, intent].filter(Boolean).join(' ');
   return sub ? `${head} — ${sub}` : head;
 }
 function shortTitle(title) {

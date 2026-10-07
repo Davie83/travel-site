@@ -35,6 +35,10 @@ info:
 
 汝矣島店位於**TP Tower地下1樓**較裡面的角落。因為和汝矣島站地下直接相連，找起來不難，不過平日午餐時段等待的人不少。在TP Tower櫃檯告知車牌號碼，還可以免費停車1小時。
 
+## 汝矣島的用餐路線
+
+這裡離汝矣島站步行可到，很容易和同一天的另一餐搭配。如果覺得炸豬排太重，[KON THAI 汝矣島店](/zh/posts/seoul-konthai-yeouido)（IFC Mall 裡的泰國菜）或[河東館（하동관）](/zh/posts/seoul-hadongkwan)（清湯牛肉湯）是比較清爽的選擇；想吃塔可而不是漢堡的話，有[The Taco Booth 汝矣島站店](/zh/posts/seoul-taco-booth-yeouido)。這些都在同一個汝矣島區域。
+
 ## 給外國旅客的提醒
 
 - **炸肉餅（menchikatsu）**是把牛絞肉捏成餅狀裹粉油炸，再淋上濃郁多蜜醬汁食用的西式風格豬排，跟一般的日式豬排走向不同

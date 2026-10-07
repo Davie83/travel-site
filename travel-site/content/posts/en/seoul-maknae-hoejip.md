@@ -29,6 +29,17 @@ Flounder sashimi, spicy seasoned squid, a braised fish dish, and a spicy fish st
 
 If you're in the mood for a light, casual plate of sashimi, this place will more than satisfy.
 
+## Reading the menu, and what to do if you're alone
+
+- The **hoe-jeongsik** is a set meal where sashimi comes with side dishes, a braised fish and a spicy fish stew on one table. It is available on weekdays until 2 PM, for two or more people, at ₩14,000 each
+- If you're alone, the menu separately lists **hoe-deopbap plus maeun-tang (₩10,000)**, which is the likely candidate — check with the staff whether you can order it
+- For a bigger spread there is a mixed sashimi platter (medium) at ₩45,000 and flatfish sashimi (medium) at ₩50,000 (as of Sep 2026)
+- **Maeun-tang** is a spicy stew built on a broth simmered from fish bones, and **ojingeo-chomuchim** is squid dressed in a tangy vinegar sauce
+
+## Finding it inside Namdaemun Market
+
+The restaurant is on the **2nd floor of Namdaemun Market**, about a 3-minute walk from Hoehyeon Station (Line 4). It works best as a stop in the middle of a market visit, timed for lunch before 2 PM. Within the same market, [Buwon Myeonok](/en/posts/seoul-buwon-myeonok) and, in the hairtail-stew alley, [Honam Sikdang](/en/posts/seoul-honam-sikdang) make good follow-ups on another day.
+
 ## Good for you if
 
 - ✅ You want an affordable full sashimi meal

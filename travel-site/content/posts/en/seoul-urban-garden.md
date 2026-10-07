@@ -39,6 +39,14 @@ Honestly, the food itself isn't the kind of thing you'd rave about elsewhere. Bu
 
 **Jeongdong-gil** runs right outside, good for a walk after the meal, and a short walk further gets you to **Gwanghwamun**. A good route to pair with a date or a casual meetup.
 
+## The menu and prices at a glance
+
+The pastas are truffle mushroom at ₩23,500, shrimp rosé at ₩25,000 and crab meat at ₩29,900, and the steak (350 g) is ₩69,000 (as of Sep 2026). On your own, the pasta side of the menu is the lighter fit; with company, sharing the steak matches the price and portion better. I ordered the steak and the truffle mushroom pasta.
+
+## A walk along Jeongdong-gil
+
+Jeongdong-gil, where the restaurant sits, runs into the Deoksugung stone-wall road, and both Deoksugung Palace and Jeongdong First Methodist Church — known as Korea's first Methodist church — are within walking distance. It is a 4-minute walk from Seodaemun Station (Line 5), and since the restaurant has no parking of its own you would use a nearby public lot (discounted for weekday lunch visits, 11:30 AM–5:30 PM). From here, [Dozo Coffee Donuimun](/en/posts/seoul-dozo-coffee) (5 minutes from Seodaemun Station) is an easy next stop in the same Seodaemun–Gwanghwamun area.
+
 ## Before you go
 
 - **The setting is the strength here** — recommended if you like taking photos

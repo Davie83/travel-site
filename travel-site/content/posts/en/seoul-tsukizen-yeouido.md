@@ -35,6 +35,10 @@ Whenever tonkatsu crosses my mind, this place is the one that comes up — purel
 
 The Yeouido branch sits in a back corner of **TP Tower's basement level**. It's directly connected underground to Yeouido Station, so it's easy to find, but there's a real wait during weekday lunch. Give your plate number at the TP Tower counter for an hour of free parking.
 
+## A Yeouido meal route
+
+It is within walking distance of Yeouido Station, so it combines easily with another meal on the same day. On days when katsu feels heavy, [Konthai Yeouido](/en/posts/seoul-konthai-yeouido) (Thai food in IFC Mall) or [Hadongkwan](/en/posts/seoul-hadongkwan) (clear beef soup) are lighter options, and if you want tacos instead of a burger there is [The Taco Booth Yeouido](/en/posts/seoul-taco-booth-yeouido). All of them are in the same Yeouido area.
+
 ## For foreign visitors
 
 - **Menchikatsu** is ground beef formed into a patty, breaded and fried, then topped with a rich demi-glace sauce — a different style from typical Japanese tonkatsu

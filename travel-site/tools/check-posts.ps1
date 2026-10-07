@@ -52,6 +52,15 @@ $vague = @{
 $simplifiedOnly = '这个们说时为从还对给让没会过后来开关门问间长东车见现发处较别该实应经点样业务动员热爱觉听订预约备优惠国际环节选择价产总结验证'.Replace('惠','')
 
 function Get-Marker-Example($code){ switch($code){ 'ko' {'2026.10 기준'} 'en' {'as of Oct 2026'} 'ja' {'2026年10月時点'} 'zh' {'截至2026年10月'} } }
+# 본문 분량 — 영어 350단어 이상이 기본 규칙입니다(Oct 2026). 한·일·중은 같은 글이 길게 나오는 비율에 맞춰
+# 글자 수(공백 제외)로 봅니다: ko 650자 / ja 750자 / zh 520자 이상.
+function Get-BodyText($raw){
+  $x = $raw.Replace("`r`n","`n"); $m = [regex]::Match($x,'(?s)^---\n.*?\n---\n(.*)$'); $b = $m.Groups[1].Value
+  $b = [regex]::Replace($b,'!\[[^\]]*\]\([^)]*\)',' '); $b = [regex]::Replace($b,'\[([^\]]*)\]\([^)]*\)','$1'); $b = $b -replace '[#>*`|_-]',' '
+  return $b
+}
+$minChars = @{ ko = 650; ja = 750; zh = 520 }
+$minEnWords = 350
 $issues = New-Object System.Collections.ArrayList
 function Add-Issue($level,$slug,$msg){ $null = $issues.Add([pscustomobject]@{ Level=$level; Slug=$slug; Message=$msg }) }
 
@@ -95,6 +104,12 @@ foreach($s in $slugs){
     if($last -notmatch $markerPattern[$code]){ Add-Issue 'ERROR' $s "$code 마지막 인용문에 기준 시점이 없음 (예: $(Get-Marker-Example $code))" }
     foreach($v in $vague[$code]){ if($docs[$code].Contains($v)){ Add-Issue 'WARN' $s "$code 에 날짜 없는 애매한 표기 '$v'" } }
   }
+  # 본문 분량
+  $enWords = (((Get-BodyText $docs['en']) -split '\s+') | Where-Object { $_ -match '\w' }).Count
+  if($enWords -lt $minEnWords){ Add-Issue 'ERROR' $s "en 본문이 짧음: $enWords 단어 (최소 $minEnWords)" }
+  foreach($code in 'ko','ja','zh'){ $n = ((Get-BodyText $docs[$code]) -replace '\s','').Length; if($n -lt $minChars[$code]){ Add-Issue 'ERROR' $s "$code 본문이 짧음: $n 자 (최소 $($minChars[$code]))" } }
+  # 소제목에 섞인 영어 단어(번역 누락) 의심
+  foreach($code in 'ko','ja','zh'){ foreach($hl in ([regex]::Matches($docs[$code],'(?m)^## .*$') | ForEach-Object { $_.Value })){ if($hl -match '\b(check|before you go|tips?)\b'){ Add-Issue 'WARN' $s "$code 소제목에 영어 단어: $hl" } } }
   # 중국어 간체
   $hit = @(); foreach($c in $simplifiedOnly.ToCharArray()){ if($docs['zh'].Contains([string]$c)){ $hit += $c } }; if($hit.Count){ Add-Issue 'WARN' $s "zh 에 간체 전용 글자 의심: $($hit -join '')" }
   # 태그 칩

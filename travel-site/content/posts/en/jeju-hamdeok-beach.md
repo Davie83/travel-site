@@ -34,6 +34,14 @@ With so many places to stay nearby, it **feels fairly touristy these days.** The
 
 I saw quite a few **Koreans and foreigners doing month-long stays** here. There's a lot of accommodation, and the beach, cafes, and walking paths are all close together, so it seems like a place people settle into. **It's on my own list of places I'd like to try a month-long stay someday.**
 
+## The size of the beach and getting there
+
+According to tourism information, Hamdeok Beach is a wide stretch of sand — roughly **900 m long and 120 m wide**. It lies about **20 km east of Jeju International Airport**, easy to reach by rental car or bus, and there are **several free public parking lots** around the beach (they can fill up around lunchtime). Many write-ups say the water is shallow and gently sloping, which is part of why the emerald color shows so well.
+
+## A meal in the same neighborhood
+
+If you are choosing a meal near the beach, there is [Hamdeok Golmok](/en/posts/jeju-hamdeok-golmok), a haejangguk (hangover soup) shop that moved from Hamdeok to a new building in Jocheon. It opens at 7 AM and closes at 1:30 PM, so it fits well after a morning walk.
+
 ## For foreign visitors
 
 - **Hamdeok** is the name of a village on Jeju's northeast coast (administratively Jocheon-eup, Jeju City), and the beach takes its name from it

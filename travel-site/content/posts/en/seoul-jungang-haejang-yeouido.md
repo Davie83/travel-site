@@ -35,6 +35,16 @@ If **Cheongeoram** in Mangwon-dong is the clean, vegetable-broth version that ke
 
 Jungang Haejang seems to have opened branches in a few places lately. **I first fell for it at the Samseong-dong original**, so having a branch this close to Yeouido now is a welcome surprise.
 
+## What the pot looks like
+
+The so-gopchang jeongol (beef-intestine hot pot) is built at the table: beef gopchang topped with vegetables and mushrooms — shiitake, enoki, crown daisy and carrot, as in the photo above — plus a seasoning paste, then boiled until it bubbles. Write-ups describe it as packed with fat-rich gopchang. The Yeouido menu lists the **medium (中) size at ₩67,000** (as of Sep 2026), so choose the size by head count. If gopchang is new to you, the ₩14,000 hanwoo blood-curd haejangguk (hangover soup) is an easier first bowl.
+
+## Main branch and Yeouido branch
+
+- **Samseong-dong main branch** — 17 Yeongdong-daero 86-gil, Gangnam-gu (Yukin Building). This is where I first tasted it
+- **Yeouido branch** — 70 Yeouidaero, 2nd floor of Wone Centennial, about a 5-minute walk from Yeouido Station. The basement lot gives free parking (1 hour on weekdays, 2 hours on weekends)
+- The Yeouido branch opens **10:30 AM–11 PM on weekdays** and **from 8 AM on Saturdays and Sundays** (Saturday until 10 PM, Sunday until 9 PM), so it also works for a morning hangover meal (as of Sep 2026)
+
 ## For foreign visitors
 
 - **Gopchang-jeongol is a hot pot of beef small intestine (tripe) simmered with vegetables.** It comes with a spicy seasoning, but it's not overwhelmingly hot

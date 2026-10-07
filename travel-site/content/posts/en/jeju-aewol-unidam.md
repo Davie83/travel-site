@@ -12,6 +12,7 @@ info:
   - Restaurant|Unidam Aewol branch
   - Address|107 Gonae-ro 13-gil, 2nd floor, Aewol-eup, Jeju-si, Jeju (near Gonae-ri Port)
   - Phone|064-799-5433
+  - Other branch|Jeju Hamdeok branch — 530 Johamhaean-ro, Jocheon-eup, Jeju-si, Jeju (4th floor)
   - Hours|**9:00 AM–7:30 PM** · a break around 2:30–4:00 PM · listed as open every day (as of Oct 2026)
   - Signature dishes|**Sea urchin rice bowl (uni-don) small 29,000 KRW · large 39,000 KRW** · Sea urchin platter (uni hanpan) 40,000 KRW · Sea urchin bibimbap 23,000 KRW · Sea urchin seaweed soup 19,000 KRW (as of Oct 2026)
   - Google Maps rating|4.2 (575 reviews, as of Oct 2026)
@@ -24,7 +25,7 @@ info:
 
 ## The main dish is the uni rice bowl, plus bibimbap and seaweed soup
 
-The center of the menu is the **uni rice bowl (seonggedeopbap).** There are also **sea urchin bibimbap** and **seaweed soup.** It seems there's a branch in Hamdeok too, but I couldn't confirm it, and this post is about the Aewol branch.
+The center of the menu is the **uni rice bowl (seonggedeopbap).** There are also **sea urchin bibimbap** and **seaweed soup.** There's also a **Jeju Hamdeok branch** (530 Johamhaean-ro, 4th floor, Jocheon-eup, Jeju-si, Jeju). This post is about the Aewol branch.
 
 ## Small and large, by grams
 

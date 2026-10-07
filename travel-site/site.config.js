@@ -346,6 +346,11 @@ module.exports = {
     { key: '콩국수',   names: { ko: '콩국수',   en: 'Kongguksu',       ja: 'コングクス',   zh: '豆漿麵' } },
     { key: '막국수',   names: { ko: '막국수',   en: 'Makguksu',        ja: 'マッククス',   zh: '蕎麥拌麵' } },
     { key: '라멘',     names: { ko: '라멘',     en: 'Ramen',           ja: 'ラーメン',     zh: '拉麵' } },
+    { key: '냉면',     names: { ko: '냉면',     en: 'Naengmyeon',      ja: '冷麺',         zh: '冷麵' } },
+    { key: '감자탕',   names: { ko: '감자탕',   en: 'Gamjatang',       ja: 'カムジャタン', zh: '馬鈴薯排骨湯' } },
+    { key: '생대구탕', names: { ko: '생대구탕', en: 'Fresh cod stew',  ja: '生タラ鍋',     zh: '鮮鱈魚湯' } },
+    { key: '게장',     names: { ko: '게장',     en: 'Gejang (marinated crab)', ja: 'ケジャン', zh: '醬蟹' } },
+    { key: '대게',     names: { ko: '대게',     en: 'Snow crab',       ja: 'ズワイガニ',   zh: '雪蟹' } },
     { key: '수육',     names: { ko: '수육',     en: 'Suyuk',           ja: 'スユク',       zh: '水煮肉' } },
     { key: '꼬리수육', names: { ko: '꼬리수육', en: 'Ox-tail suyuk',   ja: '牛テールスユク', zh: '牛尾水煮肉' } },
     { key: '한우',     names: { ko: '한우',     en: 'Hanwoo beef',     ja: '韓牛',         zh: '韓牛' } },
@@ -393,7 +398,8 @@ module.exports = {
     { key: '유적',     names: { ko: '유적',     en: 'Historic site',   ja: '史跡',         zh: '古蹟' } },
     { key: '수목원',   names: { ko: '수목원',   en: 'Arboretum',       ja: '樹木園',       zh: '樹木園' } },
     { key: '공원',     names: { ko: '공원',     en: 'Park',            ja: '公園',         zh: '公園' } },
-    { key: '뱃놀이',   names: { ko: '뱃놀이',   en: 'Boat ride',       ja: '船遊び',       zh: '船遊' } }
+    { key: '뱃놀이',   names: { ko: '뱃놀이',   en: 'Boat ride',       ja: '船遊び',       zh: '船遊' } },
+    { key: '하이킹',   names: { ko: '하이킹',   en: 'Hiking',          ja: 'ハイキング',   zh: '健行' } }
   ],
 
   /* ---- 홈 히어로 "인기 검색어" 칩 ---------------------------------------

@@ -1,5 +1,5 @@
 ---
-title: Jejunagi —— 讓人想起名古屋的鰻魚飯（ひつまぶし），在涯月外帶
+title: Jejunagi — 讓人想起名古屋的鰻魚飯（ひつまぶし），在涯月外帶
 cat: food
 region: jeju
 area: aewol

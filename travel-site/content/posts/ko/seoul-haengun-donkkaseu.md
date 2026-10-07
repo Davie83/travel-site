@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ed%96%89%ec%9a%b4%eb%8f%88
 lat: 37.558372
 lng: 127.0402988
 addr: 서울 성동구 마조로1길 2
+closed: unknown
 subway: 2,5 왕십리 8
 spicy: 1
 order: 김치볶음밥 세트 하나 주세요

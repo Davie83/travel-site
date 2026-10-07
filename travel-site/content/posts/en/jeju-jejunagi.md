@@ -60,4 +60,4 @@ As in the photo, the garnishes come divided into little compartments. Because it
 - **How to eat it** — plain / with garnishes / with broth poured over, in three passes.
 - **Want noodles instead?** — [Aewolli Sun Memil Makguksu](/en/posts/jeju-aewol-makguksu) is a short drive away, in the same Aewol-eup.
 
-> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day are as of when I checked and can change often — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day are as I found them and can change often — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

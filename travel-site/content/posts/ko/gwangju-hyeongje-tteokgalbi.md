@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ed%98%95%ec%a0%9c%ec%86%a1
 lat: 35.1396398
 lng: 126.7943038
 addr: 전남광주 광산구 광산로29번길 3
+closed: none
 spicy: 0
 order: 소떡갈비 하나, 돼지떡갈비 하나 주세요
 orderRoman: So-tteokgalbi hana, dwaeji-tteokgalbi hana juseyo

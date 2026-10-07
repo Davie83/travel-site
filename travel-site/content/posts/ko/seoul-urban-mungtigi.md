@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ec%96%b4%eb%b0%98%eb%ad%89
 lat: 37.5387975
 lng: 126.9487765
 addr: 서울 마포구 도화2안길 2-3
+closed: sun
 subway: 5 마포 7
 spicy: 1
 order: 뭉티기 하나 주세요

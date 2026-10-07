@@ -13,6 +13,7 @@ map: https://www.google.com/maps/search/?api=1&query=%eb%af%b8%ed%92%8d%ed%95%b4
 lat: 33.5114082
 lng: 126.52289
 addr: 제주 제주시 중앙로14길 13
+closed: unknown
 spicy: 4
 order: 해장국 하나 주세요
 orderRoman: Haejang-guk hana juseyo

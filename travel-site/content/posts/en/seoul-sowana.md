@@ -65,4 +65,4 @@ If your trip also takes you to Hongdae on a different day, [Roofcatme Cat Cafe, 
 - ⚠️ Anyone whose aim is to eat their fill — it's a course, more tasting than volume
 - ⚠️ Anyone after a cheap meal — a hanwoo course by cut carries a price
 
-> Written up after visiting in person. Impressions of the format and taste carry personal preference. Booking, prices, sets, hours, and closing day are as of when I checked and can change often — check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> Written up after visiting in person. Impressions of the format and taste carry personal preference. Booking, prices, sets, hours, and closing day are as I found them and can change often — check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

@@ -60,4 +60,4 @@ Nothing about it jumps out. It's **faithful to the tteok-galbi flavour you alrea
 - **Bundling** — it slots in well as lunch on a Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car itinerary.
 - **Staying over?** — [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), just up the road with the lake view, pairs naturally with a night here.
 
-> Written up after my own visit. The flavour and the spread are down to personal taste. Hours and closing day are as of when I checked, and prices I still couldn't pin down — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Written up after my own visit. The flavour and the spread are down to personal taste. Hours and closing day are as I found them, and prices I still couldn't pin down — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ec%b2%ad%ed%95%b4%ea%b9%80
 lat: 37.457894
 lng: 126.685991
 addr: 인천 미추홀구 경인로 414
+closed: none
 spicy: 0
 order: 잔치국수 하나, 계란말이김밥 하나 주세요
 orderRoman: Janchi-guksu hana, gyeranmari-gimbap hana juseyo

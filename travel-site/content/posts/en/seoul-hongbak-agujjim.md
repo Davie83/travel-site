@@ -73,4 +73,4 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 - ⚠️ The skin has a slippery texture some people dislike
 - ⚠️ Closed Sundays and between 3 and 5 PM
 
-> Put together from several visits over time. The break-time hours and prices can change, so check again before you go to avoid a wasted trip.
+> Put together from several visits over time. The break-time hours and prices can change, so check again before you go to avoid a wasted trip. Prices and hours are **(as of Aug 2026)**.

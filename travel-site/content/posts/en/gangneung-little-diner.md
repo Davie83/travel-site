@@ -15,7 +15,7 @@ info:
   - Signature|**Pancake-bun burger** — a thick griddled bun + smoked meat + cheddar + lettuce, fries on the side
   - On the side|Ketchup and a small **jug of syrup**, pickled onions and jalapeños
   - Best time|A late brunch the morning after you arrive
-  - Hours · prices · closing day|**Wed–Sun, 11:00 AM – 8:00 PM** (break 3–5 PM, last order 2:30 PM/7:30 PM) · prices not confirmed · **closed Mon & Tue** (as of Sep 2026 — subject to change)
+  - Hours · prices · closing day|**Wed–Sun, 11:00 AM – 8:00 PM** (break 3–5 PM, last order 2:30 PM/7:30 PM) · prices not confirmed · **closed Mon & Tue** (as of Sep 2026)
 ---
 
 I got into Gangneung the evening before. I hadn't had much to drink, so I could start the next morning at an easy pace. I decided on a late brunch, and the place I picked was Little Diner.

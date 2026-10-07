@@ -14,7 +14,7 @@ info:
   - Location|15 Jahamun-ro 1-gil, Jongno-gu, Seoul (서울 종로구 자하문로1길 15)
   - Phone|02-737-8412
   - Hours|**Daily 1:00 PM to 11:00 PM** (last order 10:15 PM) · no reservations, walk-in only
-  - Signature|Whelk (cham-sora) ₩35,000 · Whole steamed squid ₩29,000 · Red shrimp sashimi ₩29,000 · Seasonal steamed crab ₩79,000 (subject to change) · Seafood ramyeon
+  - Signature|Whelk (cham-sora) ₩35,000 · Whole steamed squid ₩29,000 · Red shrimp sashimi ₩29,000 · Seasonal steamed crab ₩79,000 (as of Sep 2026) · Seafood ramyeon
   - Note|Built around **seasonal seafood** — items you don't often see at a typical seafood place show up here
   - Nearest station|About a **3-minute walk** from Gyeongbokgung Station (Line 3)
 ---
@@ -59,4 +59,4 @@ Crab was also in season this visit, so a big steamed crab came out alongside it 
 - **Menu** — Built around whatever seafood is in season that day. Don't skip the seafood ramyeon.
 - **Want something warming first** — [Pyeongyangok](/en/posts/seoul-pyeongyangok), a chicken-gomtang place with a deep neungi-mushroom broth, is in the same Gwanghwamun area.
 
-> This is a first-hand account. The menu and prices change often with the season and market rate, so it's worth double-checking before you visit.
+> This is a first-hand account. The menu and prices change often with the season and market rate, so it's worth double-checking before you visit. Prices and hours are **(as of Sep 2026)**.

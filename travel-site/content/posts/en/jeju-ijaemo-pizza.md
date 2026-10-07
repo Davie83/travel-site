@@ -12,7 +12,7 @@ info:
   - Restaurant|Lee Jaemo Pizza Jeju
   - Address|6 Ganwoldong-ro, Jeju-si, Jeju
   - Phone|064-755-1478
-  - Hours|**From 10:00 AM** · last order 8:30 PM (as of Oct 2026) · a notice says it is closed on Sundays (as of Oct 2026)
+  - Hours|**From 10:00 AM** · last order 8:30 PM · a notice says it is closed on Sundays (as of Oct 2026)
   - Signature dish|**Lee Jaemo Cheese Crust Pizza, large 30,000 KRW** · small 26,000 KRW (as of Oct 2026)
   - Parking|Available
 ---

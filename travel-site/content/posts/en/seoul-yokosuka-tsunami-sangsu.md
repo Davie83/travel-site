@@ -50,4 +50,4 @@ What makes this place is the **aging**. The sashimi here is aged particularly we
 - ⚠️ You want to walk straight in with no wait — look elsewhere
 - ⚠️ You prefer ordering off a fixed menu — here you ask what's available that day
 
-> Written up after queuing and eating there myself. The menu and prices can change day to day, so check Instagram before you go.
+> Written up after queuing and eating there myself. The menu and prices can change day to day, so check Instagram before you go. Prices and hours are **(as of Sep 2026)**.

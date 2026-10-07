@@ -15,7 +15,7 @@ info:
   - What mungtigi is|Uncooked beef · cut **bigger and thicker than yuk-sashimi**, so the aroma and texture stand out
   - Sauce|A **house gochujang-based sauce** (recipes vary by restaurant)
   - Ageing|Sold same-day, or aged 1–2 days — appears to depend on the place (as of Aug 2026)
-  - Hours · prices · closing day|**Weekdays 11:00–23:00** (break 14:00–17:00) · **Saturday 17:00–23:00** · **closed Sundays** · Mungtigi from 49,000 KRW (per DiningCode — may change)
+  - Hours · prices · closing day|**Weekdays 11:00–23:00** (break 14:00–17:00) · **Saturday 17:00–23:00** · **closed Sundays** · Mungtigi from 49,000 KRW (per DiningCode, as of Aug 2026)
 ---
 
 Mungtigi. In the Jeolla dialect it's called *saenggogi*, "raw meat." It's uncooked beef eaten as is — in standard Korean, the same family as *yukhoe* and *yuk-sashimi*.
@@ -58,4 +58,4 @@ The main event is mungtigi, but the **yukjeon** — beef sliced thin, coated in 
 - **Hours · prices · closing day** — confirmed as weekdays 11:00–23:00 (break 14:00–17:00), Saturday 17:00–23:00, closed Sundays; Mungtigi starts at 49,000 KRW. Worth a quick check before you go, since it can still change.
 - **Nearby** — for a coffee to cut through the meat afterward, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) is walkable, in the same Dohwa-dong neighborhood.
 
-> Written up after eating there myself. Impressions of taste and texture can vary from person to person. The ageing method I couldn't confirm, but hours, prices, and closing day are per DiningCode (may still change) — check the venue's details once more before you go.
+> Written up after eating there myself. Impressions of taste and texture can vary from person to person. The ageing method I couldn't confirm, but hours, prices, and closing day are per DiningCode (may still change) — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

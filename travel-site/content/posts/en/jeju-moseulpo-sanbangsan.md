@@ -60,4 +60,4 @@ The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. E
 - **Sanbangsan / Songaksan** — check admission and which sections are open before you go.
 - **Eat** — [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang), right in front of the harbour, sits perfectly at either end of this stretch.
 
-> Written after driving this road myself. Boat services and which viewpoints are open can change, so it's worth checking again before you go.
+> Written after driving this road myself. Boat services and which viewpoints are open can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

@@ -57,4 +57,4 @@ The nearest subway station is **Yeongdeungpo Station (Line 1)**, about a 10-minu
 - **A wait at meal times is standard.** Aim for an off-peak slot or budget extra time
 - **Prices keep shifting.** Worth a re-check on the menu board
 
-> Written up after multiple actual visits. Prices and hours can change, so double-check before you go to avoid a wasted trip.
+> Written up after multiple actual visits. Prices and hours can change, so double-check before you go to avoid a wasted trip. Prices and hours are **(as of Sep 2026)**.

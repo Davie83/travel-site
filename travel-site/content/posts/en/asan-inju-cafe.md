@@ -53,4 +53,4 @@ Approach it as a restaurant and it disappoints; approach it as a **hanok cafe** 
 - **Hours · prices · closing day** — daily 10:00–22:00 (last order 21:00), Americano around ₩6,500, no fixed closing day found. This can still change, so check the map or call before you go.
 - **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), which looks out over Cheongpung Lake.
 
-> This is a record I kept after visiting in person. Taste is personal, and while I've confirmed the hours, prices, and closing day above, these can still change — please double-check the shop's details before you head out.
+> This is a record I kept after visiting in person. Taste is personal, and while I've confirmed the hours, prices, and closing day above, these can still change — please double-check the shop's details before you head out. Prices and hours are **(as of Sep 2026)**.

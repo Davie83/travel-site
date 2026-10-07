@@ -70,4 +70,4 @@ Sources disagree on the weekday opening time — some say 9:30 AM, others 11:00 
 - ⚠️ This is a drinking place more than a meal place
 - ⚠️ Saturday opens at 2 PM, Sunday ends at 10 PM
 
-> Written from a personal visit. As with most drinking spots, prices and hours shift often, so a quick call before you go is the safer bet.
+> Written from a personal visit. As with most drinking spots, prices and hours shift often, so a quick call before you go is the safer bet. Prices and hours are **(as of Aug 2026)**.

@@ -40,4 +40,4 @@ The one thing in short supply was the pink ham slices (the Spam-like kind) — o
 - **Menu** — Budae-jjigae starts at ₩16,000; the sirloin version is ₩25,000. Ramyeon noodles add ₩1,500.
 - **After** — for a coffee to reset the palate, [L'OISEAU Yeoksam](/en/posts/seoul-loiseau-yeoksam) is in the same Yeoksam area.
 
-> This is a first-hand account from an actual visit. Prices and hours can change over time, so it's worth double-checking before you go.
+> This is a first-hand account from an actual visit. Prices and hours can change over time, so it's worth double-checking before you go. Prices and hours are **(as of Sep 2026)**.

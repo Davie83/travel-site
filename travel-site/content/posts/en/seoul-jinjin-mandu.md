@@ -80,4 +80,4 @@ For a bigger group there is **eobok-jeongban**, a Pyongyang-style platter of sli
 - ⚠️ If you want genuine heat, this won't deliver it
 - ⚠️ The main branch is closed at weekends
 
-> Written after eating there myself. Prices and closing days at both branches can change, so double-check before you go, especially on weekends.
+> Written after eating there myself. Prices and closing days at both branches can change, so double-check before you go, especially on weekends. Prices and hours are **(as of Aug 2026)**.

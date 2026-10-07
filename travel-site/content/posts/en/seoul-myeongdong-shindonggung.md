@@ -73,4 +73,4 @@ What it does is deliver that expectation properly. So:
 - ✅ You want something distinctly Korean that is not barbecue or fried chicken
 - ❌ You are looking for a dish that reinvents something — set expectations lower
 
-> Based on a personal visit. Prices and hours change often in Seoul — check the restaurant's current information before you go.
+> Based on a personal visit. Prices and hours change often in Seoul — check the restaurant's current information before you go. Prices and hours are **(as of Aug 2026)**.

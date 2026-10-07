@@ -66,4 +66,4 @@ Fruit, dried seafood, vegetables, clothes, household goods, tools. What stands o
 
 If the dates line up, this is worth half a day. If they don't, the Dongmun Market in central Jeju City runs daily and is the practical alternative.
 
-> Written up after my own visit. Market days and hours can change, so it's worth checking again before you travel.
+> Written up after my own visit. Market days and hours can change, so it's worth checking again before you travel. Fees and hours are **(as of Aug 2026)**.

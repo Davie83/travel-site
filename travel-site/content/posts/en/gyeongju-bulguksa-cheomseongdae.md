@@ -86,4 +86,4 @@ Gyeongju is also known for **galbi** — grilled beef short ribs. It would be a 
 - ⚠️ One day is not enough
 - ⚠️ Awkward to cover on public transport alone
 
-> Based on a personal visit. Admission is confirmed free at both Bulguksa and Cheomseongdae (Bulguksa parking costs extra; may still change). Opening hours and other details are worth checking again before you go.
+> Based on a personal visit. Admission is confirmed free at both Bulguksa and Cheomseongdae (Bulguksa parking costs extra; may still change). Opening hours and other details are worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

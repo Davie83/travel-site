@@ -17,7 +17,7 @@ info:
   - Restaurant|Yongwon Hoetjip (용원횟집)
   - Address|**242-6 Yongwon-dong-ro**, Jinhae-gu, Changwon, Gyeongnam (용원동로 242-6)
   - Phone|055-547-0455
-  - Hours|**10:00 AM to 9:00 PM** (per Diningcode listing) · **appears to have no regular closing day** — Sundays may close early once the catch runs out
+  - Hours|**10:00 AM to 9:00 PM** (per Diningcode listing, as of Aug 2026) · **appears to have no regular closing day** — Sundays may close early once the catch runs out
   - What to order|**Fresh cod soup** · the **cod course** (sashimi, pancake, soup) · wild-caught sashimi
   - Season|**Fresh cod is a winter fish.** Reviews mention cold raw fish soup in summer and flounder-mugwort soup in spring
   - Spice|**Not spicy at all** (a clear, unseasoned broth)

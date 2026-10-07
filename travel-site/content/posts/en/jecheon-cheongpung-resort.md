@@ -64,4 +64,4 @@ The resort sits on a hill looking down over that shoreline. Step onto the balcon
 - **Bundling** — Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car → Danyang (Dodamsambong, Mancheonha Skywalk) makes a natural two-day loop.
 - **Meals** — [Cheongpung Golden Tteok-galbi](/en/posts/jecheon-cheongpung-golden-tteokgalbi) is just down the road, good for a filling meal with a dozen-plus side dishes.
 
-> Written after my own stay. Facility conditions and the operation of nearby attractions can shift, so it's worth checking again before you book.
+> Written after my own stay. Facility conditions and the operation of nearby attractions can shift, so it's worth checking again before you book. Fees and hours are **(as of Aug 2026)**.

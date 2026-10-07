@@ -73,4 +73,4 @@ This is the best way to use the place: **see the river from above at the cafe, t
 - ⚠️ Closed Sundays · closes 7 PM · bread sells out early
 - ⚠️ The good window and rooftop seats are contested
 
-> This comes from an actual visit. Cafe hours and the Assembly's entry rules can change, so it's worth checking again before you go.
+> This comes from an actual visit. Cafe hours and the Assembly's entry rules can change, so it's worth checking again before you go. Prices and hours are **(as of Aug 2026)**.

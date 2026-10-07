@@ -15,7 +15,7 @@ info:
   - Cooking|Staff grill each piece **over charcoal**, to the right doneness, and serve it one at a time; vegetables grilled alongside
   - Feel|Dark-wood counter with lattice screens; a calm room with little smoke or smell
   - Fits|An evening with **a glass of wine**, or a meal with a visiting friend
-  - Booking · prices · hours · closing day|Booking **via Naver or CatchTable — recommended, seats are limited** · Prices **5-cut set ₩49,000 · 7-cut set ₩69,000 · chef's special ₩99,000** · Hours **11:30 AM – 10:30 PM** (last order 9 PM) · **no regular closing day** (as of Sep 2026 — subject to change)
+  - Booking · prices · hours · closing day|Booking **via Naver or CatchTable — recommended, seats are limited** · Prices **5-cut set ₩49,000 · 7-cut set ₩69,000 · chef's special ₩99,000** · Hours **11:30 AM – 10:30 PM** (last order 9 PM) · **no regular closing day** (as of Sep 2026)
 ---
 
 It's a hanwoo (Korean beef) house between Itaewon and Hannam-dong. Rather than just grilling it, this place serves hanwoo cut by cut, in order — a way of relearning "what hanwoo actually is" from scratch.
@@ -65,4 +65,4 @@ If your trip also takes you to Hongdae on a different day, [Roofcatme Cat Cafe, 
 - ⚠️ Anyone whose aim is to eat their fill — it's a course, more tasting than volume
 - ⚠️ Anyone after a cheap meal — a hanwoo course by cut carries a price
 
-> Written up after visiting in person. Impressions of the format and taste carry personal preference. Booking, prices, sets, hours, and closing day are as of when I checked and can change often — check the shop's current information once more before you go.
+> Written up after visiting in person. Impressions of the format and taste carry personal preference. Booking, prices, sets, hours, and closing day are as of when I checked and can change often — check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

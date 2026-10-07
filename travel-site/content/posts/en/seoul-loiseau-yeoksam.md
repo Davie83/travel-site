@@ -52,4 +52,4 @@ Worth a stop if you have errands nearby. If you're still in Gangnam come evening
 - **Location** — 10 Nonhyeon-ro 95-gil, Gangnam-gu, Seoul, 1F, about a 4-minute walk from Yeoksam Station (Line 2).
 - **Hours** — Weekdays 8 AM-9 PM, weekends 10 AM-9 PM.
 
-> Written up after stopping in on a whim and liking it. Taste judgments like acidity are personal, and hours can change, so it's worth double-checking before you visit.
+> Written up after stopping in on a whim and liking it. Taste judgments like acidity are personal, and hours can change, so it's worth double-checking before you visit. Prices and hours are **(as of Sep 2026)**.

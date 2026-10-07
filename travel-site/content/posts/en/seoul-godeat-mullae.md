@@ -21,7 +21,7 @@ info:
   - Break time|**3:00-5:00 PM on weekdays** — **no break on Saturday and Sunday**
   - Last order|20:30 Mon-Thu & Sun · 21:00 Fri & Sat · **weekday lunch closes at 14:10** (except public holidays)
   - What I had|**Fajita & taco set (for two)**
-  - Price|**Fajita & taco set (for two) 42,000 KRW** (prices change often — please verify)
+  - Price|**Fajita & taco set (for two) 42,000 KRW** (as of Aug 2026)
   - Spice|**Barely spicy.** Heat comes from the salsa served on the side, so you control it
   - Reservations|Through **CatchTable** or **Tabling**
   - Goes well with|Beer
@@ -89,4 +89,4 @@ The restaurant is **510 m from exit 7 of Mullae Station, a 9-minute walk**.
 - ⚠️ **Weekday break from 3:00 to 5:00 PM** (Saturday and Sunday excepted)
 - ⚠️ If you are travelling for Korean food, this is not that
 
-> Written after eating there myself. Take the taste opinions as personal preference, and double-check prices and hours before you go, since they shift often.
+> Written after eating there myself. Take the taste opinions as personal preference, and double-check prices and hours before you go, since they shift often. Prices and hours are **(as of Aug 2026)**.

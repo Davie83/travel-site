@@ -72,4 +72,4 @@ People rave about the **fried hanchi**. I'll order it next time. Passing that al
 - **Closing time** — 9:00 PM, and holidays may differ.
 - **Flowers too** — if your west-Seogwipo day runs longer, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth folding in.
 
-> Written up after my own visit. Prices, hours, and which fish is available all change with the season — check before you travel.
+> Written up after my own visit. Prices, hours, and which fish is available all change with the season — check before you travel. Prices and hours are **(as of Aug 2026)**.

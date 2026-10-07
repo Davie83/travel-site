@@ -59,4 +59,4 @@ Through the tiled gate there's a small yard and a short flight of steps. The bri
 - **A meal first** — if you want something substantial before dessert, [Mapo Yangji Seolleongtang](/en/posts/seoul-mapo-yangji-seolleongtang), a long-time regular spot near the station, is an easy walk too.
 - **Price · hours · closing day** — hours confirmed as weekdays 08:00–22:00, weekends/holidays 10:00–22:00. Prices and a fixed closing day weren't confirmed, so check the map or call before you go.
 
-> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally). Hours are confirmed as above, but I couldn't pin down prices or a fixed closing day — please check the shop's current information once more before you go.
+> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally). Hours are confirmed as above, but I couldn't pin down prices or a fixed closing day — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

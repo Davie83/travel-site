@@ -55,4 +55,4 @@ So it works either as a quick day drive or as a spot to camp overnight if you br
 - **Season** — Swimming runs July 3 – October 31, 2026. Outside that window, only the beach and walking paths are open.
 - **Pairing it up** — If you need food near the island's entrance, [the grilled-fish set at Ganghwa's seaside restaurant](/en/posts/incheon-ganghwa-saengseongui) is also on Ganghwa Island — though it's a bit of a drive from Hwado-myeon, so check the route before pairing them in one trip.
 
-> Based on a personal visit. How the place feels can vary by person, and campground/parking fees and the swimming season can change — check current details before you go.
+> Based on a personal visit. How the place feels can vary by person, and campground/parking fees and the swimming season can change — check current details before you go. Fees and hours are **(as of Sep 2026)**.

@@ -80,4 +80,4 @@ So I would put it this way. **If you are willing to give up a little,** you now 
 - ⚠️ The broth is unseasoned. Eaten plain it tastes of very little
 - ⚠️ Closed Sundays · Saturday ends at 7 PM · expect a queue
 
-> Written from a personal visit. Prices keep climbing and this runs as a seasonal dish, so check both the price and whether it's on the menu before you go.
+> Written from a personal visit. Prices keep climbing and this runs as a seasonal dish, so check both the price and whether it's on the menu before you go. Prices and hours are **(as of Aug 2026)**.

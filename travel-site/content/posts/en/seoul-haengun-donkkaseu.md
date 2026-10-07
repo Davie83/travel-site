@@ -59,4 +59,4 @@ The main thing to know is that this is a different dish from Japanese *tonkatsu*
 - ⚠️ You have a small appetite — the set is genuinely a lot
 - ⚠️ You're expecting a thick Japanese katsu — this is a different thing
 
-> A personal record from a stop made after a nearby funeral. Taste and portion judgements are personal preference. Hours and prices are as confirmed above, but the closing day I couldn't pin down this time — check the venue's details once more before you go.
+> A personal record from a stop made after a nearby funeral. Taste and portion judgements are personal preference. Hours and prices are as confirmed above, but the closing day I couldn't pin down this time — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

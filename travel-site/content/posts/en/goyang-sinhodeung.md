@@ -18,7 +18,7 @@ info:
   - Also on the menu|**Chicken skewers** (gochujang glaze) — I tried them; ordinary next to the wood-fired chicken
   - Side dishes|Fresh-cut kimchi, cubed radish kimchi, and so on
   - Room|Large · **a wait even in high summer**, that busy
-  - Hours · prices · closing day|**Daily noon–11:30 PM** (last order 11:00 PM) · **wood-fired whole chicken 24,000 won** · no closing day on record — as of Sep 2026, subject to change
+  - Hours · prices · closing day|**Daily noon–11:30 PM** (last order 11:00 PM) · **wood-fired whole chicken 24,000 won** · no closing day on record (as of Sep 2026)
 ---
 
 A wood-fired whole-chicken place in Goyang. I went once on a hot summer day.
@@ -58,4 +58,4 @@ I saw **chicken skewers** on a lot of nearby tables, so I ordered one — chicke
 - **Hours · prices · closing day** — Open **noon to 11:30 PM**, the **wood-fired whole chicken is 24,000 won**, and no set closing day turns up. This is current as of Sep 2026, so worth confirming again before you go.
 - **Elsewhere in Gyeonggi** — I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) on Yeongjong Island in Incheon. It's a proper drive from Goyang, not a same-day pairing.
 
-> This post is a write-up of a personal visit. Taste and preference vary by person. Hours and prices are as confirmed above but can change, so please check the shop's current information once more before you go.
+> This post is a write-up of a personal visit. Taste and preference vary by person. Hours and prices are as confirmed above but can change, so please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

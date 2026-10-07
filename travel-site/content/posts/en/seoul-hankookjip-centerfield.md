@@ -50,4 +50,4 @@ This visit was honestly an ordering mistake — I ended up with the bibimbap set
 - ⚠️ You want a really spicy bibimbap — this one runs mild
 - ⚠️ You're going right at noon on a weekday — it can get crowded
 
-> Written after eating in Centerfield's basement myself. The menu lineup and break-time hours can shift, so double-check if you're planning a weekday lunch visit.
+> Written after eating in Centerfield's basement myself. The menu lineup and break-time hours can shift, so double-check if you're planning a weekday lunch visit. Prices and hours are **(as of Sep 2026)**.

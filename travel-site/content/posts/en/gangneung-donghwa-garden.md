@@ -14,7 +14,7 @@ info:
   - Signature|**Jjamppong sundubu** — a fiery jjamppong broth + soft tofu + squid, mushrooms and more
   - Taste|The broth is hot and bracing; the tofu is soft and curd-like
   - Note|**Already a famous place** — expect a wait at mealtimes
-  - Hours · prices · closing day|**7:00 AM – 7:30 PM** (break 4–5 PM) · jjamppong sundubu ₩10,000 · **closed every Wednesday** (as of Sep 2026 — subject to change)
+  - Hours · prices · closing day|**7:00 AM – 7:30 PM** (break 4–5 PM) · jjamppong sundubu ₩10,000 · **closed every Wednesday** (as of Sep 2026)
 ---
 
 It's a jjamppong-sundubu place in Gangneung's Chodang tofu village. It's famous well past the point of needing an introduction, so plenty of people will have heard the name.
@@ -48,4 +48,4 @@ As famous as it is, it's busy. Go on a weekend or at mealtime and expect to queu
 - **Hours · prices · closing day** — 7:00 AM–7:30 PM (break 4–5 PM), jjamppong sundubu ₩10,000, closed every Wednesday, as of Sep 2026. It's a famous spot so there can be a wait — confirm on the map or by phone before you go.
 - **Next meal** — if the spicy jjamppong sundubu leaves you wanting something different, [Little Diner](/en/posts/gangneung-little-diner) isn't far, with its pancake-bun burger.
 
-> Based on a personal visit. The taste and the spice level are personal, and hours, prices and the closing day are as of when I checked and can change often — check the venue's details once more before you go.
+> Based on a personal visit. The taste and the spice level are personal, and hours, prices and the closing day are as of when I checked and can change often — check the venue's details once more before you go. Prices and hours are **(as of Sep 2026)**.

@@ -78,4 +78,4 @@ This shop has **held the same spot for over 20 years**. So the fair way to put i
 - ⚠️ The broth is rich and some find it salty
 - ⚠️ Thin noodles soften quickly, so start eating right away
 
-> Based on repeat visits over the years. Since this is a late-night operation, hours can shift, so check ahead if you're heading over late.
+> Based on repeat visits over the years. Since this is a late-night operation, hours can shift, so check ahead if you're heading over late. Prices and hours are **(as of Aug 2026)**.

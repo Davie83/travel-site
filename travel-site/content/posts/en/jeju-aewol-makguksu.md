@@ -18,7 +18,7 @@ info:
   - Address|11 Aewol-haean-ro, Aewol-eup, Jeju City, Jeju (애월해안로 11) — on the coastal road
   - Hours|**Closes 8:00 PM** (per Google Maps) · **(no closing-day information available)**
   - Phone|**No number registered on Google Maps**
-  - Signature|**Perilla oil makguksu 10,000 KRW** (prices change often — please verify) · cold-broth makguksu · suyuk
+  - Signature|**Perilla oil makguksu 10,000 KRW** (as of Aug 2026) · cold-broth makguksu · suyuk
   - Best order|For two people: **perilla oil makguksu + cold-broth makguksu + suyuk**
   - Spice level|**Not spicy at all** (both noodle dishes)
   - Location|**Directly on the Aewol coastal road**, next to the Aewol cafe strip
@@ -89,4 +89,4 @@ It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which
 - ⚠️ **The closing day could not be confirmed.** Check ahead if you are travelling far for it
 - ⚠️ If perilla oil is unfamiliar to you, the cold-broth bowl is the gentler start
 
-> Written after comparing both restaurants directly. Taste judgements here are entirely my own preference. Prices and hours change often, so anything unconfirmed is marked **(prices change often — please verify)**.
+> Written after comparing both restaurants directly. Taste judgements here are entirely my own preference. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

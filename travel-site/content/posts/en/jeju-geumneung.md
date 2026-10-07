@@ -60,4 +60,4 @@ Jeju has filled up with visitors, Korean and foreign alike. So if you want a **q
 - **Facilities** — car park, parasol rental, and cafes and restaurants nearby.
 - **A meal** — if your day takes you into central Jeju City, [Mipung Haejang-guk](/en/posts/jeju-mipung-haejangguk) is worth setting aside a bowl for.
 
-> Written up after walking the beach myself. The swimming season and nearby facilities can change, so it's worth checking again before you go.
+> Written up after walking the beach myself. The swimming season and nearby facilities can change, so it's worth checking again before you go. Fees and hours are **(as of Sep 2026)**.

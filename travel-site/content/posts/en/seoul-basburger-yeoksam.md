@@ -49,4 +49,4 @@ The space added to it too — pink tile counter, a neon sign glowing on the bric
 - **Hours** — Weekdays 11 AM-9:15 PM, weekends 11 AM-8:45 PM (last order 45 min-1 hour before close).
 - **Dinner nearby** — if army stew sounds better later, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is a short trip away in the same Gangnam area.
 
-> Written up from a visit of my own. Prices and hours can shift, so it's worth double-checking before you go.
+> Written up from a visit of my own. Prices and hours can shift, so it's worth double-checking before you go. Prices and hours are **(as of Sep 2026)**.

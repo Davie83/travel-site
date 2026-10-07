@@ -61,4 +61,4 @@ There's a **canola field set up a little to the right of the beach**. It isn't l
 - **Coffee** — there are cafés around the beach. See the canola, then get one.
 - **Rough morning?** — [Mipung Haejang-guk](/en/posts/jeju-mipung-haejangguk) in central Jeju City is a short drive from here.
 
-> Written up after my own visit. Canola bloom timing and the facilities around the beach can change, so it's worth checking again before you go.
+> Written up after my own visit. Canola bloom timing and the facilities around the beach can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

@@ -13,7 +13,7 @@ info:
   - Where|Nambu-myeon, Geoje, South Gyeongsang Province (경남 거제시 남부면 갈곶리)
   - Windy Hill (바람의 언덕)|Galgot-ri · **Open 24 hours** — it's an open hillside
   - Dojangpo cruises|55 Dojangpo 1-gil · 055-632-8787 · **From 8:30 AM** — routes to Oedo and Haegeumgang
-  - Admission|Windy Hill is **free** · the cruise fare itself is not confirmed · landing on Oedo adds a separate entry fee of **11,000 won for adults** (8,000 teens, 5,000 children — per the operator's official site, subject to change)
+  - Admission|Windy Hill is **free** · the cruise fare itself is not confirmed · landing on Oedo adds a separate entry fee of **11,000 won for adults** (8,000 teens, 5,000 children, per the operator's official site, as of Aug 2026)
   - Google rating|Windy Hill 4.2 (**11,474 reviews**) · Dojangpo cruises 4.1 (556 reviews)
   - Getting around|**A car helps** — island transport is not dense
   - The walking|The stretches linking coastal road and villages are the good part
@@ -79,4 +79,4 @@ Boat and walk are different experiences. **With one full day, take the boat in t
 - ⚠️ The famous viewpoint is crowded — pick your hour if you want quiet. Without a car, transport will take a real bite out of your day
 - **Elsewhere in Gyeongsang** — I've also written up [Yongwon Hoetjip](/en/posts/jinhae-yongwon-hoetjip) in Jinhae for its fresh cod soup. It's a real drive from Geoje, so treat it as a separate trip.
 
-> Based on a personal visit. Fares and sailing times can change, so anything uncertain is marked **(please verify)**.
+> Based on a personal visit. Fares and sailing times can change, so anything uncertain is marked **(as of Aug 2026)**.

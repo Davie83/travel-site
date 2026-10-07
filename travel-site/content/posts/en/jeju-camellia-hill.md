@@ -63,4 +63,4 @@ This large garden in Seogwipo, on Jeju's **west side**, is one of the places mos
 - **Admission and hours** — it's paid and can vary by season, so check the official information before you go.
 - **Eat** — if you're heading toward Moseulpo in Daejeong-eup, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is a good spot for a full Korean spread.
 
-> Written after walking the whole garden myself. The flower in season, the admission and the opening hours all change with the season, so it's worth a check before you go.
+> Written after walking the whole garden myself. The flower in season, the admission and the opening hours all change with the season, so it's worth a check before you go. Fees and hours are **(as of Sep 2026)**.

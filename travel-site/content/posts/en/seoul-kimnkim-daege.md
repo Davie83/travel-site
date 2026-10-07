@@ -87,4 +87,4 @@ It works equally well for family, for hosting someone, or for two. **Being able 
 - ⚠️ Not a cheap meal — even at promotion prices, budget ₩50,000–80,000 per person
 - ⚠️ Parking is difficult, and dining is up on the 3rd floor
 
-> Written from a personal visit. The promotion won't run forever, and regular prices and hours shift too, so confirm again before booking.
+> Written from a personal visit. The promotion won't run forever, and regular prices and hours shift too, so confirm again before booking. Prices and hours are **(as of Aug 2026)**.

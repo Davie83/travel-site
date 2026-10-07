@@ -13,8 +13,8 @@ info:
   - Location|26 Taejo-ro, Wansan-gu, Jeonju, Jeonbuk · inside Jeonju Hanok Village
   - What I ordered|**Seokgalbi** — marinated short rib grilled on a sizzling hot stone plate
   - What came with it|A dozen-plus side dishes — japchae, acorn jelly, wild garlic, sweet pumpkin porridge, and more, colorful enough to enjoy just by looking
-  - Price|**15,000 won** for seokgalbi (as of Sep 2026, can change)
-  - Hours|Daily **11:00 AM–8:30 PM** · break 3:30–4:00 PM · last order 8:00 PM · open year-round (as of Sep 2026, can change)
+  - Price|**15,000 won** for seokgalbi (as of Sep 2026)
+  - Hours|Daily **11:00 AM–8:30 PM** · break 3:30–4:00 PM · last order 8:00 PM · open year-round (as of Sep 2026)
 ---
 
 Walking around Jeonju Hanok Village, there's a point where you start to get hungry. That's exactly when this place caught my eye.
@@ -50,4 +50,4 @@ Once you finish and step out, you're in the hanok village, so wherever you walk 
 - **Route** — Good for a hunger break mid-way through touring the hanok village. Whichever alley you take afterward, there's a walking path.
 - **Nearby** — [Jeonju Waengi Kongnamul-gukbap](/en/posts/jeonju-waengi-gukbap) is about a 5-minute walk away. Good to pair for the next morning or when you need a hangover-soup fix.
 
-> Based on a personal visit. Taste is a matter of personal preference, and prices and hours can change — check again before you go.
+> Based on a personal visit. Taste is a matter of personal preference, and prices and hours can change — check again before you go. Prices and hours are **(as of Sep 2026)**.

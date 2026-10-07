@@ -54,4 +54,4 @@ They add **fried hairtail** as a free side dish. Picking at crisp fried hairtail
 - **Origin** — the hairtail here is imported, not domestic. Expecting the taste of Jeju's domestic version may disappoint you; come with expectations lowered and it's a satisfying market meal.
 - **Bones** — hairtail has a lot of small bones, so picking the flesh off takes a while if you're not used to it.
 
-> Written after getting lost in this Namdaemun Market alley more than once. Judgements on the taste, the spice level and the fish's origin are personal, and the closing-day cycle can change — check the venue's details once more before you go.
+> Written after getting lost in this Namdaemun Market alley more than once. Judgements on the taste, the spice level and the fish's origin are personal, and the closing-day cycle can change — check the venue's details once more before you go. Prices and hours are **(as of Sep 2026)**.

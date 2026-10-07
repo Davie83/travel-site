@@ -51,4 +51,4 @@ Terarosa is well known as a roastery that started in Gangneung. I had a **Cloud 
 - **Hours** — Weekdays 7 AM-8 PM, Sat 9 AM-8 PM, Sun & holidays 9 AM-6 PM.
 - **Nearby** — If you want something filling before coffee, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is on the same Teheran-ro stretch.
 
-> Written up after visiting and drinking there myself. Prices and hours can shift, so it's worth checking again before you go.
+> Written up after visiting and drinking there myself. Prices and hours can shift, so it's worth checking again before you go. Prices and hours are **(as of Sep 2026)**.

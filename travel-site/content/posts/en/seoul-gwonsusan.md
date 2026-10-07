@@ -94,4 +94,4 @@ Everything nearby is walkable: **the National Assembly building, Yeouido Han Riv
 - ⚠️ **The fish is raw** — pick another dish if that's not for you
 - ⚠️ Book ahead for lunch
 
-> Based on a personal visit. Prices in Yeouido shift often, so it's worth confirming the price and booking availability again before you go.
+> Based on a personal visit. Prices in Yeouido shift often, so it's worth confirming the price and booking availability again before you go. Prices and hours are **(as of Aug 2026)**.

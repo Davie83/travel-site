@@ -49,4 +49,4 @@ It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute
 - **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Garden** — good for photos, so give yourself time in fine weather.
 
-> Written up from a visit of my own. Any judgement of taste and atmosphere is personal preference, and the hours, prices, and closing day I couldn't pin down — worth checking the venue's details once more before you go.
+> Written up from a visit of my own. Any judgement of taste and atmosphere is personal preference, and the hours, prices, and closing day I couldn't pin down — worth checking the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

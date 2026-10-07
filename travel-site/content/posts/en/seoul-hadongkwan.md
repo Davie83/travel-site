@@ -93,4 +93,4 @@ The Myeongdong branch has a reputation among guide-readers, and Michelin comes u
 - ⚠️ Brisk, functional service and fast turnover
 - ⚠️ The broth may not arrive very hot
 
-> Written from a personal visit. Old-school restaurants like this sometimes run later or shorter than posted, so call ahead if you're planning to go late.
+> Written from a personal visit. Old-school restaurants like this sometimes run later or shorter than posted, so call ahead if you're planning to go late. Prices and hours are **(as of Aug 2026)**.

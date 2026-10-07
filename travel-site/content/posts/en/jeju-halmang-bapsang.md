@@ -17,8 +17,8 @@ info:
   - Restaurant|Jeju Halmang Bapsang, **Moseulpo branch** (제주할망밥상 모슬포점) — the brand has several locations
   - Address|69 Choenamdan-haean-ro, Daejeong-eup, Seogwipo, Jeju (최남단해안로 69) — **right in front of Moseulpo Port**
   - Phone|064-792-3040
-  - Hours|**Daily 9:00 AM ~ 8:00 PM** (last order 7:30 PM) · **open year-round, no closing day** (prices and hours change often — please verify)
-  - Signature|**Halmang Geunal Jeongsik 15,000 KRW** (prices change often — please verify)
+  - Hours|**Daily 9:00 AM ~ 8:00 PM** (last order 7:30 PM) · **open year-round, no closing day** (as of Aug 2026)
+  - Signature|**Halmang Geunal Jeongsik 15,000 KRW** (as of Aug 2026)
   - What arrives|Grilled fish + spicy stir-fried pork + 10 side dishes + **free refills on rice and soup**
   - Important|**One order required per person aged 8 and over.** Two people cannot share a single portion
   - Extra|Reviews mention an **extra portion of stir-fried pork for 5,000 KRW**
@@ -101,4 +101,4 @@ It fits well as lunch on a day spent circling western Jeju.
 - ⚠️ The flavour is **average**. If you want one overwhelming dish, go elsewhere
 - ⚠️ It can run a little salty
 
-> Written up after my own visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(prices change often — please verify)**.
+> Written up after my own visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

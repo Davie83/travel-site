@@ -64,4 +64,4 @@ Given what teugyang and daechang cost, it's the sort of place you could use for 
 - **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
 - **Coffee after** — it's the same Mapo area, so once you're full of grilled offal, closing out at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) works as a follow-up.
 
-> Written up from a visit of my own. The cut names, texture, and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go.
+> Written up from a visit of my own. The cut names, texture, and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

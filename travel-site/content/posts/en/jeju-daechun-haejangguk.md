@@ -8,6 +8,14 @@ emoji: 🍲
 thumb: assets/img/jeju-daechun-haejangguk.jpg
 excerpt: I don't eat haejangguk (hangover soup) much in Seoul, but somehow I crave it every time I'm in Jeju. I've worked through most of the famous haejangguk spots here. Today I ordered naejangtang (tripe soup) at Daechun Haejangguk, and it suited my taste better than the plain broth. Jeju-style haejangguk isn't right without a generous scoop of minced garlic stirred in.
 tags: [Jeju, Jeju City, haejangguk, naejangtang, hangover soup, gukbap, minced garlic, Jeju-style soup]
+info:
+  - Restaurant|Daechun Haejangguk (main branch)
+  - Address|398 Yeonbuk-ro, Jeju-si, Jeju
+  - Phone|0507-1417-7456
+  - Hours|Daily 06:00–15:00 (last order 14:30) · **closed every Monday** (as of Sep 2026)
+  - Signature dishes|Haejangguk 11,000 KRW · Naejangtang 12,000 KRW (as of Sep 2026)
+  - Diningcode rating|Overall 4.2 · Taste 4.9 · Value 4.2 · Service 3.8
+  - How to eat|**Stir in a generous scoop of minced garlic** — the common trick for Jeju-style haejangguk
 ---
 
 I don't order haejangguk much back in Seoul. But for some reason, being in Jeju makes me want it every time.

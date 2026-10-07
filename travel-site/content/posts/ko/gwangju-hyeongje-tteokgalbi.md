@@ -17,6 +17,7 @@ spicy: 0
 order: 소떡갈비 하나, 돼지떡갈비 하나 주세요
 orderRoman: So-tteokgalbi hana, dwaeji-tteokgalbi hana juseyo
 info:
+  - 가게|형제송정떡갈비 본점
   - 위치|전남광주 광산구 광산로29번길 3 · 광주송정역 인근 **떡갈비 골목**
   - 주문한 것|**소떡갈비 · 돼지떡갈비** (각 1인분)
   - 서비스|**맑은 뼈국** — 감자탕에 쓰는 돼지 등뼈, 살도 제법 붙어 있다

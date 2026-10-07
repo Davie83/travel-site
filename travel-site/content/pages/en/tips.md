@@ -121,7 +121,7 @@ So split it up like this:
 
 **Naver Map and KakaoMap both support English.** Download one before you arrive.
 
-**To plan a route in advance**, use the [Saved places](saved) feature on this site. Add the places you want in order and it draws the route on a map, with each leg handing off to Google Maps directions.
+**To plan a route in advance**, use the [Saved places](/en/saved) feature on this site. Add the places you want in order and it draws the route on a map, with each leg handing off to Google Maps directions.
 
 ## 6. When nobody speaks your language — 1330 {#help}
 

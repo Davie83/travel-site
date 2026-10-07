@@ -13,8 +13,7 @@ info:
   - Restaurant|Buwon Myeonok (부원면옥)
   - Location|41-6 Namdaemunsijang 4-gil, Jung-gu, Seoul — **2nd floor** (서울 중구 남대문시장4길 41-6)
   - Phone|02-753-7728
-  - Closes|**8:00 PM** · (no closing-day info)
-  - Opening time / closed days|(as of Aug 2026)
+  - Closes|**8:00 PM** · no closing-day info (as of Aug 2026)
   - Google rating|4.0 (**1,009 reviews**)
   - Nearest station|**Hoehyeon** (Line 4) — inside Namdaemun Market
 ---

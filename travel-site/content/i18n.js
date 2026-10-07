@@ -16,6 +16,25 @@ module.exports = {
     nav:       { regions: '지역', travel: '여행지', food: '맛집', tips: '여행 팁', about: '소개', contact: '문의' },
     category:  { travel: '여행지', food: '맛집' },
     categoryTitle: { travel: '여행지', food: '맛집' },
+    /* <title> 전용 (Oct 2026): H1 은 categoryTitle 그대로, 검색 결과 제목에만 "한국 맛집 가이드" 같은 검색 의도를 붙입니다. */
+    categorySeoTitle: { travel: '한국 여행지 가이드', food: '한국 맛집 가이드' },
+    /* 여행 팁 개별 페이지의 <title>/<meta description> — 본문 소제목·첫 문장이 짧고 모호해서(예: "교통카드", "이건 한국에서 특히 중요합니다.") 따로 둡니다 (Oct 2026). */
+    tipsSeoTitles: {
+      visa: 'K-ETA와 한국 입국 준비',
+      transport: '티머니 교통카드 가이드',
+      money: '한국 환전 — 어디가 가장 유리한가',
+      maps: '한국 길찾기 — 네이버지도·카카오맵·구글 지도',
+      help: '관광통역 안내전화 1330 — 말이 안 통할 때',
+      dining: '한국 식당 이용법 — 주문과 계산'
+    },
+    tipsSeoDescs: {
+      visa: 'K-ETA가 필요한지, 한시 면제 제도와 공식 사이트 신청법, 비싼 대행 사이트 구별법을 정리했습니다. 2026년 9월 확인.',
+      transport: '티머니 카드 구입처와 가격, 외국 카드로 충전하는 방법, 관광객용 티머니 트래블카드까지 정리했습니다.',
+      money: '명동·남대문 환전소, WOWPASS 키오스크, 은행, 그리고 공항 환율이 가장 불리한 이유까지 환전 장소를 유리한 순서로 정리했습니다.',
+      maps: '구글 지도는 한국에서 자동차 길찾기를 지원하지 않습니다. 네이버지도·카카오맵·카카오T를 언제 쓰는지 정리했습니다.',
+      help: '24시간 무료 관광통역 안내전화 1330. 8개 언어 통역과 거는 방법, 응급 119·경찰 112까지 정리했습니다.',
+      dining: '반찬 무료 리필, 1인 1메뉴, 카운터 계산, 좌식 식당, 호출벨 등 한국 식당에서 알아둘 점을 정리했습니다.'
+    },
     categoryDesc:  {
       travel: '어디를 갈지보다 어떻게 돌지가 더 어렵습니다. 코스와 동선 위주로 정리했습니다.',
       food:   '줄 서기 전에 알아야 할 가격대, 주문 방법, 웨이팅을 함께 적었습니다.'
@@ -49,6 +68,7 @@ module.exports = {
       'japanese-in-korea': '서울 돈코츠 라멘 맛집 — 직접 가본 곳만'
     },
     genreIntros: {
+      'bars-makgeolli':    '한 가지 음식으로 묶기 어려운 한식을 모았습니다. 곱창전골, 제주 오일장의 파전·순대, 옛 주택을 고친 막걸리 술집까지, 가격과 주문 방법, 외국인이 편한지를 적었습니다.',
       'korean-bbq':        '숯불이나 불판에 직접 구워 먹는 고기구이입니다. 삼겹살·목살 같은 돼지구이부터 소금구이, 갈비, 곱창·대창 같은 특수부위, 한우 오마카세까지 다룹니다. 어느 부위를 시켜야 하는지, 직원이 구워 주는지, 관광객이 앉아서 편한 자리인지를 위주로 적었습니다.',
       'korean-soup':       '뜨끈한 국물에 밥을 마는 국밥과 탕 종류입니다. 돼지국밥, 순대국, 곰탕, 감자탕, 해장국을 지역별로 담았습니다. 혼자 가도 부담 없는지, 새우젓·다대기로 간을 맞추는 방식, 아침 일찍 여는 집인지를 함께 적었습니다.',
       'korean-noodles':    '냉면과 국수 종류입니다. 평양·함흥식 냉면, 막국수, 콩국수, 칼국수를 다룹니다. 육수가 슴슴한지 새콤한지, 가위로 잘라 주는지, 여름 한정인지 사철 하는지를 적어 두었습니다.',
@@ -225,6 +245,25 @@ module.exports = {
     nav:       { regions: 'Regions', travel: 'Places', food: 'Food', tips: 'Tips', about: 'About', contact: 'Contact' },
     category:  { travel: 'Place', food: 'Food' },
     categoryTitle: { travel: 'Places to visit', food: 'Where to eat' },
+    /* <title>-only (Oct 2026): the H1 stays categoryTitle; the search-result title gets the search intent ("Where to Eat in Korea"). */
+    categorySeoTitle: { travel: 'Places to Visit in Korea', food: 'Where to Eat in Korea' },
+    /* <title>/<meta description> for the individual travel-tips pages (Oct 2026) - the section headings and first sentences are too short or vague ("Transit card", "This one matters especially in Korea."). */
+    tipsSeoTitles: {
+      visa: 'K-ETA and Korea Entry Requirements',
+      transport: 'T-money Card Guide for Korea',
+      money: 'Where to Exchange Money in Korea',
+      maps: 'Naver Map vs Google Maps in Korea',
+      help: 'Korea Tourist Helpline 1330',
+      dining: 'Korean Restaurant Etiquette and Ordering'
+    },
+    tipsSeoDescs: {
+      visa: 'Do you need K-ETA for Korea? The temporary waiver, applying on the official site, and how to avoid paid lookalike sites. Verified September 2026.',
+      transport: 'Where to buy a T-money card in Korea, what it costs, how to recharge it with a foreign card, and the tourist-only T-Money Travel Card.',
+      money: 'Where to change money in Korea, best rate first: Myeongdong and Namdaemun money changers, WOWPASS kiosks, banks, and why airport rates are the worst.',
+      maps: 'Google Maps cannot give driving directions in Korea. What to use instead - Naver Map, KakaoMap, Kakao T for taxis - and when Google Maps is fine.',
+      help: 'Korea has a free 24-hour tourist helpline, 1330, with interpreting in eight languages. How to dial it from a mobile or abroad, plus 119 and 112.',
+      dining: 'What to expect in Korean restaurants: free banchan refills, one order per person, paying at the counter, floor seating, and the table call button.'
+    },
     categoryDesc:  {
       travel: 'Choosing where to go is the easy part. These guides focus on the order to walk it in and how long it actually takes.',
       food:   'Prices, how to order, and how long the queue really is — before you join it.'
@@ -251,9 +290,13 @@ module.exports = {
     genreDescTpl:  '{name} places we actually visited, across Korea. Honest notes on price, how to order, and how tourist-friendly each spot is.',
     genreIntroTpl: '{count} {name} write-ups, all from visits in person. Instead of star ratings, each notes the price range, how to order, the spice level, and whether it is comfortable for a visitor. Regions covered: {regions} — use the buttons below to filter.',
     genreTitles: {
-      'japanese-in-korea': 'Tonkotsu Ramen in Seoul, Tried in Person'
+      'japanese-in-korea': 'Tonkotsu Ramen in Seoul, Tried in Person',
+      'bars-makgeolli':    'Korean Hot Pot, Market Food & Makgeolli',
+      'western':           'Western Restaurants in Korea',
+      'chinese-korean':    'Korean-Chinese Food in Korea'
     },
     genreIntros: {
+      'bars-makgeolli':    'Korean places that do not fit one dish category: a beef-offal hot pot, the Jeju five-day market, and a makgeolli bar in a converted house. Notes cover price, how to order, and how comfortable each is for a visitor.',
       'korean-bbq':        'Meat you grill yourself over charcoal or on a hot plate. It covers pork cuts like samgyeopsal and moksal, salt-grilled pork, galbi, offal cuts like gopchang and daechang, and hanwoo omakase. Each note focuses on which cut to order, whether the staff grill it for you, and whether the seating is comfortable for a visitor.',
       'korean-soup':       'Hot soups and gukbap you eat with rice. It covers pork gukbap, sundae-guk, gomtang, gamjatang, and hangover soups by region. Notes cover whether it is easy to go alone, how you season the bowl with salted shrimp or chilli paste, and whether it opens early.',
       'korean-noodles':    'Cold noodles and noodle soups. It covers Pyongyang- and Hamhung-style naengmyeon, makguksu, kongguksu, and kalguksu. Notes say whether the broth is plain or tangy, whether they cut it with scissors for you, and whether it is summer-only or year-round.',
@@ -263,7 +306,7 @@ module.exports = {
       'cafe-dessert':      'Places built around coffee and dessert. It covers shops that roast their own, bakeries, and desserts made to order like souffle and pancakes. Notes cover whether there are power outlets and wi-fi, and whether it is the kind of room you can sit in for a while.',
       'western':           'Sit-down restaurants that are not Korean — pasta, steak, tacos. From a Sinsa-dong Western spot to Mexican and wine buffets. Notes cover whether you need to book, roughly what to budget per person, and whether there is a private room.'
     },
-    areaTitleTpl:  '{area}, {region} — Where to Eat & What to See',
+    areaTitleTpl:  'Where to Eat in {area}, {region}',
     areaDescTpl:   'Places in {area}, {region} that we have actually been to — with notes on routes, budget, and how to get there.',
     genreHomeTitle: 'What to eat?',
     genreHomeHint:  'Pick by dish',
@@ -430,6 +473,25 @@ module.exports = {
     nav:       { regions: '地域', travel: '観光地', food: 'グルメ', tips: '旅行のヒント', about: 'このサイト', contact: 'お問い合わせ' },
     category:  { travel: '観光地', food: 'グルメ' },
     categoryTitle: { travel: '観光地', food: 'グルメ' },
+    /* <title> 専用 (Oct 2026): H1 は categoryTitle のまま、検索結果のタイトルにだけ検索意図を足します。 */
+    categorySeoTitle: { travel: '韓国の観光スポット', food: '韓国のグルメガイド' },
+    /* 旅行ヒント個別ページの <title>/<meta description> (Oct 2026) — 見出しと冒頭文が短く曖昧なため別に持ちます。 */
+    tipsSeoTitles: {
+      visa: 'K-ETAと韓国入国準備',
+      transport: 'T-money(ティーマネー)カードの買い方と使い方',
+      money: '韓国の両替 — どこが一番有利か',
+      maps: '韓国の道案内 — NaverマップとGoogleマップ',
+      help: '韓国観光案内ダイヤル1330 — 言葉が通じないとき',
+      dining: '韓国の食堂のルール — 注文と会計'
+    },
+    tipsSeoDescs: {
+      visa: '韓国入国にK-ETAは必要か。一時的な免除の内容、公式サイトでの申請方法、有料の偽サイトの見分け方をまとめました。2026年9月確認。',
+      transport: '韓国のT-moneyカードの買える場所と値段、外国のカードでのチャージ方法、旅行者向けのT-Money Travel Cardまでまとめました。',
+      money: '韓国の両替所を有利な順に。明洞・南大門の両替商、WOWPASSキオスク、銀行、空港のレートが一番不利な理由までまとめました。',
+      maps: 'Googleマップは韓国では車のルート案内ができません。代わりに使うNaverマップ、カカオマップ、タクシーのKakao Tの使い分けをまとめました。',
+      help: '韓国には無料・24時間・8言語対応の観光案内ダイヤル1330があります。かけ方と、緊急時の119・112もまとめました。',
+      dining: '韓国の食堂で知っておきたい点を整理しました。おかずの無料おかわり、1人1品の注文、レジで会計、座敷席、呼び出しボタンなど。'
+    },
     categoryDesc:  {
       travel: 'どこへ行くかより、どう回るかが難しい。ルートと所要時間を中心にまとめました。',
       food:   '並ぶ前に知っておきたい価格帯、注文方法、待ち時間をまとめています。'
@@ -456,9 +518,16 @@ module.exports = {
     genreDescTpl:  '実際に足を運んだ{name}の店をまとめました。価格・注文方法・観光客の使いやすさを中心に。',
     genreIntroTpl: '実際に足を運んで書いた{name}の記録が{count}件です。星の数ではなく、価格帯・注文方法・辛さの度合い・観光客が座って居心地よいかを書いています。対象地域は{regions}で、下のボタンで絞り込めます。',
     genreTitles: {
-      'japanese-in-korea': 'ソウルの豚骨ラーメン店 — 実際に行った店だけ'
+      'japanese-in-korea': 'ソウルの豚骨ラーメン店 — 実際に行った店だけ',
+      'bars-makgeolli':    '韓国の鍋料理・市場グルメ・マッコリ',
+      'chinese-korean':    '韓国式中華のおすすめ',
+      'korean-bbq':        '韓国式BBQ(焼肉)のおすすめ',
+      'korean-noodles':    '韓国の麺料理',
+      'korean-seafood':    '韓国の魚介・海鮮グルメ',
+      'korean-dumplings':  '韓国のマンドゥ(餃子)'
     },
     genreIntros: {
+      'bars-makgeolli':    '一つの料理にくくりにくい韓国の店を集めました。牛ホルモンの鍋、済州の五日市場、古い家を改装したマッコリ酒場まで。価格・注文方法・旅行者の使いやすさを書いています。',
       'korean-bbq':        '炭火や鉄板で自分で焼く焼肉です。サムギョプサルやモクサルなどの豚、塩焼き、カルビ、コプチャン・テチャンなどのホルモン、韓牛オマカセまで扱います。どの部位を頼むべきか、店員が焼いてくれるか、観光客が座って居心地よいかを中心に書いています。',
       'korean-soup':       'ご飯を入れて食べる熱いスープ・クッパ類です。テジクッパ、スンデグク、コムタン、カムジャタン、ヘジャングクを地域別に。一人でも入りやすいか、アミの塩辛やダデギでの味の調え方、朝早くから開くかを併記しています。',
       'korean-noodles':    '冷麺と麺類です。平壌・咸興式の冷麺、マッククス、コングクス、カルグクスを扱います。スープが淡泊か酸味があるか、ハサミで切ってくれるか、夏限定か通年かを書いています。',
@@ -635,6 +704,25 @@ module.exports = {
     nav:       { regions: '地區', travel: '景點', food: '美食', tips: '旅遊須知', about: '關於', contact: '聯絡' },
     category:  { travel: '景點', food: '美食' },
     categoryTitle: { travel: '景點', food: '美食' },
+    /* 僅用於 <title>（2026年10月）：H1 仍是 categoryTitle，搜尋結果的標題才加上搜尋意圖。 */
+    categorySeoTitle: { travel: '韓國景點指南', food: '韓國美食指南' },
+    /* 旅遊小提醒各分頁的 <title>/<meta description>（2026年10月）— 小標題與第一句太短、太籠統，所以另外寫。 */
+    tipsSeoTitles: {
+      visa: 'K-ETA 與韓國入境準備',
+      transport: 'T-money 交通卡買法與用法',
+      money: '韓國換錢指南 — 哪裡最划算',
+      maps: '韓國導航 — Naver Map 與 Google 地圖',
+      help: '韓國旅遊諮詢專線 1330 — 語言不通時',
+      dining: '韓國餐廳用餐須知 — 點餐與結帳'
+    },
+    tipsSeoDescs: {
+      visa: '去韓國需要 K-ETA 嗎？暫時免除的內容、在官方網站申請的方式，以及如何分辨收費的仿冒網站。2026年9月確認。',
+      transport: '在韓國哪裡買 T-money 交通卡、要多少錢、怎麼用外國信用卡儲值，以及觀光客專用的 T-Money Travel Card。',
+      money: '依划算程度整理韓國換錢地點：明洞、南大門換錢所，WOWPASS 自助機，銀行，以及機場匯率為什麼最差。',
+      maps: 'Google 地圖在韓國無法提供開車導航。改用 Naver Map、KakaoMap 與計程車 Kakao T 的時機整理在這裡。',
+      help: '韓國有免費、24小時、支援八種語言的旅遊諮詢專線 1330。撥打方式，以及緊急時的 119 和 112 一併整理。',
+      dining: '整理在韓國餐廳要知道的事：小菜免費續加、一人一份餐點、在櫃檯結帳、地板座位和桌上的呼叫鈴。'
+    },
     categoryDesc:  {
       travel: '去哪裡不難，難的是怎麼走。這裡以路線和實際所需時間為主。',
       food:   '排隊之前該知道的價位、點餐方式和等候時間。'
@@ -661,9 +749,16 @@ module.exports = {
     genreDescTpl:  '我們實際去過的{name}餐廳彙整。價位、點餐方式、對遊客是否友善，都據實記錄。',
     genreIntroTpl: '親自跑過、寫下來的{name}記錄共{count}篇。不打星等，而是寫價位、點餐方式、辣度，以及遊客坐下來自不自在。涵蓋地區：{regions}，可用下方按鈕篩選。',
     genreTitles: {
-      'japanese-in-korea': '首爾豚骨拉麵店 — 只收實際去過的店'
+      'japanese-in-korea': '首爾豚骨拉麵店 — 只收實際去過的店',
+      'bars-makgeolli':    '韓式火鍋、市場小吃與馬格利',
+      'chinese-korean':    '韓式中餐推薦',
+      'korean-bbq':        '韓國烤肉推薦',
+      'korean-noodles':    '韓國麵食推薦',
+      'korean-seafood':    '韓國海鮮推薦',
+      'korean-dumplings':  '韓式餃子推薦'
     },
     genreIntros: {
+      'bars-makgeolli':    '把很難歸進單一料理的韓式店家放在一起：牛內臟火鍋、濟州五日市場，還有老房子改建的馬格利酒館。價位、點餐方式與遊客是否好上手都有記錄。',
       'korean-bbq':        '在炭火或鐵板上自己烤的烤肉。從五花肉、梅花肉等豬肉，到鹽烤、排骨，以及小腸、大腸等內臟部位，還有韓牛套餐。記錄重點在該點哪個部位、店員會不會幫你烤、座位對遊客來說自不自在。',
       'korean-soup':       '配飯吃的熱湯與湯飯類。收錄豬肉湯飯、血腸湯、牛肉湯、馬鈴薯排骨湯、解酒湯，按地區整理。也一併寫了一個人去方不方便、怎麼用蝦醬或辣醬調味、是不是一大早就開。',
       'korean-noodles':    '冷麵與麵食。收錄平壤、咸興式冷麵，蕎麥拌麵，豆漿麵，刀切麵。會寫湯頭是清淡還是帶酸、會不會幫你用剪刀剪、是夏季限定還是整年都有。',

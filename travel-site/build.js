@@ -1451,15 +1451,37 @@ function genreIntroText(g, code, inGenre) {
  *  전각 。！？ 는 CJK 라 뒤 공백 없이 바로 문장 끝으로 봅니다.
  *  한 문장이 짧으면(영어처럼) 두 번째 문장까지, 165자에서 자릅니다. */
 function firstSentence(text) {
-  const s = String(text || '').trim();
+  // 소개 문단은 마크다운(**굵게**)이라 meta description 에는 기호를 떼고 씁니다.
+  const s = String(text || '').replace(/\*\*|__|`/g, '').trim();
   if (!s) return '';
-  const END = /(?:[.!?](?=\s|$|["'”’)\]])|[。！？])/;
-  const one = s.match(new RegExp('^[\\s\\S]*?' + END.source));
-  let out = (one ? one[0] : s).trim();
-  if (out.length < 90) {
-    const two = s.match(new RegExp('^[\\s\\S]*?' + END.source + '[\\s\\S]*?' + END.source));
-    if (two && two[0].trim().length <= 165) out = two[0].trim();
+  const END = /(?:[.!?](?=\s|$|["'”’)\]])|[。！？])/g;
+  const ends = [];
+  let m;
+  while ((m = END.exec(s))) ends.push(m.index + m[0].length);
+  if (!ends.length) ends.push(s.length);
+  let k = 0, cut = ends[0];
+  // 첫 문장이 너무 짧으면 다음 문장을 이어 붙입니다 (Oct 2026 — "Busan starts with soup." 23자 같은
+  // 너무 짧은 meta description 을 막기 위해). 한·중·일 글자는 폭이 두 배라 기준을 낮게 잡고(45자),
+  // 이어 붙여도 110자를 넘으면 붙이지 않습니다. 영어 등은 90자 미만이면 이어 붙이고, 165자를 넘기면
+  // 155자 근처에서 말줄임으로 끝냅니다.
+  const cjk = /[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]/.test(s.slice(0, 30));
+  const MIN = cjk ? 45 : 90, JOIN_MAX = cjk ? 110 : 165;
+  while (cut < MIN && k + 1 < ends.length) {
+    if (ends[k + 1] <= JOIN_MAX) { k++; cut = ends[k]; continue; }
+    if (!cjk && cut < 135) {
+      let piece = s.slice(0, 155);
+      if (/\s/.test(piece.slice(cut))) piece = piece.replace(/\s+\S*$/, '');
+      return piece.trim() + '…';
+    }
+    if (cjk) {
+      // 한·중·일: 다음 문장이 길면 110자 안의 마지막 쉼표(、，,；) 또는 띄어쓰기에서 끊고 말줄임
+      const w = s.slice(cut, 110);
+      const idx = Math.max(w.lastIndexOf('、'), w.lastIndexOf('，'), w.lastIndexOf(','), w.lastIndexOf('；'), w.lastIndexOf(' '));
+      if (idx > 8) return s.slice(0, cut + idx).trim().replace(/[、，,；;]$/, '') + '…';
+    }
+    break;
   }
+  let out = s.slice(0, cut).trim();
   if (out.length > 165) out = out.slice(0, 155).replace(/\s+\S*$/, '').trim() + '…';
   return out;
 }
@@ -1531,6 +1553,27 @@ function titleParts(title) {
   const sep = s.match(/\s*[—–]\s+/);
   if (!sep || sep.index === 0) return { name: s.trim(), sub: '' };
   return { name: s.slice(0, sep.index).trim(), sub: s.slice(sep.index + sep[0].length).trim() };
+}
+/** 검색 결과 제목용 — 맛집 글 제목에 동네·지역이 하나도 없으면 가게 이름 뒤에 동네를 붙입니다.
+ *  예: "Hakata Bunko — 20-Year-Old Ramen Shop…" → "Hakata Bunko, Hongdae, Seoul — 20-Year-Old…"
+ *  (Oct 2026) 원래 제목에는 홍대·서울이 어디에도 없어서 "ramen Hongdae" 같은 검색어와 연결될 단서가
+ *  제목에 없었습니다. 글을 고치지 않고 빌드에서 붙이므로 4개 언어에 똑같이 적용되고 새 글에도 자동
+ *  적용됩니다. <title> 에만 쓰고 카드·본문 제목은 그대로입니다. 영어는 서울·부산·제주만 지역명을 더
+ *  붙이고(나머지는 동네만), 한·중·일은 동네만 붙입니다. */
+function seoPostTitle(m, code) {
+  const title = String(m.title || '');
+  if (m.cat !== 'food' || !m.region || !m.area) return title;
+  const split = s => String(s || '').split(/\s*(?:&|·|・|、|\/)\s*|-/).filter(Boolean);
+  const aParts = split(areaName(m.region, m.area, code));
+  const rParts = split(regionName(m.region, code));
+  const low = title.toLowerCase();
+  if ([...aParts, ...rParts].some(n => low.includes(n.toLowerCase()))) return title;
+  const withRegion = code === 'en' && ['seoul', 'busan', 'jeju'].includes(m.region);
+  const loc = [aParts[0], withRegion ? rParts[0] : ''].filter(Boolean).join(', ');
+  if (!loc) return title;
+  const { name, sub } = titleParts(title);
+  const head = code === 'en' ? `${name}, ${loc}` : `${name} ${loc}`;
+  return sub ? `${head} — ${sub}` : head;
 }
 function shortTitle(title) {
   return titleParts(title).name || String(title);
@@ -2406,7 +2449,7 @@ async function build() {
 
       writeFile(out, renderPage({
         out, code, current: 'home',
-        title: `${name} — ${siteName(code)}`,
+        title: `${(r.seoTitle && r.seoTitle[code]) || name} — ${siteName(code)}`,
         description: firstSentence((r.intro && r.intro[code]) || '') || `${name} · ${t.siteDesc}`,
         availability: availFor(`region/${r.slug}.html`, () => true),
         body: fill(T.region, {
@@ -2510,7 +2553,7 @@ async function build() {
 
       writeFile(out, renderPage({
         out, code, current: c.slug,
-        title: `${t.categoryTitle[c.slug]} — ${siteName(code)}`,
+        title: `${(t.categorySeoTitle && t.categorySeoTitle[c.slug]) || t.categoryTitle[c.slug]} — ${siteName(code)}`,
         description: t.categoryDesc[c.slug],
         availability: availFor(`${c.slug}.html`, () => true),
         body: fill(T.list, {
@@ -2635,7 +2678,7 @@ async function build() {
 
       writeFile(out, renderPage({
         out, code, current: m.cat, ogType: 'article',
-        title: `${m.title} | ${siteName(code)}`, description: m.excerpt,
+        title: `${seoPostTitle(m, code)} | ${siteName(code)}`, description: m.excerpt,
         ogImage: m.thumb || null,   // 글 사진이 있으면 그걸 미리보기로
         availability,
         headExtra: `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`,
@@ -2731,8 +2774,8 @@ ${tocList}
 
           writeFile(secOut, renderPage({
             out: secOut, code, current: 'tips', noindex: !indexed,
-            title: `${shortTitle(clean)} — ${siteName(code)}`,
-            description: summary || pg.meta.description || I18N[code].siteDesc,
+            title: `${(t.tipsSeoTitles && t.tipsSeoTitles[s.slug]) || shortTitle(clean)} — ${siteName(code)}`,
+            description: (t.tipsSeoDescs && t.tipsSeoDescs[s.slug]) || summary || pg.meta.description || I18N[code].siteDesc,
             availability: availFor(`tips/${s.slug}.html`,
               c => (tipsSections[c] || []).some(x => x.slug === s.slug)),
             headExtra: `<script type="application/ld+json">${JSON.stringify({

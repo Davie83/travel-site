@@ -15,7 +15,7 @@ info:
   - Phone|064-805-7158 (Google Maps, as of Oct 2026)
   - Hours|**9:00 AM – 8:30 PM** · last order 7:40 PM (Google Maps and a travel guide site, as of Oct 2026)
   - Closing day|**Closed every Sunday** (Google Maps, as of Oct 2026)
-  - What to order|**Jangmo set (장모정식)** — abalone stone-pot rice · stew · soy-marinated crab · marinated abalone · stir-fried pork · side dishes (you choose the stew when ordering; per a travel guide site, as of Oct 2026)
+  - What to order|**Jangmo set (장모정식) 15,000 KRW** (Google Maps menu entry, listed there as "Jangmo Jeongshik") — abalone stone-pot rice · stew · soy-marinated crab · marinated abalone · stir-fried pork · side dishes (you choose the stew when ordering; per a travel guide site, as of Oct 2026)
   - Price range|**10,000–20,000 KRW per person** (Google Maps, as of Oct 2026)
   - Parking|Available
   - Queue|Said to have a wait at mealtimes · I came at an in-between hour and was seated right away
@@ -38,7 +38,7 @@ Measured from Jeju Airport, it is inside the city but a little to the south-east
 
 The soy-marinated crab also comes in a bigger portion than I expected, and you can choose the stew to suit your taste. Marinated abalone, stir-fried pork, a salad and side dishes arrive with it. **For one meal in Jeju, the value of this spread is very good.**
 
-The basic side dishes are ordinary, but this is a place where you taste several main-course dishes at one table. I have not written down menu prices; Google Maps shows **10,000–20,000 won per person** (as of Oct 2026).
+The basic side dishes are ordinary, but this is a place where you taste several main-course dishes at one table. On Google Maps the menu lists the **Jangmo set at 15,000 won**, and the price range is shown as **10,000–20,000 won per person** (as of Oct 2026).
 
 ## Finding it
 

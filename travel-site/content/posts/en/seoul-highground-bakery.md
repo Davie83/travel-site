@@ -1,5 +1,5 @@
 ---
-title: High Ground Bakery, Ui-dong — A Big Bakery Cafe Up the Bukhansan Valley, With Room to Park
+title: High Ground Bakery — A Big Bakery Cafe in the Ui-dong Valley Below Bukhansan, With Room to Park
 cat: food
 region: seoul
 area: gangbuk

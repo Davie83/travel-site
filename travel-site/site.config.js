@@ -110,7 +110,7 @@ module.exports = {
         { slug: 'itaewon',      names: { ko: '이태원·한남', en: 'Itaewon & Hannam',       ja: '梨泰院・漢南',  zh: '梨泰院·漢南' } },
         { slug: 'gangnam',      names: { ko: '강남·서초',  en: 'Gangnam & Seocho',       ja: '江南・瑞草',    zh: '江南·瑞草' } },
         { slug: 'magok',        names: { ko: '강서·마곡',  en: 'Gangseo & Magok',        ja: '江西・麻谷',    zh: '江西·麻谷' } },
-        { slug: 'gangbuk',      names: { ko: '강북·우이',  en: 'Gangbuk & Ui-dong',      ja: '江北・牛耳洞',  zh: '江北·牛耳洞' } }
+        { slug: 'gangbuk',      names: { ko: '강북',       en: 'Gangbuk',                ja: '江北',          zh: '江北' } }
       ] },
     { slug: 'gyeonggi',    color: '#884096', colorDark: '#d5a4df',   // 보라
       names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' },

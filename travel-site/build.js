@@ -442,6 +442,7 @@ const STATION_NAMES = {
   '종각':       { en: 'Jonggak',           ja: '鍾閣',         zh: '鍾閣' },
   '종로3가':    { en: 'Jongno 3-ga',       ja: '鍾路3街',      zh: '鍾路3街' },
   '서대문':     { en: 'Seodaemun',         ja: '西大門',       zh: '西大門' },
+  '북한산우이':   { en: 'Bukhansanui',       ja: '北漢山ウイ',   zh: '北漢山牛耳' },
   '서울':       { en: 'Seoul',             ja: 'ソウル',       zh: '首爾' },
   '시청':       { en: 'City Hall',         ja: '市庁',         zh: '市廳' },
   '광화문':     { en: 'Gwanghwamun',       ja: '光化門',       zh: '光化門' },

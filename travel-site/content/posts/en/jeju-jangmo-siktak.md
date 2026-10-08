@@ -7,7 +7,7 @@ date: 2026-10-09
 emoji: 🍚
 thumb: assets/img/jeju-jangmo-siktak.jpg
 excerpt: A set-meal restaurant in Ido-dong, Jeju City. Abalone stone-pot rice, a stew of your choice, soy-marinated crab and stir-fried pork all arrive on one table, which makes it very good value. There is more abalone than I expected, and the abalone innards soak into the rice. Expect a wait at mealtimes.
-tags: [Jeju, Jeju City, Ido-dong, Jangmo Siktak, Jangmo set, abalone stone-pot rice, stone-pot rice, soy-marinated crab, gejang, set meal, good value, seafood]
+tags: [Jeju, Jeju City, Ido-dong, Jangmo Siktak, Jangmo set, abalone stone-pot rice, stone-pot rice, soy-marinated crab, gejang, hwang-ge, set meal, good value, seafood]
 map: https://www.google.com/maps/search/?api=1&query=%EC%9E%A5%EB%AA%A8%EC%8B%9D%ED%83%81+%EC%A0%9C%EC%A3%BC+%EC%97%B0%EC%8B%A0%EB%A1%9C+51
 info:
   - Restaurant|Jangmo Siktak (장모식탁)
@@ -36,7 +36,7 @@ Measured from Jeju Airport, it is inside the city but a little to the south-east
 
 ## What arrives on the table
 
-The soy-marinated crab also comes in a bigger portion than I expected, and you can choose the stew to suit your taste. Marinated abalone, stir-fried pork, a salad and side dishes arrive with it. **For one meal in Jeju, the value of this spread is very good.**
+The soy-marinated crab also comes in a bigger portion than I expected, and the crab is **hwang-ge (황게)**. You can choose the stew to suit your taste. Marinated abalone, stir-fried pork, a salad and side dishes arrive with it. **For one meal in Jeju, the value of this spread is very good.**
 
 The basic side dishes are ordinary, but this is a place where you taste several main-course dishes at one table. The **Jangmo set is 17,000 won**. Google Maps shows the price range as **10,000–20,000 won per person** (as of Oct 2026).
 

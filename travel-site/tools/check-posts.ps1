@@ -115,6 +115,17 @@ foreach($s in $slugs){
   # 태그 칩
   $tags = ([regex]::Match($fm['ko'],'(?m)^tags: \[(.*)\]').Groups[1].Value -split ',') | ForEach-Object { $_.Trim() }
   if(-not ($tags | Where-Object { $chipKeys.ContainsKey($_) })){ Add-Issue 'ERROR' $s '태그 칩(tagChips) 키와 일치하는 ko 태그가 없음 → 하단 칩이 안 나옴' }
+  # 첫 문장(리드)에 지역·동네 단어 — 2026-10-08 이후 글만 (새 글 규칙: 검색에서 "○○ 맛집"과 글이 이어지도록)
+  if($cat -eq 'food' -and $d -ge '2026-10-08'){
+    foreach($code in $codes){
+      $bodyOnly = [regex]::Match($docs[$code].Replace("`r`n","`n"),'(?s)^---\n.*?\n---\n(.*)$').Groups[1].Value
+      $lead = ($bodyOnly -split "`n" | Where-Object { $_.Trim() -and -not $_.TrimStart().StartsWith('!') -and -not $_.TrimStart().StartsWith('#') } | Select-Object -First 1)
+      $lead = [string]$lead -replace '\*\*',''
+      $ctags = @(([regex]::Match($fm[$code],'(?m)^tags: \[(.*)\]').Groups[1].Value -split ',') | ForEach-Object { $_.Trim() } | Where-Object { $_ } | Select-Object -First 3)
+      $hitLead = $false; foreach($ct in $ctags){ if($lead.IndexOf($ct,[StringComparison]::OrdinalIgnoreCase) -ge 0){ $hitLead = $true } }
+      if(-not $hitLead){ Add-Issue 'WARN' $s "$code 첫 문장에 지역·동네 단어가 없음 (태그 앞 3개 중 하나를 넣어 주세요: $($ctags -join ', '))" }
+    }
+  }
   # 사진
   $thumb = Get-FmField $fm['ko'] 'thumb'
   if($thumb){ $name = Split-Path $thumb -Leaf; if(-not (Test-Path (Join-Path $img $name))){ Add-Issue 'ERROR' $s "대표 사진 없음: $name" }; if(-not (Test-Path (Join-Path $img "sm\$name"))){ Add-Issue 'ERROR' $s "카드용 sm/ 사진 없음: $name" } }

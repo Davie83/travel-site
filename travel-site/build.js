@@ -1240,6 +1240,28 @@ function tagChipsHTML(m, base, code, t) {
     `<span class="tagchips-label">${escapeHtml(t.tagLabel)}</span>${chips}</nav>`;
 }
 
+/** 맛집 글 맨 아래 "○○ 맛집 더 보기" 링크 줄 (Oct 2026).
+ *  지금까지 글 → 동네·장르·지역 링크는 상단 빵부스러기에 "영등포"·"해산물"처럼 이름만 있었습니다.
+ *  여기서는 검색어에 가까운 문구("영등포 맛집 더 보기")를 앵커로 써서, 글에서 목록 페이지로 가는
+ *  내부 링크가 무엇을 가리키는지 분명히 합니다. 눈에 띄는 UI 를 늘리지 않으려고 작은 글자 한 줄로만 둡니다.
+ *  동네·장르 링크는 그 페이지가 색인되는 경우(글 수가 기준 이상)에만 겁니다 — noindex 페이지로
+ *  키워드 앵커를 보내지 않으려는 것. 지역 링크는 항상 색인되므로 늘 겁니다. 맛집 글에만 붙입니다. */
+function moreLinksHTML(m, posts, base, code, t) {
+  if (m.cat !== 'food' || !m.region || typeof t.moreAreaTpl !== 'string') return '';
+  const d = localeDir(code);
+  const sub = (tpl, x) => escapeHtml(String(tpl).replace('{x}', x));
+  const items = [];
+  const an = m.area ? areaName(m.region, m.area, code) : '';
+  if (an && posts.filter(x => x.meta.region === m.region && x.meta.area === m.area).length >= AREA_PAGE_MIN) {
+    items.push(`<a href="${base}${d}${escapeHtml(m.region)}/${escapeHtml(m.area)}">${sub(t.moreAreaTpl, an)}</a>`);
+  }
+  const g = genreOf(m);
+  if (g && posts.filter(x => { const gg = genreOf(x.meta); return gg && gg.slug === g.slug; }).length >= GENRE_PAGE_MIN) {
+    items.push(`<a href="${base}${d}food/${g.slug}">${sub(t.moreGenreTpl, genreName(g, code))}</a>`);
+  }
+  items.push(`<a href="${base}${d}region/${escapeHtml(m.region)}">${sub(t.moreRegionTpl, regionName(m.region, code))}</a>`);
+  return `    <nav class="post-more" aria-label="${escapeHtml(t.moreNavLabel)}">${items.join('')}</nav>`;
+}
 /** 홈 히어로, 검색창 아래 — 인기 검색어 칩 + 신뢰 통계 한 줄 (Sep 2026).
  *  오른쪽 지도 카드보다 왼쪽 글이 짧아 생기던 빈 공간을 채웁니다.
  *  칩은 site.config.js 의 homePopularSearches, 통계는 실제 글·지역·언어 수를 그대로 읽습니다. */
@@ -2705,6 +2727,7 @@ async function build() {
           tipsNudge: tipsNudgeHTML(base, code, t),
           byline: bylineHTML(t),
           tagChips: tagChipsHTML(m, base, code, t),
+          moreLinks: moreLinksHTML(m, posts, base, code, t),
           closed: escapeHtml(m.closed || ''),
           dayNames: escapeHtml(t.routeDayNames),
           closedTodayTpl: escapeHtml(t.closedTodayTpl),

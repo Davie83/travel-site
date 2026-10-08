@@ -2186,6 +2186,18 @@ body.nm-open{overflow:hidden;}
 }
 .tagchip:hover{border-color:var(--line-hard);color:var(--ink);}
 .tagchip::before{content:"#";opacity:.45;margin-right:1px;}
+/* ── 글 하단 "○○ 맛집 더 보기" 링크 줄 ───────────────────────────────
+   목록 페이지로 가는 내부 링크. 눈에 띄는 버튼이 아니라 작은 글자 링크로만 둡니다. */
+.post-more{
+  display:flex;flex-wrap:wrap;gap:6px 18px;
+  max-width:704px;margin:14px 0 0;font-size:.88rem;
+}
+.post-more a{
+  color:var(--ink-mid);font-weight:600;
+  text-decoration:underline;text-underline-offset:3px;
+  text-decoration-color:var(--line-hard);
+}
+.post-more a:hover{color:var(--ink);}
 
 /* ── 테마 전환 버튼 (☀ / 🌙) ─────────────────────────────────────────
    기본은 기기 설정을 따르고, 누르면 그때부터 고른 값을 기억합니다.

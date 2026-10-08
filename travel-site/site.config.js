@@ -351,6 +351,7 @@ module.exports = {
     { key: '감자탕',   names: { ko: '감자탕',   en: 'Gamjatang',       ja: 'カムジャタン', zh: '馬鈴薯排骨湯' } },
     { key: '생대구탕', names: { ko: '생대구탕', en: 'Fresh cod stew',  ja: '生タラ鍋',     zh: '鮮鱈魚湯' } },
     { key: '게장',     names: { ko: '게장',     en: 'Gejang (marinated crab)', ja: 'ケジャン', zh: '醬蟹' } },
+    { key: '솥밥',     names: { ko: '솥밥',     en: 'Stone-pot rice',  ja: '釜飯',         zh: '石鍋飯' } },
     { key: '대게',     names: { ko: '대게',     en: 'Snow crab',       ja: 'ズワイガニ',   zh: '雪蟹' } },
     { key: '수육',     names: { ko: '수육',     en: 'Suyuk',           ja: 'スユク',       zh: '水煮肉' } },
     { key: '꼬리수육', names: { ko: '꼬리수육', en: 'Ox-tail suyuk',   ja: '牛テールスユク', zh: '牛尾水煮肉' } },

@@ -1257,7 +1257,9 @@ function moreLinksHTML(m, posts, base, code, t) {
   }
   const g = genreOf(m);
   if (g && posts.filter(x => { const gg = genreOf(x.meta); return gg && gg.slug === g.slug; }).length >= GENRE_PAGE_MIN) {
-    items.push(`<a href="${base}${d}food/${g.slug}">${sub(t.moreGenreTpl, genreName(g, code))}</a>`);
+    // 카페·디저트는 "맛집"이 어색해서 한국어만 "더 보기"로 (제목의 맛집 단어를 카페에 안 붙이는 것과 같은 이유)
+    const gTpl = (code === 'ko' && g.slug === 'cafe-dessert') ? '{x} 더 보기' : t.moreGenreTpl;
+    items.push(`<a href="${base}${d}food/${g.slug}">${sub(gTpl, genreName(g, code))}</a>`);
   }
   items.push(`<a href="${base}${d}region/${escapeHtml(m.region)}">${sub(t.moreRegionTpl, regionName(m.region, code))}</a>`);
   return `    <nav class="post-more" aria-label="${escapeHtml(t.moreNavLabel)}">${items.join('')}</nav>`;

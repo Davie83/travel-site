@@ -7,7 +7,7 @@ date: 2026-09-09
 emoji: 🍜
 thumb: assets/img/seoul-beyond-vietnam.jpg
 excerpt: A pho place by the National Assembly in West Yeouido. I go for lunch now and then. The broth is clean and bright and the portion is generous — it settles a hangover and hunger at the same time. The sides (spring rolls, fried rice) are all solidly good: an ordinary but well-made bowl of pho.
-tags: [Seoul, Yeouido, National Assembly, Vietnamese, pho, phở, spring rolls, hangover food]
+tags: [Seoul, Yeouido, National Assembly, Vietnamese, pho, phở, spring rolls]
 map: https://www.google.com/maps/search/?api=1&query=%eb%b9%84%ec%9a%98%eb%93%9c%eb%b9%84%ec%97%a3%eb%82%a8+%ea%b5%ad%ed%9a%8c%ec%9d%98%ec%82%ac%eb%8b%b9%ec%a0%90
 info:
   - Place|Beyond Vietnam, National Assembly branch

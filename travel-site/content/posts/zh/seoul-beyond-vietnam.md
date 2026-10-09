@@ -7,7 +7,7 @@ date: 2026-09-09
 emoji: 🍜
 thumb: assets/img/seoul-beyond-vietnam.jpg
 excerpt: 西汝矣島國會議事堂前的越南河粉店（비욘드비엣남）。午餐偶爾會去。湯頭清爽、份量相當大，宿醉和飢餓可以一次解決。炸春捲、炒飯這些配菜也都是誰吃都會覺得中上的水準，一碗普通卻好吃的河粉。
-tags: [首爾, 汝矣島, 國會議事堂, 越南, 河粉, phở, 炸春捲, 解酒]
+tags: [首爾, 汝矣島, 國會議事堂, 越南, 河粉, phở, 炸春捲]
 map: https://www.google.com/maps/search/?api=1&query=%eb%b9%84%ec%9a%98%eb%93%9c%eb%b9%84%ec%97%a3%eb%82%a8+%ea%b5%ad%ed%9a%8c%ec%9d%98%ec%82%ac%eb%8b%b9%ec%a0%90
 info:
   - 店家|Beyond Vietnam 國會議事堂店（비욘드비엣남）

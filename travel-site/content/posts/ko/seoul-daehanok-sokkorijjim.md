@@ -8,7 +8,7 @@ emoji: 🐂
 thumb: assets/img/seoul-daehanok-sokkorijjim.jpg
 famous: true
 excerpt: 50년 다 되어가는 영등포 노포입니다. 야들야들한 꼬리수육에 알싸한 부추무침, 뽀얀 사골국물이 곁들여 나옵니다. 다 먹은 뒤 남은 부추양념에 소면을 비벼 먹어야 진짜 마무리입니다. 다만 가격 대비 양은 늘 아쉽습니다.
-tags: [서울, 영등포, 여의도, 소꼬리찜, 꼬리수육, 설렁탕, 부추, 노포]
+tags: [서울, 영등포, 여의도, 소꼬리찜, 부추, 노포]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%ED%95%9C%EC%98%A5+%EC%98%81%EB%93%B1%ED%8F%AC%EB%A1%9C51%EA%B8%B8+6
 lat: 37.519314
 lng: 126.91083

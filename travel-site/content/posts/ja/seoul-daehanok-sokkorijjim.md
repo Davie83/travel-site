@@ -7,7 +7,7 @@ date: 2026-09-20
 emoji: 🐂
 thumb: assets/img/seoul-daehanok-sokkorijjim.jpg
 excerpt: 創業50年近い永登浦の老舗です。柔らかい牛テールのスユクにピリッとした韮和えがのり、白濁した牛骨スープが添えられます。仕上げは残った韮のタレに素麺を絡めて食べること。ただ、値段の割に量はいつも少し物足りなく感じます。
-tags: [ソウル, 永登浦, 汝矣島, 牛テール蒸し, 牛テールスユク, ソルロンタン, 韮, 老舗]
+tags: [ソウル, 永登浦, 汝矣島, 牛テール蒸し, 韮, 老舗]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%ED%95%9C%EC%98%A5+%EC%98%81%EB%93%B1%ED%8F%AC%EB%A1%9C51%EA%B8%B8+6
 info:
   - 店名|대한옥（大韓屋・テハノク）

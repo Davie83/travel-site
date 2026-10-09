@@ -7,7 +7,7 @@ date: 2026-09-09
 emoji: 🍜
 thumb: assets/img/seoul-beyond-vietnam.jpg
 excerpt: 西汝矣島の国会議事堂前にあるフォーの店。ランチでときどき行きます。スープがすっきりして量もたっぷりで、二日酔いと空腹を一度に片づけられます。揚げ春巻きやチャーハンなどのサイドも、誰が食べても中の上はいく、普遍的でおいしいフォーです。
-tags: [ソウル, 汝矣島, 国会議事堂, ベトナム, フォー, phở, 揚げ春巻き, 迎え酒]
+tags: [ソウル, 汝矣島, 国会議事堂, ベトナム, フォー, phở, 揚げ春巻き]
 map: https://www.google.com/maps/search/?api=1&query=%eb%b9%84%ec%9a%98%eb%93%9c%eb%b9%84%ec%97%a3%eb%82%a8+%ea%b5%ad%ed%9a%8c%ec%9d%98%ec%82%ac%eb%8b%b9%ec%a0%90
 info:
   - 店|ビヨンドベトナム 国会議事堂店

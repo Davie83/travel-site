@@ -7,7 +7,7 @@ date: 2026-09-20
 emoji: 🐂
 thumb: assets/img/seoul-daehanok-sokkorijjim.jpg
 excerpt: 開業快50年的永登浦老店。軟嫩的牛尾水煮肉上蓋著辣拌韭菜，旁邊還會附一碗奶白色牛骨湯。吃完肉之後把剩下的韭菜醬汁拌著細麵吃才算吃完整套。不過份量跟價格比起來，總覺得少了一點。
-tags: [首爾, 永登浦, 汝矣島, 燉牛尾, 牛尾水煮肉, 雪濃湯, 韭菜, 老店]
+tags: [首爾, 永登浦, 汝矣島, 燉牛尾, 韭菜, 老店]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%ED%95%9C%EC%98%A5+%EC%98%81%EB%93%B1%ED%8F%AC%EB%A1%9C51%EA%B8%B8+6
 info:
   - 店名|대한옥（大韓屋）

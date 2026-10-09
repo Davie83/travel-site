@@ -7,7 +7,7 @@ date: 2026-09-20
 emoji: 🐂
 thumb: assets/img/seoul-daehanok-sokkorijjim.jpg
 excerpt: A Yeongdeungpo veteran pushing 50 years. Tender ox-tail suyuk comes topped with sharp seasoned chives, alongside a milky bone broth. The real finish is mixing thin noodles into the leftover chive sauce. Worth knowing — the portion always feels a touch small for the price.
-tags: [Seoul, Yeongdeungpo, Yeouido, ox-tail steam, ox-tail suyuk, seolleongtang, chives, veteran restaurant]
+tags: [Seoul, Yeongdeungpo, Yeouido, ox-tail steam, chives, veteran restaurant]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%ED%95%9C%EC%98%A5+%EC%98%81%EB%93%B1%ED%8F%AC%EB%A1%9C51%EA%B8%B8+6
 info:
   - Restaurant|Daehanok (대한옥)

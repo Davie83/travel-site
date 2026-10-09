@@ -330,6 +330,7 @@ module.exports = {
     { key: '국밥',     names: { ko: '국밥',     en: 'Gukbap',          ja: 'クッパ',       zh: '湯飯' } },
     { key: '곰탕',     names: { ko: '곰탕',     en: 'Gomtang',         ja: 'コムタン',     zh: '牛肉湯' } },
     { key: '설렁탕',   names: { ko: '설렁탕',   en: 'Seolleongtang',   ja: 'ソルロンタン', zh: '雪濃湯' } },
+    { key: '소꼬리찜', names: { ko: '소꼬리찜', en: 'Braised oxtail',  ja: '牛テール蒸し', zh: '燉牛尾' } },
     { key: '도가니탕', names: { ko: '도가니탕', en: 'Ox-knee soup',    ja: 'トガニタン',   zh: '牛膝軟骨湯' } },
     { key: '복국',     names: { ko: '복국',     en: 'Pufferfish soup', ja: 'フグ汁',       zh: '河豚湯' } },
     { key: '돼지국밥', names: { ko: '돼지국밥', en: 'Pork gukbap',     ja: 'テジクッパ',   zh: '豬肉湯飯' } },
@@ -501,11 +502,11 @@ module.exports = {
     { slug: 'korean-soup',      emoji: '🍲',
       names: { ko: '국밥·탕',    en: 'Korean Soup & Gukbap', ja: 'クッパ・スープ', zh: '湯飯' },
       searchNames: { ko: '', en: '', ja: '', zh: '' },
-      tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장', '설렁탕', '도가니탕', '부대찌개', '콩나물국밥', '꼬리수육'] },
+      tags:  ['국밥', '곰탕', '돼지국밥', '순대국', '순대국밥', '복국', '감자탕', '해장', '설렁탕', '도가니탕', '부대찌개', '콩나물국밥'] },
     { slug: 'korean-noodles',   emoji: '🍜',
       names: { ko: '냉면·국수',  en: 'Korean Noodles',    ja: '韓国の麺',      zh: '韓式麵食' },
       searchNames: { ko: '', en: '', ja: '', zh: '' },
-      tags:  ['냉면', '막국수', '콩국수', '국수', '칼국수'] },
+      tags:  ['냉면', '막국수', '콩국수', '국수', '칼국수', '퍼'] },
     { slug: 'chinese-korean',   emoji: '🥢',
       names: { ko: '중식',       en: 'Chinese-Korean',    ja: '韓国式中華',    zh: '韓式中餐' },
       tags:  ['중식', '자장면', '짬뽕', '유린기'] },
@@ -535,7 +536,7 @@ module.exports = {
        slug 는 예전 주소를 살리려고 그대로 둡니다 (표시 이름만 '한식'). */
     { slug: 'bars-makgeolli',   emoji: '🥘',
       names: { ko: '한식', en: 'Korean', ja: '韓国料理', zh: '韓式料理' },
-      tags:  ['곱창전골', '전골', '술안주', '막걸리'] }
+      tags:  ['곱창전골', '전골', '술안주', '막걸리', '소꼬리찜'] }
   ],
 
   /* ---- 예시글: 목록 맨 뒤로 밀기 ---------------------------------------

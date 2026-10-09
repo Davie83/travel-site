@@ -6,22 +6,22 @@ area: yeouido
 date: 2026-10-09
 emoji: 🌮
 thumb: assets/img/seoul-bittles-taco-yeouido.jpg
-excerpt: 位在汝矣島 The Hyundai Seoul（더현대 서울）2 樓的塔可店。適合快速解決午餐，主要餡料（肉的種類）可以自己挑選。個人推薦 Birria。烤得酥脆的起司邊很有特色，連盒蓋上畫的吃法圖示都很有趣。
+excerpt: 位在汝矣島 The Hyundai Seoul（더현대 서울）地下 1 樓的塔可店。適合快速解決午餐，主要餡料（肉的種類）可以自己挑選。個人推薦 Birria。烤得酥脆的起司邊很有特色，連盒蓋上畫的吃法圖示都很有趣。
 tags: [首爾, 汝矣島, 現代首爾, Bittle's Taco, 塔可, Birria, 午餐, 輕食]
 info:
   - 店名|비틀스타코 더현대 서울점（Bittle's Taco 現代首爾店）
-  - 位置|首爾 永登浦區 汝矣大路 108 The Hyundai Seoul 2 樓（서울 영등포구 여의대로 108 더현대 서울 2층，Google 地圖，截至2026年10月）
+  - 位置|首爾 永登浦區 汝矣大路 108 The Hyundai Seoul 地下 1 樓（서울 영등포구 여의대로 108 더현대 서울 지하 1층，截至2026年10月）
   - 招牌菜|**塔可** — 可自選主要餡料（肉的種類）· Birria、手撕豬肉等（Google 地圖評論，截至2026年10月）
   - 用餐方式|內用與外帶（Google 地圖，截至2026年10月）
   - 其他分店|首爾 鍾路區 西巡羅街 89-7（서순라길 89-7，Google 地圖標示為「西巡羅店」，截至2026年10月）
-  - 營業時間|Google 地圖上沒有登記營業時間，建議向 The Hyundai Seoul 的官方資訊確認（截至2026年10月）
+  - 營業時間|與 The Hyundai Seoul 的營業時間相同（截至2026年10月）
 ---
 
 **位在汝矣島 The Hyundai Seoul 裡的 Bittle's Taco，是適合快速解決午餐的塔可店。** 肉的種類可以自己挑，我推薦 Birria。
 
-## The Hyundai Seoul 2 樓，午餐得快點吃完的日子
+## The Hyundai Seoul 地下 1 樓，午餐得快點吃完的日子
 
-The Hyundai Seoul 的美食選擇非常多。不過上班的日子，不管選擇再多，常常都是**得簡單吃完就趕回去的一餐**，這種時候我會把塔可列進選項。Google 地圖顯示這家店在 **The Hyundai Seoul 的 2 樓**，可以內用，也可以外帶（截至2026年10月）。
+The Hyundai Seoul 的美食選擇非常多。不過上班的日子，不管選擇再多，常常都是**得簡單吃完就趕回去的一餐**，這種時候我會把塔可列進選項。這家店在 **The Hyundai Seoul 的地下 1 樓**，Google 地圖顯示可以內用，也可以外帶（截至2026年10月）。
 
 ![Bittle's Taco 外帶盒的盒蓋 — 戴著墨西哥寬邊帽的鴨子角色彈著吉他，塔可造型的鼓手和仙人掌一起演奏的沙漠插畫，左側是寫著 BITTLE BITTLE TACO 的木招牌](/assets/img/seoul-bittles-taco-yeouido-brand.jpg)
 
@@ -37,7 +37,7 @@ Bittle's Taco 最先吸引目光的是盒子外面的插畫。在沙漠裡彈吉
 
 ## 交通與時段
 
-The Hyundai Seoul 離汝矣島站走路可到，店在建築物內的 2 樓，不受天氣影響。Google 地圖上沒有登記這家店的營業時間，出發前建議連同 The Hyundai Seoul 的營業時間一起確認（截至2026年10月）。午休時間緊的日子，記得把點餐和等餐的時間也算進去。
+The Hyundai Seoul 離汝矣島站走路可到，店在建築物內的地下 1 樓，不受天氣影響。營業時間與 The Hyundai Seoul 相同，出發前請確認當天的營業時間（截至2026年10月）。午休時間緊的日子，記得把點餐和等餐的時間也算進去。
 
 ## 給外國旅客的提醒
 

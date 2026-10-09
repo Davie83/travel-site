@@ -38,7 +38,7 @@ Drinking coffee and looking at a river from inside a national legislature is not
 - **The window wall** — sit inside and the whole river fills the glass
 - **The rooftop terrace** — artificial turf, parasols and chairs, with the Mapo and Hapjeong skyline open across the water
 
-**Window seats are competitive.** Everyone is waiting for one. Reviews suggest **around 10:00 AM** for a relaxed seat, and going at opening time at weekends.
+**Window seats are competitive.** Everyone is waiting for one. I suggest **around 10:00 AM** for a relaxed seat, and going at opening time at weekends.
 
 ## Cherry blossom season is the peak
 
@@ -59,7 +59,7 @@ This is the best way to use the place: **see the river from above at the cafe, t
 - **The bread tends to be gone after lunch.** If bread is the point, come in the morning
 - **It opens at 8:30 AM on weekdays** — rare for a Han River view cafe in Seoul
 
-**On entry:** daytime access to the Assembly grounds is reported to be possible without an ID check. Rules can change and differ by building, so **bring your passport to be safe.**
+**On entry:** the rules for entering the Assembly grounds can change and differ by building, so **bring your passport to be safe.**
 
 ## Who this cafe suits
 

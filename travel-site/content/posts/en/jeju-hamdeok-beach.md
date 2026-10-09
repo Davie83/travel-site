@@ -36,7 +36,7 @@ I saw quite a few **Koreans and foreigners doing month-long stays** here. There'
 
 ## The size of the beach and getting there
 
-According to tourism information, Hamdeok Beach is a wide stretch of sand — roughly **900 m long and 120 m wide**. It lies about **20 km east of Jeju International Airport**, easy to reach by rental car or bus, and there are **several free public parking lots** around the beach (they can fill up around lunchtime). Many write-ups say the water is shallow and gently sloping, which is part of why the emerald color shows so well.
+Hamdeok Beach is a wide stretch of sand — roughly **900 m long and 120 m wide**. It lies about **20 km east of Jeju International Airport**, easy to reach by rental car or bus, and there are **several free public parking lots** around the beach (they can fill up around lunchtime). The water is shallow and gently sloping, which is part of why the emerald color shows so well.
 
 ## A meal in the same neighborhood
 

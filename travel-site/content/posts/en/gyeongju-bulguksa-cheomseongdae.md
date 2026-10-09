@@ -6,7 +6,7 @@ area: gyeongju
 date: 2026-08-22
 emoji: 🏯
 thumb: assets/img/gyeongju-bulguksa-cheomseongdae.jpg
-excerpt: If Korea has a Kyoto, this is it — capital of the Silla kingdom for nearly a thousand years. Bulguksa temple in the daytime, then Cheomseongdae after dark. The observatory is lit until 10pm, and across 20,000 reviews the most-mentioned word is "night view."
+excerpt: If Korea has a Kyoto, this is it — capital of the Silla kingdom for nearly a thousand years. Bulguksa temple in the daytime, then Cheomseongdae after dark. The observatory is lit until 10pm, and the night view is the biggest draw.
 tags: [Gyeongju, Gyeongsangbuk, Bulguksa, Cheomseongdae, Silla, UNESCO, night view, Historic site]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80+%EA%B2%BD%EC%A3%BC
 info:
@@ -33,7 +33,7 @@ You don't walk to a preserved district and then leave it. You walk through town 
 
 ![Lotus lanterns strung above the Jahamun gate at Bulguksa](/assets/img/gyeongju-bulguksa.jpg)
 
-A Buddhist temple **completed in 774 AD**, UNESCO World Heritage, with **18,044 Google reviews.**
+A Buddhist temple **completed in 774 AD**, UNESCO World Heritage.
 
 What strikes you in person isn't grandeur. It's how **human-scaled** it is. The stone terraces, the staircases, the gate sitting on top of them — none of it is built to overwhelm you. Compared with the enormous temple complexes elsewhere in Asia, Bulguksa feels intimate.
 
@@ -52,7 +52,7 @@ This is the part worth planning around.
 
 By day, Cheomseongdae is a modest stone tower in a field — you might wonder why people photograph it. **Then the sun goes down, the lights come up, and it announces itself.** Everything around it is dark grass; only this is lit. It becomes a different object entirely.
 
-That's not just my impression. **Across 20,540 Google reviews, the single most-mentioned word is "night view" — 382 times.** Far ahead of anything else people write about.
+**The night view is the biggest draw at Cheomseongdae.**
 
 **It's open until 10:00 PM.** Build your evening around it.
 
@@ -65,7 +65,7 @@ This is the way to use Gyeongju properly.
 - **Day** — places with gates and opening hours, like Bulguksa
 - **Night** — places that are lit and open late: Cheomseongdae, Donggung and Wolji pond (Anapji), and the Daereungwon burial mounds
 
-Reviewers mention **Anapji and Daereungwon** alongside Cheomseongdae constantly. Those three form a walkable night circuit, and it is genuinely one of the better night walks in the country.
+**Anapji and Daereungwon** are the natural stops alongside Cheomseongdae. Those three form a walkable night circuit, and it is genuinely one of the better night walks in the country.
 
 ## Getting there, and the food
 

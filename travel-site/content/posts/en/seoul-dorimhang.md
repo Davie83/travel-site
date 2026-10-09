@@ -46,10 +46,7 @@ Count what arrives on one table: tuna, amberjack, salmon, mackerel, flounder, sc
 
 **In the evening, unless you move quickly you will not get a table before the first sitting fills.**
 
-Reviews say the same thing repeatedly.
-
-- "Came near opening time on a Saturday and the place filled up fast — book ahead"
-- "Started remote queueing at 6:17 PM on a Friday, was 17th, got in at 7:50 PM"
+On weekends it fills up quickly even near opening time, and on a Friday evening you can wait quite a while even with remote queueing.
 
 Book through **CatchTable**, or put your name into **Tabling** for remote queueing and wait nearby.
 
@@ -63,7 +60,7 @@ So you can **lay rice and a slice of fish on the seaweed and eat it like sushi.*
 
 This post is the **Yeongdeungpo branch**. The **main branch is at 8 Jowon-ro 4-gil, Gwanak-gu**, near Guro Digital Complex.
 
-The main branch has far more reviews (145 against 28), and draws correspondingly bigger crowds. **Check which one you are navigating to.**
+The main branch draws far bigger crowds. **Check which one you are navigating to.**
 
 ## If this is your first visit
 

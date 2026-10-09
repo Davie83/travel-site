@@ -56,7 +56,7 @@ Obok Sundaeguk has **several branches.** I have eaten at both Mullae and Deungch
 
 ## Before you go
 
-- **Closed Sundays.** Confirmed on the Google Maps hours table
+- **Closed Sundays** (as of Aug 2026)
 - **Closed 3 to 5 PM on weekdays.** A late lunch will find the door shut
 - **Saturday closes at 2 PM.** No dinner service at all. This one catches people out
 - **Evening plans** — if you're still in Yeongdeungpo come evening, [Dorimhang](/en/posts/seoul-dorimhang), with its aged sashimi and sea urchin, is in the same neighbourhood

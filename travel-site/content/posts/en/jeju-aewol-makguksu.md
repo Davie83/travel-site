@@ -57,7 +57,7 @@ I want this stated clearly. **That was a personal preference, nothing more. Ever
 
 The perilla oil makguksu tastes like proper perilla oil makguksu. The cold-broth bowl tastes like a proper cold-broth bowl. The pork tastes like proper suyuk. Nothing arrives half-made. **If your route runs along the Aewol coastal road, there is reason enough to stop.**
 
-Too many reviews write a difference in taste as a difference in skill. I wanted to keep those two apart.
+I didn't want to write a difference in taste as a difference in skill, so I kept those two apart.
 
 ## The location works in its favor
 

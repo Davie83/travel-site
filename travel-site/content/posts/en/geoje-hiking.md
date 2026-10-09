@@ -6,7 +6,7 @@ area: geoje
 date: 2026-08-22
 emoji: 🌊
 thumb: assets/img/geoje-hiking.jpg
-excerpt: Windy Hill has over 11,000 Google reviews, and it feels like it. What stayed with me was the walk to get there — bays strung with oyster floats, someone working the tidal rocks, and stretches of sea with nobody in them.
+excerpt: Windy Hill is a famous spot, and it feels like it. What stayed with me was the walk to get there — bays strung with oyster floats, someone working the tidal rocks, and stretches of sea with nobody in them.
 tags: [Geoje, Gyeongsangnam, Windy Hill, Dojangpo, Haegeumgang, hiking, coastal walk, island]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
 info:
@@ -23,13 +23,13 @@ This is about a day spent walking on Geoje, a large island off Korea's south coa
 
 ## The famous spot is busy — start there
 
-Being straight with you first. **Windy Hill has 11,474 Google reviews.**
+Being straight with you first. **Windy Hill is very crowded.**
 
 In the photo you can see the line of people along the ridge by the windmill. It's a good place. **It is not a place to look at the sea alone in silence.**
 
 ![Dojangpo harbour with the Windy Hill windmill above it, and the Haegeumgang cruise boats moored](/assets/img/geoje-hiking.jpg)
 
-The most-mentioned word across those reviews is **"windmill" — 442 times**, then "scenery" at 149. That tells you exactly what people come for, and roughly how many of them are there.
+Everyone comes for **the windmill**, then the scenery. That tells you exactly what people come for.
 
 ## What I remember is the road in between
 
@@ -65,7 +65,6 @@ Cruises leave **Dojangpo harbour for Oedo and Haegeumgang** — those are the wh
 
 - **Runs from 8:30 AM**
 - Bookable online
-- 4.1 from 556 reviews
 
 Boat and walk are different experiences. **With one full day, take the boat in the morning and walk in the afternoon.**
 

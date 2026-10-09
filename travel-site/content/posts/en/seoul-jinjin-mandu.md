@@ -33,7 +33,7 @@ That's the menu, essentially.
 
 Look at the photo: that broth is properly red. **It barely registers as hot.**
 
-Korean reviewers describe it as *"not salty, warming, and clean-tasting"* — the redness is depth, not heat. **If you avoid spicy food, you can order this one.**
+It is *not salty, warming, and clean-tasting* — the redness is depth, not heat. **If you avoid spicy food, you can order this one.**
 
 The reverse is also true: **if you came hoping for real fire, this will feel mild.** That's worth knowing before you choose.
 
@@ -41,13 +41,13 @@ The reverse is also true: **if you came hoping for real fire, this will feel mil
 
 Same dumplings, different liquid.
 
-**Son-mandu sulguk** is the punchy one. The name literally means "drinking soup" — it's built to go with alcohol. Reviews mention it steadily at both branches.
+**Son-mandu sulguk** is the punchy one. The name literally means "drinking soup" — it's built to go with alcohol.
 
 **Son-mandu tteokguk** is the clean ox-bone version, with chewy rice cake slices added. It's a listed favourite at the Assembly branch. This is the one for warming up without any edge to it.
 
 ## The kimchi is good
 
-The **kimchi** served alongside is genuinely good, and it comes up often in reviews — 14 mentions at the Assembly branch.
+The **kimchi** served alongside is genuinely good.
 
 That matters more than it sounds. Dumpling soup is a gentle dish, so the kimchi is doing the sharp, sour work of the meal. A place with dull kimchi serves a duller meal.
 
@@ -60,7 +60,7 @@ Alone, one bowl is the meal. **With company, the order changes.**
 
 Add **a bottle of makgeolli** (cloudy unfiltered rice wine, lightly sweet and fizzy) and you have the combination this restaurant is really for: mild soup, a hot oily pancake, and a cold cloudy drink.
 
-For a bigger group there is **eobok-jeongban**, a Pyongyang-style platter of sliced beef and vegetables in broth. Be warned that it sits in a different price bracket — a reviewer reported ₩89,000 for the medium. It's not a casual add-on to a bowl of soup.
+For a bigger group there is **eobok-jeongban**, a Pyongyang-style platter of sliced beef and vegetables in broth. Be warned that it sits in a different price bracket. It's not a casual add-on to a bowl of soup.
 
 ## Check which branch — this matters
 

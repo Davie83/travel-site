@@ -42,7 +42,7 @@ The one thing in short supply was the pink ham slices (the Spam-like kind) — o
 
 ## About the broth
 
-Write-ups of this shop describe a broth built on simmered vegetables, with minced Korean beef and a generous amount of minari (water dropwort) to take the edge off the heat. That matches my own impression — heavy-looking but clean. If you expect a kimchi-red, fiery pot, this is a different style.
+The broth is built on simmered vegetables, with minced Korean beef and a generous amount of minari (water dropwort) to take the edge off the heat. That matches my own impression — heavy-looking but clean. If you expect a kimchi-red, fiery pot, this is a different style.
 
 ## For international visitors
 

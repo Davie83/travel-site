@@ -43,7 +43,7 @@ The *halmang* in the name is **Jeju dialect for grandmother** — the name means
 
 **I like grilled fish.** For me this place was paradise.
 
-Several whole fish arrive, grilled through. Reviews repeatedly mention that the owner catches the fish himself.
+Several whole fish arrive, grilled through.
 
 And **the side dishes arrive just as generously.** Count the plates and you pass ten. Stir-fried pork in the centre, a seafood pancake below it, lettuce and soybean paste on the right, and everything else is banchan.
 
@@ -53,7 +53,7 @@ And **the side dishes arrive just as generously.** Count the plates and you pass
 
 Also stated plainly. **Overall, the taste is fine — no more than that.**
 
-This is not a restaurant you visit for overwhelming flavour. **Its weapons are the spread, the volume and the price.** Some reviews note the fish and pork run salty. If you are sensitive to salt, lean on the rice.
+This is not a restaurant you visit for overwhelming flavour. **Its weapons are the spread, the volume and the price.** The fish and pork run a little salty. If you are sensitive to salt, lean on the rice.
 
 Set your expectation to **"a proper Korean spread"** rather than "the best food in Jeju", and the meal lands much better.
 
@@ -87,7 +87,7 @@ It fits well as lunch on a day spent circling western Jeju.
 - **The fish is served whole, bones included**
 - **Wrap the meat in lettuce**: lay it on a leaf, add a little soybean paste, fold and eat
 - **Side dishes are free, and rice and soup are refilled on request.** Extra banchan is usually free too
-- **Solo diners are fine** — reviews confirm it
+- **Solo diners are fine**
 - The bottle at the top left of the photo is **soju**. It is ordered separately
 
 ## Go if

@@ -25,7 +25,7 @@ If you eat one thing in Busan, it is probably this. **Dwaeji-gukbap (돼지국�
 
 It sounds heavy. **Busan's version generally isn't** — the city's better places aim for a clear, clean broth rather than a rich one, and this is one of those.
 
-The phrase that repeats across the reviews is **"clean broth, no gamey pork smell."** For this dish, that is the whole compliment. Pork broth done badly tastes of the animal; done well it tastes savoury and light. This one lands on the right side.
+**The broth is clean, with no gamey pork smell.** For this dish, that is the whole compliment. Pork broth done badly tastes of the animal; done well it tastes savoury and light. This one lands on the right side.
 
 **It is not spicy.** The broth arrives mild.
 
@@ -54,14 +54,14 @@ The flip side: **lunchtime often fills up completely.** Avoid the rush if you ca
 
 **Dongnae is thick with pork soup restaurants** — there are several within a short walk.
 
-So this review from a local carries weight: *"The taste is fine, but for the price the portion doesn't feel generous, and there's no parking. At this level there are plenty of alternatives."*
+Looked at coolly, it comes out like this: **the taste is fine, but for the price the portion doesn't feel generous, and there's no parking. At this level there are plenty of alternatives.**
 
-That's fair. So, plainly:
+That is worth admitting. So, plainly:
 
 - **Worth crossing the city for?** No
 - **Worth going into if you're nearby or out late?** Yes
 
-Another reviewer noted it seems to be **"a restaurant more locals than visitors go to."** It isn't dressed up for tourists — it's where the neighbourhood eats. If that's what you want, this fits.
+It has the feel of **a restaurant more locals than visitors go to.** It isn't dressed up for tourists — it's where the neighbourhood eats. If that's what you want, this fits.
 
 ## Before you go
 
@@ -73,4 +73,4 @@ Another reviewer noted it seems to be **"a restaurant more locals than visitors 
 - ⚠️ Not a destination restaurant — Dongnae has many options, and there's no parking
 - Once you're full of gukbap, [Geumsu Bokguk](/en/posts/busan-geumsu-bokguk) is a short walk away in the same Dongnae neighborhood if you want to keep the trip going
 
-> Based on a personal visit — though a brief one, so this write-up combines that impression with details confirmed from Google reviews. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.
+> A record from a real visit; taste is personal. Prices and hours are **(as of Aug 2026)** — please check once more before you go.

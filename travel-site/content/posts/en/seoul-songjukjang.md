@@ -58,13 +58,13 @@ Only what I could actually read on the menu card:
 - **Soju and beer ₩5,000 each**, Tsingtao ₩8,500
 - Yantai *gaoliang* liquor ₩14,000 / 24,000 / 43,000 by size
 
-Jjamppong runs about ₩11,000 and the fried dumplings about ₩9,500, per Diningcode's listing — worth a quick check on-site since prices shift.
+Jjamppong runs about ₩11,000 and the fried dumplings about ₩9,500 (as of Aug 2026) — worth a quick check on-site.
 
 Worth knowing: Korean law requires restaurants to post ingredient origins, and this menu does — rice from Korea, kimchi and chilli powder from China, shrimp from Vietnam, scallops from China.
 
 ## The honest bottom line
 
-The Google rating is **3.8.** This is not a queue-around-the-block destination. It is **a long-running neighbourhood Chinese restaurant** that happens to do jjamppong and fried dumplings very well.
+This is not a queue-around-the-block destination. It is **a long-running neighbourhood Chinese restaurant** that happens to do jjamppong and fried dumplings very well.
 
 So the honest framing is not "travel across Seoul for this." It is **"you're near Yeongdeungpo and you want spicy noodles"** — and then it is exactly right.
 

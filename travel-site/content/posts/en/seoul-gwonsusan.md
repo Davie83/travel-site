@@ -68,7 +68,7 @@ Beyond the main hall, there are **separate private rooms.**
 
 Yeouido runs on business meals, and this restaurant is set up for them. The lunch course is called **teuk-hoe-jeongsik (특회정식)**, and it works for occasions where you need to look after someone properly. It is a popular order here.
 
-One reviewer listed the sequence in full:
+The sequence runs like this:
 
 > aged sashimi → clam soup → corn cheese → poached octopus → live octopus → sea cucumber and sea squirt → seasoned squid → soy-marinated crab → grilled mackerel → fried spring rolls → spicy fish stew (full of roe)
 
@@ -76,7 +76,7 @@ Eleven courses, served in order. That is more than enough for hosting someone.
 
 ## Book ahead
 
-**Reservations go through CatchTable**, and Google Maps shows a booking button directly.
+**Reservations go through CatchTable.**
 
 Yeouido fills up fast at lunch. If you want one of the private rooms, booking is essentially required.
 

@@ -57,7 +57,7 @@ Yeouido is an office district, so a lot of places pack out at lunch — but this
 
 - **Location** — Yeouido, Yeongdeungpo-gu, Seoul. There may be other branches, so check which one on the map before you go.
 - **Ordering** — if you can't take heat, choose a milder noodle or rice dish instead of the jjamppong, and have the kkanpung shiitake alongside.
-- **Prices · hours · closing day** — hours run weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) and weekends 10:50 AM–8:30 PM, with no regular closing day found (per Diningcode, as of Sep 2026). Dish prices vary by order — check the menu on-site, and it's still worth a quick check before you go since this can shift.
+- **Prices · hours · closing day** — hours run weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) and weekends 10:50 AM–8:30 PM, with no regular closing day (as of Sep 2026). Check dish prices on the menu on-site.
 - **Nearby** — still in Yeouido, [Beyond Vietnam (National Assembly branch)](/en/posts/seoul-beyond-vietnam) is an easy walk if you're craving pho for lunch instead.
 
-> This post is a write-up of a visit in person. The heat level and taste are a matter of personal preference, prices, hours and closing day are based on Diningcode's listing, and the menu may vary by branch — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> This post is a write-up of a visit in person. The heat level and taste are a matter of personal preference, and the menu may vary by branch — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

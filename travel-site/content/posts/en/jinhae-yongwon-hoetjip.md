@@ -64,7 +64,7 @@ This is **Yongwon in Jinhae.** Administratively it is Jinhae-gu, Changwon, Gyeon
 - It is actually easier to reach from western Busan than from central Changwon
 - Not far from Gimhae Airport either
 
-A good place to attach to a Busan itinerary — but one thing to watch for: there are **two places called Yongwon Hoetjip** in Yongwon-dong. This post is the one at **242-6 Yongwon-dong-ro**, rated 4.2 with 81 reviews. Check the address when you navigate.
+A good place to attach to a Busan itinerary — but one thing to watch for: there are **two places called Yongwon Hoetjip** in Yongwon-dong. This post is the one at **242-6 Yongwon-dong-ro**. Check the address when you navigate.
 
 ## Things that may feel unfamiliar
 

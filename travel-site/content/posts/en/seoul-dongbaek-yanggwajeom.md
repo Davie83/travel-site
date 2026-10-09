@@ -24,7 +24,7 @@ A café inside a restored *hanok* — a traditional Korean house — in the Ikse
 
 Soufflé pancakes are **cooked to order, after you sit down.** They cannot be made in advance — a soufflé that has been sitting collapses.
 
-So the delay isn't the kitchen being slow; it's the mechanics of the dish itself. The review data further down makes that plain.
+So the delay isn't the kitchen being slow; it's the mechanics of the dish itself.
 
 **Don't slot this into a tight itinerary.** Budget sitting-and-waiting time deliberately.
 
@@ -44,16 +44,7 @@ Around ₩10,000–20,000 per person. For a café dessert in Seoul, that's on th
 
 **The space is genuinely good.** A converted hanok, with the texture of the Ikseon-dong alleys intact around it.
 
-You can see what this café actually sells in the words its 852 Google reviewers reach for most:
-
-| Most mentioned | Count |
-|---|---|
-| Strawberry | 81 |
-| **Wait** | 40 |
-| **Photos** | 15 |
-| **Hanok** | 14 |
-
-Waiting, photos and the building all rank above any discussion of flavour. That's the honest profile of the place.
+What stands out here is **the wait, the photos and the hanok** before any talk of flavour. That's the honest profile of the place.
 
 ## Bottom line
 

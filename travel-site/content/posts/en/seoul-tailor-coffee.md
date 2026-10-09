@@ -48,9 +48,9 @@ Coffee taste splits people, and acidity splits them most sharply of all — some
 
 Even so, **if you are nearby, it is worth stopping in for one cup.** This is less a place to travel across the city for, and more **a good place to know about when you are already in that area.**
 
-**There are not many tables.** Some reviews call that a plus — it never feels crowded — but it also means you may not get a seat.
+**There are not many tables.** That can be a plus — it never feels crowded — but it also means you may not get a seat.
 
-The location is good. The **Bank of Korea Money Museum** is right there, and Shinsegae main store, Namdaemun Market and Myeongdong are all within walking distance. One review says the view out of the window feels European. Walk on toward the market and you'll hit [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), which only serves its sashimi set at weekday lunch — worth timing your coffee around.
+The location is good. The **Bank of Korea Money Museum** is right there, and Shinsegae main store, Namdaemun Market and Myeongdong are all within walking distance. The view out of the window feels European. Walk on toward the market and you'll hit [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), which only serves its sashimi set at weekday lunch — worth timing your coffee around.
 
 It works well as **somewhere to sit for a while** in the middle of a Myeongdong walk.
 

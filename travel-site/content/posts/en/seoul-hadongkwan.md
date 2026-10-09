@@ -41,13 +41,13 @@ Eat it plain for a while. Then **ask for extra brine from the radish kimchi (*kk
 
 **One bowl, two different soups.** Don't do it at the start; taste the clear broth properly first, then switch.
 
-This isn't a tourist gimmick — across the reviews, **kkakdugi is mentioned 69 times**, second only to the soup itself. Locals do this. Nobody will think you're eating it wrong.
+This isn't a tourist gimmick — **the kkakdugi is the second pillar of the meal**, after the soup itself. Locals do this. Nobody will think you're eating it wrong.
 
 ## It opens at 7:00 AM
 
 Gomtang is traditionally a **breakfast** dish in Korea, and this place is used that way. Arriving early means an easy seat.
 
-Reviewers note food arriving **within a minute of ordering.** It is fast.
+Food arrives **within a minute of ordering.** It is fast.
 
 The flip side: **service is brisk and impersonal.** This is not a place for a warm welcome — it's a working old restaurant where you eat and go.
 
@@ -59,9 +59,7 @@ A basic bowl is **₩19,000**, and the tier called **"25" is ₩25,000.** For a 
 
 Hadongkwan names its dishes **by price** — "25" simply means the ₩25,000 version. Ask in store what changes between tiers; there is also an **offal-mixed** option.
 
-> Google Maps still lists this restaurant at ₩10,000–20,000. The real prices are above that.
-
-This is where the ratings suffer. **"Good, but small portions for the price"** comes up repeatedly at both Myeongdong and Yeouido. The Myeongdong original sits at 3.6 — not because of the cooking, but because of this.
+This is where opinions split. **Some will find it good, but small in portion for the price** — and that, more than the cooking, is the sticking point.
 
 So, honestly:
 
@@ -76,7 +74,7 @@ One thing to know in advance: **the broth does not arrive piping hot.** It comes
 
 **Myeongdong and Yeouido** — and note that **Yeouido has two**, which is easy to get wrong.
 
-- **Yeouido main branch** — 3 Eunhaeng-ro, by National Assembly Station Exit 3. With 1,279 reviews, this is the busier of the two
+- **Yeouido main branch** — 3 Eunhaeng-ro, by National Assembly Station Exit 3. This is the busier of the two
 - **Yeouido Station branch** — 50 Yeouinaru-ro
 - **Myeongdong original** — 12 Myeongdong 9-gil, near Euljiro 1-ga Station and Myeongdong Cathedral. **This is the one that fits a sightseeing day**, and it takes reservations through the CatchTable app
 

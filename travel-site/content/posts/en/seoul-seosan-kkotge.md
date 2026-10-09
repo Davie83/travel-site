@@ -25,7 +25,7 @@ Two things, and they matter more than anything else in this article.
 
 **One: the crab is raw.** *Ganjang gejang* (간장게장) is raw blue crab cured in soy sauce — not cooked, not steamed. It is a beloved Korean dish, but if raw shellfish is a hard no for you, skip this one.
 
-**Two: you need a reservation.** This restaurant seats booked guests. Walk-ins are seated **only if a table happens to be free.** Booking is available through the reservation button on its Google Maps listing.
+**Two: you need a reservation.** This restaurant seats booked guests. Walk-ins are seated **only if a table happens to be free.** Make the booking before you go.
 
 ## How the visit works
 
@@ -33,7 +33,7 @@ You arrive at your booked time, they check your name, and you are led to **a tab
 
 The flip side: **service is brisk.** Do not come expecting warmth from the staff. Read it as a consequence of how the place runs rather than rudeness.
 
-There is also **no menu to choose from** — one set meal, the *ganjang gejang* set. One Chinese-language reviewer summed it up: no choices, just marinated crab plus side dishes. In practice this is convenient if you don't read Korean. You sit down, and food arrives.
+There is also **no menu to choose from** — one set meal, the *ganjang gejang* set. No choices, just marinated crab plus side dishes. In practice this is convenient if you don't read Korean. You sit down, and food arrives.
 
 ## The set is the real reason to come
 
@@ -50,7 +50,7 @@ What's in the photo:
 - **Jeon** — savoury pancakes
 - **Spinach, perilla leaves, pickled cucumber, seasoned tofu skin, water kimchi, dried seaweed**
 
-Across 609 reviews, **"side dishes" is mentioned 54 times** — second only to "soy sauce" at 56. One reviewer wrote that the side dishes were better than the crab. That matches my own impression.
+**The side dishes are better than the crab itself.** That is my own impression.
 
 For a Korean restaurant, this is a **hanjeongsik**-style spread: many small dishes arriving together rather than one big plate. If that style of eating appeals to you, this delivers it.
 
@@ -77,7 +77,7 @@ There is a technique, and it's worth knowing.
 
 ## Practical notes
 
-- **Parking** is mentioned 17 times in reviews — check ahead (as of Aug 2026)
+- **Parking** — check ahead (as of Aug 2026)
 - **Lunch runs 11:50am–2:30pm, dinner 5:30–8pm** (break 2:30–5:30pm, as of Sep 2026). No regular closing day turned up in a check
 - **Delivery** is available
 - **Dessert** — being in Dohwa-dong, finishing with coffee at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a cafe in a converted old house, is an easy add-on

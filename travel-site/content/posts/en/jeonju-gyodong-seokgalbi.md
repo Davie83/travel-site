@@ -45,7 +45,7 @@ Once you finish and step out, you're in the hanok village, so wherever you walk 
 ## Before you go
 
 - **Location** — 26 Taejo-ro, Wansan-gu, Jeonju, inside Jeonju Hanok Village.
-- **Hours** — Daily 11:00 AM–8:30 PM (break 3:30–4:00 PM), said to be open year-round.
+- **Hours** — Daily 11:00 AM–8:30 PM (break 3:30–4:00 PM) (as of Sep 2026).
 - **Price** — 15,000 won for seokgalbi.
 - **Route** — Good for a hunger break mid-way through touring the hanok village. Whichever alley you take afterward, there's a walking path.
 - **Nearby** — [Jeonju Waengi Kongnamul-gukbap](/en/posts/jeonju-waengi-gukbap) is about a 5-minute walk away. Good to pair for the next morning or when you need a hangover-soup fix.

@@ -23,11 +23,11 @@ info:
 
 *Jjajangmyeon* is wheat noodles in a thick black sauce made from fermented black bean paste, and it is one of the most-eaten dishes in Korea. It grew out of Chinese immigrant cooking in Incheon and became **its own Korean thing** — if you know Chinese *zhajiangmian*, this is sweeter, darker and glossier.
 
-Almost every neighbourhood in Korea has a cheap version. **This place is the opposite end of that scale** — a Korean-Chinese restaurant on the second floor of TP Tower in Yeouido, with **4.9 across 2,993 reviews.** That is a high score on a sample large enough to mean something.
+Almost every neighbourhood in Korea has a cheap version. **This place is the opposite end of that scale** — a Korean-Chinese restaurant on the second floor of TP Tower in Yeouido. It is built to be served properly, not cheaply.
 
 ## The signature: steak and truffle jjajangmyeon
 
-**This is the dish to come for.** The most-mentioned word across those 2,993 reviews is *jjajangmyeon* (1,352 times), and the second is *truffle* (930).
+**This is the dish to come for.** Jjajangmyeon with truffle is the heart of the menu.
 
 Thin slices of **black truffle** go on top of the black bean sauce, with thick pieces of steak through it. They are not stingy with the truffle — the aroma genuinely comes up at you.
 
@@ -35,13 +35,13 @@ Thin slices of **black truffle** go on top of the black bean sauce, with thick p
 
 ## The chilli fried chicken (*gochu yurinji*)
 
-The other headline dish, third-most mentioned at 754 times.
+The other headline dish.
 
 Crisp fried chicken arrives **buried under a mountain of finely sliced green and red chilli.** It looks alarming in photos.
 
 > **These are the mild kind of chilli. This is not a spicy dish.** Korea uses both mild chillies and the genuinely fiery *cheongyang* type, and this is the former. The chilli is here for aroma and crunch, to cut the fat of the frying — not for heat. **If you avoid spicy food, you can still order this.**
 
-Easy to skip because of how it looks. It is the third most-mentioned dish in the reviews.
+Easy to skip because of how it looks. It is one of the headline dishes here.
 
 ## How to order
 
@@ -50,7 +50,7 @@ Easy to skip because of how it looks. It is the third most-mentioned dish in the
 - **Order two or three mains and share.** This is the right way. Ordering one dish means seeing half of what the kitchen does
 - **Look at the set menus.** They are reasonable value — better than ordering the same dishes à la carte
 
-Beyond the noodles and chicken, reviewers often mention **menbosha** (274 times) — deep-fried shrimp toast — plus **chadol jjamppong** (spicy seafood-and-beef noodle soup, described as unusually thick) and **mapo tofu served in an earthenware pot.**
+Beyond the noodles and chicken, look at **menbosha** — deep-fried shrimp toast — plus **chadol jjamppong** (spicy seafood-and-beef noodle soup, with an unusually thick broth) and **mapo tofu served in an earthenware pot.**
 
 ## On price
 
@@ -62,7 +62,7 @@ Budget **₩20,000–50,000 per person.** The range is wide because it depends e
 
 ## Booking, location, and the small stuff
 
-**Treat booking as compulsory.** Even a weekday evening fills up. Google Maps shows a **booking button** on the listing — use it before you go.
+**Treat booking as compulsory.** Even a weekday evening fills up. Make the booking before you go.
 
 The restaurant also posted an event offering **three kinds of handmade dim sum to customers who reserve** — but it excludes same-day bookings and says it may end early, so **whether it is still running is (as of Aug 2026).**
 

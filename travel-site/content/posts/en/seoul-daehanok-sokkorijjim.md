@@ -38,7 +38,7 @@ The real move here comes after you've finished the meat. **Once the meat is gone
 
 ## Prices seem to keep climbing
 
-**Honestly, every time I go, it feels like prices have crept up again.** This isn't a cheap old-school spot. I've noted the current figures per Diningcode, but prices change often enough that it's worth checking the menu again on-site.
+**Honestly, every time I go, it feels like prices have crept up again.** This isn't a cheap old-school spot. I've noted the current figures (as of Sep 2026), but it's worth checking the menu again on-site.
 
 ## The portion, though, always feels a touch short
 
@@ -52,7 +52,7 @@ The nearest subway station is **Yeongdeungpo Station (Line 1)**, about a 10-minu
 
 ## Checklist before you go
 
-- **Closed Sundays and Mondays.** Confirmed via Diningcode
+- **Closed Sundays and Mondays** (as of Sep 2026)
 - **Closes at 8:40 PM (last order 7:40 PM).** Leave enough time if it's a late dinner
 - **A wait at meal times is standard.** Aim for an off-peak slot or budget extra time
 - **Prices keep shifting.** Worth a re-check on the menu board

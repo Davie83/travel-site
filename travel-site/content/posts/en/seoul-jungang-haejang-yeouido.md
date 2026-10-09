@@ -37,7 +37,7 @@ Jungang Haejang seems to have opened branches in a few places lately. **I first 
 
 ## What the pot looks like
 
-The so-gopchang jeongol (beef-intestine hot pot) is built at the table: beef gopchang topped with vegetables and mushrooms — shiitake, enoki, crown daisy and carrot, as in the photo above — plus a seasoning paste, then boiled until it bubbles. Write-ups describe it as packed with fat-rich gopchang. The Yeouido menu lists the **medium (中) size at ₩67,000** (as of Sep 2026), so choose the size by head count. If gopchang is new to you, the ₩14,000 hanwoo blood-curd haejangguk (hangover soup) is an easier first bowl.
+The so-gopchang jeongol (beef-intestine hot pot) is built at the table: beef gopchang topped with vegetables and mushrooms — shiitake, enoki, crown daisy and carrot, as in the photo above — plus a seasoning paste, then boiled until it bubbles. It is packed with fat-rich gopchang. The Yeouido menu lists the **medium (中) size at ₩67,000** (as of Sep 2026), so choose the size by head count. If gopchang is new to you, the ₩14,000 hanwoo blood-curd haejangguk (hangover soup) is an easier first bowl.
 
 ## Main branch and Yeouido branch
 

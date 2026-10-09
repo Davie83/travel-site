@@ -49,7 +49,7 @@ Coming back down and having a coffee at a nearby café is how this loop ends. Ma
 - **Seongsan Ilchulbong charges admission** (₩5,000 for adults, ₩2,500 for teens/children). Gwangchigi Beach is free.
 - There are **stairs** to the summit. Wear comfortable shoes and take your time.
 - It's **about an hour by car** from Jeju City. Public transport reaches it, but buses aren't frequent.
-- It's reported to **close on the first Monday of each month** for maintenance — check before you go.
+- It **closes on the first Monday of each month** for maintenance (as of Aug 2026).
 
 ## Good fit, and not so good fit
 

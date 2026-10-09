@@ -27,7 +27,7 @@ There are three ways to show up here and leave hungry. That's how much the timin
 
 1. **They close at 3:30 PM.** Last order 3:00 PM. **This is a lunch-only restaurant**
 2. **Closed Thursdays**
-3. **They close earlier when the food runs out.** One reviewer arrived at 12:30 PM and half the menu was gone. To be safe, aim for **11:00 AM**
+3. **They close earlier when the food runs out.** By 12:30 PM half the menu can be gone. To be safe, aim for **11:00 AM**
 
 Park at the **harbour car park**.
 

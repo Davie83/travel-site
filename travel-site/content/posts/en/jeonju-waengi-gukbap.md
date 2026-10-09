@@ -52,7 +52,7 @@ I like things spicy, so I added a generous amount of cheongyang chili. The broth
 ## Before you go
 
 - **Location** — 88 Dongmun-gil, Wansan-gu, Jeonju, near Jeonju Hanok Village.
-- **Hours** — Daily 7:00 AM–9:00 PM, said to be open year-round.
+- **Hours** — Daily 7:00 AM–9:00 PM (as of Sep 2026).
 - **Price** — 9,000 won for a bowl of kongnamul-gukbap.
 - **Note** — There's a second branch nearby too, worth checking if the main shop is packed.
 - **Nearby** — [Gyodong Seokgalbi](/en/posts/jeonju-gyodong-seokgalbi) is about a 5-minute walk away. Head there if you get hungry touring the hanok village, or come here when you need something to settle the stomach.

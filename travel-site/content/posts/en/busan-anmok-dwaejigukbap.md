@@ -44,7 +44,7 @@ Decide before it arrives. It is not something you can change halfway through.
 
 ## Bib Gourmand, and the Seoul branches
 
-**Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**, for the second year running, verifiable on Michelin's own site. Bib Gourmand is not a star. It marks **good food at a reasonable price** — exactly the point of putting it on a 10,000 won bowl of pork soup.
+**Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**, for the second year running. Bib Gourmand is not a star. It marks **good food at a reasonable price** — exactly the point of putting it on a 10,000 won bowl of pork soup.
 
 **Several branches have opened in Seoul recently** — Yeoksam in Gangnam, Jamsil, Seongsu. So you do not have to travel to Busan for it. If your trip is Seoul-only, **eat at whichever branch is closest.** Save the Busan original for a day when you are going to Gwangalli anyway. For reference, within Busan the **Seomyeon branch actually scores higher** on Google — 4.9 from 805 reviews, against 4.5 here.
 
@@ -53,10 +53,10 @@ Decide before it arrives. It is not something you can change halfway through.
 **Dwaeji gukbap is Busan's signature dish** — pork bone broth with rice and pork.
 
 - **It is not spicy** as served
-- **You season it yourself.** Salted shrimp or the red minced seasoning (in the photo) adjust it. The **Michelin inspector's note suggests trying it with nothing added first** — take a spoonful plain before you touch anything
+- **You season it yourself.** Salted shrimp or the red minced seasoning (in the photo) adjust it. I suggest **trying it with nothing added first** — take a spoonful plain before you touch anything
 - **Add the chives.** The raw garlic chives in the photo go into the soup and lift the whole thing. That is the Busan way
 - ✅ Good if it's your first dwaeji gukbap, you want a deep broth that isn't heavy, you're around Gwangalli or Namcheon, you can't handle spicy food, or you're alone but want both soup and pork (get the solo set)
-- ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. Reviews mention queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
+- ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. There have been queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
 - If you want to compare Busan-style dwaeji gukbap, I also wrote up [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) over in Dongnae
 
 > Written after an actual visit. Hours and prices can change, so anything unconfirmed is marked **(as of Aug 2026)**.

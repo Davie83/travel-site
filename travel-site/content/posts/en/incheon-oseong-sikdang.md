@@ -25,7 +25,7 @@ The day my regular shad restaurant turned out to be closed, I walked into the sh
 
 I went to **Geumsan Sikdang** nearby for years. This time it was closed, so I tried Oseong next door — and **found the dressing here had more savoury depth.** I'll be coming back to this one.
 
-That's a preference, not a verdict. Geumsan has 1,461 Google reviews and is the street's landmark; Oseong has 66. **The famous one and the one that suited my palate turned out to be different shops.**
+That's a preference, not a verdict. Geumsan is the street's landmark. **The famous one and the one that suited my palate turned out to be different shops.**
 
 ## Turns out the whole street serves the same thing
 

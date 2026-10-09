@@ -42,7 +42,7 @@ That balance matters here. A thin broth with slack noodles would be forgettable;
 
 Here is the practical part: **if the broth tastes flat to you, eat it with the kimchi.** That's what brings it into balance.
 
-This isn't just my impression. Across 725 Google reviews of this place, the single most-mentioned word is **kimchi** — 62 mentions, at a noodle shop.
+Here **the kimchi is not really a side dish — it is half of the table.** It is a noodle shop, but the kimchi matters that much.
 
 Treat the bowl and the kimchi as one dish rather than a main and a side, and the meal makes sense. It's worth knowing more generally that with kongguksu, **seasoning to taste is normal and expected** — adding salt yourself is not an insult to the kitchen. Some Koreans add sugar instead, which is a genuine regional split and not a mistake either.
 
@@ -50,7 +50,7 @@ Treat the bowl and the kimchi as one dish rather than a main and a side, and the
 
 - **Where** — Doma-dong, Seo-gu. A little out from the Dunsan city centre.
 - **Opens 11:30 AM.** Not a breakfast option.
-- **Busy** — 725 reviews on a neighbourhood noodle shop tells you something. Expect a wait at meal times; weekend afternoons around 2–3 PM tend to be quieter.
+- **Busy** — Expect a wait at meal times; weekend afternoons around 2–3 PM tend to be quieter.
 - **Parking** — a back-street location; don't count on it.
 - **Language** — a local shop, no English menu expected. Pointing works.
 - ✅ Good if you want a light, drinkable version rather than a heavy one, you've found kongguksu too thick or pasty before, or you want a proper meal for under ₩10,000

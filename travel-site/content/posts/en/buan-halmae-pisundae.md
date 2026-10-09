@@ -26,7 +26,7 @@ Korean *sundae* is usually described in English as "blood sausage," but the comm
 
 ## So how does it actually smell
 
-This is the thing reviewers of this place disagree about most. Some say it smells too much of pork. Others say that smell is the point and its absence would mean something was done to strip it out.
+This is where opinions on this place split most. Some say it smells too much of pork. Others say that smell is the point and its absence would mean something was done to strip it out.
 
 **In my experience there was almost none** — far less than the appearance suggested.
 
@@ -44,7 +44,7 @@ The broth is good too: long-simmered, and it belongs with the sausage rather tha
 
 **Service starts at 7:00 AM.** Sundae soup in Korea is breakfast food and hangover food, so the early hours are normal rather than unusual. Buan sits on the route toward the Byeonsan peninsula and the Saemangeum seawall, so if you're setting out early, this works as a first meal of the day.
 
-The words that recur across its 737 Google reviews are **sundae-guk (66), cauldron (30), makchang (20)**. That tells you the kind of place it is: not technique-driven, but ingredients simmered a long time in a large pot. Don't come looking for refinement. Come when refinement is exactly what you don't want.
+This place centres on **sundae-guk, the cauldron and makchang**. That tells you the kind of place it is: not technique-driven, but ingredients simmered a long time in a large pot. Don't come looking for refinement. Come when refinement is exactly what you don't want.
 
 ## Before you go
 

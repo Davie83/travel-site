@@ -38,16 +38,7 @@ If your idea of a good bibim noodle is a heavy, punchy sauce, this may read as u
 
 ## Order a mung bean pancake with it
 
-The words that recur across 1,743 Google reviews show how people actually eat here:
-
-| Most mentioned | Count |
-|---|---|
-| Bibim | 146 |
-| **Mung bean pancake** | 102 |
-| Traditional | 58 |
-| **Dumplings** | 46 |
-
-**The pancake ranks second, right after the noodles themselves.** This isn't a one-bowl-and-out place — people add a savoury pancake or dumplings to the table.
+**The mung bean pancake is the usual companion to the noodles.** This isn't a one-bowl-and-out place — people add a savoury pancake or dumplings to the table.
 
 A bowl of cold buckwheat noodles alone is light. With two or more people, add the *bindaetteok*.
 
@@ -55,7 +46,7 @@ A bowl of cold buckwheat noodles alone is light. With two or more people, add th
 
 - **Where** — Galmal-eup, Cheorwon. This is close to the DMZ border area, and pairs naturally with Goseokjeong or the Hantangang river gorge.
 - **Opens 11:00 AM.** Lunch onwards only.
-- **Busy** — 1,743 reviews for a countryside noodle house. Expect a wait at weekend lunch.
+- **Busy** — Expect a wait at weekend lunch.
 - **Mul vs bibim** — I had the bibim. Some regulars prefer the cold-broth version; both are standard.
 - **Language** — rural restaurant, no English menu expected.
 - ✅ Good if you want to taste **buckwheat noodles themselves** rather than a sauce, prefer restrained seasoning, or need lunch on a Cheorwon or Hantangang day

@@ -46,10 +46,6 @@ You tip the vegetables into the rice and mix with gochujang. **Go easy on the go
 
 The paper placemat carries a Joseon-era poem called Namsan Palyeong. Mokmyeok is the old name for Namsan.
 
-## It was once on Michelin's list
-
-**It is said to have been listed in the Michelin Guide around 2017-2019.** It does not appear in Michelin's current listings. Treat it as past history, nothing more — the reason to come is the vegetable bibimbap itself, not the old title.
-
 ## Notes for visitors from abroad
 
 **If you want to eat a proper Korean bibimbap once, this is a reasonable place to do it.**

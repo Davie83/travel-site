@@ -55,7 +55,7 @@ As the photo shows, there are times when it gets busy. At peak times you'll queu
 - **Location** — Cheongho-dong, Sokcho, Gangwon State, at the pier between central Sokcho and Abai Village.
 - **Tickets** — one-way tickets are available, so you can ride one way and walk the other.
 - **Timing** — as the photo shows, some times get busy; visiting with time to spare means less waiting.
-- **Hours · fares · closing day** — per Sokcho City Facilities Corporation: runs 05:00-23:00 May-Oct, 05:30-22:30 Nov-Apr; one-way fare 500 KRW for adults, 300 KRW for children. Service may pause for holidays or bad weather, so check before you go.
+- **Hours · fares · closing day** — as of Sep 2026: runs 05:00-23:00 May-Oct, 05:30-22:30 Nov-Apr; one-way fare 500 KRW for adults, 300 KRW for children. Service may pause for holidays or bad weather, so check before you go.
 - **Nearby** — after the ferry, it's an easy walk on to [Sokcho Beach](/en/posts/sokcho-beach), with its sculpture and Ferris wheel.
 
 > Written up after riding it myself. Impressions can vary from person to person, and hours or fares can shift with the season and weather — please check the latest information once more before you go. Fees and hours are **(as of Sep 2026)**.

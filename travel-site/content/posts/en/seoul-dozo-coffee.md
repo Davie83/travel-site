@@ -53,7 +53,7 @@ It fits neatly into a walk around **Donuimun Museum Village and Gyeonghuigung Pa
 
 ## Set expectations honestly
 
-The Google rating is 4.7, but that is **from three reviews.** The shop opened only a few months ago, so there isn't a real track record yet. Don't read that number as "verified."
+The shop opened only a few months ago, so there isn't a real track record yet. Treat it as **not yet proven** and drop in lightly.
 
 Prices start at **₩5,000**, rising with the bean and the cup you choose. That is roughly chain-cafe territory at the bottom end, which makes the tray service good value.
 

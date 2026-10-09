@@ -26,8 +26,6 @@ The place that comes to mind when **you want pho.**
 
 Here's the interesting part: Korean diners describe it as tasting like **"clear gomtang."** They're right. Beef simmered for hours and drawn off clear is exactly what [Naju gomtang](naju-gomtang-hayanjip) and [Hadongkwan](seoul-hadongkwan) do — so if you've had those, you'll recognise the family resemblance immediately. That's also why it's an easy recommendation for an older relative trying pho for the first time.
 
-One reviewer who had just come back from Vietnam said the interior and the pho both felt like the real thing.
-
 ## Why eat Vietnamese food in Seoul, anyway
 
 Korea has a large Vietnamese community, and **pho is genuinely part of everyday eating here** — not a novelty. If you're in Seoul for two or three days, spend them on Korean food. But if you're here longer, or you've had three straight days of grilled pork and want a clear, light bowl, this is a good use of a meal.
@@ -56,7 +54,7 @@ A little further toward Yeongdeungpo, [Dorimhang](/en/posts/seoul-dorimhang) ser
 
 ## Vietnamese iced coffee
 
-Reviews keep mentioning **condensed milk**, which means they're doing *cà phê sữa đá* — dark coffee poured over condensed milk and ice. Very sweet, very strong. A good full stop after the noodles.
+They make **condensed-milk coffee**, *cà phê sữa đá* — dark coffee poured over condensed milk and ice. Very sweet, very strong. A good full stop after the noodles.
 
 ## Who this suits
 

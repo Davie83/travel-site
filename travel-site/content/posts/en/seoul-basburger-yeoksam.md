@@ -35,11 +35,11 @@ The space added to it too — pink tile counter, a neon sign glowing on the bric
 
 ## How to read the menu
 
-The signature **Bas Burger** comes as single ₩8,200, double ₩11,900 or triple ₩15,600 — the number climbs with the patty count (names like these usually refer to the number of patties). For a lighter start there is the sriracha cheeseburger (₩7,300), and for something different the wasabi-mayo shrimp burger (₩10,900) (as of Sep 2026). Write-ups and reviews often mention that **the patty isn't salty and the bun is soft**, and the **basic potato chips are refillable**.
+The signature **Bas Burger** comes as single ₩8,200, double ₩11,900 or triple ₩15,600 — the number climbs with the patty count (names like these usually refer to the number of patties). For a lighter start there is the sriracha cheeseburger (₩7,300), and for something different the wasabi-mayo shrimp burger (₩10,900) (as of Sep 2026). **The patty isn't salty and the bun is soft**, and the **basic potato chips are refillable**.
 
 ## Down to the basement
 
-From Exit 3 of Yeoksam Station, turn into Teheran-ro 26-gil and you'll find it on the **first basement floor of the Seongbo Building**. Reviews describe a half-basement feel, so put the address (10 Teheran-ro 26-gil) into your map app and you won't get turned around. Last order is early — 8:30 PM on weekdays, 8:00 PM on weekends — so avoid coming late in the evening. It pairs well with [L'OISEAU Yeoksam](/en/posts/seoul-loiseau-yeoksam) or [Terarosa Yeoksam Station](/en/posts/seoul-terarosa-yeoksam) for a daytime route in the same neighborhood.
+From Exit 3 of Yeoksam Station, turn into Teheran-ro 26-gil and you'll find it on the **first basement floor of the Seongbo Building**. It has a half-basement feel, so put the address (10 Teheran-ro 26-gil) into your map app and you won't get turned around. Last order is early — 8:30 PM on weekdays, 8:00 PM on weekends — so avoid coming late in the evening. It pairs well with [L'OISEAU Yeoksam](/en/posts/seoul-loiseau-yeoksam) or [Terarosa Yeoksam Station](/en/posts/seoul-terarosa-yeoksam) for a daytime route in the same neighborhood.
 
 ## Notes for travellers
 

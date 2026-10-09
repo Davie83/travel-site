@@ -6,7 +6,7 @@ area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
-excerpt: A clean-tasting beef broth and notably tender boiled brisket. With 5,790 reviews it draws a queue — but it opens at 8am and takes app bookings, which solves most of that.
+excerpt: A clean-tasting beef broth and notably tender boiled brisket. It draws a queue — but it opens at 8am and takes app bookings, which solves most of that.
 tags: [Jeolla, Naju, gomtang, beef soup, suyuk, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:
@@ -20,11 +20,11 @@ info:
 
 *Naju gomtang* is one of the few Korean dishes named after the town that makes it. **Hayanjip is the restaurant most associated with it.**
 
-## What 5,790 reviews reveal
+## The kkakdugi matters as much as the soup
 
-Across 5,790 Google reviews, the single most-mentioned word is **kkakdugi — 189 times.** That's the cubed radish kimchi, and it outranks any discussion of the soup itself.
+Here **kkakdugi** is impossible to leave out. That's the cubed radish kimchi, and it matters as much as the soup itself.
 
-There's a reason. A clean broth needs something sharp against it. **Treat the soup and the radish kimchi as one thing**, not a main and a side. That one number tells you most of what you need to know about this place.
+There's a reason. A clean broth needs something sharp against it. **Treat the soup and the radish kimchi as one thing**, not a main and a side. That one side dish tells you most of what you need to know about this place.
 
 ## Clean, not heavy
 
@@ -42,7 +42,7 @@ It isn't chewy; it pulls apart along the grain. If you only order the soup you'r
 
 ## Expect a queue — and work around it
 
-5,790 reviews tells you this is a fixed stop for anyone visiting Naju. At meal times, there is a line.
+This is a fixed stop for anyone visiting Naju. At meal times, there is a line.
 
 Two ways around it:
 

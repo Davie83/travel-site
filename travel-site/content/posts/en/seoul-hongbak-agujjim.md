@@ -51,7 +51,7 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 ## Being honest about it
 
 - **This is not cheap.** The small boiled platter is 60,000 won. It feeds two, so budget around 30,000 won each
-- **Google gives it 4.0.** Solid, not spectacular. What it is known for is doing one thing — poaching monkfish — properly, for a long time
+- **Solid, not spectacular.** What it is known for is doing one thing — poaching monkfish — properly, for a long time
 - **The skin is gelatinous and slippery.** Those translucent grey pieces in the photo. If unfamiliar textures bother you, eat the white flesh and the liver
 - **It does not smell fishy.** This is the worry people have, and it is not warranted here. The broth is clean and mild
 

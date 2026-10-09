@@ -61,7 +61,7 @@ The brand traces back to **"Fugetsu", opened in Tenma, Osaka in 1950**; the bran
 It sits in the middle of Myeongdong, on the **2nd floor of the Haeam Building**. You have to go up from street level, so do not walk past looking for a ground-floor entrance.
 
 1. **There is a mid-afternoon break, 2:30 to 5:00 PM.** Turning up for a late lunch is an easy way to waste the trip
-2. **There is a queue.** Reviews mention more than 24 groups already waiting at the 11:30 AM opening. **Booking through CatchTable** is the better plan
+2. **There is a queue.** A line forms from the 11:30 AM opening. **Booking through CatchTable** is the better plan
 
 If the wait looks too long, walking on toward Namdaemun Market gets you to [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), a weekday-lunch-only sashimi set that works as a backup plan.
 

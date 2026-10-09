@@ -53,11 +53,11 @@ Hard to judge from a menu, so here's the benchmark.
 - **Snow crab — ₩79,000 per kg**
 - **King crab — ₩119,000 per kg**
 
-The owner's notice on Google says they are offering the crab course **"at ten-year-ago prices"** and have cut their margin to do it.
+They are currently offering the crab course **"at ten-year-ago prices"**, with the margin cut to do it (as of Aug 2026).
 
 > **Check before you go that it's still running.** Promotions end.
 
-Outside the promotion, Google's registered bracket is **₩100,000+ per person.** Crab is an expensive ingredient anywhere; this was never a cheap restaurant.
+Outside the promotion, it is not cheap. Crab is an expensive ingredient anywhere; this was never a cheap restaurant.
 
 But **the table as served feels like being looked after.** So, plainly: this is not a place to eat cheaply. It's a place to spend money and be treated well.
 
@@ -72,7 +72,7 @@ It works equally well for family, for hosting someone, or for two. **Being able 
 **Know the building before you arrive.** The ground floor holds the live tanks. **Dining is on the 3rd floor** — take the lift. People do walk in, see only tanks, and assume they're in the wrong place.
 
 - **Hongik Univ. Station** is close. The Airport Railroad stops there, so you can come straight from Incheon Airport
-- **Parking is tight** — reviewers mention this repeatedly. Take the subway
+- **Parking is tight** — take the subway
 - **Reservations** go through Naver. Book ahead if you want a room
 - **Closes at 10:00 PM**
 - **Not spicy** — the crab and most of the course carry no chilli heat

@@ -49,12 +49,9 @@ The trade-off is that **thin noodles go soft fast.** Eat them as soon as the bow
 
 **Hongdae is a ramen battleground.** There are several shops nearby rated 4.5 to 4.6. Hakata Bunko sits at **4.1**.
 
-The reviews explain why. Some people find it salty, and one review notes that the line used to be long but there are simply many more ramen shops now.
+There are reasons. It can taste salty, and the line used to be long, but there are simply many more ramen shops now.
 
-Those same reviews also say this:
-
-> **"Say what you like, for me this is the standard for Japanese ramen."**
-> **"A flavour that does the basics properly."**
+Still, **it does the basics properly**, and in that sense it is something like the standard for Japanese-style ramen.
 
 This shop has **held the same spot for over 20 years**. So the fair way to put it is this:
 
@@ -65,7 +62,7 @@ This shop has **held the same spot for over 20 years**. So the fair way to put i
 
 - **The broth is heavy.** Tonkotsu is pork bone simmered for hours into an opaque white soup. If you want something light, this is not it
 - **It is not spicy.** The standard inramen has no chilli in it
-- **Extra chashu** is the popular add-on, and reviewers mention it constantly
+- **Extra chashu** is the popular add-on
 - **Cheongramen** is a separate item on the menu. Ask in the shop what makes it different
 
 ## This is your bowl if

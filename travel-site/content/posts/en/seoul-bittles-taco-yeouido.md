@@ -6,11 +6,11 @@ area: yeouido
 date: 2026-10-09
 emoji: 🌮
 thumb: assets/img/seoul-bittles-taco-yeouido.jpg
-excerpt: A taco shop on basement level 1 of The Hyundai Seoul in Yeouido. It is easy for a quick lunch, and you choose the main filling (the meat). My pick is the birria. The crisp, lacy edge of baked cheese stands out, and even the instructions on the box lid are fun to read.
+excerpt: A taco shop in the food court on basement level 1 of The Hyundai Seoul in Yeouido. It is easy for a quick lunch, and you choose the main filling (the meat). My pick is the birria. The crisp, lacy edge of baked cheese stands out, and even the instructions on the box lid are fun to read.
 tags: [Seoul, Yeouido, The Hyundai Seoul, Bittle's Taco, tacos, birria, lunch, quick meal]
 info:
   - Restaurant|Bittle's Taco The Hyundai Seoul (비틀스타코 더현대 서울점)
-  - Location|B1, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu, Seoul (서울 영등포구 여의대로 108 더현대 서울 지하 1층; as of Oct 2026)
+  - Location|B1 food court, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu, Seoul (서울 영등포구 여의대로 108 더현대 서울 지하 1층 푸드코트; as of Oct 2026)
   - Signature dishes|**Tacos** — you choose the main filling (the meat) · birria, pulled pork and more (per Google Maps reviews, as of Oct 2026)
   - How to eat|Dine in or take out (per Google Maps, as of Oct 2026)
   - Other branch|89-7 Seosunra-gil, Jongno-gu, Seoul (listed on Google Maps as the "Seosunra branch", as of Oct 2026)
@@ -19,9 +19,9 @@ info:
 
 **In Yeouido, Bittle's Taco inside The Hyundai Seoul is a taco shop that suits a quick lunch.** You choose the meat, and I recommend the birria.
 
-## Basement level 1 of The Hyundai Seoul, for a lunch you have to finish fast
+## The B1 food court at The Hyundai Seoul, for a lunch you have to finish fast
 
-The Hyundai Seoul has a huge amount of food. But on workdays there is often **a lunch you have to keep short**, however many choices are in front of you, and tacos are one of the options I keep on my list for those days. The shop is on **basement level 1 (B1) of The Hyundai Seoul**, and Google Maps lists both eating in and taking out (as of Oct 2026).
+The Hyundai Seoul has a huge amount of food. But on workdays there is often **a lunch you have to keep short**, however many choices are in front of you, and tacos are one of the options I keep on my list for those days. The shop is in **the food court on basement level 1 (B1) of The Hyundai Seoul**, and Google Maps lists both eating in and taking out (as of Oct 2026).
 
 ![The lid of a Bittle's Taco box — a desert illustration of a duck in a sombrero playing guitar, a taco-shaped drummer and a cactus playing along, and a wooden sign reading BITTLE BITTLE TACO on the left](/assets/img/seoul-bittles-taco-yeouido-brand.jpg)
 
@@ -37,7 +37,7 @@ The illustration on the outside of the box is what you notice first at Bittle's 
 
 ## Getting there and timing
 
-The Hyundai Seoul is within walking distance of Yeouido Station, and the shop is on basement level 1 inside the building, so the weather does not matter. Its opening hours are the same as The Hyundai Seoul's operating hours, so check the mall's hours for the day before you go (as of Oct 2026). On a day when your lunch break is tight, leave time for ordering and waiting for the food.
+The Hyundai Seoul is within walking distance of Yeouido Station, and the shop is in the basement level 1 food court inside the building, so the weather does not matter. Its opening hours are the same as The Hyundai Seoul's operating hours, so check the mall's hours for the day before you go (as of Oct 2026). On a day when your lunch break is tight, leave time for ordering and waiting for the food.
 
 ## For foreign visitors
 

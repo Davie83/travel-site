@@ -42,7 +42,7 @@ The basic side dishes are ordinary, but this is a place where you taste several 
 
 ## Finding it
 
-The address is **51 Yeonsin-ro, Ido-dong, Jeju City**, listed as in front of Hanmaeum Hospital. A travel guide site lists the Jeon Isu Gallery about 450 m away as a nearby stop. Parking is available.
+The address is **51 Yeonsin-ro, Ido-dong, Jeju City**, in front of Hanmaeum Hospital. The Jeon Isu Gallery, about 450 m away, is a nearby stop. Parking is available.
 
 It is open **9:00 AM to 8:30 PM** with last order at 7:40 PM, and **closed on Sundays** (as of Oct 2026).
 
@@ -56,7 +56,7 @@ It is open **9:00 AM to 8:30 PM** with last order at 7:40 PM, and **closed on Su
 ## Before you go
 
 - **Timing** — there is said to be a wait at mealtimes, so an in-between hour is easier
-- **Phone** — 064-805-7158 (per Google Maps)
+- **Phone** — 064-805-7158
 - **Address for a taxi** — 제주 제주시 연신로 51
 - **If you want another meal in Jeju City** — try the offal soup at [Daechun Haejangguk](/en/posts/jeju-daechun-haejangguk) or pizza at [Lee Jaemo Pizza Jeju](/en/posts/jeju-ijaemo-pizza)
 

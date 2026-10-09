@@ -126,6 +126,14 @@ foreach($s in $slugs){
       if(-not $hitLead){ Add-Issue 'WARN' $s "$code 첫 문장에 지역·동네 단어가 없음 (태그 앞 3개 중 하나를 넣어 주세요: $($ctags -join ', '))" }
     }
   }
+  # 본문에 "구글 지도에는 ~ 나와 있습니다" 식 출처 문장 금지 — 2026-10-09 이후 글만 (info 표의 '(구글 지도, 2026.10 기준)' 표기는 허용)
+  if($d -ge '2026-10-09'){
+    foreach($code in $codes){
+      $bodyOnly = [regex]::Match($docs[$code].Replace("`r`n","`n"),'(?s)^---\n.*?\n---\n(.*)$').Groups[1].Value
+      $srcPat = @{ ko='구글\s*(지도|후기|리뷰)'; en='(per|on|by|from) Google|Google Maps (lists|shows|says|places)|Google (Maps )?reviewer'; ja='Google(マップ|の口コミ)'; zh='Google\s*(地圖|地图|評論|评论)' }[$code]
+      foreach($line in ($bodyOnly -split "`n")){ if($line -match $srcPat){ Add-Issue 'WARN' $s "$code 본문에 출처 문장('구글 지도에는…' 식)이 있음 — 필자가 직접 아는 것처럼 쓰거나 빼 주세요: $($line.Trim().Substring(0,[Math]::Min(50,$line.Trim().Length)))" } }
+    }
+  }
   # 사진
   $thumb = Get-FmField $fm['ko'] 'thumb'
   if($thumb){ $name = Split-Path $thumb -Leaf; if(-not (Test-Path (Join-Path $img $name))){ Add-Issue 'ERROR' $s "대표 사진 없음: $name" }; if(-not (Test-Path (Join-Path $img "sm\$name"))){ Add-Issue 'ERROR' $s "카드용 sm/ 사진 없음: $name" } }

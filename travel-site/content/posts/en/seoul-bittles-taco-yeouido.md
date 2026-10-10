@@ -31,6 +31,16 @@ You **choose the main filling, the meat, when you order.** The menu includes bir
 
 Open the box and there are two tacos, with **a crisp, lacy edge of baked cheese** around the shells and a wedge of lime alongside. On the inside of the lid, **pictures of a duck mascot show how to eat the tacos**, so even a first visit leaves no doubt about where to start.
 
+## What it looks like
+
+Two tacos sit side by side in the box. Orange-gold tortillas look crisp-fried and are folded into half-moons, and along each edge a thin, irregular skirt of dark brown cheese spreads out like lace. A lime wedge sits at one side, and the paper lining the bottom of the box is printed with the shop name in red. Inside the lid are four panels drawn in black line art, showing a duck character picking up a taco by hand and a scene of mixing it in a bowl with a spoon.
+
+## Menu words
+
+- The **cheese edge** is a thin layer of cheese that is baked onto the rim of the taco, giving it a crisp texture
+- A **taco** is a Mexican dish in which a tortilla is folded around meat and other fillings
+- **Lime** is a tart fruit squeezed over the taco, which lightens the richness
+
 ## A brand with personality, right down to the box
 
 The illustration on the outside of the box is what you notice first at Bittle's Taco. A duck strumming a guitar in a desert, a taco on drums, a chili shaking maracas — the mood of the whole brand is on one lid. There is also a separate "Seosunra branch" at 89-7 Seosunra-gil in Jongno, so this shop is another branch of the same brand (as of Oct 2026). I heard there may be a branch in Jeju too, but I am not sure.

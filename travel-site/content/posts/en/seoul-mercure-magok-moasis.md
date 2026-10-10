@@ -38,6 +38,10 @@ The food is built to **go with wine**: steak, ribs, sausages, olives, salads.
 
 Recently there seems to be an unlimited-wine-buffet set that **adds a striploin steak**. Check the current line-up when you book. Dinner service runs 17:00-21:30 across two seatings, and pricing lands somewhere in the 50,000-60,000 KRW per-person range depending on the season's promotion — worth confirming the exact figure when you book.
 
+## What the plates look like
+
+One plate holds a cheese-baked dish like lasagna, a barbecue rib topped with garlic chips, steak pieces under sauce, two sausages, an onion ring, shrimp fried rice, olives, and nachos with cheese sauce. Another plate is a salad with arugula, smoked salmon, capers and white cheese. A glass of red wine sits on the table, and a wooden board engraved with the hotel's name is visible.
+
 ## For foreign visitors
 
 - **The unlimited wine buffet is dinner-only.** Not at lunch.

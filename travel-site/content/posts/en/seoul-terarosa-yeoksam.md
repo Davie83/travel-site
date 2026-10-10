@@ -37,6 +37,16 @@ Terarosa is well known as a roastery that started in Gangneung. I had a **Cloud 
 - Order at the counter; you'll get a table number or buzzer.
 - About a **5-minute walk** from **Yeoksam Station** (Line 2), toward exit 8, close to Gangnam Centerfield.
 
+## The hand-drip bar
+
+On the counter stands a black hand-drip station lit up with "TERAROSA". Three drippers with paper filters sit on the upper shelf, and glass servers holding coffee line up beneath, so the whole brewing process is visible. In front of the counter, glasses are turned upside down on a tray, with canisters of beans lined up at the left. A "RETURN BAR" sign is visible on one wall.
+
+## Menu words
+
+- **Hand drip** is coffee brewed one cup at a time by pouring hot water over grounds by hand
+- **Americano** is espresso with added water
+- The **return bar** is where you bring your used cup yourself
+
 ## Good for you if
 
 - ✅ You want to watch pour-over coffee being made while having a relaxed cup

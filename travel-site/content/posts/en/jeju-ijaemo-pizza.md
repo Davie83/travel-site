@@ -33,6 +33,10 @@ The **cheese here is really good.** It's full of flavor. The default menu item i
 
 Since the **price gap between small and large isn't big, I recommend the large** (large 30,000 KRW, small 26,000 KRW as of Oct 2026). I'm someone who can't finish even one pizza, but with so little price difference, I think ordering the large is the better call.
 
+## What it looks like
+
+On the black pan, the pizza is topped with pepperoni, ham, green pepper and mushrooms, with the cheese browned in spots. The edge is a thick, puffed cheese crust, and a handled server for lifting slices comes with the pan. Beside it sit a salad plate with fruit, a red iced drink, and a small bowl of cheese sauce topped with crispy fried onion.
+
 ## Before you go
 
 - The default menu item is the **cheese crust pizza**

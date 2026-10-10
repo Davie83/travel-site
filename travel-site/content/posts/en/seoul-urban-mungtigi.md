@@ -35,6 +35,10 @@ Depending on the restaurant, it seems to be **sold same-day or aged for 1–2 da
 
 The main event is mungtigi, but the **yukjeon** — beef sliced thin, coated in egg and pan-fried — was good as well. Worth ordering on the side.
 
+## What it looks like
+
+Deep red mungtigi lies overlapped in a ring on a black plate. Each piece is large enough that it would not go into the mouth in one bite, with faint white marbling here and there. On the dark board beside it, three beef pancakes are pan-fried golden, with a heap of seasoned minari greens in front of them. A pot of clear soup and a bowl of shredded seaweed can be seen at the side.
+
 ## For foreign visitors
 
 - **Mungtigi is raw, uncooked beef.** Think of it as the same family as *yukhoe* or beef tartare. If raw meat is unfamiliar to you, it may be a lot.

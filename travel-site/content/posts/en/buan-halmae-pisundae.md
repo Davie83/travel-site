@@ -46,6 +46,16 @@ The broth is good too: long-simmered, and it belongs with the sausage rather tha
 
 This place centres on **sundae-guk, the cauldron and makchang**. That tells you the kind of place it is: not technique-driven, but ingredients simmered a long time in a large pot. Don't come looking for refinement. Come when refinement is exactly what you don't want.
 
+## What it looks like
+
+The black earthenware pot is filled with a milky broth, with a finely ground brown powder scattered over the surface. A curled piece of sundae shows at one side, with pieces of meat beneath it and a little green onion floating. Beside it sit seasoned chives, kimchi, a dried-vegetable side and a small dish of red seasoning.
+
+## Sundae-guk menu words
+
+- **Sundae** is a Korean sausage made by stuffing pig intestine and steaming or boiling it
+- **Sundae-guk** is a soup of sundae and meat in a milky broth made by simmering pork bones
+- **Pi-sundae** is sundae made with blood. Its aroma and texture may be unfamiliar, so if it's your first time, ask the staff before ordering
+
 ## Before you go
 
 - ✅ You want to try pisundae properly, once

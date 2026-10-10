@@ -32,6 +32,10 @@ The broth is fiery. As in the photo, it's loaded with spring onion, with bean sp
 
 Most Jeju hangover soups only come into their own once you add plenty of **grated garlic**. Don't be shy with the minced garlic on the table — stir a good amount in and the broth comes alive. Mipung is no exception.
 
+## What it looks like
+
+The black earthenware pot is heaped with bean sprouts, green onion and sesame, and a dark seasoning sits in the middle, not yet stirred in. The broth looks pale and light rather than thick. Rice comes separately in a stainless bowl, two green chilies lie on a small plate, and a bowl of orange-colored broth comes alongside.
+
 ## Would a foreign visitor enjoy it?
 
 Honestly, I'm not sure. It's a fiery, aggressive broth, and if you can't take heat it may be a struggle.

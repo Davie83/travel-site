@@ -35,6 +35,10 @@ The menu runs on **tacos**, **poke bowls**, and **burritos**. Good for a light s
 
 The ingredients are fresh and the food is solid here. Pair it with a beer at lunch and it's about as good as it gets.
 
+## What it looks like
+
+Two tacos sit on a metal tray, each on a pinkish tortilla topped with cilantro, tomato, onion and seasoned meat. In the square bowl on the right are grilled green beans, finely crumbled seasoned meat and diced tomato. On the left is a beer mug printed with a Jose Cuervo logo, and the "THE TACO BOOTH" logo shows large on the paper plates and the tabletop.
+
 ## Tacos over a burger when you've got no appetite
 
 Personally, on a day I have no appetite, I'd reach for tacos over a burger. There's a generous pile of vegetables on top, so it eats light instead of sitting heavy.

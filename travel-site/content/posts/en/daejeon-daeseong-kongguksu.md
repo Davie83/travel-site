@@ -38,6 +38,14 @@ Softer than expected — but not mushy. **There is still some chew left in them.
 
 That balance matters here. A thin broth with slack noodles would be forgettable; soft noodles that still push back keep the bowl interesting.
 
+## What it looks like
+
+A stainless bowl is filled with creamy beige soy milk, with the noodles coiled in a mound on top and sprinkled with sesame. Tiny bubbles show on the surface of the broth. In the steel bowl beside it is kimchi with plenty of leafy greens attached, and a pair of scissors lies on the table.
+
+## What is kongguksu?
+
+**Kong-guksu** is a Korean noodle dish in which noodles are served in a cold broth of ground soybeans. It contains no meat or seafood, so it is light, and it is common to adjust the seasoning with salt or sugar to taste.
+
 ## The kimchi is doing half the work
 
 Here is the practical part: **if the broth tastes flat to you, eat it with the kimchi.** That's what brings it into balance.

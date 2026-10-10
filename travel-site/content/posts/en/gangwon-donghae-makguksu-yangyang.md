@@ -38,6 +38,16 @@ If you have the appetite, I'd recommend adding suyuk. The makguksu alone is enou
 
 Every so often I catch myself wondering if I should plan a Gangwon trip just because of this place. It's the kind of meal that leaves you happy after the last slurp.
 
+## The mul-makguksu
+
+A stainless-steel bowl is filled with a dark broth, scattered with shredded seaweed and sesame. In the middle, a neat mound of noodles carries a red seasoning paste and half a boiled egg. The broth looks almost black in its depth, and the noodles are the grey-brown of buckwheat.
+
+## Makguksu menu words
+
+- **Mul-makguksu** is makguksu in cold broth, and **bibim-makguksu** is makguksu mixed with seasoning sauce
+- **Suyuk** is boiled pork sliced thick, and **sari** means an extra serving of noodles
+- **Memil jjin-mandu** are steamed dumplings made with buckwheat dough, a common side at makguksu restaurants
+
 ## For foreign visitors
 
 - **Makguksu is cold buckwheat noodles.** Bibim-makguksu is mixed with a sweet-spicy sauce; mul-makguksu comes in a cold broth

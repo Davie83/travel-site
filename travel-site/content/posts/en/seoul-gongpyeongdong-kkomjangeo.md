@@ -34,6 +34,16 @@ This is the dish Koreans think of **when they want soju.** Not everyday food —
 - **There is no off smell.** Nothing fishy or muddy. This is the thing people expect and it is not there
 - **The texture is what is unfamiliar.** It is **springy and firm, with real chew.** If you expect soft fish you will be surprised — it is closer to squid or tripe. Whether you enjoy that is the whole question
 
+## What it looks like
+
+On the wire grill, seasoned grill ingredients, thick-cut meat, mushrooms and big pieces of rice cake are all piled together. The meat tossed in red seasoning gathers to the right and top, and chunks of white tteok sit in the middle. Mushrooms with grill marks are also visible, and next to the grill you can make out a sauce dish, a rice dish and something yellow that looks like a side.
+
+## Menu words
+
+- **Kkomjangeo** refers to hagfish, usually seasoned and grilled
+- **Sogeum-gui** means grilled with only salt, without a marinade
+- **Tteok** is rice cake, grilled and dipped in sauce
+
 ## Order the salt version first
 
 I prefer the **salt-grilled** one — no marinade, just salt, grilled with oyster mushrooms and rice cake.

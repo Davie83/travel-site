@@ -41,6 +41,16 @@ I have eaten **abalone porridge in a lot of places on Jeju.** I have not found o
 
 **For two people, one porridge and one mulhoe is the right order.** That is the best way to use this restaurant.
 
+## What it looks like
+
+The black bowl on the left holds a pale yellow-green abalone porridge, and on the white rectangular plate at upper right two mackerel are grilled golden with charred edges. In the stainless bowl at lower right is mul-hoe topped with hanchi squid and abalone, the broth stirred with chili flakes, sesame and green vegetables. Small plates above hold kimchi, a dressed leafy-green side, stir-fried fish cake and stir-fried anchovies, and the plate below holds chopped green chili and whole chili.
+
+## Menu words
+
+- **Jeonbok-juk** is porridge cooked with abalone
+- **Mul-hoe** is raw fish served in a cold, tangy and spicy broth, a Jeju summer dish
+- **Hanchi** is a kind of squid caught in large numbers around Jeju in summer
+
 ## For the mulhoe, get squid
 
 What is mulhoe? **Raw fish in a cold broth** — eaten as a soup, in summer especially.

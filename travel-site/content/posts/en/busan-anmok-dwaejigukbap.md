@@ -31,6 +31,16 @@ The broth is milky and deep without being heavy, and the meat in the photo is **
 
 Order suyuk separately and it arrives as its own plate, as in the photo. There is a **solo set with both the soup and the pork**, so you can try both even eating alone.
 
+## What it looks like
+
+Two black earthenware pots sit on a granite-patterned table, and the one in front holds a milky broth topped with a heap of green onion. On the white plate at left, thin-sliced suyuk is laid out neatly, with seasoning dishes of shredded scallion, ground garlic and what looks like salted shrimp beside it. In the middle are plates of radish kimchi, seasoned chives and green chili and a bowl of white rice, and another bowl of the same soup shows in the background. Cups of warm tea come with it.
+
+## Menu words
+
+- **Dwaeji-gukbap** is Busan's signature pork soup with rice, made with meat in a broth simmered from pork bones
+- **Suyuk** is boiled pork sliced thin and served on a plate
+- **Saeu-jeot** is salted small shrimp, used to adjust the seasoning of the soup
+
 ## Decide one thing when you order
 
 This is the most useful line in this post.

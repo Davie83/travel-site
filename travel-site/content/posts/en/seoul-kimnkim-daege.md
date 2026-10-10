@@ -40,6 +40,16 @@ Order snow crab or king crab and the course runs:
 
 The table keeps filling while the crab is being steamed. **You are not paying for a crab and nothing else** — that's the point worth understanding before you look at the price.
 
+## What it looks like
+
+A large white plate is piled with steamed crab legs, claws and bodies split in half. The claws are a vivid orange studded with white bumps, and in the middle a body shows its meat with a pale-green seasoning on it. Bits of other dishes show around the edges.
+
+## Menu words
+
+- **Daege** is a Korean snow-crab type with long legs and sweet meat, usually eaten steamed
+- The **claw** is the crab's big front pincer, where the meat is full
+- The **gettakji (crab shell)** is the body shell, and the innards inside are sometimes mixed into rice
+
 ## How much crab to order
 
 Hard to judge from a menu, so here's the benchmark.

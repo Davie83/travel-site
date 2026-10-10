@@ -25,6 +25,16 @@ There's a **banban** that isn't up on the menu board in big letters. One plate c
 
 Add a banban to the spicy pork or squid and the table is complete. It's especially good if you're with a child, or with someone who can't eat spicy food.
 
+## What it looks like
+
+On a white plate sit two thick pieces of rolled omelet, with a heap of sausages cut octopus-style beneath them. Next to it, a large white bowl holds stir-fried spicy pork in red seasoning, with pork, onion and cabbage-like vegetables visible. A dish of ketchup sits beside the omelet plate, and above are a clear bean-sprout soup and a stainless bowl of rice. On the right, black beans, kimchi and seasoned spinach come in small plates.
+
+## Menu words
+
+- **Jeyuk-bokkeum** is pork stir-fried in a spicy gochujang seasoning
+- **Gyeran-mari** is a rolled omelet made by folding beaten egg into thin layers
+- **Baekban** is a Korean home-style set meal of rice with soup and several side dishes
+
 ## A home-style diner inside Namdaemun Market
 
 Nothing grand. It works as a **baekban** — rice, soup and side dishes come together, and you pick one main. It has the narrow, busy feel of an old market diner.

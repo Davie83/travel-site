@@ -38,6 +38,16 @@ This restaurant sells that. **It also sells suyuk — the same fish simply poach
 
 Every visit I promise myself I will order the spicy version. **Every visit I give in and order the boiled one.** The spicy one is well liked too. I still have not got round to it.
 
+## What it looks like
+
+A large white plate with a wavy rim is piled with monkfish meat and bone pieces, with bean sprouts, green onion and radish mixed in between. The liquid isn't stained red with chili flakes but a pale yellow, so it looks like a clear steam. Around it sit stir-fried anchovies, kimchi, a red seasoned side, a vegetable stir-fry and a small dish of gochujang.
+
+## Menu words
+
+- **Agwi** is monkfish, a large-mouthed sea fish with chewy meat, often cooked steamed or in stew in Korea
+- **Jjim** is a dish where the ingredients are steamed or braised with seasoning
+- **Kongnamul** are bean sprouts, which add a crisp texture to agujjim
+
 ## The liver is the point
 
 They poach **very fresh monkfish, and they do it very well.** The flesh is soft and yielding.

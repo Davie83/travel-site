@@ -33,6 +33,15 @@ The trend now is a thick cutlet fried and sliced across the grain, Japanese-styl
 
 It was better than I expected. The sauce isn't cloyingly sweet and the crust hadn't gone soggy. **Not "nostalgia food" you excuse — it's genuinely good.**
 
+## What it looks like
+
+On a white plate, a breaded meat cutlet and a thin patty overlap under a generous brown sauce, with a fried egg that looks soft-yolked sitting in the middle. Another sauced fry lies at the top, with macaroni salad and shredded-cabbage salad on the left and a round mound of rice at the lower right. A divided dish of yellow pickled radish and kimchi is visible at the top.
+
+## Menu words
+
+- **Old-style (gyeongyangsik) donkkaseu** is the Korean pork cutlet, pounded thin and fried, topped with a thick brown sauce and eaten with rice or salad
+- **Kimchi bokkeumbap** is rice stir-fried with kimchi
+
 ## The kimchi fried rice set is the deal — but brace for the volume
 
 You can order the cutlet on its own, but **the set with kimchi fried rice is better value**. The catch is the amount.

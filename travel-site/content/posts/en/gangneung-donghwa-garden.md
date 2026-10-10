@@ -25,6 +25,10 @@ Two things share one bowl. A **hot, bracing jjamppong broth** with squid and mus
 
 The appeal is getting the spicy, clear broth and the mild tofu in the same spoonful. If you like sundubu, one taste and you understand why this combination got famous.
 
+## What it looks like
+
+The bowl is filled with a red, thick-looking broth, topped with long-cut chives, sesame and a dark powder like pepper. Squid legs, mushrooms and sliced vegetables show in the broth, with the soft tofu submerged beneath. Side dishes stand in the background.
+
 ## How it became the village's name to know
 
 Chodang-dong in Gangneung has a village where the tofu restaurants cluster together. Chodang sundubu — soft tofu set with seawater, clean and lightly seasoned — is what the neighbourhood is known for. Donghwa Garden is the place inside that village that made its name with **jjamppong sundubu**.

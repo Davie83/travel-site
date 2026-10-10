@@ -32,6 +32,16 @@ Inside, it was busier than I expected. I found it by chance through a search, bu
 
 The tteok-galbi comes as round patties, set on a hot plate over sliced onion. Sesame scattered on top, the outside grilled dark in a soy marinade.
 
+## What it looks like
+
+On an oval iron plate, two round tteok-galbi patties sit on a bed of onion, sprinkled with sesame. The plate comes on a wooden stand. Around it are a pot of doenjang stew, a pancake, braised beans, namul, pickles, a stir-fry of shrimp and small fish, a sweet potato dish, stuffed cucumber, pickled onion and a cucumber water kimchi. Each plate holds only a little, but there are so many that the table is packed.
+
+## Menu words
+
+- **Tteok-galbi** is a dish of minced or ground rib meat, seasoned, shaped into patties and grilled
+- **Doenjang-jjigae** is a stew cooked with fermented soybean paste
+- **Mit-banchan** are the small side dishes that are set out by default with a meal
+
 ## The flavour is faithful to the basics
 
 Nothing about it jumps out. It's **faithful to the tteok-galbi flavour you already know** — a sweet-and-savoury marinated grill, the soft texture of minced meat. Call it a no-miss version and you'd be right.

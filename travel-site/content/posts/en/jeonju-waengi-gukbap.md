@@ -36,6 +36,10 @@ The clean taste comes down to the broth. They simmer pesticide-free bean sprouts
 
 Instead of a poached egg, they give you a raw egg on the side. Stir it into the broth so it half-cooks, or eat it separately — whatever you prefer. The day I visited, the egg I got turned out to have a double yolk. It felt like a small sign the day was going to go well.
 
+## What it looks like
+
+The black earthenware pot is filled with a clear anchovy broth, heaped with bean sprouts and sliced green onion, with small shrimp-like pieces in the center. In the stainless-steel cup on the right, two yolks of cracked raw egg are visible, and tongs and scissors lie on the left. The sides are a red seasoned dish and something like salted shrimp on small plates.
+
 ## Spice is up to you
 
 I like things spicy, so I added a generous amount of cheongyang chili. The broth itself isn't spicy at all, so add chili if you want heat, or skip it if you don't — it's entirely down to preference.

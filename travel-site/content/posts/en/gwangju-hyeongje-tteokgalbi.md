@@ -29,6 +29,10 @@ It's closer to chewing rib meat itself than to ground meat pressed and grilled. 
 
 The seasoning is on the sweet-and-savoury, marinated-grill side, but not heavy-handed. **There is no heat.**
 
+## What it looks like
+
+Two black iron plates each hold two rectangular tteok-galbi patties. The patties on the upper plate are grilled dark and rough, studded with sesame, while those on the lower plate show clear horizontal grill marks and a glossy sauce. Two bowls of clear soup with bone-in meat sit at the top, and to the left are a cold cucumber-and-onion soup, pickled cucumber, stir-fried fish cake and kimchi. On the right is a divided dish of garlic slices and a red seasoning.
+
 ## The bone soup is a plus, the side dishes less so
 
 A **clear pork-bone soup** comes with the tteok-galbi, free of charge. It's the same pork spine that goes into *gamja-tang*, and there's **a fair amount of meat still on the bone**. As something to cut the richness, it does the job.

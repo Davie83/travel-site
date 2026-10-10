@@ -30,6 +30,16 @@ Here's the interesting part: Korean diners describe it as tasting like **"clear 
 
 Korea has a large Vietnamese community, and **pho is genuinely part of everyday eating here** — not a novelty. If you're in Seoul for two or three days, spend them on Korean food. But if you're here longer, or you've had three straight days of grilled pork and want a clear, light bowl, this is a good use of a meal.
 
+## What it looks like
+
+A large bowl rimmed with blue-and-white porcelain patterns holds a clear brown broth, with several slices of thin-cut beef submerged in it. Chopped green onion and chives are heaped on top, with pieces of onion floating in the broth. Beside it are a plate of cilantro, pickled carrot and radish, a small dish of red sauce and a jar of sliced pickles.
+
+## Menu words
+
+- **Phở** is a Vietnamese noodle dish of rice noodles and meat in beef-bone broth, called **ssal-guksu** (rice noodles) in Korea
+- **Cilantro (gosu)** is a strongly scented herb that you can add or leave out to taste
+- **Pickled vegetables** come alongside to cut the richness
+
 ## How to eat it — this matters
 
 Pho is **not finished when it reaches you.** You assemble it.

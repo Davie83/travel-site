@@ -37,6 +37,16 @@ That blankness is the point. You are meant to taste the buckwheat and the broth 
 
 Also note: **you will not find the red, spicy version here.** If you want spicy cold noodles, that's a different dish (*bibim-naengmyeon*) at a different kind of restaurant.
 
+## What it looks like
+
+A metal bowl is filled with clear broth, with brownish buckwheat noodles loosened into it. On top sit half a boiled egg, sliced meat, pieces of cucumber and radish, and a leaf of bok choy. Above it on the table, two golden-fried bindaetteok lie on plates, with a small dish of soy sauce, pickled white radish and a brass cup alongside.
+
+## Menu words
+
+- **Pyeongyang naengmyeon** is cold noodles in which buckwheat noodles are served in a chilled broth, known for its clear, mild broth
+- **Bindaetteok** is a pancake made from ground mung beans fried with meat or vegetables
+- A **brass cup** is a traditional vessel used for drinks such as makgeolli
+
 ## Order the bindaeddeok — it's fried in beef fat
 
 **The mung bean pancake is pan-fried in meat fat**, which makes it deeply nutty and savoury in a way the vegetable-oil version never is.

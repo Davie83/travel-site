@@ -34,6 +34,10 @@ I don't judge bread with any depth. I just cut into a croissant and had it with 
 
 Through the tiled gate there's a small yard and a short flight of steps. The brick and the wooden window frames have been kept, so it has an atmosphere a newly built cafe doesn't. In summer, trumpet-vine flowers hang red over the gate.
 
+## What it looks like — the entrance
+
+An old tile-roofed gate stands at the front, with a vine bearing orange flowers climbing over it to the edge of the roof. On the black-striped stone pillars are a "COFFEE COMPANY 프릳츠" sign on one side and the address plate for 17 Saechang-ro 2-gil on the other. Through the open gate you can see brick paving, steps and a small garden, with a person walking down the stairs. The old gate has been kept and used as the cafe's entrance.
+
 ## First time here
 
 - **Fritz (FRITZ)** is a well-known specialty coffee roastery in Seoul. The seal logo is its emblem, and it sells beans.

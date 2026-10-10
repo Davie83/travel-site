@@ -27,6 +27,10 @@ The churros come rolled in cinnamon sugar, fried crisp, with a scoop of pistachi
 
 ![Cinnamon-sugar churros with pistachio ice cream — Far Niente](/assets/img/seoul-far-niente-churros.jpg)
 
+## The tiramisu
+
+On a round slate plate sits a dessert heavily dusted with cocoa, topped with two halves of a split banana. The cut faces of the banana are browned and glossy. Cocoa is scattered over the rim of the plate too, with a trace of powdered sugar showing. Two water glasses stand in the background.
+
 ## The cream gnocchi gratin still holds up
 
 What I wanted to eat again here was the cream gnocchi gratin — potato-dough gnocchi under a cream sauce, baked in the oven, golden on top and soft underneath. The cream isn't heavy, so you finish the dish.

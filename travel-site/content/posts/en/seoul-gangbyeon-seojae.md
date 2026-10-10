@@ -40,6 +40,10 @@ Drinking coffee and looking at a river from inside a national legislature is not
 
 **Window seats are competitive.** Everyone is waiting for one. I suggest **around 10:00 AM** for a relaxed seat, and going at opening time at weekends.
 
+## What it looks like — the rooftop terrace
+
+The open rooftop is laid with a green surface that looks like turf, with white metal chairs, low benches and folded parasols. People sit with their chairs turned toward the railing, looking at the river, and one person leans on the railing to take a photo. Beyond the glass railing, the Han River, a bridge and the skyline of the city on the far side stretch out. The sky is clear with almost no clouds.
+
 ## Cherry blossom season is the peak
 
 **Yunjung-ro**, right beside the Assembly, is one of Seoul's most famous cherry blossom streets. In spring the whole of Yeouido fills up because of it. From the cafe you get the river and the blossom together.

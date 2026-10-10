@@ -32,6 +32,15 @@ I had **pajeon** and **chapssal sundae**.
 
 And **Jeju makgeolli** — the local unfiltered rice wine, on the sweet side here, which works well against a fried pancake. A cup in the middle of the afternoon at a market is a very good way to spend a Jeju day.
 
+## What it looks like
+
+A large pancake lies spread on a bamboo basket. Green onion, red chili, shredded carrot and what look like pieces of seafood are set into the golden-fried batter, with a small dish of soy sauce with sliced chili in the middle. On the left, a plate holds boiled pork and something like dark sundae, and in front you can see a white makgeolli bottle and a cup of cloudy makgeolli. A seaweed side and a small dish of seasoning sauce sit on one side.
+
+## Menu words
+
+- **Buchimgae** is a Korean pan-fried pancake made by mixing ingredients into batter and frying in oil
+- **Makgeolli** is a cloudy rice liquor, often paired with buchimgae
+
 ## Check the market day first
 
 Start with the part that catches people out. A Korean *oiljang* — literally "five-day market" — is **not** a market that runs for five days, and it is not open every fifth day of the month either.

@@ -29,6 +29,10 @@ What caught me off guard was the **size**. It's bigger than you'd expect, so wal
 
 Low wooden signs with short, poem-like lines stand along the paths. You don't come here to do anything in particular — it's a place where **walking and looking at the flowers clears your head.**
 
+## What it looks like — the greenhouse
+
+Hydrangeas are in full bloom inside a greenhouse covered with glass and shade screens. Pink, pale purple, deep pink and white hydrangeas cluster in layers, with ferns and broad-leaved plants growing thick among them. Strings of bulb lights hang in several lines from the ceiling, and visitors can be seen walking between the steel pillars. Flowers and leaves spill out to the walkway, so the whole greenhouse feels filled with green and the colors of the flowers.
+
 ## The headline flower changes by season
 
 The name is **camellia**. Winter into spring, when the camellias bloom, is the garden's original face.

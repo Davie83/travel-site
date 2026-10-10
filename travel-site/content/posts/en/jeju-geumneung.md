@@ -29,6 +29,10 @@ You come down to the sand from a stone-paved plaza. Parasols stand in rows, and 
 
 **Biyangdo** island floats offshore. Wind turbines stand at the far end of the coastline.
 
+## What it looks like
+
+Under a cloudy sky, low and wide clouds spread overhead, and the ground is a broad access path paved with stone blocks. At its end stands a beach information board, and beyond it you can see the sand and blue parasols. The sea is a pale turquoise with white waves rising out in the distance. On the left are buildings and palm trees lined along the coast, with children and adults standing around the sand.
+
 ## The quiet side of the beach it shares with Hyeopjae
 
 A beach on Jeju's west coast, **right next to Hyeopjae Beach**. It shares one stretch of white sand with Hyeopjae, and the crowds gather on the Hyeopjae side. The Geumneung end is that much **calmer and more relaxed.**

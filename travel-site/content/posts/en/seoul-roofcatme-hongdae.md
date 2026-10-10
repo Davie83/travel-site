@@ -27,6 +27,10 @@ At a cat cafe you order a drink and stay in the space with the cats. The cats he
 
 It's **close to Hongik Univ. Station Exit 9**, and there were **plenty of foreign visitors** when I went. **If you like cats**, it's a good place to sit and rest for a bit while you're going around Hongdae.
 
+## What it looks like
+
+Through a wooden window frame with peeling blue paint, a cream-colored cat with folded ears lies on a grey carpet. It wears a bow tie with a green cord and a yellow collar, with its front paws neatly together, looking straight ahead. On the wall behind are a "B2" floor marker and a green emergency exit sign, which shows in the photo that the cafe is on the second basement level.
+
 ## For foreign visitors
 
 - At a **cat cafe**, the usual model is that you pay admission (or a mandatory one drink) and stay for a set amount of time. Check the exact fee and limit on arrival.

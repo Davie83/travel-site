@@ -29,6 +29,10 @@ Once you pass Songaksan, you'll see **two small islands joined together** in the
 
 Around where you can see Hyeongjeseom, **look inland to your left** and there's Sanbangsan rising up. It's the landmark peak of this stretch. It feels good no matter when you drive it. Clear or overcast, the sea, the islands and the mountain's outline all read differently.
 
+## What it looks like
+
+Sanbangsan rises to the left of the road that curves along the coast. The mountain has a rounded top and sheer rock cliffs on its flank, with big clouds hanging low above it. To the right of the road, the sea and a breakwater continue, with a red lighthouse and harbor buildings in the distance. By the roadside stand a wooden sign reading "HEY BROTHER CAFE&PUB" and what looks like a cafe building. It is near sunset, and the underside of the clouds is tinted yellow.
+
 ## What you pass
 
 The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. Even with no set destination, **it's a stretch where the road itself is the point**.

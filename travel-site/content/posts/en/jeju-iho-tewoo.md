@@ -25,6 +25,10 @@ Just walking out to see the red horse lighthouse at the end of the breakwater ma
 
 The symbol of Iho Tewoo Beach is the **Jeju-pony-shaped red lighthouse** at the end of the breakwater. A white one stands opposite it as a pair. Walking out along the breakwater to the lighthouse and back is a short stroll in itself.
 
+## What it looks like
+
+A horse-shaped red lighthouse stands at the end of the breakwater, with tetrapods piled in layers in front of it. Its body is built like an angular horse, with a small lantern tower on top of the head. You can see the stairs and railing leading up to it, and a deep-blue sea spreads out beside the breakwater. In the distance are buildings lined along the coast. The sky has almost no clouds.
+
 ## The canola field and a coffee
 
 In canola season, I'd suggest **a short stop at Iho Tewoo Beach, since it's close to the airport**. It's especially good when you have an awkward gap right after landing, or before a flight out.

@@ -26,6 +26,10 @@ With so many places to stay nearby, it **feels fairly touristy these days.** The
 
 ![The view over Hamdeok Beach — emerald water, with a seaside cafe (Cafe Delmoondo) along the shore](/assets/img/jeju-hamdeok-beach-view.jpg)
 
+## What it looks like
+
+People walk sparsely across a wide open ground, with palm trees lined up on the left. White letters reading "Ham deok" are painted on the stone wall in the middle, and far to the right, a two-story cafe building stands by the water. The sky is blue with thin clouds stretched across it, and the slanting light draws long shadows from the people. It is a view where the plaza-like space catches the eye before the sea does.
+
 ## Seowubong is right there for a walk
 
 **Seowubong is right next to the beach**, so it's easy to keep walking after you've looked at the sea.

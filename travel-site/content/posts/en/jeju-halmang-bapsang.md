@@ -39,6 +39,16 @@ So plan for it: **30,000 KRW for two**, and you will be genuinely full.
 
 The *halmang* in the name is **Jeju dialect for grandmother** — the name means "grandmother's table". What you see in the photo is what arrives, and I left uncomfortably full.
 
+## What it looks like
+
+A large round tray is ringed with small plates. In the white bowl at the center, spicy pork stir-fry is topped with sesame, and below it sits a golden pancake with chives and green onion. The small plates hold seasoned bean sprouts, shredded-potato stir-fry, kimchi, seaweed and pickled radish, macaroni salad, seasoned cucumber and more, with lettuce, ssamjang and gochujang at the right. On the white plate at the bottom of the table, six golden-grilled fish are lined up.
+
+## Menu words
+
+- **Bapsang** is a Korean meal in which rice, soup and several side dishes are set out together
+- **Jeyuk-bokkeum** is pork stir-fried in a spicy seasoning
+- **Saengseon-gui** is fish grilled whole
+
 ## If you like grilled fish, this is paradise
 
 **I like grilled fish.** For me this place was paradise.

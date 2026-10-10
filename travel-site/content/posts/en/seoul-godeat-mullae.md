@@ -45,6 +45,16 @@ I had the **fajita & taco set (for two)**. It arrives exactly as in the photo.
 
 **The food is good and the room is pleasant.** It goes well with beer.
 
+## What it looks like
+
+A full spread is laid out on a wooden table. In the large aluminum pan at the right, yellow rice topped with cheese and a white sauce is ringed by grilled shrimp, grilled green chili, cherry tomatoes, pieces of fried meat and shredded meat. On the wooden plate at the left are two tacos with meat, vegetables and sauce in tortillas. In the middle come fries and nachos, with guacamole, sour cream, salsa, cilantro and lime in small dishes.
+
+## Menu words
+
+- **Fajita** is a Mexican dish of grilled meat and vegetables served on a hot pan and wrapped in tortillas
+- **Taco** is a tortilla folded around meat and vegetables
+- **Guacamole** is a sauce made from mashed avocado
+
 ## Mullae has changed
 
 This is the part I want to say as much as anything about the restaurant.

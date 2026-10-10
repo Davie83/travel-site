@@ -28,6 +28,10 @@ This is one of the shops Koreans name when they list **the best kongguksu in Seo
 
 Look at the photo: the broth is thick and opaque. It looks like soy milk, and the important part is that **it contains no sugar and no salt.**
 
+## What it looks like
+
+A round stainless bowl is filled to the brim with pale beige soy milk, with a neat mound of thin noodles in the center. The surface of the broth is covered with tiny bubbles. On the plate above sits a heap of napa cabbage kimchi in red seasoning, with an empty stainless bowl at the left. With no toppings, the color of the soy milk is all you see.
+
 ## You season it yourself
 
 **The broth arrives completely unseasoned.** If you taste it as it comes and decide it is bland, you have missed the dish.

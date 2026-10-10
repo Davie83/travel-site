@@ -33,6 +33,16 @@ So if you were expecting a white soup, this isn't that. The broth here is thin, 
 
 Your first spoonful may taste like very little. That's intended. **Salt and pepper are on the table** — season it to your own taste. The rice comes already in the soup.
 
+## What it looks like
+
+A clear broth fills a bowl of brassware color, with sliced green onion heaped on top. Rice grains and pieces of beef show through the broth. A spoon and chopsticks rest across the bowl, and the brass dish at the left holds radish kimchi and napa cabbage kimchi. The broth is on the transparent side, not oily.
+
+## Menu words
+
+- **Gomtang** is a soup made by simmering beef and bones for a long time
+- **Kkakdugi** is kimchi made from cubed radish
+- **Brassware (nogt-geureut)** is traditional tableware made of brass that keeps the broth warm longer
+
 ## The move: ask for the kimchi brine
 
 **This is the most useful thing to know here.**

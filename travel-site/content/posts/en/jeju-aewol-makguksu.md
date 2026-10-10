@@ -41,6 +41,10 @@ The names are confusingly similar, so to be clear: **these are two different res
 | Location | **Aewol-eup**, Jeju City | **Andeok-myeon**, Seogwipo |
 | My preference | Good | **Better perilla oil aroma** |
 
+## What it looks like
+
+A top-down view of the table. In the stainless bowl at the top, buckwheat noodles sit in a clear broth with cucumber, shredded radish, meat and half an egg. In the large stainless bowl at the bottom, the bibim-makguksu is entirely covered in shredded seaweed, and on the black plate at the left sits the suyuk. Beside the suyuk are small dishes of garlic, green chili, a red sauce and a brown sauce.
+
 ## I still ordered all three staples here
 
 **Perilla oil makguksu is not something I crave often, but it does come back to me now and then.** When the perilla oil and the buckwheat land together properly, the bowl empties before you notice. I came here **because of its reputation**, and ordered the three staples as they come.

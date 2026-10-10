@@ -30,6 +30,15 @@ The other plate we ordered came sliced into triangles like a **quesadilla or pan
 
 The first meal in a new place sets the mood for the day. I wanted to start light but solid, and Little Diner fit that "start the day well" idea from the moment we walked in.
 
+## What it looks like
+
+On a white plate sits a burger with a pancake bun. The top bun is a thick pancake browned golden, with bacon, cheese and lettuce visible beneath it. Beside the plate are fries, ketchup in a yellow dish, and a small white pitcher-like container. Behind it you can see a plate of toasted sandwiches with a sauce dish, a jar of pickles, and a bottle of Budweiser standing at the left.
+
+## Menu words
+
+- A **pancake burger** is a burger in which a thick pancake takes the place of the bun
+- A **diner** is an American-style casual restaurant that serves burgers, sandwiches, pancakes and the like
+
 ## An analog American diner — the space is half of it
 
 ![The interior of Little Diner, done up with red diner chairs and pop-art banners — Gangneung](/assets/img/gangneung-little-diner-interior.jpg)

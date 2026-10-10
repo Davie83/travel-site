@@ -26,6 +26,15 @@ Right at the entrance there's a big display of what looks like a **master-baker 
 
 ![Inside Inju Cafe hanok branch — a big communal table under the hanok frame and a wooden lattice ceiling](/assets/img/asan-inju-cafe-interior.jpg)
 
+## What it looks like
+
+You stand in front of a large hanok building of dark timber pillars and a tiled roof. A pavilion-like second roof rises above the center, and a white "INJU" sign hangs above the entrance under the eaves. Wooden chairs and flowerpots stand under the eaves in front, with a yellow vending machine at the right. The yard in front is wide and paved, with a car parked at the left. The sky is overcast with thick cloud.
+
+## Menu words
+
+- A **hanok** is a traditional Korean house built with a tiled roof and wooden pillars
+- A **bakery cafe** is a cafe that sells bread and coffee together
+
 ## The "master baker" pitch, and the bread itself
 
 There's a fair amount of signage inside saying "a master baker bakes here." So I went in with expectations raised — but honestly, it was **more ordinary than I expected.** The range is actually **on the small side** for a bakery cafe, and the few I picked up and ate on the road weren't a "I need to come back for this" taste. Not that they're badly made; just not up to what the space had promised.

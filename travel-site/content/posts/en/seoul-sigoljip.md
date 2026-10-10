@@ -30,6 +30,15 @@ Here, **the staff grill it for you.** Even after a long time away, they judge it
 
 The sides come with a pot of doenjang stew and an assortment of namul and kimchi. The seasoning isn't strong, so it's easy going even if you can't take spice.
 
+## What it looks like
+
+On a black cast-iron grill plate, bone-in LA galbi is piled high like a small mountain. The surface is grilled to a deep brown with scorched patches here and there, and the white cross-sections of bone show through. Behind the grill sits a portable gas canister, and around it are plates of onion, a stew, seasoned bean sprouts and pickles. A water glass is also visible on one side.
+
+## Menu words
+
+- **LA-galbi** is short rib cut thin across the bone and marinated, one kind of Korean grilled galbi
+- **Nopo** means a long-established shop
+
 ## After Sansu Gapsan, a second stop
 
 After drinks nearby, I came by as a second stop for the first time in a while. We had our first round — boiled offal and a drink — at [Sansu Gapsan](/en/posts/seoul-sansu-gapsan), an old sundae-guk (blood sausage soup) place in Euljiro, then walked over here. Coming back after a long gap, the seats are still comfortable and the worn-alley feel of Euljiro 3-ga is unchanged.

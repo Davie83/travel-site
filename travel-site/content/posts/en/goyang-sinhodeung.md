@@ -31,6 +31,16 @@ Walk in and **several staff are working the wood fire, turning chickens as they 
 
 The big room was full, and people were happily waiting even on that hot day. It's the kind of place that **comes back to mind every summer.**
 
+## What it looks like
+
+On a large foil-lined plate lies a whole chicken, split in half and grilled. The skin is browned to a deep golden color with dark-scorched patches here and there, and grains of rice show beneath the chicken. On the left is a bowl of clear soup with some ingredients in it, and on the right a bowl of leafy-green kimchi and cubed white radish. The table is a light wood color and the bowls are earth-toned with black rims.
+
+## Menu words
+
+- **Tongdak** is a whole chicken roasted as one piece
+- **Jangjak-gui** means grilled over a wood fire
+- The **clear soup** is served alongside the chicken
+
 ## The skewers are just a side act
 
 The **fish-cake broth** that comes with it is a slightly odd thing to find at a chicken house, but it was fine.

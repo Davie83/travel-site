@@ -38,6 +38,16 @@ Taste it, then come back and order it properly. Doing it the other way round jus
 
 With a group, get the **modeum** platter — the big plate in the photo, with pork, sausage and soup together.
 
+## What it looks like
+
+On the left, the stone pot holds a clear, milky broth scattered thick with green onion and pepper. In the center, thin-sliced suyuk lies layered on a white plate, with translucent skin pieces mixed in among the lean meat. A dish of red seasoning sits beside the plate, and behind it you can see bowls of radish kimchi and kimchi, plus a soju bottle. The empty bowl and spoon in front are for serving yourself.
+
+## Menu words
+
+- **Sundae-guk** is a soup of sundae and meat in a broth simmered from pork bones
+- **Suyuk** is boiled pork sliced thin and served on a plate
+- **Jeongsik** means a set where soup and suyuk and more come together on one table
+
 ## What is actually on the plate
 
 Look closely and it is not one cut.

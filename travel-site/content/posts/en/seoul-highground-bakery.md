@@ -27,6 +27,14 @@ It sits inside the Ui-dong valley. The area has plenty of places to eat, so it *
 
 It is **quite large, and the interior is well done.** Because it is popular, **the car park is big as well.**
 
+## What it looks like — the exterior at night
+
+After dark, two brick buildings stand side by side, with lines of bulb lights strung in several layers above them. On the right building, blue neon letters spell "HIGH GROUND", with the sign below reading "WOW! FRESHLY BAKED EVERYDAY", and a Hangul sign reading "하이그라운드" is over the central entrance. In front, a garden thick with hydrangeas and small conifers stretches out, and through the windows you can see interior light and people.
+
+## Menu words
+
+- **Jebangso** means a place that bakes and sells its own bread
+
 ## A bite of bread, a cup of tea
 
 **There is a real range of breads.** Sit down with a cup of tea and bread from a master baker, and you get a short, easy break.

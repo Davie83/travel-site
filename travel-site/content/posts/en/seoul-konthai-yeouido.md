@@ -27,6 +27,16 @@ Konthai is a Thai restaurant known for its Yeonnam-dong original; lately there a
 
 ![The room, done up with mosaic lamps and a Bangkok street-scene mural; packed at lunch](/assets/img/seoul-konthai-yeouido-interior.jpg)
 
+## What it looks like
+
+A white bowl ringed with a blue pattern is filled with a thick yellow broth, packed with mussels, clams, squid and a large shrimp. Chopped peanuts, cilantro and herbs are heaped on top, with a brown seasoning powder in the center. The squid is scored and curled white, and the shrimp is plump. Chili oil spreads in red across the broth.
+
+## Menu words
+
+- **Tom yum** is Thailand's sour and spicy broth flavored with lemongrass, lime and chili
+- **Ssal-guksu** means rice noodles, made from rice flour
+- **Haemul** means seafood such as mussels, clams, shrimp and squid
+
 ## When you want a sour broth — seafood tom yum noodle soup
 
 I'm not a wide-ranging Thai eater. But Thai food generally suits Korean palates, and within that I like **sour flavours** (the way I like acidity in coffee). So when I want a **tom yum noodle soup** in Korea, I go to Konthai or Soi Yeonnam.

@@ -24,6 +24,15 @@ A budae-jjigae place tucked in the Teheran-ro alleys near Yeoksam Station. First
 
 There's the regular budae-jjigae, and a beef sirloin version. The beef one runs ₩25,000 per person — ₩50,000 for two. Even so, most tables order the regular one, which, true to the shop's premium billing, still costs ₩16,000 per person — noticeably more than a neighborhood budae-jjigae.
 
+## What it looks like
+
+Budae-jjigae is boiling hard in a wide silver pot. Sliced ham lines up in the middle over the red broth, surrounded by sausage pieces, tofu, half a boiled egg, ground meat and green stalk vegetables. Bubbles rise on the surface, and the ingredients are so plentiful they rise above the broth. The pot sits on a black heating plate, with a rice bowl just visible beside it.
+
+## Menu words
+
+- **Budae-jjigae** is a Korean stew of ham, sausage, tofu, kimchi and more, simmered spicy; "budae" means a military unit
+- **Minari** is a fragrant water vegetable that takes the edge off the stew's heat
+
 ## Looks heavy, tastes clean
 
 The broth is loaded with minari and looks thick and rich just from the color. Taste it, though, and it's cleaner than expected. The flat, wrinkled sausages and ground meat come in generous portions.

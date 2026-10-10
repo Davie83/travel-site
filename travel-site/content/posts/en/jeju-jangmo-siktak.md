@@ -40,6 +40,16 @@ The soy-marinated crab also comes in a bigger portion than I expected, and the c
 
 The basic side dishes are ordinary, but this is a place where you taste several main-course dishes at one table. The **Jangmo set is 17,000 won**, and there are other dishes at around **10,000 won per person** (as of Oct 2026).
 
+## What it looks like
+
+White plates and bowls are laid out neatly on a wooden table. In the center, a white plate is full of crab in soy sauce, topped with a lemon slice and chili. On the rectangular plate above, four abalone in their shells sit in a soy seasoning, topped with green and red chili. At the upper left is seasoned grilled meat with onion, and around it in small dishes are a cabbage salad with a white dressing, seasoned bean sprouts, stir-fried anchovies, stir-fried fish cake and kimchi.
+
+## Menu words
+
+- **Sotbap** is rice cooked together with its ingredients in a pot
+- **Ganjang-gejang** is raw crab cured in soy sauce. If raw is unfamiliar, ask the staff before ordering
+- **Jeonbok-jang** is abalone steeped in a soy seasoning
+
 ## Finding it
 
 The address is **51 Yeonsin-ro, Ido-dong, Jeju City**, in front of Hanmaeum Hospital. The Jeon Isu Gallery, about 450 m away, is a nearby stop. Parking is available.

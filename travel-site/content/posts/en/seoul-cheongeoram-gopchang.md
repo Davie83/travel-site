@@ -36,6 +36,16 @@ Think of it as **beef small intestine simmered in a shallow pot with all sorts o
 
 Those curled pieces in the middle of the photo are the **gopchang**. Underneath sit cabbage, spring onion, onion, mushroom and courgette. The longer it bubbles, the more the two sides of the flavour merge.
 
+## What it looks like
+
+A silver jeongol pot is full of boiling red broth, with gopchang piled like a mountain in the center. Seasoning is spread over the gopchang, with green onion, zucchini, green chili, napa cabbage and mushrooms arranged around it. A tongs-shaped ladle rests across the left side, and a small soy dish and a stainless cup are visible at the top. The pot is heated from below, so oil and chili flakes float on the broth's surface.
+
+## Menu words
+
+- **Gopchang-jeongol** is a hot pot of beef small intestine and vegetables simmered in broth
+- **Gopchang** is beef small intestine, known for its chewy texture
+- **Jeongol** is a dish where broth and ingredients go into a pot and are cooked at the table
+
 ## Two things that set this place apart
 
 **1. It is comparatively cheap.** In Korea, **beef small-intestine hot pot is normally an expensive dish** — the cut itself is costly. Here it starts at **30,000 KRW for the two-person size.**

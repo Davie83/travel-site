@@ -26,6 +26,16 @@ The number of cuts and the price change with the set. Cuts with different grain 
 
 Because each piece comes slowly, one at a time, you check the taste rather than rush. It's a seat where "hanwoo," which you'd lumped together as one thing, gets seen again as separate cuts.
 
+## What it looks like
+
+A single piece sits on a black plate laid with a bamboo mat. The thick-cut hanwoo is browned a deep brown on the outside, and when cut through the inside is a moist, vivid red-pink. Beside it lies a clove of garlic grilled in its skin. In the background you can see a wooden lattice screen, and on the table behind are a plate of raw meat, a purple vegetable and a white lump on a skewer.
+
+## Menu words
+
+- **Hanwoo** is Korea's native beef cattle, known for its marbling and flavor
+- A **cut-by-cut course** presents the different cuts of beef one piece at a time
+- **Charcoal-grilled** means cooked directly over charcoal
+
 ## Grilled and served to you
 
 ![Staff grilling hanwoo over charcoal behind the counter — Sowana](/assets/img/seoul-sowana-counter.jpg)

@@ -24,6 +24,16 @@ This place's kimchi is well known — **cabbage kimchi with a lot of garlic, and
 
 It contrasts with the mild broth, so a bite at a time alongside the noodles works well. If you're new here, this one side dish alone should tell you why the place is famous.
 
+## What it looks like
+
+The kalguksu comes in a pale beige bowl, with a clear brown broth. Ground meat is heaped in the middle of the bowl, and four large dumplings float around it. The dumpling wrappers are so thin that they look translucent. On the plate at the left, red kimchi in a fresh, geotjeori style is piled high, and behind it are shakers of seasoning such as chili flakes and pepper, with a notice on the wall asking you to take only as much kimchi as you need.
+
+## Menu words
+
+- **Kalguksu** is a noodle soup with noodles made by cutting flour dough with a knife
+- **Mandu** are Korean dumplings filled with meat or vegetables
+- **Geotjeori** is fresh kimchi made by seasoning lightly salted cabbage right away
+
 ## How the bowl actually arrives
 
 Order the kalguksu and you get **one bowl topped with minced meat and dumplings**. The broth is on the rich side and not especially sharp, so it divides few people.

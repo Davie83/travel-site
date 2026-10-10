@@ -32,6 +32,16 @@ The shop's own window is plastered with big photos of the grilled fish, so you k
 
 ![Photos of grilled fish covering the storefront window at Ganghwa-do Matjip Charcoal Grilled Fish](/assets/img/incheon-ganghwa-saengseongui-storefront.jpg)
 
+## What it looks like
+
+Three fish are grilling on a round wire rack. The long fish in the middle has dark stripes on its body and a well-browned skin, while the upper and lower fish are silver-bodied with grill marks spreading across them. On the oval plate above, three already-grilled pieces lie head and all, their skin scorched dark brown, with the bone cross-sections visible. On the right you can see part of a stainless lid and bowl.
+
+## Menu words
+
+- **Saengseon-gui** is fish grilled whole or in pieces
+- **Jeongsik** is a set meal where a main dish comes with rice, soup and several side dishes
+- **Charcoal-grilled** means cooked directly over charcoal, which gives a smoky aroma
+
 ## The set isn't cheap, but
 
 Honestly, **for a simple lunch the set isn't cheap.** But once I'd finished, I didn't feel the money was wasted. Given the number of fish and the skill of the grilling, it made sense.

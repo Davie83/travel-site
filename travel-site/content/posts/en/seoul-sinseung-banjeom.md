@@ -28,6 +28,16 @@ The fried shiitake has a **chewy-yet-crisp texture** that gives you something to
 
 A friend says several of the restaurant's other dishes are good too. There seem to be other branches, so if one is near you it's worth a stop.
 
+## What it looks like
+
+The large white bowl on the right is filled with a red broth, topped by a single abalone in its shell. Inside are a big shrimp, a dark ingredient, napa cabbage, bok choy, vegetables and bean sprouts, all plentiful. On the rectangular plate at the left, fried shiitake mushrooms are heaped with dried red chilies, peanuts and chopped green chili, garnished at the top with parsley and a flower. On the table sit a cup of warm tea and a small liquor glass.
+
+## Menu words
+
+- **Jjamppong** is a Korean-Chinese noodle soup made spicy with seafood and vegetables
+- **Kkanpung** is a Chinese-style technique of tossing fried ingredients in a tangy, spicy sauce with garlic and chili
+- **Shiitake** is an aromatic, chewy mushroom
+
 ## Jjamppong — level 4, and generous with the seafood
 
 The jjamppong has a deep broth and is **on the spicy side** — about **level 4** by this site's scale. It's generous with the fillings: abalone, shrimp and squid, plus napa cabbage and shiitake.

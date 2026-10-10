@@ -24,6 +24,16 @@ I've been going to this place for a long time. In that time the shop itself has 
 
 These days there's a proper shop at the current address, but it used to sit in a humbler spot just behind the Shilla Stay across the street. Much like **Myeongdong Gyoja** moved into a stylish new location near Myeongdong Station Exit 8, this place has, over the years, moved to where it is now. The address changed; the reason to keep coming didn't.
 
+## What it looks like
+
+The black earthenware pot is filled with a clear, milky broth, thickly dotted with diagonally cut green onion. In the broth you can see two or three large pieces of meat that look tender, like brisket. There are traces of pepper on the surface, and the bowl is deep so the ingredients sit all the way down. At the upper left is a small bowl of onion pickled in soy sauce.
+
+## Menu words
+
+- **Seolleongtang** is a milky soup made by simmering ox bones and meat for a long time, seasoned at the table with salt
+- **Doganitang** is a soup with cartilage from the knee area of beef
+- **Onion pickled in soy sauce** is a side dish of onions steeped in soy sauce
+
 ## From the large seolleongtang to doganitang
 
 When I first started coming here, I always ordered the **large seolleongtang**. Ordering large gets you a generous helping of meat too, enough to leave the bowl properly full. At a Korean gukbap place, the **kimchi** matters almost as much as the broth, and this place takes that seriously — the side dishes include **green onion kimchi** as well. The kimchi here is genuinely good, and the seolleongtang eaten alongside it barely needs explaining.

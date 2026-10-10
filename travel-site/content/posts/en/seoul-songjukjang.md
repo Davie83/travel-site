@@ -36,6 +36,16 @@ Worth knowing: this is Korean-Chinese food (*jjungguk-jip*), not a dish you'd me
 
 For reference: hotter than most Thai green curry served in Korea, in the same range as a serious *mala* soup base.
 
+## What it looks like
+
+A white bowl is filled with a bright red broth, with thin noodles loosened in it, and you can see squid, shrimp and other vegetables. In the photo, chopsticks lift the noodles. On the plate above sits a full tray of golden pan-fried dumplings, and beside it small dishes hold a dark sauce, yellow pickled radish and a red sauce. A cup of tea also sits to one side.
+
+## Menu words
+
+- **Jjamppong** is a Korean-Chinese noodle soup made spicy with seafood and vegetables
+- **Gun-mandu** are dumplings pan-fried in oil until crisp
+- **Danmuji** is yellow pickled radish, served by default at Chinese restaurants
+
 ## Order the fried dumplings
 
 Getting only the noodles means eating half the meal. **The *gunmandu* — pan-fried dumplings — come out properly crisp.**

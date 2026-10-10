@@ -26,6 +26,10 @@ Seoul has an unusually deep specialty coffee scene — small independent roaster
 
 This is one of those places: a short bean list, filter brewed to order, and beans roasted for you to take home.
 
+## What it looks like
+
+A silver-grey metal pot and a wine-glass-shaped glass sit side by side on a wooden board. The glass holds a clear amber coffee, and the pot has a neat shape with a clasp on the lid. The board is engraved with a "DOZO" logo, and a small card reading "FRESH COFFEE BEANS" stands behind the pot. This is how each cup is served.
+
 ## The way it arrives is the point
 
 The coffee comes **in a stemmed tulip glass on a walnut tray**, with the remainder in a small steel kettle beside it and a card describing the day's beans.

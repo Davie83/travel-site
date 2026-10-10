@@ -13,7 +13,7 @@ info:
   - Address|591 Aewolhaean-ro, Aewol-eup, Jeju-si, Jeju (Aewol coastal road, Sineom-ri)
   - Phone|064-713-9366
   - Hours|Daily 10:00 AM–8:00 PM (break 2:00–3:00 PM) · Closed every Tuesday (as of Oct 2026)
-  - Signature dishes|Seafood spread (listed on Diningcode as "mixed menu") 60,000 KRW · Abalone porridge 13,000 KRW · Seafood octopus ramyeon 15,000 KRW (as of Oct 2026)
+  - Signature dishes|Seafood spread (when ordering, ask for the "modeum-menyu") 60,000 KRW · Abalone porridge 13,000 KRW · Seafood octopus ramyeon 15,000 KRW (as of Oct 2026)
   - Diningcode rating|Overall 4.6 · Taste 5.0 · Value 4.1 · Service 4.1
   - Parking|Free parking in front of the restaurant
   - Setting|Sea-view seating and an outdoor terrace
@@ -27,11 +27,30 @@ When I want something simple in Jeju and a full plate of sashimi feels like too 
 
 The spread is still generous, though. That day **only the rock sea squirt was a bit small and in so-so shape**; everything else tasted like fresh sea, as always.
 
+## What comes on the spread
+
+It arrives as one platter on a bamboo mat. The abalone is sliced in its shell, so the pearly inside of the shell still shows; the octopus is cut thick, with the suckers still on the arms; and along one side sit the rock sea squirts, their rough shells a deep red. Pickled radish cubes and a seaweed side dish come with it, along with small dipping dishes on the table.
+
+I'd start with the milder octopus and abalone and leave the **rock sea squirt for last**, since its flavor is the strongest. It hits sweet and faintly bitter, like concentrated sea air, so first-timers may find it divisive.
+
 ## A bit hungry? Finish with seafood ramyeon
 
 Even after the spread I was still a little hungry, so I ordered a bowl of **seafood ramyeon**. It comes with **a whole live octopus and a large abalone**, so it earns its price. It's 15,000 KRW (as of Oct 2026), and once you see what's in the pot it makes sense.
 
 ![The seafood ramyeon at Haenyeo's House Aewol — a brass pot packed with octopus, a large abalone, shrimp, mussels, and green onion](/assets/img/jeju-aewol-haenyeoui-jip-ramyeon.jpg)
+
+As the photo shows, it comes in a well-worn metal pot. Mussels, shrimp, an abalone left in its shell and a whole octopus sit under a heap of green onion, and the broth is closer to amber-brown than a chili-red. Going from cold raw seafood to a hot broth makes the meal wind down naturally.
+
+## About the name "haenyeo's house"
+
+Jeju's haenyeo diving culture was inscribed on UNESCO's Intangible Cultural Heritage list in 2016. "Haenyeo's house" began as the name for restaurants serving what haenyeo bring up from the sea. Today, though, places using the name run in different ways, so if you're curious who caught that day's seafood and how, just ask the staff when you order.
+
+## Before you go
+
+- **Hours** are 10:00 AM–8:00 PM with a **break from 2:00 to 3:00 PM**, so a late lunch can run straight into it
+- It is **closed every Tuesday**
+- There is **free parking** in front of the restaurant
+- **One seafood spread plus one seafood ramyeon** comes to 75,000 KRW (as of Oct 2026). If raw seafood is a stretch, the abalone porridge (13,000 KRW) is the lightest choice
 
 ## Foreign tourists are a common sight now
 
@@ -44,8 +63,10 @@ After a big seafood meal, I walk over to the **dolphin lookout** right next door
 ## For foreign visitors
 
 - **Haenyeo** are Jeju's female free-divers who harvest seafood from the sea without breathing equipment, and **haenyeo's house (haenyeoui-jip)** is a name commonly used for restaurants serving that kind of seafood
-- The **seafood spread** is mostly **raw** — abalone, octopus, rock sea squirt, and so on. If raw seafood is unfamiliar, abalone porridge or seafood ramyeon are easier choices
-- **Seafood ramyeon** is instant ramyeon cooked with plenty of seafood. The broth has a reddish tint, so if you can't handle spicy food, check before ordering
+- The **seafood spread (haemul hansang)** is mostly **raw** — abalone, octopus, rock sea squirt, and so on. To order, say "Modeum-menyu juseyo" (모듬메뉴 주세요). If raw seafood is unfamiliar, abalone porridge or seafood ramyeon are easier choices
+- **Rock sea squirt (dol-meongge)** is a sea squirt with a rough red shell. Its sweet-and-bitter flavor divides first-timers
+- **Abalone porridge (jeonbok-juk)** is a rice porridge cooked with abalone, and the safest pick if raw feels like too much
+- **Seafood ramyeon (haemul-ramyeon)** is instant ramyeon cooked with plenty of seafood. The broth has a slight red tint, so if you can't handle spicy food, check before ordering
 
 ## Who this is for
 

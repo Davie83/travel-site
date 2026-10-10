@@ -31,6 +31,16 @@ The braised hairtail arrives as an earthenware pot, the fish stewed spicy with r
 
 Add a bottle of **daytime makgeolli** and the spread is complete. Sitting in the market at midday over braised hairtail and makgeolli is a genuinely happy meal.
 
+## What it looks like
+
+In a heavy earthenware-style pan, the galchi-jorim is braised in a thick red sauce, with long pieces of green onion laid between large chunks of fish. In the black earthenware bowl beside it is a puffed steamed egg, and a brass cup and a bottle of makgeolli stand alongside. A rice bowl is visible at one side.
+
+## Menu words
+
+- **Galchi** is the cutlassfish (hairtail), a long silvery fish, and **jorim** means a dish braised down in seasoning
+- **Gyeran-jjim** is steamed egg, a soft side dish that soothes the mouth after the spicy braise
+- **Makgeolli** is a cloudy Korean rice liquor
+
 ## The fried hairtail is this alley's privilege
 
 They add **fried hairtail** as a free side dish. Picking at crisp fried hairtail like a banchan is a small privilege you only get in this braised-hairtail alley.

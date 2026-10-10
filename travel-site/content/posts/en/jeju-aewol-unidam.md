@@ -27,6 +27,10 @@ info:
 
 The center of the menu is the **uni rice bowl (seonggedeopbap).** There are also **sea urchin bibimbap** and **seaweed soup.** There's also a **Jeju Hamdeok branch** (530 Johamhaean-ro, 4th floor, Jocheon-eup, Jeju-si, Jeju). This post is about the Aewol branch.
 
+## What it looks like
+
+Rice sits on a white plate with blue lines radiating outward. The right half is covered with sea urchin roe, and the left half carries a thin green sheet of seaweed, a lump of wasabi and a small edible flower. Five small compartments along the top hold braised black beans, a pink salted item and a red seasoned side, pickled shoots, kimchi and stir-fried anchovies, with roasted seaweed on one side and seaweed soup on the right. Everything is laid out neatly on a black tray.
+
 ## Small and large, by grams
 
 The uni-don is **split into small and large by the grams of uni, and the price differs.** As I remember it, the large was 80 g and the uni platter (uni hanpan) was 100 g (check the exact grams before you go). As of Oct 2026 the price is 29,000 KRW for small and 39,000 KRW for large.

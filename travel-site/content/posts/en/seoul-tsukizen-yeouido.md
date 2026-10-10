@@ -31,6 +31,10 @@ Whenever tonkatsu crosses my mind, this place is the one that comes up — purel
 
 ![Menchikatsu and roskatsu at Tsukizen Yeouido — menchikatsu draped in demi-glace sauce next to a thick-cut roskatsu, sliced medium and served side by side](/assets/img/seoul-tsukizen-yeouido-detail.jpg)
 
+## What it looks like
+
+On a round plate sit three pieces of breaded cutlet, covered thickly in a glossy dark brown sauce. Above them is finely shredded cabbage dressed with a sesame dressing, with a corn salad and a wedge of tomato alongside. The sauce covers most of the cutlet, so the crust is only visible at the edges.
+
 ## The Yeouido branch is tucked in the basement of TP Tower
 
 The Yeouido branch sits in a back corner of **TP Tower's basement level**. It's directly connected underground to Yeouido Station, so it's easy to find, but there's a real wait during weekday lunch. Give your plate number at the TP Tower counter for an hour of free parking.

@@ -36,6 +36,15 @@ The real move here comes after you've finished the meat. **Once the meat is gone
 - **Don't worry about spice.** The chives are sharp with garlic and sesame, not fiery hot
 - **Don't worry about a strong meaty smell either.** It's boiled well, so any gaminess is minimal
 
+## What it looks like
+
+On a large white plate, pieces of oxtail suyuk with the bone still attached are arranged in a ring, covered by a heap of finely cut seasoned chives. The chives are sprinkled with chili flakes and sesame, and red seasoning pools at the bottom of the plate. Beneath the chives you can see the grain of the meat and bone. A dish of sauce sits beside the plate.
+
+## Menu words
+
+- **Kkori-suyuk** is boiled oxtail, and **suyuk** refers to boiled meat that is sliced and served
+- **Buchu** is Korean chives, with a strong aroma that cuts the richness of the meat
+
 ## Prices seem to keep climbing
 
 **Honestly, every time I go, it feels like prices have crept up again.** This isn't a cheap old-school spot. I've noted the current figures (as of Sep 2026), but it's worth checking the menu again on-site.

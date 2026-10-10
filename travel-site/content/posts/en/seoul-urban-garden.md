@@ -31,6 +31,15 @@ The old brick building has plants and décor tucked into every corner, so the pl
 
 This time, instead of the lunch set, I ordered **steak and pasta**. The steak came with mushrooms, potatoes and mustard on the side; the pasta was a cream sauce topped with scallops.
 
+## What it looks like
+
+One plate holds a thick fillet steak with grilled king oyster mushrooms, zucchini, small roasted root vegetables, a white purée and whole-grain mustard. On another wide plate, thin pasta is coiled like a nest, topped with round white seafood pieces that look like scallops, with parsley and cheese scattered over it. The sauce looks like a yellowish butter sauce.
+
+## Menu words
+
+- **Ansim (tenderloin)** is the soft cut from inside the sirloin, commonly used for steak
+- **Mustard** is a sauce made from mustard seeds, served with meat
+
 ## The setting comes before the taste
 
 Honestly, the food itself isn't the kind of thing you'd rave about elsewhere. But **the atmosphere is good enough that almost anything would taste good here**, so overall it was still an enjoyable meal. If you're after a nice setting more than a must-eat dish, this will land better for you.

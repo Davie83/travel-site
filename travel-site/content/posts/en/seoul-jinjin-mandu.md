@@ -29,6 +29,15 @@ That's the menu, essentially.
 - **You want clean ox-bone broth** → **son-mandu tteokguk** (손만두떡국), with rice cakes
 - **You want it red and warming** → **eolkeun mandu-guk** (얼큰만두국)
 
+## What it looks like
+
+The upper bowl is mandu-guk with dumplings in a clear broth, topped with yellow egg strips and pieces of seaweed, and the lower bowl is the eolkeun mandu-guk in a red broth, also topped with egg strips, seaweed and white sliced radish. On the right is a pancake with green vegetables, and two small dishes of soy sauce with sliced chilies come alongside.
+
+## Menu words
+
+- **Mandu-guk** is a soup cooked with dumplings, and **eolkeun** means hot and spicy yet refreshing
+- **Jeon** is a Korean pan-fried pancake made by coating ingredients in batter
+
 ## The red one is not actually spicy
 
 Look at the photo: that broth is properly red. **It barely registers as hot.**

@@ -29,6 +29,16 @@ Flounder sashimi, spicy seasoned squid, a braised fish dish, and a spicy fish st
 
 If you're in the mood for a light, casual plate of sashimi, this place will more than satisfy.
 
+## What it looks like
+
+On an oval plate, white-fleshed and red-fleshed raw fish lie side by side on shredded radish, with a spicy stir-fried squid dish on one side. To the right, a braise of radish and mackerel, braised potatoes, and a red spicy fish soup with bones showing each come in stainless-steel bowls. The wrapping greens are red-leaf lettuce in a basket, and small dishes of chili-vinegar sauce, soy sauce, seasoned ssamjang, cucumber, chili and garlic stand on the table. The set puts raw fish and cooked side dishes on the same table.
+
+## Menu words
+
+- **Hoe-jeongsik** is a set meal that comes with raw fish, spicy fish soup, rice and side dishes
+- **Maeun-tang** is a spicy fish stew made by simmering fish bones and vegetables in a chili seasoning
+- **Ssam** is the way of wrapping rice, raw fish and sauce in a leafy vegetable to eat
+
 ## Reading the menu, and what to do if you're alone
 
 - The **hoe-jeongsik** is a set meal where sashimi comes with side dishes, a braised fish and a spicy fish stew on one table. It is available on weekdays until 2 PM, for two or more people, at ₩14,000 each

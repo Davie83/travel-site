@@ -34,6 +34,15 @@ Two things carry this place: **the broth is bright and clean, and the portion is
 
 It's a clear beef broth, not thin, and a full bowl **takes care of a hangover and hunger at once**. Whether you were drinking the night before or just hungry, there isn't much better for lunch. That's why the National Assembly and West Yeouido office crowd queues for it at noon.
 
+## What it looks like
+
+A white bowl is filled with a clear, light broth, with several slices of thin-cut beef submerged in it. On top sit a leaf of bok choy, sliced green onion, red chili slices, a slice of lime or lemon, and an egg yolk, with thin noodles visible beneath the broth. The broth is clear rather than a rich, oily dark color.
+
+## Menu words
+
+- **Phở** is the Vietnamese noodle dish of rice noodles and meat in beef-bone broth. In Korea it is called **ssal-guksu** (rice noodles)
+- **Rice noodles** are made from rice flour, so they are lighter and softer than wheat noodles
+
 ## First time here? A few pointers
 
 - **Pho (phở) is a clear broth of long-simmered beef** over rice noodles. It is not spicy. Pickled chilli comes on the side here, so you **add heat yourself** to taste.

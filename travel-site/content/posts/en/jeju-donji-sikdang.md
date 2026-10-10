@@ -48,6 +48,16 @@ Mixing first makes it a fuller meal; wrapping it unmixed keeps the texture of th
 
 The lettuce was genuinely fresh, and that combination is what I remember about the place — more than the fish itself.
 
+## What it looks like
+
+In a large grey bowl, finely shredded carrot, lettuce, cucumber, seaweed flakes and translucent squid sashimi are arranged in separate color sections, with sesame seeds scattered over the center. In a black bowl alongside is an orange-colored broth with cucumber and shredded radish. The side dishes come in small plates: kimchi, a seaweed salad, braised black beans, stir-fried anchovies, pickled garlic and a red seasoning, with a basket of lettuce for wrapping. Garlic and green chili are served too.
+
+## Menu words
+
+- **Hanchi** is a kind of squid caught in large numbers around Jeju in summer
+- **Deopbap** is a rice-bowl dish with toppings, and **hoe-deopbap** is the version topped with raw fish
+- I recommend wrapping the rice in **lettuce**
+
 ## The side dishes are not an afterthought
 
 One rice bowl came with around eight *banchan*: stir-fried anchovies, soy-braised black beans, seasoned seaweed, kimchi, pickled vegetables, plus soybean paste and red pepper sauce for the lettuce wraps.

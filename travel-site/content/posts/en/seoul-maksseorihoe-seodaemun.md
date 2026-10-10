@@ -32,6 +32,16 @@ The **lunch set is 30,000 KRW per person, the premium set 40,000 KRW**. I later 
 
 A full set isn't required. At lunch there are several standalone dishes too, good for eating light solo or just picking whatever you're craving. Options include a **raw-fish rice bowl (15,000 KRW)**, **sea squirt bibimbap (14,000 KRW)**, **fish roe rice set (13,000 KRW)**, **fish cake udon set (13,000 KRW)**, **pollock roe soup (13,000 KRW)**, and **fresh cod soup (20,000 KRW)**. Good choices if you want a single light bowl instead of a full sashimi-centered set.
 
+## What it looks like
+
+About six kinds of aged raw fish lie side by side on a bamboo mat. White-fleshed fish, a red fish with visible fat, and pieces cut with the skin on are mixed together, and in the round bowl beside it, abalone and other seafood sit on ice. The sauces come in a two-section dish, chili-vinegar sauce on one side and soy sauce on the other, with wasabi, pickled garlic, ginger and braised radish alongside.
+
+## Menu words
+
+- **Sukseong-hoe** is raw fish rested for a period after catching to deepen its flavor and texture
+- **Jeongsik** is a set meal where a main dish comes with several side dishes and soup
+- **Chogochujang** is a tangy, spicy sauce of gochujang mixed with vinegar, used for dipping raw fish
+
 ## The sides are ordinary, but the main dish is the star
 
 It's not a place with a huge spread of side dishes. But the **aged sashimi** at the center of the set eats well for a lunch — the impression is a kitchen that puts its effort into the main dish rather than the sides.

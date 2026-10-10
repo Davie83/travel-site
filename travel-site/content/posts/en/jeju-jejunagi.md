@@ -31,6 +31,10 @@ The weather was good, so **I got it to go**, and ate it in the sun on an empty s
 
 The eel was **so tender it was a pleasure to eat**. Honestly, it was **an indulgent meal** — not an everyday one, but now and then a meal like this feels right. Jejunagi's hitsumabushi **brought that Nagoya taste back to mind.**
 
+## What it looks like
+
+In the takeout box, a whole eel lies lengthwise over the rice, scored and sliced crosswise, glossy with sauce. The compartments on the right hold nori, finely cut green herbs, wasabi and sesame, and the lower ones hold pickled vegetables and shredded ginger among other things. Two lidded containers of broth sit beside the box.
+
 ## What hitsumabushi is
 
 Hitsumabushi is **Nagoya's grilled-eel rice bowl**. You usually eat one bowl in three passes — plain first; then with garnishes like seaweed, sesame and spring onion; and finally with dashi broth poured over, like ochazuke.

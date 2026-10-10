@@ -51,6 +51,16 @@ Don't mix everything at the start. A while as a salad, then the remainder mixed 
 
 The table brings the raw shad salad (the main event), the soy-marinated crab (standard with it), a generous bowl of lettuce for wrapping, simmered soy beans, seasoned seaweed, acorn jelly, cabbage kimchi, and soybean paste soup. Those side dishes are exactly the part that varies shop to shop.
 
+## What it looks like
+
+The bowl on the left holds pieces of crab cured in soy sauce, and the plate on the right is piled with thinly sliced raw fish and vegetables tossed in a red seasoning, sprinkled with sesame. Both look suited to eating with rice or alongside a drink.
+
+## Menu words
+
+- **Baendaengi** is a small, flat, silvery fish
+- **Hoe-muchim** is raw fish tossed with vegetables and a spicy seasoning, and it is sometimes mixed into rice
+- **Gejang** is raw crab cured in soy sauce or a seasoning
+
 ## Worth knowing before you go
 
 - **It's spicy** — a gochujang dressing, so expect real heat

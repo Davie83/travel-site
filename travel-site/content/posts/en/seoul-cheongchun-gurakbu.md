@@ -26,6 +26,16 @@ Of all the grilled beef offal, **teugyang** is my favourite. It's a cut from the
 
 Here too, that texture came through. Alternating it with the fatty, chewy daechang keeps it from getting monotonous.
 
+## What it looks like
+
+Over a copper-colored wire grill, split-open teuk-yang lies flat, its pale pinkish inside brushed thinly with a red seasoning. Red charcoal glows beneath the grill. In the background, a plate of red meat that looks like yukhoe or liver, a soy dish and a yellow sauce, and a small bowl of clear soup sit on the table. A plate of onion is also visible at the upper left.
+
+## Menu words
+
+- **Teuk-yang** is the thick, well-conditioned part of the yang, the first stomach of beef
+- **Daechang** is beef large intestine, a fatty and rich cut
+- **Offal grill (naejang-gui)** is beef offal grilled over charcoal
+
 ## Inside the Mapo galbi alley, an offal specialist
 
 Mapo has an alley where galbi and grill houses cluster together. Cheongchun Gurakbu sits inside it, but it leads with **grilled beef offal** rather than galbi. Teugyang and daechang are the signatures, though it isn't a one-note place — the menu is fairly wide.

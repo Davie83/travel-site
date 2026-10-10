@@ -26,6 +26,16 @@ Being honest: open the door and **a deep pork smell hangs in the room**. It's a 
 
 To me, that smell is — with only slight exaggeration — fragrant. It's the same thing as the flavour of the broth and the offal here. If you're sensitive to smells, a cleaner, franchise-style sundae-guk place with a plain broth might suit you better.
 
+## What it looks like
+
+A large white plate holds offal arranged in a ring. On the right, round slices of sundae with a dark filling sit in a row, and at the top are thin-sliced pressed pork and skin pieces layered together. At the lower left are internal organ cuts gathered, and in the middle a grey piece that looks like liver. Beside the plate are dishes of radish kimchi, kimchi and salted shrimp-like seasoning, and part of the broth in an earthenware pot is visible at the upper left.
+
+## Menu words
+
+- **Sundae** is a Korean sausage in which pig intestine is stuffed with blood and grain and steamed
+- **Modum-suyuk** is an assortment of boiled cuts gathered on one plate
+- **Busok** refers collectively to organ cuts such as liver, lung and stomach. If it's your first time, ask the staff what is in the plate
+
 ## Sundae-guk and a mixed offal plate, together
 
 A sundae-guk place that has been in Euljiro a long time. The sign says sundae-guk, but the real draw here is the **modeum suyuk** — the mixed boiled plate. One plate carries blood sausage (glutinous-rice sundae), head meat, liver, lung, pig stomach, ear and other cuts, laid out by type. They're boiled well — not dry — and each part has its own texture.

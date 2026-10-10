@@ -39,6 +39,10 @@ The jat-sundubu is similar. **It's gentle, and the pine nuts make it very clean 
 
 Because it's like this, **opinions will divide.** If you go expecting a fiery sundubu stew, treat it as a different dish. For me it was a bowl I still remember.
 
+## What it looks like
+
+A pale, milky broth fills a black earthenware pot, with soft clumps of sundubu floating in it. A few pine nuts show in the broth. The pot is heated over a portable burner, and a ladle rests against one side. On the left are plates of leafy-green kimchi in red seasoning, a brown stir-fry with carrot and green onion, and a red seasoned side, and below is a soy-based dipping sauce with sesame and chopped chili floating in it.
+
 ## What foreign visitors should know
 
 - **Sundubu** is very soft, uncurdled tofu. The jat-sundubu here comes **plain in a white broth**, with no chilli — it's a different dish from the spicy sundubu-jjigae stew.

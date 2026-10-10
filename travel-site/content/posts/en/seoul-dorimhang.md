@@ -50,6 +50,16 @@ On weekends it fills up quickly even near opening time, and on a Friday evening 
 
 Book through **CatchTable**, or put your name into **Tabling** for remote queueing and wait nearby.
 
+## What it looks like
+
+A bamboo basket lined with ice is heaped with raw fish and seafood. Red tuna, white-fleshed fish, salmon, shrimp, sea urchin, grilled scallops, and shellfish are layered together, with lemon wedges and sprouts. In front, small dishes hold pickled ginger, flying fish roe, wasabi and pickles, and above are white rice, chili-vinegar sauce, soy sauce, a tofu dish and nori.
+
+## Menu words
+
+- **Modum-hoe** is an assortment of several kinds of raw fish gathered on one plate
+- **Eating it sushi-style** means laying fish and wasabi on rice and wrapping it yourself
+- **Chogochujang** is a tangy, spicy sauce of gochujang mixed with vinegar, used for dipping raw fish
+
 ## You can build your own sushi too
 
 The photo shows the full table. **Rice and dried seaweed come with it.**

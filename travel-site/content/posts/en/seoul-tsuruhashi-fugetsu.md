@@ -46,6 +46,15 @@ The photos show the sequence.
 
 The thing buried under bonito flakes at the top of the photo is a rolled omelette we ordered alongside.
 
+## What it looks like
+
+On the iron griddle, finely shredded cabbage is piled high like a small mountain, with pink pieces of meat showing between the strands. This is the stage before the batter is added, the first step of the cooking done in front of you. Behind the griddle stand a bottle of Asahi Super Dry and a glass printed with the same brand, with a griddle spatula at the right. A vent runs along one corner of the griddle.
+
+## Menu words
+
+- **Okonomiyaki** is an Osaka-style savory pancake of cabbage, batter, and meat or seafood cooked on a griddle and brushed with sauce
+- A **teppan** is a thick iron griddle on which food is cooked in front of guests
+
 ## A daytime beer, and the Osaka original
 
 **Okonomiyaki and a beer at lunch on a day off puts me in a genuinely good mood.**

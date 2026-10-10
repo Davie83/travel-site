@@ -29,6 +29,15 @@ This is the question most visitors actually want answered, so it goes first. The
 
 A useful benchmark — if you have eaten **gamjatang** (the pork bone soup) or *jjimdak* and been fine, you will be fine here. If chilli is genuinely a problem for you, this one is not for you; the marinade is on every piece and cannot be set aside.
 
+## What it looks like
+
+A white disposable bowl is packed with grilled pork spine ribs on the bone. The red seasoning is brushed on thick over the surface, charcoal-grilled with blackened patches here and there, and a clove of garlic is grilled alongside. The white bone cross-sections show, and a dark marinade pools at the bottom of the bowl. This is how it looks packed to go.
+
+## Menu words
+
+- **Gamjatang** is a hot, spicy stew made by simmering pork spine for a long time. This place also serves the same spine grilled over charcoal
+- **Charcoal-grilled spine ribs** are seasoned pork spine cooked over charcoal and eaten by tearing the meat off with your hands
+
 ## What to order: two people, small size
 
 Two of us ordered the small and finished comfortably full. Not "barely enough" — genuinely enough.

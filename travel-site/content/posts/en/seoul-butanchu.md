@@ -43,6 +43,16 @@ In the menu names, **"toko" means the rich version.** So it splits like this.
 
 On top of that you can specify the noodles, the sauce, and how much garlic, spring onion and bean sprouts you want. **A heavy Japanese-style tonkotsu** is the closest description.
 
+## What it looks like
+
+A black bowl is filled with a milky broth, with sliced green onion heaped on top. A halved soft-boiled egg sits at the left of the broth, its yolk a moist orange. A sheet of nori leans against the rim, with thick slices of chashu on either side. Chili flakes are sprinkled here and there on the broth, and a pig-face character and Chinese characters are painted in white around the bowl.
+
+## Menu words
+
+- **Tonkotsu ramen** is Japanese-style ramen in a milky broth made by simmering pork bones for a long time
+- **Chashu** is pork braised in a soy-based seasoning and sliced
+- **Hanjuk-gyeran** is a boiled egg with a slightly underset yolk
+
 ## How I order it
 
 **When I go, I have the toko tonkotsu with chijiremen.**

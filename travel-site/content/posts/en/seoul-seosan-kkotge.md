@@ -27,6 +27,16 @@ Two things, and they matter more than anything else in this article.
 
 **Two: you need a reservation.** This restaurant seats booked guests. Walk-ins are seated **only if a table happens to be free.** Make the booking before you go.
 
+## What it looks like
+
+Soy-marinated crab sits steeped in its sauce on a white plate. Over the opened crab shell, lumps of orange roe are heaped, with sliced hot green chili and sesame seeds scattered thickly on top. Crab legs and claws are scattered around the plate's edge, and the shell is a deep, blue-tinged color. The soy marinade pools at the bottom of the plate.
+
+## Menu words
+
+- **Gejang** is raw crab cured in soy sauce or seasoning, and **ganjang-gejang** is the soy-sauce-cured version
+- **Al** is the orange roe of the female crab, especially prized in gejang
+- If raw is unfamiliar, ask the staff how to eat it before ordering
+
 ## How the visit works
 
 You arrive at your booked time, they check your name, and you are led to **a table already fully set.** It is efficient and it moves fast.

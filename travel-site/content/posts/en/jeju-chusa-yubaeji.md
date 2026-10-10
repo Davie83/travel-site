@@ -28,6 +28,10 @@ Standing in front of those pines, I caught myself wondering whether it was *Chus
 
 ![The reconstructed thatched house and stone wall, with the tree that guards the yard — Chusa's place of exile](/assets/img/jeju-chusa-yubaeji-choga.jpg)
 
+## What it looks like
+
+Two tall pine trees stand side by side in the middle of the lawn yard, with a low black basalt wall running around behind them. A wooden bench sits in front of the wall between the pines, flanked on both sides by rounded azalea shrubs in pink bloom. Flat stones are laid at intervals across the grass to form a path. Beyond the wall, mountain peaks show in the distance, and thin clouds spread long across the sky. The sunlight comes in at a slant and makes the grass glint yellow.
+
 ## Kim Jeong-hui and this spot
 
 If you're passing through the southwest of Jeju, around Daejeong, this is worth a short stop. Whether you're heading straight down to Moseulpo Harbour or coming over from Aewol toward Seogwipo, it's barely a detour.

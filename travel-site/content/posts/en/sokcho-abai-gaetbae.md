@@ -34,6 +34,10 @@ The crossing itself is short. Even so, going back and forth is no hassle, so it 
 
 As the photo shows, there are times when it gets busy. At peak times you'll queue and wait your turn.
 
+## What it looks like — the landing
+
+The landing floor is pale grey tile, with sandbags stacked in a line along the water's edge. A yellow CCTV notice is fixed to the central pole, with an orange life ring hanging beside it. On the right is a boat with a blue hull and several orange life rings hanging off it, moored at the dock. Across the narrow channel stand hotels and shop buildings, and people are gathered at the dock opposite. A Chuseok banner hangs on the fence at the left, and the sky is overcast.
+
 ## For visitors
 
 - The **gaetbae** is a small boat linking central Sokcho with Cheongho-dong (Abai Village). It's traditionally moved without a motor — passengers pull it along a rope strung across the water using a hooked pole.

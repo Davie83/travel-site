@@ -58,6 +58,10 @@ By day, Cheomseongdae is a modest stone tower in a field — you might wonder wh
 
 The tower is built from **362 stones**, a number said to represent the days of the solar year, and it is **the oldest surviving astronomical observatory in East Asia** — 7th century. Standing in front of it at night, that lands differently than it does on a page.
 
+## What it looks like — Cheomseongdae at night
+
+Under a black night sky, Cheomseongdae glows gold in its lighting. The body, built of stacked stones, narrows as it rises, with a single square opening in the middle section. A square stone frame sits at the top. Silhouettes of people stand in front of the tower, and the lights of the town scatter in the distance. On the grass around it, floor-level lamps shine up at the tower.
+
 ## Split the city into day and night
 
 This is the way to use Gyeongju properly.

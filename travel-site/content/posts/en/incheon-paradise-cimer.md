@@ -25,6 +25,10 @@ Inside, the indoor pool opens up under a big domed roof. Sun loungers set out ov
 
 ![The indoor pool under the big domed roof, loungers set over the water — Paradise City Cimer](/assets/img/incheon-paradise-cimer-dome.jpg)
 
+## What it looks like
+
+Blue water spreads in the middle of a vast indoor space covered by a glass roof, with people playing in the water and at its edges. The floor is tiled in a blue-and-white curved pattern, with sun loungers topped with white cushions and round daybeds placed here and there. Arched windows and pillars run along both walls, and on some floors purple and pink translucent glass panels are attached. In each bay on the upper floor you can also see small pool-like spaces reflecting blue water, and a white swan-shaped float drifts on the water at one side.
+
 ## Tucked inside the Paradise City resort
 
 Cimer is the spa-and-sauna part of Paradise City, an integrated resort on Yeongjong Island next to Incheon Airport — a hotel, casino, art space and club all in one place.

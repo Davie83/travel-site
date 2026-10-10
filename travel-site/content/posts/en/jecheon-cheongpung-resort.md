@@ -34,6 +34,10 @@ The resort sits on a hill looking down over that shoreline. Step onto the balcon
 
 ![Cheongpung Lake and the mountains wrapped around it — the view from Cheongpung Resort](/assets/img/jecheon-cheongpung-resort-hoban.jpg)
 
+## What it looks like — from the room balcony
+
+Beyond the pale pink balcony railing, Cheongpung Lake spreads wide. A floating structure with a white shell-shaped roof sits in the middle of the lake, with one small boat beside it. The mountains around the lake are covered in green, with a pointed peak in the middle the highest. Below, a walking path runs through woods of pines and broad-leaved trees. The sky is overcast with low, thick cloud, and a fall-warning sign is stuck below the railing.
+
 ## What's around
 
 - **Cheongpung Cultural Heritage Complex** — old buildings from villages that would have gone under the water, moved and gathered here. Right next to the resort.

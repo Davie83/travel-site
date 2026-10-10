@@ -28,6 +28,10 @@ A wooden boardwalk runs through the pine trees straight down to the sand and the
 
 ![A wooden boardwalk through the pine trees at Donmak Beach, with tents pitched on the sand beside it](/assets/img/incheon-ganghwa-donmak-beach-boardwalk.jpg)
 
+## What it looks like
+
+This is the beach on a day when the water has gone far out. In front, golden sand spreads wide, with several large three-dimensional letter sculptures standing on it. Each letter looks a different texture, like dark brown, grey and green marble. Beyond the sand, a muddy tidal flat stretches almost to the horizon, with people standing tiny on it. At the far right, a wooded hill extends, and the sky is hazy and overcast.
+
 ## High tide, low tide, mudflat
 
 This is a West Sea beach, so the scenery shifts completely with the tide. At high tide it's an ordinary beach. At low tide, the mudflat stretches out for a long way. Various creatures live in it, but collecting anything is banned to protect the ecosystem — look, don't take.

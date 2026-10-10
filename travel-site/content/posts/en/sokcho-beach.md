@@ -38,6 +38,10 @@ The lower floors of the building it stands on hold **coffee, bakery, beer and ic
 
 The beach itself is only open for swimming during the summer season; the rest of the year you're mostly here for the plaza, the promenade, and the photo spots.
 
+## What it looks like
+
+Under an overcast sky, a wide stone plaza leads toward the beach. Dark lines on the plaza floor trace concentric circles and curves, and a large planter with pink flowers sits in the foreground. On the sand stand three-dimensional "#속초여행" letters, an information structure with a character and a sunrise photo inside a square frame, and a white letter sculpture. Beyond them in the sea stand green and yellow buoy-type lighthouses, and in the distance to the right is a banner about the beach's closed period. A palm-shaped decoration stands on the left.
+
 ## For visitors
 
 - **Sokcho** is a city on the east coast, reachable from Seoul by express bus or by KTX plus a local bus. Sokcho Beach is close to the city centre.

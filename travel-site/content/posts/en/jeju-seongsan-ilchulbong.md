@@ -28,6 +28,10 @@ Jeju is supposed to be good any time of year, but this particular combination is
 
 Ilchulbong itself can be climbed any season, but miss those few spring weeks for the canola and you're waiting until next year. True to its name, early morning is the most beautiful time to go — but expect it to be busy too.
 
+## What it looks like
+
+Under a blue sky, Seongsan Ilchulbong rises with a flat top and one side a sheer rock cliff. Below the mountain, a gentle slope covered in yellowing dry grass runs down, and people are lined up along the trail on the ridge above. At the bottom is a low building topped with black volcanic stone, its signs reading "nursing room" and "storage". Two people sit side by side on the low wall in front of the building, and plants like agave grow around it.
+
 ## The canola field at Gwangchigi Beach
 
 Right below Seongsan Ilchulbong, **the area around Gwangchigi Beach is cited as the largest canola field on Jeju**. In spring, yellow rapeseed flowers spill across the ground between the black basalt walls.

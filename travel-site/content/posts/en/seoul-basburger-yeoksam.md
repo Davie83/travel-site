@@ -33,6 +33,10 @@ The space added to it too — pink tile counter, a neon sign glowing on the bric
 
 **It was excellent.** Good enough that I wanted to just lie down right there afterward.
 
+## What it looks like
+
+On the tray, a burger wrapped in paper sits with lettuce spilling out, and a paper tray holds golden-fried onion rings. In the middle stands a tall glass printed with the "BAS BURGER" logo, full of foamy beer, with a stainless cup and what looks like potato chips behind it. The tray liner is checkered, and a counter ringed in pink tile is blurred in the background.
+
 ## How to read the menu
 
 The signature **Bas Burger** comes as single ₩8,200, double ₩11,900 or triple ₩15,600 — the number climbs with the patty count (names like these usually refer to the number of patties). For a lighter start there is the sriracha cheeseburger (₩7,300), and for something different the wasabi-mayo shrimp burger (₩10,900) (as of Sep 2026). **The patty isn't salty and the bun is soft**, and the **basic potato chips are refillable**.

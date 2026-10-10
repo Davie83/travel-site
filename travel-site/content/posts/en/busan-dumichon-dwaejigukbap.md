@@ -42,6 +42,16 @@ Look at the photo. None of it is decoration.
 
 The rice comes in its own bowl. **Tip it into the soup or eat it separately** — both are normal.
 
+## What it looks like
+
+The black earthenware pot is filled with a clear brown broth, steam rising from it. Sliced green onion floats on the surface. Beside it, white rice sits in a stainless bowl, and a plate holds a heap of thin-sliced suyuk. Seasoned chives, green chili and onion, salted shrimp, ssamjang, radish kimchi and kimchi come in small dishes. The rice is served separately, to be added to the broth later.
+
+## Menu words
+
+- **Dwaeji-gukbap** is Busan's signature pork soup with rice, made with meat in a broth simmered from pork bones
+- **Suyuk** is boiled pork sliced thin and served on a plate
+- **Saeu-jeot** is salted small shrimp, used to adjust the seasoning
+
 ## Its real strength: it's open until midnight
 
 **It runs until 12:00 AM.**

@@ -31,6 +31,16 @@ If **Cheongeoram** in Mangwon-dong is the clean, vegetable-broth version that ke
 
 **The beef tripe hot pot costs noticeably more than at Cheongeoram.** Being premium, the price climbs to match. If tripe quality matters more to you than value, this is the right call.
 
+## What it looks like — the jeongol ingredients
+
+Inside the black jeongol pot, the ingredients are laid out by section. On the left is crown daisy, in the middle a bundle of white enoki and pieces of carrot, and below them oyster and king oyster mushrooms. On the right, seasoned beef gopchang is heaped up, with a red dadaegi seasoning placed separately on top. Because it is the raw look before boiling, you can see at a glance what goes in.
+
+## Menu words
+
+- **Gopchang-jeongol** is a hot pot of beef small intestine, vegetables and mushrooms simmered in broth
+- **Dadaegi** is a red seasoning made from chili and other ingredients, stirred into the broth to adjust the heat
+- **Gopchang** is the small intestine of beef. If it's your first time, the chewy texture may feel unfamiliar
+
 ## From the Samseong-dong original to Yeouido
 
 Jungang Haejang seems to have opened branches in a few places lately. **I first fell for it at the Samseong-dong original**, so having a branch this close to Yeouido now is a welcome surprise.

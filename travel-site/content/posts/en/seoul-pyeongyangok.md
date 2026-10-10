@@ -32,6 +32,16 @@ The **gamja-jeon — a pancake of shredded potato** — has become well known la
 
 One thing, though. **The broth already carries a fair amount of chicken fat, and the pancake is oil-fried on top of that**, so going back and forth between them was oil on oil and didn't feel especially harmonious to me. **Unless you really like potato pancake, the gomtang alone is enough.**
 
+## What it looks like
+
+The black earthenware pot is filled with a pale brown clear broth, with foam on the surface. Inside you can see green onion, mushrooms, pieces of yellow egg and shredded chicken. Above it, a golden-fried potato pancake is spread on a large plate, topped with red and green chili at its center, with a small bowl of spicy pickled chili beside it. A metal lidded container is also visible next to the spoon.
+
+## Menu words
+
+- **Dak-gomtang** is a clear soup of chicken in a broth simmered for a long time
+- **Neungi** is a strongly aromatic mountain mushroom that adds depth of aroma to the broth
+- **Gamja-chae-jeon** is a pancake of finely shredded potato fried together
+
 ## For visitors
 
 - **Dak-gomtang is a clear broth from long-simmered chicken.** Think of it as the chicken version of beef gomtang. **It is not spicy.** Here they boil a native-breed bird and serve only the picked meat.

@@ -37,6 +37,16 @@ That is the garlic you can see on the right of the photo. **Peeled cloves and a 
 
 Once the garlic steeps into the thick tonkotsu broth, the bowl becomes a different thing. **It works as hangover food and as a restorative at the same time.** At 2 in the morning, that combination lands.
 
+## What it looks like
+
+A white bowl ringed with a red scroll pattern holds a milky tonkotsu broth, with thin noodles laid beneath it. The surface is heaped with finely sliced scallion, with bean sprouts, half a soy-braised egg, a thick slice of chashu and thin strips of wood-ear mushroom on top. A white spoon rests on one side, and behind it sit a dish of crushed garlic and a garlic press. A thin layer of oil floats on the surface of the broth.
+
+## Menu words
+
+- **Tonkotsu** is a milky broth made by simmering pork bones for a long time, characteristic of Hakata ramen
+- **Chashu** is pork braised in a soy-based seasoning and sliced
+- The **garlic press** is there so you can crush garlic into the ramen on the spot
+
 ## The noodles are thin
 
 **Hakata style means thin noodles.** In the photo you can see them in the broth, nearly thread-thin.

@@ -32,6 +32,16 @@ It is **raw fish over rice**, served with shredded vegetables, flying fish roe, 
 
 **The fish is raw and not cured.** If you don't eat raw fish, order something else — this is a seafood restaurant with other options.
 
+## What it looks like
+
+In a large white bowl, shredded cabbage, lettuce, orange flying fish roe, chopped yellow pickled radish, shredded seaweed and raw fish are arranged in separate sections, making it colorful. In the middle, diced raw fish, red and white-fleshed, are gathered together. The side plates hold radish kimchi, a red seasoned side, soy-braised beans, potatoes braised in spicy seasoning and kimchi, and the long plate in the center carries fish cutlet with tartar sauce and a vegetable salad. One bowl for mixing and the side dishes come together on the same table.
+
+## Menu words
+
+- **Hoe-deopbap** is rice topped with raw fish and vegetables, mixed with a sauce such as chili-vinegar sauce
+- **Nalchi-al** is flying fish roe, with a popping texture
+- **Danmuji** is yellow pickled radish
+
 ## The side dishes are the story
 
 Korean restaurants serve free side dishes (*banchan*), refillable at no charge. Here they go further than usual.

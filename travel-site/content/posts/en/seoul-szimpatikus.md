@@ -48,6 +48,16 @@ Then there is **perilla oil**, pressed from perilla seeds. It is nutty in a way 
 
 ![The table — ribs in the centre, the bracken and brisket pasta at the top right](/assets/img/seoul-szimpatikus-table.jpg)
 
+## What it looks like
+
+On a round stone plate, thin spaghetti is coiled like a nest, topped with a heap of crisp-seared chadolbaegi and meat pulled apart along the grain. The noodles are tinted with a green herb sauce, with sliced scallion scattered on top and more across the plate. The beef is crisped to a deep brown on the outside, with white fat visible at the edges. The tip of a tong-like tool rests lightly over the top of the plate.
+
+## Menu words
+
+- **Chadolbaegi** is thinly sliced beef brisket with a rich, fatty flavor
+- **Spaghetti** is thin, rod-shaped Italian pasta
+- **Gosari** is bracken fern, used in Korean seasoned vegetable dishes. It is an ingredient named in the dish
+
 ## Above average all round, and reasonably priced
 
 To be honest about it: **this is not a once-in-a-lifetime restaurant.** What it is, is **a place that does not disappoint you on any single count.**

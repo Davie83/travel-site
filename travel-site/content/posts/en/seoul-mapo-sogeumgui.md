@@ -42,6 +42,16 @@ So read "Mapo Sogeumgui" on a sign as **a kind of food, not a brand.** **This pa
 
 **The confusion is real.** There is another Mapo Sogeumgui within Mapo itself — 32 Wausan-ro 32-gil, a separate old shop running since 1996. There are more out towards Seokgye and Amsa. **Which is why the address matters** — the place in this post is **27 Yanghwa-ro, Hapjeong.**
 
+## What it looks like
+
+Layers of grilled kkeopdegi are stacked on a round stainless plate. The skin is browned past golden to a deep brown, with grains of salt glinting on the surface and charred patches here and there. Some pieces curl up, showing thick cross-sections. Behind the plate sit pickled onion, red kimchi, and a bowl of shredded scallion and green chili.
+
+## Menu words
+
+- **Sogeum-gui** is meat grilled with only salt, without a marinade
+- **Kkeopdegi** is grilled pork skin, chewy and rich
+- **Chobeol** means pre-grilling the meat once before it reaches your table
+
 ## The pairing: skin and pork neck
 
 **Kkeopdegi** is pork skin — the rind off the belly, separated out and grilled on its own. Grilled, **the outside turns chewy while the fat underneath melts.** Texture is the whole point of the dish, so if you enjoy something with real chew to it, this suits you. In Korea pork skin is **drinking food** — nobody eats it as a side dish with rice; you order it with a bottle of soju and grill it slowly.

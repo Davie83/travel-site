@@ -33,6 +33,16 @@ Thin slices of **black truffle** go on top of the black bean sauce, with thick p
 
 **Portions are large.** Two adults can share one bowl and be satisfied. With another dish alongside, three can share. If you order one bowl per person you will leave food behind.
 
+## What it looks like
+
+In a white bowl, a thick, dark brown jajang sauce covers the noodles, with several layers of sliced beef on top. On one side, thin shavings of black truffle sit over a soft fried egg, and the noodles are thick and yellowish. On the plate behind, finely cut green and red chili with sesame is piled like a mountain, with something fried spread underneath. At the upper left are a small bowl of braised peanuts and tongs.
+
+## Menu words
+
+- **Jajangmyeon** is a Korean-Chinese noodle dish with black bean sauce spooned over noodles and mixed in
+- **Truffle** is a strongly aromatic luxury mushroom, shaved thin and placed on top
+- **Yurinki** is a Chinese-style dish of fried chicken in a tangy sauce
+
 ## The chilli fried chicken (*gochu yurinji*)
 
 The other headline dish.

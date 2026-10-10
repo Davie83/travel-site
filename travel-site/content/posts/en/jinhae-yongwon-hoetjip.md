@@ -38,6 +38,16 @@ That white, folded lobe in the middle of the photo is **milt** — the sperm sac
 
 **The flesh is soft too.** This is not something to compare with frozen cod soup. The broth is clear, as in the photo, and getting that much depth out of a clear broth is exactly what fresh cod can do.
 
+## What it looks like
+
+A clear broth is boiling in the stainless bowl, with white iri sitting in a winding mass in the middle. Around it you can see large pieces of cod, radish and green leaves, and white foam has spread over the surface right to the edges. Beside it are a plate of seasoned bean sprouts, a red seasoning, and a dish of soy sauce with wasabi stirred in. The broth is on the clear side, without chili flakes.
+
+## Menu words
+
+- **Iri** is the milt of male cod, known for its soft, rich texture. Its name and look may be unfamiliar, so ask the staff before ordering
+- **Daegu-tang** is a stew cooked with cod, and this place makes it in the clear style
+- **Yongwon** is the name of a fishing-harbor neighborhood in Jinhae
+
 ## Take the course if you can
 
 **If your budget allows, have the fresh cod as sashimi, as a pancake and as soup in one sitting.** This restaurant offers a **cod course**.

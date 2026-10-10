@@ -40,6 +40,10 @@ If you have tried *seolleongtang* (the milky-white ox bone soup) and found it to
 
 It isn't chewy; it pulls apart along the grain. If you only order the soup you're missing the better half of the meal. Get the *suyuk* alongside it.
 
+## What it looks like — a plate of suyuk
+
+The plate comes heaped with suyuk, sprinkled with sesame seeds. The meat is sliced thin with its grain still visible. Beside it sit kkakdugi, kimchi, green chilies, garlic slices and a perilla leaf, and a red sauce and a yellow sauce come in separate dishes for dipping.
+
 ## Expect a queue — and work around it
 
 This is a fixed stop for anyone visiting Naju. At meal times, there is a line.
@@ -57,6 +61,13 @@ Takeaway is also available.
 - **8:00 AM opening** is the simplest way to skip the wait.
 - **Language** — a traditional restaurant. Gomtang and suyuk are essentially the whole menu, so ordering is simple.
 - **Nearby city** — if you're extending the trip a short drive over to Gwangju, [Hyeongje Songjeong Tteok-galbi](/en/posts/gwangju-hyeongje-tteokgalbi) is worth pairing with it.
+
+## For foreign visitors
+
+- **Gomtang** is a soup made by simmering beef and bones for a long time. Naju gomtang has a clear broth, so it is gentle for first-timers
+- **Suyuk** is boiled meat sliced thin and served on its own plate. Ordering it alongside the gomtang lets you compare the two
+- **Kkakdugi** is kimchi made from cubed radish, and it is central to how this restaurant sets the table
+- To order, say "Gomtang hana, suyuk hana juseyo" (곰탕 하나, 수육 하나 주세요)
 
 ## Who this suits
 

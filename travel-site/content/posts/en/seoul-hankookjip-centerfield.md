@@ -28,6 +28,17 @@ info:
 
 This visit was honestly an ordering mistake — I ended up with the bibimbap set and the bulgogi home-style set, and looking back, **I wish I'd tried the octopus bibimbap.** Still, nothing was over-seasoned, and it had been a while since I'd had good Jeonju-style bibimbap.
 
+## What it looks like on the tray
+
+In the black stone pot, white shredded radish, yellow egg strips, stir-fried beef, spinach, pieces of seaweed and a red kimchi topping sit around the edge, and in the center a single ginkgo nut and a dab of gochujang rest on the beef. The sides come in brass bowls: pickled green chilies, black beans, kimchi and a clear soup with bean sprouts, with bulgogi served separately.
+
+## Menu words
+
+- **Bibimbap** is rice topped with seasoned vegetables, meat and gochujang, mixed together. A **dolsot** is a heated stone pot that keeps the rice hot and lightly crisps the bottom
+- **Gochujang** is a fermented chili paste. The one here is on the mild side
+- **Bulgogi** is thin-sliced beef marinated in a sweet soy seasoning
+- **Jeongsik** means a set meal where the main dish comes with side dishes and soup
+
 ## The essentials
 
 - **Location** — 231 Teheran-ro, Gangnam-gu, Seoul, B2 Centerfield EAST.

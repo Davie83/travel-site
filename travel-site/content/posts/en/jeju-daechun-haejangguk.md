@@ -34,6 +34,17 @@ Jeju haejangguk generally splits into two styles: a clear, light broth and a hea
 
 Jeju-style haejangguk isn't complete until you **stir in a generous scoop of minced garlic**. The dish of garlic on the table isn't there to be saved — use it freely and the broth wakes right up. Daechun is no exception.
 
+## What it looks like on the table
+
+A pale, clear broth fills the black earthenware pot, with thinly sliced offal floating in it. A heap of red seasoning sits in the middle, with sliced green onion beside it. The table also holds kimchi, ground garlic, a small dish of brown seasoning, whole green chilies, sesame-oil dip and a soup bowl. Before the red seasoning is stirred in, the broth looks quite clear.
+
+## For foreign visitors
+
+- **Haejangguk** is a soup eaten to ease a hangover ("haejang"). In Jeju people also commonly have it for breakfast
+- **Naejang-tang** is a soup cooked with offal. If offal is unfamiliar, the haejangguk is the safer choice
+- **Gan-maneul** is ground garlic. You stir the portion on the table into the soup
+- To order, say "Naejang-tang hana juseyo" (내장탕 하나 주세요)
+
 ## Who this is for
 
 - ✅ People who want **hearty tripe** over a light, clear broth

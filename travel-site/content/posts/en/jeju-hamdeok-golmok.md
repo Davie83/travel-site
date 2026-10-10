@@ -29,6 +29,10 @@ Going back after a long time, I found it had **moved from near Hamdeok Beach to 
 
 The **offal soup is the signature** here. A hefty broth with fresh offal, and when you **wrap the offal in a perilla leaf with salted fermented fish**, it tastes great. It brought back fond old memories of how good it was.
 
+## What it looks like on the table
+
+It arrives in the black earthenware pot, still bubbling. A pale froth covers the broth, with green onion, chili flakes and a dark powder sprinkled on top, and the offal shows white through the soup. Alongside sit cubed radish kimchi, minced garlic, sliced green chili and a small dish of red seasoning. The garlic, chili and seasoning are there so you can adjust the saltiness and heat to your own taste.
+
 ## What to know before you go
 
 - **No takeout.** You can only eat it right there in the restaurant

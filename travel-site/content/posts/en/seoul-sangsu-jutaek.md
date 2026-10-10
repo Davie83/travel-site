@@ -36,9 +36,20 @@ It's on the second floor of an old house down a side street near Sangsu Station.
 
 The anju menu is wide, so there's fun in picking a few different things. I ordered the **Sangsu octopus bossam** — octopus and boiled pork wrapped with perilla leaf — and the **seafood minari-jeon**, loaded with minari and vegetables under a sweet-spicy sauce. Beyond that there's also clam jjim, cheese kimchi-jeon and beef tendon fish cake soup, so soups, pancakes and steamed dishes are all covered.
 
+## What it looks like on the table
+
+The octopus bossam comes on one plate with thin-sliced octopus and boiled pork, alongside perilla leaves, ssamjang, salted shrimp and a red sauce. You lay the pork and octopus on a perilla leaf, add ssamjang or salted shrimp, and wrap it. The seafood minari pancake fills a large black plate, piled high with minari and a dressed vegetable topping under a sweet-and-spicy sauce. A small dish of soy-based dipping sauce sits beside it.
+
 ## Solidly good, not spectacular
 
 The anju itself isn't the kind of thing you'd brag about elsewhere. But it isn't overly salty or heavy-handed either — solidly good enough to go with makgeolli or other traditional liquor. Think of this less as a place that wins on one standout dish, and more as somewhere to enjoy the drink and the atmosphere together.
+
+## For foreign visitors
+
+- **Makgeolli** is a cloudy Korean traditional liquor brewed from rice. If you can't decide which one to order, say "Amugeona chucheonhaejuseyo" (아무거나 추천해주세요) and the staff will choose for you
+- **Bossam** is boiled pork wrapped in perilla leaf or cabbage, and this place adds octopus to make its signature **muneo bossam (octopus bossam)**
+- **Jeon** is a Korean pan-fried pancake made by coating ingredients in batter. Pairing it with makgeolli is a common combination
+- **Anju** is the general word for food eaten alongside drinks
 
 ## Before you go
 

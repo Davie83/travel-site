@@ -33,6 +33,16 @@ What makes this place is the **aging**. The sashimi here is aged particularly we
 
 ![Aged mackerel sashimi at Yokosuka Tsunami Sangsu, sliced and topped with sauce](/assets/img/seoul-yokosuka-tsunami-sangsu-saba.jpg)
 
+## What it looks like on the plate
+
+White-fleshed and red-fleshed fish share one octagonal plate, with wasabi, daikon sprouts and sliced green onion. A few pieces still have their skin on, and the red slices have a gloss. A dish of soy sauce sits apart, and a ceramic sake bottle painted with waves stands next to the plate. What you get depends on what came in that day.
+
+## Menu words
+
+- **Sashimi** is raw fish sliced thin. **Modum-sashimi** is an assortment of several kinds on one plate
+- **Sukseong-hoe** is raw fish that has been rested for a period after catching to deepen its flavor and texture
+- Because the menu changes daily, ask the staff "Oneul mwoga joayo?" (오늘 뭐가 좋아요?)
+
 ## The wait, and notes for visitors
 
 **I think about this place from time to time, but the wait keeps me from going often.** You need to arrive before opening to get a table. Going with low expectations about the wait is good for your sanity. If you have time to kill in line, [Roofcatme Cat Cafe, Hongdae](/en/posts/seoul-roofcatme-hongdae) is a short detour in the same Hongdae area.

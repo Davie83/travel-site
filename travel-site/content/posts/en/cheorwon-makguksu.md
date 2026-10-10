@@ -42,6 +42,17 @@ If your idea of a good bibim noodle is a heavy, punchy sauce, this may read as u
 
 A bowl of cold buckwheat noodles alone is light. With two or more people, add the *bindaetteok*.
 
+## Reading the bowl — a modest topping
+
+A red chili sauce sits in the middle of a stainless-steel bowl, with red-seasoned shredded radish, cucumber, lettuce and a halved boiled egg on top. Sesame seeds are scattered generously over the egg and cucumber, and the noodles carry the dark flecks that buckwheat leaves. A little sauce-thinned liquid pools at the bottom of the bowl, so it isn't a dry, clumped mix.
+
+## How to eat it, and the menu words
+
+- **Makguksu** is a Gangwon-province noodle made from buckwheat. **Bibim** means mixed with a spicy sauce, and **mul** means served in cold broth
+- **Nokdu-jeon** is a pancake made from ground mung beans, a common side at makguksu restaurants
+- Turn the bibim over **all the way to the bottom of the bowl** and mix it evenly before eating. Buckwheat noodles break and turn soft more easily than wheat noodles, so it is better to eat them right when they arrive
+- To order, say "Bibim-makguksu juseyo" (비빔막국수 주세요)
+
 ## Practical notes
 
 - **Where** — Galmal-eup, Cheorwon. This is close to the DMZ border area, and pairs naturally with Goseokjeong or the Hantangang river gorge.

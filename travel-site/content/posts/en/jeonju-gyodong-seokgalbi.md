@@ -25,6 +25,10 @@ I ordered seokgalbi, and even though it's a single hot-plate dish, the table fil
 
 ![The full spread at Gyodong Seokgalbi — the sizzling stone-plate seokgalbi surrounded by a dozen-plus side dishes](/assets/img/jeonju-gyodong-seokgalbi-table.jpg)
 
+## The seokgalbi on its stone plate
+
+On a black stone plate sits a heap of bite-sized marinated galbi, scattered with sliced green onion and sesame. Enoki mushrooms and onion lie beneath the meat. The plate comes on a wooden stand, ringed with japchae, stuffed cucumber kimchi, kimchi and garlic, while rice and soup arrive in separate stainless bowls.
+
 ## The taste? It was... fine
 
 To be honest, the taste itself was just average. Not bad, but not something to rave about either — it was **just fine, perfectly edible**. Still, between the number of side dishes and the lively, colorful spread, I left full and in a good mood.

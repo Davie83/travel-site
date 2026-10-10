@@ -31,6 +31,10 @@ Two of us ordered **janchi-guksu and the egg-wrapped gimbap** — that's what's 
 
 But **I'm not sure the "well known nearby" reputation justifies a special trip.** It's a decent neighbourhood snack bar, not somewhere to bend your itinerary for.
 
+## What it looks like
+
+In a stainless-steel bowl, thin wheat noodles sit in a clear broth, topped with a generous heap of shredded seaweed, sliced green onion and flat pieces of fish cake. On the plate beside it is the egg-wrapped gimbap, sliced, with the gimbap rolled in a thin egg and pan-fried until golden. A separate bowl of soup sits to one side.
+
 ## What foreign visitors should know
 
 - **Neither dish is spicy.** Janchi-guksu is a mild anchovy noodle soup, and the egg-wrapped gimbap has no heat. A safe combination if you can't eat spicy.

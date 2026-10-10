@@ -29,6 +29,16 @@ Most people here seem to order the cod soup. But I figure **Seoul already has pl
 
 This time I ordered **bokjiri and grilled fish**. Bokjiri is a clear, light pufferfish soup — not spicy, with a refreshing broth. I paired it with the grilled fish on the side.
 
+## What it looks like
+
+The bokjiri is at a rolling boil in the pot. Through the pale froth you can see pieces of white-fleshed fish, other white ingredients and thick-cut green onion, with a ladle resting in the pot. The broth is on the clear side, with no chili stirred in.
+
+## What is bokjiri?
+
+- **Bokeo** is pufferfish. It is poisonous, so in Korea it must be prepared by someone with a pufferfish-handling qualification
+- **Jiri** is a clear fish soup made without chili powder, and **bokjiri** is jiri made with pufferfish
+- It is not spicy and tastes clean and refreshing, so it works for people who find spicy food hard
+
 ## Most of the menu is good, and it feels home-cooked
 
 **Most of what's on the menu tastes good.** It's not an elaborate spread, but there's something about it that feels like a meal made at home. The side dishes are simple and well put together, and it's an easy, comfortable meal overall.

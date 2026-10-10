@@ -28,6 +28,10 @@ Of all the jokbal I've had around Gangnam, **this was the best.** Going back aft
 
 Both textures are there in one slice. It's braised without any gamey edge, and the seasoning isn't heavy. Wrapping it in lettuce, you end up ordering another plate.
 
+## What it looks like
+
+A large white plate comes piled with jokbal. Thin slices of glossy brown skin, lean meat and the part with the bone attached are stacked together. Beside it sit a plate of red-leaf lettuce, garlic, a small dish of red wrap seasoning, seasoned shredded radish and white water kimchi, with a bean-sprout soup alongside. The whole spread is set up for wrapping.
+
 ## For foreign visitors
 
 - **The jokbal itself is not spicy.** The **salted-shrimp and soybean-paste dips** and the seasoned side dishes carry a little heat, but you can leave them out.

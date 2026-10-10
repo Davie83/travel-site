@@ -34,6 +34,14 @@ Honestly: **fine.**
 
 Not badly made. Soft, competent, pleasant. But not the kind of thing that pulls you back across the city. Go in expecting the best dessert of your trip and it won't land.
 
+## What it looks like
+
+A white cream covers the round soufflé pancake like a cloud, topped with a single strawberry and a small leaf. Red strawberry sauce runs down beneath the cream and pools on the plate, and powdered sugar is dusted along the rim. The plate is a classic shape ringed with a red vine pattern.
+
+## What is a soufflé pancake?
+
+A **soufflé pancake** is made with whipped egg whites, so it comes out much fluffier than an ordinary pancake. It takes time to cook, which is why there is a wait between ordering and serving.
+
 ## It isn't cheap
 
 Around ₩10,000–20,000 per person. For a café dessert in Seoul, that's on the higher side.

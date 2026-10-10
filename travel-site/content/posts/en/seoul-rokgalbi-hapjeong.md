@@ -40,6 +40,10 @@ What I had this time was the marinated ribs, but the menu also has **fully spicy
 
 **The marinated ribs themselves are not spicy.** Even so, they come with the same spicy dipping sauce served on the side as the fully spicy version, so you can dip a piece in, taste how hot it is, and decide on a future visit whether to move on to the fully spicy version.
 
+## Pork ribs over charcoal
+
+Red embers glow beneath the wire grill, and the ribs are cooking above them. The surface has darkened along the bone, with glazed, shiny patches next to charred ones. A piece in front curls with its skin side rounded, and a small dish of yellow powder sits in one corner. A little smoke is rising, and the photo caught it.
+
 ## Side dishes are up to you
 
 I don't usually order side dishes myself, but the people I went with often ordered the **flying fish roe rice ball and the iced mook (acorn jelly) soup.** Worth adding if the ribs alone don't feel like enough.

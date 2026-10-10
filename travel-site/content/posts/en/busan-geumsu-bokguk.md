@@ -33,6 +33,10 @@ Pufferfish carries a reputation for being expensive. This place is the opposite 
 - **Fried pufferfish** — the contrast against the mild soup is what makes the meal. This was good.
 - **Raw pufferfish salad** (*yukhoe* style) — unfamiliar to most visitors, and better than I expected. Pufferfish flesh dressed and served raw; the texture is firm and springy.
 
+## Pufferfish yukhoe
+
+Bite-sized pufferfish, dressed in seasoning, comes in a brass bowl, topped with pine nuts, sesame and chopped green onion, with shredded pear and microgreens on the side. Separate dishes hold a red sauce like gochujang vinegar sauce and a gray seasoned powder. The pufferfish looks translucent.
+
 ## Being honest about it, and is pufferfish safe
 
 **This is a textbook Korean pufferfish restaurant.** It is not somewhere to make a special trip for. What it does is the standard version of the genre, done properly, at a fair price. For a morning in Busan when you need something restorative — or if you simply want to try pufferfish once — it is a safe choice.

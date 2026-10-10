@@ -35,6 +35,17 @@ There's a small bakery selection too, good to pair with the coffee.
 
 Worth a stop if you have errands nearby. If you're still in Gangnam come evening, [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae), also around Teheran-ro, makes a filling way to close out the day.
 
+## What it looks like
+
+A clear cup of iced coffee in a translucent brown, with a white paper sleeve printed "L'OISEAU Roasting Co. Coffee". The photo was taken in front of the shop, where a glass storefront shows behind the cup. The cup is clean and the logo is large, so it stands out when you carry it around.
+
+## Menu words
+
+- **Drip coffee** is made by slowly pouring hot water over grounds in a filter. The same beans taste different depending on how they are brewed
+- **Americano** is espresso with added water, and **Einspänner** is strong coffee topped with cream
+- **Affogato** is a dessert of espresso poured over ice cream
+- **Geisha** is a coffee variety known for floral aromas and a fruity acidity
+
 ## Good for you if
 
 - ✅ You're looking for an award-winning pour-over cafe

@@ -35,6 +35,10 @@ Unlike the market or the cafe street in Mangwon-dong, this place sits a little a
 
 **Most people start with raw pork neck and move on to the pork skin.** You fill up a bit on the neck meat first, then finish with kkeopdegi — a pattern similar to [Mapo Sogeumgui](/posts/seoul-mapo-sogeumgui), which I've also written about. Ordering both together works better than kkeopdegi alone.
 
+## What it looks like on the grill
+
+Two large sheets of kkeopdegi lie flat on the open grill, browning. The seasoning has soaked into the surface and is bubbling, while kimchi and small cut pieces of meat sit along the edge of the grate. The table also holds a brown seasoning powder, cut chives and a stew.
+
 ## There can be a wait
 
 **Evenings can mean a wait, worth keeping in mind.** During busy hours you may need to line up, so it helps to go with some time to spare or be mentally prepared for it.

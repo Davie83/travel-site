@@ -25,6 +25,15 @@ I found this place while reading around about **kaymak**, back when it was start
 
 The interior feels **deliberately done in a Turkish style** — a row of brass coffee pots along the windowsill, colourful fish paintings on the wall. Outside there's a **well-kept garden**. Good atmosphere for photos.
 
+## What it looks like by the window
+
+Brass pots stand in a row on the windowsill, with three colorful paintings of fish leaning below them. A potted plant stands to one side, and outside the window you can see a deck with a wooden railing, a lawn garden and the roofs of houses in the distance. The sky was overcast that day.
+
+## What are sütlaç and kaymak?
+
+- **Sütlaç** is a Turkish pudding made by cooking rice in milk
+- **Kaymak** is a thick cream made by skimming the fat from milk, and in Türkiye it is eaten with bread or honey
+
 ## I always end up ordering the sütlaç
 
 When I get here, I end up ordering the **sütlaç** (a Turkish milk pudding).

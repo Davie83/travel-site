@@ -6,14 +6,14 @@ area: yeongdeungpo
 date: 2026-10-11
 emoji: 🥟
 thumb: assets/img/seoul-haosum-yeongdeungpo.jpg
-excerpt: A Hong Kong-style dim sum restaurant on basement level 1 of Times Square in Yeongdeungpo, Seoul. I ordered soup dumplings, black har gow, stir-fried water spinach and a mapo tofu clay-pot rice, with a black tea beer on the side. At a Chinese restaurant I always agonise over which dish should anchor the meal, and this day I meant to eat lightly and walked out full.
+excerpt: A Hong Kong-style dim sum restaurant on basement level 1 of Times Square in Yeongdeungpo, Seoul. I ordered soup dumplings, black har gow, stir-fried water spinach and a Hong Kong-style clay-pot rice with pork and mapo tofu, with a black tea beer on the side. At a Chinese restaurant I always agonise over which dish should anchor the meal, and this day I meant to eat lightly and walked out full.
 tags: [Seoul, Yeongdeungpo, Times Square, Hao'sum, dim sum, Hong Kong cuisine, xiaolongbao, har gow, water spinach, black tea beer, Chinese]
 info:
   - Restaurant|Hao'sum Yeongdeungpo Times Square (호우섬 영등포 타임스퀘어점)
   - Location|B1, Times Square, 15 Yeongjung-ro, Yeongdeungpo-gu, Seoul (서울 영등포구 영중로 15 타임스퀘어 지하 1층; as of Oct 2026)
-  - Signature dishes|**Dim sum** — soup dumplings · black har gow · stir-fried water spinach · mapo tofu clay-pot rice (what I ordered that day)
+  - Signature dishes|**Dim sum** — soup dumplings · black har gow · stir-fried water spinach · pork and mapo tofu clay-pot rice (what I ordered that day)
   - Drink on the side|**Hao'sum Beer (black tea IPA)** — 5.3% · 330ml
-  - Prices|Black har gow (3 pieces) 9,500 won · soup dumplings 8,500 won (as of Oct 2026)
+  - Prices|Black har gow (3 pieces) 9,500 won (as of Oct 2026)
   - Hours|11:00 – 21:30 (as of Oct 2026)
   - Phone|0507-1440-7801 (as of Oct 2026)
 ---
@@ -24,7 +24,7 @@ info:
 
 Whenever I sit down in a Chinese restaurant I agonise over the order. Dim sum is a given, but among that many dishes, which one should be the dish that anchors today's meal? I spend a good while on it.
 
-That day I settled on **soup dumplings, black har gow and stir-fried water spinach**, and I also ordered **a clay-pot rice topped with mapo tofu**, though I have no photo of it (I do not remember the exact menu name). With it I had **a black tea beer**, two bottles. I went in meaning to eat lightly, and once again I left full.
+That day I settled on **soup dumplings, black har gow and stir-fried water spinach**, and I also ordered **a Hong Kong-style clay-pot rice with pork and mapo tofu**, though I have no photo of it. With it I had **a black tea beer**, two bottles. I went in meaning to eat lightly, and once again I left full.
 
 ## What it looks like
 
@@ -36,7 +36,7 @@ In the beer photo, two brown bottles stand side by side with the water spinach a
 
 ## The black tea beer, Hao'sum Beer
 
-On the label, inside a rounded border, are the words "HAO'SUM BEER", the Chinese characters 好心食館 and, below them, "BLACK TEA". It is an IPA, the ingredients are printed as "BLACK TEA · TANGERINE · BEER", and the Korean text reads 호우섬 비어, 5.3% ALC, 330ml. The side of one bottle also carries the words "HAO'SUM × GORILLA". I ordered it as a drink to have between the dumplings and the stir-fry, and it was better than I expected.
+On the label, inside an oval border, are the words "HAO'SUM BEER", the Chinese characters 好心食館 and, below them, "BLACK TEA". It is an IPA, the ingredients are printed as "BLACK TEA · TANGERINE · BEER", and the Korean text reads 호우섬 비어, 5.3% ALC, 330ml. The side of one bottle also carries the words "HAO'SUM × GORILLA". I ordered it as a drink to have between the dumplings and the stir-fry, and it was better than I expected.
 
 ## Menu words
 
@@ -51,7 +51,7 @@ On the label, inside a rounded border, are the words "HAO'SUM BEER", the Chinese
 
 - **Location**: B1, Times Square, 15 Yeongjung-ro, Yeongdeungpo-gu, Seoul. Times Square is linked to Yeongdeungpo Station (Line 1) by an underground passage, so it is an easy walk
 - **Hours**: 11:00 – 21:30, phone 0507-1440-7801 (as of Oct 2026)
-- **Prices**: black har gow (3 pieces) is 9,500 won and the soup dumplings are 8,500 won, so the two together come to 18,000 won. The crispy râpée chicken on the menu card in my photo is 27,900 won (as of Oct 2026)
+- **Prices**: black har gow (3 pieces) is 9,500 won. The crispy râpée chicken on the menu card in my photo is 27,900 won (as of Oct 2026)
 - **Quantity**: even if you plan a light meal, adding a stir-fry and a clay-pot rice to the dim sum quickly makes a full spread
 
 ## For foreign visitors

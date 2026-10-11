@@ -13,7 +13,7 @@ info:
   - Location|B1, Times Square, 15 Yeongjung-ro, Yeongdeungpo-gu, Seoul (서울 영등포구 영중로 15 타임스퀘어 지하 1층; as of Oct 2026)
   - Signature dishes|**Dim sum** — soup dumplings · black har gow · stir-fried water spinach · pork and mapo tofu clay-pot rice (what I ordered that day)
   - Drink on the side|**Hao'sum Beer (black tea IPA)** — 5.3% · 330ml
-  - Prices|Black har gow (3 pieces) 9,500 won (as of Oct 2026)
+  - Prices|Soup dumplings 7,500 won · black har gow (3 pieces) 9,500 won · pork and mapo tofu clay-pot rice 17,000 won · Hao'sum Beer 7,500 won (as of Oct 2026)
   - Hours|11:00 – 21:30 (as of Oct 2026)
   - Phone|0507-1440-7801 (as of Oct 2026)
 ---
@@ -51,7 +51,7 @@ On the label, inside an oval border, are the words "HAO'SUM BEER", the Chinese c
 
 - **Location**: B1, Times Square, 15 Yeongjung-ro, Yeongdeungpo-gu, Seoul. Times Square is linked to Yeongdeungpo Station (Line 1) by an underground passage, so it is an easy walk
 - **Hours**: 11:00 – 21:30, phone 0507-1440-7801 (as of Oct 2026)
-- **Prices**: black har gow (3 pieces) is 9,500 won. The crispy râpée chicken on the menu card in my photo is 27,900 won (as of Oct 2026)
+- **Prices**: soup dumplings 7,500 won, black har gow (3 pieces) 9,500 won, the pork and mapo tofu clay-pot rice 17,000 won and a bottle of Hao'sum Beer 7,500 won. Leaving out the water spinach, what I ordered that day (with two beers) came to 49,000 won. The crispy râpée chicken on the menu card in my photo is 27,900 won (as of Oct 2026)
 - **Quantity**: even if you plan a light meal, adding a stir-fry and a clay-pot rice to the dim sum quickly makes a full spread
 
 ## For foreign visitors

@@ -15,7 +15,7 @@ info:
   - Heat|Jjamppong at **level 4** — it can feel very hot if you're not used to spice
   - Room|**On the large side**, and fairly full even at dinner
   - Note|There seem to be other branches — a friend says several of the dishes are good
-  - Prices · hours · closing day|**Hours** weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) · weekends 10:50 AM–8:30 PM · **no regular closing day found** (per Diningcode, as of Sep 2026) · dish prices vary by order (reference: uni-jjajangmyeon ₩11,500) — worth a quick check before you go since this can change
+  - Prices · hours · closing day|**Hours** weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) · weekends 10:50 AM–8:30 PM · **no regular closing day** (as of Sep 2026) · dish prices vary by order (reference: yuni-jjajangmyeon (minced-pork jjajang) ₩11,500) — worth a quick check before you go since this can change
 ---
 
 ## The find this time: kkanpung shiitake

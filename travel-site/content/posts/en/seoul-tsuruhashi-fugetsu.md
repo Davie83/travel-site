@@ -22,7 +22,7 @@ info:
   - What to order|**Okonomiyaki 10,500 KRW** · yakisoba 10,500 KRW (as of Aug 2026)
   - Spice|**Not spicy at all**
   - Reservations|Through **CatchTable**
-  - Queue|Reviews mention **24 groups waiting at opening** (as of Aug 2026)
+  - Queue|**A line forms from the 11:30 AM opening** (as of Aug 2026)
   - How it works|Each table has a hot plate and **the staff cook in front of you**
   - Rating|**4.3** on Google Maps
   - Origin|**Tsuruhashi, Osaka.** The brand traces back to "Fugetsu", opened in Tenma, Osaka in 1950

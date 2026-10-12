@@ -34,7 +34,7 @@ info:
 
 Think of it as **beef small intestine simmered in a shallow pot with all sorts of vegetables.**
 
-Those curled pieces in the middle of the photo are the **gopchang**. Underneath sit cabbage, spring onion, onion, mushroom and courgette. The longer it bubbles, the more the two sides of the flavour merge.
+Those curled pieces in the middle of the photo are the **gopchang**. Underneath sit cabbage, spring onion, onion, mushroom and zucchini. The longer it bubbles, the more the two sides of the flavour merge.
 
 ## What it looks like
 

@@ -42,7 +42,7 @@ The upper bowl is mandu-guk with dumplings in a clear broth, topped with yellow 
 
 Look at the photo: that broth is properly red. **It barely registers as hot.**
 
-It is *not salty, warming, and clean-tasting* — the redness is depth, not heat. **If you avoid spicy food, you can order this one.**
+It is not salty; it is warming and clean-tasting — the redness is depth, not heat. **If you avoid spicy food, you can order this one.**
 
 The reverse is also true: **if you came hoping for real fire, this will feel mild.** That's worth knowing before you choose.
 

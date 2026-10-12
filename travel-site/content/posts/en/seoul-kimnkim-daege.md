@@ -15,7 +15,7 @@ info:
   - Phone|02-333-6659
   - Closes|**10:00 PM** · (no closing-day info)
   - 20th-anniversary promotion|**Snow crab ₩79,000/kg · King crab ₩119,000/kg** (confirm it's still running)
-  - Normal budget|**₩100,000+ per person** (Google, from 31 users)
+  - Normal budget|**₩100,000+ per person** (as of Aug 2026)
   - Booking|**Reservable via Naver** · crabhouse.kr
   - Google rating|3.9 (**327 reviews**)
   - Nearest station|**Hongik Univ. Station** (Line 2, Airport Railroad, Gyeongui-Jungang)
@@ -63,7 +63,7 @@ Hard to judge from a menu, so here's the benchmark.
 - **Snow crab — ₩79,000 per kg**
 - **King crab — ₩119,000 per kg**
 
-They are currently offering the crab course **"at ten-year-ago prices"**, with the margin cut to do it (as of Aug 2026).
+They are currently offering the crab course **"at ten-year-ago prices"** (as of Aug 2026).
 
 > **Check before you go that it's still running.** Promotions end.
 

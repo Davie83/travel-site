@@ -15,7 +15,7 @@ info:
   - Phone|032-884-1355
   - Closes|**9:00 PM** · (no closing-day info)
   - Google rating|4.5 (**66 reviews**)
-  - Signature|**Fresh raw shad salad** (*bandaengi-hoe-muchim*) · fresh cusk-eel soup
+  - Signature|**Fresh raw shad salad** (*bandaengi-hoe-muchim*) · fresh catfish soup (생물메기탕)
   - Getting there|**No subway** — bus from Incheon Station (Line 1), or taxi
 ---
 
@@ -67,7 +67,6 @@ The bowl on the left holds pieces of crab cured in soy sauce, and the plate on t
 - **No subway.** Yeonan Pier needs a bus from Incheon Station, or a taxi. Driving is easiest
 - **Closes at 9:00 PM**
 - **Staying in Incheon a bit longer?** — [Paradise City Cimer](/en/posts/incheon-paradise-cimer), a spa on Yeongjong Island, is another stop worth working into the trip
-- **Ordering** — a short menu at an old market-building restaurant. Pointing works
 
 ## Who this suits
 

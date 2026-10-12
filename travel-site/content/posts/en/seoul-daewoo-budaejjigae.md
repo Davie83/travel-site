@@ -45,7 +45,7 @@ The one thing in short supply was the pink ham slices (the Spam-like kind) — o
 
 - **Location** — Teheran-ro 25-gil, about a 2-minute walk from Yeoksam Station.
 - **Parking** — Free for 40 minutes at the Hyundai lot right below the restaurant.
-- **Hours** — Weekdays 11 AM-9 PM (break 3-5 PM), Sundays 11:30 AM-9 PM. Sources agree it's **closed on Saturdays**, though listings vary slightly — worth a quick call to confirm before heading over.
+- **Hours** — Weekdays 11 AM-9 PM (break 3-5 PM), Sundays 11:30 AM-9 PM. It's **closed on Saturdays** — worth a quick call to confirm before heading over.
 - **Menu** — Budae-jjigae starts at ₩16,000; the sirloin version is ₩25,000. Ramyeon noodles add ₩1,500.
 - **After** — for a coffee to reset the palate, [L'OISEAU Yeoksam](/en/posts/seoul-loiseau-yeoksam) is in the same Yeoksam area.
 

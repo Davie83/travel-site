@@ -14,7 +14,7 @@ info:
   - Location|1 Uisadang-daero, Yeongdeungpo-gu, Seoul · **2nd floor of the building next to Sarangjae** (서울 영등포구 의사당대로 1)
   - Phone|02-6788-3331
   - Hours|**Weekdays 8:30 AM to 7:00 PM** · Sat 11:00 AM to 7:00 PM · closed **every Sunday**
-  - Watch out|**The bread usually sells out after lunchtime**, according to many reviews
+  - Watch out|**The bread usually sells out after lunchtime**
   - Best timing|For a window seat, aim for **around 10:00 AM**. At weekends, go at opening
   - What to see|Floor-to-ceiling river view · **rooftop terrace** · the Assembly building itself
   - Nearest station|**National Assembly Stn.** (Line 9) · walkable from Yeouido Stn. (Lines 5 and 9)

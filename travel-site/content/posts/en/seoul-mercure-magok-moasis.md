@@ -12,17 +12,17 @@ map: https://www.google.com/maps/search/?api=1&query=%eb%a8%b8%ed%81%90%ec%96%b4
 info:
   - Location|62 Magok-jungang-ro, Gangseo-gu, Seoul · inside Mercure Ambassador Seoul Magok, near Magongnaru Stn (서울 강서구 마곡중앙로 62)
   - Format|**Unlimited wine buffet** — Western food built to pair with wine
-  - Hours|**Dinner service only** · not available at lunch
+  - Service|**Dinner service only** · not available at lunch
   - Set|Recently a set that **adds a striploin steak** seems to have appeared (confirm when booking)
   - Reservation|**Discount with a NAVER reservation** · booking recommended
-  - Hours · prices · closing day|**Dinner service 17:00-21:30** (two seatings) · **roughly 50,000-60,000 KRW per person**, varies with seasonal promotions (as of Aug 2026) · no closing day found — confirm latest pricing when booking
+  - Hours · prices · closing day|**Dinner service 17:00-21:30** (two seatings) · **roughly 50,000-60,000 KRW per person**, varies with seasonal promotions (as of Aug 2026) · closing day unknown — confirm latest pricing when booking
 ---
 
 ## A card worth playing when Korean food isn't working
 
-Magok has become somewhat known to visitors — you now see **foreign tourists here now and then**. If Korean food isn't quite sitting right on your trip, or you're missing food from home, or you just **want wine freely**, the F&B space Moasis inside Mercure Seoul Magok is worth a visit. It has an **unlimited wine buffet**.
+Magok has become somewhat known to visitors — you see **foreign tourists around here now and then**. If Korean food isn't quite sitting right on your trip, or you're missing food from home, or you just **want wine freely**, the F&B space Moasis inside Mercure Seoul Magok is worth a visit. It has an **unlimited wine buffet**.
 
-For reference, on a completely different side of Seoul, in Hongdae, I also stopped by [Roofcatme Cat Cafe](/en/posts/seoul-roofcatme-hongdae) for a break with the cats — worth knowing about if that's where your day takes you instead.
+For reference, on a completely different side of Seoul, in Hongdae, I also stopped by [Roofcatme Cat Cafe](/en/posts/seoul-roofcatme-hongdae) for a break with the cats.
 
 ## The unlimited wine buffet is dinner only
 
@@ -59,4 +59,4 @@ One plate holds a cheese-baked dish like lasagna, a barbecue rib topped with gar
 - ⚠️ You want to go at lunch — the wine buffet is dinner only
 - ⚠️ You're here for a traditional Korean-food experience — this is Western + wine
 
-> Written from a personal visit. How you judge the taste and format is a matter of preference, and hours, prices, and the set line-up here change more than most — worth checking again before you go. Prices and hours are **(as of Aug 2026)**.
+> Written from a personal visit. How you judge the taste and format is a matter of preference, and hours, prices, and the set line-up here change often — worth checking again before you go. Prices and hours are **(as of Aug 2026)**.

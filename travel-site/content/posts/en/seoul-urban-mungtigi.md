@@ -6,7 +6,7 @@ area: mapo
 date: 2026-08-30
 emoji: 🥩
 thumb: assets/img/seoul-urban-mungtigi.jpg
-excerpt: Mungtigi. In the Jeolla dialect it's called saenggogi ("raw meat"). It's uncooked beef eaten as is — the same family as yukhoe and yuk-sashimi. Compared to yuk-sashimi it's cut bigger and thicker, so the beef's aroma and texture come through more. It pairs well with the house gochujang-based sauce. The pan-fried yukjeon is good too. The place is small, so book ahead.
+excerpt: Mungtigi is uncooked beef cut thick and eaten as is — the same family as yukhoe and yuk-sashimi. Compared to yuk-sashimi it's cut bigger and thicker, so the beef's aroma and texture come through more. It pairs well with the house gochujang-based sauce. The pan-fried yukjeon is good too. The place is small, so book ahead.
 tags: [Seoul, Mapo, Urban Mungtigi, mungtigi, saenggogi, yukhoe, raw beef, yukjeon]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b4%eb%b0%98%eb%ad%89%ed%8b%b0%ea%b8%b0+%eb%a7%88%ed%8f%ac
 info:
@@ -14,11 +14,11 @@ info:
   - Menu|**Mungtigi** (raw beef, the yuk-sashimi family) · **yukjeon** (egg-battered pan-fried beef) is good too
   - What mungtigi is|Uncooked beef · cut **bigger and thicker than yuk-sashimi**, so the aroma and texture stand out
   - Sauce|A **house gochujang-based sauce** (recipes vary by restaurant)
-  - Ageing|Sold same-day, or aged 1–2 days — appears to depend on the place (as of Aug 2026)
-  - Hours · prices · closing day|**Weekdays 11:00–23:00** (break 14:00–17:00) · **Saturday 17:00–23:00** · **closed Sundays** · Mungtigi from 49,000 KRW (per DiningCode, as of Aug 2026)
+  - Ageing|Same-day, or aged 1–2 days — ask when you visit (as of Aug 2026)
+  - Hours · prices · closing day|**Weekdays 11:00–23:00** (break 14:00–17:00) · **Saturday 17:00–23:00** · **closed Sundays** · Mungtigi from 49,000 KRW (as of Aug 2026)
 ---
 
-Mungtigi. In the Jeolla dialect it's called *saenggogi*, "raw meat." It's uncooked beef eaten as is — in standard Korean, the same family as *yukhoe* and *yuk-sashimi*.
+Mungtigi is uncooked beef cut thick and eaten as is — the same family as *yukhoe* and *yuk-sashimi*.
 
 ## Cut bigger and thicker than yuk-sashimi
 
@@ -31,7 +31,7 @@ You eat it with a **house gochujang-based sauce**. The recipe varies by restaura
 
 ## Ageing, and the yukjeon
 
-Depending on the restaurant, it seems to be **sold same-day or aged for 1–2 days**. The exact method isn't confirmed, so ask on the spot if it matters to you.
+I didn't confirm whether this place sells it **same-day or ages it for 1–2 days**. Ask on the spot if it matters to you.
 
 The main event is mungtigi, but the **yukjeon** — beef sliced thin, coated in egg and pan-fried — was good as well. Worth ordering on the side.
 
@@ -58,8 +58,8 @@ Deep red mungtigi lies overlapped in a ring on a black plate. Each piece is larg
 ## Before you go
 
 - **Reservations** — the place is small, so booking is the safe move.
-- **Ageing method** — whether it's same-day or 1–2 days isn't confirmed. Ask when you visit if you're curious.
-- **Hours · prices · closing day** — confirmed as weekdays 11:00–23:00 (break 14:00–17:00), Saturday 17:00–23:00, closed Sundays; Mungtigi starts at 49,000 KRW. Worth a quick check before you go, since it can still change.
+- **Ageing method** — I didn't confirm whether it's same-day or aged 1–2 days. Ask when you visit if you're curious.
+- **Hours · prices · closing day** — weekdays 11:00–23:00 (break 14:00–17:00), Saturday 17:00–23:00, closed Sundays; Mungtigi starts at 49,000 KRW (as of Aug 2026). Worth a quick check before you go.
 - **Nearby** — for a coffee to cut through the meat afterward, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) is walkable, in the same Dohwa-dong neighborhood.
 
-> Written up after eating there myself. Impressions of taste and texture can vary from person to person. The ageing method I couldn't confirm — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Written up after eating there myself. Impressions of taste and texture can vary from person to person. I didn't confirm the ageing method, so check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

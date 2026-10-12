@@ -14,7 +14,7 @@ info:
   - Menu|**Sütlaç** (Turkish milk pudding) · coffee · desserts
   - Atmosphere|**Turkish-style interior** · a well-kept **garden** outside — good for photos
   - How I found it|Reading up on **kaymak** around the time it got popular in Korea
-  - Hours · prices · closing day|Not confirmed (as of Aug 2026)
+  - Hours · prices · closing day|Check by map or phone before you go (as of Aug 2026)
 ---
 
 ## Found while reading up on kaymak
@@ -45,7 +45,7 @@ It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute
 ## Notes for travellers
 
 - **Sütlaç is a Turkish milk pudding.** Not spicy; it's dairy.
-- Worth a stop if you're interested in Turkish desserts like **kaymak** (thick clotted cream).
+- Worth a stop if you're interested in Turkish desserts like **kaymak** (thick cream).
 - The location works well as **a stop on the way** to a Seongsan itinerary (Seongsan Ilchulbong, Seopjikoji, Gwangchigi Beach).
 - It pairs well with a climb up [Seongsan Ilchulbong](/en/posts/jeju-seongsan-ilchulbong) — come down and close the loop here with coffee and dessert.
 - The garden and window seats are **good for photos**.
@@ -55,7 +55,7 @@ It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute
 ## Before you set off
 
 - **Getting there** — on the road from Seogwipo through Pyoseon toward Seongsan. Check the name on the map before you go.
-- **Hours · prices · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Hours · prices · closing day** — Check the map or call before you go.
 - **Garden** — good for photos, so give yourself time in fine weather.
 
-> Written up from a visit of my own. Any judgement of taste and atmosphere is personal preference, and the hours, prices, and closing day I couldn't pin down — worth checking the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Written up from a visit of my own. Any judgement of taste and atmosphere is personal preference, so check the hours, prices and closing day once more before you go. Prices and hours are **(as of Aug 2026)**.

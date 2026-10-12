@@ -1,5 +1,5 @@
 ---
-title: Jejunagi — A Hitsumabushi That Brings Nagoya Back, Taken Away in Aewol
+title: Jejunagi — A Hitsumabushi That Brings Nagoya Back, Taken to Go in Aewol
 cat: food
 region: jeju
 area: aewol
@@ -14,10 +14,10 @@ info:
   - Menu|**Hitsumabushi** (Nagoya-style grilled eel over rice) · takeout available
   - What comes with it|Eel rice + garnishes (seaweed, sesame, water dropwort, wasabi, etc.) + dashi broth · **eaten three ways**
   - This time|**Got it to go** because the weather was good, and ate it outside
-  - Hours · prices · closing day|**11:00 AM – 9:00 PM** (break 3–5 PM, last order 2 PM / 8 PM) · Hitsumabushi ₩39,000 (special ₩53,000) · no regular closing day (as of Aug 2026 — subject to frequent change)
+  - Hours · prices · closing day|**11:00 AM – 9:00 PM** (break 3–5 PM, last order 2 PM / 8 PM) · Hitsumabushi ₩39,000 (special ₩53,000) · no regular closing day (as of Aug 2026)
 ---
 
-The taste I got in Nagoya after trying to book a table twice at an old restaurant there — that's what suddenly came back to me in Aewol.
+The taste I finally got at an old Nagoya restaurant, after trying to book twice, suddenly came back to me in Aewol.
 
 ## A memory from Nagoya
 
@@ -64,4 +64,4 @@ As in the photo, the garnishes come divided into little compartments. Because it
 - **How to eat it** — plain / with garnishes / with broth poured over, in three passes.
 - **Want noodles instead?** — [Aewolli Sun Memil Makguksu](/en/posts/jeju-aewol-makguksu) is a short drive away, in the same Aewol-eup.
 
-> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices, and the closing day are as I found them and can change often — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices and the closing day are as listed above and may change — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

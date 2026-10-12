@@ -63,7 +63,7 @@ info:
 
 ## 永登浦周邊還可以看
 
-- 想在永登浦站附近吃韓式中餐：[松竹庄](/zh/posts/seoul-songjukjang) — 吃到汗流浹背的炒碼麵和煎餃
+- 想在永登浦站附近吃韓式中餐：[송죽장](/zh/posts/seoul-songjukjang) — 吃到汗流浹背的炒碼麵和煎餃
 - 想在同一條永中路上晚餐吃生魚片：[道林港 永登浦店](/zh/posts/seoul-dorimhang)
 
 ## 適合哪些人

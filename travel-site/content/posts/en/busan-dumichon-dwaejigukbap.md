@@ -56,7 +56,7 @@ The black earthenware pot is filled with a clear brown broth, steam rising from 
 
 **It runs until 12:00 AM.**
 
-Busan keeps late hours, and a real sit-down meal after 10pm is harder to find than you'd think. A pork soup place open this late is genuinely useful.
+If you're out late in Busan and need a proper meal, a pork soup place open this late is genuinely useful.
 
 The flip side: **lunchtime often fills up completely.** Avoid the rush if you can.
 
@@ -78,7 +78,6 @@ It has the feel of **a restaurant more locals than visitors go to.** It isn't dr
 - **No parking lot** — you'll be hunting for a space nearby if driving
 - **Lunch is busy**
 - **Not spicy.** The green chilli is served separately, so leave it out if you prefer
-- **Ordering** — a short menu; pointing works fine
 - ✅ Good if you want to try Busan's signature dish, prefer a clear broth to a rich one, need a real meal late at night, or can't eat spicy food
 - ⚠️ Not a destination restaurant — Dongnae has many options, and there's no parking
 - Once you're full of gukbap, [Geumsu Bokguk](/en/posts/busan-geumsu-bokguk) is a short walk away in the same Dongnae neighborhood if you want to keep the trip going

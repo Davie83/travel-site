@@ -14,7 +14,7 @@ info:
   - Location|203 Mullae-ro, Yeongdeungpo-gu, Seoul (서울 영등포구 문래로 203)
   - Phone|02-2631-9184
   - Closes|**9:30 PM** · no closing-day info (as of Aug 2026)
-  - Price of jjamppong & dumplings|**Jjamppong ₩11,000 · Gunmandu ₩9,500** (per Diningcode, as of Aug 2026)
+  - Price of jjamppong & dumplings|**Jjamppong ₩11,000 · Gunmandu ₩9,500** (as of Aug 2026)
   - Rice dishes|**₩10,500–18,000** (read off the menu card)
   - Drinks|Soju & beer **₩5,000** · Tsingtao ₩8,500 (read off the menu card)
   - Google rating|3.8 (**794 reviews**)
@@ -33,8 +33,6 @@ Worth knowing: this is Korean-Chinese food (*jjungguk-jip*), not a dish you'd me
 
 - **If you like heat** — this is the version you came for
 - **If you don't** — the chilli will block you before you get to the good part underneath
-
-For reference: hotter than most Thai green curry served in Korea, in the same range as a serious *mala* soup base.
 
 ## What it looks like
 
@@ -58,7 +56,7 @@ Come out of **Yeongdeungpo Station (Line 1)** and walk toward the Shinsegae depa
 
 The address is **203 Mullae-ro.** Use the map link; the street layout around the station is busy.
 
-**It closes at 9:30 PM**, earlier than a lot of Seoul, so it is not a late-dinner option. Opening hours and any closing day are worth double-checking. If sashimi sounds better than jjamppong that day, [Dorimhang Yeongdeungpo](/en/posts/seoul-dorimhang) is also within walking distance in the same neighborhood. If ox-tail suyuk sounds better than spicy noodles, [Daehanok](/en/posts/seoul-daehanok-sokkorijjim) is also walkable from here.
+**It closes at 9:30 PM**, earlier than a lot of Seoul, so it is not a late-dinner option. If sashimi sounds better than jjamppong that day, [Dorimhang Yeongdeungpo](/en/posts/seoul-dorimhang) is also within walking distance in the same neighborhood. If ox-tail suyuk sounds better than spicy noodles, [Daehanok](/en/posts/seoul-daehanok-sokkorijjim) is also walkable from here.
 
 ## What things cost
 

@@ -24,7 +24,7 @@ The place that comes to mind when **you want pho.**
 
 **This place is run by Vietnamese owners**, so it isn't the Koreanised version. **The noodles and the broth both have real depth.** The broth is clear but not thin — it tastes long-simmered.
 
-Here's the interesting part: Korean diners describe it as tasting like **"clear gomtang."** They're right. Beef simmered for hours and drawn off clear is exactly what [Naju gomtang](naju-gomtang-hayanjip) and [Hadongkwan](seoul-hadongkwan) do — so if you've had those, you'll recognise the family resemblance immediately. That's also why it's an easy recommendation for an older relative trying pho for the first time.
+Here's the interesting part: Korean diners describe it as tasting like **"clear gomtang."** They're right. Beef simmered for hours and drawn off clear is exactly what [Naju gomtang](/en/posts/naju-gomtang-hayanjip) and [Hadongkwan](/en/posts/seoul-hadongkwan) do — so if you've had those, you'll recognise the family resemblance immediately. That's also why it's an easy recommendation for an older relative trying pho for the first time.
 
 ## Why eat Vietnamese food in Seoul, anyway
 

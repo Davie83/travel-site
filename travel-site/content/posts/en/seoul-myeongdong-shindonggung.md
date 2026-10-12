@@ -21,7 +21,7 @@ info:
 
 Finding a proper meal in Myeongdong after midnight is harder than it looks. Plenty of places stay open late, but most of them are drinking spots. If you want an actual dinner — jet-lagged at 2am, or after a long day of walking — the list gets short fast.
 
-This place is **open 24 hours**, and what it serves is *ppyeo sutbul gui*: pork neck bones marinated in a red chilli paste and finished over charcoal.
+This place is **open 24 hours**, and what it serves is *ppyeo sutbul gui*: pork spine bones marinated in a red chilli paste and finished over charcoal.
 
 ## How spicy, honestly — first
 

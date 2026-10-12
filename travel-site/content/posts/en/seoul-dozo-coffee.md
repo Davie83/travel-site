@@ -6,7 +6,7 @@ area: gwanghwamun
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
-excerpt: Single-origin filter coffee poured into a tulip glass and brought out on a walnut tray, with the rest in a steel kettle. Good when you want something other than your usual cup. Small room, office district — not a quiet solo spot on weekdays.
+excerpt: Single-origin filter coffee poured into a tulip glass and brought out on a wooden tray, with the rest in a steel kettle. Good when you want something other than your usual cup. Small room, office district — not a quiet solo spot on weekdays.
 tags: [Seoul, Gwanghwamun, Jongno, Donuimun, Seodaemun, cafe, filter coffee, specialty coffee, coffee beans]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4%ED%94%BC+%EB%8F%88%EC%9D%98%EB%AC%B8
 info:
@@ -32,9 +32,9 @@ A silver-grey metal pot and a wine-glass-shaped glass sit side by side on a wood
 
 ## The way it arrives is the point
 
-The coffee comes **in a stemmed tulip glass on a walnut tray**, with the remainder in a small steel kettle beside it and a card describing the day's beans.
+The coffee comes **in a stemmed tulip glass on a wooden tray**, with the remainder in a small steel kettle beside it and a card describing the day's beans.
 
-This isn't just presentation. **The narrow glass concentrates the aroma**, and filter coffee changes noticeably as it cools — fruit acidity forward when hot, sweeter and rounder as it drops. Pouring from the kettle in stages lets you actually taste that arc.
+This isn't just presentation. **The narrow glass concentrates the aroma**, and filter coffee changes noticeably as it cools. Pouring from the kettle in stages lets you actually taste that change.
 
 So treat it as **a cup to sit with**, not something to take away.
 
@@ -51,7 +51,7 @@ It is **not a laptop cafe.** Come for one good cup, then move on.
 
 The address is **134 Tongil-ro, Jongno-gu.** It sits near the site of **Donuimun**, the old west gate of the city, and is a short walk from **Seodaemun Station (Line 5).**
 
-It fits neatly into a walk around **Donuimun Museum Village and Gyeonghuigung Palace** — a reasonable coffee stop in the middle of that route, away from the Insadong and Bukchon crowds.
+It fits neatly into a walk around **Donuimun Museum Village and Gyeonghuigung Palace** — a reasonable coffee stop in the middle of that route.
 
 > **Dozo has more than one branch** — there is another inside The Hyundai Seoul in Yeouido. Search for **"Donuimun"** specifically, or you will end up across the river.
 
@@ -59,7 +59,7 @@ It fits neatly into a walk around **Donuimun Museum Village and Gyeonghuigung Pa
 
 The shop opened only a few months ago, so there isn't a real track record yet. Treat it as **not yet proven** and drop in lightly.
 
-Prices start at **₩5,000**, rising with the bean and the cup you choose. That is roughly chain-cafe territory at the bottom end, which makes the tray service good value.
+Prices start at **₩5,000**, rising with the bean and the cup you choose.
 
 ## Practical notes
 

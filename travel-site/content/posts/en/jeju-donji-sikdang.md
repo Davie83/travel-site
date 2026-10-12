@@ -33,7 +33,7 @@ The same restaurant serves a different table depending on the month.
 | Summer | Hanchi hoedeopbap, hanchi *mulhoe*, *jari* mulhoe |
 | Winter | Yellowtail (*bangeo*) |
 
-Going in summer, the tables around me were mostly ordering **mulhoe** — a chilled, tangy raw-fish soup that Jeju does particularly well. Locals told me the winter yellowtail here is worth a trip on its own. I haven't tried it, so treat that as hearsay rather than a recommendation, and one more reason to come back.
+Going in summer, the tables around me were mostly ordering **mulhoe** — a chilled, tangy raw-fish soup that Jeju does particularly well. I've heard the winter yellowtail here is worth a trip on its own. I haven't tried it, so treat that as hearsay rather than a recommendation — and one more reason to come back.
 
 ## Hanchi hoedeopbap — the lettuce is the point
 
@@ -72,13 +72,12 @@ Come at opening if you want a relaxed lunch, but don't expect it to be quiet.
 
 ## What I didn't try
 
-People rave about the **fried hanchi**. I'll order it next time. Passing that along as hearsay, not a verdict.
+I've heard the **fried hanchi** is good. I'll order it next time. Passing that along as hearsay, not a verdict.
 
 ## Before you go
 
 - **Check the season.** This matters more than anything else. Squid in summer, yellowtail in winter.
 - **Getting there** — near Moseulpo Harbour on the southwest coast. It's a long drive from Jeju City, so pair it with a west-coast day rather than a special trip.
-- **Language** — this is a local restaurant, not a tourist one. A translation app is worth having open. Pointing at the menu works fine.
 - **Closing time** — 9:00 PM, and holidays may differ.
 - **Flowers too** — if your west-Seogwipo day runs longer, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth folding in.
 

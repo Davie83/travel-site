@@ -24,7 +24,7 @@ Two things make it click. Knowing what to expect, and knowing that **every shop 
 
 ## Thick shops, thin shops, and this one
 
-Some shops grind the soybeans fine and serve something almost like a cold porridge. Others keep it loose enough to drink. Korean regulars have strong preferences and will travel for the version they like.
+Some shops grind the soybeans fine and serve something almost like a cold porridge. Others keep it loose enough to drink.
 
 **Daeseong runs thin.** Between thick and light, it sits a little closer to light.
 
@@ -60,7 +60,6 @@ Treat the bowl and the kimchi as one dish rather than a main and a side, and the
 - **Opens 11:30 AM.** Not a breakfast option.
 - **Busy** — Expect a wait at meal times; weekend afternoons around 2–3 PM tend to be quieter.
 - **Parking** — a back-street location; don't count on it.
-- **Language** — a local shop, no English menu expected. Pointing works.
 - ✅ Good if you want a light, drinkable version rather than a heavy one, you've found kongguksu too thick or pasty before, or you want a proper meal for under ₩10,000
 - ❌ Less good if you came for a dense, creamy soy broth — different shop
 - **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort) for the view over Cheongpung Lake.

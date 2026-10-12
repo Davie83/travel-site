@@ -13,7 +13,7 @@ info:
   - Restaurant|Cheorwon Makguksu (철원막국수)
   - Location|13 Myeongseong-ro 158beon-gil, Galmal-eup, Cheorwon-gun, Gangwon (강원 철원군 갈말읍 명성로158번길 13)
   - Phone|033-452-2589
-  - Hours|**11:00 AM ~ 8:00 PM** · **no regular closing day** (closed on major holidays, per current listings)
+  - Hours|**11:00 AM ~ 8:00 PM** · **no regular closing day** (closed on major holidays, as of Aug 2026)
   - Google rating|3.9 (1,743 reviews)
   - Commonly ordered with|Mung bean pancake, dumplings
 ---
@@ -59,7 +59,6 @@ A red chili sauce sits in the middle of a stainless-steel bowl, with red-seasone
 - **Opens 11:00 AM.** Lunch onwards only.
 - **Busy** — Expect a wait at weekend lunch.
 - **Mul vs bibim** — I had the bibim. Some regulars prefer the cold-broth version; both are standard.
-- **Language** — rural restaurant, no English menu expected.
 - ✅ Good if you want to taste **buckwheat noodles themselves** rather than a sauce, prefer restrained seasoning, or need lunch on a Cheorwon or Hantangang day
 - ❌ Less good if you want a bold, heavily sauced cold noodle
 - **Elsewhere in Gangwon** — over in Sokcho, I've also written up [the Abai Village Gaetbae](/en/posts/sokcho-abai-gaetbae), a hand-pulled ferry ride.

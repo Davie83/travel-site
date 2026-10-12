@@ -51,7 +51,7 @@ The bokjiri is at a rolling boil in the pot. Through the pale froth you can see 
 
 - **Bokjiri is pufferfish simmered in a clear broth.** It's mild and not spicy, so it's an easy dish to try
 - **The grilled fish** comes whole, grilled and served with a dipping sauce
-- Pufferfish requires careful, licensed preparation to be safe to eat — this is a long-running specialist restaurant, so you can order with confidence
+- Pufferfish requires careful, licensed preparation to be safe to eat
 
 ## Who this is for
 

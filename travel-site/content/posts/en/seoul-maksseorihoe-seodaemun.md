@@ -1,5 +1,5 @@
 ---
-title: Makssaeorihoe Seodaemun — Skip the Premium Set, the Lunch Set Is Enough
+title: Maksseorihoe Seodaemun — Skip the Premium Set, the Lunch Set Is Enough
 cat: food
 region: seoul
 area: gwanghwamun
@@ -7,9 +7,9 @@ date: 2026-10-02
 emoji: 🐟
 thumb: assets/img/seoul-maksseorihoe-seodaemun.jpg
 excerpt: A sashimi restaurant a very short walk from Seodaemun Station. I meant to order the lunch set, but ended up with the premium set, which comes with a bit more (30,000 KRW per person for the lunch set, 40,000 KRW for the premium set). It's not a place with a huge spread of side dishes, but the aged sashimi at the center of the set eats well for a lunch. The private-room layout makes it a good spot for a quiet lunch with friends — though having tried the premium set, I think the regular lunch set would have been enough.
-tags: [Seoul, Jongno, Seodaemun, Makssaeorihoe, aged sashimi, seafood]
+tags: [Seoul, Jongno, Seodaemun, Maksseorihoe, aged sashimi, seafood]
 info:
-  - Restaurant|Makssaeorihoe Seodaemun
+  - Restaurant|Maksseorihoe Seodaemun
   - Address|B1, 15-1 Saemunan-ro, Jongno-gu, Seoul — near Seodaemun Station
   - Phone|02-736-0124
   - Hours|Weekdays 10:00 AM–10:00 PM (break 2:30–4:00 PM) · Sat 10:00 AM–9:00 PM · Closed Sundays (as of Oct 2026)
@@ -26,7 +26,7 @@ info:
 
 The **lunch set is 30,000 KRW per person, the premium set 40,000 KRW**. I later found out that ordering the premium set adds a full plate of **seasoned grilled eel** and a **large steamed abalone (one per person)**. For a 10,000 KRW gap, that's not a bad trade.
 
-![The entrance to Makssaeorihoe Seodaemun — near Seodaemun Station, with the restaurant's name and phone number on the sign and a menu board posted beside it](/assets/img/seoul-maksseorihoe-seodaemun-storefront.jpg)
+![The entrance to Maksseorihoe Seodaemun — near Seodaemun Station, with the restaurant's name and phone number on the sign and a menu board posted beside it](/assets/img/seoul-maksseorihoe-seodaemun-storefront.jpg)
 
 ## You don't have to order a full set — à la carte works too
 

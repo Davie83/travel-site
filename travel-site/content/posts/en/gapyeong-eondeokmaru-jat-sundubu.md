@@ -1,5 +1,5 @@
 ---
-title: Eondeokmaru Gapyeong Jat-dubu-jip — Mild Pine-Nut Sundubu, Gently Seasoned
+title: Eondeokmaru Gapyeong Pine-Nut Tofu House — Mild Pine-Nut Sundubu, Gently Seasoned
 cat: food
 region: gyeonggi
 area: gapyeong
@@ -27,7 +27,7 @@ The building is brick, and outside there's an open-air terrace with parasols and
 
 Gapyeong has long been known for pine nuts. There are a lot of Korean pine trees, and the nuts themselves are sold as a local specialty. So pine-nut dishes come naturally here — pine-nut noodles, pine-nut porridge, and jat-sundubu.
 
-It arrives as soft tofu simmered white in an earthenware pot. It looks like ordinary sundubu, but the broth is milkier and there's a nutty smell to it — because pine nuts have been ground in or steeped into it.
+It arrives as soft tofu simmered white in an earthenware pot. It looks like ordinary sundubu, but the broth is milkier and there's a nutty smell to it — presumably because of the pine nuts in the broth.
 
 The seasoning sauce comes separately. Try it plain first, then stir in a little of the sauce if it needs more salt.
 
@@ -45,7 +45,7 @@ A pale, milky broth fills a black earthenware pot, with soft clumps of sundubu f
 
 ## What foreign visitors should know
 
-- **Sundubu** is very soft, uncurdled tofu. The jat-sundubu here comes **plain in a white broth**, with no chilli — it's a different dish from the spicy sundubu-jjigae stew.
+- **Sundubu** is very soft, unpressed tofu. The jat-sundubu here comes **plain in a white broth**, with no chilli — it's a different dish from the spicy sundubu-jjigae stew.
 - **Pine nuts** make it nutty and mild. Gapyeong is the region in Korea best known for them.
 - How to eat it: spoon it as it is, then add the **soy-based seasoning sauce** that comes on the side, a little at a time, to bring up the salt. You can tip rice into it too.
 - The taste is soft and understated. If you want a strong flavour, it may feel bland.
@@ -57,7 +57,7 @@ A pale, milky broth fills a black earthenware pot, with soft clumps of sundubu f
 
 - **Getting there** — Gapyeong-gun, Gyeonggi. It's a drive out from central Gapyeong, so check the map before you set off.
 - **Ordering** — jat-sundubu is the basic dish. As a tofu house it tends to have other tofu dishes (whole block tofu and so on) too.
-- **Hours · prices · closing day** — Open **9:30 AM–8:00 PM** (last order 7:15 PM), **closed Wednesdays**, **jat-sundubu is 12,000 won**. This is current as of Aug 2026, so worth confirming again before you go.
-- **Elsewhere in Gyeonggi** — out on Yeongjong Island in Incheon, I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) — same wider province, though it's a real trip from Gapyeong.
+- **Hours · prices · closing day** — Open **9:30 AM–8:00 PM** (last order 7:15 PM), **closed Wednesdays**, **jat-sundubu is 12,000 won**. (as of Aug 2026) — worth confirming again before you go.
+- **Elsewhere around Seoul** — out on Yeongjong Island in Incheon, I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) — same metropolitan area, though it's a real trip from Gapyeong.
 
-> Based on a personal visit. The judgement on the flavour is personal taste. Hours, prices and the closing day are as confirmed above, but they can change — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Based on a personal visit. The judgement on the flavour is personal taste. Hours, prices and the closing day are as listed above, but they can change — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

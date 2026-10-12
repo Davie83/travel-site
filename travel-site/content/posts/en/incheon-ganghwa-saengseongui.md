@@ -11,11 +11,11 @@ tags: [Incheon, Ganghwa Island, Ganghwa, grilled fish, charcoal grilled fish, ba
 map: https://www.google.com/maps/search/?api=1&query=%ea%b0%95%ed%99%94%eb%8f%84%eb%a7%9b%ec%a7%91+%ec%88%af%eb%b6%88%ec%83%9d%ec%84%a0%ea%b5%ac%ec%9d%b4
 info:
   - Location|14-6 Haeandong-ro, Gilsang-myeon, Ganghwa-gun, Incheon · just over the Choji bridge onto Ganghwa Island (인천 강화군 길상면 해안동로 14-6)
-  - What I ordered|**Charcoal grilled-fish set** — Spanish mackerel, banded herring and other fish, all on one table
+  - What I ordered|**Charcoal grilled-fish set** — Spanish mackerel, baendaengi and other fish, all on one table
   - How it's cooked|Grilled **over charcoal** in the kitchen · the doneness is spot on
   - Side dishes|Not fancy, but they **taste good**
   - Price|Not cheap for a simple lunch · but worth it once you've eaten
-  - Hours · prices · closing day|Daily 09:00–21:00 · grilled-fish set (per person) from ₩18,000 · no regular closing day found (as of Sep 2026)
+  - Hours · prices · closing day|Daily 09:00–21:00 · grilled-fish set (per person) from ₩18,000 · no regular closing day (as of Sep 2026)
 ---
 
 It's a place right where you cross onto Ganghwa Island. I wanted grilled fish, and a simple lunch, so I stopped in.
@@ -24,7 +24,7 @@ It's a place right where you cross onto Ganghwa Island. I wanted grilled fish, a
 
 Cross the Ganghwa or Choji bridge onto the island and it comes up before long. A good spot for a first meal when you're starting a Ganghwa day from Seoul or Gimpo.
 
-Order the grilled-fish set and **several kinds of fish** come out together — big cuts like Spanish mackerel, and smaller whole fish such as banded herring and gizzard shad. Ganghwa is, in fact, a place known for banded herring.
+Order the grilled-fish set and **several kinds of fish** come out together — big cuts like Spanish mackerel, and smaller whole fish such as baendaengi (a small silvery herring-like fish) and gizzard shad. Ganghwa is, in fact, known for baendaengi.
 
 The point is the grilling. **It's done over charcoal in the kitchen, and the doneness is exact** — crisp outside, moist inside, cooked through without a burnt taste. It had been a while since I'd said out loud that grilled fish was good.
 
@@ -51,7 +51,7 @@ The side dishes aren't laid out lavishly. But each one was decent. If you like g
 ## What foreign visitors should know
 
 - **Saengseon-gui** is fish grilled plain. Here it's over **charcoal**, and several kinds arrive at once as a set. **It is not spicy.**
-- Small fish (banded herring, gizzard shad) are sometimes eaten **bones and head included**. If that's off-putting, just pick the flesh.
+- Small fish (baendaengi, gizzard shad) are sometimes eaten **bones and head included**. If that's off-putting, just pick the flesh.
 - If you're not used to picking fish off the bone, it takes a while. This isn't a place for a rushed meal.
 - **Ganghwa is an island, so a car makes getting around much easier.** By public transport from Seoul, take a Ganghwa-bound bus from Hapjeong or Sinchon (around 1.5 hours).
 - Bear in mind it costs a bit more than a "quick lunch."
@@ -62,8 +62,8 @@ The side dishes aren't laid out lavishly. But each one was decent. If you like g
 
 - **Getting there** — Ganghwa-gun, Incheon, right at the island entrance. It's the stretch just over the bridge, so check the name on the map before you go.
 - **Ordering** — the grilled-fish set is the basic. Order per person and several fish come on one table.
-- **Hours · prices · closing day** — Daily 09:00–21:00, grilled-fish set (per person) from ₩18,000, and no regular closing day turned up in a check (as of Sep 2026). Still worth confirming on the map or by phone before you go.
+- **Hours · prices · closing day** — Daily 09:00–21:00, grilled-fish set (per person) from ₩18,000, and no regular closing day (as of Sep 2026). Still worth confirming on the map or by phone before you go.
 - **Elsewhere in Incheon** — [Paradise City Cimer](/en/posts/incheon-paradise-cimer) out on Yeongjong Island is technically the same city, but far enough from Ganghwa that it's a separate trip.
 - **Pairing it up on Ganghwa** — [Donmak Beach](/en/posts/incheon-ganghwa-donmak-beach) over in Hwado-myeon is also on Ganghwa Island — worth combining into one day if the weather's good.
 
-> Based on a personal visit. Judgements on the food and the spread are personal taste, and the fish selection, prices and hours can change — check with the restaurant before you go. Prices and hours are **(as of Aug 2026)**.
+> Based on a personal visit. Judgements on the food and the spread are personal taste, and the fish selection, prices and hours can change — check with the restaurant before you go. Prices and hours are **(as of Sep 2026)**.

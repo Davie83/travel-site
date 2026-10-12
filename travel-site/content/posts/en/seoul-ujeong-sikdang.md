@@ -51,7 +51,7 @@ Pork stir-fried in a gochujang sauce with plenty of onion — a familiar, no-mis
 
 - This place serves **Korean baekban** — one main with rice, soup and several side dishes. It's close to plain Korean home cooking, or a working-person's diner.
 - **Jeyuk-bokkeum** is pork stir-fried in a gochujang sauce, mildly spicy. **Ojingeo-bokkeum (squid)** is similar in heat.
-- If spice is a problem, order the **banban (rolled omelette + sausage)**. Both are not spicy — a safe choice when unfamiliar Korean food isn't landing.
+- If spice is a problem, order the **banban (rolled omelette + sausage)**. Neither is spicy — a safe choice when unfamiliar Korean food isn't landing.
 - Even if Korean food generally hasn't agreed with you, these particular dishes are worth a try.
 - It's **inside Namdaemun Market**, walkable from Myeongdong or Seoul Station. It's back in an alley, so navigate with a map.
 
@@ -67,6 +67,6 @@ Pork stir-fried in a gochujang sauce with plenty of onion — a familiar, no-mis
 
 **Ordering** — one of spicy pork or spicy squid, plus a banban if you want it. Rice comes per person.
 
-**Closing day · hours · prices** — confirmed as weekdays 10:00–21:00 (break 15:00–16:30), closed Sundays; jeyuk-bokkeum and banban run 10,000 KRW, ojingeo-bokkeum around 12,000. Still worth checking before you go.
+**Closing day · hours · prices** — weekdays 10:00–21:00 (break 15:00–16:30), closed Sundays; jeyuk-bokkeum and banban run 10,000 KRW, ojingeo-bokkeum around 12,000 (as of Sep 2026). Still worth checking before you go.
 
-> Written up after eating there myself. Taste and how spicy something feels vary from person to person. Hours and closing day are confirmed as weekdays 10:00–21:00, closed Sundays (may still change) — check the venue's details once more before you go. Prices and hours are **(as of Sep 2026)**.
+> Written up after eating there myself. Taste and how spicy something feels vary from person to person. Hours and closing day are weekdays 10:00–21:00, closed Sundays, but may change — check the venue's details once more before you go. Prices and hours are **(as of Sep 2026)**.

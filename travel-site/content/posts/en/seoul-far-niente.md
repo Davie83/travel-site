@@ -12,7 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%9
 info:
   - Location|21 Dosan-daero 11-gil, Gangnam-gu, Seoul · near Garosu-gil (서울 강남구 도산대로11길 21)
   - Menu|Mostly **Western** · **cream gnocchi gratin**, pasta, dessert
-  - Dessert|Churros with ice cream, tiramisu and so on — the dessert has a good name
+  - Dessert|Churros with ice cream, tiramisu and so on — the dessert is good
   - Room|**A private room is available above a set spend** (for a group of your own)
   - Hours · prices · closing day|**Weekdays (Mon-Thu) noon-1am, Fri noon-2am, Sat 11:30am-2am**, no regular closing day · **cream gnocchi gratin around 25,000 KRW** (as of Aug 2026)
 ---

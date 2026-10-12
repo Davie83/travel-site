@@ -70,4 +70,4 @@ Coming back down and having a coffee at a nearby café is how this loop ends. Ma
 - **Admission, hours, closing day** — ₩5,000 for adults (₩2,500 for teens/children) · opening hours run 04:30–20:00 depending on the season · closed the first Monday of each month. Rates and hours can shift, so double-check before you go.
 - **Route** — see the canola at Gwangchigi Beach, then up Ilchulbong, then coffee on the way down. A comfortable half-day.
 
-> Written up from a trip I made myself. Admission, hours, and the closing day are confirmed as above, but along with canola bloom timing they can all shift year to year, so it's worth confirming again before you set out. Fees and hours are **(as of Aug 2026)**.
+> Written up from a trip I made myself. Admission, hours and the closing day, like the canola bloom timing, can shift from year to year, so it's worth confirming again before you set out. Fees and hours are **(as of Aug 2026)**.

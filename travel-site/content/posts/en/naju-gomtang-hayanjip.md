@@ -32,8 +32,6 @@ There's a reason. A clean broth needs something sharp against it. **Treat the so
 
 This one is on the **clean** side. It doesn't sit heavily. That's why it works as breakfast, which is how a lot of Koreans eat it.
 
-If you have tried *seolleongtang* (the milky-white ox bone soup) and found it too rich or bland, gomtang is the clearer, beefier cousin — worth trying even if that one didn't land.
-
 ## Order the suyuk
 
 **The boiled brisket was tender** — the thing I remember most clearly here.
@@ -59,7 +57,6 @@ Takeaway is also available.
 
 - **Where** — right beside Geumseonggwan, the old Joseon-era guest hall in Naju's historic centre. Easy to combine with a walk around the old town.
 - **8:00 AM opening** is the simplest way to skip the wait.
-- **Language** — a traditional restaurant. Gomtang and suyuk are essentially the whole menu, so ordering is simple.
 - **Nearby city** — if you're extending the trip a short drive over to Gwangju, [Hyeongje Songjeong Tteok-galbi](/en/posts/gwangju-hyeongje-tteokgalbi) is worth pairing with it.
 
 ## For foreign visitors

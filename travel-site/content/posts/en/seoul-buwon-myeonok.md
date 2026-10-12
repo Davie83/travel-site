@@ -7,7 +7,7 @@ date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 excerpt: If you want the old, restrained style of Pyongyang cold noodles, this delivers it. The mung bean pancake is fried in beef fat and tastes wonderfully nutty. Great value — but it's on the second floor inside the market, which is easy to walk past.
-tags: [Seoul, Jung-gu, Namdaemun Market, Hoehyeon, Pyongyang naengmyeon, cold noodles, bindaeddeok]
+tags: [Seoul, Jung-gu, Namdaemun Market, Hoehyeon, Pyongyang naengmyeon, cold noodles, bindaetteok]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 info:
   - Restaurant|Buwon Myeonok (부원면옥)
@@ -33,9 +33,7 @@ That blankness is the point. You are meant to taste the buckwheat and the broth 
 - **If you already like Pyongyang naengmyeon** — you'll be happy
 - **If it's your first time** — come knowing this is the traditional, subtle end of the spectrum
 
-**The mustard and vinegar on the table are for you to add.** That is the normal way to eat it: add a little at a time until the bowl tastes right to you. Nobody will think you're doing it wrong.
-
-Also note: **you will not find the red, spicy version here.** If you want spicy cold noodles, that's a different dish (*bibim-naengmyeon*) at a different kind of restaurant.
+**The mustard and vinegar on the table are for you to add.** That is the normal way to eat it: add a little at a time until the bowl tastes right to you.
 
 ## What it looks like
 
@@ -47,7 +45,7 @@ A metal bowl is filled with clear broth, with brownish buckwheat noodles loosene
 - **Bindaetteok** is a pancake made from ground mung beans fried with meat or vegetables
 - A **brass cup** is a traditional vessel used for drinks such as makgeolli
 
-## Order the bindaeddeok — it's fried in beef fat
+## Order the bindaetteok — it's fried in beef fat
 
 **The mung bean pancake is pan-fried in meat fat**, which makes it deeply nutty and savoury in a way the vegetable-oil version never is.
 
@@ -69,7 +67,7 @@ The address is **41-6 Namdaemunsijang 4-gil, and it is on the 2nd floor.** It si
 
 Come in through Namdaemun Market from **Hoehyeon Station (Line 4).**
 
-**It closes at 8:00 PM** — earlier than most Seoul restaurants, so don't save it for a late dinner. Opening time and closed days need checking.
+**It closes at 8:00 PM** — earlier than most Seoul restaurants, so don't save it for a late dinner.
 
 ## Practical notes
 
@@ -81,7 +79,7 @@ Come in through Namdaemun Market from **Hoehyeon Station (Line 4).**
 ## This suits you if
 
 - ✅ You want the old, subtle style of Pyongyang naengmyeon
-- ✅ You'll add the nutty **bindaeddeok** alongside
+- ✅ You'll add the nutty **bindaetteok** alongside
 - ✅ You're already visiting Namdaemun Market
 - ⚠️ First time with this dish? It will taste plain — that's intended
 - ⚠️ Second floor, easy to miss, and closes at 8:00 PM

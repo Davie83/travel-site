@@ -24,7 +24,7 @@ There is a reason a pufferfish restaurant in Busan **opens at eight in the morni
 
 ## What bokguk is, and this place's strength
 
-A clear broth simmered with pufferfish, *minari* (water dropwort) and bean sprouts, brought to the table still boiling in a stone pot.
+A clear broth simmered with pufferfish, *minari* (water dropwort) and bean sprouts, brought to the table still boiling in an earthenware pot.
 
 The important thing to know: **the broth is not spicy and not strong.** If you arrive expecting the fiery red soups Korea is known for, this will taste plain. That is the point. It is built to settle a stomach, and the minari gives it a clean, herbal edge rather than heat.
 
@@ -41,13 +41,12 @@ Bite-sized pufferfish, dressed in seasoning, comes in a brass bowl, topped with 
 
 **This is a textbook Korean pufferfish restaurant.** It is not somewhere to make a special trip for. What it does is the standard version of the genre, done properly, at a fair price. For a morning in Busan when you need something restorative — or if you simply want to try pufferfish once — it is a safe choice.
 
-On safety: Korean law requires a **separate national licence to prepare pufferfish.** It is not a fish any kitchen is allowed to serve. A restaurant operating openly under a *bokguk* sign is a licensed one, and the dish has been part of everyday eating in Busan for generations.
+On safety: Korean law requires a **separate national licence to prepare pufferfish.** It is not a fish any kitchen is allowed to serve. A restaurant operating openly under a *bokguk* sign is a licensed one.
 
 ## Practical notes
 
 - **Come in the morning.** Opens at 8:00 AM. That is when this dish makes the most sense.
 - **Where** — Dongnae district. It pairs well with a morning around Dongnae Oncheonjang hot springs or Dongnae Eupseong fortress.
-- **Ordering** — this is a neighbourhood restaurant, not a tourist one. A translation app helps; pointing works.
 - **Holidays** — hours may differ.
 - **Want a heartier follow-up?** [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) is a short walk away, also in Dongnae.
 

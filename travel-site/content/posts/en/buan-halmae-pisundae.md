@@ -26,7 +26,7 @@ Korean *sundae* is usually described in English as "blood sausage," but the comm
 
 ## So how does it actually smell
 
-This is where opinions on this place split most. Some say it smells too much of pork. Others say that smell is the point and its absence would mean something was done to strip it out.
+This is where opinions on this place split most. Some say it smells too much of pork. Others say that smell is simply part of the flavour.
 
 **In my experience there was almost none** — far less than the appearance suggested.
 
@@ -62,7 +62,7 @@ The black earthenware pot is filled with a milky broth, with a finely ground bro
 - ✅ You're starting early toward Byeonsan or Saemangeum
 - ✅ A filling meal under ₩10,000
 - ❌ You're very sensitive to organ meat — order the soup only
-- **Where** — Haengan-myeon, just outside Buan town, on the way to the Byeonsan peninsula. No English menu expected; pointing and a translation app work fine.
+- **Where** — Haengan-myeon, just outside Buan town, on the way to the Byeonsan peninsula.
 - **Takeaway** available.
 - **Elsewhere in Jeolla** — over in Gwangju, Jeonnam, I've also written up [Hyeongje Songjeong Tteok-galbi](/en/posts/gwangju-hyeongje-tteokgalbi).
 - **Elsewhere in Jeonbuk** — in Jeonju, I've also been to [Jeonju Waengi Kongnamul-gukbap](/en/posts/jeonju-waengi-gukbap). It's a fair drive from Buan though, so plan it as a separate outing rather than pairing them same-day.

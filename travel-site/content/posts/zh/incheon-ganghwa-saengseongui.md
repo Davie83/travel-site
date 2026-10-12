@@ -1,5 +1,5 @@
 ---
-title: 江華島美食 炭火烤魚 — 在島的入口吃到、老闆手藝烤出來的烤魚定食
+title: 강화도맛집 숯불생선구이 — 在島的入口吃到、老闆手藝烤出來的烤魚定食
 cat: food
 region: gyeonggi
 area: ganghwa
@@ -30,7 +30,7 @@ info:
 
 店門口的玻璃窗上也貼滿了烤魚的大幅照片，從外面就能一眼看出這是賣什麼的店。
 
-![江華島美食炭火烤魚店門口，玻璃窗上貼的烤魚照片](/assets/img/incheon-ganghwa-saengseongui-storefront.jpg)
+![강화도맛집 숯불생선구이店門口，玻璃窗上貼的烤魚照片](/assets/img/incheon-ganghwa-saengseongui-storefront.jpg)
 
 ## 看照片
 

@@ -14,7 +14,7 @@ info:
   - What it is|A **spa-plex** — indoor and outdoor pools plus a Korean sauna / jjimjilbang
   - Time limits|Sauna only **4 hours** · sauna + spa **6 hours** (varies by ticket)
   - The feel|Facilities are new and clean · crowded on weekends and in peak season
-  - Prices · hours|**Aqua spa (sauna + pools, 6h)** ₩60,000 off-peak / ₩70,000 peak (children ₩10,000 less) · **Jjimjil sauna-only (4h)** roughly ₩30,000–40,000 · **Hours** weekdays 10:00–19:00, weekends/holidays 10:00–21:00 (per the official Paradise City site, as of Aug 2026)
+  - Prices · hours|**Aqua spa (sauna + pools, 6h)** ₩60,000 off-peak / ₩70,000 peak (children ₩10,000 less) · **Jjimjil sauna-only (4h)** roughly ₩30,000–40,000 · **Hours** weekdays 10:00–19:00, weekends/holidays 10:00–21:00 (as of Aug 2026)
 ---
 
 The moment the indoor pool opened up under its big domed roof, I found myself wondering whether the Seoul area had anything this well-equipped.

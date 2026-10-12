@@ -1,5 +1,5 @@
 ---
-title: 清風黃金年糕排骨 — 在堤川偶然遇到的、小菜擺滿一桌的年糕排骨店
+title: 청풍황금떡갈비 — 在堤川偶然遇到的、小菜擺滿一桌的年糕排骨店
 cat: food
 region: chungcheong
 area: chungbuk

@@ -30,7 +30,7 @@ This place is old, and it's well-known — well-known enough that there's now a 
 
 The clean taste comes down to the broth. They simmer pesticide-free bean sprouts generously in an anchovy stock, and the result is genuinely refreshing. The sprouts stay crisp, and if you want more, you can ask for a refill.
 
-![A stone bowl of kongnamul-gukbap on the table, with egg and kimchi side dishes nearby](/assets/img/jeonju-waengi-gukbap.jpg)
+![An earthenware pot of kongnamul-gukbap on the table, with egg and kimchi side dishes nearby](/assets/img/jeonju-waengi-gukbap.jpg)
 
 ## The day I got a double-yolk egg
 

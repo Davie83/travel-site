@@ -58,6 +58,6 @@ A pale, clear broth fills the black earthenware pot, with thinly sliced offal fl
 - **Location** — 398 Yeonbuk-ro, Jeju City. There's a branch in Nohyeong too, so confirm you're at the **main location**.
 - **Hours & closed day** — Daily 6:00 AM–3:00 PM (last order 2:30 PM), **closed every Monday**.
 - **Menu** — Haejangguk 11,000 KRW, naejangtang 12,000 KRW. Want substance, go naejangtang; want a cleaner broth, go haejangguk.
-- Curious about other Jeju haejangguk spots? [Mipung Haejangguk](/posts/jeju-mipung-haejangguk) is worth comparing.
+- Curious about other Jeju haejangguk spots? [Mipung Haejangguk](/en/posts/jeju-mipung-haejangguk) is worth comparing.
 
 > This is a first-hand account, and taste/spice impressions are subjective. Prices and hours are **(as of Sep 2026)** — worth double-checking before you visit.

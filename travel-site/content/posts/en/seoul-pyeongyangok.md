@@ -68,4 +68,4 @@ The black earthenware pot is filled with a pale brown clear broth, with foam on 
 - **Another option** — if seafood sounds better in the same Gwanghwamun area, [Seochon Gyedanjip](/en/posts/seoul-seochon-gyedanjip), a seasonal-seafood spot in a Seochon alley, is also nearby.
 - **Hours · prices · closing day** — Dak-gomtang from ₩9,000; open 11:00–22:00 (break 14:30–16:30), closed Sundays (as of Sep 2026). Still worth checking the map or calling before you go.
 
-> This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> This post is a write-up of a personal visit. Taste and preference vary by person. Prices, hours and closing day are **(as of Sep 2026)** — please check the shop's current information once more before you go.

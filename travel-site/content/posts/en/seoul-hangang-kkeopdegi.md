@@ -33,7 +33,7 @@ Unlike the market or the cafe street in Mangwon-dong, this place sits a little a
 
 ## Raw pork neck first, then the skin
 
-**Most people start with raw pork neck and move on to the pork skin.** You fill up a bit on the neck meat first, then finish with kkeopdegi — a pattern similar to [Mapo Sogeumgui](/posts/seoul-mapo-sogeumgui), which I've also written about. Ordering both together works better than kkeopdegi alone.
+**Most people start with raw pork neck and move on to the pork skin.** You fill up a bit on the neck meat first, then finish with kkeopdegi — a pattern similar to [Mapo Sogeumgui](/en/posts/seoul-mapo-sogeumgui), which I've also written about. Ordering both together works better than kkeopdegi alone.
 
 ## What it looks like on the grill
 

@@ -65,7 +65,7 @@ I saw **chicken skewers** on a lot of nearby tables, so I ordered one — chicke
 - **Getting there** — Goyang, Gyeonggi. It's a drive out from central Seoul, so check the name on the map before you set off.
 - **Ordering** — the wood-fired whole chicken first. Skewers as a side at most. Draft beer and the fish-cake broth come with it.
 - **Wait** — in the summer peak and at meal times, even a large room can be full.
-- **Hours · prices · closing day** — Open **noon to 11:30 PM**, the **wood-fired whole chicken is 24,000 won**, and no set closing day turns up. This is current as of Sep 2026, so worth confirming again before you go.
+- **Hours · prices · closing day** — Open **noon to 11:30 PM**, the **wood-fired whole chicken is 24,000 won**, and as far as I know there is no set closing day (as of Sep 2026). Worth confirming again before you go.
 - **Elsewhere in Gyeonggi** — I also visited [Paradise City Cimer](/en/posts/incheon-paradise-cimer) on Yeongjong Island in Incheon. It's a proper drive from Goyang, not a same-day pairing.
 
-> This post is a write-up of a personal visit. Taste and preference vary by person. Hours and prices are as confirmed above but can change, so please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> This post is a write-up of a personal visit. Taste and preference vary by person. Hours and prices are **(as of Sep 2026)** and can change, so please check the shop's current information once more before you go.

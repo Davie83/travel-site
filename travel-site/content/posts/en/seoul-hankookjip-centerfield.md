@@ -6,7 +6,7 @@ area: gangnam
 date: 2026-09-13
 emoji: 🍚
 thumb: assets/img/seoul-hankookjip-centerfield.jpg
-excerpt: Everyone knows Jeonju is famous for bibimbap. Hankookjip, in the basement of Centerfield, has been around since 1952, and it genuinely tastes like real Jeonju-style bibimbap. The herbs and house gochujang work well together, and the gochujang itself isn't very spicy.
+excerpt: Everyone knows Jeonju is famous for bibimbap. Hankookjip, in the basement of Centerfield, has been around since 1952, and it genuinely tastes like real Jeonju-style bibimbap. The seasoned greens and house gochujang work well together, and the gochujang itself isn't very spicy.
 tags: [Seoul, Gangnam, Yeoksam, Centerfield, bibimbap, yukhoe bibimbap, home-style set, set meal, Korean]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%9C%EA%B5%AD%EC%A7%91%20%EC%84%BC%ED%84%B0%ED%95%84%EB%93%9C%EC%97%AD%EC%82%BC%EC%A0%90
 info:
@@ -20,9 +20,9 @@ info:
 
 **Everyone knows Jeonju is famous for bibimbap.** Hankookjip, in the basement of Centerfield, is going for that same Jeonju-style bibimbap, and having tried it, it genuinely tastes the part.
 
-## The herbs and the gochujang
+## The seasoned greens and the gochujang
 
-**The herbs and the house gochujang sauce work well together.** No need to brace yourself for the gochujang — it's really not that spicy. Order one of the bibimbap set meals and you get a small side of bulgogi too, and the combination works surprisingly well.
+**The seasoned greens and the house gochujang sauce work well together.** No need to brace yourself for the gochujang — it's really not that spicy. Order one of the bibimbap set meals and you get a small side of bulgogi too, and the combination works surprisingly well.
 
 ![Bibimbap set and bulgogi home-style set at Hankookjip Centerfield Yeoksam, with two trays of side dishes](/assets/img/seoul-hankookjip-centerfield-tray.jpg)
 

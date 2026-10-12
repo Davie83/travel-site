@@ -6,14 +6,14 @@ area: geoje
 date: 2026-08-22
 emoji: 🌊
 thumb: assets/img/geoje-hiking.jpg
-excerpt: Windy Hill is a famous spot, and it feels like it. What stayed with me was the walk to get there — bays strung with oyster floats, someone working the tidal rocks, and stretches of sea with nobody in them.
+excerpt: Windy Hill is a famous spot, and it feels like it. What stayed with me was the walk to get there — bays strung with aquaculture floats, someone working the tidal rocks, and stretches of sea with nobody in them.
 tags: [Geoje, Gyeongsangnam, Windy Hill, Dojangpo, Haegeumgang, hiking, coastal walk, island]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
 info:
   - Where|Nambu-myeon, Geoje, South Gyeongsang Province (경남 거제시 남부면 갈곶리)
   - Windy Hill (바람의 언덕)|Galgot-ri · **Open 24 hours** — it's an open hillside
   - Dojangpo cruises|55 Dojangpo 1-gil · 055-632-8787 · **From 8:30 AM** — routes to Oedo and Haegeumgang
-  - Admission|Windy Hill is **free** · the cruise fare itself is not confirmed · landing on Oedo adds a separate entry fee of **11,000 won for adults** (8,000 teens, 5,000 children, per the operator's official site, as of Aug 2026)
+  - Admission|Windy Hill is **free** · the cruise fare itself is not confirmed · landing on Oedo adds a separate entry fee of **11,000 won for adults** (8,000 teens, 5,000 children, as of Aug 2026)
   - Google rating|Windy Hill 4.2 (**11,474 reviews**) · Dojangpo cruises 4.1 (556 reviews)
   - Getting around|**A car helps** — island transport is not dense
   - The walking|The stretches linking coastal road and villages are the good part
@@ -37,7 +37,7 @@ The part that stayed with me wasn't the landmark. It was **the walking between l
 
 ![Sea strung with aquaculture floats, layered islands on the horizon](/assets/img/geoje-hiking-sea.jpg)
 
-There was nobody on this stretch. A line of oyster floats, one boat drawing a white seam across the water, islands stacked in layers behind each other. That's all of it.
+There was nobody on this stretch. A line of aquaculture floats, one boat drawing a white seam across the water, islands stacked in layers behind each other. That's all of it.
 
 **Standing there alone, time slows down.** Every moment I actually remember from Geoje was a place like this — unnamed, no car park, no sign pointing at it.
 
@@ -73,7 +73,7 @@ Boat and walk are different experiences. **With one full day, take the boat in t
 - **A car makes this much easier.** Getting around the island on public transport alone eats a lot of the day
 - **Windy Hill is free and open 24 hours.** It's a hillside — there's no gate
 - **The wind is real.** The name isn't decorative. Bring a layer
-- **Weather is everything here.** The sea in the overcast photo and the sea in the clear one are different colours entirely — both of those pictures are from the same walk
+- **Weather is everything here.** The sea in the overcast photo and the sea in the clear one are different colours entirely
 - ✅ Good if you like travel where the walking is the point, you're drawn more to the space between sights than the sights, or you can look at the sea for a long time without getting bored
 - ⚠️ The famous viewpoint is crowded — pick your hour if you want quiet. Without a car, transport will take a real bite out of your day
 - **Elsewhere in Gyeongsang** — I've also written up [Yongwon Hoetjip](/en/posts/jinhae-yongwon-hoetjip) in Jinhae for its fresh cod soup. It's a real drive from Geoje, so treat it as a separate trip.

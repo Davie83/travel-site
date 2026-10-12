@@ -20,8 +20,8 @@ info:
   - Phone|**No number registered on Google Maps**
   - Spice|**Not applicable** (this is a coffee shop)
   - Service|**Dine in and takeaway** both available
-  - Seating|**Few tables.** Reviews suggest booking ahead
-  - Also|Reviews frequently mention the **cake and pie**
+  - Seating|**Few tables.**
+  - Menu|**Americano · hand-drip** (drip bar)
   - Nearby|**Bank of Korea Money Museum**, Shinsegae main store, Namdaemun Market, Myeongdong
   - Rating|**4.6** on Google Maps (16 reviews)
 ---

@@ -53,4 +53,4 @@ Through a wooden window frame with peeling blue paint, a cream-colored cat with 
 - **Etiquette** — don't wake or pick up the cats. Treats only per the cafe's rules.
 - **Nearby** — a short walk toward Sangsu-dong, [Yokosuka Tsunami Sangsu](/en/posts/seoul-yokosuka-tsunami-sangsu), the aged-sashimi izakaya with the pre-opening line, is in the same broad Hongdae area.
 
-> Based on a personal visit. Admission, time limits, closing days and branch details can change — check before you go. Fees and hours are **(as of Aug 2026)**.
+> Based on a personal visit. Admission, time limits, closing days and branch details can change — check before you go. Fees and hours are **(as of Sep 2026)**.

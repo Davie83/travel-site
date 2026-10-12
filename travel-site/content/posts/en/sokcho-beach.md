@@ -34,7 +34,7 @@ A large **ㅅㅊ** sculpture stands in front of the sand. That alone will tell a
 
 Right beside the beach is the **Sokcho Eye** ferris wheel. By day, the white frame with its coloured capsules turning photographs well; in the evening it lights up.
 
-The lower floors of the building it stands on hold **coffee, bakery, beer and ice cream** shops — you'll see names like "Sokcho Sand" and "Cafe Whale Light" on the signs. It's a good spot to duck into for a coffee while walking the beach.
+The lower floors of the building it stands on hold **coffee, bakery, beer and ice cream** shops — you'll see names like "Sokcho Sand" (속초샌드) and "Cafe Whale Light" (카페 웨일라잇) on the signs. It's a good spot to duck into for a coffee while walking the beach.
 
 The beach itself is only open for swimming during the summer season; the rest of the year you're mostly here for the plaza, the promenade, and the photo spots.
 

@@ -15,7 +15,7 @@ info:
   - Tickets|**One-way tickets available** (a round trip isn't required)
   - Note|A traditional boat moved by **pulling a rope** rather than a motor
   - Recommended|A Sokcho landmark worth experiencing once
-  - Hours · fares · closing day|**Runs 05:00-23:00 May-Oct, 05:30-22:30 Nov-Apr** · **fare one-way: adults 500 KRW, children 300 KRW, bikes/carts 500 KRW** · no regular closing day (suspended for holidays/bad weather, per Sokcho City Facilities Corp, as of Sep 2026)
+  - Hours · fares · closing day|**Runs 05:00-23:00 May-Oct, 05:30-22:30 Nov-Apr** · **fare one-way: adults 500 KRW, children 300 KRW, bikes/carts 500 KRW** · no regular closing day (suspended for holidays/bad weather, as of Sep 2026)
 ---
 
 The gaetbae ferry connects central Sokcho with Abai Village. I figured it was worth riding at least once while in Sokcho, so I went.

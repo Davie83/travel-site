@@ -49,7 +49,7 @@ Admission fees add up quietly over a trip. **Building in one day where that line
 
 ## There are animals
 
-As the sea lion in the photo suggests, there is a fair amount to look at.
+As the fur seal in the photo suggests, there is a fair amount to look at.
 
 Tigers, lions, sea lions, fur seals, monkeys, giraffes and elephants, down through birds and smaller animals. **This is not a world-class zoo,** and it is only fair to say so. If seeing a zoo is the actual goal, Seoul Grand Park in Gwacheon is far bigger.
 

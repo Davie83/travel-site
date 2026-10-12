@@ -19,86 +19,80 @@ info:
   - Google rating|Yeouido 4.0 (1,279 reviews) · Myeongdong 3.6 (2,151 reviews)
 ---
 
-An old Seoul institution serving **gomtang** — clear beef soup — with rice already in the bowl. The care in it shows.
+An old Seoul spot for **gomtang**, a clear beef soup served with the rice already in the bowl. You can taste the care that goes into it.
 
-## What gomtang is, and what it isn't
+## Gomtang is the clear one
 
-Korea has several beef soups and travellers mix them up constantly:
+Many people picture a milky white broth when they hear "gomtang", but that is **seolleongtang**. Hadongkwan makes the **clear** kind. (Galbitang is the other clear beef soup, built around short ribs.)
 
-- **Gomtang** — this one. A **clear**, light-coloured beef broth
-- **Seolleongtang** — the **milky white** one, from simmering ox bones
-- **Galbitang** — clear, but built around short ribs
+The seasoning is light and the broth itself comes first, so the first spoonful can taste plain. That is how the dish is meant to be. Salt and pepper are on the table, so adjust it to your own taste.
 
-So if you were expecting a white soup, this isn't that. The broth here is thin, clear and barely seasoned, because **the broth itself is the point** rather than a sauce or spice.
-
-Your first spoonful may taste like very little. That's intended. **Salt and pepper are on the table** — season it to your own taste. The rice comes already in the soup.
+The rice comes already in the soup, so this is a **gukbap**-style bowl.
 
 ## What it looks like
 
-A clear broth fills a bowl of brassware color, with sliced green onion heaped on top. Rice grains and pieces of beef show through the broth. A spoon and chopsticks rest across the bowl, and the brass dish at the left holds radish kimchi and napa cabbage kimchi. The broth is on the transparent side, not oily.
+The clear broth sits in a bowl with a brassy sheen, topped with a generous heap of sliced green onion. Grains of rice and pieces of beef show through the soup. A spoon and chopsticks rest across the rim, and a brass dish on the left holds radish kimchi and napa cabbage kimchi. The broth looks clear rather than oily.
 
 ## Menu words
 
-- **Gomtang** is a soup made by simmering beef and bones for a long time
-- **Kkakdugi** is kimchi made from cubed radish
-- **Brassware (nogt-geureut)** is traditional tableware made of brass that keeps the broth warm longer
+- **Gomtang (곰탕)** is a soup of beef and bones simmered for hours. To order: "Gomtang juseyo (곰탕 주세요)"
+- **Kkakdugi (깍두기)** is kimchi made from cubed radish, and it comes as the side dish
+- **Notgeureut (놋그릇)** is traditional brassware that keeps the soup warm for a long time
 
-## The move: ask for the kimchi brine
+## Pour in the kkakdugi brine
 
-**This is the most useful thing to know here.**
+**This is the most important thing to know about this place.**
 
-Eat it plain for a while. Then **ask for extra brine from the radish kimchi (*kkakdugi*)** and pour it into your soup. The colour changes, and so does the taste — it turns tangy and sharper, and cuts the richness.
+Eat the clear broth for a while, then **ask for more kkakdugi brine** and pour it into the soup. The color and the flavor change completely, and the bowl turns tangy and refreshing.
 
-**One bowl, two different soups.** Don't do it at the start; taste the clear broth properly first, then switch.
+**One bowl, two flavors.** Don't add it at the start. Taste the clear broth properly first, then switch.
 
-This isn't a tourist gimmick — **the kkakdugi is the second pillar of the meal**, after the soup itself. Locals do this. Nobody will think you're eating it wrong.
+After the gomtang itself, **the kkakdugi** is the other pillar of the meal, and there is a reason the side dish matters this much here.
 
-## It opens at 7:00 AM
+## It opens at 7 a.m.
 
-Gomtang is traditionally a **breakfast** dish in Korea, and this place is used that way. Arriving early means an easy seat.
+**It opens at 7:00 a.m.** Gomtang is traditionally a morning dish, and this place treats it that way.
 
-Food arrives **within a minute of ordering.** It is fast.
+Go early and seats are easy to find. Food arrives **within a minute of ordering**, so a quick solo breakfast on a weekday is no trouble.
 
-The flip side: **service is brisk and impersonal.** This is not a place for a warm welcome — it's a working old restaurant where you eat and go.
+In return, **service is businesslike.** This is not somewhere for a warm welcome. It is an old-school shop where you finish a bowl quickly and leave.
 
-Closing time I could not confirm. If you plan to go late, call ahead. Since this branch shuts by mid-afternoon, if you're staying in Yeouido through the evening, [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam) nearby is a good way to cover dinner with a bowl of pho.
+**It closes at 4:00 p.m.**, and earlier if the ingredients run out, so if you plan to come after lunchtime, hurry. If you will still be in Yeouido in the evening, [Beyond Vietnam, National Assembly branch](/en/posts/seoul-beyond-vietnam) in the same neighborhood is an option for a pho dinner.
 
-## On price — being straight with you
+## It is pricey, honestly
 
-A basic bowl is **₩19,000**, and the tier called **"25" is ₩25,000.** For a Korean rice-and-soup meal, that is genuinely expensive.
+A basic bowl is **₩19,000**, and the **"25"** is **₩25,000**. For a bowl of soup and rice, that is clearly expensive.
 
-Hadongkwan names its dishes **by price** — "25" simply means the ₩25,000 version. Ask in store what changes between tiers; there is also an **offal-mixed** option.
+Hadongkwan names its tiers **by price**: "25" means the ₩25,000 version. Ask in the shop what changes between tiers. There is also a choice of **mixed offal**.
 
-This is where opinions split. **Some will find it good, but small in portion for the price** — and that, more than the cooking, is the sticking point.
+This is where opinions split. **Some people find it delicious but small for the price**, and that, more than the flavor, is why ratings differ.
 
-So, honestly:
+So here is how I would sum it up:
 
-- **If you want a serious old-school Korean beef soup house** — worth paying for
-- **If you want a cheap, filling rice-and-soup meal** — this isn't it. Korea has those everywhere for a third of the price
+- **If you want an old-established place that does hanwoo (Korean beef) gomtang properly** — worth paying for
+- **If you want a bargain gukbap** — this is not the place
 
-## One more thing: temperature
+## About the temperature
 
-One thing to know in advance: **the broth does not arrive piping hot.** It comes in a brass bowl rather than an earthenware pot, which is why. If you expect a scalding bowl, you may find it merely warm.
+One thing to know in advance: **the soup does not arrive at a rolling boil.** It comes in a brass bowl, not an earthenware pot (ttukbaegi). If you expect a bubbling bowl, it may feel lukewarm.
 
 ## There are several branches
 
-**Myeongdong and Yeouido** — and note that **Yeouido has two**, which is easy to get wrong.
+**There are branches in Myeongdong and Yeouido**, and **Yeouido has two**, which is confusing.
 
-- **Yeouido main branch** — 3 Eunhaeng-ro, by National Assembly Station Exit 3. This is the busier of the two
+- **Yeouido main branch** — 3 Eunhaeng-ro, at Exit 3 of National Assembly Station. This is the center of the Yeouido branches
 - **Yeouido Station branch** — 50 Yeouinaru-ro
-- **Myeongdong original** — 12 Myeongdong 9-gil, near Euljiro 1-ga Station and Myeongdong Cathedral. **This is the one that fits a sightseeing day**, and it takes reservations through the CatchTable app
+- **Myeongdong original** — 12 Myeongdong 9-gil, near Euljiro 1-ga Station and Myeongdong Cathedral, which makes it easy to fit into a sightseeing route
 
-The Myeongdong branch has a reputation among guide-readers, and Michelin comes up constantly in connection with it. **Listings change from year to year, so treat it as a well-known old restaurant rather than a starred one.**
+When you search on a map, **check the branch name** as well.
 
-**Check the branch name**, not just "Hadongkwan," when you search.
+## This bowl is for you if
 
-## This is the right bowl if
+- ✅ You want an old-established place that does clear gomtang properly
+- ✅ You want to try the kkakdugi brine for two flavors in one bowl
+- ✅ You need a filling breakfast
+- ⚠️ It is expensive for a gukbap — not a place for bargain hunters
+- ⚠️ Service is businesslike and the turnover is fast
+- ⚠️ The soup may not be served very hot
 
-- ✅ You want a proper old-school clear Korean beef soup
-- ✅ You'll try the kimchi-brine trick for a second flavour
-- ✅ You want a substantial Korean breakfast
-- ⚠️ Expensive for a rice-and-soup meal
-- ⚠️ Brisk, functional service and fast turnover
-- ⚠️ The broth may not arrive very hot
-
-> Written from a personal visit. Old-school restaurants like this sometimes run later or shorter than posted, so call ahead if you're planning to go late. Prices and hours are **(as of Aug 2026)**.
+> A record from a real meal. At old-school places like this, prices and closing times can differ from what is posted, so if you plan to go late, I recommend calling ahead. Prices and hours are **(as of Aug 2026)**.

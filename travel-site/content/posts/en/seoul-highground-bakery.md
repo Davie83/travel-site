@@ -13,8 +13,8 @@ info:
   - Bakery cafe|High Ground Bakery (하이그라운드 제빵소)
   - Location|161 Samyang-ro 181-gil, Gangbuk-gu, Seoul (서울 강북구 삼양로181길 161)
   - Phone|02-991-5777
-  - Hours|**Daily 10:00 AM – 10:00 PM** · open all year (official Instagram, as of Oct 2026)
-  - Parking|Available · large car park, and many reviews say it is free
+  - Hours|**Daily 10:00 AM – 10:00 PM** · open all year (as of Oct 2026)
+  - Parking|Available · large car park
   - Google rating|4.2 (**about 540 reviews**, as of Oct 2026)
   - Nearest station|**Bukhansanui** (Ui-Sinseol Line) · about 1 km on the map, uphill toward the valley
 ---

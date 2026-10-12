@@ -12,13 +12,13 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%9E%A5%EB%AA%A8%EC%8B%9D
 info:
   - Restaurant|Jangmo Siktak (장모식탁)
   - Location|51 Yeonsin-ro, Jeju City (제주 제주시 연신로 51), Ido-dong · in front of Hanmaeum Hospital
-  - Phone|064-805-7158 (Google Maps, as of Oct 2026)
-  - Hours|**9:00 AM – 8:30 PM** · last order 7:40 PM (Google Maps and a travel guide site, as of Oct 2026)
-  - Closing day|**Closed every Sunday** (Google Maps, as of Oct 2026)
-  - What to order|**Jangmo set (장모정식) 17,000 KRW** (listed on Google Maps as "Jangmo Jeongshik") — abalone stone-pot rice · stew · soy-marinated crab · marinated abalone · stir-fried pork · side dishes (you choose the stew when ordering; per a travel guide site, as of Oct 2026)
+  - Phone|064-805-7158 (as of Oct 2026)
+  - Hours|**9:00 AM – 8:30 PM** · last order 7:40 PM (as of Oct 2026)
+  - Closing day|**Closed every Sunday** (as of Oct 2026)
+  - What to order|**Jangmo set (장모정식) 17,000 KRW** — abalone stone-pot rice · stew · soy-marinated crab · marinated abalone · stir-fried pork · side dishes (you choose the stew when ordering; as of Oct 2026)
   - Price range|**Jangmo set 17,000 KRW** · other dishes at around **10,000 KRW per person** (as of Oct 2026)
   - Parking|Available
-  - Queue|Said to have a wait at mealtimes · I came at an in-between hour and was seated right away
+  - Queue|There can be a wait at mealtimes · I came at an in-between hour and was seated right away
   - Google rating|4.5 (**about 350 reviews**, as of Oct 2026)
 ---
 
@@ -26,7 +26,7 @@ info:
 
 ## Why it was my first meal in Jeju
 
-Measured from Jeju Airport, it is inside the city but a little to the south-east. It is good value, so **you are told to expect a wait at mealtimes.** I arrived at an in-between hour and was lucky enough to be seated straight away.
+Measured from Jeju Airport, it is inside the city but a little to the south-east. It is good value, so **expect a possible wait at mealtimes.** I arrived at an in-between hour and was lucky enough to be seated straight away.
 
 ## The stone-pot rice is the one I recommend
 
@@ -65,7 +65,7 @@ It is open **9:00 AM to 8:30 PM** with last order at 7:40 PM, and **closed on Su
 
 ## Before you go
 
-- **Timing** — there is said to be a wait at mealtimes, so an in-between hour is easier
+- **Timing** — there can be a wait at mealtimes, so an in-between hour is easier
 - **Phone** — 064-805-7158
 - **Address for a taxi** — 제주 제주시 연신로 51
 - **If you want another meal in Jeju City** — try the offal soup at [Daechun Haejangguk](/en/posts/jeju-daechun-haejangguk) or pizza at [Lee Jaemo Pizza Jeju](/en/posts/jeju-ijaemo-pizza)

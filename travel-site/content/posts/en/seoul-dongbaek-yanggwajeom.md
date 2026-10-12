@@ -15,7 +15,7 @@ info:
   - Phone|02-3144-0429
   - Hours|**9:00 AM ~ 10:00 PM** · (no closing-day info)
   - Google rating|3.9 (852 reviews)
-  - Wait|(as of Aug 2026) — one of the most-mentioned things in reviews
+  - Wait|Cooked to order, so expect to wait (as of Aug 2026)
 ---
 
 A café inside a restored *hanok* — a traditional Korean house — in the Ikseon-dong alleys. The short version: **decide what you're going for before you go.**
@@ -69,7 +69,6 @@ As a restaurant, it underwhelms. **As a hanok café, it works.**
 - **Where** — right beside the Ikseon-dong hanok alleys, a short walk from Jongno 3-ga station. Easy to fold into a walk around the neighbourhood.
 - **Opens 9:00 AM** — early for this area. **Arriving at opening is the simplest way to avoid the queue.**
 - **Narrow alleys** — the approach is tight. Awkward with large luggage or a pushchair.
-- **Ordering** — a photo menu and pointing will get you there.
 - **Carrying on to dinner** — [Sigoljip](/en/posts/seoul-sigoljip), in Euljiro's rib alley, is within walking distance if you want LA galbi to close out the day.
 
 > Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(as of Aug 2026)**.

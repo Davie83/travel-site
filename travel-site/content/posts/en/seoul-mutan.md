@@ -74,8 +74,6 @@ Budget **₩20,000–50,000 per person.** The range is wide because it depends e
 
 **Treat booking as compulsory.** Even a weekday evening fills up. Make the booking before you go.
 
-The restaurant also posted an event offering **three kinds of handmade dim sum to customers who reserve** — but it excludes same-day bookings and says it may end early, so **whether it is still running is (as of Aug 2026).**
-
 **It connects directly to Yeouido Station.** Second floor of TP Tower, so you can arrive dry in the rain. Yeouido is an office district without much sightseeing around it, but **for sheer ease of access this is among the easiest good Chinese restaurants to reach in Seoul.** It **closes at 10:00 PM.**
 
 If a brothy lunch sounds better another day, [Beyond Vietnam](/en/posts/seoul-beyond-vietnam)'s pho near National Assembly Station is another option in the same broad Yeouido area.

@@ -27,7 +27,7 @@ That is this shop's real strength.
 
 **It opens at 11:30 AM and closes at 3:00 AM.** When you have been out in Hongdae and you need an actual meal rather than a snack, a ramen shop still open at that hour is rare.
 
-I have driven over more than once on a sudden late-night craving. **The fact that they stay open that late is something to be grateful for.**
+More than once I have rushed over on a sudden late-night craving. **The fact that they stay open that late is something to be grateful for.**
 
 ## Inramen with a heap of garlic
 

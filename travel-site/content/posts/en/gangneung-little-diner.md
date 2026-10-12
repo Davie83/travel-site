@@ -55,7 +55,7 @@ Sitting in a room like this for brunch, on a trip, lifts the mood of the whole d
 - The signature burger's **bun is thick, like a pancake**. Pouring the syrup from the small jug over the bun is the house way to eat it.
 - **Not spicy.** Pickled jalapeños come on the side, but you can leave them off.
 - Gangneung is about **two hours from Seoul by KTX**. It works well as a next-morning stop after you arrive.
-- I couldn't confirm whether there's an English menu. If the menu has photos, pointing works fine.
+- I didn't check whether there's an English menu. If the menu has photos, pointing works fine.
 - ✅ Good if you want to start the first morning of a Gangneung trip light and in a good mood, you like analog/retro spaces, or Korean food and soup in the morning feels like too much
 - ⚠️ Less good if you want a quiet, tidy atmosphere, or just want to grab a quick meal — it's heavily decorated, can get busy, and suits a slower pace
 
@@ -63,7 +63,7 @@ Sitting in a room like this for brunch, on a trip, lifts the mood of the whole d
 
 - **Location** — in town in Gangneung, Gangwon. Check the shop name on the map before you go.
 - **Ordering** — the pancake-bun burger is the signature. With a group, add one quesadilla-style plate to share.
-- **Hours · closing day** — Wed–Sun 11:00 AM–8:00 PM (break 3–5 PM), closed Mondays and Tuesdays, as of Sep 2026. Prices I still couldn't confirm — check the map or their social media before you go.
+- **Hours · closing day** — Wed–Sun 11:00 AM–8:00 PM (break 3–5 PM), closed Mondays and Tuesdays, as of Sep 2026. I didn't check prices — check the map or their social media before you go.
 - **For dinner** — [Donghwa Garden](/en/posts/gangneung-donghwa-garden) in the Chodang tofu village is worth pairing with this for a spicier finish to the day in Gangneung.
 
-> This post is a write-up of a visit in person. The menu and taste are a matter of personal preference. Hours and closing day are as of Sep 2026, and I still couldn't confirm prices — please check the shop's current information once more before you go.
+> This post is a write-up of a visit in person. The menu and taste are a matter of personal preference. Hours and closing day are as of Sep 2026, and I didn't check prices — please check the shop's current information once more before you go.

@@ -14,7 +14,7 @@ info:
   - Signature|**Grilled teugyang**, **grilled daechang** — plus a fairly wide menu
   - Cooking|Over **charcoal** — seared first, finished on the grill at the table
   - Sides|A range, led by **raw beef liver and omasum (cheonyeop)**
-  - Seating|The main room is fairly **loud** — I couldn't confirm whether there's a private room in the back
+  - Seating|The main room is fairly **loud** — I didn't check whether there's a private room in the back
   - Prices · hours · closing day|Not confirmed (check before you go)
 ---
 
@@ -28,7 +28,7 @@ Here too, that texture came through. Alternating it with the fatty, chewy daecha
 
 ## What it looks like
 
-Over a copper-colored wire grill, split-open teuk-yang lies flat, its pale pinkish inside brushed thinly with a red seasoning. Red charcoal glows beneath the grill. In the background, a plate of red meat that looks like yukhoe or liver, a soy dish and a yellow sauce, and a small bowl of clear soup sit on the table. A plate of onion is also visible at the upper left.
+Over a copper-colored wire grill, split-open teugyang lies flat, its pale pinkish inside brushed thinly with a red seasoning. Red charcoal glows beneath the grill. In the background, a plate of red meat that looks like yukhoe or liver, a soy dish and a yellow sauce, and a small bowl of clear soup sit on the table. A plate of onion is also visible at the upper left.
 
 ## Menu words
 
@@ -46,7 +46,7 @@ Mapo has an alley where galbi and grill houses cluster together. Cheongchun Gura
 
 Because it's **grilled over charcoal**, the taste is solidly above average. The sides run to several dishes, led by **raw beef liver and omasum (cheonyeop)**. I finished with a bowl of **mul-naengmyeon** (cold buckwheat noodles in broth) and left full — the noodles weren't special, but they were decent enough.
 
-Given what teugyang and daechang cost, it's the sort of place you could use for entertaining. That said, I ate in the main room this time and it was **quite loud**. I'll have to check next time whether there's a private room in the back.
+I ate in the main room this time and it was **quite loud**. I'll have to check next time whether there's a private room in the back.
 
 ## Worth knowing on a first visit
 
@@ -70,8 +70,8 @@ Given what teugyang and daechang cost, it's the sort of place you could use for 
 
 - **Location** — the Mapo galbi alley, Mapo-gu, Seoul. Several grill houses share the alley, so check the shop name on the map before you go.
 - **Ordering** — teugyang and daechang are the signatures. With a group, mix cuts and add naengmyeon to finish.
-- **Seating** — if you want to talk quietly, ask when booking whether there's a private room (I couldn't confirm this time).
-- **Prices · hours · closing day** — I couldn't confirm them this time. Check the map or call before you go.
+- **Seating** — if you want to talk quietly, ask when booking whether there's a private room (I didn't check).
+- **Prices · hours · closing day** — I didn't check. Check the map or call before you go.
 - **Coffee after** — it's the same Mapo area, so once you're full of grilled offal, closing out at [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) works as a follow-up.
 
-> Written up from a visit of my own. The cut names, texture, and taste are a matter of personal preference, and I couldn't confirm the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> Written up from a visit of my own. The cut names, texture, and taste are a matter of personal preference, and I didn't check the prices, hours, closing day, or whether there's a private room — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

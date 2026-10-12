@@ -14,7 +14,7 @@ info:
   - Location|**10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul · IFC Mall** food court (connected to Yeouido Station) (서울 영등포구 국제금융로 10 (IFC몰))
   - Signature|**Seafood tom yum noodle soup** — generous with mussels, clams, shrimp and squid
   - Taste|**Sour-forward**, mildly spicy · topped with ground peanut and cilantro
-  - Room|A bright space done up with mosaic lamps and a Bangkok street-scene mural. Busy with office workers at lunch
+  - Room|A bright space done up with mosaic lamps and a Thai street-scene mural. Busy with office workers at lunch
   - My angle|I like sour flavours (the way I like acidity in coffee), so when I want a tom yum noodle soup I go to Konthai or Soi Yeonnam
   - Price · hours · closing day|**Open daily 11am-10pm** (last order 9pm), no closing day found · **seafood tom yum noodle soup 15,900 KRW** (as of Sep 2026)
 ---
@@ -25,7 +25,7 @@ The Yeouido branch of Konthai. It's inside IFC Mall, which has become a symbol o
 
 Konthai is a Thai restaurant known for its Yeonnam-dong original; lately there are several branches. The Yeouido one is in the IFC Mall food court, handy if you work nearby or came to shop. At lunch it's fairly busy with office workers.
 
-![The room, done up with mosaic lamps and a Bangkok street-scene mural; packed at lunch](/assets/img/seoul-konthai-yeouido-interior.jpg)
+![The room, done up with mosaic lamps and a Thai street-scene mural; packed at lunch](/assets/img/seoul-konthai-yeouido-interior.jpg)
 
 ## What it looks like
 

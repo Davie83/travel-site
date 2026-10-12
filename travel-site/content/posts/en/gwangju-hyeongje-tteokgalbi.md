@@ -54,8 +54,8 @@ Compared with the other places in the tteok-galbi alley, this isn't one that lay
 ## Before you go
 
 - **Getting there** — the tteok-galbi alley between Gwangju Songjeong Station and Gwangsan-gu Office, in Gwangsan-gu, Gwangju. Several restaurants in the alley have similar names, so check the sign before you sit down.
-- **Hours · prices · closing day** — confirmed as daily 10:00–21:30 with no regular closing day. The tteokgalbi set starts at 18,000 KRW. Still worth checking before you go.
+- **Hours · prices · closing day** — daily 10:00–21:30 with no regular closing day. The tteok-galbi set starts at 18,000 KRW (as of Aug 2026). Worth checking before you go.
 - **Ordering** — beef and pork tteok-galbi are ordered by the serving. Get one of each if you want to try both.
 - **Next stop** — [Naju Gomtang Hayanjip](/en/posts/naju-gomtang-hayanjip) is a short drive away in Naju and worth pairing with this for its clean beef broth.
 
-> Based on a personal visit. Hours and closing day are confirmed as daily 10:00–21:30 with no regular closing day (may still change) — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.
+> Based on a personal visit. Hours are daily 10:00–21:30 with no regular closing day, **(as of Aug 2026)** — check the venue's details once more before you go.

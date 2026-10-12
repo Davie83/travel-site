@@ -13,7 +13,7 @@ info:
   - Address|12-15 Jeongdong-gil, Jung-gu, Seoul
   - Phone|0507-1440-2259
   - Hours|Daily 11:00 AM – 10:00 PM (last order 9:00 PM) · Saturdays 10:30 AM – 9:00 PM · **open every day** (as of Sep 2026)
-  - Signature dishes|Truffle mushroom pasta 23,500 KRW · Shrimp roe rose pasta 25,000 KRW · Crab meat pasta 29,900 KRW · Steak (350g) 69,000 KRW (as of Sep 2026)
+  - Signature dishes|Truffle mushroom pasta 23,500 KRW · Shrimp roe rosé pasta 25,000 KRW · Crab meat pasta 29,900 KRW · Steak (350g) 69,000 KRW (as of Sep 2026)
   - Diningcode rating|Overall 4.1 · Taste 4.6 · Value 4.4 · Service 4.7
   - Nearest station|Seodaemun (Line 5), about a 4-minute walk
   - Parking|No on-site parking · nearby public lot (fee discount for weekday lunch 11:30 AM–5:30 PM)
@@ -50,7 +50,7 @@ Honestly, the food itself isn't the kind of thing you'd rave about elsewhere. Bu
 
 ## The menu and prices at a glance
 
-The pastas are truffle mushroom at ₩23,500, shrimp rosé at ₩25,000 and crab meat at ₩29,900, and the steak (350 g) is ₩69,000 (as of Sep 2026). On your own, the pasta side of the menu is the lighter fit; with company, sharing the steak matches the price and portion better. I ordered the steak and the truffle mushroom pasta.
+The pastas are truffle mushroom at ₩23,500, shrimp roe rosé at ₩25,000 and crab meat at ₩29,900, and the steak (350 g) is ₩69,000 (as of Sep 2026). On your own, the pasta side of the menu is the lighter fit; with company, sharing the steak matches the price and portion better. I ordered the steak and the truffle mushroom pasta.
 
 ## A walk along Jeongdong-gil
 

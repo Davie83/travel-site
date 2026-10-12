@@ -24,7 +24,7 @@ Off to one side of the yard, two big pine trees stand very upright, like people 
 
 The thatched house standing here now is not the original. It was rebuilt from the accounts of descendants and villagers, on the site of the Kang Do-sun house where Kim actually stayed. A stone wall, a narrow yard, a few low thatched roofs — that is all of it.
 
-Standing in front of those pines, I caught myself wondering whether it was *Chusa was framed*. It's quiet, the way an exile site should be, and there's an air of *so this is the place*.
+In front of those pines I wondered for a moment whether they were trying to say, "Chusa was framed." It's quiet, the way an exile site should be, and there's an air of *so this is the place*.
 
 ![The reconstructed thatched house and stone wall, with the tree that guards the yard — Chusa's place of exile](/assets/img/jeju-chusa-yubaeji-choga.jpg)
 
@@ -38,7 +38,7 @@ If you're passing through the southwest of Jeju, around Daejeong, this is worth 
 
 This is where Kim Jeong-hui — the "Chusa" of Chusa-che, the calligraphic style — lived out his exile. In 1840, caught up in a political purge, Kim Jeong-hui (1786–1856) was banished here to Daejeong. He wasn't released until 1848 — more than eight years. The sentence was called *wiri-anchi*: the house is ringed with a hedge of thorns, and you do not leave it.
 
-His writing, they say, only grew firmer in that confinement. The hand we now call Chusa-che matured around this time, and the painting he gave his student — the *Sehando* (1844) — came out of these years too. It shows a bare hut with a pine and a juniper that stay green through the cold season.
+His writing, they say, only grew firmer in that confinement. The hand we now call Chusa-che matured around this time, and the painting he gave his student — the *Sehando* (1844) — came out of these years too. It shows a pine and a Korean pine (jat-namu) that stay green through the cold season.
 
 ## The Jeju Chusa Museum
 
@@ -63,8 +63,8 @@ Next to the house is the Jeju Chusa Museum. It is a low building, mostly undergr
 ## Before you go
 
 - **Getting there** — 44 Chusa-ro, Daejeong-eup, Seogwipo, Jeju. Under 10 minutes by car from Moseulpo Harbour, near Daejeong Hyanggyo.
-- **Admission · hours · closing day** — **Free**, open 9:00 AM–6:00 PM (last entry 5:30 PM), **closed every Monday** (also 1/1, Lunar New Year, Chuseok). This is current as of Aug 2026, so it's worth confirming again before you go.
+- **Admission · hours · closing day** — **Free**, open 9:00 AM–6:00 PM (last entry 5:30 PM), **closed every Monday** (also 1/1, Lunar New Year, Chuseok). (as of Aug 2026) — worth confirming again before you go.
 - **Bundling** — Moseulpo Harbour → Sanbangsan → Chusa's place of exile makes a natural loop.
 - **Eat** — down toward the harbour, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is worth it for a grilled-fish spread.
 
-> Written after my own visit. Admission, hours and the closing day are as confirmed above, but they can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.
+> Written after my own visit. Admission, hours and the closing day can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

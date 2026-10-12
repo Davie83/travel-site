@@ -57,7 +57,7 @@ What is mulhoe? **Raw fish in a cold broth** — eaten as a soup, in summer espe
 
 I recommend the **squid** version.
 
-There is also **jari mulhoe**, made with a small reef fish sliced bones and all — a Jeju thing. A fair number of people order it. I personally do not like it. If you do, this is a place people travel for it.
+There is also **jari mulhoe**, made with a small reef fish sliced bones and all — a Jeju thing. A fair number of people order it. I personally do not like it. Those who do come here looking for it.
 
 ## Where it fits in a Jeju plan
 

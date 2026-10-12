@@ -17,11 +17,11 @@ info:
   - Restaurant|Yongwon Hoetjip (용원횟집)
   - Address|**242-6 Yongwon-dong-ro**, Jinhae-gu, Changwon, Gyeongnam (용원동로 242-6)
   - Phone|055-547-0455
-  - Hours|**10:00 AM to 9:00 PM** (per Diningcode listing, as of Aug 2026) · **appears to have no regular closing day** — Sundays may close early once the catch runs out
+  - Hours|**10:00 AM to 9:00 PM** (as of Aug 2026) · **no regular closing day, as far as I know** — Sundays may close early once the catch runs out
   - What to order|**Fresh cod soup** · the **cod course** (sashimi, pancake, soup) · wild-caught sashimi
-  - Season|**Fresh cod is a winter fish.** Reviews mention cold raw fish soup in summer and flounder-mugwort soup in spring
+  - Season|**Fresh cod is a winter fish.** The menu can change in other seasons
   - Spice|**Not spicy at all** (a clear, unseasoned broth)
-  - Note|**Several reviews call it expensive.** Fresh cod is an expensive fish to begin with
+  - Note|**It can strain the budget.** Fresh cod is an expensive fish to begin with
   - Service|**Dine in, takeaway and delivery** all available
   - Location|The **Yongwon fish market** area, right on the border with Busan Gangseo-gu
   - Rating|**4.2** on Google Maps (81 reviews)
@@ -62,7 +62,7 @@ Soup with the cod pancake alongside is the most common order here. The soup alon
 
 **1. It may strain your budget.** Budget 20,000~30,000 KRW per person, and expect that to climb year on year. **Fresh cod is an expensive fish.** Treat it as a once-a-year restorative meal and it sits easier.
 
-**2. Fresh cod is a winter fish.** This matters more. The cod soup is what this place is known for **once winter comes.** **If you go in summer, the fresh cod soup may not be available.** Cold raw fish soup takes its place then, and flounder-mugwort soup in spring.
+**2. Fresh cod is a winter fish.** This matters more. The cod soup is what this place is known for **once winter comes.** **If you go in summer, the fresh cod soup may not be available.**
 
 If you are travelling far, **call first and ask whether fresh cod is on today.**
 
@@ -86,7 +86,6 @@ A good place to attach to a Busan itinerary — but one thing to watch for: ther
 - **Dip the fish in the soy and seasoning sauces** served alongside. The broth itself is lightly seasoned
 - **Winter, roughly December to February, is the time to come.** The menu can change in other seasons
 - **This is not a cheap restaurant** — expect 20,000~30,000 KRW per person
-- **Korean is likely the only language spoken.** Show the order phrase above
 
 ## Fits well, or not so much
 
@@ -99,6 +98,6 @@ A good place to attach to a Busan itinerary — but one thing to watch for: ther
 - ⚠️ **In summer the fresh cod soup may not be available**
 - ⚠️ **It may strain your budget** (20,000~30,000 KRW per person)
 - ⚠️ Milt is an unfamiliar ingredient for many
-- ⚠️ **No regular closing day found, though this isn't fully certain.** Sundays can close early if they sell out — call ahead if you're travelling far
+- ⚠️ **No regular closing day, as far as I know.** Sundays can close early if they sell out — call ahead if you're travelling far
 
 > Written up from a visit of my own; taste is personal preference. Prices and hours shift often, so anything I couldn't pin down is flagged **(as of Aug 2026)**.

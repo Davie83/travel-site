@@ -1,5 +1,5 @@
 ---
-title: 麻浦ソグムグイ — 豚の皮で名の知れた店、豚トロと一緒に食べます
+title: 麻浦ソグムグイ — 豚の皮で名の知れた店、首肉と一緒に食べます
 cat: food
 region: seoul
 area: mapo
@@ -7,7 +7,7 @@ date: 2026-08-27
 emoji: 🐖
 thumb: assets/img/seoul-mapo-sogeumgui.jpg
 excerpt: 豚の皮（コプデギ）で知られた老舗です。1995年から続いています。この店の組み合わせは皮と豚の首肉で、その首肉がとても柔らかいです。合井駅から2分ですが、看板が目立たないので住所で行ってください。
-tags: [ソウル, 麻浦, 合井, 弘大, 豚の皮, コプデギ, 豚トロ, 塩焼き, 焼肉, 居酒屋, 老舗, 炭火]
+tags: [ソウル, 麻浦, 合井, 弘大, 豚の皮, コプデギ, 首肉, 塩焼き, 焼肉, 居酒屋, 老舗, 炭火]
 map: https://www.google.com/maps/search/?api=1&query=%EB%A7%88%ED%8F%AC%EC%86%8C%EA%B8%88%EA%B5%AC%EC%9D%B4+%ED%95%A9%EC%A0%95
 lat: 37.5491064
 lng: 126.9122242

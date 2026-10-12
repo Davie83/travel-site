@@ -13,7 +13,7 @@ info:
   - Address|48-1 Mangwon-ro, Mapo-gu, Seoul
   - Phone|02-6083-3733
   - Hours|Weekdays 4:00 PM – 2:00 AM · Weekends & holidays 1:00 PM – 1:00 AM · **open every day** (as of Sep 2026)
-  - Signature dishes|Kkeopdegi (pork skin) 10,000 KRW · Raw pork neck 17,000 KRW · Raw pork belly 17,000 KRW · King galbi 16,000 KRW (as of Sep 2026)
+  - Signature dishes|Kkeopdegi (pork skin) 10,000 KRW · Raw pork neck 17,000 KRW · Raw pork belly 17,000 KRW · Wang-galbi (jumbo ribs) 16,000 KRW (as of Sep 2026)
   - Diningcode rating|Overall 4.5 · Taste 4.9 · Value 4.1 · Service 4.3
   - Parking|Not available
   - Nearest station|Mangwon (Line 6), about a 12-minute walk

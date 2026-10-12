@@ -6,7 +6,7 @@ area: jejusi
 date: 2026-09-25
 emoji: 🍲
 thumb: assets/img/jeju-daechun-haejangguk.jpg
-excerpt: I don't eat haejangguk (hangover soup) much in Seoul, but somehow I crave it every time I'm in Jeju. I've worked through most of the famous haejangguk spots here. Today I ordered naejangtang (tripe soup) at Daechun Haejangguk, and it suited my taste better than the plain broth. Jeju-style haejangguk isn't right without a generous scoop of minced garlic stirred in.
+excerpt: I don't eat haejangguk (hangover soup) much in Seoul, but somehow I crave it every time I'm in Jeju. I've worked through most of the famous haejangguk spots here. Today I ordered naejangtang (offal soup) at Daechun Haejangguk, and it suited my taste better than the plain broth. Jeju-style haejangguk isn't right without a generous scoop of minced garlic stirred in.
 tags: [Jeju, Jeju City, haejangguk, naejangtang, hangover soup, gukbap, minced garlic, Jeju-style soup]
 info:
   - Restaurant|Daechun Haejangguk (main branch)
@@ -22,13 +22,13 @@ I don't order haejangguk much back in Seoul. But for some reason, being in Jeju 
 
 ## Naejangtang instead of the plain broth
 
-I've worked through most of the well-known haejangguk spots on the island. Each one tastes similar yet different enough to keep me coming back. Today at Daechun Haejangguk I ordered **naejangtang** — tripe soup.
+I've worked through most of the well-known haejangguk spots on the island. Each one tastes similar yet different enough to keep me coming back. Today at Daechun Haejangguk I ordered **naejangtang** — offal soup.
 
-The stone bowl arrives packed with tripe, topped with a heap of minced chili seasoning. The side dishes are simple — kimchi, cheongyang chilies, minced garlic, pickled onion, sesame oil sauce, and a small clear soup with egg.
+The stone bowl arrives packed with offal, topped with a heap of minced chili seasoning. The side dishes are simple — kimchi, cheongyang chilies, minced garlic, pickled onion, sesame oil sauce, and a small clear soup with egg.
 
 ## Between the two, I'm a naejangtang person
 
-Jeju haejangguk generally splits into two styles: a clear, light broth and a heartier one loaded with tripe. Daechun leans firmly into the second camp — the bowl is **packed with tripe**, better suited to anyone who wants substance over broth. It's the naejangtang I remember this place for.
+Jeju haejangguk generally splits into two styles: a clear, light broth and a heartier one loaded with offal. Daechun leans firmly into the second camp — the bowl is **packed with offal**, better suited to anyone who wants substance over broth. It's the naejangtang I remember this place for.
 
 ## The garlic rule of Jeju haejangguk
 
@@ -47,11 +47,11 @@ A pale, clear broth fills the black earthenware pot, with thinly sliced offal fl
 
 ## Who this is for
 
-- ✅ People who want **hearty tripe** over a light, clear broth
+- ✅ People who want **hearty offal** over a light, clear broth
 - ✅ Anyone who enjoys the Jeju habit of loading soup with minced garlic
 - ✅ Early risers wanting to settle their stomach — it opens at **6 AM**
-- ⚠️ Anyone put off by the smell or texture of tripe
-- ⚠️ First-time visitors unsure about tripe — the plain haejangguk is the safer starting point
+- ⚠️ Anyone put off by the smell or texture of offal
+- ⚠️ First-time visitors unsure about offal — the plain haejangguk is the safer starting point
 
 ## Before you go
 

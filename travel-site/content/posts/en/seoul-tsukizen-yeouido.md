@@ -55,7 +55,7 @@ It is within walking distance of Yeouido Station, so it combines easily with ano
 - ✅ Anyone in Yeouido who wants a proven tonkatsu meal
 - ✅ Anyone who also wants to try the thick-sliced roskatsu or Chateaubriand katsu
 - ⚠️ If you've already hit several Japanese-style tonkatsu spots — the food is good, but it may not feel especially memorable
-- ⚠️ If you want to avoid the weekday lunch wait — aim to arrive before 10:50 AM
+- ⚠️ If you want to avoid the weekday lunch wait — aim to arrive before 11:10 AM
 - ⚠️ If you're planning a weekend trip — the Yeouido branch is closed on weekends
 
 > This is a first-hand account, and taste is subjective. Prices and hours are **(as of Oct 2026)** — worth checking again before you go.

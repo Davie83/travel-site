@@ -35,7 +35,7 @@ Crab was also in season this visit, so a big steamed crab came out alongside it 
 
 **There's a seafood ramyeon that everyone who comes here seems to order without fail**, but I was too full to try it this time. Definitely on the list for next visit.
 
-## The whelks
+## What it looks like — the whelks
 
 A large oval plate holds boiled whelks piled in their shells on a bed of lettuce. The shells are rough and dark; some of the meat has slid out and some is still inside. On a side plate lie thick-cut carrot and onion, and the dipping sauces come in small dishes: a red chili sauce, a brown sauce, and soy sauce with a lump of wasabi.
 

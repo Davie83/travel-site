@@ -13,7 +13,7 @@ info:
   - Address|519-10 Johamhaean-ro, Jocheon-eup, Jeju-si, Jeju
   - Contact|064-728-3989
   - Access|**Open year-round, every day** (operation may differ during the official beach season) (as of Oct 2026)
-  - Facilities|Nearby public parking, restrooms, convenience store (per official tourism info)
+  - Facilities|Nearby public parking, restrooms, convenience store
   - Next door|**Seowubong** (an oreum) walk · plenty of seaside cafes and places to stay
   - Character|A beach with **emerald water** · a place where you can spot people on month-long stays
 ---

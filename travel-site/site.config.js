@@ -148,7 +148,7 @@ module.exports = {
         ko: '충청은 서울과 부산 사이, 내륙 한가운데입니다. 대전의 연한 콩국수처럼 담백한 한 끼가 있고, 청풍호반을 내려다보는 제천 청풍리조트와 그 근처 떡갈비집처럼 호수를 끼고 쉬어 가는 코스도 있습니다. 아산 삽교천 옆 한옥을 고친 인주카페처럼 잠깐 들르기 좋은 곳도 있습니다. 고속도로로 지나는 길에 한 끼, 혹은 단양·충주를 묶은 내륙 호수 여행에 넣기 좋습니다.',
         en: 'Chungcheong sits in the middle of the country, between Seoul and Busan. There is a plain, gentle meal like Daejeon’s mild kongguksu, and a lake-side stop like the Cheongpung resort overlooking the water in Jecheon with a tteok-galbi place nearby. There’s also a quick stop like Inju Cafe, a hanok bakery by Sapgyocheon stream in Asan. Good for a meal on the drive through, or as part of an inland-lake trip taking in Danyang and Chungju.',
         ja: '忠清はソウルと釜山の間、内陸のちょうど真ん中です。大田の淡いコングクスのようなあっさりした一食があり、清風湖畔を見下ろす堤川の清風リゾートとその近くのトッカルビ店のように、湖のそばで一息つくコースもあります。牙山・挿橋川そばの韓屋を改装したインジュカフェのように、ちょっと立ち寄るのにいい場所もあります。高速道路で通る道すがらの一食や、丹陽・忠州をまとめた内陸の湖の旅に入れやすいです。',
-        zh: '忠清位在首爾和釜山之間，內陸的正中央。有大田清淡的豆漿麵這種爽口的一餐，也有俯瞰清風湖的堤川清風度假村加附近年糕排骨店這種傍著湖休息的行程。牙山挿橋川旁老韓屋改的仁州咖啡，也適合順道歇個腳。適合開高速公路經過時吃一頓，或排進丹陽、忠州串起來的內陸湖泊旅行。' },
+        zh: '忠清位在首爾和釜山之間，內陸的正中央。有大田清淡的豆漿麵這種爽口的一餐，也有俯瞰清風湖的堤川清風度假村加附近떡갈비店這種傍著湖休息的行程。牙山挿橋川旁老韓屋改的仁州咖啡，也適合順道歇個腳。適合開高速公路經過時吃一頓，或排進丹陽、忠州串起來的內陸湖泊旅行。' },
       areas: [
         { slug: 'daejeon',  names: { ko: '대전', en: 'Daejeon',  ja: '大田', zh: '大田' } },
         { slug: 'chungbuk', names: { ko: '충북', en: 'Chungbuk', ja: '忠北', zh: '忠北' } },
@@ -161,7 +161,7 @@ module.exports = {
         ko: '전라는 남도 음식의 고장으로 불립니다. 부안의 피순대, 나주곰탕, 광주 떡갈비 골목처럼 지역 이름이 그대로 음식 이름이 되는 곳들이 많고, 전주 한옥마을에는 아침을 깨우는 왱이콩나물국밥과 반찬 화려한 교동석갈비가 있습니다. 전남과 광주가 행정구역상 전남광주로 통합되면서 주소 표기도 바뀌었는데, 글에는 바뀐 기준으로 적었습니다.',
         en: 'Jeolla is known as the home of Namdo cooking. Often the place name is the dish name — pi-sundae in Buan, Naju gomtang, the tteok-galbi alley in Gwangju — and in Jeonju\'s Hanok Village there\'s Waengi Kongnamul-gukbap for a wake-up bowl and Gyodong Seokgalbi for a hot-plate galbi spread with lavish side dishes. With South Jeolla and Gwangju now administratively merged as Jeonnam-Gwangju, addresses have changed too; the write-ups use the new form.',
         ja: '全羅は南道料理の本場として知られます。扶安のピスンデ、羅州コムタン、光州のトッカルビ横丁のように、地名がそのまま料理名になっている場所が多く、全州の韓屋村には目を覚ますウェンイコンナムルクッパと、おかずが華やかな校洞石カルビがあります。全羅南道と光州が行政上「全南光州」に統合され、住所表記も変わりましたが、記事では変更後の基準で書いています。',
-        zh: '全羅被稱為南道料理的發源地。很多地方，地名直接就是菜名 —— 扶安的血腸、羅州牛肉湯、光州的年糕排骨巷，全州韓屋村還有喚醒早晨的歪伊豆芽湯飯，和小菜豐盛的校洞石烤排骨。隨著全羅南道和光州在行政上合併為「全南光州」，地址寫法也變了，文章裡採用改制後的寫法。' },
+        zh: '全羅被稱為南道料理的發源地。很多地方，地名直接就是菜名 —— 扶安的血腸、羅州牛肉湯、光州的떡갈비巷，全州韓屋村還有喚醒早晨的歪伊豆芽湯飯，和小菜豐盛的校洞石烤排骨。隨著全羅南道和光州在行政上合併為「全南光州」，地址寫法也變了，文章裡採用改制後的寫法。' },
       areas: [
         { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' } },
         { slug: 'jeonnam', names: { ko: '전남광주', en: 'Jeonnam-Gwangju', ja: '全南光州', zh: '全南光州' } }
@@ -365,7 +365,7 @@ module.exports = {
     { key: '비빔밥',   names: { ko: '비빔밥',   en: 'Bibimbap',        ja: 'ビビンバ',     zh: '拌飯' } },
     { key: '족발',     names: { ko: '족발',     en: 'Jokbal',          ja: 'チョッパル',   zh: '豬腳' } },
     { key: '육회',     names: { ko: '육회',     en: 'Yukhoe',          ja: 'ユッケ',       zh: '生牛肉' } },
-    { key: '떡갈비',   names: { ko: '떡갈비',   en: 'Tteok-galbi',     ja: 'トッカルビ',   zh: '年糕排骨' } },
+    { key: '떡갈비',   names: { ko: '떡갈비',   en: 'Tteok-galbi',     ja: 'トッカルビ',   zh: '떡갈비' } },
     { key: '치킨',     names: { ko: '치킨',     en: 'Chicken',         ja: 'チキン',       zh: '雞肉' } },
     { key: '김밥',     names: { ko: '김밥',     en: 'Gimbap',          ja: 'キンパ',       zh: '海苔飯捲' } },
     { key: '분식',     names: { ko: '분식',     en: 'Bunsik',          ja: '粉食',         zh: '韓式小吃' } },

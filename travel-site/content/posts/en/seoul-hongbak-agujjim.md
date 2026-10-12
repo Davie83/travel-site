@@ -34,13 +34,13 @@ Gongdeok is served by **Lines 5 and 6, the Gyeongui-Jungang line, and the AREX a
 
 Monkfish — anglerfish — is an ugly deep-water fish with firm white flesh. Korea usually serves it as **agujjim**: braised in a thick red chilli sauce with bean sprouts.
 
-This restaurant sells that. **It also sells suyuk — the same fish simply poached, with no sauce at all.** Look at the photo: clear broth, bean sprouts, spring onion, a little green chilli, and the fish. Nothing hidden.
+This restaurant sells that. **It also sells suyuk — the same fish simply poached, with no sauce at all.** Look at the photo: clear broth, bean sprouts, spring onion, radish, and the fish. Nothing hidden.
 
-Every visit I promise myself I will order the spicy version. **Every visit I give in and order the boiled one.** The spicy one is well liked too. I still have not got round to it.
+Every visit I promise myself I will order the spicy version. **Every visit I give in and order the boiled one.** I still have not got round to the spicy one.
 
 ## What it looks like
 
-A large white plate with a wavy rim is piled with monkfish meat and bone pieces, with bean sprouts, green onion and radish mixed in between. The liquid isn't stained red with chili flakes but a pale yellow, so it looks like a clear steam. Around it sit stir-fried anchovies, kimchi, a red seasoned side, a vegetable stir-fry and a small dish of gochujang.
+A large white plate with a wavy rim is piled with monkfish meat and bone pieces, with bean sprouts, green onion and radish mixed in between. The liquid isn't stained red with chili flakes but a pale yellow, so the fish looks gently steamed. Around it sit stir-fried anchovies, kimchi, a red seasoned side, a vegetable stir-fry and a small dish of gochujang.
 
 ## Menu words
 
@@ -61,7 +61,6 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 ## Being honest about it
 
 - **This is not cheap.** The small boiled platter is 60,000 won. It feeds two, so budget around 30,000 won each
-- **Solid, not spectacular.** What it is known for is doing one thing — poaching monkfish — properly, for a long time
 - **The skin is gelatinous and slippery.** Those translucent grey pieces in the photo. If unfamiliar textures bother you, eat the white flesh and the liver
 - **It does not smell fishy.** This is the worry people have, and it is not warranted here. The broth is clean and mild
 
@@ -74,7 +73,7 @@ The side dishes are good too. Around the edge of the photo: dried anchovies, rad
 
 ## Who this restaurant is for
 
-- ✅ You like rich liver dishes — ankimo, foie gras, cod roe
+- ✅ You like rich liver dishes — monkfish liver, ankimo, foie gras
 - ✅ You want fish that tastes of fish, not of sauce
 - ✅ You are two or more and can share a platter
 - ✅ You cannot handle spicy food (order the suyuk)

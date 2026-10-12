@@ -17,7 +17,7 @@ info:
   - With it|Croissants and other pastries, seasonal ades (sometimes served with thyme)
   - Best for|Tea and a bit of bread, unhurried, after eating nearby
   - Around it|Mapo Station's food streets — plenty of places to eat
-  - Price · hours · closing day|Hours confirmed: **weekdays 08:00–22:00 · weekends/holidays 10:00–22:00** (no fixed closing day found) · prices not confirmed (check before you go)
+  - Hours|**weekdays 08:00–22:00 · weekends/holidays 10:00–22:00** (as of Sep 2026)
 ---
 
 A cafe near Mapo Station, in an old Western-style house that's been converted. Of Fritz Coffee's several branches, this is the main one on the Mapo side.
@@ -48,12 +48,12 @@ An old tile-roofed gate stands at the front, with a vine bearing orange flowers 
 
 ## This works well if
 
-- ✅ Anyone who likes the feel of a **cafe made from an old building**
-- ✅ Anyone in Mapo looking for somewhere for **dessert and tea after a meal**
-- ✅ Anyone interested in specialty **coffee beans** (you can buy and go)
-- ✅ Anyone wanting a light stop of bread and a drink
-- ⚠️ Anyone expecting a quiet, roomy seat — it's a popular branch and often full
-- ⚠️ Anyone after a real meal — this is a cafe; eat around it
+- ✅ You like the feel of a **cafe made from an old building**
+- ✅ You are in Mapo and want somewhere for **dessert and tea after a meal**
+- ✅ You are interested in specialty **coffee beans** (you can buy and go)
+- ✅ You want a light stop of bread and a drink
+- ⚠️ You expect a quiet, roomy seat — it's a popular branch and often full
+- ⚠️ You are after a real meal — this is a cafe; eat around it
 
 ## Before you go
 
@@ -61,6 +61,6 @@ An old tile-roofed gate stands at the front, with a vine bearing orange flowers 
 - **Ordering** — coffee is the headline, but bread and an ade on their own are fine. Coming for dessert, one or two pastries and a drink is enough.
 - **Seating** — a popular branch; it gets crowded on weekends and afternoons.
 - **A meal first** — if you want something substantial before dessert, [Mapo Yangji Seolleongtang](/en/posts/seoul-mapo-yangji-seolleongtang), a long-time regular spot near the station, is an easy walk too.
-- **Price · hours · closing day** — hours confirmed as weekdays 08:00–22:00, weekends/holidays 10:00–22:00. Prices and a fixed closing day weren't confirmed, so check the map or call before you go.
+- **Hours** — weekdays 08:00–22:00, weekends/holidays 10:00–22:00 (as of Sep 2026). Check the map or call before you go.
 
-> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally). Hours are confirmed as above, but I couldn't pin down prices or a fixed closing day — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally). Hours are **(as of Sep 2026)** — please check the shop's current information once more before you go.

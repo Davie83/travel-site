@@ -45,7 +45,7 @@ I don't get here as often as I used to — maybe it's age — but these days I m
 - **Seolleongtang** is a milky-white broth from long-simmered ox bones and meat, in the same family as gomtang. As the name of this place suggests, it's built around **brisket (yangji)**, and there's also **doganitang (ox-knee cartilage soup)**.
 - The broth is mild and plain by design — you season it yourself with salt or soy, plus scallion, to taste. **Not spicy.**
 - The **green onion kimchi** served as a side is this place's hidden charm. The kimchi is good enough that it's worth eating alongside the broth on purpose.
-- Add ggakdugi (radish kimchi) brine or salt to taste as you go.
+- Add kkakdugi (radish kimchi) brine or salt to taste as you go.
 - It's near Mapo and Gongdeok — close to Gongdeok Station, where subway lines 5 and 6, the airport railroad, and the Gyeongui-Jungang line all meet.
 
 ## Who it's for

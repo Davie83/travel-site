@@ -69,4 +69,4 @@ Already full, I skipped the **gyeranmari** this place is known for and ordered o
 - **Hours · closing day** — Mon–Sat 11:30–21:30 (last order 20:30), closed Sundays (as of Sep 2026). Still worth checking the map or calling before you go.
 - **Seating** — it's an old alley place, so it can get crowded in the evening.
 
-> This post is a write-up of a personal visit. Taste and preference vary by person, and I couldn't confirm the prices, hours, or closing day — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.
+> This post is a write-up of a personal visit. Taste and preference vary by person. Prices, hours and closing day are **(as of Sep 2026)** — please check the shop's current information once more before you go.

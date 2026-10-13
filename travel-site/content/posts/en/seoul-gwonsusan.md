@@ -34,7 +34,7 @@ It is **raw fish over rice**, served with shredded vegetables, flying fish roe, 
 
 ## What it looks like
 
-In a large white bowl, shredded cabbage, lettuce, orange flying fish roe, chopped yellow pickled radish, shredded seaweed and raw fish are arranged in separate sections, making it colorful. In the middle, diced raw fish, red and white-fleshed, are gathered together. The side plates hold radish kimchi, a red seasoned side, soy-braised beans, potatoes braised in spicy seasoning and kimchi, and the long plate in the center carries fish cutlet with tartar sauce and a vegetable salad. One bowl for mixing and the side dishes come together on the same table.
+In a large white bowl, shredded cabbage, lettuce, orange flying fish roe, chopped yellow pickled radish, shredded seaweed and raw fish are arranged in separate sections, making it colorful. In the middle, diced raw fish, red and white-fleshed, are gathered together. One bowl for mixing and the side dishes come together on the same table.
 
 ## Menu words
 

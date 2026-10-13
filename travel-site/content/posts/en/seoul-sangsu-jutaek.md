@@ -38,7 +38,7 @@ The anju menu is wide, so there's fun in picking a few different things. I order
 
 ## What it looks like on the table
 
-The octopus bossam comes on one plate with thin-sliced octopus and boiled pork, alongside perilla leaves, ssamjang, salted shrimp and a red sauce. You lay the pork and octopus on a perilla leaf, add ssamjang or salted shrimp, and wrap it. The seafood minari pancake fills a large black plate, piled high with minari and a dressed vegetable topping under a sweet-and-spicy sauce. A small dish of soy-based dipping sauce sits beside it.
+The octopus bossam comes on one plate with thin-sliced octopus and boiled pork, alongside perilla leaves, ssamjang, salted shrimp and a red sauce. The seafood minari pancake fills a large black plate, piled high with minari and a dressed vegetable topping under a sweet-and-spicy sauce. A small dish of soy-based dipping sauce sits beside it.
 
 ## Solidly good, not spectacular
 

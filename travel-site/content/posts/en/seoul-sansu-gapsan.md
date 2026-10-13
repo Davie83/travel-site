@@ -26,10 +26,6 @@ Being honest: open the door and **a deep pork smell hangs in the room**. It's a 
 
 To me, that smell is — with only slight exaggeration — fragrant. It's the same thing as the flavour of the broth and the offal here. If you're sensitive to smells, a cleaner, franchise-style sundae-guk place with a plain broth might suit you better.
 
-## What it looks like
-
-A large white plate holds offal arranged in a ring. On the right, round slices of sundae with a dark filling sit in a row, and at the top are thin-sliced pressed pork and skin pieces layered together. At the lower left are internal organ cuts gathered, and in the middle a grey piece that looks like liver. Beside the plate are dishes of radish kimchi, kimchi and salted shrimp-like seasoning, and part of the broth in an earthenware pot is visible at the upper left.
-
 ## Menu words
 
 - **Sundae** is a Korean sausage in which pig intestine is stuffed with blood and grain and steamed

@@ -50,7 +50,7 @@ The lettuce was genuinely fresh, and that combination is what I remember about t
 
 ## What it looks like
 
-In a large grey bowl, finely shredded carrot, lettuce, cucumber, seaweed flakes and translucent squid sashimi are arranged in separate color sections, with sesame seeds scattered over the center. In a black bowl alongside is an orange-colored broth with cucumber and shredded radish. The side dishes come in small plates: kimchi, a seaweed salad, braised black beans, stir-fried anchovies, pickled garlic and a red seasoning, with a basket of lettuce for wrapping. Garlic and green chili are served too.
+In a large grey bowl, finely shredded carrot, lettuce, cucumber, seaweed flakes and translucent squid sashimi are arranged in separate color sections, with sesame seeds scattered over the center. In a black bowl alongside is an orange-colored broth with cucumber and shredded radish.
 
 ## Menu words
 

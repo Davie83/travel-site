@@ -28,7 +28,7 @@ It feels like a slightly upgraded version of the Jeju pork houses that became fa
 
 ## Belly or neck, white pork or black pork
 
-The meat is ogyeopsal or moksal. The price depends on whether you choose Jeju white pork or black pork, and black pork seemed to cost about 5,000 won more. Per 260 g it is 29,000 won for white pork and 34,000 won for black pork (as of Oct 2026). The board that day held both ogyeopsal and moksal.
+The meat is ogyeopsal or moksal. The price depends on whether you choose Jeju white pork or black pork, and black pork seemed to cost about 5,000 won more. Per 260 g it is 29,000 won for white pork and 34,000 won for black pork (as of Oct 2026).
 
 ## What it looks like — the meat on the wooden board
 
@@ -40,7 +40,7 @@ You can dip the meat in meoljeot, a gochujang-style sauce, salt and more. Someth
 
 ![The table at Keundonga Seojjok Daepyo Main Branch — a round grill plate with sauce cups on both sides, small bowls of garlic and salt and a clay pot above, and the board of meat below](/assets/img/jeju-keundonga-seojjok-table.jpg)
 
-From above, the table looks like this. On the round stainless-steel grill plate in the middle sits one block of white fat, with red embers showing below the slits. A cup-shaped stainless sauce dish stands on each side of the plate, a dark reddish sauce on the left and a brown one on the right. Along the top is a row of small stainless bowls — garlic, a bowl of fine grains, a bowl of a purplish liquid and dark leafy greens that look pickled — and in the middle a black clay pot of milky-white broth. The board of meat and spring onion is at the bottom.
+From above, the table looks like this. A cup-shaped stainless sauce dish stands on each side of the grill plate in the middle, a dark reddish sauce on the left and a brown one on the right. Along the top is a row of small stainless bowls — garlic, a bowl of fine grains, a bowl of a purplish liquid and dark leafy greens that look pickled — and in the middle a black clay pot of milky-white broth.
 
 ## The staff grill the meat for you
 
@@ -48,7 +48,7 @@ The staff trim the meat neatly with scissors, as if separating regular cuts from
 
 ## The location looks awkward, but it is full at dinner
 
-The location really does look awkward, yet the place is full of customers at dinner time. Last order at dinner is 21:10 (as of Oct 2026).
+The location really does look awkward, yet the place is full of customers at dinner time.
 
 ## Menu words
 
@@ -60,17 +60,13 @@ The location really does look awkward, yet the place is full of customers at din
 
 ## For foreign visitors
 
-- This is not a grill-it-yourself place. **Staff trim and grill the meat**, so you do not need to know the order or the doneness
 - There are several sauces. **Meoljeot is a salty fermented sauce** and the gochujang-style sauce can be spicy, so if heat is a worry, dip the meat in salt. The pork itself is not spicy
-- You can choose black or white pork, and the price differs, so say which one when you order
-- Last order is 14:10 at lunch and 21:10 at dinner, and the break runs 15:00–17:00 (as of Oct 2026)
 
 ## Who it suits
 
 - ✅ You want Jeju black or white pork grilled for you by the staff
 - ✅ You like alternating meoljeot, gochujang sauce and salt
 - ✅ You need a lunch or dinner stop between Moseulpo, Songaksan and Sanbangsan
-- ⚠️ You are going between 3 and 5 PM — that is the break
 - ⚠️ I have not found the regular closing day, so a phone call before you go is the safe move
 
 ## Before you go

@@ -46,10 +46,6 @@ You tip the vegetables into the rice and mix with gochujang. **Go easy on the go
 
 The paper placemat carries a Joseon-era poem called Namsan Palyeong. Mokmyeok is the old name for Namsan.
 
-## What it looks like
-
-A bowl of rice in brassware sits on a black tray, and along the right side a row of namul — bracken, bean sprouts, red-seasoned radish, lettuce, long-cut white shoots, mushrooms and green leaves — lines up. A small brass bowl at the left holds sesame-sprinkled red yukhoe, and a black dish in the middle holds pickled greens. There is another brass bowl of bean sprouts below, and the paper mat is printed in Chinese characters and Hangul.
-
 ## Menu words
 
 - **Bibimbap** is rice topped with namul, meat and sauce, mixed together

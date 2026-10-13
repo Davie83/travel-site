@@ -29,10 +29,6 @@ Flounder sashimi, spicy seasoned squid, a braised fish dish, and a spicy fish st
 
 If you're in the mood for a light, casual plate of sashimi, this place will more than satisfy.
 
-## What it looks like
-
-On an oval plate, white-fleshed and red-fleshed raw fish lie side by side on shredded radish, with a spicy stir-fried squid dish on one side. To the right, a braise of radish and mackerel, braised potatoes, and a red spicy fish soup with bones showing each come in stainless-steel bowls. The wrapping greens are red-leaf lettuce in a basket, and small dishes of chili-vinegar sauce, soy sauce, seasoned ssamjang, cucumber, chili and garlic stand on the table. The set puts raw fish and cooked side dishes on the same table.
-
 ## Menu words
 
 - **Hoe-jeongsik** is a set meal that comes with raw fish, spicy fish soup, rice and side dishes

@@ -66,6 +66,6 @@ It isn't a big place. It used to be easy to walk into; now there's a wait most t
 - **Seasoning** — saeujeot, a little at a time. The chilli paste only if you want it hot.
 - **Wait** — a queue at meal times. It's often a write-your-name-and-wait system.
 - **A second stop** — after suyuk and a drink here, walking over to [Sigoljip](/en/posts/seoul-sigoljip) in the Euljiro rib alley for LA galbi makes a good second round.
-- **Price · hours · closing day** — Sundae-guk from ₩10,000; weekdays 11:00–21:30, Saturday until around 21:00 (break 15:00–17:00), closed Sundays (as of Sep 2026). Still worth checking the map or calling before you go.
+- **Price · hours · closing day** — Sundae-guk from ₩10,000; weekdays 11:00–21:30, Saturday until around 21:00 (break 15:00–17:00), closed Sundays (as of Sep 2026).
 
 > This post is a write-up of a personal visit. Taste and preference vary by person (the smell especially). Prices, hours and closing day are **(as of Sep 2026)** — please check the shop's current information once more before you go.

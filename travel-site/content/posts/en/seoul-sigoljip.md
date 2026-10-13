@@ -66,7 +66,7 @@ Already full, I skipped the **gyeranmari** this place is known for and ordered o
 
 - **Ordering** — galbi is usually from two portions. On a first visit, adding a gyeranmari rounds out the table.
 - **Price** — LA galbi runs from ₩18,000 (as of Sep 2026). Just know that coming in for "a quick drink" and then ordering around can run up a fair bill.
-- **Hours · closing day** — Mon–Sat 11:30–21:30 (last order 20:30), closed Sundays (as of Sep 2026). Still worth checking the map or calling before you go.
+- **Hours · closing day** — Mon–Sat 11:30–21:30 (last order 20:30), closed Sundays (as of Sep 2026).
 - **Seating** — it's an old alley place, so it can get crowded in the evening.
 
 > This post is a write-up of a personal visit. Taste and preference vary by person. Prices, hours and closing day are **(as of Sep 2026)** — please check the shop's current information once more before you go.

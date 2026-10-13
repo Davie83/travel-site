@@ -25,10 +25,6 @@ Two things share one bowl. A **hot, bracing jjamppong broth** with squid and mus
 
 The appeal is getting the spicy, clear broth and the mild tofu in the same spoonful. If you like sundubu, one taste and you understand why this combination got famous.
 
-## What it looks like
-
-The bowl is filled with a red, thick-looking broth, topped with long-cut chives, sesame and a dark powder like pepper. Squid legs, mushrooms and sliced vegetables show in the broth, with the soft tofu submerged beneath. Side dishes stand in the background.
-
 ## How it became the village's name to know
 
 Chodang-dong in Gangneung has a village where the tofu restaurants cluster together. Chodang sundubu — soft tofu set with seawater, clean and lightly seasoned — is what the neighbourhood is known for. Donghwa Garden is the place inside that village that made its name with **jjamppong sundubu**.
@@ -49,7 +45,7 @@ As famous as it is, it's busy. Go on a weekend or at mealtime and expect to queu
 
 - **Getting there** — Chodang-dong, Gangneung, Gangwon, inside the Chodang tofu village. Check the name on the map before you go.
 - **Ordering** — jjamppong sundubu is the signature. If someone in your group can't eat spicy, order a plain sundubu alongside it.
-- **Hours · prices · closing day** — 7:00 AM–7:30 PM (break 4–5 PM), jjamppong sundubu ₩10,000, closed every Wednesday, as of Sep 2026. It's a famous spot so there can be a wait — confirm on the map or by phone before you go.
+- **Hours · prices · closing day** — 7:00 AM–7:30 PM (break 4–5 PM), jjamppong sundubu ₩10,000, closed every Wednesday, as of Sep 2026. It's a famous spot, so there can be a wait.
 - **Next meal** — if the spicy jjamppong sundubu leaves you wanting something different, [Little Diner](/en/posts/gangneung-little-diner) isn't far, with its pancake-bun burger.
 
 > Based on a personal visit. The taste and the spice level are personal, and hours, prices and the closing day are as I found them and can change often — check the venue's details once more before you go. Prices and hours are **(as of Sep 2026)**.

@@ -80,7 +80,6 @@ Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 - **The smallest size serves two.** Too much for one person
 - **You can ask for more broth** if it reduces too far
 - **Finishing with fried rice or extra noodles** is the Korean way. Check the menu
-- **Mind the Sunday closure and the 2–4 PM weekday break**
 
 ## Good fit, or not
 
@@ -91,8 +90,6 @@ Saturdays open at 4:00 PM. **Last order is 8:30 PM.**
 - ✅ You have a Mangwon or Hapjeong plan
 - ✅ You'd like to walk off the hot pot with a coffee after — [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) is within walking distance
 - ⚠️ **Offal may be unfamiliar if it is your first time**
-- ⚠️ **Closed Sundays · weekday break 2–4 PM**
-- ⚠️ Too spicy if you cannot take chili at all
 - ⚠️ The smallest size is **for two**
 
 > Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(as of Aug 2026)**.

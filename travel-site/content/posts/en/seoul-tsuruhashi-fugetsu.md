@@ -91,7 +91,7 @@ If the wait looks too long, walking on toward Namdaemun Market gets you to [Makn
 - ✅ You want **a beer in the daytime** and something easy to go with it
 - ✅ You need **a straightforward meal** during a Myeongdong day
 - ✅ You are curious how it compares to the Osaka original
-- ✅ **You cannot eat spicy food** — this place is safe
+- ✅ **You want to avoid spicy food** — the menu is not spicy, so no worries
 - ⚠️ **Break 2:30 to 5:00 PM** — a late lunch will not work
 - ⚠️ The wait is long. Book ahead
 - ⚠️ It is **not exactly the same** as the Osaka original

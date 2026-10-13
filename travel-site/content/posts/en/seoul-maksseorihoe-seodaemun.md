@@ -39,7 +39,6 @@ About six kinds of aged raw fish lie side by side on a bamboo mat. White-fleshed
 ## Menu words
 
 - **Sukseong-hoe** is raw fish rested for a period after catching to deepen its flavor and texture
-- **Jeongsik** is a set meal where a main dish comes with several side dishes and soup
 - **Chogochujang** is a tangy, spicy sauce of gochujang mixed with vinegar, used for dipping raw fish
 
 ## The sides are ordinary, but the main dish is the star

@@ -56,7 +56,7 @@ The restaurant is on the **2nd floor of Namdaemun Market**, about a 3-minute wal
 
 ## Worth knowing
 
-- On the **2nd floor of Namdaemun Market**, the core draw here is the **sashimi set** (₩14,000/person), served only at weekday lunch.
+- On the **2nd floor of Namdaemun Market**, the core draw here is the **sashimi set**, served only at weekday lunch.
 - The set requires a **minimum of 2 people**, and stops selling after 2:00 PM. It's not offered at all on weekends.
 - With sashimi, braised fish, and a stew all in one meal, it's an easy, approachable way to try raw fish even if it's your first time.
 - **Location** — 2 Namdaemunsijang 2-ga-gil, Jung-gu, Seoul, 2F, about a 3-minute walk from Hoehyeon Station (Line 4) — easy to combine with a stroll through Namdaemun Market.

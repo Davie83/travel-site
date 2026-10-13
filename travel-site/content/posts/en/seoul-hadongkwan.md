@@ -67,7 +67,7 @@ Hadongkwan names its tiers **by price**: "25" means the ₩25,000 version. Ask i
 
 This is where opinions split. **Some people find it delicious but small for the price**, and that, more than the flavor, is why ratings differ.
 
-So here is how I would sum it up:
+In the end, the test is this:
 
 - **If you want an old-established place that does hanwoo (Korean beef) gomtang properly** — worth paying for
 - **If you want a bargain gukbap** — this is not the place

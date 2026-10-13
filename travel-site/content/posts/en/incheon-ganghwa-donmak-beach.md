@@ -55,7 +55,6 @@ So it works either as a quick day drive or as a spot to camp overnight if you br
 ## Before you go
 
 - **Location** — 1481 Haeannam-ro, Hwado-myeon, Ganghwa-gun, Incheon. On the south side of the island; a car makes this much easier.
-- **Parking / fees** — Parking is 2,000 won. Camping runs roughly 25,000 won/night for a deck site, 20,000 for ground (hourly rates also available).
 - **Season** — Swimming runs July 3 – October 31, 2026. Outside that window, only the beach and walking paths are open.
 - **Pairing it up** — If you need food near the island's entrance, [Ganghwa-do Matjip Charcoal Grilled Fish](/en/posts/incheon-ganghwa-saengseongui) is also on Ganghwa Island — though it's a bit of a drive from Hwado-myeon, so check the route before pairing them in one trip.
 

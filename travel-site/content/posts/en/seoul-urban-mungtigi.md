@@ -58,7 +58,6 @@ Deep red mungtigi lies overlapped in a ring on a black plate. Each piece is larg
 ## Before you go
 
 - **Reservations** — the place is small, so booking is the safe move.
-- **Ageing method** — I didn't confirm whether it's same-day or aged 1–2 days. Ask when you visit if you're curious.
 - **Hours · prices · closing day** — weekdays 11:00–23:00 (break 14:00–17:00), Saturday 17:00–23:00, closed Sundays; Mungtigi starts at 49,000 KRW (as of Aug 2026). Worth a quick check before you go.
 - **Nearby** — for a coffee to cut through the meat afterward, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) is walkable, in the same Dohwa-dong neighborhood.
 

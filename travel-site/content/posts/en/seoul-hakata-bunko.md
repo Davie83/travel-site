@@ -63,7 +63,7 @@ There are reasons. It can taste salty, and the line used to be long, but there a
 
 Still, **it does the basics properly**, and in that sense it is something like the standard for Japanese-style ramen.
 
-This shop has **held the same spot for over 20 years**. So the fair way to put it is this:
+This shop has **held the same spot for over 20 years**. It comes down to what you want:
 
 - **Looking for the best bowl of ramen in the area?** Hongdae has higher-rated options
 - **Looking for benchmark Hakata ramen, and a place that is actually open at 2 AM?** This is it

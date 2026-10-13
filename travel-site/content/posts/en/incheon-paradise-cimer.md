@@ -43,7 +43,6 @@ The ticket comes with a time limit. **Sauna only is four hours; add the spa (poo
 
 - **Paradise City** is an integrated resort on Yeongjong Island next to Incheon Airport (T1) — 10 minutes by car, and reachable by the **maglev train or a free shuttle**. Handy for a long layover.
 - Cimer splits into a **swimwear zone (spa and pools)** and a **nude sauna zone**. The sauna (jjimjilbang) is Korean bathing culture and can feel unfamiliar the first time — no swimwear, and you must shower before entering.
-- The ticket has a **time limit** (4 hours sauna / 6 hours with spa), so note your entry time.
 - It's busy on weekends and school holidays. Think **seeing the place plus a swim** rather than a quiet spa.
 - Being inside a resort, signage and staff tend to handle English.
 

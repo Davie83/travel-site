@@ -66,7 +66,7 @@ Nothing about it jumps out. It's **faithful to the tteok-galbi flavour you alrea
 ## Before you go
 
 - **Getting there** — Cheongpung-myeon, Jecheon, North Chungcheong. Close to Cheongpung Lake and the Cultural Heritage Complex.
-- **Hours · closing day** — roughly 9:00 AM–8:30/9:00 PM (varies a bit by day), no regular closing day, as of Aug 2026. I didn't check the price — check the map or call before you go.
+- **Hours · closing day** — roughly 9:00 AM–8:30/9:00 PM (varies a bit by day), no regular closing day, as of Aug 2026. I didn't check the price.
 - **Bundling** — it slots in well as lunch on a Cheongpung Cultural Heritage Complex → Cheongpung Lake cable car itinerary.
 - **Staying over?** — [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), just up the road with the lake view, pairs naturally with a night here.
 

@@ -57,8 +57,7 @@ The broth is built on simmered vegetables, with minced Korean beef and a generou
 
 - **Budae-jjigae** means "army-base stew." It is generally traced to the years after the Korean War, when sausage, ham and other processed meats from US military bases were simmered together with Korean flavors
 - **Minari** is a fragrant leafy green (water dropwort), and this shop uses plenty of it
-- Prices are quoted **per person** (₩16,000 regular, ₩25,000 sirloin), so ordering by head count keeps the math simple. Ramyeon noodles can be added for ₩1,500
-- The shop is **closed on Saturdays**. If your trip falls on a weekend, go on Sunday (11:30 AM–9 PM)
+- Prices are quoted **per person**, so ordering by head count keeps the math simple
 
 ## Who it suits
 

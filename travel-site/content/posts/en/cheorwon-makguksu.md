@@ -48,7 +48,7 @@ A red chili sauce sits in the middle of a stainless-steel bowl, with red-seasone
 
 ## How to eat it, and the menu words
 
-- **Makguksu** is a Gangwon-province noodle made from buckwheat. **Bibim** means mixed with a spicy sauce, and **mul** means served in cold broth
+- **Bibim** means mixed with a spicy sauce, and **mul** means served in cold broth
 - **Nokdu-jeon** is a pancake made from ground mung beans, a common side at makguksu restaurants
 - Turn the bibim over **all the way to the bottom of the bowl** and mix it evenly before eating. Buckwheat noodles break and turn soft more easily than wheat noodles, so it is better to eat them right when they arrive
 - To order, say "Bibim-makguksu juseyo" (비빔막국수 주세요)

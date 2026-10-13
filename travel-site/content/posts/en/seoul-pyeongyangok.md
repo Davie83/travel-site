@@ -38,7 +38,6 @@ The black earthenware pot is filled with a pale brown clear broth, with foam on 
 
 ## Menu words
 
-- **Dak-gomtang** is a clear soup of chicken in a broth simmered for a long time
 - **Neungi** is a strongly aromatic mountain mushroom that adds depth of aroma to the broth
 - **Gamja-chae-jeon** is a pancake of finely shredded potato fried together
 
@@ -66,6 +65,6 @@ The black earthenware pot is filled with a pale brown clear broth, with foam on 
 - **Ordering** — the dak-gomtang first. Add the gamja-jeon only if you genuinely love potato pancake.
 - **Seasoning** — the broth comes plain; adjust with salt and pepper. Rice can go in the soup or be eaten separately.
 - **Another option** — if seafood sounds better in the same Gwanghwamun area, [Seochon Gyedanjip](/en/posts/seoul-seochon-gyedanjip), a seasonal-seafood spot in a Seochon alley, is also nearby.
-- **Hours · prices · closing day** — Dak-gomtang from ₩9,000; open 11:00–22:00 (break 14:30–16:30), closed Sundays (as of Sep 2026). Still worth checking the map or calling before you go.
+- **Hours · prices · closing day** — Dak-gomtang from ₩9,000; open 11:00–22:00 (break 14:30–16:30), closed Sundays (as of Sep 2026).
 
 > This post is a write-up of a personal visit. Taste and preference vary by person. Prices, hours and closing day are **(as of Sep 2026)** — please check the shop's current information once more before you go.

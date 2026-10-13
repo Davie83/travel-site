@@ -70,7 +70,7 @@ For a Korean restaurant, this is a **hanjeongsik**-style spread: many small dish
 
 But **the amount of crab meat is smaller than at the better-known houses nearby.** Mapo and Ahyeon have a cluster of famous gejang restaurants, and on crab meat alone this one doesn't lead.
 
-So, plainly:
+It depends on what you expect:
 
 - **Coming for crab meat above all** — you may leave a little disappointed
 - **Coming for a Korean set meal where crab is the centrepiece** — you'll be happy

@@ -62,7 +62,7 @@ The side dishes aren't laid out lavishly. But each one was decent. If you like g
 
 - **Getting there** — Ganghwa-gun, Incheon, right at the island entrance. It's the stretch just over the bridge, so check the name on the map before you go.
 - **Ordering** — the grilled-fish set is the basic. Order per person and several fish come on one table.
-- **Hours · prices · closing day** — Daily 09:00–21:00, grilled-fish set (per person) from ₩18,000, and no regular closing day (as of Sep 2026). Still worth confirming on the map or by phone before you go.
+- **Hours · prices · closing day** — Daily 09:00–21:00, grilled-fish set (per person) from ₩18,000, and no regular closing day (as of Sep 2026).
 - **Elsewhere in Incheon** — [Paradise City Cimer](/en/posts/incheon-paradise-cimer) out on Yeongjong Island is technically the same city, but far enough from Ganghwa that it's a separate trip.
 - **Pairing it up on Ganghwa** — [Donmak Beach](/en/posts/incheon-ganghwa-donmak-beach) over in Hwado-myeon is also on Ganghwa Island — worth combining into one day if the weather's good.
 

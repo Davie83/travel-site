@@ -31,7 +31,6 @@ On a white plate sit two thick pieces of rolled omelet, with a heap of sausages 
 
 ## Menu words
 
-- **Jeyuk-bokkeum** is pork stir-fried in a spicy gochujang seasoning
 - **Gyeran-mari** is a rolled omelet made by folding beaten egg into thin layers
 - **Baekban** is a Korean home-style set meal of rice with soup and several side dishes
 

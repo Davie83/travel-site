@@ -80,7 +80,6 @@ So I would put it this way. **If you are willing to give up a little,** you now 
 - ✅ You cannot handle spicy food
 - ✅ You want to eat one proper Korean summer dish
 - ✅ You enjoy seasoning a dish to your own taste at the table
-- ⚠️ 15,000 won a bowl — expensive for noodles
 - ⚠️ The broth is unseasoned. Eaten plain it tastes of very little
 - ⚠️ Closed Sundays · Saturday ends at 7 PM · expect a queue
 

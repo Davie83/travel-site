@@ -95,7 +95,6 @@ The main branch draws far bigger crowds. **Check which one you are navigating to
 - ✅ If the queue gets too long, [God Eat Mullae](/en/posts/seoul-godeat-mullae) is a fallback in the same Yeongdeungpo area
 - ⚠️ **Move quickly in the evening.** Booking is advised
 - ⚠️ **Opens at 5:00 PM** — no lunch
-- ⚠️ **Not a cheap restaurant** (smallest platter 39,000 KRW)
 - ⚠️ **Closed every Sunday**
 - ⚠️ **Different from the main branch.** Check the address
 

@@ -38,7 +38,7 @@ Two black earthenware pots sit on a granite-patterned table, and the one in fron
 ## Menu words
 
 - **Dwaeji-gukbap** is Busan's signature pork soup with rice, made with meat in a broth simmered from pork bones
-- **Suyuk** is boiled pork sliced thin and served on a plate
+- **Suyuk** is boiled pork, sliced and served as a separate plate
 - **Saeu-jeot** is salted small shrimp, used to adjust the seasoning of the soup
 
 ## Decide one thing when you order

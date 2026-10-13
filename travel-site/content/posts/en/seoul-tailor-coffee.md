@@ -34,14 +34,9 @@ When I think of this place, **the space comes to mind before the coffee does.**
 
 The photo is that impression. Cups lined up on dark wood shelving, and along the bar a grinder, drippers, and glass jars of beans in a row. You can see at a glance that someone has fussed over this room.
 
-## What it looks like — the drip bar
-
-Against dark brown wood shelving and lit display cabinets, coffee tools line up on a black granite counter. A yellow grinder, white ceramic and glass drippers, bean canisters with handles and a black pour-over kettle are visible, with grey bean bags printed "TAILOR COFFEE" standing in a row. Small glass jars with cork stoppers hold ground coffee, with description cards in front. Cups are stacked on the wall shelves.
-
 ## Menu words
 
 - **Drip coffee** is made by slowly pouring hot water over grounds in a filter
-- **Americano** is espresso with added water
 
 ## One americano, and a confession of taste
 

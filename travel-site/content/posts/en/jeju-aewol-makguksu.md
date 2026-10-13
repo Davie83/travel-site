@@ -89,7 +89,7 @@ It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which
 - ✅ You like perilla oil noodles, or want to try them once
 - ✅ You have an **Aewol coastal road** day planned
 - ✅ You like cold, clean-tasting noodles
-- ✅ **You cannot eat spicy food** — this place is safe
+- ✅ **Anyone wary of spicy food** — heat is not something to worry about here
 - ⚠️ **The closing day could not be confirmed.** Check ahead if you are travelling far for it
 - ⚠️ If perilla oil is unfamiliar to you, the cold-broth bowl is the gentler start
 

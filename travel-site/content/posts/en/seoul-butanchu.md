@@ -49,7 +49,6 @@ A black bowl is filled with a milky broth, with sliced green onion heaped on top
 
 ## Menu words
 
-- **Tonkotsu ramen** is Japanese-style ramen in a milky broth made by simmering pork bones for a long time
 - **Chashu** is pork braised in a soy-based seasoning and sliced
 - **Hanjuk-gyeran** is a boiled egg with a slightly underset yolk
 
@@ -92,7 +91,7 @@ Set your expectation to **"a bowl of tonkotsu you get to configure"** rather tha
 - ✅ You want to **choose your noodles and broth strength**
 - ✅ You like heavy tonkotsu
 - ✅ You want **a filling meal** during a Hongdae day
-- ✅ **You cannot eat spicy food** — this place is safe
+- ✅ **People who struggle with heat** — it is not spicy, so you can eat without worry
 - ⚠️ **If you arrive expecting something spectacular, you may be let down**
 - ⚠️ **It is a pork-bone broth.** No good if you avoid pork
 - ⚠️ **No fixed weekly closing day.** Ring ahead over public holidays

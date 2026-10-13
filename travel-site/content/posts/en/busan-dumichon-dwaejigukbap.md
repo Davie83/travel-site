@@ -62,7 +62,7 @@ The flip side: **lunchtime often fills up completely.** Avoid the rush if you ca
 
 Looked at coolly, it comes out like this: **the taste is fine, but for the price the portion doesn't feel generous, and there's no parking. At this level there are plenty of alternatives.**
 
-That is worth admitting. So, plainly:
+That is worth admitting. Still, the answer splits in two:
 
 - **Worth crossing the city for?** No
 - **Worth going into if you're nearby or out late?** Yes

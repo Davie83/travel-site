@@ -98,7 +98,6 @@ If you want something sweet afterward, [Fritz Coffee Dohwa](/en/posts/seoul-frit
 - ✅ You have plans around **Hongdae or Hapjeong**
 - ✅ Grilling your own meat feels daunting — **it comes part-cooked**
 - ✅ You want the atmosphere of **an old neighbourhood grill house**
-- ⚠️ **Opens 4:30 PM.** No lunch
 - ⚠️ **Closed Sundays**, and the sign is easy to miss — go by address
 - ⚠️ Pork skin is **fatty.** Not for you if you want something light
 - ⚠️ It is not a quiet room

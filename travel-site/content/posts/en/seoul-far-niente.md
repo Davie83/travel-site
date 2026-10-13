@@ -46,7 +46,6 @@ Order above a set amount and you can eat in a private room. It's good for when y
 - This is not a Korean restaurant — it's a **Western (Italian-leaning) one**. Gnocchi gratin, pasta and dessert are the core, so it works on a day when Korean food feels like too much.
 - **Nothing on the menu is spicy.**
 - It's in **Sinsa-dong (near Garosu-gil and Apgujeong)**, so it slots into a shopping-and-cafe day.
-- Booking is the safer bet in the evening. The **private room** has a minimum-spend condition, so ask when you reserve.
 - I didn't check whether the menu has English. The dish names (gnocchi, tiramisu) generally get through.
 
 ## The right occasion for this
@@ -60,7 +59,7 @@ Order above a set amount and you can eat in a private room. It's good for when y
 ## Before you go
 
 - **Getting there** — Sinsa-dong, Gangnam-gu, Seoul. Check the branch and the sign on the map before you go.
-- **Booking** — recommended for evenings and weekends. The private room has a minimum-spend condition, so ask ahead.
+- **Booking** — recommended for evenings and weekends.
 - **Hours · prices · closing day** — weekdays noon-1am, Friday to 2am, Saturday 11:30am-2am, no regular closing day. Cream gnocchi gratin runs around 25,000 KRW (as of Aug 2026).
 - **If Korean food sounds better instead** — [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) is another option in the same Gangnam area.
 

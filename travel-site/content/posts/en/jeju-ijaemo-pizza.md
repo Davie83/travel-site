@@ -39,15 +39,13 @@ On the black pan, the pizza is topped with pepperoni, ham, green pepper and mush
 
 ## Before you go
 
-- The default menu item is the **cheese crust pizza**
 - I've heard the kimchi fried rice is good too, but I can't even finish the pizza, so I haven't tried it yet
 - It opens at 10 AM and last order is 8:30 PM (as of Oct 2026). A notice says it's closed on Sundays, so check once more before you go
 - Parking is available
 
 ## A note for international visitors
 
-- **Lee Jaemo Pizza** is a pizza shop famous in Busan, and this Jeju branch's sign reads SINCE 1992
-- **Cheese crust** means a thick pizza with cheese in the edge dough. It's this shop's default menu item
+- **Cheese crust** means a thick pizza with cheese in the edge dough.
 - There are two sizes, **small (S) and large (L)**, with little price difference, so if you're a group the large is the better choice
 - The flavor is classic and back-to-basics, so it may feel ordinary if you're expecting flashy toppings or something new
 

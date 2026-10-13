@@ -52,7 +52,6 @@ A stainless-steel bowl is filled with a dark broth, scattered with shredded seaw
 
 - **Makguksu is cold buckwheat noodles.** Bibim-makguksu is mixed with a sweet-spicy sauce; mul-makguksu comes in a cold broth
 - This shop's spice level **isn't particularly strong**, so it's worth trying even if you're not used to spicy food
-- **Suyuk is boiled pork.** Pairing it with the noodles makes for a heartier meal
 
 ## Who this is for
 

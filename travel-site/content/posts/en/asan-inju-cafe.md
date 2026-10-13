@@ -58,7 +58,7 @@ Approach it as a restaurant and it disappoints; approach it as a **hanok cafe** 
 
 - **Getting there** — near the Sapgyocheon sea wall, Inju-myeon, Asan, Chungnam. Check the name on the map before you set off.
 - **Transport** — a rental car is assumed. There's a large car park in front.
-- **Ordering** — pick bread at the display and pay, coffee separately at the counter. Buying a few to eat on the road works fine.
+- **Takeaway** — buying a few to eat on the road works fine.
 - **Hours · prices · closing day** — daily 10:00–22:00 (last order 21:00), Americano around ₩6,500, no fixed closing day. This can still change, so check the map or call before you go.
 - **Elsewhere in Chungcheong** — up in Jecheon, Chungbuk, I also stopped by [Cheongpung Resort](/en/posts/jecheon-cheongpung-resort), which looks out over Cheongpung Lake.
 

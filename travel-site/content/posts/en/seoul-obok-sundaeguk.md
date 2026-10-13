@@ -45,7 +45,7 @@ On the left, the stone pot holds a clear, milky broth scattered thick with green
 ## Menu words
 
 - **Sundae-guk** is a soup of sundae and meat in a broth simmered from pork bones
-- **Suyuk** is boiled pork sliced thin and served on a plate
+- **Suyuk** is boiled pork, cut into slices
 - **Jeongsik** means a set where soup and suyuk and more come together on one table
 
 ## What is actually on the plate

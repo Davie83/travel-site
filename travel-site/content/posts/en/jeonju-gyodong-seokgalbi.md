@@ -27,7 +27,7 @@ I ordered seokgalbi, and even though it's a single hot-plate dish, the table fil
 
 ## The seokgalbi on its stone plate
 
-On a black stone plate sits a heap of bite-sized marinated galbi, scattered with sliced green onion and sesame. Enoki mushrooms and onion lie beneath the meat. The plate comes on a wooden stand, ringed with japchae, stuffed cucumber kimchi, kimchi and garlic, while rice and soup arrive in separate stainless bowls.
+On a black stone plate sits a heap of bite-sized marinated galbi, scattered with sliced green onion and sesame. Enoki mushrooms and onion lie beneath the meat. The plate comes on a wooden stand, while rice and soup arrive in separate stainless bowls.
 
 ## The taste? It was... fine
 

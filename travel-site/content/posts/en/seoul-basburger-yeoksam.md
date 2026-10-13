@@ -43,14 +43,13 @@ The signature **Bas Burger** comes as single ₩8,200, double ₩11,900 or tripl
 
 ## Down to the basement
 
-From Exit 3 of Yeoksam Station, turn into Teheran-ro 26-gil and you'll find it on the **first basement floor of the Seongbo Building**. It has a half-basement feel, so put the address (10 Teheran-ro 26-gil) into your map app and you won't get turned around. Last order is early — 8:30 PM on weekdays, 8:00 PM on weekends — so avoid coming late in the evening. It pairs well with [L'OISEAU Yeoksam](/en/posts/seoul-loiseau-yeoksam) or [Terarosa Yeoksam Station](/en/posts/seoul-terarosa-yeoksam) for a daytime route in the same neighborhood.
+From Exit 3 of Yeoksam Station, turn into Teheran-ro 26-gil and you'll find it on the **first basement floor of the Seongbo Building**. It has a half-basement feel, so put the address (10 Teheran-ro 26-gil) into your map app and you won't get turned around. It pairs well with [L'OISEAU Yeoksam](/en/posts/seoul-loiseau-yeoksam) or [Terarosa Yeoksam Station](/en/posts/seoul-terarosa-yeoksam) for a daytime route in the same neighborhood.
 
 ## Notes for travellers
 
 - **Bas Burger** is a handmade-burger chain with several branches around Seoul.
 - The **Bas Burger** with a hearty patty is the base order; there are distinctive options too, like the **WasabiMayo shrimp burger** topped with shrimp.
 - **Chips come with free refills**, so it's an easy side to order, and a beer in the daytime works well here.
-- About a **3-minute walk** from exit 3 of **Yeoksam Station** (Line 2) — easy to reach.
 
 ## Before you go
 

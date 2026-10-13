@@ -45,7 +45,6 @@ A large oval plate holds boiled whelks piled in their shells on a bed of lettuce
 - The menu shifts with whatever comes in that day. If crab, whelk, or another seasonal item is available, it's worth asking about and ordering.
 - The **seafood ramyeon** is considered close to a must-order among visitors.
 - **No reservations** — it's walk-in only. Turnover is decent, but expect to wait.
-- About a **3-minute walk** from Gyeongbokgung Station (Line 3).
 
 ## Good for you if
 

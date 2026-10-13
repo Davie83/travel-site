@@ -47,7 +47,7 @@ The Bukhansan pinecone bread (북한산솔방울빵) and the red-yeast-rice crea
 
 You can walk from **Bukhansanui Station** (Ui-Sinseol Line). On the map it is around a kilometre, uphill toward the valley, so **if you have time, it works as a pleasant walk.**
 
-By car, the car park is large. To avoid wrong turns, search **"하이그라운드 제빵소"** in your map app.
+To avoid wrong turns, search **"하이그라운드 제빵소"** in your map app.
 
 ## It works after dark too
 

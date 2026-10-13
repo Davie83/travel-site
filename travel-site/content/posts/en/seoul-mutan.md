@@ -88,6 +88,5 @@ Card is the standard way to pay, and a photo menu plus a well-known signature di
 - ✅ You can't eat spicy food — the chilli on the fried chicken is the mild kind
 - ⚠️ More expensive than a typical Korean-Chinese place — check the sets
 - ⚠️ Turning up at dinner without a booking will not work
-- ⚠️ One bowl per person is too much food
 
 > Based on a personal visit. Prices and hours change often, so anything uncertain is marked **(as of Aug 2026)**.

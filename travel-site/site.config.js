@@ -366,6 +366,8 @@ module.exports = {
     { key: '족발',     names: { ko: '족발',     en: 'Jokbal',          ja: 'チョッパル',   zh: '豬腳' } },
     { key: '육회',     names: { ko: '육회',     en: 'Yukhoe',          ja: 'ユッケ',       zh: '生牛肉' } },
     { key: '떡갈비',   names: { ko: '떡갈비',   en: 'Tteok-galbi',     ja: 'トッカルビ',   zh: '떡갈비' } },
+    { key: '삼겹살',   names: { ko: '삼겹살',   en: 'Samgyeopsal',    ja: 'サムギョプサル', zh: '五花肉' } },
+    { key: '흑돼지',   names: { ko: '흑돼지',   en: 'Black pork',     ja: '黒豚',         zh: '黑豬肉' } },
     { key: '치킨',     names: { ko: '치킨',     en: 'Chicken',         ja: 'チキン',       zh: '雞肉' } },
     { key: '김밥',     names: { ko: '김밥',     en: 'Gimbap',          ja: 'キンパ',       zh: '海苔飯捲' } },
     { key: '분식',     names: { ko: '분식',     en: 'Bunsik',          ja: '粉食',         zh: '韓式小吃' } },

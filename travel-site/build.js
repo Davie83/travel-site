@@ -1666,31 +1666,6 @@ function placeLd(m, pageUrl, code) {
   return node;
 }
 
-/** 글의 프론트매터에서 방문자가 실제로 궁금해하는 Q&A 를 뽑아 FAQPage 로.
- *  모두 페이지에 눈에 보이게 이미 있는 정보(소개 문장·매운 정도 배지·주문 문구·정보표)라
- *  구글 FAQ 정책에 맞습니다. 2개 미만이면 만들지 않습니다. */
-function postFaqLd(m, code) {
-  const t = I18N[code];
-  const qa = [];
-  const add = (name, text) => {
-    if (name && text) qa.push({
-      '@type': 'Question', name: String(name),
-      acceptedAnswer: { '@type': 'Answer', text: String(text) }
-    });
-  };
-  if (m.excerpt && typeof t.faqWhat === 'function') add(t.faqWhat(shortTitle(m.title)), m.excerpt);
-  const sp = Number(m.spicy);
-  if (m.cat === 'food' && m.spicy != null && m.spicy !== '' && Number.isFinite(sp) && sp > 0
-      && typeof t.faqSpiceA === 'function') {
-    add(t.faqSpice, t.faqSpiceA(sp));
-  }
-  if (m.order) add(t.faqOrder, `"${m.order}"` + (m.orderRoman ? ` (${m.orderRoman})` : ''));
-  if (m.closed && !/^(unknown|미확인|미정|未確認|未確定|待確認)$/i.test(String(m.closed).trim())) {
-    add(t.faqClosed, String(m.closed));
-  }
-  return qa.length >= 2 ? { '@type': 'FAQPage', mainEntity: qa } : null;
-}
-
 /** 검색결과에 "사이트 › 맛집 › 서울 › 명동 › 글" 경로를 보여주는 빵부스러기.
  *  맛집 글은 두 번째 단계가 'Food' 대신 음식 장르. 동네(area)가 있으면 지역 다음에 한 단계. */
 function breadcrumbLd(m, code, pageUrl) {
@@ -2687,8 +2662,7 @@ async function build() {
             image: m.thumb ? `${SITE_URL}/${m.thumb}${imgVer(m.thumb)}` : undefined,
             mainEntityOfPage: pageUrl,
             about: { '@id': pageUrl + '#place' }
-          },
-          postFaqLd(m, code)
+          }
         ].filter(Boolean)
       };
 

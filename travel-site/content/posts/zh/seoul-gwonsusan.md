@@ -1,5 +1,5 @@
 ---
-title: 권수산 — 汝矣島的午餐，炸魚排是免費小菜
+title: 권수산（Gwonsusan） — 汝矣島的午餐，炸魚排是免費小菜
 cat: food
 region: seoul
 area: yeouido

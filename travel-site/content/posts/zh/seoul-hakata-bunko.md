@@ -1,5 +1,5 @@
 ---
-title: 하카타분코 — 營業到凌晨 3 點的 20 年老拉麵店
+title: 하카타분코（Hakata Bunko） — 營業到凌晨 3 點的 20 年老拉麵店
 cat: food
 region: seoul
 area: hongdae

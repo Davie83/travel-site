@@ -1,5 +1,5 @@
 ---
-title: 여의도 진주집 — 首爾三大豆漿麵，味道自己調
+title: 汝矣島 진주집（Jinjujip） — 首爾三大豆漿麵，味道自己調
 cat: food
 region: seoul
 area: yeouido

@@ -1,5 +1,5 @@
 ---
-title: 교동석갈비 — 逛韓屋村肚子餓時，小菜豐盛的石烤排骨店
+title: 교동석갈비（Gyodong Seokgalbi） — 逛韓屋村肚子餓時，小菜豐盛的石烤排骨店
 cat: food
 region: jeolla
 area: jeonbuk

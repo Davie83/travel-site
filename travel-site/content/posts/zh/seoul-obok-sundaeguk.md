@@ -1,5 +1,5 @@
 ---
-title: 오복순대국 文來本店 — 白切肉真的很嫩，先點套餐
+title: 오복순대국（Obok Sundaeguk） 文來本店 — 白切肉真的很嫩，先點套餐
 cat: food
 region: seoul
 area: yeongdeungpo
@@ -10,7 +10,7 @@ excerpt: 這家的白切肉比我在別處吃過的都嫩。單點一盤價格�
 tags: [首爾, 永登浦, 文來, 血腸湯, 白切肉, 血腸, 本店]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
 info:
-  - 店名|오복순대국 **文來本店**
+  - 店名|오복순대국（Obok Sundaeguk） **文來本店**
   - 位置|首爾永登浦區道林路465（文來洞4街） （서울 영등포구 도림로 465）
   - 營業時間|**週一至週五 11:00 ～ 22:00** · 公休日 **每週日**
   - 注意|平日 **15:00～17:00 停止營業** · **週六只到 14:00**

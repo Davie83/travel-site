@@ -1,5 +1,5 @@
 ---
-title: 梨湖테우海水浴場 — 在機場附近看一下油菜花，喝杯咖啡
+title: 梨湖테우（Tewoo）海水浴場 — 在機場附近看一下油菜花，喝杯咖啡
 cat: travel
 region: jeju
 area: jejusi

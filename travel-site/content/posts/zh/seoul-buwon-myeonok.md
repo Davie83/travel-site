@@ -1,5 +1,5 @@
 ---
-title: 부원면옥 — 南大門市場二樓的老派平壤冷麵
+title: 부원면옥（Buwon Myeonok） — 南大門市場二樓的老派平壤冷麵
 cat: food
 region: seoul
 area: namdaemun

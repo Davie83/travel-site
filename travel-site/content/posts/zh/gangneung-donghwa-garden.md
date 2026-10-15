@@ -1,5 +1,5 @@
 ---
-title: 동화가든 — 草堂嫩豆腐村的炒碼嫩豆腐，嗆辣湯頭配軟嫩豆腐
+title: 동화가든（Donghwa Garden） — 草堂嫩豆腐村的炒碼嫩豆腐，嗆辣湯頭配軟嫩豆腐
 cat: food
 region: gangwon
 area: gangneung

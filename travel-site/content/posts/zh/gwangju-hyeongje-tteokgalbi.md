@@ -1,5 +1,5 @@
 ---
-title: 형제송정떡갈비 本店 — 不是漢堡排，是入口即化的原味떡갈비
+title: 형제송정떡갈비（Hyeongje Songjeong Tteok-galbi） 本店 — 不是漢堡排，是入口即化的原味떡갈비
 cat: food
 region: jeolla
 area: jeonnam
@@ -10,7 +10,7 @@ excerpt: 光州松汀站和光山區廳之間「떡갈비巷」裡的一家。�
 tags: [光州, 松汀, 光山區, 떡갈비, 떡갈비, 牛떡갈비, 豬떡갈비, 排骨, 骨湯, 떡갈비巷]
 map: https://www.google.com/maps/search/?api=1&query=%ed%98%95%ec%a0%9c%ec%86%a1%ec%a0%95%eb%96%a1%ea%b0%88%eb%b9%84+%ea%b4%91%ec%82%b0%ea%b5%ac
 info:
-  - 店名|형제송정떡갈비（형제송정떡갈비）· 本店
+  - 店名|형제송정떡갈비（Hyeongje Songjeong Tteok-galbi）· 本店
   - 位置|光州 光山區 · 光州松汀站附近的떡갈비巷 · 3 Gwangsan-ro 29beon-gil （전남광주 광산구 광산로29번길 3）
   - 我點的|**牛떡갈비 · 豬떡갈비**（各一人份）
   - 附贈|**清骨湯** — 就是馬鈴薯排骨湯用的那種豬脊骨，肉還附得不少

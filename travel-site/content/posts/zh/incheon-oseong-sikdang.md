@@ -1,5 +1,5 @@
 ---
-title: 오성식당 — 仁川沿岸碼頭的生拌斑鰶，最後要拌進飯裡
+title: 오성식당（Oseong Sikdang） — 仁川沿岸碼頭的生拌斑鰶，最後要拌進飯裡
 cat: food
 region: gyeonggi
 area: incheon

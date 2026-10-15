@@ -1,5 +1,5 @@
 ---
-title: 束草아바이마을手拉渡船（Gaetbae）— 用手拉著過河，雖短但值得體驗一次
+title: 束草아바이마을（Abai Village）手拉渡船（Gaetbae）— 用手拉著過河，雖短但值得體驗一次
 cat: travel
 region: gangwon
 area: sokcho

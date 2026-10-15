@@ -1,5 +1,5 @@
 ---
-title: 김앤김대게전문점 — 弘大的蟹套餐，從粥一路到烤鮑魚
+title: 김앤김대게전문점（Kim & Kim Daege） — 弘大的蟹套餐，從粥一路到烤鮑魚
 cat: food
 region: seoul
 area: hongdae

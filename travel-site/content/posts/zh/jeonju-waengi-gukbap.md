@@ -1,5 +1,5 @@
 ---
-title: 전주왱이콩나물국밥 — 一碗告訴我「到全州了」的豆芽湯飯
+title: 전주왱이콩나물국밥（Jeonju Waengi Kongnamul-gukbap） — 一碗告訴我「到全州了」的豆芽湯飯
 cat: food
 region: jeolla
 area: jeonbuk

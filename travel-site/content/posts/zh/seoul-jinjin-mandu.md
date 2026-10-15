@@ -1,5 +1,5 @@
 ---
-title: 진진만두국 — 手工餃子配三種湯，紅的那碗其實不辣
+title: 진진만두국（Jinjin Mandu-guk） — 手工餃子配三種湯，紅的那碗其實不辣
 cat: food
 region: seoul
 area: yeouido

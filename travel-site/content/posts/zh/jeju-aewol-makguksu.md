@@ -1,5 +1,5 @@
 ---
-title: 애월리순메밀막국수 — 紫蘇油拌麵·冷湯麵·白切肉，一次誠實的記錄
+title: 애월리순메밀막국수（Aewolli Sun Memil Makguksu） — 紫蘇油拌麵·冷湯麵·白切肉，一次誠實的記錄
 cat: food
 region: jeju
 area: aewol

@@ -1,5 +1,5 @@
 ---
-title: 마포양지설렁탕 — 老主顧常去的店，蔥泡菜與牛膝軟骨湯
+title: 마포양지설렁탕（Mapo Yangji Seolleongtang） — 老主顧常去的店，蔥泡菜與牛膝軟骨湯
 cat: food
 region: seoul
 area: mapo

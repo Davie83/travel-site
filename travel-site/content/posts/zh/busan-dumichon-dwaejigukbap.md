@@ -1,5 +1,5 @@
 ---
-title: 두미촌돼지국밥 — 釜山的招牌一碗，湯清不腥，開到半夜 12 點
+title: 두미촌돼지국밥（Dumichon Dwaeji-gukbap） — 釜山的招牌一碗，湯清不腥，開到半夜 12 點
 cat: food
 region: busan
 area: dongnae
@@ -10,7 +10,7 @@ excerpt: 豬骨湯很清，沒有腥味，1 萬韓元以內能吃一頓。東萊
 tags: [釜山, 東萊, 溫泉洞, 豬肉湯飯, 돼지국밥, 在地店, 深夜營業]
 map: https://www.google.com/maps/search/?api=1&query=%EB%91%90%EB%AF%B8%EC%B4%8C%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EB%B6%80%EC%82%B0+%EB%8F%99%EB%9E%98
 info:
-  - 店名|두미촌돼지국밥（두미촌돼지국밥）
+  - 店名|두미촌돼지국밥（Dumichon Dwaeji-gukbap）
   - 位置|釜山 東萊區 溫泉第1洞 440-15 （부산 동래구 온천제1동 440-15）
   - 電話|051-554-5050
   - 關門|**半夜 12:00** · (無公休資訊)

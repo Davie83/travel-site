@@ -1,5 +1,5 @@
 ---
-title: 홍박아구찜 — 孔德地下，清煮鮟鱇魚與魚肝
+title: 홍박아구찜（Hongbak Agujjim） — 孔德地下，清煮鮟鱇魚與魚肝
 cat: food
 region: seoul
 area: mapo

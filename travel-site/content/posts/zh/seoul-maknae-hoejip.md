@@ -1,5 +1,5 @@
 ---
-title: 막내횟집 — 只在平日午餐供應的14,000韓元生魚片定食，南大門市場
+title: 막내횟집（Maknae Hoejip） — 只在平日午餐供應的14,000韓元生魚片定食，南大門市場
 cat: food
 region: seoul
 area: namdaemun

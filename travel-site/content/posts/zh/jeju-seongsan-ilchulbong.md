@@ -1,5 +1,5 @@
 ---
-title: 城山日出峰・광치기해변 — 春天的油菜花田、日出峰，還有一杯咖啡
+title: 城山日出峰・광치기해변（Gwangchigi Beach） — 春天的油菜花田、日出峰，還有一杯咖啡
 cat: travel
 region: jeju
 area: seongsan

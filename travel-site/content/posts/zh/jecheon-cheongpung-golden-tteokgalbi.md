@@ -1,5 +1,5 @@
 ---
-title: 청풍황금떡갈비 — 在堤川偶然遇到的、小菜擺滿一桌的떡갈비店
+title: 청풍황금떡갈비（Cheongpung Golden Tteok-galbi） — 在堤川偶然遇到的、小菜擺滿一桌的떡갈비店
 cat: food
 region: chungcheong
 area: chungbuk

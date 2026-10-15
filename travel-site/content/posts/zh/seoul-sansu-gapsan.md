@@ -1,5 +1,5 @@
 ---
-title: 산수갑산 — 乙支路的血腸湯老店，一盤綜合水煮肉
+title: 산수갑산（Sansu Gapsan） — 乙支路的血腸湯老店，一盤綜合水煮肉
 cat: food
 region: seoul
 area: jongno

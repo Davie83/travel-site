@@ -1,5 +1,5 @@
 ---
-title: 강화도맛집 숯불생선구이 — 在島的入口吃到、老闆手藝烤出來的烤魚定食
+title: 강화도맛집 숯불생선구이（Ganghwa-do Matjip） — 在島的入口吃到、老闆手藝烤出來的烤魚定食
 cat: food
 region: gyeonggi
 area: ganghwa

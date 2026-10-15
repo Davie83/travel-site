@@ -1,5 +1,5 @@
 ---
-title: 송죽장 — 永登浦，辣到出汗的炒碼麵和煎餃
+title: 송죽장（Songjukjang） — 永登浦，辣到出汗的炒碼麵和煎餃
 cat: food
 region: seoul
 area: yeongdeungpo
@@ -10,7 +10,7 @@ excerpt: 辣得乾脆，辣味後面還有鮮味的海鮮辣湯麵。一定要�
 tags: [首爾, 永登浦, 文來, 炒碼麵, 짬뽕, 辣麵, 煎餃, 韓式中華]
 map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5+%EB%AC%B8%EB%9E%98%EB%A1%9C+203
 info:
-  - 店名|송죽장（송죽장）
+  - 店名|송죽장（Songjukjang）
   - 位置|首爾 永登浦區 文來路 203 （서울 영등포구 문래로 203）
   - 電話|02-2631-9184
   - 關門|**下午 9:30** · 無公休資訊（截至2026年8月）

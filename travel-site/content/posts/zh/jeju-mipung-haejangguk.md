@@ -1,5 +1,5 @@
 ---
-title: 미풍해장국 本店 — 辣味和刺激的合作，濟州式解酒湯
+title: 미풍해장국（Mipung Haejang-guk） 本店 — 辣味和刺激的合作，濟州式解酒湯
 cat: food
 region: jeju
 area: jejusi

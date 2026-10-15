@@ -1,5 +1,5 @@
 ---
-title: 영동족발 — 江南一帶吃過的豬腳裡，這家明顯最好，皮 Q 肉軟
+title: 영동족발（Yeongdong Jokbal） — 江南一帶吃過的豬腳裡，這家明顯最好，皮 Q 肉軟
 cat: food
 region: seoul
 area: gangnam

@@ -1,12 +1,12 @@
 ---
-title: 瑞山花蟹 — 生醃醬油蟹套餐，需要預約
+title: 瑞山花蟹（서산꽃게） — 麻浦生醃醬油蟹套餐，需要預約
 cat: food
 region: seoul
 area: mapo
 date: 2026-08-21
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg
-excerpt: 鹹度不重的生醃醬油蟹，配烤黃魚、蒸蛋、蟹湯和十來道小菜，一整桌上齊。真正的強項是這一桌，不是蟹肉本身。基本上必須預約。
+excerpt: 位在首爾麻浦桃花洞的醬油蟹套餐店 瑞山花蟹（서산꽃게）。鹹度不重的生醃醬油蟹，配烤黃魚、蒸蛋、蟹湯和十來道小菜，一整桌上齊。真正的強項是這一桌，不是蟹肉本身。基本上必須預約。
 tags: [首爾, 麻浦, 醬油蟹, 生醃蟹, 套餐, 需預約, 韓定食]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%82%B0%EA%BD%83%EA%B2%8C+%EB%A7%88%ED%8F%AC
 info:

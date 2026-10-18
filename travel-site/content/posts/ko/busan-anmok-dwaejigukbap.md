@@ -1,5 +1,5 @@
 ---
-title: 안목 — 잡내 없는 돼지국밥, 국밥 초보자도 먹을 수 있습니다
+title: 안목 — 미쉐린 빕 구르망 돼지국밥, 잡내가 없어 처음 먹어도 괜찮습니다
 cat: food
 region: busan
 area: gwangalli
@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🍲
 thumb: assets/img/busan-anmok-dwaejigukbap.jpg
 famous: true
-excerpt: 진한 설렁탕 같은 국물에 얇게 슬라이스한 고기입니다. 잡내가 없어서 돼지국밥이 처음인 분도 먹을 수 있습니다. 밥을 국에 넣어 달라고 하면 국물이 미지근해질 수 있으니 주문할 때 정하세요.
+excerpt: 부산 광안리 남천동의 돼지국밥집 안목 본점입니다. 미쉐린 가이드 빕 구르망에 2년 연속 오른 곳으로, 진한 설렁탕 같은 국물에 얇게 슬라이스한 고기가 올라가고 잡내가 없어서 돼지국밥이 처음인 분도 먹을 수 있습니다. 밥을 국에 넣을지는 주문할 때 정하세요.
 tags: [부산, 광안리, 남천동, 수영구, 돼지국밥, 수육, 미쉐린, 빕구르망]
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9+%EA%B4%91%EC%95%88%EB%A6%AC
 lat: 35.1449273

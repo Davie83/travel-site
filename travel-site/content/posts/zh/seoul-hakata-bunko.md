@@ -6,7 +6,7 @@ area: hongdae
 date: 2026-08-22
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
-excerpt: 博多風豚骨配極細麵。壓入大量生蒜後，濃稠的豬骨湯會變成一碗真正解酒的東西。營業到凌晨 3 點，這才是這家店最大的優勢。
+excerpt: 位在首爾上水、弘大一帶的博多風豚骨拉麵店 하카타분코（Hakata Bunko）。配極細麵，壓入大量生蒜後，濃稠的豬骨湯會變成一碗解酒的拉麵。營業到凌晨 3 點，這才是這家店最大的優勢。
 tags: [首爾, 弘大, 上水, 麻浦, 拉麵, 豚骨, 博多, 深夜]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%B9%B4%ED%83%80%EB%B6%84%EC%BD%94+%ED%99%8D%EB%8C%80
 info:

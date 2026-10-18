@@ -1,12 +1,12 @@
 ---
-title: 안목（Anmok） — 沒有異味的豬肉湯飯，第一次吃也沒問題
+title: 안목（Anmok） — 米其林必比登推介的豬肉湯飯，沒有異味、第一次吃也沒問題
 cat: food
 region: busan
 area: gwangalli
 date: 2026-08-23
 emoji: 🍲
 thumb: assets/img/busan-anmok-dwaejigukbap.jpg
-excerpt: 湯頭接近濃郁的雪濃湯，上面鋪著薄切肉片。沒有讓人退卻的那股異味，第一次吃豬肉湯飯也吃得下。白飯要不要泡進湯裡，點餐時就得決定。
+excerpt: 釜山廣安里、南川洞的豬肉湯飯店 안목（Anmok）本店，連續兩年入選米其林必比登推介。湯頭接近濃郁的雪濃湯，上面鋪著薄切肉片，沒有讓人退卻的異味，第一次吃豬肉湯飯也吃得下。白飯要不要泡進湯裡，點餐時就得決定。
 tags: [釜山, 廣安里, 南川洞, 豬肉湯飯, 白切肉, 米其林, 必比登]
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9+%EA%B4%91%EC%95%88%EB%A6%AC
 info:

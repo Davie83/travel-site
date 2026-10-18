@@ -1602,9 +1602,14 @@ function seoPostTitle(m, code) {
     const aParts = split(areaName(m.region, m.area, code));
     const rParts = split(regionName(m.region, code));
     const low = title.toLowerCase();
-    if (![...aParts, ...rParts].some(n => low.includes(n.toLowerCase()))) {
-      const withRegion = code === 'en' && ['seoul', 'busan', 'jeju'].includes(m.region);
-      loc = [aParts[0], withRegion ? rParts[0] : ''].filter(Boolean).join(', ');
+    const has = n => low.includes(n.toLowerCase());
+    const areaIn = aParts.some(has), regionIn = rParts.some(has);
+    if (code === 'en' && ['seoul', 'busan', 'jeju'].includes(m.region)) {
+      // (Oct 2026, GSC) 영어 검색어는 "songjukjang seoul" 처럼 도시를 붙이는데, 제목에 동네만 있고
+      // 도시(Seoul·Busan·Jeju)가 없는 글이 44편이었습니다. 도시가 없으면 동네가 있어도 도시를 붙입니다.
+      loc = [areaIn ? '' : aParts[0], regionIn ? '' : rParts[0]].filter(Boolean).join(', ');
+    } else if (!areaIn && !regionIn) {
+      loc = aParts[0] || '';
     }
   }
   if (!loc && !intent) return title;

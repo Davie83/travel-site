@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
-excerpt: 辣得乾脆，辣味後面還有鮮味的海鮮辣湯麵。一定要加一份煎餃。不太能吃辣的話會有點吃力。從永登浦站要走一小段。
+excerpt: 位在首爾永登浦文來路的中華料理店 송죽장。辣得乾脆、辣味後面還有鮮味的海鮮짬뽕（炒碼麵，11,000韓元）和煎餃（9,500韓元）是招牌（截至2026年8月）。不太能吃辣的話會有點吃力，從永登浦站要走一小段。
 tags: [首爾, 永登浦, 文來, 炒碼麵, 짬뽕, 辣麵, 煎餃, 韓式中華]
 map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5+%EB%AC%B8%EB%9E%98%EB%A1%9C+203
 info:

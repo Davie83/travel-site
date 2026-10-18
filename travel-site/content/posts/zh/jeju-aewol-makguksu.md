@@ -6,7 +6,7 @@ area: aewol
 date: 2026-08-24
 emoji: 🍜
 thumb: assets/img/jeju-aewol-makguksu.jpg
-excerpt: 位於涯月海岸公路旁的蕎麥拌麵店。聽說很有名，就把紫蘇油拌麵、冷湯麵、白切肉全點了一遍。說實話，紫蘇油的香氣我更喜歡西歸浦的제주순메밀막국수。不過這家絕不是做得差的店。
+excerpt: 位於濟州涯月海岸公路旁的蕎麥麵店 애월리순메밀막국수（Aewolli Sun Memil Makguksu）。把紫蘇油拌麵（10,000韓元，截至2026年8月）、冷湯麵、白切肉全點了一遍，都不辣。說實話，紫蘇油的香氣我更喜歡西歸浦市安德面的제주순메밀막국수，不過這家絕不是做得差的店。
 tags: [濟州, 涯月, 拌麵, 蕎麥麵, 紫蘇油, 白切肉, 涼麵, 海岸公路]
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%A0%EC%9B%94%EB%A6%AC%EC%88%9C%EB%A9%94%EB%B0%80%EB%A7%89%EA%B5%AD%EC%88%98
 lat: 33.4656625

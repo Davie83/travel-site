@@ -6,7 +6,7 @@ area: yeouido
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg
-excerpt: 招牌是松露牛排炸醬麵和堆滿青辣椒的油淋雞。價格比一般中餐館貴，但量大，一份兩個人分著吃就夠。建議多人同行，點兩三道主菜分享。基本要提前訂位。
+excerpt: 位在首爾汝矣島 TP Tower 2樓的中華料理店 무탄（Mutan）汝矣島店。招牌是松露牛排炸醬麵和堆滿青辣椒的油淋雞。價格比一般中餐館貴，但量大，一份兩個人分著吃就夠。建議多人同行，點兩三道主菜分享，基本要提前訂位。
 tags: [首爾, 汝矣島, 韓式中華, 炸醬麵, 松露, 油淋雞, 需訂位]
 map: https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%ED%83%84+%EC%97%AC%EC%9D%98%EB%8F%84%EC%A0%90
 info:

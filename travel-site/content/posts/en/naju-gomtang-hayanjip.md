@@ -6,7 +6,7 @@ area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
-excerpt: A clean-tasting beef broth and notably tender boiled brisket. It draws a queue — but it opens at 8am and takes app bookings, which solves most of that.
+excerpt: Naju Gomtang Hayanjip's main branch is on Geumseonggwan-gil in Naju, South Jeolla. It is the shop most associated with Naju gomtang: a clean-tasting beef broth and notably tender boiled brisket. It opens at 8am and takes app bookings, though a queue is likely (as of Aug 2026).
 tags: [Jeolla, Naju, gomtang, beef soup, suyuk, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:

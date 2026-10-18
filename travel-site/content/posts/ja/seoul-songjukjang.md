@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
-excerpt: ピリッと鋭い辛さの奥に旨みがある海鮮チャンポン。焼き餃子（クンマンドゥ）も一緒に。辛いものが苦手な方にはきついかもしれません。永登浦駅から少し歩きます。
+excerpt: ソウル永登浦、文来路にある中華料理店ソンジュクチャン。ピリッと鋭い辛さの奥に旨みがある海鮮チャンポン（11,000ウォン）と焼き餃子（9,500ウォン）が看板です（2026年8月時点）。辛いものが苦手な方にはきつく、永登浦駅から少し歩きます。
 tags: [ソウル, 永登浦, 文来, チャンポン, 辛い麺, 焼き餃子, 韓国式中華]
 map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5+%EB%AC%B8%EB%9E%98%EB%A1%9C+203
 info:

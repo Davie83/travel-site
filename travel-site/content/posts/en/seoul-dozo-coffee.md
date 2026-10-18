@@ -6,7 +6,7 @@ area: gwanghwamun
 date: 2026-08-21
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
-excerpt: Single-origin filter coffee poured into a tulip glass and brought out on a wooden tray, with the rest in a steel kettle. Good when you want something other than your usual cup. Small room, office district — not a quiet solo spot on weekdays.
+excerpt: Dozo Coffee is a filter-coffee shop in Donuimun, Jongno, near Seodaemun Station in Seoul. Single-origin filter coffee is poured into a tulip glass and brought out on a wooden tray, with the rest in a steel kettle. Good when you want something other than your usual cup; the room is small and in an office district, so it is not a quiet solo spot on weekdays.
 tags: [Seoul, Gwanghwamun, Jongno, Donuimun, Seodaemun, cafe, filter coffee, specialty coffee, coffee beans]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EC%A1%B0%EC%BB%A4%ED%94%BC+%EB%8F%88%EC%9D%98%EB%AC%B8
 info:

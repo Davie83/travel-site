@@ -7,7 +7,7 @@ date: 2026-08-23
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
 famous: true
-excerpt: 나물 위주로 균형 잡힌 비빔밥입니다. 자극적이지 않고 담백해서, 한국 비빔밥을 처음 제대로 먹어보려는 분께 맞습니다. 본점은 남산 안이 아니라 남산 아래 길가에 있습니다.
+excerpt: 서울 명동역 근처, 남산 아래 길가에 있는 목멱산방 본점입니다. 나물 위주로 균형 잡힌 비빔밥으로, 자극적이지 않고 담백해서 한국 비빔밥을 처음 제대로 먹어보려는 분께 맞습니다. 남산 안이 아니라 남산 아래 퇴계로 쪽에 있는 본점입니다.
 tags: [서울, 명동, 중구, 남산, 비빔밥, 육회비빔밥, 나물, 한식, 채식]
 map: https://www.google.com/maps/search/?api=1&query=%EB%AA%A9%EB%A9%B1%EC%82%B0%EB%B0%A9+%ED%95%9C%EA%B0%95%EB%A1%9C20%EA%B8%B8
 lat: 37.5581153

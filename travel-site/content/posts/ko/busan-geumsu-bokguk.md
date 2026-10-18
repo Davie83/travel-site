@@ -7,7 +7,7 @@ date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
 famous: true
-excerpt: 복어 요리를 부담 없는 가격에 여러 가지 맛볼 수 있는 집. 화려한 맛은 아니고 전형적인 한국식 복국집입니다. 복 육회와 복 튀김이 의외로 괜찮았습니다.
+excerpt: 부산 동래의 복국집 금수복국 동래점은 오전 8시부터 오후 10시까지 문을 엽니다(2026.08 기준). 복어 요리를 부담 없는 가격에 여러 가지 맛볼 수 있는 전형적인 한국식 복국집이고, 복 육회와 복 튀김이 의외로 괜찮았습니다.
 tags: [부산, 동래, 복국, 복어, 해장, 복튀김, 복육회]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD+%EB%8F%99%EB%9E%98%EC%A0%90
 lat: 35.2022441

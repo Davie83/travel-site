@@ -6,7 +6,7 @@ area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
-excerpt: すっきりした牛のスープと、やわらかいスユク（茹で肉）。待ちは覚悟。ただ朝8時開店で予約アプリも使えるので、そこで解決できます。
+excerpt: 全羅南道・羅州の金城館キルにある羅州コムタン ハヤンチプ本店。羅州コムタンの代表格で、すっきりした牛のスープとやわらかいスユク（茹で肉）が味わえます。朝8時開店で予約アプリも使えますが、待ちは覚悟してください（2026年8月時点）。
 tags: [全羅, 羅州, コムタン, 牛スープ, スユク, 朝食]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:

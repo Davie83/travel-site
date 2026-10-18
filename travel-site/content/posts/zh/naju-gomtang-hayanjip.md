@@ -1,12 +1,12 @@
 ---
-title: 羅州牛肉湯 白色房子 — 一座城的名字變成了一道菜
+title: 羅州牛肉湯 하얀집（Hayanjip） — 一座城的名字變成了一道菜
 cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
-excerpt: 湯清爽不膩，水煮牛肉很嫩。排隊要有心理準備 — 好在早上 8 點就開門，還能用訂位 App。
+excerpt: 位在全羅南道羅州市金城館路的羅州牛肉湯 하얀집（Hayanjip）本店，是羅州牛肉湯的代表性店家。湯清爽不膩，水煮牛肉很嫩。早上8點開門，也能用訂位App，但要有排隊的心理準備（截至2026年8月）。
 tags: [全羅, 羅州, 牛肉湯, 곰탕, 水煮肉, 早餐]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 info:

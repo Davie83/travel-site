@@ -6,7 +6,7 @@ area: myeongdong
 date: 2026-08-23
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
-excerpt: 靠野菜而不是靠醬撐起來的拌飯，清淡又均衡。適合第一次認真吃韓式拌飯的人。本店不在南山上，而在山腳下的路邊。
+excerpt: 位在首爾明洞站附近、南山腳下路邊的 木覓山房 本店。靠野菜而不是靠醬撐起來的拌飯，清淡又均衡，適合第一次認真吃韓式拌飯的人。本店不在南山上，而在山腳下的路邊；南山上另有南山塔店。
 tags: [首爾, 明洞, 中區, 南山, 拌飯, 生牛肉, 野菜, 韓餐, 素食]
 map: https://www.google.com/maps/search/?api=1&query=%EB%AA%A9%EB%A9%B1%EC%82%B0%EB%B0%A9+%ED%95%9C%EA%B0%95%EB%A1%9C20%EA%B8%B8
 info:

@@ -1,12 +1,12 @@
 ---
-title: Anmok — Pork Soup With No Funk, Safe Even If It Is Your First
+title: Anmok — Michelin Bib Gourmand Pork Soup With No Funk, Safe Even If It Is Your First
 cat: food
 region: busan
 area: gwangalli
 date: 2026-08-23
 emoji: 🍲
 thumb: assets/img/busan-anmok-dwaejigukbap.jpg
-excerpt: A broth close to a rich beef seolleongtang, with thinly sliced pork on top. None of the funk that puts people off, so a first-timer can handle it. Decide at the table whether the rice goes into the soup — it changes how hot the broth stays.
+excerpt: Anmok's main branch is a pork soup shop in Namcheon-dong, Gwangalli, Busan, listed in the Michelin Guide's Bib Gourmand two years running. The broth is close to a rich beef seolleongtang with thinly sliced pork on top and none of the funk that puts people off, so a first-timer can handle it. Decide when you order whether the rice goes into the soup.
 tags: [Busan, Gwangalli, Namcheon, dwaeji gukbap, pork soup, suyuk, Michelin, Bib Gourmand]
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9+%EA%B4%91%EC%95%88%EB%A6%AC
 info:

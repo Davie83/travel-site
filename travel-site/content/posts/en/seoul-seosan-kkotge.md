@@ -1,12 +1,12 @@
 ---
-title: Seosan Kkotge — Raw Soy-Marinated Crab, Booking Required
+title: Seosan Kkotge — Raw Soy-Marinated Crab Set in Mapo, Booking Required
 cat: food
 region: seoul
 area: mapo
 date: 2026-08-21
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg
-excerpt: Raw blue crab cured in soy sauce, not over-salted, served as a full set meal with grilled fish, steamed egg, crab stew and a dozen side dishes. The set is the strength here, not the crab meat itself. Reservation essentially required.
+excerpt: Seosan Kkotge is a soy-marinated crab set-meal restaurant in Dohwa-dong, Mapo, Seoul. Raw blue crab cured in soy sauce, not over-salted, comes with grilled fish, steamed egg, crab stew and a dozen side dishes. The set is the strength here, not the crab meat itself. Reservation essentially required.
 tags: [Seoul, Mapo, ganjang gejang, raw crab, set meal, reservation required, Korean set menu]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%82%B0%EA%BD%83%EA%B2%8C+%EB%A7%88%ED%8F%AC
 info:

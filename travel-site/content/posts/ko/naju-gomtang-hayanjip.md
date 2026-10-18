@@ -7,7 +7,7 @@ date: 2026-08-17
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 famous: true
-excerpt: 나주곰탕의 대표 격인 집. 국물이 깔끔하고 수육이 부드럽습니다. 대기는 감안하셔야 하고, 예약 앱을 쓸 수 있습니다.
+excerpt: 전남 나주시 금성관길에 있는 나주곰탕 하얀집 본점입니다. 나주곰탕의 대표 격인 집으로, 국물이 깔끔하고 수육이 부드럽습니다. 오전 8시에 문을 열고 예약 앱을 쓸 수 있지만, 대기는 감안하셔야 합니다(2026.08 기준).
 tags: [전남, 나주, 곰탕, 나주곰탕, 수육, 국밥]
 map: https://www.google.com/maps/search/?api=1&query=%EB%82%98%EC%A3%BC%EA%B3%B0%ED%83%95+%ED%95%98%EC%96%80%EC%A7%91+%EB%B3%B8%EC%A0%90
 lat: 35.0322553

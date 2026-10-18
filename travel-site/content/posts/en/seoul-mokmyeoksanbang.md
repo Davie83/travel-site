@@ -6,7 +6,7 @@ area: myeongdong
 date: 2026-08-23
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
-excerpt: A balanced bibimbap built on seasoned vegetables rather than sauce. Mild and clean-tasting, which makes it a good first proper bibimbap. The main branch is not up on Namsan — it is on the street below.
+excerpt: Mokmyeoksanbang's main branch is on the street at the foot of Namsan, near Myeongdong Station in Seoul. A balanced bibimbap built on seasoned vegetables rather than sauce, mild and clean-tasting, a good first proper bibimbap. The main branch is not up on Namsan; the Namsan Tower branch is a separate shop.
 tags: [Seoul, Myeongdong, Jung-gu, Namsan, bibimbap, raw beef, namul, Korean, vegetarian]
 map: https://www.google.com/maps/search/?api=1&query=%EB%AA%A9%EB%A9%B1%EC%82%B0%EB%B0%A9+%ED%95%9C%EA%B0%95%EB%A1%9C20%EA%B8%B8
 info:

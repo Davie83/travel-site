@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
-excerpt: 알싸하게 매우면서 감칠맛이 도는 짬뽕. 군만두를 같이 시키면 좋습니다. 매운 걸 못 드시면 버거울 수 있습니다. 영등포역에서 조금 걸어야 합니다.
+excerpt: 서울 영등포 문래로에 있는 중식당 송죽장입니다. 알싸하게 맵고 감칠맛이 도는 짬뽕(11,000원)과 군만두(9,500원)가 대표 메뉴입니다(2026.08 기준). 매운 걸 못 드시면 버거울 수 있고, 영등포역에서 조금 걸어야 합니다.
 tags: [서울, 영등포, 영등포역, 문래, 짬뽕, 군만두, 중식]
 map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5+%EB%AC%B8%EB%9E%98%EB%A1%9C+203
 lat: 37.5182009

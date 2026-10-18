@@ -1,12 +1,12 @@
 ---
-title: 釜山 錦繡河豚湯 東萊店 — 河豚湯為什麼早上 8 點就開門
+title: 釜山 금수복국（Geumsu Bokguk） 東萊店 — 河豚湯為什麼早上 8 點就開門
 cat: food
 region: busan
 area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
-excerpt: 能用不嚇人的價格嚐到好幾種河豚料理。味道不算驚豔，是很標準的韓式河豚湯館子。倒是炸河豚和河豚生拌意外不錯。
+excerpt: 釜山東萊的河豚湯店 금수복국（Geumsu Bokguk）東萊店，早上8點到晚上10點營業（截至2026年8月）。是能用不嚇人的價格嚐到好幾種河豚料理的標準韓式河豚湯館子，河豚生拌和炸河豚意外不錯。
 tags: [釜山, 東萊, 河豚湯, 河豚, 解酒, 早餐]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD+%EB%8F%99%EB%9E%98%EC%A0%90
 info:

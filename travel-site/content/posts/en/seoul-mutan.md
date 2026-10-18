@@ -6,7 +6,7 @@ area: yeouido
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg
-excerpt: The signatures are steak-and-truffle black bean noodles and fried chicken buried under sliced chilli. Pricier than a normal Chinese restaurant, but portions are big enough that one bowl feeds two. Come as a group, share two or three mains, and book ahead.
+excerpt: Mutan Yeouido is a Chinese restaurant on the 2nd floor of TP Tower in Yeouido, Seoul. The signatures are steak-and-truffle black bean noodles and fried chicken buried under sliced chilli. Pricier than a normal Chinese restaurant, but portions are big enough that one bowl feeds two. Come as a group, share two or three mains, and book ahead.
 tags: [Seoul, Yeouido, Korean-Chinese, jjajangmyeon, truffle, fried chicken, reservation needed]
 map: https://www.google.com/maps/search/?api=1&query=%EB%AC%B4%ED%83%84+%EC%97%AC%EC%9D%98%EB%8F%84%EC%A0%90
 info:

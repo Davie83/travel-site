@@ -6,7 +6,7 @@ area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
-excerpt: Several pufferfish dishes at prices that won't scare you. Not a revelation — a textbook Korean bokguk house. The fried pufferfish and the raw pufferfish salad were the surprises.
+excerpt: Geumsu Bokguk's Dongnae branch in Busan serves pufferfish soup from 8am to 10pm (as of Aug 2026). It is a textbook Korean bokguk house with several pufferfish dishes at prices that won't scare you; the raw pufferfish salad and the fried pufferfish were the surprises.
 tags: [Busan, Dongnae, bokguk, pufferfish, hangover soup, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD+%EB%8F%99%EB%9E%98%EC%A0%90
 info:

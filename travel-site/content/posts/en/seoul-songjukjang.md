@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-08-21
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
-excerpt: A sharp, properly hot seafood noodle soup with real savoury depth behind the chilli. Order the fried dumplings with it. If you don't handle heat well, this one may beat you. It's a short walk from Yeongdeungpo Station.
+excerpt: Songjukjang is a Chinese restaurant on Mullae-ro in Yeongdeungpo, Seoul. Its sharp, properly hot jjamppong (11,000 KRW) with real savoury depth and the fried dumplings (9,500 KRW) are the draw (as of Aug 2026). If you don't handle heat well, it may beat you, and it is a short walk from Yeongdeungpo Station.
 tags: [Seoul, Yeongdeungpo, Mullae, jjamppong, spicy noodles, fried dumplings, Korean-Chinese]
 map: https://www.google.com/maps/search/?api=1&query=%EC%86%A1%EC%A3%BD%EC%9E%A5+%EB%AC%B8%EB%9E%98%EB%A1%9C+203
 info:

@@ -6,7 +6,7 @@ area: dongnae
 date: 2026-08-17
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
-excerpt: フグ料理を気負わない値段でいろいろ試せる店。特別な味ではなく、典型的な韓国のポックク屋です。フグの唐揚げとユッケが意外によかった。
+excerpt: 釜山・東莱のフグ料理店、クムスボックク東莱店は朝8時から夜10時まで営業しています（2026年8月時点）。フグ料理を気負わない値段でいろいろ試せる典型的な韓国のポックク屋で、フグのユッケと唐揚げが意外によかったです。
 tags: [釜山, 東莱, ポックク, フグ, 二日酔い, 朝食]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD+%EB%8F%99%EB%9E%98%EC%A0%90
 info:

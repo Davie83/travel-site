@@ -1,12 +1,13 @@
 ---
-title: 首爾 冬柏洋果店 — 益善洞韓屋舒芙蕾，先搞清楚你花的錢買的是什麼
+title: 首爾 冬柏洋果店（동백양과점） — 益善洞韓屋舒芙蕾，先搞清楚你花的錢買的是什麼
 cat: food
 region: seoul
 area: jongno
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg
-excerpt: 益善洞韓屋巷子裡的舒芙蕾鬆餅咖啡館。只論味道算普通，價格也不便宜。真正賣的是空間。想清楚為什麼去，體驗會完全不同。
+excerpt: 位在首爾鍾路益善洞韓屋街附近的舒芙蕾鬆餅咖啡館 冬柏洋果店。接單後才烤，所以需要等待（截至2026年8月）。只論味道算普通，價格也不便宜，真正賣的是空間，想清楚為什麼去，體驗會完全不同。
 tags: [首爾, 鐘路, 益善洞, 韓屋, 舒芙蕾, 鬆餅, 咖啡館, 甜點]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91%EA%B3%BC%EC%A0%90+%EC%A2%85%EB%A1%9C%EA%B5%AC
 info:

@@ -4,10 +4,11 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 pick: true
-excerpt: 옛날 평양냉면 맛을 찾으신다면 아주 만족스러운 집입니다. 고기기름에 부친 빈대떡이 고소하고, 가성비가 좋습니다. 남대문시장 안 2층이라 입구를 놓치기 쉽습니다.
+excerpt: 서울 중구 남대문시장 2층(남대문시장4길 41-6)의 평양냉면집 부원면옥입니다. 옛날 평양냉면 맛을 찾으면 아주 만족스럽고, 고기기름에 부친 빈대떡이 고소하며 가성비가 좋습니다. 시장 안 2층이라 입구를 놓치기 쉽고 오후 8시에 닫습니다(2026.08 기준).
 tags: [서울, 중구, 남대문시장, 회현역, 평양냉면, 냉면, 빈대떡]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 lat: 37.5584249

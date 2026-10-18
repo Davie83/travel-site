@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg
-excerpt: 정통 베트남식 쌀국수. 면발과 육수 모두 깊은 맛이 납니다. 베트남에서 오신 분들이 직접 하는 집입니다. 바로 앞이 한강공원과 이어져서, 먹고 산책까지 하고 오기 좋습니다.
+excerpt: 서울 영등포 당산역 근처의 베트남 쌀국수집 포옹남 당산점입니다. 베트남분들이 직접 하는 집으로, 면발과 육수 모두 깊은 맛이 나고 바로 앞이 한강공원과 이어져 먹고 산책까지 하기 좋습니다.
 tags: [서울, 당산, 영등포, 베트남, 쌀국수, 퍼, 한강공원, 현지인운영]
 map: https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%98%B9%EB%82%A8+%EB%8B%B9%EC%82%B0%EC%A0%90
 lat: 37.5350219

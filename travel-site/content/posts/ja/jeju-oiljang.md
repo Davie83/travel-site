@@ -4,9 +4,10 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg
-excerpt: 「五日市場」は5日間開くという意味ではありません。末尾が2と7の日だけです。韓国最大規模の五日市場ですが、日付を外すとただの広い駐車場です。
+excerpt: 済州市・五日市場西キルにある済州民俗五日市場は、末尾が2と7の日（2・7・12・17・22・27日）だけ開きます。約1,000店舗が並ぶ韓国最大規模の五日市場ですが、市の立たない日は開いていないので、日付を外すと無駄足になります。
 tags: [済州, 済州市, 五日市場, 伝統市場, チヂミ, マッコリ, 市の日]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%AF%BC%EC%86%8D%EC%98%A4%EC%9D%BC%EC%8B%9C%EC%9E%A5
 info:

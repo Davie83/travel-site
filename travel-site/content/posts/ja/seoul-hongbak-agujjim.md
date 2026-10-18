@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🐟
 thumb: assets/img/seoul-hongbak-agujjim.jpg
-excerpt: あんこうの水煮といえばこの店です。新鮮なあんこうを本当に上手に炊きます。そして主役はあん肝。辛い蒸し煮を頼むつもりで行って、結局いつも水煮を頼んでしまいます。
+excerpt: ソウル麻浦、孔徳駅近くの地下にあるあんこう料理店ホンパクアグチム。あんこうの水煮（小60,000ウォン、2026年8月時点）を上手に炊き、あん肝が主役です。辛い蒸し煮を頼むつもりで行って、結局水煮を頼んでしまいます。日曜定休です。
 tags: [ソウル, 麻浦, 孔徳, あんこう, アグチム, あん肝, 海鮮, 地下]
 map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84%EA%B5%AC%EC%B0%9C+%EA%B3%B5%EB%8D%95
 info:

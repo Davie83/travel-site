@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🦀
 thumb: assets/img/seoul-kimnkim-daege.jpg
-excerpt: ズワイガニかタラバガニを頼むとコースが続きます。粥・サラダ・きのこ酢豚・コーンチーズ・刺身・海老フライ・アワビの焼き物。二人ならズワイ1.5〜2kgで十分。個室が多く、20周年イベントで今は値段が下がっています。
+excerpt: ソウル麻浦・弘大（西橋洞）のズワイガニ専門店、キム＆キム。ズワイガニかタラバガニを頼むと粥・サラダ・きのこ酢豚・コーンチーズ・刺身・海老フライ・アワビの焼き物が続きます。二人ならズワイ1.5〜2kgで十分。個室が多く、NAVER予約ができます。
 tags: [ソウル, 弘大, 麻浦, ズワイガニ, タラバガニ, コース, 個室, 海鮮]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%95%A4%EA%B9%80%EB%8C%80%EA%B2%8C%EC%A0%84%EB%AC%B8%EC%A0%90+%ED%99%8D%EB%8C%80
 info:

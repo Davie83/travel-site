@@ -4,11 +4,12 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
 famous: true
 pick: true
-excerpt: 소주 생각날 때 떠오르는 안주입니다. 냄새는 없고, 낯선 건 탱글탱글한 식감입니다. 저는 소금구이를 좋아하고 양념구이도 평이 좋습니다. 종각역 도보 2분, 자정까지 합니다.
+excerpt: 서울 종로 종각역 도보 2분의 꼼장어집 공평동꼼장어 직영1호점입니다. 냄새는 없고 낯선 건 탱글탱글한 식감이라, 전혀 맵지 않은 소금구이로 먼저 먹는 걸 추천합니다. 연중무휴이고 평일은 자정까지 합니다(2026.08 기준).
 tags: [서울, 종로, 공평동, 종각, 꼼장어, 소금구이, 양념구이, 술집, 심야]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 lat: 37.5687784

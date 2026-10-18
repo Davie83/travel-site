@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-27
+updated: 2026-10-18
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg
-excerpt: ワラビと牛肉（チャドルバギ）をのせたパスタです。韓国の食材を洋食に組み替えた味で、ほかではなかなか食べられません。ソウル駅前グランドセントラル1階、午後にブレイクタイムがあります。
+excerpt: ソウル中区、ソウル駅前グランドセントラル1階の洋食店、シンポティクシ ソウル駅店。看板はワラビとチャドルバギをのせたパスタ（23,500ウォン、2026年8月時点）で、韓国食材を洋食に組み替えた味です。午後3〜5時はブレイクタイムです。
 tags: [ソウル, 明洞, 南大門, ソウル駅, パスタ, 洋食, フュージョン, ワラビ, チャドルバギ, ワイン, ステーキ, リゾット]
 map: https://www.google.com/maps/search/?api=1&query=%EC%8B%AC%ED%8D%BC%ED%8B%B0%EC%BF%A0%EC%8B%9C+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90
 lat: 37.5578577

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-25
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-butanchu.jpg
-excerpt: 면 종류와 육수 농도를 취향대로 고를 수 있는 일본식 돈코츠 라멘집입니다. 엄청난 맛은 아니지만 이따금 땡기는 구석이 있습니다. 저는 토코 톤코츠에 치지레멘으로 먹습니다. 교자세트로 하면 한 끼가 든든합니다.
+excerpt: 서울 마포 홍대의 일본식 돈코츠 라멘집 부탄츄 홍대본점입니다. 면 종류와 육수 농도를 취향대로 고를 수 있고, 돈코츠 육수는 맵지 않습니다. 오전 11시 30분부터 오후 10시까지 정기휴무 없이 합니다(2026.08 기준).
 tags: [서울, 홍대, 마포, 돈코츠, 라멘, 일식, 교자]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%83%84%EC%B8%84+%ED%99%8D%EB%8C%80%EB%B3%B8%EC%A0%90
 lat: 37.5563576

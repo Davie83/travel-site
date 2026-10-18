@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg
-excerpt: 益善洞の韓屋路地にあるスフレパンケーキのカフェ。味だけで見れば普通で、値段も安くはありません。売っているのは空間です。何を目的に行くか決めてから行くと満足度が変わります。
+excerpt: ソウル鍾路・益善洞の韓屋通り近くにあるスフレパンケーキのカフェ、トンベク洋菓店。注文を受けてから焼くので待ち時間があります（2026年8月時点）。味だけで見れば普通で値段も安くありませんが、売っているのは空間です。何を目的に行くか決めてから行くと満足度が変わります。
 tags: [ソウル, 鍾路, 益善洞, 韓屋, スフレパンケーキ, カフェ, デザート]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91%EA%B3%BC%EC%A0%90+%EC%A2%85%EB%A1%9C%EA%B5%AC
 info:

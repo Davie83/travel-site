@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-27
+updated: 2026-10-18
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg
-excerpt: 把蕨菜和牛胸肉放在義大利麵上的店。用韓國食材重新組合的西餐，別處很難吃到。就在首爾站對面的 Grand Central 一樓，下午有休息時間。
+excerpt: 位在首爾中區、首爾站對面 Grand Central 一樓的西餐廳 SZIMPATIKUS 首爾站店。招牌是蕨菜牛胸肉義大利麵（23,500韓元，截至2026年8月），把韓國食材重新組合成西餐。下午3點到5點有休息時間。
 tags: [首爾, 明洞, 南大門, 首爾站, 義大利麵, 西餐, 融合菜, 蕨菜, 牛胸肉, 葡萄酒, 牛排, 燉飯]
 map: https://www.google.com/maps/search/?api=1&query=%EC%8B%AC%ED%8D%BC%ED%8B%B0%EC%BF%A0%EC%8B%9C+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90
 lat: 37.5578577

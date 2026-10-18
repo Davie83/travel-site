@@ -4,9 +4,10 @@ cat: food
 region: chungcheong
 area: daejeon
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg
-excerpt: 콩국수는 집마다 국물 농도가 다릅니다. 여기는 진한 쪽이 아니라 연한 쪽입니다. 그래서 김치가 중요합니다.
+excerpt: 대전 서구 도마동의 콩국수집 대성콩국수입니다. 국물은 진한 쪽이 아니라 연한 쪽이라 간을 김치로 맞추게 되고, 점심·저녁에는 대체로 대기가 있습니다. 오전 11시 30분부터 오후 8시 30분까지 합니다(2026.08 기준).
 tags: [대전, 서구, 도마동, 콩국수, 국수, 여름]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%84%B1%EC%BD%A9%EA%B5%AD%EC%88%98+%EB%8C%80%EC%A0%84+%EB%8F%84%EB%A7%88%EB%8F%99
 lat: 36.3210511

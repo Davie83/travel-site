@@ -4,9 +4,10 @@ cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg
-excerpt: 出てきた瞬間は豚の臭みが立ちそうな見た目。実際はほとんどありませんでした。血と木の実を合わせたスンデで、後味は意外なほどすっきり。朝7時から開いています。
+excerpt: 全羅北道・扶安郡行安面のピスンデ（血のスンデ）の店、扶安 ハルメピスンデ。見た目は豚の臭みが立ちそうですが、実際はほとんどなく、血と木の実を合わせたすっきりしたスンデです。朝7時から開いています。
 tags: [全羅, 扶安, ピスンデ, スンデ, 朝食, 大釜]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%A0%EB%A7%A4%ED%94%BC%EC%88%9C%EB%8C%80+%EB%B6%80%EC%95%88%EA%B5%B0
 info:

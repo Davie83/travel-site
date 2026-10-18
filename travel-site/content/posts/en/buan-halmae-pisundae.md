@@ -4,9 +4,10 @@ cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg
-excerpt: It arrives looking like it will taste strongly of pork offal. It doesn't. Blood sausage cut with chopped nuts, in a broth simmered in a cauldron. Open from 7 in the morning.
+excerpt: Halmae Pisundae is a blood sausage restaurant in Haengan-myeon, Buan, North Jeolla. It looks like it will taste strongly of pork offal but barely does; it is blood sausage cut with chopped nuts, in a broth simmered in a cauldron. Open from 7 in the morning.
 tags: [Jeolla, Buan, pisundae, blood sausage, sundae, breakfast, cauldron]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%A0%EB%A7%A4%ED%94%BC%EC%88%9C%EB%8C%80+%EB%B6%80%EC%95%88%EA%B5%B0
 info:

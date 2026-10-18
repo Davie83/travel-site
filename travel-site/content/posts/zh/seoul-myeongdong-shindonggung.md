@@ -1,12 +1,13 @@
 ---
-title: 明洞24小時炭烤豬脊骨 — 兩個人點小份就夠
+title: 신동궁（Shindonggung） 明洞 — 24小時炭烤豬脊骨，兩個人點小份就夠
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg
-excerpt: 開在明洞正中心，24 小時營業。兩個人點小份足夠吃飽，辣度大概和馬鈴薯湯差不多，可以外帶帶走。
+excerpt: 位在首爾明洞明洞9街的炭烤豬脊骨店 신동궁（Shindonggung），24小時全年無休，兩個人點小份就夠。辣度中等，和馬鈴薯豬骨湯差不多，也可以外帶。
 tags: [首爾, 明洞, 乙支路, 豬脊骨, 馬鈴薯湯, 24小時, 深夜, 外帶]
 map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:

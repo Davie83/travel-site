@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg
-excerpt: Vietnamese-run pho with a genuinely deep clear broth — Korean diners compare it to gomtang, and they're right. Han River Park is directly in front, so lunch and a riverside walk are one trip.
+excerpt: Pho Ong Nam Dangsan is a Vietnamese-run pho restaurant near Dangsan Station in Yeongdeungpo, Seoul. The clear broth is genuinely deep, and Han River Park is directly in front, so lunch and a riverside walk are one trip.
 tags: [Seoul, Dangsan, Yeongdeungpo, Vietnamese, pho, Han River Park, family run]
 map: https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%98%B9%EB%82%A8+%EB%8B%B9%EC%82%B0%EC%A0%90
 info:

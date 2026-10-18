@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-21
-updated: 2026-10-15
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
-excerpt: 想吃老派的平壤冷麵，這家很值得。綠豆煎餅用肉油煎，香得很實在。CP 值高 — 但店在市場裡的二樓，很容易走過去。
+excerpt: 位在首爾中區南大門市場二樓的平壤冷麵店 부원면옥（Buwon Myeonok）。能吃到老派的平壤冷麵，用肉油煎的綠豆煎餅很香，CP值高。入口容易走過，晚上8點打烊（截至2026年8月）。
 tags: [首爾, 中區, 南大門市場, 會賢, 平壤冷麵, 冷麵, 綠豆煎餅]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 info:

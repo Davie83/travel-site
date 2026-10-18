@@ -1,12 +1,13 @@
 ---
-title: 明洞の24時間ポークリブ炭火焼き — 2人なら「小」で十分
+title: シンドングン 明洞店 — 24時間営業のポークリブ炭火焼き、2人なら「小」で十分
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg
-excerpt: 明洞のど真ん中で24時間営業。小サイズで大人2人が満腹になります。辛さはカムジャタンくらい、テイクアウトも可能です。
+excerpt: ソウル明洞、明洞9キルにある骨付き豚の炭火焼きの店シンドングン。24時間・年中無休で、2人なら「小」サイズで十分です。辛さは中くらいでカムジャタン並み、テイクアウトもできます。
 tags: [ソウル, 明洞, 乙支路, ポークリブ, カムジャタン, 24時間, 深夜, テイクアウト]
 map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:

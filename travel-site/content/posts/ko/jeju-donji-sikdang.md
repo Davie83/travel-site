@@ -4,9 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg
-excerpt: 모슬포항 근처 회 전문점. 한치회덮밥이 목적이라면 여름에 가야 합니다. 상추에 싸 먹는 방식이 이 집의 핵심이고, 반찬까지 신선했습니다.
+excerpt: 제주 서귀포 대정읍 모슬포항 인근의 회 전문점 돈지식당입니다. 한치회덮밥은 여름 한정이라 여름에 가야 하고, 상추에 싸 먹는 방식이 이 집의 핵심이며 반찬까지 신선했습니다. 오후 9시까지 합니다(2026.08 기준).
 tags: [제주, 서귀포, 모슬포, 돈지식당, 한치, 회덮밥, 물회, 방어, 제철]
 map: https://www.google.com/maps/place/?q=place_id:ChIJ80k9j_BpDDUR5td5c3kt3LU
 lat: 33.2187099

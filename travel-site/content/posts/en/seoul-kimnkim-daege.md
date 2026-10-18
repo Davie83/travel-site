@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🦀
 thumb: assets/img/seoul-kimnkim-daege.jpg
-excerpt: Order snow crab or king crab and a full course follows — porridge, salad, mushroom sweet-and-sour, corn cheese, sashimi, fried prawns, grilled abalone. For two, 1.5–2kg of crab is plenty. Private rooms, and a 20th-anniversary promotion is currently cutting the price.
+excerpt: Kim & Kim Snow Crab is a snow crab restaurant in Seogyo-dong near Hongdae, Mapo, Seoul. Order snow crab or king crab and a full course follows: porridge, salad, mushroom sweet-and-sour, corn cheese, sashimi, fried prawns and grilled abalone. For two, 1.5–2kg of crab is plenty. Private rooms, and booking is possible through Naver.
 tags: [Seoul, Hongdae, Mapo, snow crab, king crab, course meal, private room, seafood]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B9%80%EC%95%A4%EA%B9%80%EB%8C%80%EA%B2%8C%EC%A0%84%EB%AC%B8%EC%A0%90+%ED%99%8D%EB%8C%80
 info:

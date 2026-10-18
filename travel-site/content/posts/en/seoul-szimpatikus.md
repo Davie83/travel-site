@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-27
+updated: 2026-10-18
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg
-excerpt: Pasta topped with bracken fern and seared beef brisket. Korean ingredients rebuilt as Western food, which is hard to find elsewhere. Ground floor of Grand Central, right outside Seoul Station, with an afternoon break.
+excerpt: Szimpatikus Seoul Station is a Western restaurant on the ground floor of Grand Central, right outside Seoul Station in Jung-gu, Seoul. The signature is bracken and brisket pasta (23,500 KRW as of Aug 2026), Korean ingredients rebuilt as Western food. There is an afternoon break from 3 to 5pm.
 tags: [Seoul, Myeongdong, Namdaemun, Seoul Station, pasta, Western, fusion, bracken fern, beef brisket, wine, steak, risotto]
 map: https://www.google.com/maps/search/?api=1&query=%EC%8B%AC%ED%8D%BC%ED%8B%B0%EC%BF%A0%EC%8B%9C+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90
 lat: 37.5578577

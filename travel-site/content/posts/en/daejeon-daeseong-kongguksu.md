@@ -4,9 +4,10 @@ cat: food
 region: chungcheong
 area: daejeon
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg
-excerpt: Cold soy-milk noodles vary enormously from shop to shop. This one runs thin rather than thick — which is exactly why the kimchi is doing half the work.
+excerpt: Daeseong Kongguksu is a cold soy-milk noodle shop in Doma-dong, Seo-gu, Daejeon. The broth runs thin rather than thick, which is why the kimchi does half the work, and there is usually a queue at lunch and dinner. Open 11:30am to 8:30pm (as of Aug 2026).
 tags: [Daejeon, Seo-gu, kongguksu, cold noodles, soy milk, summer]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%84%B1%EC%BD%A9%EA%B5%AD%EC%88%98+%EB%8C%80%EC%A0%84+%EB%8F%84%EB%A7%88%EB%8F%99
 info:

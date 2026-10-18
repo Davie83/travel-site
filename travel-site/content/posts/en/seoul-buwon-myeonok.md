@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
-excerpt: If you want the old, restrained style of Pyongyang cold noodles, this delivers it. The mung bean pancake is fried in beef fat and tastes wonderfully nutty. Great value — but it's on the second floor inside the market, which is easy to walk past.
+excerpt: Buwon Myeonok is a Pyongyang cold noodle shop on the second floor inside Namdaemun Market in Jung-gu, Seoul. It delivers the old, restrained style of Pyongyang naengmyeon, the mung bean pancake fried in beef fat is wonderfully nutty, and it is great value. The entrance is easy to miss, and it closes at 8pm (as of Aug 2026).
 tags: [Seoul, Jung-gu, Namdaemun Market, Hoehyeon, Pyongyang naengmyeon, cold noodles, bindaetteok]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%9B%90%EB%A9%B4%EC%98%A5+%EB%82%A8%EB%8C%80%EB%AC%B8%EC%8B%9C%EC%9E%A54%EA%B8%B8
 info:

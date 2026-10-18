@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
-excerpt: This is what Koreans reach for when they want soju. There is no fishy smell — what is unfamiliar is the springy, chewy texture. I prefer the salt-grilled version; the spicy one is well liked too. Two minutes from Jonggak station, open until midnight.
+excerpt: Gongpyeongdong Kkomjangeo's No. 1 direct-run shop is a grilled hagfish restaurant two minutes from Jonggak Station in Jongno, Seoul. There is no fishy smell; what is unfamiliar is the springy, chewy texture, so start with the salt-grilled version, which is not spicy at all. Open every day, until midnight on weekdays (as of Aug 2026).
 tags: [Seoul, Jongno, Gongpyeongdong, Jonggak, hagfish, kkomjangeo, grilled, soju, late night]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 info:

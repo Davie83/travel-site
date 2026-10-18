@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-18
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg
-excerpt: 手工餃子配三種湯。想吃爽辣的選「酒湯」，想喝清爽牛骨湯的選「年糕湯」。紅湯的那碗看著兇，其實一點都不辣。兩個人以上，加一份韭菜煎餅或綠豆煎餅，配一壺馬格利酒最合適。
+excerpt: 位在首爾汝矣島的手工餃子湯店 진진만두국（Jinjin Mandu-guk），汝矣島站和國會議事堂站附近各有一家分店。手工餃子配「酒湯」、「年糕湯」和紅色的辣餃子湯三種湯頭，紅湯看著兇，其實不太辣。
 tags: [首爾, 汝矣島, 餃子, 餃子湯, 煎餅, 馬格利, 韓式]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A7%84%EB%A7%8C%EB%91%90%EA%B5%AD+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

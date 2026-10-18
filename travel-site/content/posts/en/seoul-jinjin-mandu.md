@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg
-excerpt: Hand-folded dumplings served in three different broths. Want a sharp, punchy one? The sulguk. Want clean ox-bone broth? The tteokguk. The red one looks fierce but barely registers as spicy. With two or more people, add a chive or mung bean pancake and a bottle of makgeolli.
+excerpt: Jinjin Mandu-guk is a hand-folded dumpling soup shop in Yeouido, Seoul, with two branches near Yeouido and National Assembly stations. The dumplings come in three broths — sulguk, tteokguk and the red eolkeun mandu-guk, which looks fierce but barely registers as spicy.
 tags: [Seoul, Yeouido, mandu, dumplings, dumpling soup, jeon, makgeolli, Korean pancake]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A7%84%EB%A7%8C%EB%91%90%EA%B5%AD+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

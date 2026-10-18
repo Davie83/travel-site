@@ -4,11 +4,12 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🐟
 thumb: assets/img/seoul-hongbak-agujjim.jpg
 famous: true
 pick: true
-excerpt: 아귀 수육이라고 하면 이 집이 떠오릅니다. 싱싱한 아귀를 정말 잘 삶고, 아귀간의 풍미가 일품입니다. 매콤한 찜을 먹겠다고 다짐하고 가도 결국 수육을 시킵니다.
+excerpt: 서울 마포 공덕역 근처 지하에 있는 아구수육 전문점 홍박아구찜입니다. 아구수육(소 60,000원, 2026.08 기준)을 정말 잘 삶고 아귀간의 풍미가 일품이라, 매콤한 찜을 먹겠다고 가도 결국 수육을 시키게 됩니다. 일요일은 쉽니다.
 tags: [서울, 마포, 공덕, 아귀, 아구찜, 아구수육, 아귀간, 해산물, 지하]
 map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84%EA%B5%AC%EC%B0%9C+%EA%B3%B5%EB%8D%95
 lat: 37.5468483

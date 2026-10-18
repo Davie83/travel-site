@@ -4,9 +4,10 @@ cat: food
 region: chungcheong
 area: daejeon
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg
-excerpt: コングクス（豆乳の冷麺）は店ごとに濃度がまるで違います。ここは濃いほうではなく薄いほう。だからこそキムチが効いてきます。
+excerpt: 大田・西区道馬洞にあるコングクス（豆乳冷麺）の店、大田 テソンコングクス。スープは濃いほうではなく薄いほうなので味はキムチで整え、昼と夜は待ちがあるのが普通です。11:30〜20:30営業（2026年8月時点）。
 tags: [大田, 西区, コングクス, 冷麺, 豆乳, 夏]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%84%B1%EC%BD%A9%EA%B5%AD%EC%88%98+%EB%8C%80%EC%A0%84+%EB%8F%84%EB%A7%88%EB%8F%99
 info:

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
-excerpt: 焼酎が飲みたくなった日に思い出すつまみです。臭みはなく、慣れないのはぷりぷりした食感のほう。私は塩焼きが好みで、たれ焼きも評判がいいです。鍾閣駅から徒歩2分、深夜0時まで。
+excerpt: ソウル鍾路、鍾閣駅から徒歩2分のコムジャンオ（ヌタウナギ）の店、公平洞コムジャンオ 直営1号店。臭みはなく、慣れないのはぷりぷりした食感のほう。まず辛くない塩焼きがおすすめです。年中無休で、平日は深夜0時までです（2026年8月時点）。
 tags: [ソウル, 鍾路, 公平洞, 鍾閣, ヌタウナギ, コムジャンオ, 塩焼き, 居酒屋, 深夜]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 info:

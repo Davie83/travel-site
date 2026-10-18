@@ -4,9 +4,10 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg
-excerpt: "「五日市場」不是開五天，也不是每月 5 號開。只有日期尾數是 2 和 7 的那幾天才有。全韓規模最大的五日市集，但日子不對，你看到的就是一個空停車場。"
+excerpt: 位在濟州市五日市場西路的濟州民俗五日市場，只在日期尾數是2和7的日子（2、7、12、17、22、27日）開市。約有1,000個攤位，是全韓規模最大的五日市集，非市集日不營業，日子不對就會撲空。
 tags: [濟州, 濟州市, 五日市場, 傳統市場, 海鮮餅, 馬格利, 市集日]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%AF%BC%EC%86%8D%EC%98%A4%EC%9D%BC%EC%8B%9C%EC%9E%A5
 info:

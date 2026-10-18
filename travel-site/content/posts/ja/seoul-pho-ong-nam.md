@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg
-excerpt: ベトナムの方が営むフォー。澄んでいるのに深いスープで、韓国の客は「澄んだコムタンのようだ」と言います。すぐ前が漢江公園につながっているので、食後の散歩まで一続きにできます。
+excerpt: ソウル永登浦、堂山駅近くのベトナムの方が営むフォーの店、フォーオンナム堂山店。澄んでいるのに深いスープで、すぐ前が漢江公園につながっているので、食後の散歩まで一続きにできます。
 tags: [ソウル, 堂山, 永登浦, ベトナム料理, フォー, 漢江公園, 現地の方が営む店]
 map: https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%98%B9%EB%82%A8+%EB%8B%B9%EC%82%B0%EC%A0%90
 info:

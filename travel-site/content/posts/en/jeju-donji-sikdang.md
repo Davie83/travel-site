@@ -4,9 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg
-excerpt: A seafood restaurant near Moseulpo Harbour. If you came for the raw squid rice bowl, you have to come in summer. Wrapping it in lettuce is the whole point here.
+excerpt: Donji Sikdang is a raw-fish restaurant near Moseulpo Harbour in Daejeong-eup, Seogwipo, Jeju. The raw squid rice bowl is summer-only, and wrapping it in lettuce is the whole point; even the side dishes were fresh. Open until 9pm (as of Aug 2026).
 tags: [Jeju, Seogwipo, Moseulpo, hanchi, squid, hoedeopbap, mulhoe, yellowtail, seasonal]
 map: https://www.google.com/maps/place/?q=place_id:ChIJ80k9j_BpDDUR5td5c3kt3LU
 info:

@@ -1,12 +1,13 @@
 ---
-title: 大田 大成豆漿涼麵 — 湯偏稀，靠泡菜來定味
+title: 大田 大成豆漿涼麵（대성콩국수） — 湯偏稀，靠泡菜來定味
 cat: food
 region: chungcheong
 area: daejeon
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg
-excerpt: 豆漿涼麵每家店的濃度差別很大。這家不是濃的那一派，是稀的那一派。所以泡菜在這裡挑了一半的擔子。
+excerpt: 位在大田西區道馬洞的豆漿涼麵店 大田 大成豆漿涼麵。湯偏稀不偏濃，所以靠泡菜來定味，午餐和晚餐時段通常要排隊。營業時間11:30～20:30（截至2026年8月）。
 tags: [大田, 西區, 豆漿麵, 콩국수, 涼麵, 夏天]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%84%B1%EC%BD%A9%EA%B5%AD%EC%88%98+%EB%8C%80%EC%A0%84+%EB%8F%84%EB%A7%88%EB%8F%99
 info:

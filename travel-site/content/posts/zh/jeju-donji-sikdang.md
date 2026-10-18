@@ -1,12 +1,13 @@
 ---
-title: 濟州 敦地食堂 — 魷魚生魚片蓋飯只有夏天才有
+title: 濟州 敦地食堂（돈지식당） — 魷魚生魚片蓋飯只有夏天才有
 cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg
-excerpt: 摹瑟浦港附近的生魚片館子。衝著魷魚生魚片蓋飯去的話，必須夏天來。用生菜包著吃，才是這家的正確打開方式。
+excerpt: 位在濟州西歸浦大靜邑、摹瑟浦港附近的生魚片餐廳 敦地食堂。魷魚生魚片蓋飯只有夏天才有，用生菜包著吃是這家的重點，連小菜都很新鮮。營業到晚上9點（截至2026年8月）。
 tags: [濟州, 西歸浦, 摹瑟浦, 魷魚, 生魚片蓋飯, 冷湯生魚片, 鰤魚, 當季]
 map: https://www.google.com/maps/place/?q=place_id:ChIJ80k9j_BpDDUR5td5c3kt3LU
 info:

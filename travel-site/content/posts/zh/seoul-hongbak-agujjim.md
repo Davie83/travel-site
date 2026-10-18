@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-23
-updated: 2026-10-15
+updated: 2026-10-18
 emoji: 🐟
 thumb: assets/img/seoul-hongbak-agujjim.jpg
-excerpt: 說到清煮鮟鱇魚，我第一個想到這家。新鮮的魚煮得極好，而真正的主角是魚肝。每次都打算點辣味蒸煮，結果每次都點了清煮。
+excerpt: 位在首爾麻浦孔德站附近地下一樓的鮟鱇魚料理店 홍박아구찜（Hongbak Agujjim）。清煮鮟鱇魚（小份60,000韓元，截至2026年8月）煮得極好，魚肝是真正的主角；每次打算點辣味蒸煮，結果都點了清煮。週日公休。
 tags: [首爾, 麻浦, 孔德, 鮟鱇魚, 鮟鱇, 魚肝, 海鮮, 地下]
 map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84%EA%B5%AC%EC%B0%9C+%EA%B3%B5%EB%8D%95
 info:

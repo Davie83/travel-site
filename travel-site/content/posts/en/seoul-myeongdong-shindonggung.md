@@ -1,12 +1,13 @@
 ---
-title: Myeongdong's 24-Hour Grilled Pork Bones — What to Order for Two
+title: Shindonggung Myeongdong — 24-Hour Grilled Pork Bones, What to Order for Two
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg
-excerpt: Open around the clock in the middle of Myeongdong. The small size feeds two adults comfortably, the heat is mild by Korean standards, and they do takeout.
+excerpt: Shindonggung is a grilled pork bone restaurant on Myeongdong 9-gil in Seoul, open 24 hours a day, every day. The small size feeds two adults, the heat is medium and about gamjatang level, and takeout is available.
 tags: [Seoul, Myeongdong, Euljiro, pork bones, gamjatang, 24 hours, late night, takeout]
 map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:

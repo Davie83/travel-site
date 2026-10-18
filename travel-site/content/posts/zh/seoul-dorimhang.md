@@ -1,12 +1,13 @@
 ---
-title: 道林港 永登浦店 — 熟成生魚片拼盤還有海膽，晚上不早點去坐不下
+title: 道林港（도림항） 永登浦店 — 熟成生魚片拼盤還有海膽，晚上不早點去坐不下
 cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-26
+updated: 2026-10-18
 emoji: 🍣
 thumb: assets/img/seoul-dorimhang.jpg
-excerpt: 像無菜單料理一樣，各種生魚片加上平時難得吃到的海膽和各類海鮮一起端上來。配有白飯和海苔，可以自己包成壽司。想要廣泛嚐一遍而不是專攻一樣時很合適。晚上要早點去。
+excerpt: 位在首爾永登浦永中路的熟成生魚片店 道林港 永登浦店。今日熟成生魚片拼盤（小份39,000韓元，截至2026年8月）附海膽和各類海鮮，還能用海苔自己包成壽司。下午5點營業到午夜，週日公休，晚上要早點去。
 tags: [首爾, 永登浦, 熟成生魚片, 生魚片拼盤, 海膽, 海鮮, 居酒屋, 排隊]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD+%EC%98%81%EB%93%B1%ED%8F%AC%EC%A0%90
 lat: 37.5194526

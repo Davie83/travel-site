@@ -4,10 +4,11 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-27
+updated: 2026-10-18
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg
 pick: true
-excerpt: 고사리와 차돌박이를 파스타에 올린 집입니다. 한국 재료를 양식으로 풀어낸 맛이라 다른 데서는 먹기 어렵습니다. 서울역 바로 앞 그랜드센트럴 1층이고, 오후에 브레이크 타임이 있습니다.
+excerpt: 서울 중구 세종대로 서울역 앞 그랜드센트럴 1층의 양식당 심퍼티쿠시 서울역점입니다. 고사리와 차돌박이를 올린 차돌 고사리 파스타(23,500원, 2026.08 기준)가 대표 메뉴로, 한국 재료를 양식으로 풀어낸 맛입니다. 오후 3~5시에 브레이크 타임이 있습니다.
 tags: [서울, 명동, 남대문, 서울역, 파스타, 양식, 퓨전, 고사리, 차돌박이, 와인, 스테이크, 리조또]
 map: https://www.google.com/maps/search/?api=1&query=%EC%8B%AC%ED%8D%BC%ED%8B%B0%EC%BF%A0%EC%8B%9C+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90
 lat: 37.5578577

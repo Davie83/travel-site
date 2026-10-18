@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg
-excerpt: A soufflé pancake café in a restored hanok in Ikseon-dong. On taste alone it's fine, not remarkable, and not cheap. The space is the point — decide what you came for and you'll enjoy it.
+excerpt: Dongbaek Yanggwajeom is a soufflé pancake café on the hanok street in Ikseon-dong, Jongno, Seoul. Pancakes are baked to order, so expect a wait (as of Aug 2026). On taste alone it's fine, not remarkable, and not cheap; the space is the point, so decide what you came for.
 tags: [Seoul, Jongno, Ikseon-dong, hanok, soufflé pancake, café, dessert]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91%EA%B3%BC%EC%A0%90+%EC%A2%85%EB%A1%9C%EA%B5%AC
 info:

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🐟
 thumb: assets/img/seoul-hongbak-agujjim.jpg
-excerpt: When I think of boiled monkfish, I think of this place. They poach very fresh fish beautifully, and the liver is the real reason to go. I always plan to order the spicy version and always end up with the boiled one.
+excerpt: Hongbak Agujjim is a monkfish restaurant in a basement near Gongdeok Station in Mapo, Seoul. The boiled monkfish (small, 60,000 KRW as of Aug 2026) is poached beautifully and the liver is the real reason to go; I always plan the spicy braised version and end up with the boiled one. Closed on Sundays.
 tags: [Seoul, Mapo, Gongdeok, monkfish, agujjim, monkfish liver, seafood, basement]
 map: https://www.google.com/maps/search/?api=1&query=%ED%99%8D%EB%B0%95%EC%95%84%EA%B5%AC%EC%B0%9C+%EA%B3%B5%EB%8D%95
 info:

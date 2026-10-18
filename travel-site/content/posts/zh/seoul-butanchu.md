@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-25
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-butanchu.jpg
-excerpt: 一家可以按口味選麵條種類和湯頭濃度的日式豚骨拉麵店。說不上驚豔，但偶爾就是會想起它。我一般點濃版豚骨配捲麵。加一份餃子套餐，一頓就很扎實。
+excerpt: 位在首爾麻浦弘大的日式豚骨拉麵店 豚人（Butanchu）弘大本店。可以依口味選麵條種類和湯頭濃度，豚骨湯頭不辣。11:30～22:00營業，沒有固定公休日（截至2026年8月）。
 tags: [首爾, 弘大, 麻浦, 豚骨, 拉麵, 日本料理, 餃子]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%83%84%EC%B8%84+%ED%99%8D%EB%8C%80%EB%B3%B8%EC%A0%90
 lat: 37.5563576

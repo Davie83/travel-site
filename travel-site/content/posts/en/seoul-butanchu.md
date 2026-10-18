@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-25
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-butanchu.jpg
-excerpt: A Japanese tonkotsu ramen shop where you choose the noodle type and how rich the broth is. It is not spectacular, but something about it keeps pulling me back. I go for toko tonkotsu with curly noodles. The gyoza set makes it a full meal.
+excerpt: Butanchu Hongdae is a Japanese-style tonkotsu ramen shop in Mapo, Seoul, where you choose the noodle type and how rich the broth is; the tonkotsu broth is not spicy. Open 11:30am to 10pm with no regular closing day (as of Aug 2026).
 tags: [Seoul, Hongdae, Mapo, tonkotsu, ramen, Japanese food, gyoza]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%83%84%EC%B8%84+%ED%99%8D%EB%8C%80%EB%B3%B8%EC%A0%90
 lat: 37.5563576

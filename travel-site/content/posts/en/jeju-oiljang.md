@@ -4,9 +4,10 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg
-excerpt: A "five-day market" doesn't mean it runs for five days. It opens only on dates ending in 2 and 7. Korea's largest market of its kind — but turn up on the wrong day and you'll find an empty car park.
+excerpt: Jeju Folk Five-Day Market on Oiljangseo-gil in Jeju City opens only on dates ending in 2 and 7 (the 2nd, 7th, 12th, 17th, 22nd and 27th). It is Korea's largest market of its kind, with about 1,000 stalls, but it is closed on other days, so check the date first.
 tags: [Jeju, Jeju City, five-day market, traditional market, pajeon, makgeolli, market day]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%EB%AF%BC%EC%86%8D%EC%98%A4%EC%9D%BC%EC%8B%9C%EC%9E%A5
 info:

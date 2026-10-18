@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg
-excerpt: 手作り餃子を3種のスープで出します。キリッとした辛さならスルグク、澄んだ牛骨ならトックク。赤いオルクンマンドゥグクは色ほど辛くありません。二人以上なら、ニラチヂミか緑豆チヂミにマッコリを合わせるのが正解です。
+excerpt: ソウル汝矣島の手作り餃子スープの店、チンジンマンドゥグク。汝矣島駅と国会議事堂駅の近くに2店舗あります。手作り餃子をスルグク、トックク、赤いオルクンマンドゥグクの3種のスープで出し、赤いものは色ほど辛くありません。
 tags: [ソウル, 汝矣島, 餃子, マンドゥ, 餃子スープ, チヂミ, マッコリ, オボクチェンバン]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A7%84%EB%A7%8C%EB%91%90%EA%B5%AD+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-25
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-butanchu.jpg
-excerpt: 麺の種類とスープの濃さを好みで選べる日本式の豚骨ラーメン店です。すごい味というわけではないのに、ときどき食べたくなる何かがあります。私は「トコ豚骨」に縮れ麺で食べます。餃子セットにすれば一食しっかりです。
+excerpt: ソウル麻浦・弘大にある日本式豚骨ラーメンの店、豚人（ブタンチュ）弘大本店。麺の種類とスープの濃さを好みで選べ、豚骨スープは辛くありません。11:30〜22:00、定休日なしです（2026年8月時点）。
 tags: [ソウル, 弘大, 麻浦, 豚骨, ラーメン, 日本料理, 餃子]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B6%80%ED%83%84%EC%B8%84+%ED%99%8D%EB%8C%80%EB%B3%B8%EC%A0%90
 lat: 37.5563576

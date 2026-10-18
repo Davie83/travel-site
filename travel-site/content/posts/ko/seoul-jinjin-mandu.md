@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg
-excerpt: 손만두를 국물 세 가지로 냅니다. 칼칼한 걸 원하면 술국, 깔끔한 사골이면 떡국. 얼큰만두국은 색만 붉고 실제로는 많이 맵지 않습니다. 둘 이상이면 부추전이나 녹두전에 막걸리를 곁들이는 게 제일 좋습니다.
+excerpt: 서울 여의도의 손만두국집 진진만두국입니다. 손만두를 술국·떡국·얼큰만두국 세 가지 국물로 내고, 얼큰만두국은 색만 붉고 실제로는 많이 맵지 않습니다. 여의도역 쪽 본점과 국회의사당역 쪽 국회점, 두 곳이 있습니다.
 tags: [서울, 여의도, 영등포, 만두, 만두국, 어복쟁반, 부추전, 막걸리]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A7%84%EB%A7%8C%EB%91%90%EA%B5%AD+%EC%97%AC%EC%9D%98%EB%8F%84
 lat: 37.5201519

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
-excerpt: 想喝燒酒的時候會想起的下酒菜。沒有腥味，陌生的是那種彈牙有嚼勁的口感。我偏愛鹽烤，辣醬烤的評價也很好。鐘閣站步行 2 分鐘，營業到午夜。
+excerpt: 位在首爾鍾路、鐘閣站步行2分鐘的盲鰻店 公平洞盲鰻 直營1號店。沒有腥味，陌生的是彈牙有嚼勁的口感，建議先點完全不辣的鹽烤。全年無休，平日營業到午夜（截至2026年8月）。
 tags: [首爾, 鐘路, 公平洞, 鐘閣, 盲鰻, 鹽烤, 辣醬烤, 酒館, 深夜]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 info:

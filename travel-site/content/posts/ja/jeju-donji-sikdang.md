@@ -4,9 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg
-excerpt: 摹瑟浦（モスルポ）港近くの刺身専門店。イカの刺身丼が目当てなら夏に行く必要があります。サンチュに包んで食べるのがこの店の要です。
+excerpt: 済州・西帰浦市大静邑、摹瑟浦港近くの刺身専門店、トンジ食堂。イカの刺身丼は夏だけで、サンチュに包んで食べるのがこの店の要、おかずまで新鮮でした。夜9時まで営業です（2026年8月時点）。
 tags: [済州, 西帰浦, 摹瑟浦, ハンチ, イカ, 刺身丼, ムルフェ, ブリ, 旬]
 map: https://www.google.com/maps/place/?q=place_id:ChIJ80k9j_BpDDUR5td5c3kt3LU
 info:

@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg
 excerpt: 位在首爾麻浦桃花洞的醬油蟹套餐店 瑞山花蟹（서산꽃게）。鹹度不重的生醃醬油蟹，配烤黃魚、蒸蛋、蟹湯和十來道小菜，一整桌上齊。真正的強項是這一桌，不是蟹肉本身。基本上必須預約。

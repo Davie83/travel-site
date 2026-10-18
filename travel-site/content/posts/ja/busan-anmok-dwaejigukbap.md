@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: gwangalli
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🍲
 thumb: assets/img/busan-anmok-dwaejigukbap.jpg
 excerpt: 釜山・広安里、南川洞の豚クッパ店、アンモク本店です。ミシュランガイドのビブグルマンに2年連続で選ばれています。濃いソルロンタンのようなスープに薄くスライスした肉がのり、臭みがないので豚クッパが初めての方でも食べられます。ご飯をスープに入れるかどうかは注文時に決めてください。

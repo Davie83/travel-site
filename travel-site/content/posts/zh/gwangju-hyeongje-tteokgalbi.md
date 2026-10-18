@@ -4,6 +4,7 @@ cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-28
+updated: 2026-10-15
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg
 excerpt: 光州松汀站和光山區廳之間「떡갈비巷」裡的一家。牛、豬떡갈비各點了一份。不像首爾那種壓得緊實、像漢堡排的做法，這裡一夾就鬆散化開。附一碗清骨湯，但其他小菜不如預期。

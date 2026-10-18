@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: gwangalli
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🍲
 thumb: assets/img/busan-anmok-dwaejigukbap.jpg
 famous: true

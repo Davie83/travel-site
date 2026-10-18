@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
 excerpt: Songjukjang is a Chinese restaurant on Mullae-ro in Yeongdeungpo, Seoul. Its sharp, properly hot jjamppong (11,000 KRW) with real savoury depth and the fried dumplings (9,500 KRW) are the draw (as of Aug 2026). If you don't handle heat well, it may beat you, and it is a short walk from Yeongdeungpo Station.

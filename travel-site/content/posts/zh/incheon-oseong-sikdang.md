@@ -4,6 +4,7 @@ cat: food
 region: gyeonggi
 area: incheon
 date: 2026-08-22
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg
 excerpt: 生的斑鰶用辣醬拌成一盤，再配生醃醬油蟹。店在仁川沿岸碼頭海洋中心二樓，是家老店。這條街上的店主菜幾乎一樣，差別在醬料和小菜。比起我常去多年的那家名店，這裡的醬料更合我口味。

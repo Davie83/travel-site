@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-09-30
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/seoul-jungang-haejang-yeouido.jpg
 excerpt: 汝矣島的牛腸鍋（곱창전골）專門店，解酒湯也相當好吃。望遠洞的青於藍走的是蔬菜高湯、主打性價比的路線，중앙해장則是牛腸本身和整體味道都更上一層樓的頂級版本。不過價格跟青於藍比起來差不少。第一次在三成洞本店吃到就愛上了，沒想到汝矣島附近也開了分店，很開心。

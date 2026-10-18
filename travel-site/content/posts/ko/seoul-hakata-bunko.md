@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 famous: true

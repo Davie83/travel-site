@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: 位在首爾上水、弘大一帶的博多風豚骨拉麵店 하카타분코（Hakata Bunko）。配極細麵，壓入大量生蒜後，濃稠的豬骨湯會變成一碗解酒的拉麵。營業到凌晨 3 點，這才是這家店最大的優勢。

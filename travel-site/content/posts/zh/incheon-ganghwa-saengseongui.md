@@ -4,6 +4,7 @@ cat: food
 region: gyeonggi
 area: ganghwa
 date: 2026-08-31
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/incheon-ganghwa-saengseongui.jpg
 excerpt: 一進江華島就到的烤魚店。當作簡單午餐，定食價格不算便宜。不過吃完並不覺得可惜。好幾種魚用老闆的手藝、拿捏得剛剛好地用炭火烤出來，是很久沒吃到這麼好吃的烤魚。小菜雖然不華麗，但味道好。

@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: gangnam
 date: 2026-08-29
+updated: 2026-10-15
 emoji: 🐷
 thumb: assets/img/seoul-yeongdong-jokbal.jpg
 excerpt: 位在良才的豬腳店。目前為止在江南一帶吃過的豬腳裡，這家最好吃。隔了好一陣子再去，皮還是 Q、肉還是軟嫩，口感沒變。本店周邊有好幾家別館。如果夠近，會想不時去一趟。

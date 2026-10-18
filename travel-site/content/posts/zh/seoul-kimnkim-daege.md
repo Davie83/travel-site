@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
+updated: 2026-10-15
 emoji: 🦀
 thumb: assets/img/seoul-kimnkim-daege.jpg
 excerpt: 點雪蟹或帝王蟹，後面是一整套：粥、沙拉、香菇糖醋、起司玉米、生魚片、炸蝦、烤鮑魚。兩個人點 1.5～2 公斤雪蟹就夠。包廂多，現在還有 20 週年活動價。

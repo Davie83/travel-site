@@ -4,6 +4,7 @@ cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-09-20
+updated: 2026-10-15
 emoji: 🥩
 thumb: assets/img/jeonju-gyodong-seokgalbi.jpg
 excerpt: 在韓屋村散步散到肚子餓，就進了這家店。點了石烤排骨，結果端上桌的小菜多到用眼睛就能吃飽的程度。桌面五顏六色，吃得很撐也很開心，不過味道嘛……就普普通通，還算能吃。吃完出門，因為是在韓屋村裡，不管往哪走都有漂亮的散步小路，完全不用擔心接下來要去哪。

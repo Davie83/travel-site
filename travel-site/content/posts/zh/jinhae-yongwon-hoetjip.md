@@ -4,6 +4,7 @@ cat: food
 region: gyeongsang
 area: jinhae
 date: 2026-08-25
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/jinhae-yongwon-hoetjip.jpg
 excerpt: 我吃過最好的鮮鱈魚湯。魚肉軟嫩，尤其是魚白，濃郁綿密的程度連鮟鱇魚肝都比不上。預算允許的話，建議點鱈魚套餐，把生魚片、煎餅和湯一次吃齊。不過鮮鱈魚是冬季的魚。

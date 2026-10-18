@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-08-21
+updated: 2026-10-18
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
 excerpt: 서울 종로 돈의문, 서대문역 근처의 드립커피집 도조커피입니다. 스페셜티 원두 드립을 튤립잔에 담아 트레이째 내줍니다. 평소와 다른 커피를 마시고 싶을 때 좋지만, 넓지 않고 직장인 상권이라 혼자 조용히 있기는 어렵습니다.

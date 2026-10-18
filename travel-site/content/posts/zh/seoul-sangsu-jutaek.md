@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-09-22
+updated: 2026-10-15
 emoji: 🍶
 thumb: assets/img/seoul-sangsu-jutaek.jpg
 excerpt: 上水洞一棟老房子改的酒館，接近韓式居酒屋的氛圍。馬格利酒種類豐富，方便一次比較好幾種，下酒菜也橫跨好幾個類別。下酒菜味道不算特別驚艷，但配酒剛剛好。

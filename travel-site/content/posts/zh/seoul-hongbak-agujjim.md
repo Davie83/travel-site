@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-23
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/seoul-hongbak-agujjim.jpg
 excerpt: 說到清煮鮟鱇魚，我第一個想到這家。新鮮的魚煮得極好，而真正的主角是魚肝。每次都打算點辣味蒸煮，結果每次都點了清煮。

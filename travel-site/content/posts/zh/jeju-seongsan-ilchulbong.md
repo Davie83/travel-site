@@ -4,6 +4,7 @@ cat: travel
 region: jeju
 area: seongsan
 date: 2026-08-29
+updated: 2026-10-15
 emoji: 🌅
 thumb: assets/img/jeju-seongsan-ilchulbong.jpg
 excerpt: 春天一到，就會想起油菜花開時的濟州。城山日出峰正下方的광치기해변一帶，被認為是濟州最大的油菜花田。看滿開的油菜花，再短短爬一下這座從海裡升起的火山口，下山後喝的那杯咖啡，就是這條路線的收尾。

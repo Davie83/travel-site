@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-09-06
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/seoul-sansu-gapsan.jpg
 excerpt: 在乙支路開了很久的血腸湯老店。一碗血腸湯，配上血腸、豬頭肉、肝、肺、豬胃等部位分門別類擺盤的綜合水煮肉。店面不大，最近幾乎都要排隊。一推開門，店裡那股濃濃的豬肉、內臟味會先撲上來，不習慣的話可能覺得腥 —— 對我來說，那就是這家店的味道本身。

@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: aewol
 date: 2026-08-24
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/jeju-aewol-makguksu.jpg
 excerpt: 제주 애월 해안도로 앞의 메밀 막국수집 애월리순메밀막국수입니다. 들기름막국수(10,000원, 2026.08 기준)·물막국수·수육을 다 시켜봤고 전혀 맵지 않았습니다. 솔직히 서귀포 안덕면의 제주순메밀막국수가 들기름 풍미는 더 좋았지만, 못하는 집은 아닙니다.

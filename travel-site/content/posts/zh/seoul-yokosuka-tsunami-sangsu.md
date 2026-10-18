@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-09-11
+updated: 2026-10-15
 emoji: 🍣
 thumb: assets/img/seoul-yokosuka-tsunami-sangsu.jpg
 excerpt: 上水洞的熟成生魚片居酒屋。隨季節變化的「本日菜單」是招牌，用當天清晨市場進貨的當季鮮魚，熟成到帶有嚼勁才上桌。人氣很高，開店前就得排隊。

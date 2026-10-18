@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
 excerpt: 釜山東萊的河豚湯店 금수복국（Geumsu Bokguk）東萊店，早上8點到晚上10點營業（截至2026年8月）。是能用不嚇人的價格嚐到好幾種河豚料理的標準韓式河豚湯館子，河豚生拌和炸河豚意外不錯。

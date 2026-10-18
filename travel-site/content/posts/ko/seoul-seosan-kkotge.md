@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg
 excerpt: 서울 마포 도화동의 간장게장 정식집 서산꽃게입니다. 간이 짜지 않은 간장게장에 조기구이·전·계란찜·나물이 한 상으로 나오고, 꽃게살 양은 근처 유명한 집들보다 적습니다. 게장 전문점보다 "간장게장이 메인인 한정식"으로 보는 게 맞습니다. 예약 필수.

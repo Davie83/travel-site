@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: jejusi
 date: 2026-09-25
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/jeju-daechun-haejangguk.jpg
 excerpt: 在首爾不太吃解酒湯，奇怪的是一到濟州就會想吃。濟州有名的解酒湯店大概都吃過了。今天在대춘해장국點了內臟湯，比清湯更合我的口味。濟州式解酒湯一定要加滿滿蒜泥才是那個味道。

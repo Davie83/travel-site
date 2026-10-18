@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-08-21
+updated: 2026-10-18
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
 excerpt: 位在首爾鍾路敦義門、西大門站附近的手沖咖啡店 DOZO COFFEE 敦義門店。單一產地手沖，裝在鬱金香杯裡，連木托盤和一小壺一起端上來。想喝點跟平時不一樣的咖啡時很合適，不過店不大，周邊是辦公大樓區，平日不算安靜。

@@ -4,6 +4,7 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-29
+updated: 2026-10-15
 emoji: 🏖️
 thumb: assets/img/jeju-iho-tewoo.jpg
 excerpt: 油菜花開的時候，機場附近的梨湖테우海水浴場很適合順道停一下。海水浴場右邊稍微遠一點的地方有一片油菜花田。不大，但散步加喝杯咖啡剛剛好。順便看看梨湖테우的地標——紅色馬形燈塔。

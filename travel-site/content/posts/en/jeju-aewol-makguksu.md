@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: aewol
 date: 2026-08-24
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/jeju-aewol-makguksu.jpg
 excerpt: Aewolli Sun Memil Makguksu is a buckwheat noodle house right on the Aewol coastal road in Jeju. I ordered all three staples, perilla oil noodles (10,000 KRW as of Aug 2026), cold broth noodles and boiled pork, and none of it was spicy. Honestly, the perilla oil aroma suited me better at Jeju Sun Memil Makguksu in Seogwipo's Andeok-myeon, but this is not a weak kitchen.

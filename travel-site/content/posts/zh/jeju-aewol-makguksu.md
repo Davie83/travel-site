@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: aewol
 date: 2026-08-24
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/jeju-aewol-makguksu.jpg
 excerpt: 位於濟州涯月海岸公路旁的蕎麥麵店 애월리순메밀막국수（Aewolli Sun Memil Makguksu）。把紫蘇油拌麵（10,000韓元，截至2026年8月）、冷湯麵、白切肉全點了一遍，都不辣。說實話，紫蘇油的香氣我更喜歡西歸浦市安德面的제주순메밀막국수，不過這家絕不是做得差的店。

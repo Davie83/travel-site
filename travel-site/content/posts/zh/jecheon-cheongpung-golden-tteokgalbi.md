@@ -4,6 +4,7 @@ cat: food
 region: chungcheong
 area: chungbuk
 date: 2026-08-31
+updated: 2026-10-15
 emoji: 🍖
 thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg
 excerpt: 本來不知道堤川的떡갈비有名。在清風湖附近時，搜尋附近有什麼吃的才找到這家。人比想像中多。味道忠於一般떡갈비，小菜十幾樣熱熱鬧鬧地上，吃得很飽。與其專程跑一趟，不如附近有行程時順道來。

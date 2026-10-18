@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-09-27
+updated: 2026-10-15
 emoji: 🐖
 thumb: assets/img/seoul-hangang-kkeopdegi.jpg
 excerpt: 在望遠洞比較僻靜的巷弄裡，一家豬皮專門店。喜歡豬皮的話很值得專程去一趟，做得很不錯。大部分人是先吃生梅花肉，再接著吃豬皮，跟之前介紹過的麻浦鹽烤吃法很像。可能會需要排隊等候，先提醒一下。

@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg
 famous: true

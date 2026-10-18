@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-22
+updated: 2026-10-15
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg
 excerpt: 豬骨湯很清，沒有腥味，1 萬韓元以內能吃一頓。東萊一帶豬肉湯飯店密集，所以它不是「專程去」的店，但是一家扎實的店 —— 而且開到半夜 12 點。

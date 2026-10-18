@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg
 excerpt: Seosan Kkotge is a soy-marinated crab set-meal restaurant in Dohwa-dong, Mapo, Seoul. Raw blue crab cured in soy sauce, not over-salted, comes with grilled fish, steamed egg, crab stew and a dozen side dishes. The set is the strength here, not the crab meat itself. Reservation essentially required.

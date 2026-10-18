@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
 excerpt: ソウル・明洞駅の近く、南山のふもとの通りにある木覓山房 本店。たれではなくナムルで組み立てた、刺激が少なく淡白なバランスのいいビビンバで、韓国のビビンバをきちんと一度食べてみたい方に合います。本店は南山の上ではなくふもとの通りにあり、南山の上には別に南山タワー店があります。

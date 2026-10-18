@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-09-05
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/seoul-mapo-yangji-seolleongtang.jpg
 excerpt: 位在麻浦・孔德一帶，我去了很久的雪濃湯店。以前在對面신라스테이（Shilla Stay）後面，現在則像明洞餃子一樣，搬到現址開了間像樣的新店。剛開始去的時候都點大碗雪濃湯，肉給得很足，吃得很飽。這裡的泡菜連蔥泡菜都有，味道真的很好。最近則大多點牛膝軟骨湯，軟骨給得很大方。

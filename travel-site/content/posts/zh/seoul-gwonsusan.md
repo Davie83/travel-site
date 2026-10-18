@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-15
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg
 excerpt: 蔬菜給得很多的生魚片蓋飯，加六道免費小菜，其中一道是配塔塔醬的炸魚排。在物價高的汝矣島，這個午餐 CP 值很突出。有包廂，建議先訂位。

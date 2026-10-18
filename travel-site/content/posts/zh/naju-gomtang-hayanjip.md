@@ -4,6 +4,7 @@ cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: 位在全羅南道羅州市金城館路的羅州牛肉湯 하얀집（Hayanjip）本店，是羅州牛肉湯的代表性店家。湯清爽不膩，水煮牛肉很嫩。早上8點開門，也能用訂位App，但要有排隊的心理準備（截至2026年8月）。

@@ -4,6 +4,7 @@ cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-09-20
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/jeonju-waengi-gukbap.jpg
 excerpt: 全州以豆芽湯飯聞名，這是眾所皆知的事。而在這之中，這家店又特別不一樣 —— 老字號、名氣大到還開了分店。湯頭清爽，配上生雞蛋一起吃味道一絕，豆芽還能免費續加。每次到全州，第一站一定是這裡，已經成了我的固定行程。

@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: jejusi
 date: 2026-10-05
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/jeju-hamdeok-golmok.jpg
 excerpt: 這是一家起源於咸德海水浴場附近的解酒湯店。睽違許久再訪，發現已經蓋了漂亮的新建築，搬到了朝天。招牌是內臟湯，濃厚的湯頭搭配新鮮的內臟，用紫蘇葉包起來再配上鹽漬發酵魚醬一起吃，味道非常好。是一碗讓人想起美好舊時回憶的味道。不過要注意的是，這裡不能外帶，只能在店內食用。

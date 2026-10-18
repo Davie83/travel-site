@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-09-21
+updated: 2026-10-15
 emoji: 🍖
 thumb: assets/img/seoul-rokgalbi-hapjeong.jpg
 excerpt: 幾間分店比較下來，合井店的排骨骨頭上帶的肉最多。上桌前已經先烤過一輪，放到桌上烤爐稍微烤一下就能吃，這次吃的醬燒排骨本身不辣。想吃辣的話另外還有辣排骨，醬燒也會附上同樣的辣沾醬，先沾一口試試，看喜好再選。

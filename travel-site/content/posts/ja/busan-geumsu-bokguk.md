@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
 excerpt: 釜山・東莱のフグ料理店、クムスボックク東莱店は朝8時から夜10時まで営業しています（2026年8月時点）。フグ料理を気負わない値段でいろいろ試せる典型的な韓国のポックク屋で、フグのユッケと唐揚げが意外によかったです。

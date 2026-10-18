@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-22
+updated: 2026-10-15
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg
 excerpt: 手工餃子配三種湯。想吃爽辣的選「酒湯」，想喝清爽牛骨湯的選「年糕湯」。紅湯的那碗看著兇，其實一點都不辣。兩個人以上，加一份韭菜煎餅或綠豆煎餅，配一壺馬格利酒最合適。

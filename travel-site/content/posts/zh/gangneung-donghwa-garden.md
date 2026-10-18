@@ -4,6 +4,7 @@ cat: food
 region: gangwon
 area: gangneung
 date: 2026-09-02
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/gangneung-donghwa-garden.jpg
 excerpt: 江陵草堂嫩豆腐村裡、早就紅到不用多介紹的炒碼嫩豆腐店。嗆辣的炒碼湯頭配上一團團軟嫩的嫩豆腐。喜歡嫩豆腐的話，安排江陵行程時值得吃一次。

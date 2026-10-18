@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
 famous: true

@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-09-15
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/seoul-maknae-hoejip.jpg
 excerpt: 南大門市場2樓的生魚片店。只在平日午餐供應的生魚片定食，一人14,000韓元，像生魚片蓋飯一樣附上滿滿小菜，可以吃得很飽足。雖然要排隊，但翻桌速度比想像中快。

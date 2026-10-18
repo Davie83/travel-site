@@ -74,7 +74,7 @@ module.exports = {
       'korean-noodles':    '냉면과 국수 종류입니다. 평양·함흥식 냉면, 막국수, 콩국수, 칼국수를 다룹니다. 육수가 슴슴한지 새콤한지, 가위로 잘라 주는지, 여름 한정인지 사철 하는지를 적어 두었습니다.',
       'korean-seafood':    '회, 물회, 게장, 아구찜, 대게처럼 해산물이 중심인 집입니다. 항구 근처 노포부터 도심 전문점까지, 제철이 언제인지와 시가(時價) 여부, 초장·간장 중 무엇에 찍는지를 함께 적었습니다. 이 사이트에서 글이 가장 많은 장르입니다.',
       'chinese-korean':    '한국에서 발전한 중식입니다. 자장면, 짬뽕, 탕수육에 더해 깐풍기·유린기 같은 요리류를 시켜 볼 만한 집을 담았습니다. 짬뽕이 얼마나 매운지, 요리를 나눠 먹기 좋은지를 위주로 적었습니다.',
-      'japanese-in-korea': '직접 가본 서울의 돈코츠·쇼유 라멘 전문점입니다. 이자카야식 안주와 오코노미야끼도 함께 다룹니다. 면·국물의 진하기, 자리 회전이 빠른지, 혼밥 카운터가 있는지를 적었습니다.',
+      'japanese-in-korea': '직접 가본 서울의 돈코츠 라멘 맛집으로, 새벽 3시까지 하는 하카타분코와 면·국물 농도를 고르는 부탄츄가 있고 오코노미야끼와 이자카야 숙성회도 다룹니다. 면·국물의 진하기, 자리 회전이 빠른지, 혼밥 카운터가 있는지를 적었습니다.',
       'cafe-dessert':      '커피와 디저트가 중심인 곳입니다. 직접 볶는 드립 전문점, 베이커리, 수플레·팬케이크처럼 자리에서 굽는 디저트를 담았습니다. 콘센트·와이파이가 되는지, 오래 앉아 있어도 되는 분위기인지를 함께 적었습니다.',
       'western':           '파스타·스테이크·타코처럼 한식이 아닌, 앉아서 먹는 레스토랑입니다. 신사동 양식집부터 멕시칸, 와인 뷔페까지 다룹니다. 예약이 필요한지, 1인당 예산이 얼마쯤인지, 프라이빗 룸이 있는지를 적어 두었습니다.'
     },
@@ -306,7 +306,7 @@ module.exports = {
       'korean-noodles':    'Cold noodles and noodle soups. It covers Pyongyang- and Hamhung-style naengmyeon, makguksu, kongguksu, and kalguksu. Notes say whether the broth is plain or tangy, whether they cut it with scissors for you, and whether it is summer-only or year-round.',
       'korean-seafood':    'Places built around seafood — raw fish, mulhoe, soy-marinated crab, braised monkfish, snow crab. From old harbourside places to city specialists, notes cover when each is in season, whether it is market price, and which dip goes with it. This is the largest genre on the site.',
       'chinese-korean':    'Chinese food as it developed in Korea. Beyond jajangmyeon, jjamppong, and sweet-and-sour pork, it covers places worth ordering the cooked dishes at, like kkanpunggi and yurinji. Notes focus on how spicy the jjamppong is and whether the dishes share well.',
-      'japanese-in-korea': 'Tonkotsu and shoyu ramen shops in Seoul, all tried in person, plus izakaya-style plates and okonomiyaki. Notes cover how rich the noodles and broth are, whether tables turn over quickly, and whether there is a solo counter.',
+      'japanese-in-korea': 'Tonkotsu ramen in Seoul, all tried in person: Hakata Bunko (open until 3 AM) and Butanchu (pick your noodles and richness), plus okonomiyaki and izakaya sashimi. Notes cover how rich the noodles and broth are, whether tables turn over quickly, and whether there is a solo counter.',
       'cafe-dessert':      'Places built around coffee and dessert. It covers shops that roast their own, bakeries, and desserts made to order like souffle and pancakes. Notes cover whether there are power outlets and wi-fi, and whether it is the kind of room you can sit in for a while.',
       'western':           'Sit-down restaurants that are not Korean — pasta, steak, tacos. From a Sinsa-dong Western spot to Mexican and wine buffets. Notes cover whether you need to book, roughly what to budget per person, and whether there is a private room.'
     },
@@ -541,7 +541,7 @@ module.exports = {
       'korean-noodles':    '冷麺と麺類です。平壌・咸興式の冷麺、マッククス、コングクス、カルグクスを扱います。スープが淡泊か酸味があるか、ハサミで切ってくれるか、夏限定か通年かを書いています。',
       'korean-seafood':    '刺身、ムルフェ、カンジャンケジャン、アグチム、ズワイガニなど海鮮が中心の店です。港近くの老舗から都心の専門店まで、旬の時期と時価かどうか、チョジャンと醤油のどちらで食べるかを併記。このサイトで最も記事の多いジャンルです。',
       'chinese-korean':    '韓国で発展した中華です。ジャジャン麺、チャンポン、酢豚に加え、カンプンギ・ユーリンギのような料理を頼む価値のある店を。チャンポンの辛さ、料理を分けて食べやすいかを中心に書いています。',
-      'japanese-in-korea': '実際に足を運んだソウルの豚骨・醤油ラーメン専門店です。居酒屋風のつまみ、お好み焼きも扱います。麺とスープの濃さ、席の回転が速いか、一人カウンターがあるかを書いています。',
+      'japanese-in-korea': '実際に足を運んだソウルの豚骨ラーメンの店で、深夜3時まで営業のハカタブンコと、麺とスープの濃さを選べる豚人（ブタンチュ）を紹介します。お好み焼きと居酒屋の熟成刺身も扱います。麺とスープの濃さ、席の回転が速いか、一人カウンターがあるかを書いています。',
       'cafe-dessert':      'コーヒーとデザートが中心の店です。自家焙煎のドリップ専門店、ベーカリー、スフレやパンケーキのように席で焼くデザートを。コンセントとWi-Fiがあるか、長居できる雰囲気かを併記しています。',
       'western':           'パスタ・ステーキ・タコスなど、韓国料理ではない着席レストランです。新沙洞の洋食店からメキシカン、ワインビュッフェまで。予約が必要か、一人あたりの予算、個室があるかを書いています。'
     },
@@ -776,7 +776,7 @@ module.exports = {
       'korean-noodles':    '冷麵與麵食。收錄平壤、咸興式冷麵，蕎麥拌麵，豆漿麵，刀切麵。會寫湯頭是清淡還是帶酸、會不會幫你用剪刀剪、是夏季限定還是整年都有。',
       'korean-seafood':    '以海鮮為主的店 —— 生魚片、冷湯生魚、醬油醃蟹、燉鮟鱇魚、雪蟹。從港口邊的老店到市區的專門店，會寫各項的產季、是不是時價、要沾醋醬還是醬油。這是本站文章最多的分類。',
       'chinese-korean':    '在韓國發展出來的中餐。除了炸醬麵、炒碼麵、糖醋肉，也收錄值得點熱炒菜色的店，像乾烹雞、油淋雞。重點寫炒碼麵有多辣、菜適不適合分著吃。',
-      'japanese-in-korea': '實際走訪過的首爾豚骨、醬油拉麵專門店，還有居酒屋式下酒菜與大阪燒。會寫麵和湯頭的濃淡、翻桌快不快、有沒有單人吧台。',
+      'japanese-in-korea': '實際走訪過的首爾豚骨拉麵店，有營業到凌晨3點的하카타분코（Hakata Bunko）和可選麵與湯頭濃度的豚人（Butanchu），也收錄御好燒和居酒屋的熟成生魚片。會寫麵和湯頭的濃淡、翻桌快不快、有沒有單人吧台。',
       'cafe-dessert':      '以咖啡和甜點為主的地方。收錄自家烘豆的手沖專門店、烘焙坊，以及舒芙蕾、鬆餅這類現點現做的甜點。一併寫有沒有插座和Wi-Fi、是不是可以久坐的氛圍。',
       'western':           '不是韓式的、坐下來吃的餐廳 —— 義大利麵、牛排、塔可。從新沙洞的西餐館到墨西哥菜、葡萄酒吃到飽。會寫要不要訂位、每人預算大概多少、有沒有包廂。'
     },

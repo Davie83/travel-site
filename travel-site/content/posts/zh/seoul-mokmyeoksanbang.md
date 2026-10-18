@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
 excerpt: 位在首爾明洞站附近、南山腳下路邊的 木覓山房 本店。靠野菜而不是靠醬撐起來的拌飯，清淡又均衡，適合第一次認真吃韓式拌飯的人。本店不在南山上，而在山腳下的路邊；南山上另有南山塔店。

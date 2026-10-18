@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-10-02
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/seoul-maksseorihoe-seodaemun.jpg
 excerpt: 一家離西大門站非常近的生魚片店。原本只打算點午餐套餐，後來點了菜色稍微豐富一點的高級套餐（每人午餐套餐3萬韓元、高級套餐4萬韓元）。小菜款式不算多，不過套餐的主角熟成生魚片，以午餐來說吃起來相當不錯。店內是包廂形式，很適合和朋友安靜地吃頓午餐，不過實際吃過之後，覺得不特別加點高級套餐應該也夠了。

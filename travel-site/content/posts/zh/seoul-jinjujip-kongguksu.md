@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
+updated: 2026-10-15
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
 excerpt: 豆漿涼麵的名店。湯底完全沒有調味，要自己加鹽或加糖。調對了會讓人每個熱天都想起來，只是這幾年價格一直在漲。

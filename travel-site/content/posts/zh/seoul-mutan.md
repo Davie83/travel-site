@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg
 excerpt: 位在首爾汝矣島 TP Tower 2樓的中華料理店 무탄（Mutan）汝矣島店。招牌是松露牛排炸醬麵和堆滿青辣椒的油淋雞。價格比一般中餐館貴，但量大，一份兩個人分著吃就夠。建議多人同行，點兩三道主菜分享，基本要提前訂位。

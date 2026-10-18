@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-21
+updated: 2026-10-15
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 excerpt: 想吃老派的平壤冷麵，這家很值得。綠豆煎餅用肉油煎，香得很實在。CP 值高 — 但店在市場裡的二樓，很容易走過去。

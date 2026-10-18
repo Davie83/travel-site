@@ -4,6 +4,7 @@ cat: travel
 region: gangwon
 area: sokcho
 date: 2026-09-05
+updated: 2026-10-15
 emoji: ⛴️
 thumb: assets/img/sokcho-abai-gaetbae.jpg
 excerpt: 連接束草市區與아바이마을的手拉渡船（Gaetbae）。航程雖短，但來回搭乘很輕鬆，值得體驗一次。也可以只買單程票。

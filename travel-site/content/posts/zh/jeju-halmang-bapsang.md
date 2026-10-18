@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
+updated: 2026-10-15
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
 excerpt: 要空著肚子去的店。烤魚、辣炒豬肉、海鮮煎餅和十道小菜一次擺滿一桌，白飯和湯無限續。味道說實話很普通。但如果想一次性體驗韓國的家常菜，這樣的店真的不多。

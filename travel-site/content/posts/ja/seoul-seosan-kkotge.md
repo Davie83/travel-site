@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🦀
 thumb: assets/img/seoul-seosan-kkotge.jpg
 excerpt: ソウル麻浦・桃花洞の醤油漬けワタリガニ定食の店、ソサンコッケ。塩気が強すぎない生の醤油漬けワタリガニに、イシモチの焼き物・茶碗蒸し・カニ鍋・ナムルが一緒に出ます。強みはカニの身よりも「一膳の構成」。予約はほぼ必須です。

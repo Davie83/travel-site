@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-23
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/seoul-obok-sundaeguk.jpg
 excerpt: 這家的白切肉比我在別處吃過的都嫩。單點一盤價格偏高，建議先用套餐試味。文來和登村兩家店我都去過，個人覺得文來本店更好。

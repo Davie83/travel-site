@@ -4,6 +4,7 @@ cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: 全羅南道・羅州の金城館キルにある羅州コムタン ハヤンチプ本店。羅州コムタンの代表格で、すっきりした牛のスープとやわらかいスユク（茹で肉）が味わえます。朝8時開店で予約アプリも使えますが、待ちは覚悟してください（2026年8月時点）。

@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-10-13
+updated: 2026-10-15
 emoji: 🥩
 thumb: assets/img/jeju-keundonga-seojjok.jpg
 excerpt: 位在濟州西歸浦大靜邑、離摹瑟浦港有一小段距離的兄弟島附近，是一家烤豬肉店。五層肉和梅花肉可以選一般白豬或濟州黑豬，沾멜젓、辣椒醬風味的醬料或鹽巴吃。肉用剪刀處理好，由店員直接幫你烤。位置看起來有點尷尬，傍晚卻坐滿了客人。

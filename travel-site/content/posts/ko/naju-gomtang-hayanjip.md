@@ -4,6 +4,7 @@ cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-17
+updated: 2026-10-18
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 famous: true

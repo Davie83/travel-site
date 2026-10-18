@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
 excerpt: 位在首爾永登浦文來路的中華料理店 송죽장。辣得乾脆、辣味後面還有鮮味的海鮮짬뽕（炒碼麵，11,000韓元）和煎餃（9,500韓元）是招牌（截至2026年8月）。不太能吃辣的話會有點吃力，從永登浦站要走一小段。

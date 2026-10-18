@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-21
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-songjukjang.jpg
 excerpt: ソウル永登浦、文来路にある中華料理店ソンジュクチャン。ピリッと鋭い辛さの奥に旨みがある海鮮チャンポン（11,000ウォン）と焼き餃子（9,500ウォン）が看板です（2026年8月時点）。辛いものが苦手な方にはきつく、永登浦駅から少し歩きます。

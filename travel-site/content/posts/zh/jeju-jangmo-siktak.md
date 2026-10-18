@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: jejusi
 date: 2026-10-09
+updated: 2026-10-15
 emoji: 🍚
 thumb: assets/img/jeju-jangmo-siktak.jpg
 excerpt: 位在濟州市梨道洞的套餐店。鮑魚石鍋飯、可自選的燉鍋、醬油蟹和辣炒豬肉這些主菜級的料理一桌上齊，一餐的CP值很高。鮑魚肉比想像中多，鮑魚內臟（게우）也很入味地拌進飯裡。用餐時段可能需要排隊。

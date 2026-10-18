@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-08-21
+updated: 2026-10-18
 emoji: ☕
 thumb: assets/img/seoul-dozo-coffee.jpg
 excerpt: ソウル鍾路・敦義門、西大門駅の近くにあるドリップコーヒーの店、DOZO COFFEE 敦義門店。シングルオリジンのドリップを、チューリップ型のグラスとステンレスのポットでトレーごと出してくれます。いつもと違う一杯を飲みたいときに向いていますが、店は広くなく、平日はオフィス街で静かではありません。

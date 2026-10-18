@@ -4,6 +4,7 @@ cat: food
 region: jeju
 area: jejusi
 date: 2026-08-28
+updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/jeju-mipung-haejangguk.jpg
 excerpt: 我一年因公來濟州三、四次，每次都會留一餐給解酒湯。跑過幾家，美風是我的第一名。湯頭夠嗆辣，辣味和那股刺激重疊的地方正合我意。濟州的解酒湯要加很多蒜泥才對味。

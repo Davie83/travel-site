@@ -4,6 +4,7 @@ cat: food
 region: gangwon
 area: jumunjin
 date: 2026-09-28
+updated: 2026-10-15
 emoji: 🐡
 thumb: assets/img/gangwon-pado-sikdang-jumunjin.jpg
 excerpt: 天氣一變冷就會想起的江原注文津餐廳。點了河豚清湯和烤魚。大部分人來這裡都點鱈魚湯，不過首爾也有很多鱈魚湯做得不錯的店，所以我是想吃首爾比較難吃到的河豚清湯時才會來這裡。大部分菜色都好吃，而且有種家常菜的感覺，很不錯。

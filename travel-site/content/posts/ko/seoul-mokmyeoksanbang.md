@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-23
+updated: 2026-10-18
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
 famous: true

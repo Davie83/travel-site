@@ -4,6 +4,7 @@ cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
+updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: ソウル・上水と弘大の近くにある博多式豚骨ラーメンの店、ハカタブンコです。極細麺で、生にんにくをたっぷり搾って入れると濃厚なスープに香りが移り、二日酔い向けの一杯になります。深夜3時まで営業しているのが最大の強みです。

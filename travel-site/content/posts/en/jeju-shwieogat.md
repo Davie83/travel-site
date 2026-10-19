@@ -1,9 +1,10 @@
 ---
-title: Shwieogat — A Turkish-Styled Cafe on the Road to Seongsan, and a Jar of Sütlaç
+title: Shwieogat — Turkish-Styled Cafe Near Seongsan, Sütlaç
 cat: food
 region: jeju
 area: seongsan
 date: 2026-08-30
+updated: 2026-10-20
 emoji: 🍮
 thumb: assets/img/jeju-shwieogat.jpg
 excerpt: A dessert-and-coffee shop you meet as you near Seongsan, coming from Seogwipo through Pyoseon. I found it while reading up on kaymak, around the time it was getting popular in Korea. The interior is done up Turkish-style, and there's a tidy garden outside that's good for photos. When I get here, I order the sütlaç — a Turkish milk pudding, soft and gently sweet.

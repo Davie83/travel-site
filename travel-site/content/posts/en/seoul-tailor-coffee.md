@@ -1,9 +1,10 @@
 ---
-title: Tailor Coffee Sogong — Beside the Bank of Korea, the Room Catches You First
+title: Tailor Coffee Sogong — By the Bank of Korea
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
+updated: 2026-10-20
 emoji: ☕
 thumb: assets/img/seoul-tailor-coffee.jpg
 excerpt: I stopped in on a late-winter morning and the interior was the first thing I noticed. The americano I drank in that cool weather, and the room it was served in, stayed with me. Coffee here is not cheap, but if you are nearby it is worth one visit.

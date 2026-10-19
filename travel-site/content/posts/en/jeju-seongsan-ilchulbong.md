@@ -1,9 +1,10 @@
 ---
-title: Seongsan Ilchulbong & Gwangchigi Beach — Spring, a Canola Field, Sunrise Peak, and Coffee
+title: Seongsan Ilchulbong & Gwangchigi Beach — Canola and Coffee
 cat: travel
 region: jeju
 area: seongsan
 date: 2026-08-29
+updated: 2026-10-20
 emoji: 🌅
 thumb: assets/img/jeju-seongsan-ilchulbong.jpg
 excerpt: When spring comes, I think of Jeju in canola-flower season. Gwangchigi Beach, right below Seongsan Ilchulbong, is cited as the largest canola field on the island. See the flowers in bloom, make the short climb up the crater that rose out of the sea, then come down for a coffee — that's the loop.

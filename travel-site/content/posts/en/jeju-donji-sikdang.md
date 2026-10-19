@@ -1,10 +1,10 @@
 ---
-title: Donji Sikdang, Jeju — The Squid Rice Bowl Is Summer-Only
+title: Donji Sikdang — Summer-Only Squid Rice Bowl
 cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-17
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg
 excerpt: Donji Sikdang is a raw-fish restaurant near Moseulpo Harbour in Daejeong-eup, Seogwipo, Jeju. The raw squid rice bowl is summer-only, and wrapping it in lettuce is the whole point; even the side dishes were fresh. Open until 9pm (as of Aug 2026).

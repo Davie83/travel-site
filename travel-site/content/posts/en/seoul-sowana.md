@@ -1,9 +1,10 @@
 ---
-title: Sowana — A Hanwoo House in Itaewon & Hannam, a Beef Course Grilled Cut by Cut
+title: Sowana — Itaewon Hanwoo, Beef Course Cut by Cut
 cat: food
 region: seoul
 area: itaewon
 date: 2026-09-03
+updated: 2026-10-20
 emoji: 🥩
 thumb: assets/img/seoul-sowana.jpg
 excerpt: A hanwoo (Korean beef) house between Itaewon and Hannam-dong. It lets you taste "what hanwoo is" one cut at a time. The number of cuts and the price change with the set, and each cut is grilled for you over charcoal with vegetables and served a piece at a time. The clean room makes it taste better.

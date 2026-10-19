@@ -1,9 +1,10 @@
 ---
-title: Jeju Halmang Bapsang Moseulpo — Grilled Fish and Ten Side Dishes for 15,000 Won
+title: Jeju Halmang Bapsang Moseulpo — Grilled Fish Set
 cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
 excerpt: Come hungry. Grilled fish, spicy stir-fried pork, a seafood pancake and ten side dishes arrive on one tray, with free refills on rice and soup. The flavour is honestly average. But if you want to meet Korean home cooking all at once, there is little else like it.

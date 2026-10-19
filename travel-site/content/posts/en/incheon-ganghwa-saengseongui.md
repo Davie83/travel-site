@@ -1,9 +1,10 @@
 ---
-title: Ganghwa-do Matjip Charcoal Grilled Fish — A Grilled-Fish Set Right at the Island's Gateway
+title: Ganghwa-do Matjip — Charcoal Grilled Fish Set
 cat: food
 region: gyeonggi
 area: ganghwa
 date: 2026-08-31
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/incheon-ganghwa-saengseongui.jpg
 excerpt: A grilled-fish place right where you enter Ganghwa Island. For a simple lunch, the set isn't cheap. But I didn't begrudge the money afterwards. Several kinds of fish, grilled over charcoal with a real deft hand — the best grilled fish I'd had in a while. The side dishes weren't fancy, but they tasted good.

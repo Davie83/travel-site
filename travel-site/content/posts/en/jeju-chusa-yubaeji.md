@@ -1,9 +1,10 @@
 ---
-title: Chusa Kim Jeong-hui's Place of Exile — Eight Years Behind a Daejeong Stone Wall, and the Sehando
+title: Chusa Kim Jeong-hui's Place of Exile — Eight Years in Daejeong
 cat: travel
 region: jeju
 area: seogwipo
 date: 2026-08-31
+updated: 2026-10-20
 emoji: 🖌️
 thumb: assets/img/jeju-chusa-yubaeji.jpg
 excerpt: An easy stop if you're heading down to Moseulpo Harbour or crossing from Aewol to Seogwipo. This is where Kim Jeong-hui — the calligrapher behind the "Chusa style" — spent more than eight years in exile. A restored thatched house behind a stone wall, and two pine trees standing tall in the yard. Quiet, the way an exile site should be; a good place to sit a moment with some history.

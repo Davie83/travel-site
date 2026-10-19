@@ -1,9 +1,10 @@
 ---
-title: Iho Tewoo Beach — Canola Flowers and a Coffee, a Short Stop Near the Airport
+title: Iho Tewoo Beach — Canola Flowers and Coffee Near the Airport
 cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-29
+updated: 2026-10-20
 emoji: 🏖️
 thumb: assets/img/jeju-iho-tewoo.jpg
 excerpt: In canola season, Iho Tewoo Beach makes a good short stop because it's close to the airport. There's a canola field set up a little to the right of the beach. It isn't large, but it's just right for a walk and a coffee. You also get the beach's landmark — the red horse lighthouse.

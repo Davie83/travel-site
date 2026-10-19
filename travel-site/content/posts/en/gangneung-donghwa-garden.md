@@ -1,9 +1,10 @@
 ---
-title: Donghwa Garden — Jjamppong Sundubu in Gangneung's Chodang Tofu Village, Fiery Broth and Cloud-Soft Tofu
+title: Donghwa Garden — Jjamppong Sundubu in Chodang
 cat: food
 region: gangwon
 area: gangneung
 date: 2026-09-02
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/gangneung-donghwa-garden.jpg
 excerpt: A jjamppong-sundubu place in Gangneung's Chodang tofu village, famous well past the point of needing an introduction. A fiery jjamppong broth meets cloud-soft tofu in one bowl. If you like sundubu, it's worth a try on a Gangneung trip.

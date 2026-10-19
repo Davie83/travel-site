@@ -1,9 +1,10 @@
 ---
-title: Mercure Seoul Magok, Moasis — A Dinner-Only Unlimited Wine Buffet, for When You Want Wine Freely
+title: Mercure Seoul Magok, Moasis — Dinner-Only Wine Buffet
 cat: food
 region: seoul
 area: magok
 date: 2026-08-30
+updated: 2026-10-20
 emoji: 🍷
 thumb: assets/img/seoul-mercure-magok-moasis.jpg
 excerpt: Inside Mercure Seoul Magok there's an unlimited wine buffet. It runs at dinner only. The food is Western and built to go with wine, and a NAVER reservation gets you a discount. Recently they seem to have added a set with a striploin steak. Worth a visit if Korean food isn't sitting right, or you just want wine freely.

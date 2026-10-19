@@ -1,10 +1,10 @@
 ---
-title: Mokmyeoksanbang — Vegetable-Led Bibimbap, Mild, at the Foot of Namsan
+title: Mokmyeoksanbang — Mild Bibimbap Below Namsan
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-23
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍚
 thumb: assets/img/seoul-mokmyeoksanbang.jpg
 excerpt: Mokmyeoksanbang's main branch is on the street at the foot of Namsan, near Myeongdong Station in Seoul. A balanced bibimbap built on seasoned vegetables rather than sauce, mild and clean-tasting, a good first proper bibimbap. The main branch is not up on Namsan; the Namsan Tower branch is a separate shop.

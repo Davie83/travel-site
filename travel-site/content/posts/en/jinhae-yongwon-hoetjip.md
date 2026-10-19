@@ -1,9 +1,10 @@
 ---
-title: Yongwon Hoetjip — Fresh Cod Soup in Jinhae, and the Milt Steals the Show
+title: Yongwon Hoetjip — Fresh Cod Soup in Jinhae
 cat: food
 region: gyeongsang
 area: jinhae
 date: 2026-08-25
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/jinhae-yongwon-hoetjip.jpg
 excerpt: The best fresh cod soup I have had. The flesh is soft, and the milt in particular is richer and creamier than monkfish liver. If your budget allows, take the cod course and have it as sashimi, pancake and soup in one sitting. Note that fresh cod is a winter fish.

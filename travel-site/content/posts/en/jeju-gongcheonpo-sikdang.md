@@ -1,9 +1,10 @@
 ---
-title: Gongcheonpo Sikdang — The Best Abalone Porridge I Have Found, and Not Expensive
+title: Gongcheonpo Sikdang — Abalone Porridge
 cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-23
+updated: 2026-10-20
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
 excerpt: I have eaten abalone porridge all over Jeju and have not found one this rich for this price. For two people, one porridge and one cold raw-fish soup is the right order. Closes at 3:30 PM and shuts on Thursdays.

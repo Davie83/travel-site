@@ -1,9 +1,10 @@
 ---
-title: Myeongdong Gyoja Main Branch — The Famous Kalguksu and Garlic Kimchi, Now by Myeongdong Station Exit 8
+title: Myeongdong Gyoja Main Branch — Kalguksu and Garlic Kimchi
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-09-02
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-myeongdong-gyoja.jpg
 excerpt: The famous kalguksu place in Myeongdong that most people know. Good value, and a broth that suits most palates. It's no longer the scruffy old spot — it has moved, smartly, to a new building near Myeongdong Station Exit 8. Going back after a while, it wasn't quite the old thrill, but it's still above the baseline. A taste you'll want again once winter comes.

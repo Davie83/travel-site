@@ -1,9 +1,10 @@
 ---
-title: Cheongeoram Mangwon — Beef Tripe Hot Pot at a Fair Price, with a Clean Vegetable Broth
+title: Cheongeoram Mangwon — Beef Tripe Hot Pot
 cat: food
 region: seoul
 area: mapo
 date: 2026-08-26
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-cheongeoram-gopchang.jpg
 excerpt: Beef small-intestine hot pot is normally an expensive dish in Korea, but this place is comparatively cheap. The broth draws its flavour from vegetables, so it stays clean rather than heavy. Closed Sundays, with a weekday afternoon break.

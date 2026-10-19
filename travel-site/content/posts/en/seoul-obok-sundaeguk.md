@@ -1,9 +1,10 @@
 ---
-title: Obok Sundaeguk Mullae — Remarkably Tender Boiled Pork, Start With the Set
+title: Obok Sundaeguk Mullae — Tender Boiled Pork
 cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-23
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-obok-sundaeguk.jpg
 excerpt: The boiled pork here is more tender than anywhere else I have had it. The standalone plate is pricey, so start with the set meal. I have been to both the Mullae and Deungchon branches, and personally Mullae was better.

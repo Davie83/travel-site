@@ -1,9 +1,10 @@
 ---
-title: Cheongpung Golden Tteok-galbi — A Chance Find in Jecheon, with a Table Full of Side Dishes
+title: Cheongpung Golden Tteok-galbi — A Table Full of Sides
 cat: food
 region: chungcheong
 area: chungbuk
 date: 2026-08-31
+updated: 2026-10-20
 emoji: 🍖
 thumb: assets/img/jecheon-cheongpung-golden-tteokgalbi.jpg
 excerpt: I had no idea Jecheon was known for tteok-galbi. I found this place by searching for somewhere to eat while I was near Cheongpung Lake. It was busier than expected. The flavour is faithful to standard tteok-galbi, and it comes with a dozen-plus varied side dishes — a filling meal. Worth a stop if you're already in the area, rather than a trip in itself.

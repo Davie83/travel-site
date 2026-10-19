@@ -1,9 +1,10 @@
 ---
-title: Paradise City Cimer — Yeongjong Island by Incheon Airport, the Seoul Area's Smartest Spa
+title: Paradise City Cimer — A Spa by Incheon Airport
 cat: travel
 region: gyeonggi
 area: incheon
 date: 2026-08-31
+updated: 2026-10-20
 emoji: ♨️
 thumb: assets/img/incheon-paradise-cimer.jpg
 excerpt: A spa and sauna inside the Paradise City resort on Yeongjong Island. Incheon Airport is right next door, so you see foreign travellers here too. You wonder whether the Seoul area had a spa this well-equipped. Four hours for sauna only, six with the pools. It's busy, so less a place to fully unwind than one for passing airport time or trying a shiny new sauna.

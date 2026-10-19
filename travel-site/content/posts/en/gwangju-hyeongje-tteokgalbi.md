@@ -1,9 +1,10 @@
 ---
-title: Hyeongje Songjeong Tteok-galbi, Gwangju — Soft and Loose, Not a Hamburg Steak
+title: Hyeongje Songjeong Tteok-galbi — Not a Hamburg Steak
 cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-28
+updated: 2026-10-20
 emoji: 🍖
 thumb: assets/img/gwangju-hyeongje-tteokgalbi.jpg
 excerpt: A tteok-galbi place in the alley between Gwangju Songjeong Station and Gwangsan-gu Office. I ordered both the beef and pork versions. Instead of a dense, patty-like Seoul tteok-galbi, this one falls apart softly. A clear pork-bone soup comes free; the other side dishes were less than I hoped.

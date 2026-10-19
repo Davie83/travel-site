@@ -1,10 +1,10 @@
 ---
-title: Halmae Pisundae, Buan — Blood Sausage That Looks Scarier Than It Tastes
+title: Halmae Pisundae — Blood Sausage Scarier Than It Tastes
 cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-08-17
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg
 excerpt: Halmae Pisundae is a blood sausage restaurant in Haengan-myeon, Buan, North Jeolla. It looks like it will taste strongly of pork offal but barely does; it is blood sausage cut with chopped nuts, in a broth simmered in a cauldron. Open from 7 in the morning.

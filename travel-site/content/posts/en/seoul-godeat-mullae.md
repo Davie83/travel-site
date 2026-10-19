@@ -1,9 +1,10 @@
 ---
-title: God Eat Mullae — One Fajita and Taco Set Is Enough for Two
+title: God Eat Mullae — Fajita and Taco Set for Two
 cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-25
+updated: 2026-10-20
 emoji: 🌮
 thumb: assets/img/seoul-godeat-mullae.jpg
 excerpt: I had the fajita and taco set for two. If you want tacos and cannot decide what to order, this one set covers a full meal. The food is good and the room is pleasant. Mullae has changed — more young Koreans, and foreign visitors too.

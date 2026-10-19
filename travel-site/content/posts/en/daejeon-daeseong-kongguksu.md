@@ -1,10 +1,10 @@
 ---
-title: Daeseong Kongguksu, Daejeon — A Thin Broth, and Why the Kimchi Matters
+title: Daeseong Kongguksu — Thin Broth, Kimchi Does the Work
 cat: food
 region: chungcheong
 area: daejeon
 date: 2026-08-17
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/daejeon-daeseong-kongguksu.jpg
 excerpt: Daeseong Kongguksu is a cold soy-milk noodle shop in Doma-dong, Seo-gu, Daejeon. The broth runs thin rather than thick, which is why the kimchi does half the work, and there is usually a queue at lunch and dinner. Open 11:30am to 8:30pm (as of Aug 2026).

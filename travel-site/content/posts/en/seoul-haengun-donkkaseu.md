@@ -1,9 +1,10 @@
 ---
-title: Haengun Donkkaseu — Old-School Pork Cutlet, and the Kimchi Fried Rice Set Is the Deal
+title: Haengun Donkkaseu — Old-School Pork Cutlet Set
 cat: food
 region: seoul
 area: seongdong
 date: 2026-08-29
+updated: 2026-10-20
 emoji: 🍛
 thumb: assets/img/seoul-haengun-donkkaseu.jpg
 excerpt: I stopped here after a funeral at Hanyang University nearby. It's a well-known cheap-and-cheerful cutlet joint around Wangsimni. Not the thick, Japanese-style katsu that's trendy now — this is the old Korean diner version, thin and crisp under a brown sauce with a fried egg on top. Good, and huge. The set that comes with kimchi fried rice is the value pick, but finishing it is another matter.

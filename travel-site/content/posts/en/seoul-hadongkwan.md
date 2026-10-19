@@ -1,9 +1,10 @@
 ---
-title: Hadongkwan — Clear Beef Soup, Then Add the Kimchi Brine for a Second Flavour
+title: Hadongkwan — Clear Beef Soup With Kimchi Brine
 cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg
 excerpt: A long-running Seoul institution serving clear beef soup over rice. Eat it plain first, then ask for radish kimchi brine and pour it in — one bowl, two flavours. Expensive for what it is, but the care shows. Opens at 7am; branches in Myeongdong and Yeouido.

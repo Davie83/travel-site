@@ -1,9 +1,10 @@
 ---
-title: Honam Sikdang — One Shop in Namdaemun's Braised-Hairtail Alley, with Steamed Egg and Daytime Makgeolli
+title: Honam Sikdang — Braised Hairtail Alley in Namdaemun
 cat: food
 region: seoul
 area: namdaemun
 date: 2026-09-02
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/seoul-honam-sikdang.jpg
 excerpt: A diner in Namdaemun's braised-hairtail alley. There are so many of these shops, and a bit of touting, that I can never remember which one I went to before. I came in thinking this was that place — it wasn't. But the side-dish line-up along this alley is much the same everywhere. Braised hairtail, steamed egg and a bowl of rice disappear fast, and with a daytime makgeolli it's a happy little spread.

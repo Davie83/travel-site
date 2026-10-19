@@ -1618,6 +1618,15 @@ function seoPostTitle(m, code) {
     : [name, loc, intent].filter(Boolean).join(' ');
   return sub ? `${head} — ${sub}` : head;
 }
+/** 글 <title> 끝에 " | 사이트명" 을 붙이되, 전체가 TITLE_MAX 자를 넘으면 붙이지 않습니다.
+ *  (Oct 2026, Bing 사이트 분석: "제목이 너무 김" 164개 — 기준이 약 70자. 검색 결과에서는 어차피 뒤가 잘려
+ *  사이트명이 보이지 않는 경우가 대부분이라, 긴 제목은 글 이름과 핵심 단어를 앞쪽에 남기는 쪽이 낫습니다.
+ *  사이트 이름은 og:site_name 과 구조화 데이터에 그대로 있습니다.) */
+const TITLE_MAX = 70;
+function titleWithSiteName(title, code) {
+  const withSite = `${title} | ${siteName(code)}`;
+  return withSite.length <= TITLE_MAX ? withSite : String(title);
+}
 function shortTitle(title) {
   return titleParts(title).name || String(title);
 }
@@ -2695,7 +2704,7 @@ async function build() {
 
       writeFile(out, renderPage({
         out, code, current: m.cat, ogType: 'article',
-        title: `${seoPostTitle(m, code)} | ${siteName(code)}`, description: m.excerpt,
+        title: titleWithSiteName(seoPostTitle(m, code), code), description: m.excerpt,
         ogImage: m.thumb || null,   // 글 사진이 있으면 그걸 미리보기로
         availability,
         headExtra: `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>`,

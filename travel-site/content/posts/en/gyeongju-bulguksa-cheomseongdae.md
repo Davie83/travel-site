@@ -1,9 +1,10 @@
 ---
-title: Gyeongju — Korea's Kyoto, With Bulguksa by Day and Cheomseongdae by Night
+title: Gyeongju — Bulguksa by Day, Cheomseongdae by Night
 cat: travel
 region: gyeongsang
 area: gyeongju
 date: 2026-08-22
+updated: 2026-10-20
 emoji: 🏯
 thumb: assets/img/gyeongju-bulguksa-cheomseongdae.jpg
 excerpt: If Korea has a Kyoto, this is it — capital of the Silla kingdom for nearly a thousand years. Bulguksa temple in the daytime, then Cheomseongdae after dark. The observatory is lit until 10pm, and the night view is the biggest draw.

@@ -1,10 +1,10 @@
 ---
-title: Mutan Yeouido — Truffle and Steak Jjajangmyeon, One Bowl Feeds Two
+title: Mutan Yeouido — Truffle Steak Jjajangmyeon for Two
 cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-mutan.jpg
 excerpt: Mutan Yeouido is a Chinese restaurant on the 2nd floor of TP Tower in Yeouido, Seoul. The signatures are steak-and-truffle black bean noodles and fried chicken buried under sliced chilli. Pricier than a normal Chinese restaurant, but portions are big enough that one bowl feeds two. Come as a group, share two or three mains, and book ahead.

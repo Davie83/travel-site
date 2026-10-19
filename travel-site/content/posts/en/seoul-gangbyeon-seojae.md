@@ -1,9 +1,10 @@
 ---
-title: Gangbyeon Seojae — A Han River Cafe Inside the National Assembly, Open to Anyone
+title: Gangbyeon Seojae — Han River Cafe
 cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
+updated: 2026-10-20
 emoji: ☕
 thumb: assets/img/seoul-gangbyeon-seojae.jpg
 excerpt: The coffee and the bread are ordinary. The view is not. This cafe sits inside the National Assembly grounds, the public can walk in, and the rooftop opens onto the whole Han River. Cherry blossom season is the peak.

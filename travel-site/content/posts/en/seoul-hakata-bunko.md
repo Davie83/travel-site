@@ -1,10 +1,10 @@
 ---
-title: Hakata Bunko — 20-Year-Old Ramen Shop Open Until 3 AM
+title: Hakata Bunko — Ramen Open Until 3 AM
 cat: food
 region: seoul
 area: hongdae
 date: 2026-08-22
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-hakata-bunko.jpg
 excerpt: Hakata Bunko is a Hakata-style tonkotsu ramen shop near Sangsu and Hongdae in Seoul, with ultra-thin noodles. Press in a heap of raw garlic and the thick pork broth turns into something that cures a hangover. It is open until 3 AM, and that is this shop's real strength.

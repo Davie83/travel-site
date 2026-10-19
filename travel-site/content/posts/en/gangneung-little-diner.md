@@ -1,9 +1,10 @@
 ---
-title: Little Diner — An Analog Diner Brunch in Gangneung, and a Pancake-Bun Burger
+title: Little Diner — Analog Brunch and a Pancake-Bun Burger
 cat: food
 region: gangwon
 area: gangneung
 date: 2026-09-03
+updated: 2026-10-20
 emoji: 🍔
 thumb: assets/img/gangneung-little-diner.jpg
 excerpt: The morning after arriving in Gangneung, I went out for a late brunch. Concrete ceiling, red diner chairs, pop-art banners — a thoroughly analog American diner. The burger comes on a thick, pancake-like bun with smoked meat and cheddar, and the little jug of syrup on the side is a nice touch. It set the tone for a good day in Gangneung.

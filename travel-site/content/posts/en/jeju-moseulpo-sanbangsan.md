@@ -1,9 +1,10 @@
 ---
-title: Moseulpo Harbour to Sanbangsan — A Southwest Jeju Drive Where the Road Beats the Destination
+title: Moseulpo to Sanbangsan — A Drive Where the Road Wins
 cat: travel
 region: jeju
 area: seogwipo
 date: 2026-08-29
+updated: 2026-10-20
 emoji: 🚗
 thumb: assets/img/jeju-moseulpo-sanbangsan.jpg
 excerpt: The coastal road from Moseulpo Harbour toward Seogwipo. Even with no particular destination, the road itself is the point. Catch the boat to Gapado from Moseulpo, walk the loop around Songaksan, and past it two small islands sit joined in the sea — Hyeongjeseom, the "brother islands." Around where you can see them, look inland and Sanbangsan rises up. A stretch that feels good no matter when you drive it.

@@ -1,10 +1,10 @@
 ---
-title: Geumsu Bokguk, Busan — Why Pufferfish Soup Opens at 8 in the Morning
+title: Geumsu Bokguk — Pufferfish Soup Opening at 8 AM
 cat: food
 region: busan
 area: dongnae
 date: 2026-08-17
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🐡
 thumb: assets/img/busan-geumsu-bokguk.jpg
 excerpt: Geumsu Bokguk's Dongnae branch in Busan serves pufferfish soup from 8am to 10pm (as of Aug 2026). It is a textbook Korean bokguk house with several pufferfish dishes at prices that won't scare you; the raw pufferfish salad and the fried pufferfish were the surprises.

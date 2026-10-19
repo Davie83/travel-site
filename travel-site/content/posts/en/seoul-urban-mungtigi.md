@@ -1,9 +1,10 @@
 ---
-title: Urban Mungtigi — Raw Beef Cut Thicker Than Yukhoe Sashimi, with a Gochujang-Based Sauce
+title: Urban Mungtigi — Thick-Cut Raw Beef, Gochujang Sauce
 cat: food
 region: seoul
 area: mapo
 date: 2026-08-30
+updated: 2026-10-20
 emoji: 🥩
 thumb: assets/img/seoul-urban-mungtigi.jpg
 excerpt: Mungtigi is uncooked beef cut thick and eaten as is — the same family as yukhoe and yuk-sashimi. Compared to yuk-sashimi it's cut bigger and thicker, so the beef's aroma and texture come through more. It pairs well with the house gochujang-based sauce. The pan-fried yukjeon is good too. The place is small, so book ahead.

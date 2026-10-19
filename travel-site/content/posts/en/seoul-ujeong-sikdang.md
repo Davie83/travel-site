@@ -1,9 +1,10 @@
 ---
-title: Ujeong Sikdang — A Hidden Home-Style Diner in Namdaemun Market, for Spicy Pork, Spicy Squid, and the Banban
+title: Ujeong Sikdang — Spicy Pork and Squid in Namdaemun Market
 cat: food
 region: seoul
 area: namdaemun
 date: 2026-09-02
+updated: 2026-10-20
 emoji: 🍳
 thumb: assets/img/seoul-ujeong-sikdang.jpg
 excerpt: A Korean diner tucked inside Namdaemun Market. It works as a baekban — a set meal. Spicy pork and spicy squid are the mains, and you always dither over which to get. There's also a hidden item, the banban (half rolled omelette, half sausage). Worth a stop even if Korean food hasn't been agreeing with you.

@@ -1,10 +1,10 @@
 ---
-title: Butanchu Hongdae — Tonkotsu Ramen Where You Pick the Noodles and the Richness
+title: Butanchu Hongdae — Tonkotsu Ramen, You Pick the Richness
 cat: food
 region: seoul
 area: hongdae
 date: 2026-08-25
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-butanchu.jpg
 excerpt: Butanchu Hongdae is a Japanese-style tonkotsu ramen shop in Mapo, Seoul, where you choose the noodle type and how rich the broth is; the tonkotsu broth is not spicy. Open 11:30am to 10pm with no regular closing day (as of Aug 2026).

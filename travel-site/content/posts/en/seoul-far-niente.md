@@ -1,9 +1,10 @@
 ---
-title: Far Niente — A Western Restaurant in Sinsa-dong, Strong on Cream Gnocchi Gratin and Dessert
+title: Far Niente — Cream Gnocchi Gratin and Dessert
 cat: food
 region: seoul
 area: gangnam
 date: 2026-08-31
+updated: 2026-10-20
 emoji: 🍝
 thumb: assets/img/seoul-far-niente.jpg
 excerpt: A Western restaurant in Sinsa-dong. I went back after a few years. The cream gnocchi gratin is good, and they do dessert well. Order above a set amount and you can eat in a private room, just your own group.

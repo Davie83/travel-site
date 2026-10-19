@@ -1,10 +1,10 @@
 ---
-title: Naju Gomtang Hayanjip — The Beef Soup a Whole City Is Named For
+title: Naju Gomtang Hayanjip — The City's Namesake Soup
 cat: food
 region: jeolla
 area: jeonnam
 date: 2026-08-17
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/naju-gomtang-hayanjip.jpg
 excerpt: Naju Gomtang Hayanjip's main branch is on Geumseonggwan-gil in Naju, South Jeolla. It is the shop most associated with Naju gomtang: a clean-tasting beef broth and notably tender boiled brisket. It opens at 8am and takes app bookings, though a queue is likely (as of Aug 2026).

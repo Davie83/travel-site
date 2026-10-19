@@ -1,9 +1,10 @@
 ---
-title: Cheonghae Gimbap — Egg-Wrapped Gimbap Is the Signature, at a Solid Neighbourhood Snack Bar
+title: Cheonghae Gimbap — Egg-Wrapped Gimbap Snack Bar
 cat: food
 region: gyeonggi
 area: incheon
 date: 2026-08-29
+updated: 2026-10-20
 emoji: 🍙
 thumb: assets/img/incheon-cheonghae-gimbap.jpg
 excerpt: I had something to do in Incheon and stopped in because this snack bar is apparently well known nearby. Almost every table had one order of egg-wrapped gimbap. Two of us got banquet noodles and the egg-wrapped gimbap. It wasn't bad, but I'm not sure it's worth going out of your way for. It filled us up fine.

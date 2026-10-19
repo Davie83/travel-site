@@ -1,9 +1,10 @@
 ---
-title: Dumichon Dwaeji-gukbap — Busan's Pork Soup, Clean-Tasting and Open Till Midnight
+title: Dumichon Dwaeji-gukbap — Clean Pork Soup Till Midnight
 cat: food
 region: busan
 area: dongnae
 date: 2026-08-22
+updated: 2026-10-20
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg
 excerpt: Clean pork broth with no gamey edge, and a proper meal for under ₩10,000. Dongnae is packed with pork soup restaurants so this isn't a destination, but it's a solid one — and it runs until midnight.

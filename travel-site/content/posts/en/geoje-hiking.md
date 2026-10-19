@@ -1,9 +1,10 @@
 ---
-title: Walking Geoje Island — The Road Between the Famous Places Was the Better Part
+title: Walking Geoje Island — The Road Between Sights Was Best
 cat: travel
 region: gyeongsang
 area: geoje
 date: 2026-08-22
+updated: 2026-10-20
 emoji: 🌊
 thumb: assets/img/geoje-hiking.jpg
 excerpt: Windy Hill is a famous spot, and it feels like it. What stayed with me was the walk to get there — bays strung with aquaculture floats, someone working the tidal rocks, and stretches of sea with nobody in them.

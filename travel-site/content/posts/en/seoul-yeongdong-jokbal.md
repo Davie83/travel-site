@@ -1,9 +1,10 @@
 ---
-title: Yeongdong Jokbal — Easily the Best Jokbal I've Had in the Gangnam Area, Springy Skin and Tender Meat
+title: Yeongdong Jokbal — Springy Skin, Tender Meat Jokbal
 cat: food
 region: seoul
 area: gangnam
 date: 2026-08-29
+updated: 2026-10-20
 emoji: 🐷
 thumb: assets/img/seoul-yeongdong-jokbal.jpg
 excerpt: A jokbal (braised pig's trotter) place in Yangjae. Of all the jokbal I've had around Gangnam, this was the best. Even after a long gap, the skin is still springy and the meat still falls-apart tender. There are several annexes near the main branch. If it were closer, I'd go back regularly.

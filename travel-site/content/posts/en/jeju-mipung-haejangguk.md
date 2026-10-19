@@ -1,9 +1,10 @@
 ---
-title: Mipung Haejang-guk, Jeju City — A Fiery, Punchy Hangover Soup Done Jeju-Style
+title: Mipung Haejang-guk — Fiery Jeju-Style Hangover Soup
 cat: food
 region: jeju
 area: jejusi
 date: 2026-08-28
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/jeju-mipung-haejangguk.jpg
 excerpt: Every time I'm on Jeju for work I make one meal a hangover soup. Of the places I've tried, Mipung is my first pick. The broth is fiery, and the point where the heat meets that sharp, punchy edge is what I like. On Jeju you load it with grated garlic.

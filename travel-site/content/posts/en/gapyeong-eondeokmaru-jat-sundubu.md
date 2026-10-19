@@ -1,9 +1,10 @@
 ---
-title: Eondeokmaru Gapyeong Pine-Nut Tofu House — Mild Pine-Nut Sundubu, Gently Seasoned
+title: Eondeokmaru Gapyeong — Pine-Nut Sundubu, Gently Seasoned
 cat: food
 region: gyeonggi
 area: gapyeong
 date: 2026-08-31
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/gapyeong-eondeokmaru-jat-sundubu.jpg
 excerpt: I was in Gapyeong, got a craving for sundubu, and went looking. Gapyeong is pine-nut country, and this place makes jat-sundubu — soft tofu with pine nuts. The broth is gently seasoned and, thanks to the pine nuts, very mild and clean. It can taste bland if you're after something bold, but if you like plain sundubu it's a bowl that stays with you.

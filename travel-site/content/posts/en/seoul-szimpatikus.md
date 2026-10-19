@@ -1,10 +1,10 @@
 ---
-title: Szimpatikus Seoul Station — Bracken and Brisket Pasta, Western Food Built from Korean Ingredients
+title: Szimpatikus Seoul Station — Bracken and Brisket Pasta
 cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-27
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg
 excerpt: Szimpatikus Seoul Station is a Western restaurant on the ground floor of Grand Central, right outside Seoul Station in Jung-gu, Seoul. The signature is bracken and brisket pasta (23,500 KRW as of Aug 2026), Korean ingredients rebuilt as Western food. There is an afternoon break from 3 to 5pm.

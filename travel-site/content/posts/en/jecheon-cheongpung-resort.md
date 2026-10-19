@@ -1,9 +1,10 @@
 ---
-title: Cheongpung Resort — Dated Rooms, but the View Over Cheongpung Lake Delivers
+title: Cheongpung Resort — Dated Rooms, Great Lake View
 cat: travel
 region: chungcheong
 area: chungbuk
 date: 2026-08-31
+updated: 2026-10-20
 emoji: 🏞️
 thumb: assets/img/jecheon-cheongpung-resort.jpg
 excerpt: A resort looking down over Cheongpung Lake in Jecheon, North Chungcheong. The lake was formed by the Chungju Dam; locally everyone calls this stretch Cheongpung-ho. The rooms and facilities are old and nothing to expect much from, but the water-and-mountain view from the balcony is the real thing. A good place to slow down for a day.

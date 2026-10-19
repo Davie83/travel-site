@@ -1,9 +1,10 @@
 ---
-title: Gwonsusan — Yeouido's Best-Value Lunch, With Fried Fish as a Side Dish
+title: Gwonsusan — Yeouido Lunch With Fried Fish on the Side
 cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-20
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg
 excerpt: A raw fish rice bowl piled with vegetables, and six free side dishes — one of which is a breaded fish cutlet with tartar sauce. Excellent lunch value in an expensive office district. Private rooms available; book ahead.

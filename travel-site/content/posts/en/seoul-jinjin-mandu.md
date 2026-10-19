@@ -1,10 +1,10 @@
 ---
-title: Jinjin Mandu-guk — One Dumpling, Three Broths, and the Red One Isn't Hot
+title: Jinjin Mandu-guk — One Dumpling, Three Broths
 cat: food
 region: seoul
 area: yeouido
 date: 2026-08-22
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🥟
 thumb: assets/img/seoul-jinjin-mandu.jpg
 excerpt: Jinjin Mandu-guk is a hand-folded dumpling soup shop in Yeouido, Seoul, with two branches near Yeouido and National Assembly stations. The dumplings come in three broths — sulguk, tteokguk and the red eolkeun mandu-guk, which looks fierce but barely registers as spicy.

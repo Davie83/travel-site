@@ -1,10 +1,10 @@
 ---
-title: Buwon Myeonok — Old-School Pyongyang Naengmyeon Above Namdaemun Market
+title: Buwon Myeonok — Old-School Pyongyang Naengmyeon
 cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-21
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-buwon-myeonok.jpg
 excerpt: Buwon Myeonok is a Pyongyang cold noodle shop on the second floor inside Namdaemun Market in Jung-gu, Seoul. It delivers the old, restrained style of Pyongyang naengmyeon, the mung bean pancake fried in beef fat is wonderfully nutty, and it is great value. The entrance is easy to miss, and it closes at 8pm (as of Aug 2026).

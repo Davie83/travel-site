@@ -1,9 +1,10 @@
 ---
-title: Oseong Sikdang — Incheon's Raw Shad Salad, Built to Be Mixed Into Rice
+title: Oseong Sikdang — Raw Shad Salad Over Rice
 cat: food
 region: gyeonggi
 area: incheon
 date: 2026-08-22
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg
 excerpt: Spicy raw shad with soy-marinated crab, on the second floor of the Haeyang Centre building at Incheon's Yeonan Pier. Every shop on this street serves the same two dishes — the seasoning and the side dishes are what differ. This one's seasoning suited me better than the famous shop next door.

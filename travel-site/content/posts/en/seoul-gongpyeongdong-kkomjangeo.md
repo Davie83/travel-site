@@ -1,10 +1,10 @@
 ---
-title: Gongpyeongdong Kkomjangeo — Grilled Hagfish, Salt First, and the Texture Is the Point
+title: Gongpyeongdong Kkomjangeo — Salt-Grilled Hagfish
 cat: food
 region: seoul
 area: jongno
 date: 2026-08-23
-updated: 2026-10-18
+updated: 2026-10-20
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
 excerpt: Gongpyeongdong Kkomjangeo's No. 1 direct-run shop is a grilled hagfish restaurant two minutes from Jonggak Station in Jongno, Seoul. There is no fishy smell; what is unfamiliar is the springy, chewy texture, so start with the salt-grilled version, which is not spicy at all. Open every day, until midnight on weekdays (as of Aug 2026).

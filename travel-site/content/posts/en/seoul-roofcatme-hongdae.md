@@ -1,9 +1,10 @@
 ---
-title: Roofcatme Cat Cafe, Hongdae — Right by Hongik Univ. Station Exit 9, a Break with the Cats
+title: Roofcatme Cat Cafe — A Break With the Cats in Hongdae
 cat: travel
 region: seoul
 area: hongdae
 date: 2026-08-30
+updated: 2026-10-20
 emoji: 🐱
 thumb: assets/img/seoul-roofcatme-hongdae.jpg
 excerpt: A cat cafe I ended up stopping by. "Hongdae branch" suggests there are others. It's close to Hongik Univ. Station Exit 9, and there were plenty of foreign visitors when I went. If you like cats, it's a good place to sit and rest for a bit while you're wandering Hongdae.

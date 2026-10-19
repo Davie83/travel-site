@@ -1,9 +1,10 @@
 ---
-title: Jejunagi — A Hitsumabushi That Brings Nagoya Back, Taken to Go in Aewol
+title: Jejunagi — Hitsumabushi to Go in Aewol
 cat: food
 region: jeju
 area: aewol
 date: 2026-08-30
+updated: 2026-10-20
 emoji: 🍱
 thumb: assets/img/jeju-jejunagi.jpg
 excerpt: I went because I was craving hitsumabushi — Nagoya-style grilled eel over rice. The weather was good so I got it to go, and being hungry, I ate it well with the sunshine. The eel was meltingly tender. Honestly, an indulgent meal. It brought back the taste of a place I ate at in Nagoya.

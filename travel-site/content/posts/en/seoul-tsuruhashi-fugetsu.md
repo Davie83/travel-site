@@ -1,9 +1,10 @@
 ---
-title: Tsuruhashi Fugetsu Myeongdong — Osaka Okonomiyaki, Grilled in Front of You
+title: Tsuruhashi Fugetsu Myeongdong — Osaka Okonomiyaki
 cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
+updated: 2026-10-20
 emoji: 🍺
 thumb: assets/img/seoul-tsuruhashi-fugetsu.jpg
 excerpt: The Myeongdong branch of an okonomiyaki house that started in Tsuruhashi, Osaka. Every table has its own hot plate and staff cook it in front of you. Okonomiyaki and a beer on a day off is a hard combination to beat. Mind the 2:30 to 5:00 PM break.

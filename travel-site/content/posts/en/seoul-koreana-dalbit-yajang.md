@@ -1,5 +1,5 @@
 ---
-title: Koreana Hotel Dalbit Yajang — Rooftop Pork and Beer
+title: Koreana Hotel Dalbit Yajang — Rooftop Pork Set
 cat: food
 region: seoul
 area: gwanghwamun

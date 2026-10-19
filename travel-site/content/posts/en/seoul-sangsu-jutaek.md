@@ -1,9 +1,10 @@
 ---
-title: Sangsu Jutaek — A Converted-House Bar in Sangsu, With a Wide Makgeolli Lineup
+title: Sangsu Jutaek — Converted-House Makgeolli Bar
 cat: food
 region: seoul
 area: hongdae
 date: 2026-09-22
+updated: 2026-10-20
 emoji: 🍶
 thumb: assets/img/seoul-sangsu-jutaek.jpg
 excerpt: A bar inside an old converted house in Sangsu-dong, close in spirit to a Korean-style izakaya. The makgeolli lineup is wide enough to compare several side by side, and the anju menu spans several categories too. The food isn't spectacular, but it's solid enough to pair well with the drinks.

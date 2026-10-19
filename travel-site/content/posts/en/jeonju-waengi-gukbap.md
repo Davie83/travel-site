@@ -1,9 +1,10 @@
 ---
-title: Jeonju Waengi Kongnamul-gukbap — The Bowl That Tells Me I've Arrived in Jeonju
+title: Jeonju Waengi Kongnamul-gukbap — Bean Sprout Soup Rice
 cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-09-20
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/jeonju-waengi-gukbap.jpg
 excerpt: Everyone knows Jeonju is famous for kongnamul-gukbap (bean sprout soup with rice). This particular shop is old and well-known enough to have a second branch. The broth is clean and refreshing, and you can ask for more bean sprouts. It's become my personal ritual — first stop, every time I'm in Jeonju.

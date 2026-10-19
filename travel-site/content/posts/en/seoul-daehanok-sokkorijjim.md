@@ -1,9 +1,10 @@
 ---
-title: Daehanok — A 50-Year Yeongdeungpo Veteran's Ox-Tail Suyuk and Chives
+title: Daehanok — 50-Year Yeongdeungpo Ox-Tail Suyuk
 cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-09-20
+updated: 2026-10-20
 emoji: 🐂
 thumb: assets/img/seoul-daehanok-sokkorijjim.jpg
 excerpt: A Yeongdeungpo veteran pushing 50 years. Tender ox-tail suyuk comes topped with sharp seasoned chives, alongside a milky bone broth. The real finish is mixing thin noodles into the leftover chive sauce. Worth knowing — the portion always feels a touch small for the price.

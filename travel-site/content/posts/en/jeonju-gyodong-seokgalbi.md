@@ -1,9 +1,10 @@
 ---
-title: Gyodong Seokgalbi — A Hot-Plate Galbi Spot in Jeonju Hanok Village, for When You're Hungry
+title: Gyodong Seokgalbi — Hot-Plate Galbi in Jeonju
 cat: food
 region: jeolla
 area: jeonbuk
 date: 2026-09-20
+updated: 2026-10-20
 emoji: 🥩
 thumb: assets/img/jeonju-gyodong-seokgalbi.jpg
 excerpt: I stopped in here after getting hungry while walking around Jeonju Hanok Village. I ordered seokgalbi, and the table filled up with a colorful spread of side dishes — enough to enjoy with your eyes alone. I left full and happy with the presentation. The taste itself, though, was just fine — nothing more. Once you're done, the hanok village has pretty walking paths wherever you head next, so there's nothing to worry about.

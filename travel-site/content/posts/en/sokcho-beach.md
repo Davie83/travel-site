@@ -1,9 +1,10 @@
 ---
-title: Sokcho Beach — The ㅅㅊ Sculpture, the Sokcho Eye, and a Fixed Point on a Gangwon Trip
+title: Sokcho Beach — Sculpture, Sokcho Eye, a Gangwon Stop
 cat: travel
 region: gangwon
 area: sokcho
 date: 2026-09-04
+updated: 2026-10-20
 emoji: 🏖️
 thumb: assets/img/sokcho-beach.jpg
 excerpt: The ㅅㅊ sculpture and the #SokchoTrip sign in front of the sand, plus the Sokcho Eye ferris wheel. That alone tells you it is Sokcho Beach. It is a place I stop at, even briefly, whenever I am in Gangwon — the surroundings are always the same, and one walk here lifts the mood.

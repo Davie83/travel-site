@@ -1,9 +1,10 @@
 ---
-title: Mapo Yangji Seolleongtang — A Long-Time Regular Spot, Green Onion Kimchi and Ox-Knee Soup
+title: Mapo Yangji Seolleongtang — Ox-Knee Soup and Kimchi
 cat: food
 region: seoul
 area: mapo
 date: 2026-09-05
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-mapo-yangji-seolleongtang.jpg
 excerpt: A seolleongtang place near Mapo/Gongdeok that I've gone to for a long time. It used to sit behind the Shilla Stay across the street; now, much like Myeongdong Gyoja, it has moved into a proper new shop at its current address. Early on I always got the large seolleongtang, stuffed with meat, and the kimchi here — including a green onion version — is genuinely excellent. These days I mostly order the ox-knee soup, generous with cartilage.

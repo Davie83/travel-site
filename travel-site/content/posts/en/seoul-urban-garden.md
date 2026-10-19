@@ -1,9 +1,10 @@
 ---
-title: Urban Garden — A Western Restaurant on Jeongdong-gil Where the Atmosphere Comes First
+title: Urban Garden — Western Dining on Jeongdong-gil
 cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-09-23
+updated: 2026-10-20
 emoji: 🥩
 thumb: assets/img/seoul-urban-garden.jpg
 excerpt: A Western restaurant near Jeongdong-gil with a charming, plant-filled atmosphere. There's a lunch set, but this time I ordered steak and pasta. The setting is good enough that almost anything would taste good here — the food itself wasn't spectacular, but I still enjoyed the meal. Good for a walk along Jeongdong-gil and on to Gwanghwamun afterward.

@@ -1,9 +1,10 @@
 ---
-title: Fritz Coffee Dohwa — a Mapo Cafe in a Converted House, for After a Meal
+title: Fritz Coffee Dohwa — A Converted-House Cafe in Mapo
 cat: food
 region: seoul
 area: mapo
 date: 2026-09-06
+updated: 2026-10-20
 emoji: ☕
 thumb: assets/img/seoul-fritz-dohwa.jpg
 excerpt: Fritz Coffee's Dohwa branch, near Mapo Station, in an old Western-style house that's been converted. There are plenty of places to eat nearby, so it works to have a proper meal first and then come here for tea and bread as dessert. I don't judge bread with any depth, but I had a croissant and a seasonal ade after eating and left happy. The building itself — a yard, a short flight of steps — is quietly good-looking.

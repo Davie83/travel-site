@@ -1,9 +1,10 @@
 ---
-title: Camellia Hill — A Large Seogwipo Garden Where the Headline Flower Changes by Season
+title: Camellia Hill — A Seogwipo Garden That Changes by Season
 cat: travel
 region: jeju
 area: seogwipo
 date: 2026-09-07
+updated: 2026-10-20
 emoji: 🌺
 thumb: assets/img/jeju-camellia-hill.jpg
 excerpt: A large garden in Seogwipo, on Jeju's west side. Once you leave Jeju City, it's one of the places most people stop at, along with O'sulloc and Sanbangsan. The name is camellia, but the headline flower changes by season — and by feel, summer, when the hydrangeas are out, is the main one. It's bigger than you'd expect, so walking the whole thing takes a while. Looking at the flowers and the garden clears your head.

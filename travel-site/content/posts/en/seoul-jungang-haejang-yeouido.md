@@ -1,9 +1,10 @@
 ---
-title: Jungang Haejang Yeouido — A Step Above Cheongeoram, Premium Beef Tripe Hot Pot
+title: Jungang Haejang Yeouido — Premium Beef Tripe Hot Pot
 cat: food
 region: seoul
 area: yeouido
 date: 2026-09-30
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-jungang-haejang-yeouido.jpg
 excerpt: A beef tripe hot pot (gopchang-jeongol) spot in Yeouido — the hangover soup is quite good too. If Cheongeoram in Mangwon-dong is the clean, value-focused, vegetable-broth version, Jungang Haejang is the premium side — the tripe itself and the overall taste are a level up. Prices are noticeably higher than Cheongeoram's, though. I first fell for it at the Samseong-dong original, so a branch this close to Yeouido is a welcome surprise.

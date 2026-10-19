@@ -1,9 +1,10 @@
 ---
-title: Pyeongyangok — A Seodaemun Century Store, Chicken Gomtang with Neungi Mushroom
+title: Pyeongyangok — Seodaemun Century Store, Chicken Gomtang
 cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-09-07
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-pyeongyangok.jpg
 excerpt: A chicken-gomtang place in Seodaemun that I go to now and then for a restorative meal. It's a Seoul-designated "century store." They boil a native-breed chicken, pick off just the meat, and serve it in the broth. The broth is the standout — a good amount of neungi mushroom goes in, so the soup is clear but carries a deep mushroom aroma and leaves you feeling looked after. The shredded-potato pancake it's known for is fine on its own, but the broth itself carries a fair bit of chicken fat and the pancake is oil-fried, so going back and forth between the two was oil on oil and didn't sit especially well for me. Unless you really like potato pancake, the gomtang alone is enough.

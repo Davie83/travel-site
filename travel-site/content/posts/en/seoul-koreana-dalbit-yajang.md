@@ -1,9 +1,10 @@
 ---
-title: Koreana Hotel Dalbit Yajang — A Pork Set and Unlimited Beer on a 25th-Floor Rooftop Over Gwanghwamun
+title: Koreana Hotel Dalbit Yajang — Rooftop Pork and Beer
 cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-10-16
+updated: 2026-10-20
 emoji: 🍻
 thumb: assets/img/seoul-koreana-dalbit-yajang.jpg
 excerpt: A rooftop outdoor drinking spot on the 25th floor of Koreana Hotel in Gwanghwamun, Seoul. The Hando pork set is 150,000 won for four people and the beer is unlimited. Count the Gwanghwamun night view in the price and it is not a bad deal, and the food itself is quite good.

@@ -1,9 +1,10 @@
 ---
-title: Keundonga Seojjok Daepyo Main Branch — Jeju Pork Belly and Neck Meat, Grilled for You Near Hyeongjeseom Island
+title: Keundonga Seojjok Daepyo — Grilled Jeju Pork Belly
 cat: food
 region: jeju
 area: seogwipo
 date: 2026-10-13
+updated: 2026-10-20
 emoji: 🥩
 thumb: assets/img/jeju-keundonga-seojjok.jpg
 excerpt: A pork grill house in Daejeong-eup, Seogwipo, Jeju, a little way from Moseulpo Harbour and near Hyeongjeseom Island. You pick belly or neck meat, from regular white pork or Jeju black pork, and dip it in meoljeot, a gochujang-style sauce or salt. Staff trim the meat with scissors and grill it for you. The location looks awkward, yet the place is full at dinner.

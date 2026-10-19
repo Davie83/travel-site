@@ -1,9 +1,10 @@
 ---
-title: Maknae Hoejip — a ₩14,000 sashimi set served only at weekday lunch, Namdaemun Market
+title: Maknae Hoejip — ₩14,000 Weekday Lunch Sashimi Set
 cat: food
 region: seoul
 area: namdaemun
 date: 2026-09-15
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/seoul-maknae-hoejip.jpg
 excerpt: A raw-fish spot on the 2nd floor of Namdaemun Market. The weekday-lunch-only sashimi set runs ₩14,000 a person and comes with a spread of side dishes like a full sashimi rice bowl — enough to make a proper meal of it. There's a wait, but tables turn over faster than expected.

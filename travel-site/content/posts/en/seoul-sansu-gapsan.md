@@ -1,9 +1,10 @@
 ---
-title: Sansu Gapsan — An Old Euljiro Sundae-guk House, and a Plate of Mixed Offal
+title: Sansu Gapsan — Old Euljiro Sundae-guk and Mixed Offal
 cat: food
 region: seoul
 area: jongno
 date: 2026-09-06
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-sansu-gapsan.jpg
 excerpt: A long-standing sundae-guk (blood sausage soup) place in Euljiro. You get a bowl of the soup alongside a plate of mixed suyuk — blood sausage, head meat, liver, lung, pig stomach, all boiled and sliced by type. The room is small and there's almost always a wait now. Open the door and the deep smell of pork and offal hits first; if you're not used to it, it can read as off-putting — to me, it's the whole point.

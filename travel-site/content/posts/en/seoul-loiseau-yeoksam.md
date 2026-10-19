@@ -1,9 +1,10 @@
 ---
-title: L'OISEAU Yeoksam — an award-winning pour-over cafe, rich and low on acidity
+title: L'OISEAU Yeoksam — Rich Pour-Over Cafe
 cat: food
 region: seoul
 area: gangnam
 date: 2026-09-17
+updated: 2026-10-20
 emoji: ☕
 thumb: assets/img/seoul-loiseau-yeoksam.jpg
 excerpt: A pour-over specialty cafe tucked in a Nonhyeon-ro alley in Yeoksam. There were enough people passing by and stopping in that it caught my eye, and it turned out to be a pour-over shop with an unusually deep trophy case. Not much acidity, but rich, and reasonably priced for hand-drip coffee.

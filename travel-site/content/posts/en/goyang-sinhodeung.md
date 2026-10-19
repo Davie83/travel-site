@@ -1,9 +1,10 @@
 ---
-title: Sinhodeung Jangjak-gui — Wood-Fired Whole Chicken in Goyang, Tender Even in the Breast
+title: Sinhodeung Jangjak-gui — Wood-Fired Chicken in Goyang
 cat: food
 region: gyeonggi
 area: goyang
 date: 2026-09-07
+updated: 2026-10-20
 emoji: 🍗
 thumb: assets/img/goyang-sinhodeung.jpg
 excerpt: A wood-fired whole-chicken place in Goyang. It's the classic Korean rotisserie chicken, but done over a wood fire, and grilled well enough that even the breast comes out tender. It goes well with draft beer. The room is large and it still fills up — people wait even in high summer. I ordered the chicken skewers too, but next to the wood-fired chicken they were ordinary. It's out of the way from central Seoul, so a car helps.

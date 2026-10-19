@@ -1,9 +1,10 @@
 ---
-title: Lee Jaemo Pizza Jeju — The Famous Busan Pizza, With the Same Back-to-Basics Cheese Crust
+title: Lee Jaemo Pizza Jeju — Busan Pizza With Cheese Crust
 cat: food
 region: jeju
 area: jejusi
 date: 2026-10-07
+updated: 2026-10-20
 emoji: 🍕
 thumb: assets/img/jeju-ijaemo-pizza.jpg
 excerpt: Lee Jaemo Pizza, famous in Busan, has a branch in Jeju too. I've been to the Busan shop as well, and the impression is the same — a classic pizza that sticks to the basics. Above all, the cheese is really good and full of flavor. The default is the cheese crust pizza, and since the price gap between small and large isn't big, I recommend the large. I rarely get to Busan these days, so I stop by whenever it comes to mind in Jeju.

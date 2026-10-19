@@ -1,9 +1,10 @@
 ---
-title: Daewoo Budae-jjigae — a Teheran-ro army stew with sirloin beef on the menu
+title: Daewoo Budae-jjigae — Sirloin Army Stew
 cat: food
 region: seoul
 area: gangnam
 date: 2026-09-18
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-daewoo-budaejjigae.jpg
 excerpt: A budae-jjigae (army stew) spot near Yeoksam Station, off Teheran-ro. It splits the menu into a regular version and a beef sirloin version, and both run pricier than a typical budae-jjigae. Loaded with minari, the broth looks heavy but tastes surprisingly clean.

@@ -1,9 +1,10 @@
 ---
-title: Jinsang Hoetjip Yeoksam Branch — Sea Cucumber Entrails Poured Over Greens in a 20,000-Won Wada Baekban
+title: Jinsang Hoetjip Yeoksam — Konowada Wada Baekban
 cat: food
 region: seoul
 area: gangnam
 date: 2026-10-18
+updated: 2026-10-20
 emoji: 🥗
 thumb: assets/img/seoul-jinsang-hoetjip-yeoksam.jpg
 excerpt: A raw-fish restaurant near Yeoksam Station in Gangnam, Seoul, that serves konowada, the entrails of the sea cucumber, as a set meal. You get the usual side dishes and a plate of konowada, and mix it with greens. The sea smell is strong and divides opinion, but the flavour is rich, and places that sell it this way are rare, so it is a good-value way to eat it.

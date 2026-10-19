@@ -1,9 +1,10 @@
 ---
-title: Bas Burger Yeoksam — right by exit 3, a burger and a daytime beer is a perfect combo
+title: Bas Burger Yeoksam — Burger and Daytime Beer
 cat: food
 region: seoul
 area: gangnam
 date: 2026-09-14
+updated: 2026-10-20
 emoji: 🍔
 thumb: assets/img/seoul-basburger-yeoksam.jpg
 excerpt: A handmade-burger spot near exit 3 of Yeoksam Station. I'm not usually much of a burger person, but the sign caught my eye and the craving just took over. Burger, onion rings, and a daytime beer — the combo was good enough to make me want to just lie down and stay.

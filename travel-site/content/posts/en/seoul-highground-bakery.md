@@ -1,9 +1,10 @@
 ---
-title: High Ground Bakery — A Big Bakery Cafe in the Ui-dong Valley Below Bukhansan, With Room to Park
+title: High Ground Bakery — Bakery Cafe Below Bukhansan
 cat: food
 region: seoul
 area: gangbuk
 date: 2026-10-08
+updated: 2026-10-20
 emoji: 🥐
 thumb: assets/img/seoul-highground-bakery.jpg
 excerpt: A large bakery cafe inside the Ui-dong valley below Bukhansan. It is big, nicely designed and popular enough to need a wide car park, in an area that gets crowded on weekends. A good stop for a cup of tea and bread from a master baker.

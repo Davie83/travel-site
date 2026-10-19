@@ -1,9 +1,10 @@
 ---
-title: The Abai Village Gaetbae in Sokcho — A Hand-Pulled Ferry, Short But Worth Riding Once
+title: Abai Village Gaetbae — A Hand-Pulled Ferry in Sokcho
 cat: travel
 region: gangwon
 area: sokcho
 date: 2026-09-05
+updated: 2026-10-20
 emoji: ⛴️
 thumb: assets/img/sokcho-abai-gaetbae.jpg
 excerpt: The gaetbae ferry connects central Sokcho with Abai Village. The crossing is short, but it's an easy round trip and worth experiencing at least once. One-way tickets are available too.

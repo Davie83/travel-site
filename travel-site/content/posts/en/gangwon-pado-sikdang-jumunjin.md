@@ -1,9 +1,10 @@
 ---
-title: Pado Sikdang — The Jumunjin Bokjiri That Comes to Mind When It Turns Cold
+title: Pado Sikdang — Jumunjin Bokjiri for Cold Days
 cat: food
 region: gangwon
 area: jumunjin
 date: 2026-09-28
+updated: 2026-10-20
 emoji: 🐡
 thumb: assets/img/gangwon-pado-sikdang-jumunjin.jpg
 excerpt: A restaurant in Jumunjin, Gangwon that comes to mind as soon as the weather turns cold. I had bokjiri (clear pufferfish soup) and grilled fish. Most people here order the cod soup, but Seoul already has plenty of good cod soup spots, so I come here specifically for bokjiri — something harder to find back home. Most of the menu is good, and it has a home-cooked feel to it.

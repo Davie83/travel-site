@@ -1,9 +1,10 @@
 ---
-title: Tsukizen Yeouido — Among All the Katsu Spots, One Dish Still Wins Me Back
+title: Tsukizen Yeouido — The Katsu Dish That Wins Me Back
 cat: food
 region: seoul
 area: yeouido
 date: 2026-10-01
+updated: 2026-10-20
 emoji: 🍛
 thumb: assets/img/seoul-tsukizen-yeouido.jpg
 excerpt: A tonkatsu specialist in the basement of Yeouido's TP Tower. The original location sits between Hapjeong and Sangsu, and branches seem to have multiplied lately. The roskatsu and Chateaubriand katsu are both solid, but this thick-cut Japanese-style katsu format is everywhere now, so I wasn't blown away. Still, whenever tonkatsu crosses my mind, this place comes up — purely because of the menchikatsu. The thickness of the meat paired with the demi-glace sauce is unusually good.

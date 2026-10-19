@@ -1,9 +1,10 @@
 ---
-title: The Taco Booth Yeouido — Tacos Over a Burger on a No-Appetite Day
+title: The Taco Booth Yeouido — Tacos on a No-Appetite Day
 cat: food
 region: seoul
 area: yeouido
 date: 2026-10-01
+updated: 2026-10-20
 emoji: 🌮
 thumb: assets/img/seoul-taco-booth-yeouido.jpg
 excerpt: Right outside Exit 6 of Yeouido Station, a taco spot that's easy to grab something quick and filling from. It's a franchise with several branches, worth knowing going in. The menu runs on tacos, poke bowls, and burritos, with set menus built for two or three to share. The ingredients are fresh and the food is solid — pair it with a lunchtime beer and it's even better. Personally, on a day I have no appetite, I'd reach for tacos over a burger.

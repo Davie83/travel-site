@@ -1,9 +1,10 @@
 ---
-title: Unidam Aewol — A Sea Urchin Specialist Built Around Uni Rice Bowls, Sweet but Not Enough
+title: Unidam Aewol — Uni Rice Bowl Specialist
 cat: food
 region: jeju
 area: aewol
 date: 2026-10-07
+updated: 2026-10-20
 emoji: 🍚
 thumb: assets/img/jeju-aewol-unidam.jpg
 excerpt: A restaurant that specializes in uni (sea urchin). The main dish is the uni rice bowl (uni-don), and there are also sea urchin bibimbap and seaweed soup. The uni-don comes in small and large, priced by the grams of uni. Even the large wasn't enough for someone who loves uni, but I enjoyed uni that was sweet rather than salty. They gave only one sheet of gamtae (a fine green seaweed), and extra has to be ordered separately. They don't sell alcohol.

@@ -1,9 +1,10 @@
 ---
-title: Terarosa Yeoksam Station — a Gangneung-born roastery with a pour-over bar worth watching
+title: Terarosa Yeoksam — Gangneung Roastery, Pour-Over
 cat: food
 region: seoul
 area: gangnam
 date: 2026-09-12
+updated: 2026-10-20
 emoji: ☕
 thumb: assets/img/seoul-terarosa-yeoksam.jpg
 excerpt: Terarosa's Yeoksam Station branch, near Centerfield in Gangnam. The pour-over bar brewing several cups at once is the highlight, and the Cloud Americano has a deep, rich flavor. Terarosa started in Gangneung, and plenty of nearby tables were drinking it too.

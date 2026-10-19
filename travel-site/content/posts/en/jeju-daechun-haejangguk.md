@@ -1,9 +1,10 @@
 ---
-title: Daechun Haejangguk — Team Naejangtang, and Jeju's Garlic Rule
+title: Daechun Haejangguk — Naejangtang and Jeju's Garlic Rule
 cat: food
 region: jeju
 area: jejusi
 date: 2026-09-25
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/jeju-daechun-haejangguk.jpg
 excerpt: I don't eat haejangguk (hangover soup) much in Seoul, but somehow I crave it every time I'm in Jeju. I've worked through most of the famous haejangguk spots here. Today I ordered naejangtang (offal soup) at Daechun Haejangguk, and it suited my taste better than the plain broth. Jeju-style haejangguk isn't right without a generous scoop of minced garlic stirred in.

@@ -1,9 +1,10 @@
 ---
-title: Rokgalbi Hapjeong — Pre-grilled Marinated Pork Ribs with Real Meat on the Bone
+title: Rokgalbi Hapjeong — Pre-Grilled Pork Ribs
 cat: food
 region: seoul
 area: hongdae
 date: 2026-09-21
+updated: 2026-10-20
 emoji: 🍖
 thumb: assets/img/seoul-rokgalbi-hapjeong.jpg
 excerpt: Of the several branches, Hapjeong seemed to have the most meat left on the bone. The ribs come pre-grilled once already, so you just finish them off on the tabletop grill — and the marinated ribs I had this time aren't spicy on their own. If you want heat, there's a fully spicy version too, and even the marinated ribs come with the same spicy sauce on the side, so you can dip and taste before deciding.

@@ -1,9 +1,10 @@
 ---
-title: Haenyeo's House Aewol — When Sashimi Feels Like Too Much, a Seafood Spread and Seafood Ramyeon to Finish
+title: Haenyeo's House Aewol — Seafood Spread and Ramyeon
 cat: food
 region: jeju
 area: aewol
 date: 2026-10-04
+updated: 2026-10-20
 emoji: 🦪
 thumb: assets/img/jeju-aewol-haenyeoui-jip.jpg
 excerpt: A haenyeo's house on Aewol's coastal road. When I want something simple in Jeju — not a full sashimi meal — I stop in and somehow always walk out having eaten the seafood spread. Coming back after a while, the price felt like it had crept up (60,000 KRW). That day only the rock sea squirt was a bit small; everything else tasted like fresh sea, as always. Still a bit hungry, I added a bowl of seafood ramyeon, which comes with a whole live octopus and a large abalone — worth the price. It's an old place, and these days you see plenty of foreign tourists too.

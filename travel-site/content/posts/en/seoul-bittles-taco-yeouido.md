@@ -1,9 +1,10 @@
 ---
-title: Bittle's Taco The Hyundai Seoul — A Quick Yeouido Lunch Where You Pick the Meat, and Birria Is My Order
+title: Bittle's Taco The Hyundai Seoul — Birria Tacos
 cat: food
 region: seoul
 area: yeouido
 date: 2026-10-09
+updated: 2026-10-20
 emoji: 🌮
 thumb: assets/img/seoul-bittles-taco-yeouido.jpg
 excerpt: A taco shop in the food court on basement level 1 of The Hyundai Seoul in Yeouido. It is easy for a quick lunch, and you choose the main filling (the meat). My pick is the birria. The crisp, lacy edge of baked cheese stands out, and even the instructions on the box lid are fun to read.

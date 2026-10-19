@@ -1,9 +1,10 @@
 ---
-title: Hamdeok Golmok — A Jeju Haejangguk Spot That Moved to a New Building in Jocheon, Famous for Its Offal Soup
+title: Hamdeok Golmok — Jeju Offal Haejangguk, New Building
 cat: food
 region: jeju
 area: jejusi
 date: 2026-10-05
+updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/jeju-hamdeok-golmok.jpg
 excerpt: A haejangguk (hangover soup) spot that started near Hamdeok Beach. Coming back after a long time, I found it had moved to Jocheon, into a handsome new building. The signature is the offal soup (naejang-tang): a hefty broth with fresh offal, wrapped in a perilla leaf with salted fermented fish, and it tastes great. It brought back fond old memories. One thing to note — there's no takeout; you can only eat it right there.

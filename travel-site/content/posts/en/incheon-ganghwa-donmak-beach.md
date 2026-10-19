@@ -1,9 +1,10 @@
 ---
-title: Donmak Beach — Ganghwa Island's Best-Known Beach, and You Can Camp There
+title: Donmak Beach — A Ganghwa Island Beach You Can Camp On
 cat: travel
 region: gyeonggi
 area: ganghwa
 date: 2026-09-19
+updated: 2026-10-20
 emoji: 🏕️
 thumb: assets/img/incheon-ganghwa-donmak-beach.jpg
 excerpt: This is still Ganghwa Island's best-known beach. I drive out here now and then, and it has changed a fair bit over the years — more cafes, better upkeep — but it is still worth a stop for a change of scenery. Pay a site fee and you can pitch a tent in the pine woods behind the sand.

@@ -1,9 +1,10 @@
 ---
-title: Hao'sum Yeongdeungpo Times Square — Soup Dumplings, Black Har Gow, Garlic Water Spinach and a Black Tea Beer on the Side
+title: Hao'sum Yeongdeungpo — Soup Dumplings and Black Har Gow
 cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-10-11
+updated: 2026-10-20
 emoji: 🥟
 thumb: assets/img/seoul-haosum-yeongdeungpo.jpg
 excerpt: A Hong Kong-style dim sum restaurant on basement level 1 of Times Square in Yeongdeungpo, Seoul. I ordered soup dumplings, black har gow, stir-fried water spinach and a Hong Kong-style clay-pot rice with pork and mapo tofu, with a black tea beer on the side. At a Chinese restaurant I always agonise over which dish should anchor the meal, and this day I meant to eat lightly and walked out full.

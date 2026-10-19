@@ -1,9 +1,10 @@
 ---
-title: Sinseung Banjeom — A Chinese-Korean Restaurant in Yeouido, Level-4 Seafood Jjamppong and Kkanpung Shiitake
+title: Sinseung Banjeom — Yeouido Seafood Jjamppong
 cat: food
 region: seoul
 area: yeouido
 date: 2026-09-04
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-sinseung-banjeom.jpg
 excerpt: A Chinese-Korean restaurant in Yeouido. It's on the large side, but it was fairly full even at dinner. I ordered jjamppong and a stir-fry of kkanpung shiitake as drinking food. The jjamppong is on the spicy side (level 4), and the kkanpung shiitake was a genuine find — texture and taste both. A friend says the other dishes are good too.

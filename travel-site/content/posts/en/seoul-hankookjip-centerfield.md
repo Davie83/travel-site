@@ -1,9 +1,10 @@
 ---
-title: Hankookjip Centerfield Yeoksam — Jeonju bibimbap since 1952, now in Gangnam
+title: Hankookjip Centerfield Yeoksam — Jeonju Bibimbap
 cat: food
 region: seoul
 area: gangnam
 date: 2026-09-13
+updated: 2026-10-20
 emoji: 🍚
 thumb: assets/img/seoul-hankookjip-centerfield.jpg
 excerpt: Everyone knows Jeonju is famous for bibimbap. Hankookjip, in the basement of Centerfield, has been around since 1952, and it genuinely tastes like real Jeonju-style bibimbap. The seasoned greens and house gochujang work well together, and the gochujang itself isn't very spicy.

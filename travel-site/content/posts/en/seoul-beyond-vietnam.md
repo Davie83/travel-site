@@ -1,9 +1,10 @@
 ---
-title: Beyond Vietnam (National Assembly branch) — West Yeouido lunch pho, hunger and hangover in one bowl
+title: Beyond Vietnam (National Assembly) — West Yeouido Lunch Pho
 cat: food
 region: seoul
 area: yeouido
 date: 2026-09-09
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-beyond-vietnam.jpg
 excerpt: A pho place by the National Assembly in West Yeouido. I go for lunch now and then. The broth is clean and bright and the portion is generous — it settles a hangover and hunger at the same time. The sides (spring rolls, fried rice) are all solidly good: an ordinary but well-made bowl of pho.

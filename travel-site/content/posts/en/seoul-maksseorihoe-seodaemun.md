@@ -1,9 +1,10 @@
 ---
-title: Maksseorihoe Seodaemun — Skip the Premium Set, the Lunch Set Is Enough
+title: Maksseorihoe Seodaemun — The Lunch Set Is Enough
 cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-10-02
+updated: 2026-10-20
 emoji: 🐟
 thumb: assets/img/seoul-maksseorihoe-seodaemun.jpg
 excerpt: A sashimi restaurant a very short walk from Seodaemun Station. I meant to order the lunch set, but ended up with the premium set, which comes with a bit more (30,000 KRW per person for the lunch set, 40,000 KRW for the premium set). It's not a place with a huge spread of side dishes, but the aged sashimi at the center of the set eats well for a lunch. The private-room layout makes it a good spot for a quiet lunch with friends — though having tried the premium set, I think the regular lunch set would have been enough.

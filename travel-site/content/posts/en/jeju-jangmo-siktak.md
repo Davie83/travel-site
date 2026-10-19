@@ -1,9 +1,10 @@
 ---
-title: Jangmo Siktak — Abalone Stone-Pot Rice, Soy-Marinated Crab and Stew on One Table, Great Value in Jeju City
+title: Jangmo Siktak — Abalone Rice, Soy Crab and Stew in Jeju City
 cat: food
 region: jeju
 area: jejusi
 date: 2026-10-09
+updated: 2026-10-20
 emoji: 🍚
 thumb: assets/img/jeju-jangmo-siktak.jpg
 excerpt: A set-meal restaurant in Ido-dong, Jeju City. Abalone stone-pot rice, a stew of your choice, soy-marinated crab and stir-fried pork all arrive on one table, which makes it very good value. There is more abalone than I expected, and the abalone innards soak into the rice. Expect a wait at mealtimes.

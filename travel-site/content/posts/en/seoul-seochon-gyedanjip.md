@@ -1,9 +1,10 @@
 ---
-title: Seochon Gyedanjip — a seasonal-seafood spot worth the trip on the coldest days
+title: Seochon Gyedanjip — Seasonal Seafood
 cat: food
 region: seoul
 area: gwanghwamun
 date: 2026-09-15
+updated: 2026-10-20
 emoji: 🐚
 thumb: assets/img/seoul-seochon-gyedanjip.jpg
 excerpt: A seasonal-seafood spot tucked in a Seochon alley. Seafood lovers tend to already know this one. It serves unique seasonal catches you won't find at an ordinary seafood place, at a price that runs a bit higher. The seafood ramyeon everyone seems to order is famous too.

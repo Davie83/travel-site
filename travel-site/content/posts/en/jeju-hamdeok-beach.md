@@ -1,9 +1,10 @@
 ---
-title: Hamdeok Beach — Emerald Water, and a Spot on My Someday Month-Long-Stay List in Northeast Jeju
+title: Hamdeok Beach — Emerald Water in Northeast Jeju
 cat: travel
 region: jeju
 area: jejusi
 date: 2026-10-05
+updated: 2026-10-20
 emoji: 🏖️
 thumb: assets/img/jeju-hamdeok-beach.jpg
 excerpt: Hamdeok Beach on Jeju's northeast coast. With plenty of places to stay around it, it feels fairly touristy these days, and the walk up Seowubong right next door makes an easy follow-on. I saw quite a few Koreans and foreigners on month-long stays, and the sea really is a lovely emerald color. It's on my own list of places I'd like to try a month-long stay someday.

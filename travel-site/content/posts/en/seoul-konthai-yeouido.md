@@ -1,9 +1,10 @@
 ---
-title: Konthai Yeouido — Thai in IFC Mall, a Sour Seafood Tom Yum Noodle Soup
+title: Konthai Yeouido — Thai Tom Yum Noodles in IFC Mall
 cat: food
 region: seoul
 area: yeouido
 date: 2026-09-06
+updated: 2026-10-20
 emoji: 🍜
 thumb: assets/img/seoul-konthai-yeouido.jpg
 excerpt: The Yeouido branch of Konthai, a Thai place known for its Yeonnam-dong original. It's in the food court of IFC Mall, which has become a symbol of Yeouido. I'm not a wide-ranging Thai eater, but when I want a sour broth — a tom yum noodle soup — I go to Konthai or Soi Yeonnam. It was lunchtime and packed with office workers, but I finished the bowl clean and left, whatever anyone thought.

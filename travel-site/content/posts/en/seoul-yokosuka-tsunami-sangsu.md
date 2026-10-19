@@ -1,9 +1,10 @@
 ---
-title: Yokosuka Tsunami Sangsu — an aged-sashimi izakaya with a line before opening, the daily menu is the real draw
+title: Yokosuka Tsunami Sangsu — Aged-Sashimi Izakaya
 cat: food
 region: seoul
 area: hongdae
 date: 2026-09-11
+updated: 2026-10-20
 emoji: 🍣
 thumb: assets/img/seoul-yokosuka-tsunami-sangsu.jpg
 excerpt: An aged-sashimi izakaya in Sangsu-dong. The signature is the "menu of the day," which changes with the season and uses fish brought in from the dawn market that morning, aged until it turns chewy. Popular enough that you need to line up before opening.

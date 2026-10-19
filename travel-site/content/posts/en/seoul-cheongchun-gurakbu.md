@@ -1,9 +1,10 @@
 ---
-title: Cheongchun Gurakbu — Grilled Beef Offal in the Mapo Galbi Alley, Teugyang and Daechang
+title: Cheongchun Gurakbu — Grilled Beef Offal, Mapo Galbi Alley
 cat: food
 region: seoul
 area: mapo
 date: 2026-09-04
+updated: 2026-10-20
 emoji: 🔥
 thumb: assets/img/seoul-cheongchun-gurakbu.jpg
 excerpt: A grilled beef-offal place in the Mapo galbi alley. Teugyang and daechang are the headliners, but the menu is fairly wide. It's grilled over charcoal, so the taste is solidly above average, and the sides run from raw liver to omasum. Worth it if you like the crisp, crunchy bite of teugyang. The main room is on the loud side.

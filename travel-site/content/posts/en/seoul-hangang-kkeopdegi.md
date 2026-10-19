@@ -1,9 +1,10 @@
 ---
-title: Hangang Kkeopdegi — Grilled Pork Skin Down a Quiet Mangwon-dong Alley
+title: Hangang Kkeopdegi — Pork Skin in a Mangwon Alley
 cat: food
 region: seoul
 area: mapo
 date: 2026-09-27
+updated: 2026-10-20
 emoji: 🐖
 thumb: assets/img/seoul-hangang-kkeopdegi.jpg
 excerpt: A grilled pork skin (kkeopdegi) specialist tucked down an alley in Mangwon-dong, a bit removed from the busier part of the neighborhood. If you like kkeopdegi, it's worth the visit — they do it well. Most people start with raw pork neck (saengmoksal) and move on to the pork skin, a pattern similar to Mapo Sogeumgui. Worth knowing there can be a wait.

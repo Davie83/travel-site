@@ -48,6 +48,12 @@ A single **T-money** card gets you on buses and subways across most of the count
 
 **There is a tourist-only card too** — the old "Korea Tour Card" has been discontinued and replaced by the **T-Money Travel Card** (4,000 KRW, with partner discounts). The 6,000 KRW **Premium** version adds WOWPASS-style features: IC payment where foreign cards get declined, and won withdrawal. Buy it at a convenience store or the bus ticket counter at Incheon Airport.
 
+**From Incheon Airport into the city** — I have taken the airport railway (AREX) to Seoul Station and to Hongik University Station (Hongdae), and a limousine bus to Ewha Womans University Station.
+
+- **Going into Seoul — take the train.** Seoul Station and Hongdae are both reached directly on the airport railway, and it is the easy choice
+- **Heading straight on to another region — take the limousine bus for that area.** It is far better than going into Seoul first and changing from there
+- The limousine ride to Ewha Womans University Station took a little over an hour, as I remember it. I did not note the exact time, so check the timetable for your stop
+
 ## 3. Changing money — do not do it all at the airport {#money}
 
 Rates vary a lot by location. Listed **best first**.

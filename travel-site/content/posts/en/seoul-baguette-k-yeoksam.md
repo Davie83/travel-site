@@ -6,18 +6,18 @@ area: gangnam
 date: 2026-10-23
 emoji: 🥖
 thumb: assets/img/seoul-baguette-k-yeoksam.jpg
-excerpt: A bakery near Yeoksam Station in Gangnam, Seoul, known for its baguettes. I come here when I want baguette, so I never look at the other breads and just buy the loaf. There used to be a long queue every time, but this visit buying was easy.
-tags: [Seoul, Gangnam, Yeoksam, Baguette K, baguette, bakery, bread, sandwich, croissant, takeout]
+excerpt: A bakery near Yeoksam Station in Gangnam, Seoul, known for its baguettes. I come here when I want baguette, so I never look at the other breads and just buy the loaf. There used to be a long queue every time, but this visit buying was easy. The banana pudding is also known as a signature item.
+tags: [Seoul, Gangnam, Yeoksam, Baguette K, baguette, bakery, bread, sandwich, croissant, banana pudding, takeout]
 info:
   - Bakery|Baguette K (바게트케이)
   - Location|21-10 Teheran-ro 34-gil, Gangnam-gu, Seoul (서울 강남구 테헤란로34길 21-10)
   - Phone|02-567-9501
   - Hours|**Daily 7:00 AM – 8:00 PM** (as of Oct 2026)
-  - Signature item|**Baguette**
+  - Signature items|**Baguette** · **banana pudding**
   - Prices on the display labels|Croissant 5,500 KRW · pain au chocolat 5,900 KRW · canelé 4,500 KRW (as of Oct 2026)
 ---
 
-In Yeoksam, Gangnam, Seoul, Baguette K is a bakery well known for its baguettes.
+In Yeoksam, Gangnam, Seoul, Baguette K is a bakery well known for its baguettes. The banana pudding is also known as a signature item.
 
 ## Back at Baguette K after a while
 
@@ -34,6 +34,10 @@ The baguette here is really good. There are plenty of other breads and desserts,
 ![A baguette in a white paper bag with a clear window, held up in front of wicker baskets and a refrigerated case at Baguette K](/assets/img/seoul-baguette-k-yeoksam-baguette.jpg)
 
 The loaf comes in a white paper bag with a clear window, and several diagonal slashes run across the crust.
+
+## The banana pudding is a signature item too
+
+Besides the baguette, the banana pudding deserves a mention. I have heard that it is not very sweet and that it tastes good. I have not tried it yet.
 
 ## What it looks like — the glass display case
 
@@ -54,6 +58,7 @@ These are the prices I read off the display labels **(as of Oct 2026)**.
 - **Canelé** is a small French baked sweet with a firm outside and a moist inside
 - **Kouign-amann** is a Breton pastry layered with butter and baked until crisp
 - **Jambon-beurre** is a sandwich of cooked ham and butter
+- **Banana pudding** (바나나푸딩) is a pudding dessert made with banana
 - To order, say "Baguette juseyo" (바게트 주세요)
 
 ## For visitors from abroad
@@ -65,6 +70,7 @@ The labels on the display case carry both Korean and English names, so you can c
 - ✅ You want a bakery worth making a trip for, just for the baguette
 - ✅ You want to try again a place you gave up on because of the queue
 - ✅ You like buying bread and walking straight out
+- ✅ You are curious about a banana pudding said to be not very sweet
 - ⚠️ It is a popular place, so the queue may be long depending on the time of day
 
 ## Before you go

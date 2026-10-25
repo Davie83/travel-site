@@ -169,6 +169,13 @@ function genreOf(m) {
   const keys = new Set((m.tagKeys || []).map(String));
   return GENRES.find(g => (g.tags || []).some(k => keys.has(String(k)))) || null;
 }
+/* 한 글이 걸리는 모든 장르 (태그처럼 여러 개). 배지·빵부스러기·"더 보기" 링크는 위의 genreOf(첫 번째)를 그대로 쓰고,
+   장르 페이지의 글 목록과 개수만 이 목록을 씁니다 — 일식 이자카야가 "해산물"에 먼저 걸려도 "일식" 페이지에 같이 실립니다. */
+function genresOf(m) {
+  if (m.cat !== 'food') return [];
+  const keys = new Set((m.tagKeys || []).map(String));
+  return GENRES.filter(g => (g.tags || []).some(k => keys.has(String(k))));
+}
 
 /* ==========================================================================
    2. 프론트매터 파서
@@ -2367,13 +2374,12 @@ async function build() {
     const hasPost = (slug, c) => byLocale[c].posts.some(p => p.slug === slug);
     const hasPage = (slug, c) => byLocale[c].pages.some(p => p.slug === slug);
 
-    /* 음식 장르별 글 (주 장르 기준 — 배지·빵부스러기와 정확히 일치).
-       한 글은 한 장르 페이지에만 실립니다 (config 순서가 우선순위). */
+    /* 음식 장르별 글. 한 글이 여러 장르 태그에 걸리면 걸린 장르 페이지마다 모두 실립니다(태그처럼).
+       배지·빵부스러기는 config 순서상 첫 장르(genreOf)만 씁니다. */
     const postsByGenre = {};
     for (const g of GENRES) postsByGenre[g.slug] = [];
     for (const p of posts) {
-      const g = genreOf(p.meta);
-      if (g) postsByGenre[g.slug].push(p);
+      for (const g of genresOf(p.meta)) postsByGenre[g.slug].push(p);
     }
     const genreCounts = {};
     for (const g of GENRES) genreCounts[g.slug] = postsByGenre[g.slug].length;
@@ -2627,7 +2633,7 @@ async function build() {
         title: `${heading} — ${siteName(code)}`,
         description: (indexed && gIntro) ? firstSentence(gIntro) : desc,
         availability: availFor(`food/${g.slug}.html`,
-          c => byLocale[c].posts.some(p => genreOf(p.meta) === g)),
+          c => byLocale[c].posts.some(p => genresOf(p.meta).includes(g))),
         headExtra: `<script type="application/ld+json">${JSON.stringify(genrePageLd(g, code, inGenre, out))}</script>`,
         body: fill(T.list, {
           heading: escapeHtml(heading),

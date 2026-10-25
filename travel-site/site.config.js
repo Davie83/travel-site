@@ -405,6 +405,7 @@ module.exports = {
     { key: '수목원',   names: { ko: '수목원',   en: 'Arboretum',       ja: '樹木園',       zh: '樹木園' } },
     { key: '공원',     names: { ko: '공원',     en: 'Park',            ja: '公園',         zh: '公園' } },
     { key: '뱃놀이',   names: { ko: '뱃놀이',   en: 'Boat ride',       ja: '船遊び',       zh: '船遊' } },
+    { key: '시장',     names: { ko: '시장',     en: 'Market',          ja: '市場',         zh: '市場' } },
     { key: '하이킹',   names: { ko: '하이킹',   en: 'Hiking',          ja: 'ハイキング',   zh: '健行' } }
   ],
 

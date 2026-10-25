@@ -1,5 +1,5 @@
 ---
-title: Ganghwa Pungmul Market — Turnip Kimchi Downstairs, Bandaengi Set Meals Upstairs
+title: Ganghwa Pungmul Market — Turnip Kimchi and Bandaengi Meals
 cat: travel
 region: gyeonggi
 area: ganghwa

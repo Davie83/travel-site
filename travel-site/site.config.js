@@ -124,7 +124,8 @@ module.exports = {
         { slug: 'incheon',  names: { ko: '인천',   en: 'Incheon',        ja: '仁川',   zh: '仁川' }, seoTitle: { en: 'Where to Eat in Incheon' } },
         { slug: 'gapyeong', names: { ko: '가평',   en: 'Gapyeong',       ja: '加平',   zh: '加平' } },
         { slug: 'ganghwa',  names: { ko: '강화도', en: 'Ganghwa Island', ja: '江華島', zh: '江華島' } },
-        { slug: 'goyang',   names: { ko: '고양',   en: 'Goyang',         ja: '高陽',   zh: '高陽' } }
+        { slug: 'goyang',   names: { ko: '고양',   en: 'Goyang',         ja: '高陽',   zh: '高陽' } },
+        { slug: 'gimpo',    names: { ko: '김포',   en: 'Gimpo',          ja: '金浦',   zh: '金浦' } }
       ] },
     { slug: 'gangwon',     color: '#2a6984', colorDark: '#7cc1de',   // 청록
       names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' },

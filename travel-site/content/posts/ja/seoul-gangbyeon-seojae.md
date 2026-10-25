@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-gangbyeon-seojae.jpg
-excerpt: コーヒーもパンも普通です。ただ、眺めがまったく普通ではありません。国会議事堂の敷地内にあるカフェで、一般人も入れて、屋上から漢江が丸ごと見えます。桜の時期が最高です。
+excerpt: ソウル汝矣島、国会の敷地内、サランジェ横の建物2階にある漢江ビューのベーカリーカフェ、江辺書斎。一般の人も入れ、ルーフトップから漢江が一望できます。平日8:30〜19:00、日曜休み（2026年8月時点）。パンは昼以降はたいてい売り切れます。
 tags: [ソウル, 汝矣島, 国会議事堂, 漢江ビュー, カフェ, ベーカリー, ルーフトップ, 桜, 漢江公園]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%B3%80%EC%84%9C%EC%9E%AC+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

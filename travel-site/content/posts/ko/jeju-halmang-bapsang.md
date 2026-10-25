@@ -4,9 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
+updated: 2026-10-25
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
-excerpt: 배가 고플 때 가야 하는 집입니다. 생선구이에 제육볶음, 해물파전, 반찬 열 가지가 한 상에 올라오고 밥과 국은 무한리필입니다. 맛은 솔직히 평타입니다. 그런데 한식을 통째로 한 번에 겪어보고 싶다면 이만한 곳이 드뭅니다.
+excerpt: 제주 서귀포 모슬포항 바로 앞의 제주할망밥상 모슬포점은 생선구이·제육볶음·반찬 10가지가 나오는 할망그날정식을 15,000원에 냅니다(2026.08 기준). 밥과 국은 무한리필이고 8세 이상은 1인 1주문이며, 맛은 평범해도 한식 한 상을 한 번에 겪기엔 좋습니다.
 tags: [제주, 서귀포, 대정읍, 모슬포, 모슬포항, 생선구이, 정식, 백반, 제육볶음, 한식체험]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%95%A0%EB%A7%9D%EB%B0%A5%EC%83%81+%EB%AA%A8%EC%8A%AC%ED%8F%AC%EC%A0%90
 lat: 33.2142523

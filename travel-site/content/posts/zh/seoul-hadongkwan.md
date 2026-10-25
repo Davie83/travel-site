@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-25
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg
-excerpt: 首爾的老字號清湯牛肉湯（곰탕）。先喝原味，再讓店家給一點蘿蔔泡菜的汁倒進去，味道完全變一次。價格偏高，但做得用心。早上 7 點就開門，明洞和汝矣島都有分店。
+excerpt: 在首爾汝矣島與明洞設有分店的老店 河東館（하동관），主打清湯牛肉湯，基本款19,000韓元、「25」款25,000韓元（截至2026年8月）。汝矣島店營業 7:00~16:00、週日公休；喝到一半請店家加蘿蔔泡菜汁，一碗就有兩種風味。
 tags: [首爾, 汝矣島, 明洞, 牛肉湯, 湯飯, 蘿蔔泡菜, 早餐]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%8F%99%EA%B4%80+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

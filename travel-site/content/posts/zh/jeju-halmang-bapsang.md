@@ -4,10 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-25
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
-excerpt: 要空著肚子去的店。烤魚、辣炒豬肉、海鮮煎餅和十道小菜一次擺滿一桌，白飯和湯無限續。味道說實話很普通。但如果想一次性體驗韓國的家常菜，這樣的店真的不多。
+excerpt: 位在濟州西歸浦摹瑟浦港正前方的 제주할망밥상（Jeju Halmang Bapsang）摹瑟浦店，一份15,000韓元（截至2026年8月）的定食有烤魚、辣炒豬肉和十道小菜，白飯與湯可無限續。8歲以上每人需點一份；味道普通，但想一次體驗完整的韓式一桌很適合。
 tags: [濟州, 西歸浦, 摹瑟浦, 烤魚, 定食, 小菜, 韓餐, 山房山]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%95%A0%EB%A7%9D%EB%B0%A5%EC%83%81+%EB%AA%A8%EC%8A%AC%ED%8F%AC%EC%A0%90
 lat: 33.2142523

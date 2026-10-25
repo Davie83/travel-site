@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
-updated: 2026-10-15
+updated: 2026-10-25
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg
-excerpt: 蔬菜給得很多的生魚片蓋飯，加六道免費小菜，其中一道是配塔塔醬的炸魚排。在物價高的汝矣島，這個午餐 CP 值很突出。有包廂，建議先訂位。
+excerpt: 位在首爾汝矣島國會議事堂站附近的 권수산（Gwonsusan），生魚片蓋飯蔬菜豐富，還附六道小菜與炸魚排。位於地下一樓，11:00 開始營業、週六日公休（截至2026年8月），設有包廂，可透過 CatchTable 預約。
 tags: [首爾, 汝矣島, 永登浦, 國會議事堂, 生魚片蓋飯, 午餐, 包廂, CP值]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

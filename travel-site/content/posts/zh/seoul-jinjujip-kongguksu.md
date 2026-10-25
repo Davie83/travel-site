@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
-updated: 2026-10-15
+updated: 2026-10-25
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
-excerpt: 豆漿涼麵的名店。湯底完全沒有調味，要自己加鹽或加糖。調對了會讓人每個熱天都想起來，只是這幾年價格一直在漲。
+excerpt: 位在首爾汝矣島汝矣島百貨地下一樓的 진주집（Jinjujip），是被列為首爾三大豆漿麵的名店，湯頭不調味，要自己加鹽或糖。豆漿麵15,000韓元（截至2026年8月），週一至五 10:00~20:00，週日公休。
 tags: [首爾, 汝矣島, 豆漿麵, 涼麵, 夏季料理, 素食]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

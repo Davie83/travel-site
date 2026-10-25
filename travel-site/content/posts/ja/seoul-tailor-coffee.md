@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-tailor-coffee.jpg
-excerpt: 冬の終わりの朝に立ち寄ったのですが、まず内装が目に入りました。涼しい空気の中で飲んだアメリカーノの風味と、その雰囲気が長く記憶に残っています。コーヒーの値段は安くありませんが、近くにいるなら一度は寄ってみる価値があります。
+excerpt: ソウル中区、南大門路の韓国銀行のそばにあるテイラーコーヒー 小公店は、1階にあるコーヒー店で、まず内装が目に入ります。アメリカーノとハンドドリップ（ドリップバー）があり、20:30閉店（2026年8月時点）。テーブルは多くなく、値段は少し高めです。
 tags: [ソウル, 明洞, 小公洞, 南大門, 韓国銀行, カフェ, コーヒー, ドリップ, アメリカーノ, 酸味]
 map: https://www.google.com/maps/search/?api=1&query=%ED%85%8C%EC%9D%BC%EB%9F%AC%EC%BB%A4%ED%94%BC+%EC%86%8C%EA%B3%B5%EC%A0%90
 lat: 37.5624128

@@ -4,10 +4,10 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-22
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg
-excerpt: Clean pork broth with no gamey edge, and a proper meal for under ₩10,000. Dongnae is packed with pork soup restaurants so this isn't a destination, but it's a solid one — and it runs until midnight.
+excerpt: Dumichon Dwaeji-gukbap, in Dongnae-gu near Oncheonjang Station in Busan, serves clean pork soup with no gamey edge and stays open until midnight (as of Aug 2026). Dongnae is packed with pork soup restaurants, so the late hours are its strength. Suyuk and sundae are also on the menu.
 tags: [Busan, Dongnae, dwaeji-gukbap, pork soup, local food, late night]
 map: https://www.google.com/maps/search/?api=1&query=%EB%91%90%EB%AF%B8%EC%B4%8C%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EB%B6%80%EC%82%B0+%EB%8F%99%EB%9E%98
 info:

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
+updated: 2026-10-25
 emoji: 🥣
 thumb: assets/img/seoul-jinjujip-kongguksu.jpg
-excerpt: One of Seoul's best known kongguksu shops. The broth arrives unseasoned, and you add salt or sugar to taste. Get it right and you will want it every hot day, though the price has climbed steadily for years.
+excerpt: Jinjujip, in the basement of Yeouido Department Store in Yeouido, Seoul, is counted among Seoul's best known kongguksu shops. The broth arrives unseasoned, and you add salt or sugar yourself. Kongguksu is 15,000 KRW (as of Aug 2026), and it is open Monday to Friday 10:00 AM to 8:00 PM, closed Sundays.
 tags: [Seoul, Yeouido, kongguksu, soybean noodles, cold noodles, summer food, vegetarian]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EC%A3%BC%EC%A7%91+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

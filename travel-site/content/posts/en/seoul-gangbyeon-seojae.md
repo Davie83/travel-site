@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-gangbyeon-seojae.jpg
-excerpt: The coffee and the bread are ordinary. The view is not. This cafe sits inside the National Assembly grounds, the public can walk in, and the rooftop opens onto the whole Han River. Cherry blossom season is the peak.
+excerpt: Gangbyeon Seojae is a Han River view bakery cafe on the second floor of a building next to Sarangjae inside the National Assembly grounds in Yeouido, Seoul. The public can walk in, and the rooftop looks over the whole river. Open 8:30 AM to 7:00 PM on weekdays and closed Sundays (as of Aug 2026); the bread usually sells out after lunch.
 tags: [Seoul, Yeouido, National Assembly, Han River view, cafe, bakery, rooftop, cherry blossom, park]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%B3%80%EC%84%9C%EC%9E%AC+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

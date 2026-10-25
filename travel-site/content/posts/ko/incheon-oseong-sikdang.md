@@ -4,9 +4,10 @@ cat: food
 region: gyeonggi
 area: incheon
 date: 2026-08-22
+updated: 2026-10-25
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg
-excerpt: 밴댕이회무침 + 게장이 기본인 연안부두 해양센터 2층 노포. 이 거리 가게들은 메인이 거의 같고 반찬으로 갈립니다. 오래 다닌 집보다 이 집 양념이 더 감칠맛 있었습니다.
+excerpt: 인천 중구 연안부두 해양센터 2층의 오성식당은 생물 밴댕이회무침과 게장이 기본인 노포입니다. 오후 9시까지 하고(2026.08 기준), 이 거리 가게들은 메인이 비슷해 양념과 반찬이 다릅니다. 인천역에서 버스로 가거나 자차·택시가 편합니다.
 tags: [인천, 중구, 연안부두, 해양센터, 밴댕이, 회무침, 게장]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%B1%EC%8B%9D%EB%8B%B9+%EC%9D%B8%EC%B2%9C+%EC%97%B0%EC%95%88%EB%B6%80%EB%91%90
 lat: 37.4562083

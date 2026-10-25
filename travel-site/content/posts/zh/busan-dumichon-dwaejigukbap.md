@@ -4,10 +4,10 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-25
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg
-excerpt: 豬骨湯很清，沒有腥味，1 萬韓元以內能吃一頓。東萊一帶豬肉湯飯店密集，所以它不是「專程去」的店，但是一家扎實的店 —— 而且開到半夜 12 點。
+excerpt: 位在釜山東萊區溫泉場站附近的 두미촌돼지국밥（Dumichon Dwaeji-gukbap），湯頭清爽、肉沒有腥味，營業到午夜 12 點（截至2026年8月）。東萊豬肉湯飯店林立，營業到很晚是它的優勢，也有水煮肉與血腸。
 tags: [釜山, 東萊, 溫泉洞, 豬肉湯飯, 돼지국밥, 在地店, 深夜營業]
 map: https://www.google.com/maps/search/?api=1&query=%EB%91%90%EB%AF%B8%EC%B4%8C%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EB%B6%80%EC%82%B0+%EB%8F%99%EB%9E%98
 info:

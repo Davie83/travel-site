@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg
-excerpt: A raw fish rice bowl piled with vegetables, and six free side dishes — one of which is a breaded fish cutlet with tartar sauce. Excellent lunch value in an expensive office district. Private rooms available; book ahead.
+excerpt: Gwonsusan, near National Assembly Station in Yeouido, Seoul, serves a vegetable-heavy raw fish rice bowl with six side dishes and a breaded fish cutlet on the side. It is in the basement, opens at 11:00 AM and is closed on weekends (as of Aug 2026). It has private rooms and takes bookings through CatchTable.
 tags: [Seoul, Yeouido, Yeongdeungpo, National Assembly, hoedeopbap, raw fish, set lunch, private room]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

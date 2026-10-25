@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-tailor-coffee.jpg
-excerpt: 在冬末的一個早晨順路進去，最先注意到的是店內的陳設。在微涼的天氣裡喝的那杯美式，還有當時的氛圍，都記了很久。咖啡價格不算便宜，但如果就在附近，值得進去坐一次。
+excerpt: 位在首爾中區南大門路、韓國銀行旁1樓的 Tailor Coffee 小公店，先映入眼簾的是空間設計。有美式咖啡與手沖（沖煮吧台），20:30 打烊（截至2026年8月），座位不多、價格不算便宜。
 tags: [首爾, 明洞, 小公洞, 南大門, 韓國銀行, 咖啡館, 咖啡, 手沖, 美式, 酸度]
 map: https://www.google.com/maps/search/?api=1&query=%ED%85%8C%EC%9D%BC%EB%9F%AC%EC%BB%A4%ED%94%BC+%EC%86%8C%EA%B3%B5%EC%A0%90
 lat: 37.5624128

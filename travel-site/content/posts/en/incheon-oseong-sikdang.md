@@ -4,10 +4,10 @@ cat: food
 region: gyeonggi
 area: incheon
 date: 2026-08-22
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: 🐟
 thumb: assets/img/incheon-oseong-sikdang.jpg
-excerpt: Spicy raw shad with soy-marinated crab, on the second floor of the Haeyang Centre building at Incheon's Yeonan Pier. Every shop on this street serves the same two dishes — the seasoning and the side dishes are what differ. This one's seasoning suited me better than the famous shop next door.
+excerpt: Oseong Sikdang, on the second floor of the Haeyang Centre building at Yeonan Pier in Jung-gu, Incheon, serves spicy raw shad salad with marinated crab as its basics. It is open until 9:00 PM (as of Aug 2026). The shops on this street serve much the same main dishes, so seasoning and side dishes decide it. Take a bus from Incheon Station, or go by car or taxi.
 tags: [Incheon, Jung-gu, Yeonan Pier, bandaengi, raw shad, ganjang gejang]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%84%B1%EC%8B%9D%EB%8B%B9+%EC%9D%B8%EC%B2%9C+%EC%97%B0%EC%95%88%EB%B6%80%EB%91%90
 info:

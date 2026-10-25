@@ -4,11 +4,12 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-25
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg
 famous: true
 pick: true
-excerpt: 한국식 정통 맑은 국물 곰탕. 그냥 먹다가 깍두기 국물을 넣어 달라고 해서 두 가지 맛으로 즐겨보세요. 값은 있는 편이지만 정성이 느껴집니다. 아침 7시부터 하고, 명동과 여의도에 지점이 있습니다.
+excerpt: 서울 여의도·명동에 지점이 있는 하동관은 맑은 국물 곰탕을 내는 노포로, 기본 19,000원, "25"는 25,000원입니다(2026.08 기준). 여의도점은 오전 7시~오후 4시, 일요일 휴무이고, 먹다가 깍두기 국물을 넣어 달라고 하면 한 그릇으로 두 가지 맛을 즐길 수 있습니다.
 tags: [서울, 여의도, 명동, 곰탕, 국밥, 깍두기, 아침식사]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%8F%99%EA%B4%80+%EC%97%AC%EC%9D%98%EB%8F%84
 lat: 37.5274761

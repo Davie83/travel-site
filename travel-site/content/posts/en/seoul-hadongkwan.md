@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: 🍲
 thumb: assets/img/seoul-hadongkwan.jpg
-excerpt: A long-running Seoul institution serving clear beef soup over rice. Eat it plain first, then ask for radish kimchi brine and pour it in — one bowl, two flavours. Expensive for what it is, but the care shows. Opens at 7am; branches in Myeongdong and Yeouido.
+excerpt: Hadongkwan, with branches in Yeouido and Myeongdong in Seoul, is a long-running shop serving clear beef soup at 19,000 KRW, or 25,000 KRW for the "25" size (as of Aug 2026). The Yeouido branch is open 7:00 AM to 4:00 PM and closed on Sundays. Ask for radish kimchi brine halfway through to get two flavours from one bowl.
 tags: [Seoul, Yeouido, Myeongdong, gomtang, beef soup, kkakdugi, breakfast]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EB%8F%99%EA%B4%80+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

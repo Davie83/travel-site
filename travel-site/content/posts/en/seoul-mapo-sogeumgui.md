@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-27
+updated: 2026-10-25
 emoji: 🐖
 thumb: assets/img/seoul-mapo-sogeumgui.jpg
-excerpt: An old grill house known for pork skin, running since 1995. The pairing here is skin with pork neck, and the neck is remarkably tender. Two minutes from Hapjeong Station, but the sign is easy to miss — navigate by address.
+excerpt: Mapo Sogeumgui, two minutes on foot from Exit 8 of Hapjeong Station in Mapo-gu, Seoul, has been grilling since 1995 and is known for pork skin (18,000 KRW) eaten with pork neck (as of Aug 2026). Open 4:30 PM to 10:00 PM and closed Sundays. It is not a chain, and the sign is easy to miss, so check the address.
 tags: [Seoul, Mapo, Hapjeong, Hongdae, pork skin, kkeopdegi, pork neck, salt-grilled, grill house, drinking spot, old restaurant, charcoal]
 map: https://www.google.com/maps/search/?api=1&query=%EB%A7%88%ED%8F%AC%EC%86%8C%EA%B8%88%EA%B5%AC%EC%9D%B4+%ED%95%A9%EC%A0%95
 lat: 37.5491064

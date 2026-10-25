@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-25
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg
-excerpt: 野菜たっぷりの刺身丼（フェドッパプ）と、無料のおかず6品。そのうち1品が白身魚フライ（タルタルソース付き）です。物価の高い汝矣島でこの昼値段はかなりお得。個室もあるので予約推奨。
+excerpt: ソウル汝矣島、国会議事堂駅の近くにあるクォンスサンは、野菜たっぷりの海鮮丼におかず6品と白身魚フライが付くランチの店です。地下1階、11時開店で土日休み（2026年8月時点）。個室があり、キャッチテーブルで予約できます。
 tags: [ソウル, 汝矣島, 永登浦, 国会議事堂, 刺身丼, フェドッパプ, ランチ, 個室]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

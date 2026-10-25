@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-08-27
+updated: 2026-10-25
 emoji: 🐖
 thumb: assets/img/seoul-mapo-sogeumgui.jpg
-excerpt: 以豬皮（껍데기）出名的老店，1995 年開到今天。這家的搭配是豬皮加梅花肉，梅花肉軟得出奇。離合井站兩分鐘，但招牌很不顯眼，請照地址導航。
+excerpt: 位在首爾麻浦區、從合井站8號出口步行2分鐘，自1995年營業至今的麻浦鹽烤，主打豬皮（18,000韓元）搭配梅花肉的炭火烤肉（截至2026年8月）。營業時間 16:30~22:00、週日公休，並非連鎖店，招牌不顯眼，建議先確認地址。
 tags: [首爾, 麻浦, 合井, 弘大, 豬皮, 껍데기, 梅花肉, 鹽烤, 烤肉店, 酒館, 老店, 炭火]
 map: https://www.google.com/maps/search/?api=1&query=%EB%A7%88%ED%8F%AC%EC%86%8C%EA%B8%88%EA%B5%AC%EC%9D%B4+%ED%95%A9%EC%A0%95
 lat: 37.5491064

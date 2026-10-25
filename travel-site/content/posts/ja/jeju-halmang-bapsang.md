@@ -4,9 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
+updated: 2026-10-25
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
-excerpt: お腹を空かせて行くべき店です。焼き魚、豚肉の甘辛炒め、海鮮チヂミ、おかず10品が一度に並び、ご飯とスープはお代わり自由。味は正直に言えば普通です。それでも韓国のおかずを一度にまとめて体験したいなら、これほどの店はなかなかありません。
+excerpt: 済州・西帰浦、摹瑟浦港のすぐ前にある済州ハルマンパプサン 摹瑟浦店は、焼き魚と豚肉の辛味炒め、おかず10品がつく定食が15,000ウォンです（2026年8月時点）。ご飯とスープはおかわり自由で、8歳以上は1人1注文。味は普通ですが、韓国の一膳をまとめて体験するのにちょうどいい店です。
 tags: [済州, 西帰浦, 摹瑟浦, 焼き魚, 定食, おかず, 韓定食, 山房山]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%95%A0%EB%A7%9D%EB%B0%A5%EC%83%81+%EB%AA%A8%EC%8A%AC%ED%8F%AC%EC%A0%90
 lat: 33.2142523

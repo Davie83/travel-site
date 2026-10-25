@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-tailor-coffee.jpg
-excerpt: 늦겨울 아침에 들렀는데 인테리어가 먼저 눈에 들어왔습니다. 선선한 날씨에 마신 아메리카노의 풍미와 그 분위기가 오래 기억에 남았습니다. 커피값은 좀 있는 편이지만, 근처에 계신다면 한 번쯤 들러볼 만합니다.
+excerpt: 서울 중구 남대문로 한국은행 옆의 테일러커피 소공점은 1층에 있는 커피집으로, 인테리어가 먼저 눈에 들어옵니다. 아메리카노와 핸드드립(드립 바)이 있고 오후 8시 30분에 마감하며(2026.08 기준), 테이블이 많지 않고 값은 있는 편입니다.
 tags: [서울, 명동, 소공동, 남대문, 한국은행, 카페, 커피, 드립커피, 아메리카노, 산미]
 map: https://www.google.com/maps/search/?api=1&query=%ED%85%8C%EC%9D%BC%EB%9F%AC%EC%BB%A4%ED%94%BC+%EC%86%8C%EA%B3%B5%EC%A0%90
 lat: 37.5624128

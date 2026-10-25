@@ -4,10 +4,10 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
-excerpt: Come hungry. Grilled fish, spicy stir-fried pork, a seafood pancake and ten side dishes arrive on one tray, with free refills on rice and soup. The flavour is honestly average. But if you want to meet Korean home cooking all at once, there is little else like it.
+excerpt: Jeju Halmang Bapsang Moseulpo, right by Moseulpo Port in Seogwipo, serves a set of grilled fish, spicy stir-fried pork and ten side dishes for 15,000 KRW (as of Aug 2026), with free refills of rice and soup. It is one order per person aged 8 and up. The flavour is average, but it is an easy way to meet a whole Korean table at once.
 tags: [Jeju, Seogwipo, Moseulpo, grilled fish, jeongsik, banchan, Korean set meal, Sanbangsan]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EC%A3%BC%ED%95%A0%EB%A7%9D%EB%B0%A5%EC%83%81+%EB%AA%A8%EC%8A%AC%ED%8F%AC%EC%A0%90
 lat: 33.2142523

@@ -4,9 +4,10 @@ cat: food
 region: gyeonggi
 area: gapyeong
 date: 2026-08-31
+updated: 2026-10-25
 emoji: 🍲
 thumb: assets/img/gapyeong-eondeokmaru-jat-sundubu.jpg
-excerpt: 在加平時想吃嫩豆腐，就去找了這家。加平本來就以松子出名，這裡做的是加了松子的松子嫩豆腐。湯頭清清淡淡，大概是松子的關係，非常清爽。想吃重口味的話可能會嫌淡，但如果喜歡清淡的嫩豆腐，這是一碗會記得的。
+excerpt: 位在京畿道加平郡上面樹木園路的 Eondeokmaru 加平松子豆腐店，使用加平特產松子做成松子嫩豆腐鍋，一碗12,000韓元（截至2026年8月）。營業 9:30~20:00（最後點餐19:15）、週三公休。湯頭清淡爽口，想吃重口味的人可能會覺得平淡。
 tags: [加平, 松子, 松子嫩豆腐, 嫩豆腐, 豆腐, 黃豆料理, 草堂嫩豆腐, 清淡, 京畿美食, 加平美食]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b8%eb%8d%95%eb%a7%88%eb%a3%a8+%ea%b0%80%ed%8f%89%ec%9e%a3%eb%91%90%eb%b6%80%ec%a7%91
 info:

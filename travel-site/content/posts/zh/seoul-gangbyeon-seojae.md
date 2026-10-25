@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-gangbyeon-seojae.jpg
-excerpt: 咖啡和麵包都普通，但景色完全不普通。這家咖啡館在國會議事堂院內，普通人可以進去，頂樓上漢江一覽無遺。櫻花季是最好的時候。
+excerpt: 位在首爾汝矣島國會園區內、사랑재（Sarangjae）旁大樓二樓的漢江景觀烘焙咖啡館 江邊書齋，一般民眾也能進入，屋頂露台可將漢江一覽無遺。平日 8:30~19:00、週日公休（截至2026年8月），麵包通常在午餐時間過後就賣完。
 tags: [首爾, 汝矣島, 國會議事堂, 漢江景觀, 咖啡館, 烘焙, 頂樓, 櫻花, 漢江公園]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%B3%80%EC%84%9C%EC%9E%AC+%EC%97%AC%EC%9D%98%EB%8F%84
 info:

@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-23
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-gangbyeon-seojae.jpg
-excerpt: 가격도 맛도 평범합니다. 그런데 뷰가 전혀 평범하지 않습니다. 국회의사당 경내에 있는 카페인데 일반인도 들어갈 수 있고, 루프탑에서 한강이 통째로 보입니다. 벚꽃 때가 절정입니다.
+excerpt: 서울 여의도 국회 경내의 강변서재는 국회 사랑재 옆 건물 2층에 있는 한강뷰 베이커리 카페로, 일반인도 들어갈 수 있고 루프탑에서 한강이 통째로 보입니다. 평일 오전 8시 30분~오후 7시, 일요일 휴무(2026.08 기준)이며 빵은 점심 이후 대체로 매진됩니다.
 tags: [서울, 여의도, 국회의사당, 한강뷰, 카페, 베이커리, 루프탑, 벚꽃, 한강공원]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%B3%80%EC%84%9C%EC%9E%AC+%EC%97%AC%EC%9D%98%EB%8F%84
 lat: 37.5329267

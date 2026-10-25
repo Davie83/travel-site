@@ -4,9 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-08-21
+updated: 2026-10-25
 emoji: 🍣
 thumb: assets/img/seoul-gwonsusan.jpg
-excerpt: 여의도 점심 가성비가 아주 좋은 집입니다. 반찬이 맛있고 생선까스까지 반찬으로 나옵니다. 회덮밥은 야채가 많아 한 끼 든든합니다. 별실이 있어 손님 대접이나 지인 모임에도 씁니다.
+excerpt: 서울 여의도 국회의사당역 근처 권수산은 야채가 푸짐한 회덮밥에 반찬 여섯 가지와 생선까스가 함께 나오는 점심집입니다. 지하 1층에 있고 오전 11시부터이며 토·일 휴무(2026.08 기준), 별실이 있어 캐치테이블로 예약할 수 있습니다.
 tags: [서울, 여의도, 영등포, 국회의사당, 회덮밥, 회정식, 생선까스, 별실]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B6%8C%EC%88%98%EC%82%B0+%EC%97%AC%EC%9D%98%EB%8F%84
 lat: 37.5199763

@@ -4,10 +4,10 @@ cat: food
 region: gyeonggi
 area: gapyeong
 date: 2026-08-31
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: 🍲
 thumb: assets/img/gapyeong-eondeokmaru-jat-sundubu.jpg
-excerpt: I was in Gapyeong, got a craving for sundubu, and went looking. Gapyeong is pine-nut country, and this place makes jat-sundubu — soft tofu with pine nuts. The broth is gently seasoned and, thanks to the pine nuts, very mild and clean. It can taste bland if you're after something bold, but if you like plain sundubu it's a bowl that stays with you.
+excerpt: Eondeokmaru Gapyeong Jat-dubu, on Sumokwon-ro in Sangmyeon, Gapyeong-gun, Gyeonggi, serves jat-sundubu, soft tofu made with Gapyeong's speciality pine nuts, for 12,000 KRW (as of Aug 2026). Open 9:30 AM to 8:00 PM (last order 7:15 PM) and closed Wednesdays. The broth is gentle and clean, so it can taste bland if you want something bold.
 tags: [Gapyeong, pine nuts, jat-sundubu, sundubu, tofu, soy food, Chodang sundubu, mild, Gyeonggi food, Gapyeong food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%96%b8%eb%8d%95%eb%a7%88%eb%a3%a8+%ea%b0%80%ed%8f%89%ec%9e%a3%eb%91%90%eb%b6%80%ec%a7%91
 info:

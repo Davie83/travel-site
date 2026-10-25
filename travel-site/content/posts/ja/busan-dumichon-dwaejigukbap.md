@@ -4,9 +4,10 @@ cat: food
 region: busan
 area: dongnae
 date: 2026-08-22
+updated: 2026-10-25
 emoji: 🍚
 thumb: assets/img/busan-dumichon-dwaejigukbap.jpg
-excerpt: 澄んだ豚のスープで、獣臭さがありません。1万ウォン以下で一食になります。東莱はテジクッパ屋が密集した街なので目的地ではありませんが、しっかりした一軒です。深夜0時まで開いています。
+excerpt: 釜山・東萊区、温泉場駅の近くにあるトゥミチョン・テジクッパは、スープがすっきりして肉の臭みがない豚クッパの店で、深夜0時まで営業しています（2026年8月時点）。豚クッパの店が集まる東萊で、遅くまで開いているのが強みで、スユクやスンデもあります。
 tags: [釜山, 東莱, 温泉洞, テジクッパ, 豚スープ, 地元の店, 深夜営業]
 map: https://www.google.com/maps/search/?api=1&query=%EB%91%90%EB%AF%B8%EC%B4%8C%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+%EB%B6%80%EC%82%B0+%EB%8F%99%EB%9E%98
 info:

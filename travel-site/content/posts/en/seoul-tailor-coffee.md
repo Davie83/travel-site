@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
-updated: 2026-10-20
+updated: 2026-10-25
 emoji: ☕
 thumb: assets/img/seoul-tailor-coffee.jpg
-excerpt: I stopped in on a late-winter morning and the interior was the first thing I noticed. The americano I drank in that cool weather, and the room it was served in, stayed with me. Coffee here is not cheap, but if you are nearby it is worth one visit.
+excerpt: Tailor Coffee Sogong is a ground-floor coffee shop on Namdaemun-ro in Jung-gu, Seoul, next to the Bank of Korea, where the interior is the first thing you notice. It serves americano and hand drip at a drip bar, closes at 8:30 PM (as of Aug 2026), has few tables and is not cheap.
 tags: [Seoul, Myeongdong, Sogong, Namdaemun, Bank of Korea, cafe, coffee, pour over, americano, acidity]
 map: https://www.google.com/maps/search/?api=1&query=%ED%85%8C%EC%9D%BC%EB%9F%AC%EC%BB%A4%ED%94%BC+%EC%86%8C%EA%B3%B5%EC%A0%90
 lat: 37.5624128

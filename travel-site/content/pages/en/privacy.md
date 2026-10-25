@@ -65,6 +65,8 @@ For more detail, see [how Google uses information from sites that use its servic
 
 The site may use Google Analytics to understand traffic. Data is aggregated and used for statistics only. You can opt out with the [browser opt-out add-on](https://tools.google.com/dlpage/gaoptout).
 
+The site also uses Microsoft Clarity to understand how visitors use the pages and to improve the guides. Clarity uses cookies to record usage such as clicks, scrolling and page navigation, and does not collect information that directly identifies you, such as your name or contact details. See the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) for details. You can refuse or delete cookies in your browser settings.
+
 ## 7. Processors
 
 | Processor | Purpose |
@@ -72,6 +74,7 @@ The site may use Google Analytics to understand traffic. Data is aggregated and 
 | Cloudflare, Inc. | Website hosting, content delivery (CDN) and access logs |
 | Supabase, Inc. | Storing emoji reactions |
 | Google LLC | Advertising and traffic analytics |
+| Microsoft Corporation | Visitor behaviour analytics (Microsoft Clarity) |
 
 ## 8. External links
 

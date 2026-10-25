@@ -65,6 +65,8 @@ updated: 시행일 2026년 8월 16일
 
 사이트는 방문 통계 확인을 위해 Google Analytics를 사용할 수 있습니다. 수집된 정보는 익명 처리되어 통계 목적으로만 활용됩니다. 이용자는 [차단 브라우저 부가기능](https://tools.google.com/dlpage/gaoptout)을 통해 수집을 거부할 수 있습니다.
 
+또한 이용 행태를 이해하고 글을 개선하기 위해 Microsoft Clarity를 사용합니다. Clarity는 쿠키를 사용하여 방문자의 클릭·스크롤·화면 이동 같은 이용 기록을 수집하며, 이름이나 연락처 같은 개인을 직접 식별하는 정보는 수집하지 않습니다. 자세한 내용은 [Microsoft 개인정보처리방침](https://privacy.microsoft.com/privacystatement)을 참고하시기 바랍니다. 쿠키는 브라우저 설정에서 거부하거나 삭제할 수 있습니다.
+
 ## 7. 처리 위탁
 
 사이트 운영을 위해 다음 서비스를 이용합니다.
@@ -74,6 +76,7 @@ updated: 시행일 2026년 8월 16일
 | Cloudflare, Inc. | 웹사이트 호스팅 · 콘텐츠 전송(CDN) 및 접속 기록 처리 |
 | Supabase, Inc. | 이모지 리액션 데이터 저장 |
 | Google LLC | 광고 게재 및 방문 통계 분석 |
+| Microsoft Corporation | 방문자 행동 분석(Microsoft Clarity) |
 
 ## 8. 외부 링크
 

@@ -65,6 +65,8 @@ updated: 施行日 2026年8月17日
 
 当サイトは Google Analytics を使用する場合があります。取得した情報は匿名化され、統計目的にのみ利用されます。[ブラウザ向けアドオン](https://tools.google.com/dlpage/gaoptout)で収集を拒否できます。
 
+また、サイトの利用状況を把握して記事を改善するため、Microsoft Clarity を使用しています。Clarity は Cookie を使用して、クリック・スクロール・ページ移動などの利用記録を取得しますが、氏名や連絡先など個人を直接特定する情報は取得しません。詳しくは [Microsoft プライバシーに関する声明](https://privacy.microsoft.com/privacystatement) をご確認ください。Cookie はブラウザの設定で拒否・削除できます。
+
 ## 7. 委託先
 
 | 委託先 | 業務内容 |
@@ -72,6 +74,7 @@ updated: 施行日 2026年8月17日
 | Cloudflare, Inc. | ウェブサイトのホスティング・コンテンツ配信(CDN)とアクセスログの処理 |
 | Supabase, Inc. | 絵文字リアクションの保存 |
 | Google LLC | 広告配信とアクセス解析 |
+| Microsoft Corporation | 訪問者の行動分析(Microsoft Clarity) |
 
 ## 8. 外部リンク
 

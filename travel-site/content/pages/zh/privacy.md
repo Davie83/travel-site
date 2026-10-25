@@ -65,6 +65,8 @@ updated: 生效日期 2026年8月17日
 
 本站可能使用 Google Analytics 了解造訪情況。資料經匿名化處理，僅用於統計。您可以透過[瀏覽器擴充功能](https://tools.google.com/dlpage/gaoptout)拒絕蒐集。
 
+此外，為了了解使用情況並改善文章，本站也使用 Microsoft Clarity。Clarity 會透過 Cookie 記錄點擊、捲動與頁面切換等使用行為，不會蒐集姓名、聯絡方式等可直接識別個人的資訊。詳情請參閱 [Microsoft 隱私權聲明](https://privacy.microsoft.com/privacystatement)。您可以在瀏覽器設定中拒絕或刪除 Cookie。
+
 ## 7. 受託方
 
 | 受託方 | 處理內容 |
@@ -72,6 +74,7 @@ updated: 生效日期 2026年8月17日
 | Cloudflare, Inc. | 網站代管、內容傳遞(CDN)與存取記錄 |
 | Supabase, Inc. | 儲存表情反應資料 |
 | Google LLC | 廣告投放與造訪統計 |
+| Microsoft Corporation | 訪客行為分析（Microsoft Clarity） |
 
 ## 8. 外部連結
 

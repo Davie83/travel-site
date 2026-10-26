@@ -33,6 +33,15 @@ $chipStart = $config.IndexOf('tagChips:')
 $chipEnd = $config.IndexOf('homePopularSearches', $chipStart)
 $chipKeys = @{}
 if($chipStart -ge 0){ foreach($m in [regex]::Matches($config.Substring($chipStart, ($(if($chipEnd -gt $chipStart){$chipEnd}else{$config.Length}) - $chipStart)),"key: '([^']+)'")){ $chipKeys[$m.Groups[1].Value]=1 } }
+# 장르 허브 태그 (site.config.js 의 genres: [ { slug, tags } ]) — 새 글이 어느 허브에 실리는지 알려 줍니다
+$genreHubs = @()
+$gStart = $config.IndexOf('genres: [')
+$gEnd = $config.IndexOf('demoPosts:')
+if($gStart -ge 0 -and $gEnd -gt $gStart){
+  foreach($gm in [regex]::Matches($config.Substring($gStart, $gEnd - $gStart), "slug: '([\w-]+)'.*?tags:\s*\[([^\]]*)\]", 'Singleline')){
+    $genreHubs += [pscustomobject]@{ slug = $gm.Groups[1].Value; tags = @([regex]::Matches($gm.Groups[2].Value, "'([^']+)'") | ForEach-Object { $_.Groups[1].Value }) }
+  }
+}
 # areas: region slug -> area slugs
 $areaOk = @{}
 foreach($m in [regex]::Matches($config,"\{ slug: '([a-z0-9-]+)',\s*names:")){ $areaOk[$m.Groups[1].Value]=1 }
@@ -115,6 +124,11 @@ foreach($s in $slugs){
   # 태그 칩
   $tags = ([regex]::Match($fm['ko'],'(?m)^tags: \[(.*)\]').Groups[1].Value -split ',') | ForEach-Object { $_.Trim() }
   if(-not ($tags | Where-Object { $chipKeys.ContainsKey($_) })){ Add-Issue 'ERROR' $s '태그 칩(tagChips) 키와 일치하는 ko 태그가 없음 → 하단 칩이 안 나옴' }
+  # 장르 허브 — 2026-10-27 이후 새 맛집 글: ko 태그가 허브 태그 하나라도 맞아야 허브에 실립니다 (여러 허브에 걸리면 모두 실림)
+  if($cat -eq 'food' -and $d -ge '2026-10-27' -and $genreHubs.Count){
+    $myHubs = @($genreHubs | Where-Object { $h = $_; $tags | Where-Object { $h.tags -contains $_ } } | ForEach-Object { $_.slug })
+    if(-not $myHubs.Count){ Add-Issue 'WARN' $s '어느 장르 허브에도 안 걸림 — ko tags 에 허브 태그(예: 일식·양식·해장국·백반·정식)를 넣거나 새 허브가 필요한지 확인하세요' }
+  }
   # 첫 문장(리드)에 지역·동네 단어 — 2026-10-08 이후 글만 (새 글 규칙: 검색에서 "○○ 맛집"과 글이 이어지도록)
   if($cat -eq 'food' -and $d -ge '2026-10-08'){
     foreach($code in $codes){

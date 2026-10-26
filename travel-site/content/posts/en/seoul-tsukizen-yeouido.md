@@ -8,7 +8,7 @@ updated: 2026-10-20
 emoji: 🍛
 thumb: assets/img/seoul-tsukizen-yeouido.jpg
 excerpt: A tonkatsu specialist in the basement of Yeouido's TP Tower. The original location sits between Hapjeong and Sangsu, and branches seem to have multiplied lately. The roskatsu and Chateaubriand katsu are both solid, but this thick-cut Japanese-style katsu format is everywhere now, so I wasn't blown away. Still, whenever tonkatsu crosses my mind, this place comes up — purely because of the menchikatsu. The thickness of the meat paired with the demi-glace sauce is unusually good.
-tags: [Seoul, Yeouido, tonkatsu, menchikatsu, roskatsu, Japanese-style cutlet]
+tags: [Seoul, Yeouido, tonkatsu, menchikatsu, roskatsu, Japanese-style cutlet, Japanese food]
 info:
   - Restaurant|Tsukizen Yeouido
   - Address|B1, TP Tower, 96 Uisadang-daero, Yeongdeungpo-gu, Seoul

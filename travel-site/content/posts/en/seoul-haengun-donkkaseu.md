@@ -8,7 +8,7 @@ updated: 2026-10-20
 emoji: 🍛
 thumb: assets/img/seoul-haengun-donkkaseu.jpg
 excerpt: I stopped here after a funeral at Hanyang University nearby. It's a well-known cheap-and-cheerful cutlet joint around Wangsimni. Not the thick, Japanese-style katsu that's trendy now — this is the old Korean diner version, thin and crisp under a brown sauce with a fried egg on top. Good, and huge. The set that comes with kimchi fried rice is the value pick, but finishing it is another matter.
-tags: [Seoul, Seongdong, Wangsimni, Hanyang University, donkkaseu, pork cutlet, old-school, kimchi fried rice, gyeongyangsik]
+tags: [Seoul, Seongdong, Wangsimni, Hanyang University, donkkaseu, pork cutlet, old-school, kimchi fried rice, gyeongyangsik, western]
 map: https://www.google.com/maps/search/?api=1&query=%ed%96%89%ec%9a%b4%eb%8f%88%ea%b9%8c%ec%8a%a4+%ec%84%b1%eb%8f%99%ea%b5%ac+%ed%96%89%eb%8b%b9%eb%8f%99
 info:
   - Location|2 Majo-ro 1-gil, Seongdong-gu, Seoul · near Hanyang Univ. & Wangsimni (서울 성동구 마조로1길 2)

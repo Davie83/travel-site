@@ -63,7 +63,8 @@ const GENRE_PAGE_MIN = Number.isInteger(site.genrePageMin) ? site.genrePageMin :
 /* 검색 보조어 (카드의 data-s-tag 에만 들어감, 화면에는 안 보임).
    - 한식 계열 장르는 "한식 / korean food" 로도 찾히게 합니다.
    - 아래 맵은 장르 이름과 실제로 다르게 검색하는 말만 (예: 라멘 ↔ 라면). */
-const KR_CUISINE_GENRES = ['korean-bbq', 'korean-soup', 'korean-noodles', 'korean-seafood', 'bibimbap', 'korean-dumplings', 'bars-makgeolli'];
+const KR_CUISINE_GENRES = ['korean-bbq', 'korean-soup', 'korean-noodles', 'korean-seafood', 'bibimbap', 'korean-dumplings', 'bars-makgeolli',
+  'korean-hangover-soup', 'korean-sashimi', 'gomtang-seolleongtang', 'korean-set-meals'];
 const GENRE_SEARCH_SYN = {
   'japanese-in-korea': '라면 ramen',
   'chinese-korean':    '중국집 짜장면 짜장 짬뽕',

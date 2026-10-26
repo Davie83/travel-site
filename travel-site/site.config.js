@@ -540,7 +540,26 @@ module.exports = {
        slug 는 예전 주소를 살리려고 그대로 둡니다 (표시 이름만 '한식'). */
     { slug: 'bars-makgeolli',   emoji: '🥘',
       names: { ko: '한식', en: 'Korean', ja: '韓国料理', zh: '韓式料理' },
-      tags:  ['곱창전골', '전골', '술안주', '막걸리', '소꼬리찜'] }
+      tags:  ['곱창전골', '전골', '술안주', '막걸리', '소꼬리찜'] },
+    /* 새 허브 (Oct 2026) — 목록 맨 뒤에 둡니다. 이미 장르가 있는 글의 배지는 그대로이고
+       (배지는 첫 번째 장르 genreOf), 이 허브들은 한 글이 여러 장르에 걸리는 genresOf 로
+       기존 글을 그대로 모읍니다. 새 글을 쓸 때 ko tags 에 아래 태그가 있으면 자동으로 실립니다. */
+    { slug: 'korean-hangover-soup', emoji: '🥣',
+      names: { ko: '해장국', en: 'Korean Hangover Soup', ja: '二日酔いスープ', zh: '解酒湯' },
+      tags:  ['해장국', '해장', '내장탕'] },
+    { slug: 'korean-sashimi',       emoji: '🐟',
+      names: { ko: '회·횟집', en: 'Korean Sashimi', ja: '刺身・活魚', zh: '生魚片' },
+      searchNames: { ko: '회', en: 'Sashimi', ja: '刺身', zh: '生魚片' },
+      tags:  ['회', '숙성회', '모둠회', '회덮밥', '횟집', '물회', '사시미', '우니'] },
+    { slug: 'gomtang-seolleongtang', emoji: '🍜',
+      names: { ko: '곰탕·설렁탕', en: 'Gomtang & Seolleongtang', ja: 'コムタン・ソルロンタン', zh: '牛骨湯' },
+      searchNames: { ko: '', en: '', ja: '', zh: '' },
+      tags:  ['곰탕', '설렁탕', '도가니탕'] },
+    { slug: 'korean-set-meals',     emoji: '🍱',
+      names: { ko: '백반·정식', en: 'Korean Set Meals', ja: '韓国の定食', zh: '韓式定食' },
+      searchNames: { ko: '', en: '', ja: '', zh: '' },
+      tags:  ['백반', '정식', '쌈밥'] }
+
   ],
 
   /* ---- 예시글: 목록 맨 뒤로 밀기 ---------------------------------------

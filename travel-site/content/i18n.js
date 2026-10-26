@@ -65,9 +65,17 @@ module.exports = {
        라멘"·"근처" 같은 구체적인 표현인데 제목엔 그 단어가 아예 없어서 (Sep 2026,
        GSC 분석) 추가했습니다. */
     genreTitles: {
+      'korean-hangover-soup': '해장국·복국 맛집 — 직접 가본 곳만',
+      'korean-sashimi': '회·횟집 맛집 — 직접 가본 곳만',
+      'gomtang-seolleongtang': '곰탕·설렁탕 맛집 — 직접 가본 곳만',
+      'korean-set-meals': '백반·정식·쌈밥 맛집 — 직접 가본 곳만',
       'japanese-in-korea': '서울 돈코츠 라멘 맛집 — 직접 가본 곳만'
     },
     genreIntros: {
+      'korean-hangover-soup': '제주 대춘·미풍·함덕골목의 해장국, 부산 금수복국, 전주 콩나물국밥, 여의도 중앙해장처럼 속을 풀어 주는 국물을 모았습니다. 맵거나 맑은지, 아침 일찍 여는지, 간마늘 같은 양념을 어떻게 넣는지를 글마다 적었습니다.',
+      'korean-sashimi': '회정식, 회덮밥, 숙성회 모둠, 성게알 덮밥처럼 생선을 날것으로 먹는 집입니다. 평일 점심에만 나오는 정식, 철이 정해진 메뉴, 예약이 필요한 곳을 구분해 적었습니다.',
+      'gomtang-seolleongtang': '소고기 국물을 맑게 끓인 곰탕과 설렁탕을 모았습니다. 서울 하동관, 나주곰탕 하얀집, 마포양지설렁탕, 서대문 평양옥의 닭곰탕까지, 깍두기 국물이나 파김치처럼 곁들이는 법과 가격대를 적었습니다.',
+      'korean-set-meals': '밥에 국과 반찬이 한 상으로 나오는 백반과 정식, 쌈채소에 싸 먹는 쌈밥을 모았습니다. 남대문시장 안 백반, 제주 생선구이 정식, 보령 쌈밥, 역삼 전주비빔밥 한 상까지, 가격과 반찬 구성, 밥·국 리필 여부를 적었습니다.',
       'bars-makgeolli':    '한 가지 음식으로 묶기 어려운 한식을 모았습니다. 곱창전골, 제주 오일장의 파전·순대, 옛 주택을 고친 막걸리 술집까지, 가격과 주문 방법, 외국인이 편한지를 적었습니다.',
       'korean-bbq':        '숯불이나 불판에 직접 구워 먹는 고기구이입니다. 삼겹살·목살 같은 돼지구이부터 소금구이, 갈비, 곱창·대창 같은 특수부위, 한우 오마카세까지 다룹니다. 어느 부위를 시켜야 하는지, 직원이 구워 주는지, 관광객이 앉아서 편한 자리인지를 위주로 적었습니다.',
       'korean-soup':       '뜨끈한 국물에 밥을 마는 국밥과 탕 종류입니다. 돼지국밥, 순대국, 곰탕, 감자탕, 해장국을 지역별로 담았습니다. 혼자 가도 부담 없는지, 새우젓·다대기로 간을 맞추는 방식, 아침 일찍 여는 집인지를 함께 적었습니다.',
@@ -294,12 +302,20 @@ module.exports = {
     genreDescTpl:  '{name} places we actually visited, across Korea. Honest notes on price, how to order, and how tourist-friendly each spot is.',
     genreIntroTpl: '{count} {name} write-ups, all from visits in person. Instead of star ratings, each notes the price range, how to order, the spice level, and whether it is comfortable for a visitor. Regions covered: {regions} — use the buttons below to filter.',
     genreTitles: {
+      'korean-hangover-soup': 'Korean Hangover Soup, Tried in Person',
+      'korean-sashimi': 'Sashimi and Raw Fish Restaurants in Korea',
+      'gomtang-seolleongtang': 'Gomtang and Seolleongtang in Korea',
+      'korean-set-meals': 'Korean Set Meals: Baekban, Jeongsik and Ssambap',
       'japanese-in-korea': 'Tonkotsu Ramen in Seoul, Tried in Person',
       'bars-makgeolli':    'Korean Hot Pot, Market Food & Makgeolli',
       'western':           'Western Restaurants in Korea',
       'chinese-korean':    'Korean-Chinese Food in Korea'
     },
     genreIntros: {
+      'korean-hangover-soup': 'Soups for easing a hangover, from Daechun, Mipung and Hamdeok Golmok in Jeju to pufferfish soup in Busan, bean-sprout gukbap in Jeonju and Jungang Haejang in Yeouido. Each note says whether the broth is spicy or clear, whether the shop opens early, and how to season it, such as adding ground garlic.',
+      'korean-sashimi': 'Raw fish eaten as set meals, rice bowls and aged-sashimi platters, plus a sea urchin rice bowl. Notes separate the set that runs only at weekday lunch, the dishes that depend on the season, and the places where you need to book.',
+      'gomtang-seolleongtang': 'Clear beef broths: Hadongkwan in Seoul, Hayanjip in Naju, Mapo Yangji Seolleongtang, and the chicken gomtang at Pyeongyangok in Seodaemun. Notes cover how to add radish kimchi brine or scallion kimchi, and what each bowl costs.',
+      'korean-set-meals': 'Baekban and jeongsik, where rice comes with soup and side dishes on one tray, and ssambap, wrapped in leaf vegetables. From a hidden baekban place inside Namdaemun Market to Jeju grilled-fish sets, a Boryeong ssambap house and a Jeonju bibimbap spread in Yeoksam. Notes cover price, side dishes and whether rice and soup are refillable.',
       'bars-makgeolli':    'Korean places that do not fit one dish category: a beef-offal hot pot, the Jeju five-day market, and a makgeolli bar in a converted house. Notes cover price, how to order, and how comfortable each is for a visitor.',
       'korean-bbq':        'Meat you grill yourself over charcoal or on a hot plate. It covers pork cuts like samgyeopsal and moksal, salt-grilled pork, galbi, offal cuts like gopchang and daechang, and hanwoo omakase. Each note focuses on which cut to order, whether the staff grill it for you, and whether the seating is comfortable for a visitor.',
       'korean-soup':       'Hot soups and gukbap you eat with rice. It covers pork gukbap, sundae-guk, gomtang, gamjatang, and hangover soups by region. Notes cover whether it is easy to go alone, how you season the bowl with salted shrimp or chilli paste, and whether it opens early.',
@@ -526,6 +542,10 @@ module.exports = {
     genreDescTpl:  '実際に足を運んだ{name}の店をまとめました。価格・注文方法・観光客の使いやすさを中心に。',
     genreIntroTpl: '実際に足を運んで書いた{name}の記録が{count}件です。星の数ではなく、価格帯・注文方法・辛さの度合い・観光客が座って居心地よいかを書いています。対象地域は{regions}で、下のボタンで絞り込めます。',
     genreTitles: {
+      'korean-hangover-soup': '韓国の二日酔いスープ（ヘジャンクク）、実際に食べた店',
+      'korean-sashimi': '韓国の刺身・活魚の店、実際に行った店',
+      'gomtang-seolleongtang': 'コムタン・ソルロンタンの店、実際に食べた店',
+      'korean-set-meals': '韓国の定食（ペクパン・サムパプ）、実際に行った店',
       'japanese-in-korea': 'ソウルの豚骨ラーメン店 — 実際に行った店だけ',
       'bars-makgeolli':    '韓国の鍋料理・市場グルメ・マッコリ',
       'chinese-korean':    '韓国式中華のおすすめ',
@@ -535,6 +555,10 @@ module.exports = {
       'korean-dumplings':  '韓国のマンドゥ(餃子)'
     },
     genreIntros: {
+      'korean-hangover-soup': '済州のテチュン・ミプン・ハムドッコルモク、釜山のフグ汁、全州のもやしクッパ、汝矣島のチュンアンヘジャンなど、二日酔いに効く汁物を集めました。辛いか澄んでいるか、朝早く開くか、すりおろしニンニクなど薬味の入れ方を書いています。',
+      'korean-sashimi': '刺身定食、海鮮丼、熟成刺身の盛り合わせ、ウニ丼のように、魚を生で食べる店です。平日のランチ限定の定食、季節で決まるメニュー、予約が必要な店を分けて書きました。',
+      'gomtang-seolleongtang': '牛肉のスープを澄んだ味で煮たコムタンとソルロンタンです。ソウルのハドングァン、羅州のハヤンチプ、麻浦ヤンジソルロンタン、西大門ピョンヤンオクの鶏コムタンを集め、カクテキの汁やネギキムチなど添え方と価格帯を書きました。',
+      'korean-set-meals': 'ご飯にスープとおかずが一膳で出てくるペクパンや定食、葉野菜で包んで食べるサムパプを集めました。南大門市場の中のペクパン、済州の焼き魚定食、保寧のサムパプ、駅三の全州ビビンバの一膳まで、価格・おかずの構成・ご飯とスープのおかわりの有無を書いています。',
       'bars-makgeolli':    '一つの料理にくくりにくい韓国の店を集めました。牛ホルモンの鍋、済州の五日市場、古い家を改装したマッコリ酒場まで。価格・注文方法・旅行者の使いやすさを書いています。',
       'korean-bbq':        '炭火や鉄板で自分で焼く焼肉です。サムギョプサルやモクサルなどの豚、塩焼き、カルビ、コプチャン・テチャンなどのホルモン、韓牛オマカセまで扱います。どの部位を頼むべきか、店員が焼いてくれるか、観光客が座って居心地よいかを中心に書いています。',
       'korean-soup':       'ご飯を入れて食べる熱いスープ・クッパ類です。テジクッパ、スンデグク、コムタン、カムジャタン、ヘジャングクを地域別に。一人でも入りやすいか、アミの塩辛やダデギでの味の調え方、朝早くから開くかを併記しています。',
@@ -761,6 +785,10 @@ module.exports = {
     genreDescTpl:  '我們實際去過的{name}餐廳彙整。價位、點餐方式、對遊客是否友善，都據實記錄。',
     genreIntroTpl: '親自跑過、寫下來的{name}記錄共{count}篇。不打星等，而是寫價位、點餐方式、辣度，以及遊客坐下來自不自在。涵蓋地區：{regions}，可用下方按鈕篩選。',
     genreTitles: {
+      'korean-hangover-soup': '韓式解酒湯（해장국），親自吃過的店',
+      'korean-sashimi': '韓國生魚片與生魚蓋飯餐廳，親自去過的店',
+      'gomtang-seolleongtang': '牛骨湯（곰탕·설렁탕）名店，親自吃過的店',
+      'korean-set-meals': '韓式定食（백반·정식·쌈밥），親自去過的店',
       'japanese-in-korea': '首爾豚骨拉麵店 — 只收實際去過的店',
       'bars-makgeolli':    '韓式火鍋、市場小吃與馬格利',
       'chinese-korean':    '韓式中餐推薦',
@@ -770,6 +798,10 @@ module.exports = {
       'korean-dumplings':  '韓式餃子推薦'
     },
     genreIntros: {
+      'korean-hangover-soup': '集結了能解宿醉的湯品：濟州的 대춘（Daechun）、미풍（Mipung）、함덕골목（Hamdeok Golmok），釜山的河豚湯，全州的黃豆芽湯飯，以及汝矣島的 중앙해장（Jungang Haejang）。每篇都寫了湯頭是辣還是清、是否一早就開，以及蒜泥等調味的加法。',
+      'korean-sashimi': '以生魚片套餐、生魚蓋飯、熟成生魚片拼盤與海膽蓋飯為主的店家。分別標示只有平日午餐供應的套餐、依季節供應的菜色，以及需要預約的店。',
+      'gomtang-seolleongtang': '收錄清澈的牛肉湯：首爾的河東館、羅州的 하얀집（Hayanjip）、마포양지설렁탕（Mapo Yangji Seolleongtang），以及西大門 평양옥（Pyeongyangok）的雞肉곰탕。內容包括加蘿蔔泡菜汁或蔥泡菜的吃法與價格。',
+      'korean-set-meals': '收錄米飯配湯與小菜擺成一桌的백반與定食，以及用生菜包著吃的包飯。從南大門市場內的백반小店、濟州烤魚定食、保寧包飯，到驛三的全州拌飯一桌，內容包括價格、小菜組合，以及飯和湯是否可續。',
       'bars-makgeolli':    '把很難歸進單一料理的韓式店家放在一起：牛內臟火鍋、濟州五日市場，還有老房子改建的馬格利酒館。價位、點餐方式與遊客是否好上手都有記錄。',
       'korean-bbq':        '在炭火或鐵板上自己烤的烤肉。從五花肉、梅花肉等豬肉，到鹽烤、排骨，以及小腸、大腸等內臟部位，還有韓牛套餐。記錄重點在該點哪個部位、店員會不會幫你烤、座位對遊客來說自不自在。',
       'korean-soup':       '配飯吃的熱湯與湯飯類。收錄豬肉湯飯、血腸湯、牛肉湯、馬鈴薯排骨湯、解酒湯，按地區整理。也一併寫了一個人去方不方便、怎麼用蝦醬或辣醬調味、是不是一大早就開。',

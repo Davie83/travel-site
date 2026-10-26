@@ -9,7 +9,7 @@ emoji: 🍣
 thumb: assets/img/seoul-dorimhang.jpg
 pick: true
 excerpt: 서울 영등포 영중로의 숙성회 가게 도림항 영등포점입니다. 오늘의 숙성회 모둠(소 39,000원, 2026.08 기준)에 성게알·해산물이 함께 나오고, 김에 싸서 초밥처럼 먹을 수 있습니다. 오후 5시부터 자정까지, 일요일은 쉬고, 저녁에는 서둘러야 자리가 있습니다.
-tags: [서울, 영등포, 숙성회, 모둠회, 성게알, 우니, 해산물, 이자카야, 웨이팅]
+tags: [서울, 영등포, 숙성회, 모둠회, 성게알, 우니, 해산물, 이자카야, 웨이팅, 일식]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD+%EC%98%81%EB%93%B1%ED%8F%AC%EC%A0%90
 lat: 37.5194526
 lng: 126.905292

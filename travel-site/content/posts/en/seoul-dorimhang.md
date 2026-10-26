@@ -8,7 +8,7 @@ updated: 2026-10-20
 emoji: 🍣
 thumb: assets/img/seoul-dorimhang.jpg
 excerpt: Dorimhang Yeongdeungpo is an aged-sashimi restaurant on Yeongjung-ro in Yeongdeungpo, Seoul. The daily aged sashimi platter (small, 39,000 KRW as of Aug 2026) comes with sea urchin and shellfish, plus seaweed and rice so you can build your own sushi. Open 5pm to midnight, closed Sundays; arrive early in the evening.
-tags: [Seoul, Yeongdeungpo, aged sashimi, sashimi platter, sea urchin, uni, seafood, izakaya, queue]
+tags: [Seoul, Yeongdeungpo, aged sashimi, sashimi platter, sea urchin, uni, seafood, izakaya, queue, Japanese food]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD+%EC%98%81%EB%93%B1%ED%8F%AC%EC%A0%90
 lat: 37.5194526
 lng: 126.905292

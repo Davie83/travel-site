@@ -8,7 +8,7 @@ updated: 2026-10-18
 emoji: 🍣
 thumb: assets/img/seoul-dorimhang.jpg
 excerpt: 位在首爾永登浦永中路的熟成生魚片店 道林港 永登浦店。今日熟成生魚片拼盤（小份39,000韓元，截至2026年8月）附海膽和各類海鮮，還能用海苔自己包成壽司。下午5點營業到午夜，週日公休，晚上要早點去。
-tags: [首爾, 永登浦, 熟成生魚片, 生魚片拼盤, 海膽, 海鮮, 居酒屋, 排隊]
+tags: [首爾, 永登浦, 熟成生魚片, 生魚片拼盤, 海膽, 海鮮, 居酒屋, 排隊, 日本料理]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD+%EC%98%81%EB%93%B1%ED%8F%AC%EC%A0%90
 lat: 37.5194526
 lng: 126.905292

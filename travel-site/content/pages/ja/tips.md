@@ -53,6 +53,7 @@ updated: 2026年9月21日 確認
 - **ソウルに入るなら鉄道が楽です。** ソウル駅も弘大入口駅も、空港鉄道で直接行けます
 - **ほかの地方へそのまま向かうなら、行き先の地域に合わせたリムジンバスのほうがずっと楽です。** いったんソウルに入って乗り換えるより、空港から直接向かうほうがはるかにスムーズです
 - 梨大駅までのリムジンは、1時間ちょっとかかったと記憶しています。正確な時間は控えていないので、降りる停留所の時刻表をご確認ください
+- **事前に予約したい場合** — クルックで[空港鉄道（AREX）ソウル市内行きのチケット](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513149&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1163-airport-to-seoul-city-center-arex-train-incheon)や[仁川空港リムジンバスのチケット](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513151&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F121308-incheon-airport-limousine-bus-ticket)を予約できます。この2つは提携リンクで、このリンクから予約すると、利用者の追加費用なしに運営者が少額の手数料を受け取ります。
 
 ## 3. 両替 — 空港で全部替えないでください {#money}
 

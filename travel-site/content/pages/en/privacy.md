@@ -80,6 +80,8 @@ The site also uses Microsoft Clarity to understand how visitors use the pages an
 
 Guides link to external sites. This policy does not apply to them; please check their own policies.
 
+Some booking links in the guides (Klook and similar) are affiliate links. If a booking is made through one, the site owner may earn a commission at no extra cost to you, and these links are marked as sponsored (rel="sponsored").
+
 ## 9. Your rights
 
 You may request access to, correction of, or deletion of your data. To have your reaction history deleted, send the visitor ID stored in your browser and it will be removed.

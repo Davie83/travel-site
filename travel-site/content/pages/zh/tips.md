@@ -53,6 +53,7 @@ updated: 2026年9月21日 確認
 - **要進首爾的話,搭鐵路最方便。** 首爾站和弘大入口站都能直接搭機場鐵路抵達
 - **要從機場直接前往其他地區的話,搭開往該地區的利木津巴士好得多。** 比先進首爾再轉乘輕鬆很多
 - 到梨大站的利木津巴士,我記得花了一小時多一點。確切時間我沒有記錄,請以您要下車的站牌時刻表為準
+- **想事先訂票的話** — 可以在 Klook 預訂[機場鐵路（AREX）前往首爾市區的車票](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513149&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1163-airport-to-seoul-city-center-arex-train-incheon)或[仁川機場利木津巴士車票](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513151&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F121308-incheon-airport-limousine-bus-ticket)。這兩個是聯盟行銷連結，透過連結訂購時，您不需額外付費，本站營運者會收到少額佣金。
 
 ## 3. 換錢 — 不要在機場全換完 {#money}
 

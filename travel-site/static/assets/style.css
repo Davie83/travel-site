@@ -2274,3 +2274,22 @@ body.nm-open{overflow:hidden;}
   .theme-btn{width:24px;height:24px;}
   .nav-toggle{width:28px;}
 }
+
+/* ==========================================================================
+   제휴 링크 — 눈에 띄는 색으로 표시합니다 (rel="sponsored" 가 붙은 링크만).
+   일반 링크와 구분돼야 "광고성 링크"임을 한눈에 알 수 있습니다.
+   색은 --save 팔레트(앰버)를 재사용해 라이트/다크 모두 읽히게 합니다.
+   ========================================================================== */
+a[rel~="sponsored"]{
+  color:var(--save);
+  background:var(--save-bg);
+  font-weight:700;
+  text-decoration:none;
+  padding:1px 6px;
+  border-radius:6px;
+  border-bottom:2px solid var(--save);
+}
+a[rel~="sponsored"]::after{content:" ↗";font-weight:400;}
+a[rel~="sponsored"]:hover,
+a[rel~="sponsored"]:focus-visible{filter:brightness(.94);outline:none;}
+:root[data-theme="dark"] a[rel~="sponsored"]:hover{filter:brightness(1.12);}

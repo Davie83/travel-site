@@ -53,7 +53,7 @@ updated: 2026년 9월 21일 확인
 - **서울로 들어간다면 철도가 편합니다.** 서울역과 홍대입구역 모두 공항철도로 바로 갑니다
 - **다른 지방으로 곧장 간다면 가는 지역에 맞춘 리무진이 훨씬 낫습니다.** 서울에 들어갔다가 갈아타는 것보다 공항에서 바로 가는 편이 훨씬 수월합니다
 - 이대역까지 리무진은 1시간 조금 넘게 걸린 것으로 기억합니다. 정확한 시간은 기록해 두지 못했으니, 가시는 정류장의 시간표를 확인하세요
-- **미리 예매하고 싶다면** — 클룩에서 [공항철도(AREX) 서울 시내행 표](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513149&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1163-airport-to-seoul-city-center-arex-train-incheon)나 [인천공항 리무진 버스 표](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513151&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F121308-incheon-airport-limousine-bus-ticket)를 예매할 수 있습니다. 이 두 링크는 제휴 링크라서, 이 링크로 예매하시면 이용자 부담 없이 사이트 운영자가 소정의 수수료를 받습니다.
+- **미리 예매하고 싶다면** — 클룩에서 [공항철도(AREX) 서울 시내행 표](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513149&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1163-airport-to-seoul-city-center-arex-train-incheon)나 [인천공항 리무진 버스 표](https://affiliate.klook.com/redirect?aid=139889&aff_adid=1513151&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F121308-incheon-airport-limousine-bus-ticket)를 예매할 수 있습니다. *(제휴 링크 — 예매하시면 이용자 추가 비용 없이 수수료를 받습니다)*
 
 ## 3. 환전 — 공항에서 다 바꾸지 마세요 {#money}
 

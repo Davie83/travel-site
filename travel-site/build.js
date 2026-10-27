@@ -233,7 +233,7 @@ function inline(s) {
       const ext = /^https?:/i.test(url);
       // 제휴(제휴 수수료) 링크는 구글 지침대로 rel="sponsored nofollow" 를 붙입니다 (affiliate.klook.com 등)
       const aff = /^https?:\/\/affiliate\.klook\.com\//i.test(url);
-      if (aff) return `<a href="${url.replace(/&/g, '&amp;')}" target="_blank" rel="sponsored nofollow noopener">${txt}</a>`;
+      if (aff) return `<a href="${url.replace(/&(?!amp;)/g, '&amp;')}" target="_blank" rel="sponsored nofollow noopener">${txt}</a>`;
       return `<a href="${url}"${ext ? ' target="_blank" rel="noopener"' : ''}>${txt}</a>`;
     })
     .replace(/`([^`]+)`/g, '<code>$1</code>')

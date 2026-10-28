@@ -340,7 +340,51 @@ module.exports = {
                en: 'West Jeju — Aewol noodles and the five-day market',
                ja: '済州西部 — 涯月のマッククスと五日市',
                zh: '濟州西部 — 涯月拌麵與五日市集' },
-      stops: ['jeju-aewol-makguksu', 'jeju-oiljang'] }
+      stops: ['jeju-aewol-makguksu', 'jeju-oiljang'] },
+
+    /* 제주 추천 코스 (Oct 2026) — 글의 좌표·영업시간·휴무일을 확인해 서쪽→동쪽 순서로 묶었습니다.
+       휴무: 해녀의집 화 · 추사 유배지 월 · 공천포식당 목 · 장모식탁 일 · 대춘해장국 월 */
+    { slug: 'jeju-northwest-coast',
+      names: { ko: '제주 서북쪽 해안 — 이호테우 산책, 점심 해산물 한상, 저녁 전 메밀막국수',
+               en: 'Northwest Jeju coast — Iho Tewoo, a seafood spread for lunch, buckwheat noodles before dinner',
+               ja: '済州北西の海岸 — 梨湖テウ海水浴場の散歩、昼は海鮮の膳、夕方前にそばマッククス',
+               zh: '濟州西北海岸 — 梨湖테우（Tewoo）散步、午餐海鮮一桌、晚餐前一碗메밀막국수' },
+      stops: ['jeju-iho-tewoo', 'jeju-aewol-haenyeoui-jip', 'jeju-aewol-makguksu'] },
+
+    { slug: 'jeju-aewol-geumneung',
+      names: { ko: '애월에서 금능까지 — 히츠마부시 한 끼, 금능해수욕장 산책',
+               en: 'From Aewol to Geumneung — a hitsumabushi meal, a walk on Geumneung Beach',
+               ja: '涯月から金陵へ — ひつまぶしの食事、クムヌン海水浴場を散歩',
+               zh: '從涯月到金陵 — 鰻魚飯（ひつまぶし）一餐、金陵海水浴場散步' },
+      stops: ['jeju-jejunagi', 'jeju-geumneung'] },
+
+    { slug: 'jeju-city-market-day',
+      names: { ko: '제주시 오일장 날 — 시장 구경, 점심 해장국, 저녁 전복솥밥 정식',
+               en: 'Jeju City on a market day — the five-day market, hangover soup for lunch, abalone pot-rice set for dinner',
+               ja: '済州市の五日市の日 — 市場散策、昼はヘジャンクク、夜はアワビ釜飯定食',
+               zh: '濟州市的市集日 — 逛五日市集、午餐解酒湯、晚餐鮑魚石鍋飯定食' },
+      stops: ['jeju-oiljang', 'jeju-mipung-haejangguk', 'jeju-jangmo-siktak'] },
+
+    { slug: 'jeju-hamdeok',
+      names: { ko: '함덕 — 오전 해장국, 해수욕장 산책',
+               en: 'Hamdeok — hangover soup in the morning, a walk on the beach',
+               ja: '咸徳 — 朝はヘジャンクク、海水浴場を散歩',
+               zh: '咸德 — 早上解酒湯、海水浴場散步' },
+      stops: ['jeju-hamdeok-golmok', 'jeju-hamdeok-beach'] },
+
+    { slug: 'jeju-moseulpo',
+      names: { ko: '모슬포 — 오전 추사 유배지, 점심 정식, 산방산 해안도로, 저녁 오겹살',
+               en: 'Moseulpo — the Chusa exile site in the morning, a set-meal lunch, the Sanbangsan coastal road, pork belly for dinner',
+               ja: '摹瑟浦 — 午前は秋史の流配地、昼は定食、山房山の海岸道路、夜は豚バラ',
+               zh: '摹瑟浦 — 上午秋史流放地、午餐定食、山房山海岸道路、晚餐五花肉' },
+      stops: ['jeju-chusa-yubaeji', 'jeju-halmang-bapsang', 'jeju-moseulpo-sanbangsan', 'jeju-keundonga-seojjok'] },
+
+    { slug: 'jeju-southeast',
+      names: { ko: '제주 동남쪽 — 공천포 전복죽 점심, 쉬어갓 카이막, 성산일출봉',
+               en: 'Southeast Jeju — abalone porridge at Gongcheonpo, kaymak at Shwieogat, then Seongsan Ilchulbong',
+               ja: '済州南東 — 孔泉浦のアワビ粥の昼、シウォガッのカイマク、城山日出峰',
+               zh: '濟州東南 — 孔泉浦鮑魚粥午餐、Shwieogat 的凝脂奶油、城山日出峰' },
+      stops: ['jeju-gongcheonpo-sikdang', 'jeju-shwieogat', 'jeju-seongsan-ilchulbong'] }
   ],
 
   /* ---- 태그 칩 ---------------------------------------------------------

@@ -800,7 +800,7 @@ function presetsHTML(posts, code, t) {
     return `        <button class="preset" type="button" data-route="${escapeHtml(r.slug)}" data-stops="${escapeHtml(stops.join(','))}">` +
       `<span class="preset-name">${escapeHtml(name)}</span>` +
       `<span class="preset-n">${escapeHtml(t.presetStops(stops.length))}</span>` +
-      `<span class="preset-go">${escapeHtml(t.presetAdd)} +</span></button>`;
+      `<span class="preset-go">${escapeHtml(t.presetAdd)} →</span></button>`;
   }).filter(Boolean).join('\n');
   if (!cards) return '';
   return `      <section class="presets">

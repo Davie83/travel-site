@@ -959,24 +959,42 @@
 
   /* ---- 추천 코스 담기 ---------------------------------------------------
      동선은 저장한 곳에서 만들어지므로(rSync), 저장 목록과 동선 순서를
-     둘 다 채워야 합니다. 지금 담아둔 것은 지우지 않고 뒤에 더합니다. */
+     둘 다 채워야 합니다. 코스를 바꾸면 이전 코스가 쌓이지 않도록,
+     이전 코스를 누를 때 새로 담았던 곳(PKEY)만 빼고 이 코스로 바꿉니다.
+     방문자가 직접 저장해 둔 곳은 건드리지 않습니다. */
+  var PKEY = 'kfoodtrip.preset';
+  function pRead() {
+    try {
+      var v = JSON.parse(localStorage.getItem(PKEY) || '[]');
+      return Array.isArray(v) ? v.filter(function (s) { return typeof s === 'string' && s; }) : [];
+    } catch (e) { return []; }
+  }
+  function pWrite(v) { try { localStorage.setItem(PKEY, JSON.stringify(v)); } catch (e) {} }
+
   document.addEventListener('click', function (e) {
     var btn = up(e.target, '.preset');
     if (!btn) return;
-    var stops = (btn.getAttribute('data-stops') || '').split(',');
-    var saved = read(), route = rRead(), added = 0, i;
+    var raw = (btn.getAttribute('data-stops') || '').split(','), stops = [], i;
+    for (i = 0; i < raw.length; i++) {
+      var s0 = raw[i].replace(/^\s+|\s+$/g, '');
+      if (s0 && stops.indexOf(s0) === -1) stops.push(s0);
+    }
+    var prev = pRead();
+    var saved = read().filter(function (s) { return prev.indexOf(s) === -1; });
+    var added = [];
     for (i = 0; i < stops.length; i++) {
-      var s = stops[i].replace(/^\s+|\s+$/g, '');
-      if (!s) continue;
-      if (saved.indexOf(s) === -1) { saved.push(s); added++; }
-      var dup = false;
-      for (var j = 0; j < route.length; j++) {
-        if (route[j].t === 'p' && route[j].s === s) { dup = true; break; }
-      }
-      if (!dup) route.push({ t: 'p', s: s });
+      if (saved.indexOf(stops[i]) === -1) { saved.push(stops[i]); added.push(stops[i]); }
+    }
+    // 동선: 이 코스의 순서대로 앞에 두고, 직접 저장한 곳·직접 추가한 지점은 뒤에 남깁니다
+    var route = [], rest = rRead();
+    for (i = 0; i < stops.length; i++) route.push({ t: 'p', s: stops[i] });
+    for (i = 0; i < rest.length; i++) {
+      if (rest[i].t === 'p' && (stops.indexOf(rest[i].s) !== -1 || saved.indexOf(rest[i].s) === -1)) continue;
+      route.push(rest[i]);
     }
     write(saved);
     rWrite(route);
+    pWrite(added);
     paint();
     // 담긴 결과를 바로 볼 수 있게 동선 칸으로 옮겨 줍니다
     var box = document.getElementById('route');

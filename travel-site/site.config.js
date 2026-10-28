@@ -80,7 +80,13 @@ module.exports = {
             en: 'Namdaemun is built around the veterans of Namdaemun Market — naengmyeon, home-style set meals, braised hairtail and sashimi sets scattered through the market alleys. Inside are Buwon Myeonok (second-floor naengmyeon and dumpling soup), Ujeong Sikdang (home-style set meals), Honam Sikdang in the braised-hairtail alley, and Maknae Hoejip (a sashimi set served only at weekday lunch); toward the market\'s Sejong-daero entrance there\'s Szimpatikus, Korean-ingredient Western food. The market alleys are hard to find the first time — check the name on the map before you go in.',
             ja: '南大門は南大門市場の老舗が集まる地区で、冷麺・ペクバン・太刀魚の煮付け・刺身定食が市場の路地に点在しています。市場の中にはプウォンミョノク（2階の冷麺・餃子スープ）、ウジョンシクタン（ペクバン）、太刀魚の煮付け横丁のホナムシクタン、平日ランチだけのマンネフェッチプ（刺身定食）があり、市場の世宗大路側の入口には韓国食材の洋食シンポティクシがあります。市場の路地は最初は見つけにくいので、地図で店名を確認してから入ってください。',
             zh: '南大門是南大門市場老店聚集的地方，冷麵、家常定食、燉白帶魚、生魚片定食散落在市場巷子裡。市場裡有富元麵屋（二樓的冷麵、餃子湯）、友情食堂（家常定食）、燉白帶魚巷的湖南食堂，還有只在平日午餐供應的老么生魚片家（生魚片定食）；市場世宗大路一側的入口有用韓國食材做的西餐 SZIMPATIKUS。市場巷子第一次不好找，進去前先在地圖上確認店名。' } },
-        { slug: 'gwanghwamun',  names: { ko: '광화문·서대문', en: 'Gwanghwamun & Seodaemun', ja: '光化門・西大門', zh: '光化門·西大門' } },
+        { slug: 'gwanghwamun',  names: { ko: '광화문·서대문', en: 'Gwanghwamun & Seodaemun', ja: '光化門・西大門', zh: '光化門·西大門' },
+          intro: {
+            ko: '광화문·서대문은 정동길과 서대문역, 서촌, 광화문 일대를 아우릅니다. 코리아나호텔 25층 루프탑의 달빛야장(한돈세트 4인 15만 원, 2026.10 기준), 정동길의 양식당 어반가든, 서대문역 가까운 막썰이회와 돈의문 도조커피, 서대문 백년가게 평양옥의 닭곰탕, 서촌 골목의 해산물집 서촌계단집을 다녀왔습니다.\n**동선 팁** — 낮에는 막썰이회의 점심정식이나 평양옥의 닭곰탕, 식후 커피는 도조커피로 이어가고, 밤에는 달빛야장에서 광화문 야경을 보며 한잔하는 흐름이 가능합니다. 도조커피는 직장인 상권이라 혼자 조용히 있기는 어렵습니다.',
+            en: 'Gwanghwamun & Seodaemun covers Jeongdong-gil, Seodaemun Station, Seochon and the Gwanghwamun area. I have visited Dalbit Yajang on the 25th-floor rooftop of Koreana Hotel (the Hando pork set is 150,000 KRW for four, as of Oct 2026), Urban Garden, a Western restaurant on Jeongdong-gil, Maksseorihoe near Seodaemun Station and Dozo Coffee in Donuimun, the chicken gomtang at Pyeongyangok, a Seodaemun shop certified by Seoul as a Baengnyeon Gage (long-established shop), and Seochon Gyedanjip, a seafood place in a Seochon alley.\n**Route tips** — by day you can have the lunch set at Maksseorihoe or the chicken gomtang at Pyeongyangok and follow with coffee at Dozo Coffee, and at night have a drink at Dalbit Yajang with the Gwanghwamun night view. Dozo Coffee is in an office district, so a quiet seat alone is hard to find.',
+            ja: '光化門・西大門は貞洞路、西大門駅、西村、光化門エリアを含みます。コリアナホテル25階ルーフトップのダルビッ・ヤジャン（韓豚セット4人15万ウォン、2026年10月時点）、貞洞路の洋食店アーバンガーデン、西大門駅近くのマクソリフェ西大門と敦義門のDOZO COFFEE 敦義門店、西大門の百年店ピョンヤンオクの鶏コムタン、西村の路地の海鮮店ソチョン階段家に行きました。\n**動線のヒント** — 昼はマクソリフェのランチ定食やピョンヤンオクの鶏コムタン、食後のコーヒーはDOZO COFFEEへ、夜はダルビッ・ヤジャンで光化門の夜景を見ながら一杯、という流れが可能です。DOZO COFFEEはオフィス街なので、一人で静かに過ごすのは難しいです。',
+            zh: '光化門·西大門涵蓋貞洞路、西大門站、西村與光化門一帶。我去過的有：코리아나호텔 달빛야장（Koreana Hotel Dalbit Yajang）25 樓頂樓的韓豚套餐（4 人 15 萬韓元，截至2026年10月）、貞洞路的西餐廳 Urban Garden、西大門站附近的 막썰이회（Maksseorihoe）、敦義門的 DOZO COFFEE 敦義門店、西大門獲首爾市認證為「百年店鋪」的平壤屋的雞肉곰탕，以及西村巷弄裡的海鮮店西村階梯家。\n**動線小提醒** — 白天可以吃 막썰이회的午餐套餐或平壤屋的雞肉곰탕，飯後去 DOZO COFFEE 喝咖啡；晚上到 달빛야장一邊看光化門夜景一邊小酌。DOZO COFFEE 位於上班族商圈，很難一個人安靜地坐著。'
+          } },
         { slug: 'jongno',       names: { ko: '종로·을지로', en: 'Jongno & Euljiro',       ja: '鍾路・乙支路',  zh: '鍾路·乙支路' },
           intro: {
             ko: '종로·을지로는 을지로3가 노포와 익선동 한옥 골목이 붙어 있는 구간으로, 순대국·LA갈비 같은 노포와 한옥 디저트, 꼼장어 소금구이가 함께 있습니다. 산수갑산 순대국, 시골집 LA갈비처럼 오래된 집에서 저녁을 먹고 익선동 동백양과점에서 수플레로 마무리하거나, 종각역 앞 공평동꼼장어에서 자정까지 소주 한잔 걸치는 식으로 묶기 좋습니다. 을지로 골목은 간판이 작으니 상호를 확인하고 찾으세요.',
@@ -108,7 +114,13 @@ module.exports = {
         { slug: 'gwangjin',     names: { ko: '광진·건대',  en: 'Gwangjin & Konkuk Univ.', ja: '広津・建大',   zh: '廣津·建大' } },
         { slug: 'seongdong',    names: { ko: '성동·왕십리', en: 'Seongdong & Wangsimni',  ja: '城東・往十里',  zh: '城東·往十里' } },
         { slug: 'itaewon',      names: { ko: '이태원·한남', en: 'Itaewon & Hannam',       ja: '梨泰院・漢南',  zh: '梨泰院·漢南' } },
-        { slug: 'gangnam',      names: { ko: '강남·서초',  en: 'Gangnam & Seocho',       ja: '江南・瑞草',    zh: '江南·瑞草' } },
+        { slug: 'gangnam',      names: { ko: '강남·서초',  en: 'Gangnam & Seocho',       ja: '江南・瑞草',    zh: '江南·瑞草' },
+          intro: {
+            ko: '강남·서초는 역삼역과 테헤란로 일대가 중심이고, 신사동과 서초·양재까지 이어집니다. 센터필드 지하의 한국집(1952년부터 이어온 전주비빔밥)과 바로 옆 테라로사, 역삼 논현로 골목의 르와조(산미 없이 진한 드립커피), 테헤란로의 대우부대찌개, 역삼역 3번 출구 인근의 바스버거, 진상횟집의 와다백반, 바게트케이의 바게트, 신사동 파 니엔테, 양재의 영동족발까지 직접 다녀왔습니다.\n**동선 팁** — 점심은 한국집·대우부대찌개·진상횟집이 역삼역 일대에 모여 있고, 식후 커피는 테라로사나 르와조로 이어가기 좋습니다. 바게트케이는 아침 7시부터 열고, 진상횟집은 일요일에 쉽니다(2026.10 기준).',
+            en: 'Gangnam & Seocho centres on Yeoksam Station and Teheran-ro, and reaches out to Sinsa-dong, Seocho and Yangjae. I have visited Hankookjip (Jeonju bibimbap, a tradition since 1952) in the Centerfield basement and Terarosa next door, Loiseau on a Nonhyeon-ro side street (rich drip coffee without acidity), Daewoo Budae-jjigae on Teheran-ro, Bas Burger near Exit 3 of Yeoksam Station, the wada baekban at Jinsang Hoetjip, the baguettes at Baguette K, Far Niente in Sinsa-dong and Yeongdong Jokbal in Yangjae.\n**Route tips** — Hankookjip, Daewoo Budae-jjigae and Jinsang Hoetjip are close together around Yeoksam Station for lunch, and Terarosa or Loiseau work for coffee afterwards. Baguette K opens at 7:00 AM and Jinsang Hoetjip is closed on Sundays (as of Oct 2026).',
+            ja: '江南・瑞草は駅三駅とテヘラン路周辺が中心で、新沙洞、瑞草、良才まで続きます。センターフィールド地下のハングッチプ（1952年から続く全州ビビンバ）とすぐ隣のテラロサ、ノニョン路の路地のロワゾー（酸味がなく濃いドリップコーヒー）、テヘラン路のテウ部隊チゲ、駅三駅3番出口近くのバスバーガー、チンサンフェッチプのワダペクパン、バゲット・ケーのバゲット、新沙洞のファー・ニエンテ、良才のヨンドンチョッパルまで実際に行きました。\n**動線のヒント** — ランチはハングッチプ・テウ部隊チゲ・チンサンフェッチプが駅三駅周辺に集まっていて、食後のコーヒーはテラロサやロワゾーがおすすめです。バゲット・ケーは午前7時から開き、チンサンフェッチプは日曜休みです（2026年10月時点）。',
+            zh: '江南·瑞草以驛三站和德黑蘭路一帶為中心，延伸到新沙洞、瑞草與良才。我親自去過 Centerfield 地下的韓國家（한국집，1952年起的全州拌飯）和隔壁的 TERAROSA、論峴路巷子裡的 L’OISEAU（不酸而濃郁的手沖咖啡）、德黑蘭路的大宇部隊鍋、驛三站3號出口附近的 BAS BURGER、진상횟집（Jinsang Hoetjip）的 와다백반、바게트케이（Baguette K）的法棍、新沙洞的 Far Niente，以及良才的 영동족발（Yeongdong Jokbal）。\n**動線小提醒** — 午餐的韓國家、大宇部隊鍋和 진상횟집都集中在驛三站一帶，飯後的咖啡可以接著去 TERAROSA 或 L’OISEAU。바게트케이 7:00 開門，진상횟집週日公休（截至2026年10月）。'
+          } },
         { slug: 'magok',        names: { ko: '강서·마곡',  en: 'Gangseo & Magok',        ja: '江西・麻谷',    zh: '江西·麻谷' } },
         { slug: 'gangbuk',      names: { ko: '강북',       en: 'Gangbuk',                ja: '江北',          zh: '江北' } }
       ] },
@@ -121,9 +133,21 @@ module.exports = {
         ja: 'ソウルの外へ半日で行ける京畿・仁川を集めました。仁川・沿岸埠頭のバンデギ和え、江華島の入口の炭火焼き魚、加平の松の実スンドゥブ、高陽の薪焼き丸鶏など、その土地でこそきちんと食べられる料理があり、永宗島パラダイスシティのスパや、キャンプもできる江華島のトンマク海水浴場のように時間を過ごせる場所もあります。江華島は島なので、公共交通より車がずっと楽です。',
         zh: '整理了從首爾市中心半天內能到的京畿、仁川。有只有在當地才吃得道地的菜 —— 仁川沿岸碼頭的涼拌斑鰶、江華島入口的炭火烤魚、加平的松子嫩豆腐、高陽的柴火烤全雞 —— 也有適合打發時間的地方，像永宗島百樂達斯城的水療，或還能露營的江華島東幕海水浴場。江華島是島，開車比大眾運輸方便太多。' },
       areas: [
-        { slug: 'incheon',  names: { ko: '인천',   en: 'Incheon',        ja: '仁川',   zh: '仁川' }, seoTitle: { en: 'Where to Eat in Incheon' } },
+        { slug: 'incheon',  names: { ko: '인천',   en: 'Incheon',        ja: '仁川',   zh: '仁川' }, seoTitle: { en: 'Where to Eat in Incheon' },
+          intro: {
+            ko: '인천은 연안부두와 영종도, 시내 분식집까지 이어집니다. 연안부두 해양센터 2층의 오성식당(생물 밴댕이회무침), 인천공항 옆 영종도 파라다이스시티의 스파·사우나 씨메르, 미추홀구의 청해김밥(계란말이김밥)을 다녀왔습니다.\n**동선 팁** — 오성식당이 있는 연안부두는 지하철이 없어 인천역에서 버스로 가거나 자차·택시가 편합니다. 씨메르는 인천공항이 바로 옆이라 공항을 오가는 길에 들르기 좋습니다.',
+            en: 'Incheon runs from Yeonan Pier to Yeongjongdo and city-centre snack shops. I have been to Oseong Sikdang on the second floor of the Haeyang Centre building at Yeonan Pier (fresh raw shad salad), Cimer, the spa and sauna inside Paradise City on Yeongjongdo next to Incheon Airport, and Cheonghae Gimbap in Michuhol-gu (rolled-omelette gimbap).\n**Route tips** — Yeonan Pier has no subway, so take a bus from Incheon Station, or go by car or taxi. Cimer is right next to Incheon Airport, so it is easy to fit in on the way to or from a flight.',
+            ja: '仁川は沿岸埠頭から永宗島、市内の粉食店までつながります。沿岸埠頭の海洋センタービル2階のオソン食堂（生のバンデンイ刺身和え）、仁川空港のすぐ隣、永宗島のパラダイスシティにあるスパ・サウナのシメール、彌鄒忽区のチョンヘキンパ（卵焼きキンパ）に行きました。\n**動線のヒント** — オソン食堂がある沿岸埠頭は地下鉄がなく、仁川駅からバスか、車・タクシーが便利です。シメールは仁川空港のすぐ隣なので、空港の行き帰りに立ち寄りやすい場所です。',
+            zh: '仁川從沿岸碼頭延伸到永宗島，還有市區的小吃店。去過的有：沿岸碼頭海洋中心 2 樓的 오성식당（Oseong Sikdang，生拌斑鰶）、緊鄰仁川機場的永宗島百樂達斯城內的水療桑拿 Cimer，以及彌鄒忽區的青海海苔飯捲（蛋捲海苔飯捲）。\n**動線小提醒** — 오성식당所在的沿岸碼頭沒有地鐵，可以從仁川站搭公車，或自駕、搭計程車。Cimer 就在仁川機場旁邊，往返機場的路上很適合順道去。'
+          } },
         { slug: 'gapyeong', names: { ko: '가평',   en: 'Gapyeong',       ja: '加平',   zh: '加平' } },
-        { slug: 'ganghwa',  names: { ko: '강화도', en: 'Ganghwa Island', ja: '江華島', zh: '江華島' } },
+        { slug: 'ganghwa',  names: { ko: '강화도', en: 'Ganghwa Island', ja: '江華島', zh: '江華島' },
+          intro: {
+            ko: '강화도는 서울에서 차로 반나절이면 닿는 섬으로, 대중교통보다 차가 훨씬 편합니다. 초지대교를 건너 섬 초입에 있는 숯불생선구이, 강화읍의 강화풍물시장(1층 시장, 2층 밴댕이 정식), 남쪽 동막해수욕장(소나무 숲 야영장과 갯벌)을 다녀왔습니다.\n**동선 팁** — 다리를 건너기 전 김포 대곶의 약산손두부에서 아침을 먹고, 섬 초입의 생선구이로 점심을 잇는 식으로 들어가면 동선이 자연스럽습니다. 시장은 강화읍, 동막해수욕장은 화도면이라 위치가 서로 다르니 동선을 미리 보고 정하세요.',
+            en: 'Ganghwa Island is about half a day from Seoul by car, and a car is far easier than public transport. I have been to the charcoal-grilled fish place at the entrance to the island just over Chojidaegyo Bridge, Ganghwa Pungmul Market in Ganghwa-eup (a market on the first floor, bandaengi set meals on the second) and Dongmak Beach in the south, with its pine-forest campsite and mudflat.\n**Route tips** — breakfast at Yaksan Sondubu in Daegot, Gimpo, before the bridge, then lunch at the grilled-fish place just inside the island, makes a natural way in. The market is in Ganghwa-eup and Dongmak Beach is in Hwado-myeon, so check the route before you plan around them.',
+            ja: '江華島はソウルから車で半日ほどの島で、公共交通より車のほうがずっと楽です。草芝大橋を渡った島の入口にある炭火焼き魚、江華邑の江華プンムル市場（1階が市場、2階はパンデンイ定食）、南側のトンマク海水浴場（松林のキャンプ場と干潟）に行きました。\n**動線のヒント** — 橋を渡る前に金浦・大串のヤクサン・ソンドゥブで朝ごはんを食べ、島の入口の焼き魚でランチをつなぐ流れだと自然です。市場は江華邑、トンマク海水浴場は花島面で場所が違うので、動線を先に確認して決めましょう。',
+            zh: '江華島距離首爾開車約半天，開車比搭大眾交通方便得多。去過的有：過了草芝大橋、位於島嶼入口的炭烤魚、江華邑的 강화풍물시장（Ganghwa Pungmul Market，一樓是市場，二樓是밴댕이套餐美食街），以及南邊的東幕海水浴場（松林露營區與灘塗）。\n**動線小提醒** — 過橋前先到金浦大串的 약산손두부（Yaksan Sondubu）吃早餐，再到島嶼入口的烤魚店吃午餐，這樣進島的動線很自然。市場在江華邑，東幕海水浴場在花島面，位置不同，建議先確認動線再決定。'
+          } },
         { slug: 'goyang',   names: { ko: '고양',   en: 'Goyang',         ja: '高陽',   zh: '高陽' } },
         { slug: 'gimpo',    names: { ko: '김포',   en: 'Gimpo',          ja: '金浦',   zh: '金浦' } }
       ] },
@@ -164,7 +188,13 @@ module.exports = {
         ja: '全羅は南道料理の本場として知られます。扶安のピスンデ、羅州コムタン、光州のトッカルビ横丁のように、地名がそのまま料理名になっている場所が多く、全州の韓屋村には目を覚ますウェンイコンナムルクッパと、おかずが華やかな校洞石カルビがあります。全羅南道と光州が行政上「全南光州」に統合され、住所表記も変わりましたが、記事では変更後の基準で書いています。',
         zh: '全羅被稱為南道料理的發源地。很多地方，地名直接就是菜名 —— 扶安的血腸、羅州牛肉湯、光州的떡갈비巷，全州韓屋村還有喚醒早晨的歪伊豆芽湯飯，和小菜豐盛的校洞石烤排骨。隨著全羅南道和光州在行政上合併為「全南光州」，地址寫法也變了，文章裡採用改制後的寫法。' },
       areas: [
-        { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' } },
+        { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' },
+          intro: {
+            ko: '전북은 전주와 부안에서 먹어 본 곳입니다. 전주에서는 한옥마을 일대의 교동석갈비와 동문길의 왱이 콩나물국밥(콩나물 리필 가능)을, 부안에서는 아침 7시부터 여는 할매피순대를 다녀왔습니다.\n**동선 팁** — 전주는 한옥마을을 걷다 허기질 때 석갈비집에 들를 수 있고, 콩나물국밥은 전주에 갈 때마다 가장 먼저 들르는 집입니다. 부안 할매피순대는 이른 아침에 먹기 좋고, 냄새는 거의 없습니다.',
+            en: 'Jeonbuk is places I have eaten in Jeonju and Buan. In Jeonju I have been to Gyodong Seokgalbi around Hanok Village and Waengi bean-sprout gukbap on Dongmun-gil (you can refill the bean sprouts), and in Buan to Halmae Pisundae, which opens at 7:00 AM.\n**Route tips** — in Jeonju you can stop at the stone-grilled galbi place when you get hungry walking through Hanok Village, and the bean-sprout gukbap is the shop I go to as soon as I arrive. Buan Halmae Pisundae suits an early morning, and the smell is almost absent.',
+            ja: '全北は全州と扶安で食べた店です。全州では韓屋村周辺の校洞石カルビと東門路の全州ウェンイコンナムルクッパ専門店（もやしのおかわりができます）、扶安では午前7時から開く扶安 ハルメピスンデに行きました。\n**動線のヒント** — 全州は韓屋村を歩いていてお腹がすいたときに石カルビの店に立ち寄れ、もやしクッパは全州に行くたびに最初に立ち寄る店です。扶安ハルメピスンデは早朝に食べやすく、においはほとんどありません。',
+            zh: '全北是在全州與扶安吃過的店。在全州去過韓屋村一帶的 교동석갈비（Gyodong Seokgalbi）和東門路的 전주왱이콩나물국밥（Jeonju Waengi Kongnamul-gukbap，黃豆芽可以續加），在扶安則去過 7:00 開門的 扶安 奶奶血腸。\n**動線小提醒** — 在全州走逛韓屋村餓了時，可以到石烤排骨店用餐；黃豆芽湯飯是每次到全州都會先去的店。扶安 奶奶血腸適合一大早去，味道幾乎沒有腥臭。'
+          } },
         { slug: 'jeonnam', names: { ko: '전남광주', en: 'Jeonnam-Gwangju', ja: '全南光州', zh: '全南光州' } }
       ] },
     { slug: 'gyeongsang',  color: '#993633', colorDark: '#e39996',   // 벽돌
@@ -201,9 +231,27 @@ module.exports = {
         ja: '済州はレンタカーで回る前提でまとめています。済州式ヘジャングクやアワビ粥・ムルフェといった食事、城山日出峰・光致岐海岸・摹瑟浦の海岸道路といった風景、涯月・城山の海が見えるカフェまで。空港から西または東へ回る二日間の動線に自然に入ります。夏のヤリイカ、春の菜の花など季節ものは各記事に明記しています。',
         zh: '濟州是以租車環島為前提整理的。有濟州式解酒湯、鮑魚粥、水拌生魚這類正餐，城山日出峰、光致岐海邊、摹瑟浦海岸路這些風景，還有涯月、城山看得到海的咖啡館。很自然地能排進從機場出發往西或往東的兩天動線。夏天的長槍烏賊、春天的油菜花這類季節限定，每篇都有標註。' },
       areas: [
-        { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '濟州市' } },
-        { slug: 'aewol',    names: { ko: '애월',    en: 'Aewol',     ja: '涯月',    zh: '涯月' } },
-        { slug: 'seogwipo', names: { ko: '서귀포시',en: 'Seogwipo City', ja: '西帰浦市', zh: '西歸浦市' } },
+        { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '濟州市' },
+          intro: {
+            ko: '제주시는 해장국집과 오일시장, 해변이 가까이 모여 있는 곳입니다. 대춘해장국·미풍해장국·함덕골목의 해장국과 내장탕, 장모식탁의 전복솥밥 정식, 이재모피자가 있고, 제주민속오일시장과 이호테우·함덕·금능 해수욕장도 다녀왔습니다.\n**동선 팁** — 제주 해장국은 간마늘을 듬뿍 넣어 먹고, 함덕골목은 포장이 안 되고 매장에서만 먹을 수 있습니다. 제주민속오일시장은 끝자리 2일과 7일에 열리니 날짜를 맞춰 가세요. 이호테우해수욕장은 공항과 가까워 도착이나 출발 전후에 잠깐 들르기 좋습니다.',
+            en: 'Jeju City packs hangover-soup shops, the five-day market and beaches close together. It has the hangover soups and offal soup at Daechun, Mipung and Hamdeok Golmok, the abalone pot-rice set at Jangmo Siktak and Ijaemo Pizza, and I have also been to the Jeju Folk Five-Day Market and the beaches at Iho Tewoo, Hamdeok and Geumneung.\n**Route tips** — on Jeju, hangover soup is eaten with plenty of ground garlic, and Hamdeok Golmok does not do takeaway, so you eat in. The Jeju Folk Five-Day Market runs on days ending in 2 or 7, so time your visit. Iho Tewoo Beach is close to the airport and an easy short stop on arrival or departure.',
+            ja: '済州市は、ヘジャンクク（二日酔いスープ）の店と五日市場、ビーチが近くに集まっている地区です。テチュン・ミプン・ハムドクゴルモクのヘジャンククと内臓スープ、チャンモシクタクのアワビ釜飯定食、イジェモピザがあり、済州民俗五日市場や梨湖テウ・咸徳・クムヌンの海水浴場にも行きました。\n**動線のヒント** — 済州のヘジャンククはすりおろしニンニクをたっぷり入れて食べます。ハムドクゴルモクは持ち帰りができず店内のみです。済州民俗五日市場は末尾が2と7の日に開くので日付を合わせてください。梨湖テウ海水浴場は空港に近く、到着や出発の前後に立ち寄りやすい場所です。',
+            zh: '濟州市是解酒湯店、五日市集與海灘彼此很近的地方。有 대춘（Daechun）、미풍（Mipung）、함덕골목（Hamdeok Golmok）的解酒湯與內臟湯、장모식탁（Jangmo Siktak）的鮑魚鍋飯定食、Lee Jaemo Pizza，也去過濟州民俗五日市場，以及梨湖、咸德、金陵的海水浴場。\n**動線小提醒** — 濟州的解酒湯要放大量蒜泥才對味，함덕골목不提供外帶，只能在店內吃。濟州民俗五日市場在尾數為 2 或 7 的日子開市，要配合日期前往。梨湖 Tewoo 海水浴場離機場近，抵達或出發前後很適合順道去一下。'
+          } },
+        { slug: 'aewol',    names: { ko: '애월',    en: 'Aewol',     ja: '涯月',    zh: '涯月' },
+          intro: {
+            ko: '애월은 제주 북서쪽 해안도로를 따라 식당이 모여 있는 동네입니다. 해녀의집(해산물 한상과 마무리 해물라면), 우니담(우니 덮밥), 애월리순메밀막국수(들기름막국수·물막국수), 제주나기(나고야식 히츠마부시)를 다녀왔습니다.\n**동선 팁** — 우니담의 우니동은 우니의 그램 수에 따라 소·대로 나뉘고, 애월리순메밀막국수는 전혀 맵지 않습니다. 제주나기의 히츠마부시는 날이 좋아 포장해서 먹었습니다.',
+            en: 'Aewol is where restaurants line the coastal road on the northwest of Jeju. I have been to Haenyeoui Jip (a seafood spread finished with seafood ramyeon), Unidam (sea urchin rice bowl), Aewolli Sun Memil Makguksu (perilla-oil and water makguksu) and Jejunagi (Nagoya-style hitsumabushi).\n**Route tips** — the sea urchin bowl at Unidam comes in small and large by the grams of uni, and the makguksu at Aewolli Sun Memil is not spicy at all. The hitsumabushi at Jejunagi was taken away to eat on a sunny day.',
+            ja: '涯月は済州の北西側、海岸道路に沿って食堂が集まる地区です。海女の家（海鮮の膳と仕上げの海鮮ラーメン）、ウニダム（ウニ丼）、涯月里純そばマッククス（エゴマ油マッククス・水マッククス）、チェジュナギ（名古屋風ひつまぶし）に行きました。\n**動線のヒント** — ウニダムのウニ丼はウニのグラム数で小と大に分かれ、涯月里のマッククスはまったく辛くありません。チェジュナギのひつまぶしは、天気がよかったので持ち帰って食べました。',
+            zh: '涯月是濟州西北部沿著海岸道路聚集餐廳的地方。去過的有：海女之家 涯月（海鮮一桌，最後吃海鮮拉麵收尾）、Unidam 涯月店（海膽蓋飯）、애월리순메밀막국수（Aewolli Sun Memil Makguksu，香油蕎麥涼麵與水蕎麥涼麵）、Jejunagi（名古屋風鰻魚三吃）。\n**動線小提醒** — Unidam 的海膽丼依海膽克數分小份與大份，애월리순메밀막국수完全不辣。Jejunagi 的鰻魚三吃因為天氣好，外帶回去吃。'
+          } },
+        { slug: 'seogwipo', names: { ko: '서귀포시',en: 'Seogwipo City', ja: '西帰浦市', zh: '西歸浦市' },
+          intro: {
+            ko: '서귀포시는 제주 서남쪽 모슬포항과 산방산, 남원 일대입니다. 모슬포항 주변의 제주할망밥상, 돈지식당(한치회덮밥은 여름 한정), 큰돈가 서쪽대표(직원이 구워 주는 오겹살·목살), 남원의 공천포식당(전복죽)과 함께, 모슬포항에서 산방산으로 이어지는 해안도로, 추사 김정희 유배지, 카멜리아힐을 다녀왔습니다.\n**동선 팁** — 모슬포항 근처에 식당이 모여 있어 해안도로와 유배지, 산방산을 묶어 하루 동선을 짜기 좋습니다. 공천포식당은 오후 3시 30분에 닫고 목요일에 쉬니 시간을 맞춰 가세요.',
+            en: 'Seogwipo City covers the southwest of Jeju: Moseulpo Port, Sanbangsan and Namwon. Around Moseulpo Port there are Jeju Halmang Bapsang, Donji Sikdang (the cuttlefish sashimi rice bowl is summer only) and Keundonga Seojjok Daepyo, where staff grill the pork belly and neck for you, and in Namwon there is Gongcheonpo Sikdang for abalone porridge. I have also been to the coastal road from Moseulpo Port to Sanbangsan, the Chusa Kim Jeong-hui exile site and Camellia Hill.\n**Route tips** — restaurants cluster near Moseulpo Port, so the coastal road, the exile site and Sanbangsan fit into one day plan. Gongcheonpo Sikdang closes at 3:30 PM and is closed on Thursdays, so time your visit.',
+            ja: '西帰浦市は済州の南西側、摹瑟浦港と山房山、南元一帯です。摹瑟浦港周辺の済州ハルマンパプサン、トンジ食堂（イカ刺し丼は夏限定）、クンドンガ ソッチョクデピョ（店員が焼いてくれる豚バラと首肉）、南元の孔泉浦食堂（アワビ粥）に加え、摹瑟浦港から山房山へ続く海岸道路、秋史 金正喜の流配地、カメリアヒルにも行きました。\n**動線のヒント** — 摹瑟浦港の近くに食堂が集まっているので、海岸道路と流配地、山房山を一日の動線にまとめやすいです。孔泉浦食堂は午後3時30分に閉まり、木曜が休みなので時間を合わせてください。',
+            zh: '西歸浦市位在濟州西南部，涵蓋摹瑟浦港、山房山與南元一帶。摹瑟浦港周邊有 제주할망밥상（Jeju Halmang Bapsang）、敦地食堂（돈지식당，小卷生魚片蓋飯只在夏季）、큰돈가 서쪽대표（Keundonga Seojjok Daepyo，店員代烤五花肉與梅花肉），南元有孔泉浦食堂的鮑魚粥；也走過從摹瑟浦港到山房山的海岸道路、秋史金正喜流放地和山茶花之丘（Camellia Hill）。\n**動線小提醒** — 餐廳集中在摹瑟浦港附近，可以把海岸道路、流放地與山房山排進同一天的行程。孔泉浦食堂 15:30 打烊、週四公休，要配合時間前往。'
+          } },
         { slug: 'seongsan',  names: { ko: '성산',    en: 'Seongsan',  ja: '城山',    zh: '城山' } }
       ] }
   ],

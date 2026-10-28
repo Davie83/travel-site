@@ -172,6 +172,17 @@ Korean restaurants differ from what you may be used to.
 - **If there is a call button on the table, press it** to get a server. Raising your hand is also fine
 - Wet wipes or extra plates are **occasionally charged**
 
+**Break times and booking — what I keep running into in these guides**
+
+- **Many restaurants close between lunch and dinner.** Tsuruhashi Fugetsu in Myeongdong has a break from 14:30 to 17:00 and Jinsang Hoetjip from 14:30 to 16:30 (as of Aug–Oct 2026). There is also a separate last-order time, so check before you go
+- **Many places close at weekends.** In office neighbourhoods like Yeouido, some shops shut on Saturday and Sunday. Gwonsusan is closed on weekends, and so is the main Jinjin Mandu-guk branch near Yeouido Station (as of Aug 2026)
+- **Some places need a booking.** Gwonsusan uses CatchTable, Kim & Kim Snow Crab uses Naver booking, and Seosan Kkotge works by reservation only
+- **Some dishes are sold only at weekday lunch.** The sashimi set at Maknae Hoejip runs only at weekday lunch, at 14,000 KRW per person (as of Aug 2026)
+- **Restaurants inside markets tend to close early.** Buwon Myeonok closes at 8:00 PM and is easy to miss on the second floor (as of Aug 2026)
+- **Five-day markets open only on set days.** The Jeju Folk Five-Day Market runs on days ending in 2 or 7, and Ganghwa Pungmul Market also has a market on the 2nd and 7th (as of Oct 2026)
+- **Places with queues start queueing before opening.** At Yokosuka Tsunami people line up before it opens, and at Dorimhang you need to go early in the evening to get a seat
+- **To order, say the dish name plus "juseyo".** Each guide here gives a one-line phrase to order with, and you can say it as written, for example "Baguette juseyo"
+
 ## 9. Other things worth knowing {#daily}
 
 - **Toilets are free and everywhere** — subway stations, department stores, parks. In subway stations they are often inside the ticket gates

@@ -128,10 +128,10 @@ module.exports = {
       names: { ko: '경기·인천', en: 'Gyeonggi & Incheon', ja: '京畿・仁川', zh: '京畿·仁川' },
       seoTitle: { ko: '경기·인천 맛집·여행 가이드', en: 'Gyeonggi & Incheon Food and Travel Guide', ja: '京畿・仁川のグルメ・観光ガイド', zh: '京畿·仁川美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '서울 바깥으로 반나절이면 닿는 경기·인천을 모았습니다. 인천 연안부두의 밴댕이회무침, 강화도 초입의 숯불 생선구이, 가평의 잣순두부, 고양의 장작 통닭구이처럼 그 지역에서만 제대로 먹는 음식이 있고, 영종도 파라다이스시티의 스파나 캠핑도 되는 강화도 동막해수욕장처럼 시간을 보내기 좋은 곳도 있습니다. 강화도는 섬이라, 대중교통보다 차가 훨씬 편합니다.',
-        en: 'Gyeonggi and Incheon, all within a half-day of central Seoul. Dishes you only get properly on their home ground — raw banded herring at Incheon’s Yeonan Pier, charcoal-grilled fish at the gateway to Ganghwa Island, pine-nut sundubu in Gapyeong, wood-fired whole chicken in Goyang — plus places to spend time, like the spa at Paradise City on Yeongjong Island or Donmak Beach on Ganghwa, which you can camp at. Ganghwa is an island, so a car beats public transport by a wide margin.',
-        ja: 'ソウルの外へ半日で行ける京畿・仁川を集めました。仁川・沿岸埠頭のバンデギ和え、江華島の入口の炭火焼き魚、加平の松の実スンドゥブ、高陽の薪焼き丸鶏など、その土地でこそきちんと食べられる料理があり、永宗島パラダイスシティのスパや、キャンプもできる江華島のトンマク海水浴場のように時間を過ごせる場所もあります。江華島は島なので、公共交通より車がずっと楽です。',
-        zh: '整理了從首爾市中心半天內能到的京畿、仁川。有只有在當地才吃得道地的菜 —— 仁川沿岸碼頭的涼拌斑鰶、江華島入口的炭火烤魚、加平的松子嫩豆腐、高陽的柴火烤全雞 —— 也有適合打發時間的地方，像永宗島百樂達斯城的水療，或還能露營的江華島東幕海水浴場。江華島是島，開車比大眾運輸方便太多。' },
+        ko: '서울 바깥으로 반나절이면 닿는 경기·인천을 모았습니다. 인천 연안부두 오성식당의 밴댕이회무침, 영종도 파라다이스시티의 스파 씨메르, 강화도의 숯불 생선구이·강화풍물시장·동막해수욕장, 김포 대곶의 약산손두부, 가평의 잣순두부, 고양의 장작 통닭구이처럼 그 지역에서만 제대로 먹는 음식과 시간을 보내기 좋은 곳이 있습니다.\n**동선 팁** — 강화도는 섬이라 대중교통보다 차가 훨씬 편합니다. 초지대교를 건너기 전에 약산손두부에서 아침을 먹고, 섬 초입의 생선구이로 점심을 이으면 동선이 자연스럽습니다. 인천 연안부두는 지하철이 없어 인천역에서 버스로 가거나 자차·택시가 편합니다.',
+        en: 'Gyeonggi and Incheon are places within about half a day of Seoul. There is food you only really get in the area — bandaengi salad at Oseong Sikdang on Yeonan Pier, the grilled fish and Ganghwa Pungmul Market on Ganghwa Island, Yaksan Sondubu in Daegot, Gimpo, pine-nut sundubu in Gapyeong and wood-fired chicken in Goyang — and places to spend time, such as the Cimer spa in Paradise City on Yeongjongdo and Dongmak Beach on Ganghwa.\n**Route tips** — Ganghwa is an island, and a car is far easier than public transport. Breakfast at Yaksan Sondubu before Chojidaegyo Bridge and lunch at the grilled-fish place just inside the island makes a natural route. Yeonan Pier has no subway, so take a bus from Incheon Station or go by car or taxi.',
+        ja: 'ソウルの外へ、半日で行ける京畿・仁川をまとめました。沿岸埠頭のオソン食堂のバンデンイ刺身和え、永宗島パラダイスシティのスパ シメール、江華島の炭火焼き魚・江華プンムル市場・トンマク海水浴場、金浦・大串のヤクサン・ソンドゥブ、加平の松の実スンドゥブ、高陽の薪焼きチキンなど、その土地ならではの料理と過ごしやすい場所があります。\n**動線のヒント** — 江華島は島なので、公共交通より車のほうがずっと楽です。草芝大橋を渡る前にヤクサン・ソンドゥブで朝ごはんを食べ、島の入口の焼き魚でランチをつなぐと動線が自然です。仁川の沿岸埠頭は地下鉄がなく、仁川駅からバスか、車・タクシーが便利です。',
+        zh: '這裡收錄從首爾出發半天內可到的京畿與仁川。有只有在當地才吃得到的料理 —— 沿岸碼頭 오성식당（Oseong Sikdang）的生拌斑鰶、江華島的炭烤魚與 강화풍물시장（Ganghwa Pungmul Market）、金浦大串的 약산손두부（Yaksan Sondubu）、加平的松子嫩豆腐鍋、高陽的柴燒烤雞 —— 也有適合消磨時間的地方，例如永宗島百樂達斯城的水療 Cimer 和江華島的東幕海水浴場。\n**動線小提醒** — 江華島是島，開車比搭大眾交通方便得多。過草芝大橋前先到 약산손두부吃早餐，再到島嶼入口的烤魚店吃午餐，動線很自然。仁川沿岸碼頭沒有地鐵，可從仁川站搭公車，或自駕、搭計程車。' },
       areas: [
         { slug: 'incheon',  names: { ko: '인천',   en: 'Incheon',        ja: '仁川',   zh: '仁川' }, seoTitle: { en: 'Where to Eat in Incheon' },
           intro: {
@@ -155,10 +155,10 @@ module.exports = {
       names: { ko: '강원',      en: 'Gangwon',            ja: '江原',     zh: '江原' },
       seoTitle: { ko: '강원 맛집·여행 가이드', en: 'Gangwon Food & Travel Guide', ja: '江原のグルメ・観光ガイド', zh: '江原美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '강원은 동해 바다와 태백산맥 사이에 걸쳐 있어, 같은 도(道) 안에서도 바다 쪽과 산 쪽의 분위기가 꽤 다릅니다. 강릉은 초당순두부 마을의 짬뽕순두부와 리틀다이너의 팬케이크 번 버거, 철원은 비빔막국수, 속초는 ㅅㅊ 조형물이 있는 속초해수욕장과 손으로 당겨 건너는 아바이마을 갯배를 다룹니다. 서울에서 강릉까지는 KTX로 두 시간, 경포·안목해변 일정과 묶기 좋습니다.',
-        en: 'Gangwon stretches between the East Sea and the Taebaek mountains, so the coast and the highlands feel quite different even within one province. Gangneung covers jjamppong sundubu in the Chodang tofu village and a pancake-bun burger at Little Diner; Cheorwon has bibim-makguksu; Sokcho has Sokcho Beach with its ㅅㅊ sculpture and the hand-pulled gaetbae ferry in Abai Village. Gangneung is two hours from Seoul by KTX and pairs well with Gyeongpo or Anmok Beach.',
-        ja: '江原は東海（日本海）と太白山脈の間にまたがり、同じ道の中でも海側と山側で雰囲気がかなり違います。江陵は草堂スンドゥブ村のチャンポンスンドゥブと、リトルダイナーのパンケーキバンズバーガー、鉄原はビビムマッククス、束草はㅅㅊのオブジェがある束草海水浴場と、手で引いて渡るアバイ村のケッペを扱っています。ソウルから江陵までKTXで2時間、鏡浦・安木ビーチの行程と組み合わせやすいです。',
-        zh: '江原橫跨東海與太白山脈之間，同一個道裡，靠海和靠山的氛圍差很多。江陵收錄草堂嫩豆腐村的炒碼嫩豆腐，和 Little Diner 的鬆餅漢堡；鐵原是拌蕎麥麵；束草則有 ㅅㅊ 地標的束草海水浴場，和用手拉著過河的阿爸伊村手拉渡船。從首爾到江陵搭 KTX 兩小時，很適合搭配鏡浦、安木海邊的行程。' },
+        ko: '강원은 동해 바다와 태백산맥 사이에 걸쳐 있어, 같은 도(道) 안에서도 바다 쪽과 산 쪽의 분위기가 꽤 다릅니다. 강릉은 초당순두부 마을의 짬뽕순두부와 리틀다이너의 팬케이크 번 버거, 주문진은 파도식당의 복지리, 양양은 동해막국수 분점, 철원은 비빔막국수, 속초는 ㅅㅊ 조형물이 있는 속초해수욕장과 손으로 당겨 건너는 아바이마을 갯배를 다룹니다.\n**동선 팁** — 서울에서 강릉까지는 KTX로 두 시간이고 경포·안목해변 일정과 묶기 좋습니다. 막국수는 철원이 간이 세지 않고 살짝 매콤한 비빔 쪽이고, 양양의 동해막국수 분점은 본점이 같은 양양군 동해대로에 따로 있습니다.',
+        en: 'Gangwon lies between the East Sea and the Taebaek Mountains, so the feel of the sea side and the mountain side differ quite a lot within one province. Gangneung covers jjamppong sundubu in the Chodang sundubu village and the pancake-bun burger at Little Diner, Jumunjin covers the pufferfish soup at Pado Sikdang, Yangyang a branch of Donghae Makguksu, Cheorwon its bibim makguksu, and Sokcho the beach with its giant letter sculpture and the Abai Village ferry you pull across by hand.\n**Route tips** — Gangneung is two hours from Seoul by KTX and fits well with a Gyeongpo and Anmok beach plan. Cheorwon makguksu is the mildly seasoned bibim kind with a little heat, and the Donghae Makguksu in Yangyang is a branch, with the main shop elsewhere on Donghae-daero in Yangyang County.',
+        ja: '江原は東海（日本海）と太白山脈の間にまたがっていて、同じ道の中でも海側と山側の雰囲気がかなり違います。江陵は草堂スンドゥブ村のチャンポンスンドゥブとリトルダイナーのパンケーキバンバーガー、注文津はパドシクタンのフグ汁、襄陽はトンヘマッククス分店、鉄原はビビンマッククス、束草は大きな文字のオブジェがある束草海水浴場と手でたぐって渡るアバイ村の渡し船を取り上げています。\n**動線のヒント** — ソウルから江陵までは KTX で2時間で、鏡浦・安木海岸の日程と組み合わせやすいです。鉄原のマッククスはしょっぱくなく少しピリ辛のビビン系で、襄陽のトンヘマッククス分店は、本店が同じ襄陽郡の東海大路に別にあります。',
+        zh: '江原位在東海與太白山脈之間，同一個道裡，海邊和山區的氛圍差別很大。江陵有草堂豆腐村的炒碼嫩豆腐鍋和 Little Diner 的鬆餅漢堡，注文津有 파도식당（Pado Sikdang）的河豚湯，襄陽有東海蕎麥麵分店，鐵原有拌蕎麥涼麵，束草則有立著大型字母雕塑的束草海水浴場，以及用手拉繩渡河的阿爸村渡船。\n**動線小提醒** — 從首爾到江陵搭 KTX 約兩小時，很適合和鏡浦、安木海灘的行程搭配。鐵原蕎麥涼麵是調味不重、微微帶辣的拌麵，襄陽的東海蕎麥麵是分店，本店另在襄陽郡東海大路上。' },
       areas: [
         { slug: 'sokcho',    names: { ko: '속초', en: 'Sokcho',    ja: '束草', zh: '束草' } },
         { slug: 'cheorwon',  names: { ko: '철원', en: 'Cheorwon',  ja: '鉄原', zh: '鐵原' } },
@@ -170,10 +170,10 @@ module.exports = {
       names: { ko: '충청',      en: 'Chungcheong',        ja: '忠清',     zh: '忠清' },
       seoTitle: { ko: '충청 맛집·여행 가이드', en: 'Chungcheong Food & Travel Guide', ja: '忠清のグルメ・観光ガイド', zh: '忠清美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '충청은 서울과 부산 사이, 내륙 한가운데입니다. 대전의 연한 콩국수처럼 담백한 한 끼가 있고, 청풍호반을 내려다보는 제천 청풍리조트와 그 근처 떡갈비집처럼 호수를 끼고 쉬어 가는 코스도 있습니다. 아산 삽교천 옆 한옥을 고친 인주카페처럼 잠깐 들르기 좋은 곳도 있습니다. 고속도로로 지나는 길에 한 끼, 혹은 단양·충주를 묶은 내륙 호수 여행에 넣기 좋습니다.',
-        en: 'Chungcheong sits in the middle of the country, between Seoul and Busan. There is a plain, gentle meal like Daejeon’s mild kongguksu, and a lake-side stop like the Cheongpung resort overlooking the water in Jecheon with a tteok-galbi place nearby. There’s also a quick stop like Inju Cafe, a hanok bakery by Sapgyocheon stream in Asan. Good for a meal on the drive through, or as part of an inland-lake trip taking in Danyang and Chungju.',
-        ja: '忠清はソウルと釜山の間、内陸のちょうど真ん中です。大田の淡いコングクスのようなあっさりした一食があり、清風湖畔を見下ろす堤川の清風リゾートとその近くのトッカルビ店のように、湖のそばで一息つくコースもあります。牙山・挿橋川そばの韓屋を改装したインジュカフェのように、ちょっと立ち寄るのにいい場所もあります。高速道路で通る道すがらの一食や、丹陽・忠州をまとめた内陸の湖の旅に入れやすいです。',
-        zh: '忠清位在首爾和釜山之間，內陸的正中央。有大田清淡的豆漿麵這種爽口的一餐，也有俯瞰清風湖的堤川清風度假村加附近떡갈비店這種傍著湖休息的行程。牙山挿橋川旁老韓屋改的仁州咖啡，也適合順道歇個腳。適合開高速公路經過時吃一頓，或排進丹陽、忠州串起來的內陸湖泊旅行。' },
+        ko: '충청은 서울과 부산 사이, 내륙 한가운데입니다. 대전 대성콩국수의 연한 콩국수, 보령 자연쌈밥식당의 직접 키운 쌈채소 쌈밥, 청풍호반을 내려다보는 제천 청풍리조트와 근처 떡갈비집, 아산 삽교천 옆 한옥을 고친 인주카페처럼 한 끼와 잠깐 쉬어 가는 곳을 다룹니다.\n**동선 팁** — 고속도로로 지나는 길에 한 끼, 혹은 단양·충주를 묶은 내륙 호수 여행에 넣기 좋습니다. 대성콩국수는 점심·저녁에 대기가 있고, 자연쌈밥식당은 자연쌈밥 11,000원, 돌솥쌈밥 13,000원입니다(2026.10 기준).',
+        en: 'Chungcheong sits in the middle of the country, between Seoul and Busan. It covers a meal or a short rest stop: the light kongguksu at Daeseong Kongguksu in Daejeon, ssambap with home-grown leaf vegetables at Jayeon Ssambap Restaurant in Boryeong, the Cheongpung resort overlooking the lake in Jecheon with a tteok-galbi place nearby, and Inju Cafe in Asan, a converted hanok by the Sapgyo stream.\n**Route tips** — it suits a meal on the way along the expressway, or an inland-lake trip taking in Danyang and Chungju. Daeseong Kongguksu has a queue at lunch and dinner, and at Jayeon Ssambap Restaurant the Jayeon ssambap is 11,000 KRW and the stone-pot ssambap 13,000 KRW (as of Oct 2026).',
+        ja: '忠清はソウルと釜山の間、内陸のど真ん中です。大田テソンコングクスの薄めのコングクス、保寧ジャヨンサムパプ食堂の自家栽培の葉野菜のサムパプ、清風湖畔を見下ろす堤川の清風リゾートとその近くのトッカルビの店、牙山の挿橋川のそばにある韓屋を改装したインジュカフェなど、食事と一休みの場所を取り上げています。\n**動線のヒント** — 高速道路で通る途中の一食や、丹陽・忠州を組み合わせた内陸の湖の旅に入れやすいです。テソンコングクスは昼・夜に行列があり、ジャヨンサムパプ食堂はジャヨンサムパプ11,000ウォン、石鍋サムパプ13,000ウォンです（2026年10月時点）。',
+        zh: '忠清位在首爾與釜山之間，是內陸的正中央。介紹的是一餐與短暫歇腳的地方：大田大成豆漿涼麵（대성콩국수）偏淡的豆漿麵、保寧 자연쌈밥식당（Jayeon Ssambap Sikdang）自家種生菜的包飯、俯瞰清風湖畔的堤川清風渡假村與附近的肉餅排店，以及牙山插橋川旁、改建自韓屋的仁州咖啡 韓屋店。\n**動線小提醒** — 適合在高速公路途中吃一餐，或排進結合丹陽、忠州的內陸湖泊旅行。大成豆漿涼麵午餐與晚餐時段要排隊，자연쌈밥식당的 자연쌈밥是 11,000 韓元，石鍋包飯是 13,000 韓元（截至2026年10月）。' },
       areas: [
         { slug: 'daejeon',  names: { ko: '대전', en: 'Daejeon',  ja: '大田', zh: '大田' } },
         { slug: 'chungbuk', names: { ko: '충북', en: 'Chungbuk', ja: '忠北', zh: '忠北' } },
@@ -183,10 +183,10 @@ module.exports = {
       names: { ko: '전라',      en: 'Jeolla',             ja: '全羅',     zh: '全羅' },
       seoTitle: { ko: '전라 맛집·여행 가이드', en: 'Jeolla Food & Travel Guide', ja: '全羅のグルメ・観光ガイド', zh: '全羅美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '전라는 남도 음식의 고장으로 불립니다. 부안의 피순대, 나주곰탕, 광주 떡갈비 골목처럼 지역 이름이 그대로 음식 이름이 되는 곳들이 많고, 전주 한옥마을에는 아침을 깨우는 왱이콩나물국밥과 반찬 화려한 교동석갈비가 있습니다. 전남과 광주가 행정구역상 전남광주로 통합되면서 주소 표기도 바뀌었는데, 글에는 바뀐 기준으로 적었습니다.',
-        en: 'Jeolla is known as the home of Namdo cooking. Often the place name is the dish name — pi-sundae in Buan, Naju gomtang, the tteok-galbi alley in Gwangju — and in Jeonju\'s Hanok Village there\'s Waengi Kongnamul-gukbap for a wake-up bowl and Gyodong Seokgalbi for a hot-plate galbi spread with lavish side dishes. With South Jeolla and Gwangju now administratively merged as Jeonnam-Gwangju, addresses have changed too; the write-ups use the new form.',
-        ja: '全羅は南道料理の本場として知られます。扶安のピスンデ、羅州コムタン、光州のトッカルビ横丁のように、地名がそのまま料理名になっている場所が多く、全州の韓屋村には目を覚ますウェンイコンナムルクッパと、おかずが華やかな校洞石カルビがあります。全羅南道と光州が行政上「全南光州」に統合され、住所表記も変わりましたが、記事では変更後の基準で書いています。',
-        zh: '全羅被稱為南道料理的發源地。很多地方，地名直接就是菜名 —— 扶安的血腸、羅州牛肉湯、光州的떡갈비巷，全州韓屋村還有喚醒早晨的歪伊豆芽湯飯，和小菜豐盛的校洞石烤排骨。隨著全羅南道和光州在行政上合併為「全南光州」，地址寫法也變了，文章裡採用改制後的寫法。' },
+        ko: '전라는 남도 음식의 고장으로 불립니다. 부안 할매피순대, 나주곰탕 하얀집, 광주 송정역 근처 떡갈비 골목의 형제송정떡갈비처럼 지역 이름이 그대로 음식 이름이 되는 곳들이 많고, 전주 한옥마을에는 콩나물을 리필할 수 있는 왱이콩나물국밥과 반찬이 화려한 교동석갈비가 있습니다.\n**동선 팁** — 부안 할매피순대는 아침 7시, 나주곰탕 하얀집은 오전 8시에 열어 이른 시간에 먹기 좋고, 나주는 대기를 감안해야 합니다(2026.08 기준). 전남과 광주가 행정구역상 전남광주로 통합되면서 주소 표기도 바뀌었는데, 글에는 바뀐 기준으로 적었습니다.',
+        en: 'Jeolla is called the home of southern Korean food. Many places here carry the town name as the name of the dish, such as Buan Halmae Pisundae, Naju Gomtang Hayanjip and Hyeongje Songjeong Tteok-galbi in the tteok-galbi alley near Gwangju Songjeong Station, and in Jeonju Hanok Village you will find Waengi bean-sprout gukbap, where you can refill the bean sprouts, and Gyodong Seokgalbi with its lavish side dishes.\n**Route tips** — Buan Halmae Pisundae opens at 7:00 AM and Naju Gomtang Hayanjip at 8:00 AM, so both suit an early start, and in Naju you should allow for a wait (as of Aug 2026). Jeonnam and Gwangju have been merged administratively into Jeonnam-Gwangju, which changed the way addresses are written, and the guides use the new form.',
+        ja: '全羅は南道料理の本場と呼ばれます。扶安 ハルメピスンデ、羅州コムタン ハヤンチプ、光州の松汀駅近くのトッカルビ通りにある兄弟松汀トッカルビのように、地名がそのまま料理名になる店が多く、全州の韓屋村にはもやしのおかわりができるウェンイのコンナムルクッパと、おかずが華やかな校洞石カルビがあります。\n**動線のヒント** — 扶安ハルメピスンデは午前7時、羅州ハヤンチプは8時に開くので早い時間に食べやすく、羅州は待ち時間を見込んでおく必要があります（2026年8月時点）。全南と光州が行政区域上「全南光州」に統合されて住所の表記も変わりましたが、記事には新しい基準で書いています。',
+        zh: '全羅被稱為南道美食之鄉。有很多地名直接成為料理名的店，例如 扶安 奶奶血腸、羅州牛肉湯 하얀집（Hayanjip）、光州松汀站附近肉餅排巷的 형제송정떡갈비（Hyeongje Songjeong Tteok-galbi）；全州韓屋村則有黃豆芽可以續加的 전주왱이콩나물국밥（Jeonju Waengi Kongnamul-gukbap），以及小菜豐盛的 교동석갈비（Gyodong Seokgalbi）。\n**動線小提醒** — 扶安 奶奶血腸 7:00 開門，羅州 하얀집 8:00 開門，都適合早點去，羅州要預留排隊時間（截至2026年8月）。全南與光州在行政上合併為「全南光州」，地址寫法也隨之改變，文章中採用新的寫法。' },
       areas: [
         { slug: 'jeonbuk', names: { ko: '전북', en: 'Jeonbuk', ja: '全北', zh: '全北' },
           intro: {
@@ -201,10 +201,10 @@ module.exports = {
       names: { ko: '경상',      en: 'Gyeongsang',         ja: '慶尚',     zh: '慶尚' },
       seoTitle: { ko: '경상 맛집·여행 가이드', en: 'Gyeongsang Food & Travel Guide', ja: '慶尚のグルメ・観光ガイド', zh: '慶尚美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '경상은 신라의 옛 수도 경주부터 남해안의 거제·진해까지 폭이 넓습니다. 낮에 불국사·석굴암을 보고 밤에 첨성대·동궁과 월지를 걷는 경주, 바람의 언덕과 해금강 사이를 걷는 거제, 이리(대구 이리)의 크리미한 맛이 인상적인 진해 용원의 생대구탕이 있습니다. 대부분 부산 일정에 하루씩 이어 붙이기 좋습니다.',
-        en: 'Gyeongsang runs wide, from Gyeongju — Silla’s old capital — down to Geoje and Jinhae on the south coast. Bulguksa and Seokguram by day and Cheomseongdae and Donggung by night in Gyeongju; the walk between Windy Hill and Haegeumgang on Geoje; saeng-daegu-tang in Jinhae’s Yongwon, memorable for the creamy cod milt. Most add a day onto a Busan trip.',
-        ja: '慶尚は新羅の古都・慶州から、南海岸の巨済・鎮海まで幅広いです。昼に仏国寺・石窟庵、夜に瞻星台・東宮と月池を歩く慶州、風の丘と海金剛の間を歩く巨済、白子のクリーミーさが印象的な鎮海・龍院の生タラ鍋。多くは釜山の行程に一日ずつ足すのに向いています。',
-        zh: '慶尚幅員很廣，從新羅古都慶州，一路到南海岸的巨濟、鎮海。慶州白天看佛國寺、石窟庵，晚上走瞻星台、東宮與月池；巨濟走風之丘和海金剛之間；鎮海龍院的鮮鱈魚湯，魚白的綿密令人印象深刻。大多適合在釜山行程後面各接一天。' },
+        ko: '경상은 신라의 옛 수도 경주부터 남해안의 거제·진해까지 폭이 넓습니다. 낮에 불국사·석굴암을 보고 밤에 첨성대·동궁과 월지를 걷는 경주, 바람의 언덕과 해금강 사이를 걷는 거제, 이리의 크리미한 맛이 인상적인 진해 용원의 생대구탕이 있습니다.\n**동선 팁** — 대부분 부산 일정에 하루씩 이어 붙이기 좋습니다. 용원횟집의 생대구탕은 겨울이 제철이니 철에 맞춰 가세요.',
+        en: 'Gyeongsang is wide, from Gyeongju, the old Silla capital, to Geoje and Jinhae on the south coast. In Gyeongju you see Bulguksa and Seokguram by day and walk Cheomseongdae and Donggung Palace and Wolji Pond at night, in Geoje you hike between Wind Hill and Haegeumgang, and in Jinhae there is the fresh cod soup at Yongwon Hoetjip, whose creamy cod milt is what stays with you.\n**Route tips** — most of these fit one day each on top of a Busan trip. The fresh cod soup at Yongwon Hoetjip is a winter dish, so time your visit to the season.',
+        ja: '慶尚は新羅の古都・慶州から南海岸の巨済・鎮海まで幅があります。昼に仏国寺・石窟庵を見て夜に瞻星台・東宮と月池を歩く慶州、風の丘と海金剛の間を歩く巨済、タラの白子（イリ）のクリーミーな味が印象的な鎮海・龍院の生タラ鍋があります。\n**動線のヒント** — ほとんどが釜山の日程に1日ずつ足しやすい場所です。ヨンウォンフェッチプの生タラ鍋は冬が旬なので、時期に合わせて行ってください。',
+        zh: '慶尚的範圍很廣，從新羅古都慶州，到南海岸的巨濟、鎮海。白天看佛國寺與石窟庵、晚上走瞻星台與東宮月池的慶州，走在風之丘與海金剛之間的巨濟，還有鎮海龍院 용원횟집（Yongwon Hoetjip）以鱈魚白子的綿密口感令人印象深刻的生鱈魚湯。\n**動線小提醒** — 大多適合在釜山行程之外各加一天。용원횟집的生鱈魚湯以冬季為盛產期，請配合季節前往。' },
       areas: [
         { slug: 'gyeongju', names: { ko: '경주', en: 'Gyeongju', ja: '慶州', zh: '慶州' } },
         { slug: 'geoje',    names: { ko: '거제', en: 'Geoje',    ja: '巨済', zh: '巨濟' } },
@@ -214,10 +214,10 @@ module.exports = {
       names: { ko: '부산',      en: 'Busan',              ja: '釜山',     zh: '釜山' },
       seoTitle: { ko: '부산 맛집·여행 가이드', en: 'Busan Food & Travel Guide', ja: '釜山のグルメ・観光ガイド', zh: '釜山美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '부산은 국물 요리부터 채웠습니다. 동래의 돼지국밥과 복국, 광안리의 돼지국밥처럼, 부산 사람들이 아침 일찍부터 뚝배기를 비우는 음식들입니다. 돼지국밥이 처음이라면 잡내가 덜한 집이 어디인지, 새우젓·부추를 어떻게 넣는지도 글에 적어 뒀습니다. 광안리 바다와도 가깝습니다.',
-        en: 'Busan starts with soup. Dishes locals empty an earthenware bowl of first thing in the morning — dwaeji-gukbap and bokguk in Dongnae, and another dwaeji-gukbap in Gwangalli. If dwaeji-gukbap is new to you, the write-ups note which place is the least funky and how to use the salted shrimp and chives. Gwangalli beach is close by, too.',
-        ja: '釜山は汁物から埋めました。東莱のテジクッパとボックク（フグ鍋）、広安里のテジクッパのように、釜山の人が朝早くから土鍋を空にする料理です。テジクッパが初めてなら、臭みの少ない店はどこか、アミの塩辛やニラをどう入れるかも記事に書いています。広安里の海も近いです。',
-        zh: '釜山先從湯類補起。像東萊的豬肉湯飯和河豚湯、廣安里的豬肉湯飯，都是當地人一大早就把砂鍋喝光的菜。第一次吃豬肉湯飯的話，文章裡也寫了哪一家腥味比較少、蝦醬和韭菜怎麼加。離廣安里海邊也很近。' },
+        ko: '부산은 국물 요리부터 채웠습니다. 동래의 두미촌돼지국밥(자정까지)과 금수복국(오전 8시 오픈), 광안리 남천동의 안목(미쉐린 빕 구르망 2년 연속)처럼, 부산 사람들이 아침 일찍부터 뚝배기를 비우는 음식들입니다.\n**동선 팁** — 돼지국밥이 처음이라면 잡내가 덜한 집이 어디인지, 새우젓·부추를 어떻게 넣는지도 글에 적어 뒀습니다. 안목은 밥을 국에 넣을지 주문할 때 정하고, 광안리 바다와도 가깝습니다(2026.08 기준).',
+        en: 'Busan is filled in with soups first. Dumichon Dwaeji-gukbap (open until midnight) and Geumsu Bokguk (opens at 8:00 AM) in Dongnae, and Anmok in Namcheon-dong, Gwangalli (a Michelin Bib Gourmand two years running), are the dishes Busan people empty an earthenware bowl of from early in the morning.\n**Route tips** — if pork gukbap is new to you, each guide says which shop has the least gamey edge and how to add salted shrimp and chives. At Anmok you decide when you order whether the rice goes into the soup, and it is close to the Gwangalli sea (as of Aug 2026).',
+        ja: '釜山はスープ料理から埋めました。東莱のトゥミチョン・テジクッパ（深夜0時まで）とクムスボックク（午前8時オープン）、広安里・南川洞のアンモク（ミシュラン ビブグルマン2年連続）など、釜山の人たちが朝早くから土鍋を空にする料理です。\n**動線のヒント** — 豚クッパが初めてなら、臭みの少ない店はどこか、塩辛やニラの入れ方も記事に書いてあります。アンモクではご飯をスープに入れるか注文時に決め、広安里の海も近いです（2026年8月時点）。',
+        zh: '釜山先從湯品補起。東萊的 두미촌돼지국밥（Dumichon Dwaeji-gukbap，營業到午夜）和 금수복국（Geumsu Bokguk，8:00 開門），以及廣安里南川洞的 안목（Anmok，連續兩年入選米其林必比登），都是釜山人一大早就會把整鍋喝光的料理。\n**動線小提醒** — 如果是第一次吃豬肉湯飯，哪家比較沒有異味、蝦醬和韭菜怎麼放，文章裡都有寫。안목要在點餐時決定飯是否泡進湯裡，離廣安里的海邊也很近（截至2026年8月）。' },
       areas: [
         { slug: 'dongnae',   names: { ko: '동래',   en: 'Dongnae',   ja: '東莱',   zh: '東萊' } },
         { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '廣安里' } }
@@ -226,10 +226,10 @@ module.exports = {
       names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '濟州' },
       seoTitle: { ko: '제주 맛집·여행 가이드', en: 'Jeju Food & Travel Guide', ja: '済州のグルメ・観光ガイド', zh: '濟州美食與景點指南' },   // <title> 전용 (Oct 2026 — 지역 제목에 검색 의도 추가). H1 은 그대로
       intro: {
-        ko: '제주는 렌터카로 도는 걸 전제로 정리했습니다. 제주식 해장국과 전복죽·물회 같은 한 끼, 성산일출봉·광치기해변·모슬포 해안도로 같은 풍경, 애월·성산의 바다 보이는 카페까지 있습니다. 공항에서 시작해 서쪽 또는 동쪽으로 도는 이틀 동선에 자연스럽게 들어갑니다. 여름 한치·봄 유채꽃처럼 철을 타는 메뉴는 글에 표시해 뒀습니다.',
-        en: 'Jeju is organised around driving. Meals like Jeju-style haejangguk, abalone porridge and mulhoe; scenery like Seongsan Ilchulbong, Gwangchigi Beach and the Moseulpo coastal road; sea-view cafes in Aewol and Seongsan. It slots into a two-day loop west or east from the airport. Seasonal items — summer hanchi squid, spring canola — are flagged in each write-up.',
-        ja: '済州はレンタカーで回る前提でまとめています。済州式ヘジャングクやアワビ粥・ムルフェといった食事、城山日出峰・光致岐海岸・摹瑟浦の海岸道路といった風景、涯月・城山の海が見えるカフェまで。空港から西または東へ回る二日間の動線に自然に入ります。夏のヤリイカ、春の菜の花など季節ものは各記事に明記しています。',
-        zh: '濟州是以租車環島為前提整理的。有濟州式解酒湯、鮑魚粥、水拌生魚這類正餐，城山日出峰、光致岐海邊、摹瑟浦海岸路這些風景，還有涯月、城山看得到海的咖啡館。很自然地能排進從機場出發往西或往東的兩天動線。夏天的長槍烏賊、春天的油菜花這類季節限定，每篇都有標註。' },
+        ko: '제주는 렌터카로 도는 걸 전제로 정리했습니다. 제주시의 해장국(대춘·미풍·함덕골목)과 애월의 우니덮밥·막국수, 서귀포 모슬포항 주변의 할망밥상·돈지식당·큰돈가, 남원의 공천포식당 전복죽 같은 한 끼와, 성산일출봉·광치기해변·모슬포 해안도로 같은 풍경, 금능·함덕·이호테우 해변까지 있습니다.\n**동선 팁** — 공항에서 시작해 서쪽 또는 동쪽으로 도는 이틀 동선에 자연스럽게 들어갑니다. 여름 한치회덮밥·봄 유채꽃처럼 철을 타는 메뉴와 풍경은 글에 표시해 뒀고, 제주 해장국은 간마늘을 듬뿍 넣어 먹습니다.',
+        en: 'The Jeju guides assume you are getting around by rental car. They cover meals such as hangover soup in Jeju City (Daechun, Mipung and Hamdeok Golmok), sea urchin rice bowls and makguksu in Aewol, Halmang Bapsang, Donji Sikdang and Keundonga around Moseulpo Port in Seogwipo, and the abalone porridge at Gongcheonpo Sikdang in Namwon, plus scenery such as Seongsan Ilchulbong, Gwangchigi Beach and the Moseulpo coastal road, and the beaches at Geumneung, Hamdeok and Iho Tewoo.\n**Route tips** — they fit naturally into a two-day route that starts at the airport and goes west or east. Seasonal dishes and views, such as the summer cuttlefish sashimi rice bowl and the spring rape blossoms, are marked in the guides, and on Jeju hangover soup is eaten with plenty of ground garlic.',
+        ja: '済州はレンタカーで回ることを前提にまとめました。済州市のヘジャンクク（テチュン・ミプン・ハムドクゴルモク）と涯月のウニ丼・マッククス、西帰浦の摹瑟浦港周辺のハルマンパプサン・トンジ食堂・クンドンガ、南元の孔泉浦食堂のアワビ粥といった食事に加え、城山日出峰・広峙其海岸・摹瑟浦の海岸道路などの風景、クムヌン・咸徳・梨湖テウのビーチまであります。\n**動線のヒント** — 空港から出発して西か東へ回る2日間の動線に自然に収まります。夏のイカ刺し丼、春の菜の花のように、季節で決まるメニューや風景は記事に表示してあり、済州のヘジャンククにはすりおろしニンニクをたっぷり入れて食べます。',
+        zh: '濟州以租車自駕為前提來整理。濟州市有解酒湯（대춘（Daechun）、미풍（Mipung）、함덕골목（Hamdeok Golmok））、涯月有海膽蓋飯與蕎麥涼麵、西歸浦摹瑟浦港周邊有 할망밥상（Halmang Bapsang）、敦地食堂與 큰돈가（Keundonga），南元有孔泉浦食堂的鮑魚粥，還有城山日出峰、廣置其海灘、摹瑟浦海岸道路等風景，以及金陵、咸德、梨湖的海水浴場。\n**動線小提醒** — 很適合排進從機場出發、往西或往東的兩天行程。夏季的小卷生魚片蓋飯、春季的油菜花這類依季節的菜色與風景，文章裡都有標示；濟州的解酒湯要放大量蒜泥才對味。' },
       areas: [
         { slug: 'jejusi',   names: { ko: '제주시',  en: 'Jeju City', ja: '済州市',  zh: '濟州市' },
           intro: {

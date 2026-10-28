@@ -45,7 +45,7 @@ The Korean guide is the original, and the English, Japanese and Chinese versions
 
 One person writes and publishes everything. There are no guest posts and no comment section.
 
-The writer is **Davie**, a Google Maps **Local Guide (Level 6)** whose photos have passed **210,000 views** (as of Sep 2026). The posts here are the long-form version of those visits and of newer trips since. The profile is public and anyone can check it — [Google Maps contributor profile](https://www.google.com/maps/contrib/108511658203720708025)
+The writer is **Davie**, a Google Maps **Local Guide (Level 6)** whose photos have passed **218,000 views** (as of Oct 2026). The posts here are the long-form version of those visits and of newer trips since. The profile is public and anyone can check it — [Google Maps contributor profile](https://www.google.com/maps/contrib/108511658203720708025)
 
 Not every post here has a matching Google Maps review. Some visits were posted there, some were not.
 

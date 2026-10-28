@@ -345,11 +345,11 @@ module.exports = {
     /* 제주 추천 코스 (Oct 2026) — 글의 좌표·영업시간·휴무일을 확인해 서쪽→동쪽 순서로 묶었습니다.
        휴무: 해녀의집 화 · 추사 유배지 월 · 공천포식당 목 · 장모식탁 일 · 대춘해장국 월 */
     { slug: 'jeju-northwest-coast',
-      names: { ko: '제주 서북쪽 해안 — 이호테우 산책, 점심 해산물 한상, 저녁 전 메밀막국수',
-               en: 'Northwest Jeju coast — Iho Tewoo, a seafood spread for lunch, buckwheat noodles before dinner',
-               ja: '済州北西の海岸 — 梨湖テウ海水浴場の散歩、昼は海鮮の膳、夕方前にそばマッククス',
-               zh: '濟州西北海岸 — 梨湖테우（Tewoo）散步、午餐海鮮一桌、晚餐前一碗메밀막국수' },
-      stops: ['jeju-iho-tewoo', 'jeju-aewol-haenyeoui-jip', 'jeju-aewol-makguksu'] },
+      names: { ko: '제주 서북쪽 해안 — 이호테우 산책, 점심은 해녀의집 해산물 한상 또는 우니담 우니덮밥, 저녁 전 메밀막국수',
+               en: 'Northwest Jeju coast — Iho Tewoo, lunch at Haenyeoui Jip (seafood spread) or Unidam (sea urchin rice bowl), buckwheat noodles before dinner',
+               ja: '済州北西の海岸 — 梨湖テウ海水浴場の散歩、昼は海女の家の海鮮一膳かウニダムのウニ丼、夕方前にそばマッククス',
+               zh: '濟州西北海岸 — 梨湖테우（Tewoo）散步、午餐吃海女之家的海鮮一桌或 Unidam 的海膽蓋飯、晚餐前一碗메밀막국수' },
+      stops: ['jeju-iho-tewoo', 'jeju-aewol-haenyeoui-jip', 'jeju-aewol-unidam', 'jeju-aewol-makguksu'] },
 
     { slug: 'jeju-aewol-geumneung',
       names: { ko: '애월에서 금능까지 — 히츠마부시 한 끼, 금능해수욕장 산책',
@@ -359,11 +359,11 @@ module.exports = {
       stops: ['jeju-jejunagi', 'jeju-geumneung'] },
 
     { slug: 'jeju-city-market-day',
-      names: { ko: '제주시 오일장 날 — 시장 구경, 점심 해장국, 저녁 전복솥밥 정식',
-               en: 'Jeju City on a market day — the five-day market, hangover soup for lunch, abalone pot-rice set for dinner',
-               ja: '済州市の五日市の日 — 市場散策、昼はヘジャンクク、夜はアワビ釜飯定食',
-               zh: '濟州市的市集日 — 逛五日市集、午餐解酒湯、晚餐鮑魚石鍋飯定食' },
-      stops: ['jeju-oiljang', 'jeju-mipung-haejangguk', 'jeju-jangmo-siktak'] },
+      names: { ko: '제주시 오일장 날 — 시장 구경, 점심은 미풍해장국 또는 대춘해장국(월요일 휴무), 저녁 전복솥밥 정식',
+               en: 'Jeju City on a market day — the five-day market, lunch at Mipung or Daechun Haejangguk (Daechun is closed Mondays), abalone pot-rice set for dinner',
+               ja: '済州市の五日市の日 — 市場散策、昼はミプン・ヘジャンククかテチュンヘジャンクク（テチュンは月曜休み）、夜はアワビ釜飯定食',
+               zh: '濟州市的市集日 — 逛五日市集、午餐吃미풍해장국（Mipung）或대춘해장국（Daechun，週一公休）、晚餐鮑魚石鍋飯定食' },
+      stops: ['jeju-oiljang', 'jeju-mipung-haejangguk', 'jeju-daechun-haejangguk', 'jeju-jangmo-siktak'] },
 
     { slug: 'jeju-hamdeok',
       names: { ko: '함덕 — 오전 해장국, 해수욕장 산책',
@@ -373,11 +373,11 @@ module.exports = {
       stops: ['jeju-hamdeok-golmok', 'jeju-hamdeok-beach'] },
 
     { slug: 'jeju-moseulpo',
-      names: { ko: '모슬포 — 오전 추사 유배지, 점심 정식, 산방산 해안도로, 저녁 오겹살',
-               en: 'Moseulpo — the Chusa exile site in the morning, a set-meal lunch, the Sanbangsan coastal road, pork belly for dinner',
-               ja: '摹瑟浦 — 午前は秋史の流配地、昼は定食、山房山の海岸道路、夜は豚バラ',
-               zh: '摹瑟浦 — 上午秋史流放地、午餐定食、山房山海岸道路、晚餐五花肉' },
-      stops: ['jeju-chusa-yubaeji', 'jeju-halmang-bapsang', 'jeju-moseulpo-sanbangsan', 'jeju-keundonga-seojjok'] },
+      names: { ko: '모슬포 — 오전 추사 유배지, 점심은 제주할망밥상 또는 돈지식당, 오후는 산방산 해안도로 또는 카멜리아힐, 저녁 오겹살',
+               en: 'Moseulpo — the Chusa exile site in the morning, lunch at Halmang Bapsang or Donji Sikdang, the Sanbangsan coastal road or Camellia Hill in the afternoon, pork belly for dinner',
+               ja: '摹瑟浦 — 午前は秋史の流配地、昼はハルマンパプサンかトンジ食堂、午後は山房山の海岸道路かカメリアヒル、夜は豚バラ',
+               zh: '摹瑟浦 — 上午秋史流放地、午餐吃제주할망밥상或敦地食堂、下午走山房山海岸路或山茶花之丘、晚餐五花肉' },
+      stops: ['jeju-chusa-yubaeji', 'jeju-halmang-bapsang', 'jeju-donji-sikdang', 'jeju-moseulpo-sanbangsan', 'jeju-camellia-hill', 'jeju-keundonga-seojjok'] },
 
     { slug: 'jeju-southeast',
       names: { ko: '제주 동남쪽 — 공천포 전복죽 점심, 쉬어갓 카이막, 성산일출봉',

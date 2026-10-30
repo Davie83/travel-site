@@ -4,7 +4,7 @@ cat: travel
 region: jeju
 area: seongsan
 date: 2026-08-29
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🌅
 thumb: assets/img/jeju-seongsan-ilchulbong.jpg
 excerpt: When spring comes, I think of Jeju in canola-flower season. Gwangchigi Beach, right below Seongsan Ilchulbong, is cited as the largest canola field on the island. See the flowers in bloom, make the short climb up the crater that rose out of the sea, then come down for a coffee — that's the loop.
@@ -23,17 +23,13 @@ info:
 
 When spring comes, I think of **Jeju in canola-flower season**. Seongsan is at the centre of that picture.
 
-## Timing is everything
+## ⏳ Timing is everything
 
-Jeju is supposed to be good any time of year, but this particular combination isn't. **To see the canola and Ilchulbong together, it has to be late March to April.**
+Jeju is supposed to be good any time of year, but this particular combination isn't. **To see the canola and Ilchulbong together, it has to be late March to April.** Bloom timing varies by year, so check before you go.
 
 Ilchulbong itself can be climbed any season, but miss those few spring weeks for the canola and you're waiting until next year. True to its name, early morning is the most beautiful time to go — but expect it to be busy too.
 
-## What it looks like
-
-Under a blue sky, Seongsan Ilchulbong rises with a flat top and one side a sheer rock cliff. Below the mountain, a gentle slope covered in yellowing dry grass runs down, and people are lined up along the trail on the ridge above. At the bottom is a low building topped with black volcanic stone, its signs reading "nursing room" and "storage". Two people sit side by side on the low wall in front of the building, and plants like agave grow around it.
-
-## The canola field at Gwangchigi Beach
+## 🌼 The canola field at Gwangchigi Beach
 
 Right below Seongsan Ilchulbong, **the area around Gwangchigi Beach is cited as the largest canola field on Jeju**. In spring, yellow rapeseed flowers spill across the ground between the black basalt walls.
 
@@ -41,34 +37,22 @@ Right below Seongsan Ilchulbong, **the area around Gwangchigi Beach is cited as 
 
 The sea, the flowers, and Ilchulbong rising behind them all fit in one frame.
 
-## Ilchulbong, then a coffee to close it out
+## ⛰️ Ilchulbong, then a coffee to close it out
 
-Seongsan Ilchulbong is a volcanic crater that rose straight out of the sea. It's a **UNESCO World Heritage Site**.
+Seongsan Ilchulbong is a volcanic crater that rose straight out of the sea. It's a **UNESCO World Heritage Site**. In my photo it rises under a blue sky with a flat top and one side a sheer rock cliff. Below the mountain, a gentle slope covered in yellowing dry grass runs down, and people are lined up along the trail on the ridge above. At the bottom is a low building topped with black volcanic stone, its signs reading "nursing room" and "storage".
 
 The summit is **about an hour round trip** on a stair path. Too short to call a "climb", but with enough steps that it isn't quite a stroll. Take it slowly and most people manage it fine. From the top you see the crater and the sea off Seongsan in one sweep.
 
 Coming back down and having a coffee at a nearby café is how this loop ends. Maybe it's the walking — it tastes especially good. On the road into Seongsan there's also a Turkish-styled cafe, [Shwieogat](/en/posts/jeju-shwieogat), worth a stop if you'd rather have that coffee close to Ilchulbong itself.
 
-## Worth knowing before you land here
+## 🎟️ Admission, hours and getting there
 
-- **Seongsan Ilchulbong charges admission**. Gwangchigi Beach is free.
-- There are **stairs** to the summit. Wear comfortable shoes and take your time.
-- It's **about an hour by car** from Jeju City. Public transport reaches it, but buses aren't frequent.
-- It **closes on the first Monday of each month** for maintenance (as of Aug 2026).
+**Seongsan Ilchulbong charges admission** (₩5,000 for adults, ₩2,500 for teens and children), and Gwangchigi Beach is free. Opening hours run 04:30–20:00 depending on the season, and it **closes on the first Monday of each month** for maintenance. Rates and hours can shift, so double-check before you go (as of Aug 2026).
 
-## Good fit, and not so good fit
+It's **about an hour by car** from Jeju City. Public transport reaches it, but buses aren't frequent. There are stairs to the summit, so wear comfortable shoes and take your time. The route is the canola at Gwangchigi Beach, then up Ilchulbong, then coffee on the way down — a comfortable half-day.
 
-- ✅ You're travelling Jeju **in spring** and want to see canola in bloom
-- ✅ You want a light walk, a wide view, and photos in one stop
-- ✅ You have an east-Jeju plan (Seongsan, Udo, Seopjikoji)
-- ⚠️ Stairs are hard for you — the Ilchulbong summit is a stair path
-- ⚠️ You dislike crowds — Ilchulbong is one of the busiest spots on Jeju
-- ⚠️ You're here for canola but visiting **out of season**
+## 👥 Good fit, and not so good fit
 
-## Checklist before you leave
-
-- **Canola season** — late March to April. Bloom timing varies by year; check.
-- **Admission, hours, closing day** — ₩5,000 for adults (₩2,500 for teens/children) · opening hours run 04:30–20:00 depending on the season · closed the first Monday of each month. Rates and hours can shift, so double-check before you go.
-- **Route** — see the canola at Gwangchigi Beach, then up Ilchulbong, then coffee on the way down. A comfortable half-day.
+It suits anyone travelling Jeju **in spring** who wants to see canola in bloom, anyone who wants a light walk, a wide view and photos in one stop, and anyone with an east-Jeju plan (Seongsan, Udo, Seopjikoji). If stairs are hard for you, or you dislike crowds, it may be a struggle — Ilchulbong is one of the busiest spots on Jeju. And coming for canola **out of season** will disappoint.
 
 > Written up from a trip I made myself. Admission, hours and the closing day, like the canola bloom timing, can shift from year to year, so it's worth confirming again before you set out. Fees and hours are **(as of Aug 2026)**.

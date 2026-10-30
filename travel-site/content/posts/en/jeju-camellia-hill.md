@@ -4,7 +4,7 @@ cat: travel
 region: jeju
 area: seogwipo
 date: 2026-09-07
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🌺
 thumb: assets/img/jeju-camellia-hill.jpg
 excerpt: A large garden in Seogwipo, on Jeju's west side. Once you leave Jeju City, it's one of the places most people stop at, along with O'sulloc and Sanbangsan. The name is camellia, but the headline flower changes by season — and by feel, summer, when the hydrangeas are out, is the main one. It's bigger than you'd expect, so walking the whole thing takes a while. Looking at the flowers and the garden clears your head.
@@ -22,7 +22,7 @@ info:
 
 A low sign along the path read, "Loving you is making the camellia bloom" — one line, and I slowed right down.
 
-## Big enough to need half a day
+## 🌺 Big enough to need half a day
 
 What caught me off guard was the **size**. It's bigger than you'd expect, so walking the greenhouses and the outdoor gardens end to end takes a while. Take it slowly and properly and it's half a day.
 
@@ -30,42 +30,27 @@ What caught me off guard was the **size**. It's bigger than you'd expect, so wal
 
 Low wooden signs with short, poem-like lines stand along the paths. You don't come here to do anything in particular — it's a place where **walking and looking at the flowers clears your head.**
 
-## What it looks like — the greenhouse
+## 🌸 The headline flower changes by season
 
-Hydrangeas are in full bloom inside a greenhouse covered with glass and shade screens. Pink, pale purple, deep pink and white hydrangeas cluster in layers, with ferns and broad-leaved plants growing thick among them. Strings of bulb lights hang in several lines from the ceiling, and visitors can be seen walking between the steel pillars. Flowers and leaves spill out to the walkway, so the whole greenhouse feels filled with green and the colors of the flowers.
+The name is **camellia**. Winter into spring, when the camellias bloom, is the garden's original face. But which flower it leads with shifts through the year, and **by feel, the main season is summer, when the hydrangeas are out.**
 
-## The headline flower changes by season
+Hydrangeas are in full bloom inside a greenhouse covered with glass and shade screens. Pink, pale purple, deep pink and white hydrangeas cluster in layers, with ferns and broad-leaved plants growing thick among them. Strings of bulb lights hang in several lines from the ceiling, and flowers and leaves spill out to the walkway, so the whole greenhouse feels filled with green and the colors of the flowers.
 
-The name is **camellia**. Winter into spring, when the camellias bloom, is the garden's original face.
+## 📍 Fitting it into a west-coast day
 
-But which flower it leads with shifts through the year. **By feel, the main season is summer, when the hydrangeas are out.** One greenhouse fills up with pink, purple and white hydrangea.
+This large garden in Seogwipo (Andeok), on Jeju's **west side**, is one of the places most people stop at once they leave Jeju City — **O'sulloc, Camellia Hill, Sanbangsan.** A **rental car** makes it easy, and it's awkward on public transport alone. Pair it with O'sulloc Tea Museum, Sanbangsan and the Andeok area for a day.
 
-This large garden in Seogwipo, on Jeju's **west side**, is one of the places most people stop at once they leave Jeju City — **O'sulloc, Camellia Hill, Sanbangsan.**
+There's an admission fee and the hours can vary by season, so check the official information before you go (as of Sep 2026).
 
-## For visitors
+## 🌐 For visitors
 
-- It's a **private garden known for camellias.** Greenhouses, outdoor gardens and walking paths, with an admission fee.
-- **The headline flower is different each season.** Camellia in winter–spring, hydrangea in summer. The summer hydrangea window is the busiest.
-- **It's bigger than you'd think.** Give yourself plenty of time to see it all, and wear comfortable shoes.
-- Most of it is outdoors, so weather matters. The greenhouses are still worth it in the rain.
-- It's on Jeju's **west side (Andeok)**. A **rental car** makes it easy, and O'sulloc Tea Museum is close.
+- It's a **private garden known for camellias**, made up of greenhouses, outdoor gardens and walking paths
+- The summer hydrangea window is the busiest
+- Most of it is outdoors, so weather matters. The greenhouses are still worth it in the rain
+- To see it all, give yourself plenty of time and wear comfortable shoes
 
-## Who it's for
+## 👥 Who it's for
 
-- ✅ Anyone fitting a flower-and-garden stop into a **west-Jeju day** (with O'sulloc and Sanbangsan)
-- ✅ Anyone going for the **summer hydrangea** or the **winter–spring camellia**
-- ✅ Anyone who likes to **walk slowly and rest**
-- ✅ Anyone after a garden with plenty to photograph
-- ⚠️ Anyone planning a quick look — it's large, and seeing it properly takes time
-- ⚠️ Anyone coming for the flowers in the **off-season** — what's in bloom drops off sharply
-- ⚠️ Anyone moving by public transport only — it's on the west side and awkward without a car
-
-## Before you go
-
-- **Check the season** — knowing which flower is leading now saves disappointment. Camellia = winter–spring, hydrangea = summer.
-- **Time** — walking the whole garden takes a while; budget half a day.
-- **Route** — Jeju's west side. Pair it with O'sulloc Tea Museum, Sanbangsan and the Andeok area for a day.
-- **Admission and hours** — it's paid and can vary by season, so check the official information before you go.
-- **Eat** — if you're heading toward Moseulpo in Daejeong-eup, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is a good spot for a full Korean spread.
+It suits anyone fitting a flower-and-garden stop into a **west-Jeju day**, anyone going for the **summer hydrangea** or the **winter–spring camellia**, anyone who likes to **walk slowly and rest**, and anyone after a garden with plenty to photograph. If you're planning a quick look, or coming for the flowers in the **off-season**, it may disappoint. Knowing which flower is leading now saves disappointment (camellia = winter–spring, hydrangea = summer). If you're heading toward Moseulpo in Daejeong-eup, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is a good spot for a full Korean spread.
 
 > Written after walking the whole garden myself. The flower in season, the admission and the opening hours all change with the season, so it's worth a check before you go. Fees and hours are **(as of Sep 2026)**.

@@ -4,7 +4,7 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-17
-updated: 2026-10-18
+updated: 2026-10-30
 emoji: 🏮
 thumb: assets/img/jeju-oiljang.jpg
 excerpt: Jeju Folk Five-Day Market on Oiljangseo-gil in Jeju City opens only on dates ending in 2 and 7 (the 2nd, 7th, 12th, 17th, 22nd and 27th). It is Korea's largest market of its kind, with about 1,000 stalls, but it is closed on other days, so check the date first.
@@ -20,59 +20,44 @@ info:
   - Google rating|4.2 (6,973 reviews)
 ---
 
-Find a spot in the food section, spread out a pajeon and a bowl of makgeolli, and you find out what you actually came here for.
+Find a spot in the food section, spread out a pajeon and a bowl of makgeolli, and you find out what you actually came here for. But this market doesn't open on just any day.
 
-## Head for the food section
+## 📅 Check the market day first
 
-There is an area inside the market where **stalls from around the market sell cooked food in one place**. You grab things from different vendors, find a seat outdoors, and spread it all out.
-
-I had **pajeon** and **chapssal sundae**.
-
-- **Pajeon** (savoury spring onion pancake) — crisp at the edges, excellent. Eating it straight off the griddle makes a real difference.
-- **Chapssal sundae** (glutinous rice blood sausage) — honestly, not to my taste. The texture read as closer to a Chinese-style sausage than the sundae I'm used to. If you have strong opinions about sundae, try a small portion first.
-
-And **Jeju makgeolli** — the local unfiltered rice wine, on the sweet side here, which works well against a fried pancake. A cup in the middle of the afternoon at a market is a very good way to spend a Jeju day.
-
-## What it looks like
-
-A large pancake lies spread on a bamboo basket. Green onion, red chili, shredded carrot and what look like pieces of seafood are set into the golden-fried batter, with a small dish of soy sauce with sliced chili in the middle. On the left, a plate holds boiled pork and something like dark sundae, and in front you can see a white makgeolli bottle and a cup of cloudy makgeolli. A seaweed side and a small dish of seasoning sauce sit on one side.
-
-## Menu words
-
-- **Buchimgae** is a Korean pan-fried pancake made by mixing ingredients into batter and frying in oil
-- **Makgeolli** is a cloudy rice liquor, often paired with buchimgae
-
-## Check the market day first
-
-Start with the part that catches people out. A Korean *oiljang* — literally "five-day market" — is **not** a market that runs for five days, and it is not open every fifth day of the month either.
-
-This one opens only on **dates ending in 2 or 7**.
+Start with the part that catches people out. A Korean *oiljang* — literally "five-day market" — is **not** a market that runs for five days, and it is not open every fifth day of the month either. This one opens only on **dates ending in 2 or 7**.
 
 | Open on |
 |---|
 | **2nd · 7th · 12th · 17th · 22nd · 27th** |
 
-Six days a month. Show up on any other date and you are looking at a very large empty car park.
-
-If a traditional market is on your Jeju list, **check the calendar first** and build your Jeju City day around one of those dates — not the other way round.
+Six days a month. Show up on any other date and you are looking at a very large empty car park. If a traditional market is on your Jeju list, **check the calendar first** and build your Jeju City day around one of those dates — not the other way round.
 
 > Months with 31 days can shift the rhythm into the following month. Worth a quick check right before you go.
 
-## It is much bigger than you expect
+## 🍢 Head for the food section
+
+There is an area inside the market where **stalls from around the market sell cooked food in one place**. You grab things from different vendors, find a seat outdoors, and spread it all out. I had **pajeon** and **chapssal sundae**.
+
+- **Pajeon** — a savoury spring onion pancake (buchimgae, a Korean pan-fried pancake made by mixing ingredients into batter and frying in oil). Crisp at the edges, excellent. Eating it straight off the griddle makes a real difference.
+- **Chapssal sundae** (glutinous rice blood sausage) — honestly, not to my taste. The texture read as closer to a Chinese-style sausage than the sundae I'm used to. If you have strong opinions about sundae, try a small portion first.
+- **Jeju makgeolli** — makgeolli is a cloudy rice liquor, often paired with buchimgae. This one is on the sweet side, which works well against a fried pancake. A cup in the middle of the afternoon at a market is a very good way to spend a Jeju day.
+
+Here's how it looked on the table. A large pancake lies spread on a bamboo basket, with green onion, red chili, shredded carrot and what look like pieces of seafood set into the golden-fried batter and a small dish of soy sauce with sliced chili in the middle. On the left, a plate holds boiled pork and something like dark sundae, and in front you can see a white makgeolli bottle and a cup of cloudy makgeolli. A seaweed side and a small dish of seasoning sauce sit on one side.
+
+## 🛒 It is much bigger than you expect
 
 Around **1,000 stalls** — the largest market of its kind in Korea. "We'll do a quick loop" turns into a couple of hours.
 
 Fruit, dried seafood, vegetables, clothes, household goods, tools. What stands out is how **busy** it is. This is not a market arranged for visitors; it is where people on the island actually shop, and the energy is completely different because of it.
 
-## Before you go
+## 🧭 What to bring and plan for
 
-- **The date is everything.** Ending in 2 or 7. Get that right and the rest takes care of itself.
 - **Closes at 6:00 PM.** Arrive by 4:00 PM at the latest unless you specifically want to watch stalls packing up.
 - **Bring some cash.** Cards are increasingly accepted, but street stalls are simpler with cash.
 - **The food area is outdoors.** Rain or peak summer heat makes sitting there hard work.
 - **Driving?** The car park fills quickly on market days. Mornings are easier.
 - **Next meal** — if you want more than market food, [Mipung Haejangguk](/en/posts/jeju-mipung-haejangguk) in central Jeju City isn't far.
 
-If the dates line up, this is worth half a day.
+If the dates line up, this is worth half a day. There's plenty to see and plenty to eat.
 
 > Written up after my own visit. Market days and hours can change, so it's worth checking again before you travel. Fees and hours are **(as of Aug 2026)**.

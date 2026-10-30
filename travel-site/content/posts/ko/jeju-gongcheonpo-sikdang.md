@@ -8,7 +8,7 @@ updated: 2026-10-30
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
 famous: true
-excerpt: 제주에서 전복죽 여러 곳을 먹어봤지만 여기만큼 고소하고 녹진하면서 값까지 착한 곳은 못 봤습니다. 둘이 가면 전복죽에 물회 하나가 딱입니다. 오후 3시 30분에 닫고 목요일은 쉽니다.
+excerpt: 제주에서 전복죽 여러 곳을 먹어봤지만 여기만큼 고소하고 녹진하면서 값까지 착한 곳은 못 봤습니다. 둘이 가면 전복죽에 물회 하나가 딱입니다. 서귀포와 성산 사이에 있어 이동 중에 들르기 좋고, 오후 3시 30분에 닫고 목요일은 쉽니다.
 tags: [제주, 서귀포, 남원읍, 공천포, 전복죽, 물회, 한치물회, 자리물회]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%B2%9C%ED%8F%AC%EC%8B%9D%EB%8B%B9
 lat: 33.2664055

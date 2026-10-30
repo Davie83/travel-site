@@ -6,7 +6,7 @@ area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg
-excerpt: The noodles themselves are the reason to come. Lightly seasoned with just enough chilli to keep you going back for the next mouthful — and I'm not even a noodle person.
+excerpt: A buckwheat noodle house in Cheorwon, Gangwon. The noodles themselves are the reason to come. Lightly seasoned with just enough chilli to keep you going back for the next mouthful — and I'm not even a noodle person. Many people order mung-bean pancake and dumplings alongside.
 tags: [Gangwon, Cheorwon, makguksu, buckwheat, cold noodles, bindaetteok]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A0%EC%9B%90%EB%A7%89%EA%B5%AD%EC%88%98+%EC%B2%A0%EC%9B%90%EA%B5%B0
 info:

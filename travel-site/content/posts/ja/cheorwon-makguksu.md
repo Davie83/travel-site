@@ -6,7 +6,7 @@ area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg
-excerpt: 麺そのものが目当てになる店。味付けは濃くなく、ほのかな辛さが次のひと口を呼びます。麺好きではない自分の基準でも、指折りのビビンマッククスでした。
+excerpt: 江原・鉄原郡の麺屋。麺そのものが目当てになる店で、味付けは濃くなく、ほのかな辛さが次のひと口を呼びます。麺好きではない自分の基準でも、指折りのビビンマッククスでした。緑豆チヂミと餃子を一緒に頼む人が多いです。
 tags: [江原, 鉄原, マッククス, 蕎麦, 冷麺, 緑豆チヂミ]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A0%EC%9B%90%EB%A7%89%EA%B5%AD%EC%88%98+%EC%B2%A0%EC%9B%90%EA%B5%B0
 info:

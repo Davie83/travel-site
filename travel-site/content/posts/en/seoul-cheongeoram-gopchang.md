@@ -7,7 +7,7 @@ date: 2026-08-26
 updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-cheongeoram-gopchang.jpg
-excerpt: Beef small-intestine hot pot is normally an expensive dish in Korea, but this place is comparatively cheap. The broth draws its flavour from vegetables, so it stays clean rather than heavy. Closed Sundays, with a weekday afternoon break.
+excerpt: Beef small-intestine hot pot is normally an expensive dish in Korea, but the Mangwon branch is comparatively cheap at 30,000 won for two. The broth draws its flavour from vegetables, so it stays clean rather than heavy. Closed Sundays, with a weekday break from 2 to 4 PM (as of Aug 2026).
 tags: [Seoul, Mapo, Mangwon, gopchang, beef tripe, hot pot, jeongol, offal]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%AD%EC%96%B4%EB%9E%8C+%EB%A7%9D%EC%9B%90%EC%A0%90
 lat: 37.5581268

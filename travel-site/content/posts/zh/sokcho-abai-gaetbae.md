@@ -7,7 +7,7 @@ date: 2026-09-05
 updated: 2026-10-15
 emoji: ⛴️
 thumb: assets/img/sokcho-abai-gaetbae.jpg
-excerpt: 連接束草市區與아바이마을的手拉渡船（Gaetbae）。航程雖短，但來回搭乘很輕鬆，值得體驗一次。也可以只買單程票。
+excerpt: 連接束草市區與아바이마을的手拉渡船（Gaetbae），不靠馬達而是拉著纜繩橫渡。航程短、來回搭乘很輕鬆，值得體驗一次。成人單程500韓元，也可以只買單程票（截至2026年9月）。
 tags: [江原, 束草, 아바이마을, 青湖洞, 手拉渡船, 船遊, 束草渡船, 束草旅行, 江原旅行, 束草景點]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8d%ec%b4%88+%ec%95%84%eb%b0%94%ec%9d%b4%eb%a7%88%ec%9d%84+%ea%b0%af%eb%b0%b0
 info:

@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-08-23
 emoji: 🍲
 thumb: assets/img/seoul-obok-sundaeguk.jpg
-excerpt: ここの茹で豚（スユク）はどこよりも柔らかいです。単品は値段が張るので、まずは定食で味を確かめてください。文来と登村の両方に行きましたが、個人的には文来の本店のほうが良かったです。
+excerpt: ここの茹で豚（スユク）はどこよりも柔らかいです。単品は値段が張るので、まずは定食スンデクッ（15,000ウォン）で味を確かめてください。文来と登村の両方に行きましたが、個人的には文来の本店のほうが良かったです。日曜定休（2026年9月時点）。
 tags: [ソウル, 永登浦, 文来, スンデグク, 茹で豚, スンデ, 本店]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
 info:

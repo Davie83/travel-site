@@ -6,7 +6,7 @@ area: cheorwon
 date: 2026-08-17
 emoji: 🍜
 thumb: assets/img/cheorwon-makguksu.jpg
-excerpt: 值得為麵本身跑一趟。調味不重，帶一點點辣，勾著你吃下一口。我並不特別愛吃麵，但這碗拌蕎麥麵能排進前幾名。
+excerpt: 江原道鐵原郡的蕎麥麵店，值得為麵本身跑一趟。調味不重，帶一點點辣，勾著你吃下一口。我並不特別愛吃麵，但這碗拌蕎麥麵能排進前幾名。不少人會加點綠豆煎餅和餃子。
 tags: [江原, 鐵原, 蕎麥麵, 막국수, 涼麵, 綠豆煎餅]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A0%EC%9B%90%EB%A7%89%EA%B5%AD%EC%88%98+%EC%B2%A0%EC%9B%90%EA%B5%B0
 info:

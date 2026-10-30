@@ -7,7 +7,7 @@ date: 2026-08-21
 updated: 2026-10-18
 emoji: 🍜
 thumb: assets/img/seoul-pho-ong-nam.jpg
-excerpt: 位在首爾永登浦、堂山站附近的越南人開的河粉店 Pho Ong Nam 堂山店。湯清但不薄，店前面就連著漢江公園，吃完可以直接去散步。
+excerpt: 位在首爾永登浦、堂山站附近的越南人開的河粉店 Pho Ong Nam 堂山店。湯清但不薄，店前面就連著漢江公園，吃完可以直接去散步。營業時間是上午11點到晚上10點。
 tags: [首爾, 堂山, 永登浦, 越南菜, 河粉, 漢江公園, 在地人經營]
 map: https://www.google.com/maps/search/?api=1&query=%ED%8F%AC%EC%98%B9%EB%82%A8+%EB%8B%B9%EC%82%B0%EC%A0%90
 info:

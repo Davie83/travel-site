@@ -6,7 +6,7 @@ area: sokcho
 date: 2026-09-05
 emoji: ⛴️
 thumb: assets/img/sokcho-abai-gaetbae.jpg
-excerpt: 束草市内とアバイ村を結ぶケッペ（渡し船）。区間は短いですが気軽に往復でき、一度は経験してみる価値があります。片道での購入もできます。
+excerpt: 束草市内とアバイ村を結ぶケッペ（渡し船）。モーターではなく綱を引いて渡る短い船旅で、気軽に往復でき、一度は経験してみる価値があります。片道は大人500ウォンで、片道だけの購入もできます（2026年9月時点）。
 tags: [江原, 束草, アバイ村, 青湖洞, ケッペ, 船遊び, 束草ケッペ, 束草旅行, 江原旅行, 束草の見どころ]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8d%ec%b4%88+%ec%95%84%eb%b0%94%ec%9d%b4%eb%a7%88%ec%9d%84+%ea%b0%af%eb%b0%b0
 info:

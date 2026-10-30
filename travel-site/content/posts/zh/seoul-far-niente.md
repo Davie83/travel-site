@@ -6,7 +6,7 @@ area: gangnam
 date: 2026-08-31
 emoji: 🍝
 thumb: assets/img/seoul-far-niente.jpg
-excerpt: 新沙洞的一間西餐店。隔了幾年又去一次。奶油麵疙瘩焗烤很好吃，甜點也做得好。消費滿一定金額，還能在只有自己人用的包廂裡用餐。
+excerpt: 新沙洞林蔭大道（가로수길）上的一間西餐店。隔了幾年又去一次。奶油麵疙瘩焗烤（約25,000韓元）很好吃，甜點也做得好。消費滿一定金額，還能在只有自己人用的包廂裡用餐（截至2026年8月）。
 tags: [首爾, 江南, 新沙洞, 新沙, Far Niente, 西餐, 義大利麵, 麵疙瘩, 焗烤, 甜點]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%94%ed%85%8c+%ec%8b%a0%ec%82%ac%eb%8f%99
 info:

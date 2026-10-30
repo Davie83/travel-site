@@ -6,7 +6,7 @@ area: hongdae
 date: 2026-09-11
 emoji: 🍣
 thumb: assets/img/seoul-yokosuka-tsunami-sangsu.jpg
-excerpt: 상수동의 숙성회 이자카야. 계절마다 바뀌는 '오늘의 메뉴'가 시그니처로, 그날 새벽시장에서 들여온 제철 생선을 잘 숙성해 쫀득하게 냅니다. 인기가 많아 오픈 시간 전부터 줄을 서야 합니다.
+excerpt: 상수동의 숙성회 이자카야. 계절마다 바뀌는 '오늘의 메뉴'가 시그니처로, 그날 새벽시장에서 들여온 제철 생선을 잘 숙성해 쫀득하게 냅니다. 인기가 많아 오픈 시간(오후 5시 30분) 전부터 줄을 서야 하고, 월요일은 쉽니다.
 tags: [서울, 마포, 상수, 홍대, 이자카야, 사시미, 숙성회, 모둠회, 해산물, 일식]
 map: https://www.google.com/maps/search/?api=1&query=%EC%9A%94%EC%BD%94%EC%8A%A4%EC%B9%B4%20%EC%93%B0%EB%82%98%EB%AF%B8%20%EC%83%81%EC%88%98%EC%A0%90
 lat: 37.5482085

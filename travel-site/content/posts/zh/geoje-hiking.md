@@ -6,7 +6,7 @@ area: geoje
 date: 2026-08-22
 emoji: 🌊
 thumb: assets/img/geoje-hiking.jpg
-excerpt: "「風之丘」很有名，人確實多。真正記住的是走過去的那段路：浮著養殖浮標的海灣、退潮岩上幹活的人、一個人也沒有的海。"
+excerpt: 巨濟南部面的「風之丘」很有名，人確實多。真正記住的是走過去的那段路：浮著養殖浮標的海灣、退潮岩上幹活的人、一個人也沒有的海。風之丘全天開放、免費入場。
 tags: [巨濟, 慶尚南道, 風之丘, 도장포, 海金剛, 徒步, 海岸步行, 海島]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
 info:

@@ -6,7 +6,7 @@ area: gwangjin
 date: 2026-08-27
 emoji: 🦭
 thumb: assets/img/seoul-childrens-grand-park.jpg
-excerpt: 首爾市區裡的大公園，連動物園都是全免費的，不用買票也不用預約。如果行程正好路過，很適合帶著家人歇一會兒。植物園目前因改建工程停止開放。
+excerpt: 首爾市區裡的大公園，連動物園都是全免費的，不用買票也不用預約。如果行程正好路過，很適合帶著家人歇一會兒。植物園目前因改建工程停止開放，園內遊樂設施另外收費。
 tags: [首爾, 廣津, 建大, 兒童大公園, 公園, 動物園, 植物園, 親子, 免費, 散步, 帶孩子, 景點]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90
 lat: 37.5493605

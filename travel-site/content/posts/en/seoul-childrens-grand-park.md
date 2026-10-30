@@ -6,7 +6,7 @@ area: gwangjin
 date: 2026-08-27
 emoji: 🦭
 thumb: assets/img/seoul-childrens-grand-park.jpg
-excerpt: A large park in central Seoul where the zoo is free too. No ticket, no booking. Worth an hour with the family if your route takes you past it. The botanical garden is closed for renovation.
+excerpt: A large park in central Seoul where the zoo is free too. No ticket, no booking. Worth an hour with the family if your route takes you past it. The botanical garden is closed for renovation, and the rides cost extra.
 tags: [Seoul, Gwangjin, Konkuk University, Children's Grand Park, park, zoo, botanical garden, family, free, walk, with kids, sights]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90
 lat: 37.5493605

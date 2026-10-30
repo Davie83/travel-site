@@ -7,7 +7,7 @@ date: 2026-08-23
 updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/seoul-obok-sundaeguk.jpg
-excerpt: 這家的白切肉比我在別處吃過的都嫩。單點一盤價格偏高，建議先用套餐試味。文來和登村兩家店我都去過，個人覺得文來本店更好。
+excerpt: 這家的白切肉比我在別處吃過的都嫩。單點一盤價格偏高，建議先點套餐순대국（15,000韓元）試味。文來和登村兩家店我都去過，個人覺得文來本店更好。週日公休（截至2026年9月）。
 tags: [首爾, 永登浦, 文來, 血腸湯, 白切肉, 血腸, 本店]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
 info:

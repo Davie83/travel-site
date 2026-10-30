@@ -6,7 +6,7 @@ area: gangnam
 date: 2026-08-31
 emoji: 🍝
 thumb: assets/img/seoul-far-niente.jpg
-excerpt: 신사동에 있는 양식집. 몇 년 만에 다시 갔다. 크림 뇨끼 그라탕이 맛있고, 디저트도 잘한다. 일정 금액 이상 주문하면 지인들끼리만 쓰는 프라이빗 룸에서 먹을 수 있다.
+excerpt: 신사동 가로수길에 있는 양식집. 몇 년 만에 다시 갔다. 크림 뇨끼 그라탕(25,000원대)이 맛있고, 디저트도 잘한다. 일정 금액 이상 주문하면 지인들끼리만 쓰는 프라이빗 룸에서 먹을 수 있다(2026.08 기준).
 tags: [서울, 강남, 신사동, 신사, 파니엔테, 양식, 파스타, 뇨끼, 그라탕, 디저트]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%94%ed%85%8c+%ec%8b%a0%ec%82%ac%eb%8f%99
 lat: 37.5188441

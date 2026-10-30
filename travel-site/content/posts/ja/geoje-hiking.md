@@ -6,7 +6,7 @@ area: geoje
 date: 2026-08-22
 emoji: 🌊
 thumb: assets/img/geoje-hiking.jpg
-excerpt: 「風の丘」は有名な場所で、実際そのとおり人がいます。記憶に残ったのは、そこまで歩く道でした。養殖の浮きが並ぶ湾、干潟の岩で働く人、誰もいない海。
+excerpt: 巨済島・南部面の「風の丘」は有名な場所で、実際そのとおり人がいます。記憶に残ったのは、そこまで歩く道でした。養殖の浮きが並ぶ湾、干潟の岩で働く人、誰もいない海。風の丘は24時間開放で無料です。
 tags: [巨済, 慶尚南道, 風の丘, トジャンポ, 海金剛, ハイキング, 海岸歩き, 島]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
 info:

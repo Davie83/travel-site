@@ -7,7 +7,7 @@ date: 2026-08-22
 updated: 2026-10-20
 emoji: 🌊
 thumb: assets/img/geoje-hiking.jpg
-excerpt: Windy Hill is a famous spot, and it feels like it. What stayed with me was the walk to get there — bays strung with aquaculture floats, someone working the tidal rocks, and stretches of sea with nobody in them.
+excerpt: Windy Hill, in Nambu-myeon on Geoje, is a famous spot, and it feels like it. What stayed with me was the walk to get there — bays strung with aquaculture floats, someone working the tidal rocks, and stretches of sea with nobody in them. Windy Hill is open around the clock and free.
 tags: [Geoje, Gyeongsangnam, Windy Hill, Dojangpo, Haegeumgang, hiking, coastal walk, island]
 map: https://www.google.com/maps/search/?api=1&query=%EB%B0%94%EB%9E%8C%EC%9D%98+%EC%96%B8%EB%8D%95+%EA%B1%B0%EC%A0%9C
 info:

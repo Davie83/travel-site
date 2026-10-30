@@ -6,7 +6,7 @@ area: gyeongju
 date: 2026-08-22
 emoji: 🏯
 thumb: assets/img/gyeongju-bulguksa-cheomseongdae.jpg
-excerpt: 韓国に京都があるとすればここです。新羅の都が千年近く置かれた街。昼は仏国寺、日が落ちてからは瞻星台。瞻星台は夜10時まで照明が入り、夜景が最大の見どころです。
+excerpt: 韓国に京都があるとすればここです。新羅の都が千年近く置かれた街。昼は仏国寺、日が落ちてからは瞻星台。瞻星台は夜10時まで照明が入り、夜景が最大の見どころで、どちらも入場無料です（2026年8月時点）。
 tags: [慶州, 慶尚北道, 仏国寺, 瞻星台, 新羅, ユネスコ, 夜景, 史跡]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80+%EA%B2%BD%EC%A3%BC
 info:

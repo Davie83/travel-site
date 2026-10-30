@@ -7,7 +7,7 @@ date: 2026-09-02
 updated: 2026-10-15
 emoji: 🍲
 thumb: assets/img/gangneung-donghwa-garden.jpg
-excerpt: 江陵草堂嫩豆腐村裡、早就紅到不用多介紹的炒碼嫩豆腐店。嗆辣的炒碼湯頭配上一團團軟嫩的嫩豆腐。喜歡嫩豆腐的話，安排江陵行程時值得吃一次。
+excerpt: 江陵草堂嫩豆腐村裡、早就紅到不用多介紹的炒碼嫩豆腐店。嗆辣的炒碼湯頭配上一團團軟嫩的嫩豆腐。喜歡嫩豆腐的話，安排江陵行程時值得吃一次。一碗10,000韓元，週三公休（截至2026年9月）。
 tags: [江陵, 草堂, 草堂洞, 草堂嫩豆腐, 동화가든, 炒碼嫩豆腐, 嫩豆腐, 豆腐, 江原美食, 江陵美食]
 map: https://www.google.com/maps/search/?api=1&query=%eb%8f%99%ed%99%94%ea%b0%80%eb%93%a0+%ea%b0%95%eb%a6%89+%ec%b4%88%eb%8b%b9
 info:

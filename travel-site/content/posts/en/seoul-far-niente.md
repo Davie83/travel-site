@@ -7,7 +7,7 @@ date: 2026-08-31
 updated: 2026-10-20
 emoji: 🍝
 thumb: assets/img/seoul-far-niente.jpg
-excerpt: A Western restaurant in Sinsa-dong. I went back after a few years. The cream gnocchi gratin is good, and they do dessert well. Order above a set amount and you can eat in a private room, just your own group.
+excerpt: A Western restaurant on Garosu-gil in Sinsa-dong. I went back after a few years. The cream gnocchi gratin (around 25,000 won) is good, and they do dessert well. Order above a set amount and you can eat in a private room, just your own group (as of Aug 2026).
 tags: [Seoul, Gangnam, Sinsa-dong, Sinsa, Far Niente, Western, pasta, gnocchi, gratin, dessert]
 map: https://www.google.com/maps/search/?api=1&query=%ed%8c%8c+%eb%8b%88%ec%97%94%ed%85%8c+%ec%8b%a0%ec%82%ac%eb%8f%99
 info:

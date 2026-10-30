@@ -7,7 +7,7 @@ date: 2026-08-23
 updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/seoul-obok-sundaeguk.jpg
-excerpt: The boiled pork here is more tender than anywhere else I have had it. The standalone plate is pricey, so start with the set meal. I have been to both the Mullae and Deungchon branches, and personally Mullae was better.
+excerpt: The boiled pork here is more tender than anywhere else I have had it. The standalone plate is pricey, so start with the set sundaeguk (15,000 won). I have been to both the Mullae and Deungchon branches, and personally Mullae was better. Closed Sundays (as of Sep 2026).
 tags: [Seoul, Yeongdeungpo, Mullae, sundaeguk, boiled pork, blood sausage]
 map: https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EB%B3%B5%EC%88%9C%EB%8C%80%EA%B5%AD+%EB%AC%B8%EB%9E%98
 info:

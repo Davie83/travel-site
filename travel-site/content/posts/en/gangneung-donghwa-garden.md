@@ -7,7 +7,7 @@ date: 2026-09-02
 updated: 2026-10-20
 emoji: 🍲
 thumb: assets/img/gangneung-donghwa-garden.jpg
-excerpt: A jjamppong-sundubu place in Gangneung's Chodang tofu village, famous well past the point of needing an introduction. A fiery jjamppong broth meets cloud-soft tofu in one bowl. If you like sundubu, it's worth a try on a Gangneung trip.
+excerpt: A jjamppong-sundubu place in Gangneung's Chodang tofu village, famous well past the point of needing an introduction. A fiery jjamppong broth meets cloud-soft tofu in one bowl. If you like sundubu, it's worth a try on a Gangneung trip. The bowl is 10,000 won, and it is closed on Wednesdays (as of Sep 2026).
 tags: [Gangneung, Chodang, Chodang-dong, Chodang sundubu, Donghwa Garden, jjamppong sundubu, sundubu, tofu, Gangwon food, Gangneung food]
 map: https://www.google.com/maps/search/?api=1&query=%eb%8f%99%ed%99%94%ea%b0%80%eb%93%a0+%ea%b0%95%eb%a6%89+%ec%b4%88%eb%8b%b9
 info:

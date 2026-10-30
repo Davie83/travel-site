@@ -6,7 +6,7 @@ area: hongdae
 date: 2026-09-11
 emoji: 🍣
 thumb: assets/img/seoul-yokosuka-tsunami-sangsu.jpg
-excerpt: 上水洞（サンス洞）の熟成刺身の居酒屋。季節ごとに変わる「本日のメニュー」が看板で、その日の早朝市場で仕入れた旬の魚をしっかり熟成させて出します。人気店で、開店前から並ぶ必要があります。
+excerpt: 上水洞（サンス洞）の熟成刺身の居酒屋。季節ごとに変わる「本日のメニュー」が看板で、その日の早朝市場で仕入れた旬の魚をしっかり熟成させて出します。人気店で、17時30分の開店前から並ぶ必要があり、月曜は休みです。
 tags: [ソウル, 麻浦, 上水, 弘大, 居酒屋, 刺身, 熟成刺身, 盛り合わせ刺身, 魚介, 和食]
 map: https://www.google.com/maps/search/?api=1&query=%EC%9A%94%EC%BD%94%EC%8A%A4%EC%B9%B4%20%EC%93%B0%EB%82%98%EB%AF%B8%20%EC%83%81%EC%88%98%EC%A0%90
 info:

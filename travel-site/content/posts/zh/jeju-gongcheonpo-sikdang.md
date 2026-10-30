@@ -7,7 +7,7 @@ date: 2026-08-23
 updated: 2026-10-30
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
-excerpt: 在濟州吃過不少鮑魚粥，沒見過比這裡更香濃、價格還這麼實在的。兩個人點一份鮑魚粥加一份冷湯生魚片，剛好。15 點 30 分打烊，週四公休。
+excerpt: 在濟州吃過不少鮑魚粥，沒見過比這裡更香濃、價格還這麼實在的。兩個人點一份鮑魚粥加一份冷湯生魚片，剛好。位在西歸浦和城山之間，很適合順路停一下。15 點 30 分打烊，週四公休。
 tags: [濟州, 西歸浦, 南元, 孔泉浦, 鮑魚粥, 冷湯生魚片, 冷湯生魚, 魷魚]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%EC%B2%9C%ED%8F%AC%EC%8B%9D%EB%8B%B9
 info:

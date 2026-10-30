@@ -6,7 +6,7 @@ area: mapo
 date: 2026-08-26
 emoji: 🍲
 thumb: assets/img/seoul-cheongeoram-gopchang.jpg
-excerpt: 牛小腸火鍋在韓國本來是價格不低的菜，這家算是比較便宜。湯頭是蔬菜熬出來的味道，在牛腸火鍋裡算清爽的。週日公休，平日下午有午休時段。
+excerpt: 牛小腸火鍋在韓國本來是價格不低的菜，望遠店兩人份小鍋30,000韓元，算是比較便宜。湯頭是蔬菜熬出來的味道，在牛腸火鍋裡算清爽的。週日公休，平日下午2～4點有午休時段（截至2026年8月）。
 tags: [首爾, 麻浦, 望遠, 牛腸, 牛小腸, 火鍋, 韓式火鍋, 內臟]
 map: https://www.google.com/maps/search/?api=1&query=%EC%B2%AD%EC%96%B4%EB%9E%8C+%EB%A7%9D%EC%9B%90%EC%A0%90
 lat: 37.5581268

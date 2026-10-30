@@ -7,7 +7,7 @@ date: 2026-09-11
 updated: 2026-10-15
 emoji: 🍣
 thumb: assets/img/seoul-yokosuka-tsunami-sangsu.jpg
-excerpt: 上水洞的熟成生魚片居酒屋。隨季節變化的「本日菜單」是招牌，用當天清晨市場進貨的當季鮮魚，熟成到帶有嚼勁才上桌。人氣很高，開店前就得排隊。
+excerpt: 上水洞的熟成生魚片居酒屋。隨季節變化的「本日菜單」是招牌，用當天清晨市場進貨的當季鮮魚，熟成到帶有嚼勁才上桌。人氣很高，下午5點30分開門前就得排隊，週一公休。
 tags: [首爾, 麻浦, 上水, 弘大, 居酒屋, 生魚片, 熟成生魚片, 拼盤生魚片, 海鮮, 日式料理]
 map: https://www.google.com/maps/search/?api=1&query=%EC%9A%94%EC%BD%94%EC%8A%A4%EC%B9%B4%20%EC%93%B0%EB%82%98%EB%AF%B8%20%EC%83%81%EC%88%98%EC%A0%90
 info:

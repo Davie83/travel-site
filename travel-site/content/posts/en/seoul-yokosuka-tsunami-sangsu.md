@@ -7,7 +7,7 @@ date: 2026-09-11
 updated: 2026-10-20
 emoji: 🍣
 thumb: assets/img/seoul-yokosuka-tsunami-sangsu.jpg
-excerpt: An aged-sashimi izakaya in Sangsu-dong. The signature is the "menu of the day," which changes with the season and uses fish brought in from the dawn market that morning, aged until it turns chewy. Popular enough that you need to line up before opening.
+excerpt: An aged-sashimi izakaya in Sangsu-dong. The signature is the "menu of the day," which changes with the season and uses fish brought in from the dawn market that morning, aged until it turns chewy. Popular enough that you need to line up before the 5:30 PM opening, and it is closed on Mondays.
 tags: [Seoul, Mapo, Sangsu, Hongdae, izakaya, sashimi, aged sashimi, sashimi platter, seafood, Japanese]
 map: https://www.google.com/maps/search/?api=1&query=%EC%9A%94%EC%BD%94%EC%8A%A4%EC%B9%B4%20%EC%93%B0%EB%82%98%EB%AF%B8%20%EC%83%81%EC%88%98%EC%A0%90
 info:

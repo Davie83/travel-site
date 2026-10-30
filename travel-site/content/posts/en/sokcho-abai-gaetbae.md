@@ -7,7 +7,7 @@ date: 2026-09-05
 updated: 2026-10-20
 emoji: ⛴️
 thumb: assets/img/sokcho-abai-gaetbae.jpg
-excerpt: The gaetbae ferry connects central Sokcho with Abai Village. The crossing is short, but it's an easy round trip and worth experiencing at least once. One-way tickets are available too.
+excerpt: The gaetbae ferry connects central Sokcho with Abai Village, hauled across by pulling a cable rather than by motor. The crossing is short, an easy round trip and worth experiencing at least once. One-way is 500 won for adults, and one-way tickets are available (as of Sep 2026).
 tags: [Gangwon, Sokcho, Abai Village, Cheongho-dong, gaetbae, boat ride, Sokcho gaetbae, Sokcho travel, Gangwon travel, things to do in Sokcho]
 map: https://www.google.com/maps/search/?api=1&query=%ec%86%8d%ec%b4%88+%ec%95%84%eb%b0%94%ec%9d%b4%eb%a7%88%ec%9d%84+%ea%b0%af%eb%b0%b0
 info:

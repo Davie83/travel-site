@@ -4,6 +4,7 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-09-07
+updated: 2026-10-30
 emoji: 🏖️
 thumb: assets/img/jeju-geumneung.jpg
 excerpt: A beach on Jeju's west coast, right next to Hyeopjae Beach. Smaller and quieter than Hyeopjae. Shallow clear water, black basalt, and Biyangdo island offshore. On a Jeju that has filled up with Korean and foreign visitors, this is the one to pick if you want a quiet, low-key beach. A place where time passes slowly.
@@ -21,47 +22,33 @@ info:
 
 Come down the stone-paved plaza onto the sand and there's a noticeably different air from the tour-bus crowd next door.
 
-## The sand and the water
-
-![Rows of parasols on white sand, a shallow swimming area, wind turbines in the distance — Geumneung Beach](/assets/img/jeju-geumneung-plaza.jpg)
-
-You come down to the sand from a stone-paved plaza. Parasols stand in rows, and in the summer open season a roped-off area in the shallows holds tubes and inflatable water toys. Black basalt sits here and there in the water, which is shallow and calm.
-
-**Biyangdo** island floats offshore. Wind turbines stand at the far end of the coastline.
-
-## What it looks like
-
-Under a cloudy sky, low and wide clouds spread overhead, and the ground is a broad access path paved with stone blocks. At its end stands a beach information board, and beyond it you can see the sand and blue parasols. The sea is a pale turquoise with white waves rising out in the distance. On the left are buildings and palm trees lined along the coast, with children and adults standing around the sand.
-
-## The quiet side of the beach it shares with Hyeopjae
+## 🏖️ The quiet side of the beach it shares with Hyeopjae
 
 A beach on Jeju's west coast, **right next to Hyeopjae Beach**. It shares one stretch of white sand with Hyeopjae, and the crowds gather on the Hyeopjae side. The Geumneung end is that much **calmer and more relaxed.**
 
 Jeju has filled up with visitors, Korean and foreign alike. So if you want a **quiet beach**, this kind of spot is the one to pick. You don't come here to do anything in particular — it's a place where **time passes slowly.**
 
-## For visitors
+## 🌊 The sand and the water
 
-- It's a **free public beach.** You can only go in the water during the summer open season; the rest of the year it's for walking and photos.
-- It's **joined to Hyeopjae Beach.** Hyeopjae is the better-known, busier side; Geumneung is the quieter side — same water.
-- **A rental car helps.** It's 30–40 minutes west of Jeju Airport, and Hallim Park is close by.
-- The water is shallow and calm, so it's good with children — but watch your footing around the black basalt rocks.
+![Rows of parasols on white sand, a shallow swimming area, wind turbines in the distance — Geumneung Beach](/assets/img/jeju-geumneung-plaza.jpg)
 
-## Who it's for
+At the end of a broad access path paved with stone blocks stands a beach information board, and beyond it you can see the sand and blue parasols. Parasols stand in rows, and in the summer open season a roped-off area in the shallows holds tubes and inflatable water toys. The sea is a pale turquoise, black basalt sits here and there in the water, and the water is shallow and calm. The day I took the photo the sky was cloudy, with low, wide clouds and white waves out in the distance.
 
-- ✅ Anyone after a **quiet, low-key beach** on a crowded Jeju
-- ✅ Anyone who wants to **rest slowly** rather than do things
-- ✅ Anyone with plans on Jeju's **west coast** (Hallim, Hyeopjae)
-- ✅ Anyone needing somewhere shallow for children to play
-- ⚠️ Anyone here to swim outside summer — the water is only open in season
-- ⚠️ Anyone moving by public transport only — it's on the west coast and awkward without a car
-- ⚠️ Anyone expecting a wide, bustling beach — this is the small side
+**Biyangdo** island floats offshore. Wind turbines stand at the far end of the coastline, and to the left are buildings and palm trees lined along the shore.
 
-## Before you go
+## 🚗 Getting there and when to go
 
-- **Getting there** — Geumneung-ri, Hallim-eup, Jeju City, right next to Hyeopjae Beach. Check the map before you set off.
-- **Route** — 30–40 minutes west of Jeju Airport. Pair it with Hallim Park and Hyeopjae Beach for a half-day.
-- **Season** — swimming only in the summer open season. Otherwise it's walking, photos and cafes.
-- **Facilities** — car park, parasol rental, and cafes and restaurants nearby.
-- **A meal** — if your day takes you into central Jeju City, [Mipung Haejangguk](/en/posts/jeju-mipung-haejangguk) is worth setting aside a bowl for.
+It's 30–40 minutes west of Jeju Airport, so **a rental car helps**, and it's awkward on public transport alone. Pair it with Hallim Park and Hyeopjae Beach for a half-day. There's a car park and parasol rental, with cafes and restaurants nearby.
+
+You can only go in the water during the summer open season; the rest of the year it's for walking, photos and cafes. The swimming season and nearby facilities can change, so check again before you go (as of Sep 2026).
+
+## 🌐 For visitors
+
+- It's a **free public beach**
+- The water is shallow and calm, so it's good with children — but watch your footing around the black basalt rocks
+
+## 👥 Who it's for
+
+It suits anyone after a **quiet, low-key beach** on a crowded Jeju, anyone who wants to **rest slowly** rather than do things, anyone with plans on Jeju's **west coast** (Hallim, Hyeopjae), and anyone needing somewhere shallow for children to play. If you're here to swim outside summer, or expecting a wide, bustling beach, this isn't the place. If your day takes you into central Jeju City, [Mipung Haejangguk](/en/posts/jeju-mipung-haejangguk) is worth setting aside a bowl for.
 
 > Written up after walking the beach myself. The swimming season and nearby facilities can change, so it's worth checking again before you go. Fees and hours are **(as of Sep 2026)**.

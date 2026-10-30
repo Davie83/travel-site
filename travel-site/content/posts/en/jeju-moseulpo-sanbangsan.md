@@ -4,7 +4,7 @@ cat: travel
 region: jeju
 area: seogwipo
 date: 2026-08-29
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🚗
 thumb: assets/img/jeju-moseulpo-sanbangsan.jpg
 excerpt: The coastal road from Moseulpo Harbour toward Seogwipo. Even with no particular destination, the road itself is the point. Catch the boat to Gapado from Moseulpo, walk the loop around Songaksan, and past it two small islands sit joined in the sea — Hyeongjeseom, the "brother islands." Around where you can see them, look inland and Sanbangsan rises up. A stretch that feels good no matter when you drive it.
@@ -22,7 +22,7 @@ info:
 
 Right around where Hyeongjeseom comes into view, look left — Sanbangsan is already there.
 
-## Where Hyeongjeseom appears, Sanbangsan is on your left
+## 🏝️ Where Hyeongjeseom appears, Sanbangsan is on your left
 
 Once you pass Songaksan, you'll see **two small islands joined together** in the sea. Because they're joined, they're called the "brother islands."
 
@@ -30,39 +30,25 @@ Once you pass Songaksan, you'll see **two small islands joined together** in the
 
 Around where you can see Hyeongjeseom, **look inland to your left** and there's Sanbangsan rising up. It's the landmark peak of this stretch. It feels good no matter when you drive it. Clear or overcast, the sea, the islands and the mountain's outline all read differently.
 
-## What it looks like
+The photo was taken near sunset. Sanbangsan rises to the left of the road that curves along the coast. The mountain has a rounded top and sheer rock cliffs on its flank, with big clouds hanging low above it, their undersides tinted yellow. To the right of the road, the sea and a breakwater continue, with a red lighthouse and harbor buildings in the distance. By the roadside stand a wooden sign reading "HEY BROTHER CAFE&PUB" and what looks like a cafe building.
 
-Sanbangsan rises to the left of the road that curves along the coast. The mountain has a rounded top and sheer rock cliffs on its flank, with big clouds hanging low above it. To the right of the road, the sea and a breakwater continue, with a red lighthouse and harbor buildings in the distance. By the roadside stand a wooden sign reading "HEY BROTHER CAFE&PUB" and what looks like a cafe building. It is near sunset, and the underside of the clouds is tinted yellow.
+## 🚗 What you pass along the way
 
-## What you pass
+The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. Even with no set destination, **it's a stretch where the road itself is the point**. The order is Moseulpo Harbour → Songaksan → Hyeongjeseom viewpoint → Sanbangsan, continuing toward Seogwipo, and it's just as good in the other direction.
 
-The coastal road from Moseulpo Harbour toward Seogwipo is genuinely beautiful. Even with no set destination, **it's a stretch where the road itself is the point**.
-
-- **Moseulpo Harbour** — you can catch the **boat to Gapado** here. Check sailing times and cancellations on the day.
+- **Moseulpo Harbour** — you can catch the **boat to Gapado** here. Check sailing times, fares and cancellations on the day.
 - **Songaksan** — there's a well-made walking loop around it. The grade is gentle, so it's an easy walk.
-- **Hyeongjeseom and Sanbangsan** — as above, the highlight of this stretch.
+- **Sanbangsan** — you climb stairs to the Sanbanggulsa cliff temple partway up (the full summit is restricted).
+- Check admission and which sections of Sanbangsan and Songaksan are open before you go.
 
-## For foreign visitors
+## 🌐 For foreign visitors
 
-- This stretch is **meant to be driven** — a rental car. Buses reach the individual points (Songaksan, Sanbangsan), but the "driving the stretch" experience needs a car.
-- The **Songaksan loop** is gentle, more a stroll. At **Sanbangsan** you climb stairs to the Sanbanggulsa cliff temple partway up (the full summit is restricted).
-- **Gapado** is reachable only by boat. It's known for its green-barley fields in spring, but sailings are frequently affected by weather — check on the day.
-- The shoreline rocks and basalt are slippery. Wear comfortable shoes.
+- This stretch is **meant to be driven** — a rental car. Buses reach the individual points (Songaksan, Sanbangsan), but the "driving the stretch" experience needs a car
+- Gapado is reachable only by boat. It's known for its green-barley fields in spring
+- The shoreline rocks and basalt are slippery. Wear comfortable shoes
 
-## Who this suits
+## 👥 Who this suits
 
-- ✅ You have a **rental-car** west-Jeju itinerary
-- ✅ You enjoy **the road and the scenery** more than the destination
-- ✅ You want to combine a Songaksan walk and a Sanbangsan viewpoint in one day
-- ✅ You plan to take the **boat to Gapado** from Moseulpo
-- ⚠️ You're relying on public transport — you can reach the points, but not the "drive"
-- ⚠️ You just tick off fixed sights and move on — this post is about a road you take slowly
-
-## Before you go
-
-- **Route** — Moseulpo Harbour → Songaksan → Hyeongjeseom viewpoint → Sanbangsan, continuing toward Seogwipo. It's just as good in the other direction.
-- **Gapado boat** — departs from Moseulpo Harbour. Check times, fares and cancellations on the day.
-- **Sanbangsan / Songaksan** — check admission and which sections are open before you go.
-- **Eat** — [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang), right in front of the harbour, sits perfectly at either end of this stretch.
+It suits anyone with a **rental-car** west-Jeju itinerary, anyone who enjoys **the road and the scenery** more than the destination, anyone who wants to combine a Songaksan walk and a Sanbangsan viewpoint in one day, and anyone planning the **boat to Gapado** from Moseulpo. On public transport alone you can reach the points but lose the feel of the "drive," and if you just tick off fixed sights and move on, this isn't for you — this post is about a road you take slowly. [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang), right in front of the harbour, sits perfectly at either end of this stretch.
 
 > Written after driving this road myself. Boat services and which viewpoints are open can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

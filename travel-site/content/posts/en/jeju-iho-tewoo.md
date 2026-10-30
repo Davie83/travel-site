@@ -4,7 +4,7 @@ cat: travel
 region: jeju
 area: jejusi
 date: 2026-08-29
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🏖️
 thumb: assets/img/jeju-iho-tewoo.jpg
 excerpt: In canola season, Iho Tewoo Beach makes a good short stop because it's close to the airport. There's a canola field set up a little to the right of the beach. It isn't large, but it's just right for a walk and a coffee. You also get the beach's landmark — the red horse lighthouse.
@@ -22,15 +22,11 @@ info:
 
 Just walking out to see the red horse lighthouse at the end of the breakwater makes for a short stroll on its own.
 
-## Iho Tewoo's landmark: the red horse lighthouse
+## 🐴 The red horse lighthouse at the end of the breakwater
 
-The symbol of Iho Tewoo Beach is the **Jeju-pony-shaped red lighthouse** at the end of the breakwater. A white one stands opposite it as a pair. Walking out along the breakwater to the lighthouse and back is a short stroll in itself.
+The symbol of Iho Tewoo Beach is the **Jeju-pony-shaped red lighthouse** at the end of the breakwater. A white one stands opposite it as a pair. The lighthouse body is built like an angular horse, with a small lantern tower on top of the head. Tetrapods are piled in layers in front of it, and you can see the stairs and railing leading up to it. A deep-blue sea spreads out beside the breakwater, with buildings lined along the coast in the distance. Walking out along the breakwater to the lighthouse and back is a short stroll in itself.
 
-## What it looks like
-
-A horse-shaped red lighthouse stands at the end of the breakwater, with tetrapods piled in layers in front of it. Its body is built like an angular horse, with a small lantern tower on top of the head. You can see the stairs and railing leading up to it, and a deep-blue sea spreads out beside the breakwater. In the distance are buildings lined along the coast. The sky has almost no clouds.
-
-## The canola field and a coffee
+## 🌼 The canola field and a coffee
 
 In canola season, I'd suggest **a short stop at Iho Tewoo Beach, since it's close to the airport**. It's especially good when you have an awkward gap right after landing, or before a flight out.
 
@@ -38,32 +34,21 @@ There's a **canola field set up a little to the right of the beach**. It isn't l
 
 ![The canola field set up to the right of the beach — a dirt path along the sea, yellow flowers between basalt walls](/assets/img/jeju-iho-tewoo-yuchae.jpg)
 
-## When to go
+## 📅 When and how to go
 
-- **If canola is the point, late March to April.** Bloom timing shifts a little each year.
-- The beach itself peaks in summer, but the "short stop" this post is about suits spring.
-- The airport is close, so it's good for **filling time around a flight**.
+If canola is the point, go from **late March to April**. Bloom timing shifts a little each year, so check. The beach itself peaks in summer, but the "short stop" this post is about suits spring.
 
-## For foreign visitors
+The airport is 10–15 minutes away by car, so it's good for filling time around a flight, and it slots naturally into a rental-car itinerary. There are cafés around the beach, so you can see the canola and then get a coffee.
 
-- **No admission.** It's a public beach, open all hours.
-- **10–15 minutes by car** from Jeju International Airport. Handy right before picking up or dropping off a rental car.
-- The canola field is small, so treat it as **a light rest stop** rather than a big flower field.
-- The breakwater is windy and the surface uneven. Wear comfortable shoes if you're walking to the lighthouse.
+## 🌐 For foreign visitors
 
-## Who this suits
+- **No admission.** It's a public beach, open all hours
+- Handy right before picking up or dropping off a rental car
+- The canola field is small, so treat it as **a light rest stop** rather than a big flower field
+- The breakwater is windy and the surface uneven. Wear comfortable shoes if you're walking to the lighthouse
 
-- ✅ You need somewhere to spend an awkward gap **just after arriving or before leaving** Jeju
-- ✅ You want **a quick look at canola** and a coffee in spring
-- ✅ You want a photo of Iho Tewoo's **red horse lighthouse**
-- ⚠️ You're expecting a big canola field — this one is small (for that, Gwangchigi Beach in Seongsan)
-- ⚠️ You're here to swim — that's a summer thing
+## 👥 Who this suits
 
-## Before you go
-
-- **Canola season** — late March to April. Bloom timing varies by year; check.
-- **Route** — airport to Iho Tewoo is 10–15 minutes by car. It slots naturally into a rental-car itinerary.
-- **Coffee** — there are cafés around the beach. See the canola, then get one.
-- **Rough morning?** — [Mipung Haejangguk](/en/posts/jeju-mipung-haejangguk) in central Jeju City is a short drive from here.
+It suits anyone who wants **a quick look at canola** and a coffee in spring, or a photo of Iho Tewoo's **red horse lighthouse**. If you're expecting a big canola field, Gwangchigi Beach in Seongsan is better, and if you're here to swim, that's a summer thing. If you had a few too many the night before, [Mipung Haejangguk](/en/posts/jeju-mipung-haejangguk) in central Jeju City is a short drive from here.
 
 > Written up after my own visit. Canola bloom timing and the facilities around the beach can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

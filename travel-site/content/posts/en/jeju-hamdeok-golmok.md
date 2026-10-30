@@ -4,10 +4,10 @@ cat: food
 region: jeju
 area: jejusi
 date: 2026-10-05
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🍲
 thumb: assets/img/jeju-hamdeok-golmok.jpg
-excerpt: A haejangguk (hangover soup) spot that started near Hamdeok Beach. Coming back after a long time, I found it had moved to Jocheon, into a handsome new building. The signature is the offal soup (naejang-tang): a hefty broth with fresh offal, wrapped in a perilla leaf with salted fermented fish, and it tastes great. It brought back fond old memories. One thing to note — there's no takeout; you can only eat it right there.
+excerpt: A haejangguk (hangover soup) spot that moved from near Hamdeok Beach to a new building in Jocheon. The signature is the offal soup (naejang-tang): a hefty broth with fresh offal, wrapped in a perilla leaf with salted hairtail guts, and it tastes great. I waited about 30 minutes at lunchtime, and there's no takeout — you can only eat in.
 tags: [Jeju, Jeju City, Jocheon, Hamdeok, Hamdeok Golmok, haejangguk, offal soup, hangover soup, gukbap]
 info:
   - Restaurant|Hamdeok Golmok (main branch)
@@ -20,40 +20,33 @@ info:
   - Parking|Free parking available
 ---
 
-**This is a haejangguk spot that started near Hamdeok Beach.** I hadn't been in a long time.
+I last ate at Hamdeok Golmok back when it stood near Hamdeok Beach, and this time I came back after several years. I can't say exactly when that was. Now it has **moved to Jocheon, into a new building.** If you only remember the old spot you'll make a wasted trip, so check the address first.
 
-## From Hamdeok to Jocheon, in a new building
+## 📍 A clean new building, and a 30-minute wait at lunch
 
-Going back after a long time, I found it had **moved from near Hamdeok Beach to Jocheon, into a handsome newly built building.** If you only remember the old location you'll make a wasted trip, so check the current address before you go.
+The building felt clean, and there looked to be about 20 tables. I went around lunchtime and waited about 30 minutes to get in.
 
-## The signature is the offal soup
+## 🍲 It arrives still bubbling in the pot
 
-The **offal soup is the signature** here. A hefty broth with fresh offal, and when you **wrap the offal in a perilla leaf with salted fermented fish**, it tastes great. It brought back fond old memories of how good it was.
+The black earthenware pot comes to the table still bubbling. A pale froth covers the broth, with green onion, chili flakes and a dark powder sprinkled on top, and the offal shows white through the soup. Cubed radish kimchi, minced garlic, sliced green chili and a small dish of red seasoning come alongside, so you can set the saltiness and heat yourself. The menu has only two items, and the offal soup is the signature.
 
-## What it looks like on the table
+## 🌿 Offal wrapped in perilla leaf, with salted hairtail guts
 
-It arrives in the black earthenware pot, still bubbling. A pale froth covers the broth, with green onion, chili flakes and a dark powder sprinkled on top, and the offal shows white through the soup. Alongside sit cubed radish kimchi, minced garlic, sliced green chili and a small dish of red seasoning. The garlic, chili and seasoning are there so you can adjust the saltiness and heat to your own taste.
+The broth is hefty and the offal is fresh. Wrapped in a **perilla leaf with salted hairtail guts**, it tasted great. It brought back memories of the place from several years ago, and I had no complaints.
 
-## What to know before you go
+## ⏰ Open early, closed by early afternoon
 
-- **No takeout.** You can only eat it right there in the restaurant
-- It's open only from **7:00 AM to 1:30 PM** (as of Oct 2026). It's a place that closes around lunchtime, so go too late and you'll miss it
-- The menu is just two items: **offal soup (12,000 KRW) and haejangguk (11,000 KRW)**
+It's open from 7:00 AM to 1:30 PM (as of Oct 2026). I waited 30 minutes around lunchtime, so plan around the closing time. **Takeout isn't available — you can only eat in.** I couldn't confirm a regular closing day.
 
-## For foreign visitors
+## 🌐 For foreign visitors
 
+- Order with **"Naejang-tang hana juseyo"** (one offal soup, please)
 - **Naejang-tang** is a soup made with beef offal. **Haejangguk** is a family of rice soups eaten to recover from a hangover
-- The way to eat here is to wrap the offal in a **perilla leaf** and add **jeotgal (fermented salted fish)**. Jeotgal is salty and strongly flavored, so opinions split
-- The texture of offal can feel unfamiliar. There are only two menu items, so ask the staff what each soup is before ordering
-- It opens at 7 AM, so it also works well as a **breakfast in Jeju**
+- **Galchi-sokjeot** is jeotgal (salted fermented seafood) made from hairtail guts. It's salty and strongly flavored, so opinions split
+- The texture of offal can feel unfamiliar, so ask the staff what each soup is before ordering
 
-## Who this is for
+## 👥 Who it suits, and who should skip it
 
-- ✅ Anyone who wants a **proper local haejangguk** in Jeju
-- ✅ Anyone curious about the **Jeju way of eating** — offal wrapped in perilla leaf
-- ✅ Anyone who needs a hearty meal early in the morning
-- ⚠️ If you want takeout — it isn't available
-- ⚠️ If you're heading there after lunch — it closes at 1:30 PM
-- ⚠️ If the texture of offal isn't for you
+It suits anyone who wants a hearty bowl of haejangguk in Jeju, is curious about eating offal wrapped in perilla leaf, or needs a solid meal early in the morning. Be ready for a lunchtime wait. If you want takeout, plan to arrive in the afternoon, or find offal texture hard to take, look elsewhere.
 
 > This is a first-hand account, and taste is subjective. Prices and hours are **(as of Oct 2026)** — worth checking again before you go.

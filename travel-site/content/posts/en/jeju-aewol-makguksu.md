@@ -4,7 +4,7 @@ cat: food
 region: jeju
 area: aewol
 date: 2026-08-24
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🍜
 thumb: assets/img/jeju-aewol-makguksu.jpg
 excerpt: Aewolli Sun Memil Makguksu is a buckwheat noodle house right on the Aewol coastal road in Jeju. I ordered all three staples, perilla oil noodles (10,000 KRW as of Aug 2026), cold broth noodles and boiled pork, and none of it was spicy. Honestly, the perilla oil aroma suited me better at Jeju Sun Memil Makguksu in Seogwipo's Andeok-myeon, but this is not a weak kitchen.
@@ -28,7 +28,7 @@ info:
 
 It took visiting two similarly-named noodle houses to work out which style I actually prefer.
 
-## Two similarly named shops, and my taste picked a side
+## 🍜 Two similarly named shops, and my taste picked a side
 
 Here is the part I want to write plainly.
 
@@ -42,11 +42,7 @@ The names are confusingly similar, so to be clear: **these are two different res
 | Location | **Aewol-eup**, Jeju City | **Andeok-myeon**, Seogwipo |
 | My preference | Good | **Better perilla oil aroma** |
 
-## What it looks like
-
-A top-down view of the table. In the stainless bowl at the top, buckwheat noodles sit in a clear broth with cucumber, shredded radish, meat and half an egg. In the large stainless bowl at the bottom, the bibim-makguksu is entirely covered in shredded seaweed, and on the black plate at the left sits the suyuk. Beside the suyuk are small dishes of garlic, green chili, a red sauce and a brown sauce.
-
-## I still ordered all three staples here
+## 🥢 I still ordered all three staples here
 
 **Perilla oil makguksu is not something I crave often, but it does come back to me now and then.** When the perilla oil and the buckwheat land together properly, the bowl empties before you notice. I came here **because of its reputation**, and ordered the three staples as they come.
 
@@ -56,15 +52,13 @@ A top-down view of the table. In the stainless bowl at the top, buckwheat noodle
 
 **For two people this combination is the standard play.** Split the two noodle bowls, add the pork, and you have seen everything the kitchen does.
 
-## But this is not a weak kitchen
+Here's the table from above. In the stainless bowl at the top, buckwheat noodles sit in a clear broth with cucumber, shredded radish, meat and half an egg. In the large stainless bowl at the bottom, the bibim-makguksu is entirely covered in shredded seaweed, and on the black plate at the left sits the suyuk. Beside the suyuk are small dishes of garlic, green chili, a red sauce and a brown sauce.
 
-I want this stated clearly. **That was a personal preference, nothing more. Every dish here delivers what it is supposed to be.**
+## 🙂 But this is not a weak kitchen
 
-The perilla oil makguksu tastes like proper perilla oil makguksu. The cold-broth bowl tastes like a proper cold-broth bowl. The pork tastes like proper suyuk. Nothing arrives half-made. **If your route runs along the Aewol coastal road, there is reason enough to stop.**
+I want this stated clearly. **That was a personal preference, nothing more. Every dish here delivers what it is supposed to be.** The perilla oil makguksu tastes like proper perilla oil makguksu. The cold-broth bowl tastes like a proper cold-broth bowl. The pork tastes like proper suyuk. Nothing arrives half-made. **If your route runs along the Aewol coastal road, there is reason enough to stop.** I didn't want to write a difference in taste as a difference in skill, so I kept those two apart.
 
-I didn't want to write a difference in taste as a difference in skill, so I kept those two apart.
-
-## The location works in its favor
+## 📍 The location works in its favor
 
 It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which makes it easy to slot into a day.
 
@@ -73,7 +67,7 @@ It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which
 - The Handam coastal walking path is close by
 - Craving something else in the same Aewol-eup area? [Jejunagi](/en/posts/jeju-jejunagi)'s hitsumabushi takeout isn't far
 
-## For international visitors
+## 🌐 For international visitors
 
 **Makguksu is a cold buckwheat noodle dish.** A few things worth knowing on a first visit.
 
@@ -85,13 +79,8 @@ It sits **right on the Aewol coastal road**, next to the Aewol cafe strip, which
 - **These are buckwheat noodles, but wheat flour may be mixed in.** If you need to avoid gluten, ask the restaurant directly. Do not assume 100% buckwheat from the word *sun* ("pure") in the name
 - The **minced green chili** served on the side is hot. Leave it out if you cannot take spice
 
-## Go if
+## 👥 Go if
 
-- ✅ You like perilla oil noodles, or want to try them once
-- ✅ You have an **Aewol coastal road** day planned
-- ✅ You like cold, clean-tasting noodles
-- ✅ **Anyone wary of spicy food** — heat is not something to worry about here
-- ⚠️ **The closing day could not be confirmed.** Check ahead if you are travelling far for it
-- ⚠️ If perilla oil is unfamiliar to you, the cold-broth bowl is the gentler start
+It suits anyone who likes perilla oil noodles or wants to try them once, anyone with an **Aewol coastal road** day planned, and anyone who likes cold, clean-tasting noodles. If perilla oil is unfamiliar to you, the cold-broth bowl is the gentler start. **The closing day could not be confirmed**, so check ahead if you are travelling far for it.
 
 > Written after comparing both restaurants directly. Taste judgements here are entirely my own preference. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

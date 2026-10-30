@@ -14,7 +14,7 @@ info:
   - Location|214 Dangsan-ro, Yeongdeungpo-gu, Seoul, 2nd floor of the Dangsan Samsung Raemian arcade (서울 영등포구 당산로 214 당산 삼성래미안 상가 2층)
   - Phone|0507-1407-8124
   - Hours|**Tue–Sun 11:30 AM ~ 9:00 PM** · last order 8:00 PM · break time 3:00~4:30 PM · **closed Mondays** (as of Oct 2026)
-  - Signature dishes|**Samseon jjamppong** 13,000 KRW · **tangsuyuk** (large) 33,000 KRW · **yakki mandu** 7,500 KRW (as of Oct 2026)
+  - Signature dishes|**Samseon jjamppong** 13,000 KRW · **tangsuyuk** (medium) 24,000 KRW · (large) 33,000 KRW · **yakki mandu** 8,500 KRW (as of Oct 2026)
   - Getting there|**Right in front of Dangsan Station**, **2nd floor** of the apartment arcade (Lines 2 and 9)
 ---
 
@@ -61,7 +61,7 @@ Other dishes here are good too. If you like fried dumplings, I recommend the yak
 
 - **How to find it** — it is on the second floor of the apartment arcade right in front of Dangsan Station (Lines 2 and 9). You go up to the second floor, not the first
 - **If you do not like spicy food** — jjamppong is a red, spicy noodle soup. If you would prefer a soup-free black-bean noodle, the menu also has samseon jjajang and gan-jjajang (as of Oct 2026)
-- **If you are going in a group** — tangsuyuk comes in a large size, and the tray jjajang is ordered in portions for two (as of Oct 2026)
+- **If you are going in a group** — tangsuyuk comes in medium and large sizes, and the tray jjajang is ordered in portions for two (as of Oct 2026)
 
 ## Who it suits
 

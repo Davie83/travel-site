@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-10-30
 emoji: 🍜
 thumb: assets/img/seoul-gangnam-dangsan.jpg
-excerpt: Gangnam is a Chinese-Korean restaurant on the second floor of an apartment-complex arcade, right in front of Dangsan Station in Yeongdeungpo, Seoul. Despite the name it is in Dangsan, not in Gangnam. Portions are generous, and the reason I keep going back is the samseon jjamppong, with chewy noodles, a well-balanced seafood broth and a lot of seafood.
+excerpt: Gangnam is a Chinese-Korean restaurant on the second floor of an apartment-complex arcade, right in front of Dangsan Station in Yeongdeungpo, Seoul. Despite the name it is in Dangsan, not in Gangnam. Portions are generous, and the reason I keep going back is the samseon jjamppong, with chewy noodles, a well-balanced seafood broth and a lot of seafood, including plenty of octopus.
 tags: [Seoul, Dangsan, Yeongdeungpo, Gangnam, Chinese food, Chinese restaurant, jjamppong, samseon jjamppong, tangsuyuk, yakki mandu, fried dumplings, Dangsan Station]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%82%A8%20%EB%8B%B9%EC%82%B0%EB%A1%9C%20214
 info:
@@ -34,17 +34,17 @@ What brings me here is the samseon jjamppong. I have three reasons.
 
 - **Springy noodles** — the noodles are chewy
 - **A balanced broth** — the seafood stock does not lean too far in any direction
-- **A lot of seafood** — it is packed with it
+- **A lot of seafood** — it is packed with it, and there is plenty of nakji (small octopus) too
 
 Even though I am a man and I go when I am hungry, I have never once finished a bowl. That is how generous it is.
 
 ## This time: samseon jjamppong and tangsuyuk
 
-This day I had the samseon jjamppong with tangsuyuk. The tangsuyuk is old-style, and its sauce leans noticeably toward ketchup. I rarely eat tangsuyuk sauce, so I either eat the pork plain or dip it in a soy-and-gochujang sauce. That suits me better.
+This day I had the samseon jjamppong with tangsuyuk. The tangsuyuk is old-style, and its sauce leans noticeably toward ketchup. I rarely eat tangsuyuk sauce, so I either eat the pork plain or dip it in a sauce of soy sauce mixed with chili flakes (gochugaru). That suits me better.
 
 ## What it looks like
 
-On the left is a large plate with a red scroll-and-flower pattern around the rim, piled with pieces of fried pork, and a small bowl of red sauce with carrot and onion sits at the top of the plate. On the right is a big bowl with a red rim holding an orange broth, topped with cabbage, carrot, what look like bamboo shoots, mushrooms, squid, shrimp and small octopus. A dish of white pickled radish sits at the lower right, and a small black dish of dark sauce sits at the bottom center.
+On the left is a large plate with a red scroll-and-flower pattern around the rim, piled with pieces of fried pork, and a small bowl of red sauce with carrot and onion sits at the top of the plate. On the right is a big bowl with a red rim holding an orange broth, topped with cabbage, carrot, what look like bamboo shoots, mushrooms, squid, shrimp and nakji (small octopus). A dish of white pickled radish sits at the lower right, and a small black dish of dark sauce sits at the bottom center.
 
 ## If you like fried dumplings, try the yakki mandu
 

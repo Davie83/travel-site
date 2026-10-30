@@ -7,7 +7,7 @@ date: 2026-08-17
 updated: 2026-10-18
 emoji: 🥘
 thumb: assets/img/buan-halmae-pisundae.jpg
-excerpt: 位在全羅北道扶安郡幸安面的血腸店 扶安 奶奶血腸（할매피순대）。賣相看起來會有很重的豬腥味，實際上幾乎沒有，是拌了豬血和堅果的清爽血腸。早上7點就開門。
+excerpt: 位在全羅北道扶安郡幸安面的血腸店 扶安 奶奶血腸（할매피순대）。賣相看起來會有很重的豬腥味，實際上幾乎沒有，是拌了豬血和堅果的清爽血腸。早上7點就開門。對內臟味敏感的話，可以只點血腸湯飯；也能外帶。
 tags: [全羅, 扶安, 血腸, 순대, 早餐, 大鍋]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%A0%EB%A7%A4%ED%94%BC%EC%88%9C%EB%8C%80+%EB%B6%80%EC%95%88%EA%B5%B0
 info:

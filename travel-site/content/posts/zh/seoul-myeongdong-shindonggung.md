@@ -7,7 +7,7 @@ date: 2026-08-17
 updated: 2026-10-18
 emoji: 🍖
 thumb: assets/img/myeongdong-shindonggung.jpg
-excerpt: 位在首爾明洞明洞9街的炭烤豬脊骨店 신동궁（Shindonggung），24小時全年無休，兩個人點小份就夠。辣度中等，和馬鈴薯豬骨湯差不多，也可以外帶。
+excerpt: 位在首爾明洞明洞9街的炭烤豬脊骨店 신동궁（Shindonggung），24小時全年無休，兩個人點小份就夠。辣度中等，和馬鈴薯豬骨湯差不多，也可以外帶。調味過的豬脊骨以炭火烤製，炭火香淡淡地鋪在底下。
 tags: [首爾, 明洞, 乙支路, 豬脊骨, 馬鈴薯湯, 24小時, 深夜, 外帶]
 map: https://maps.app.goo.gl/VbG7nRD5HV23M7Nx9
 info:

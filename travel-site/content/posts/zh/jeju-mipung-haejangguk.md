@@ -7,7 +7,7 @@ date: 2026-08-28
 updated: 2026-10-30
 emoji: 🍲
 thumb: assets/img/jeju-mipung-haejangguk.jpg
-excerpt: 我一年因公來濟州三、四次，每次都會留一餐給解酒湯。跑過幾家，美風是我的第一名。湯頭夠嗆辣，辣味和那股刺激重疊的地方正合我意。濟州的解酒湯要加很多蒜泥才對味。
+excerpt: 我一年因公來濟州三、四次，每次都會留一餐給解酒湯。跑過幾家，美風是我的第一名。湯頭夠嗆辣，辣味和那股刺激重疊的地方正合我意。濟州的解酒湯要加很多蒜泥才對味。營業時間上午5:00〜下午3:00，解酒湯11,000韓元（截至2026年8月）。
 tags: [濟州, 濟州市, 解酒湯, 해장국, 湯飯, 嗆辣, 蒜泥, 濟州式]
 map: https://www.google.com/maps/search/?api=1&query=%eb%af%b8%ed%92%8d%ed%95%b4%ec%9e%a5%ea%b5%ad+%ec%a0%9c%ec%a3%bc%ec%8b%9c
 info:

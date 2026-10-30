@@ -6,7 +6,7 @@ area: yeongdeungpo
 date: 2026-08-25
 emoji: 🌮
 thumb: assets/img/seoul-godeat-mullae.jpg
-excerpt: 點了法士達&塔可雙人套餐。想吃塔可又不知道點什麼，這一份套餐就是豐盛的一餐。味道不錯，氛圍也好。最近的文來年輕人多了，外國遊客也來了，和從前很不一樣。
+excerpt: 點了法士達&塔可雙人套餐。想吃塔可又不知道點什麼，這一份套餐就是豐盛的一餐。味道不錯，氛圍也好。最近的文來年輕人多了，外國遊客也來了，和從前很不一樣。雙人套餐42,000韓元（截至2026年8月），幾乎不辣，辣味來自另附的莎莎醬。
 tags: [首爾, 永登浦, 文來, 文來創作村, 塔可, 法士達, 墨西哥菜, 套餐]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B0%93%EC%9E%87+%EB%AC%B8%EB%9E%98%EC%A0%90
 lat: 37.5130659

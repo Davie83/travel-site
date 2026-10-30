@@ -6,7 +6,7 @@ area: gwanghwamun
 date: 2026-09-15
 emoji: 🐚
 thumb: assets/img/seoul-seochon-gyedanjip.jpg
-excerpt: 藏在西村巷弄裡的當季海鮮店。喜歡海鮮的人多半都知道這間名店。能吃到一般海鮮店不太賣的特色當季海鮮，價位稍微高一些。據說來過的人必點的海鮮拉麵也很有名。
+excerpt: 藏在西村巷弄裡的當季海鮮店。喜歡海鮮的人多半都知道這間名店。能吃到一般海鮮店不太賣的特色當季海鮮，價位稍微高一些。據說來過的人必點的海鮮拉麵也很有名。每日13:00~23:00營業，不接受預約，現場排隊（截至2026年9月）。
 tags: [首爾, 鍾路, 西村, 紫霞門路, 景福宮, 海鮮, 螃蟹, 海螺, 海鮮拉麵]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%B4%8C%EA%B3%84%EB%8B%A8%EC%A7%91
 info:

@@ -6,7 +6,7 @@ area: gangbuk
 date: 2026-10-08
 emoji: 🥐
 thumb: assets/img/seoul-highground-bakery.jpg
-excerpt: 位在牛耳洞溪谷裡的大型烘焙咖啡館。規模大、室內設計用心，人氣高，所以停車場也寬敞。週末周邊的餐飲店也會擠滿人。想喝杯茶、配上麵包名匠的麵包稍微歇口氣時很合適。
+excerpt: 位在牛耳洞溪谷裡的大型烘焙咖啡館。規模大、室內設計用心，人氣高，所以停車場也寬敞。週末周邊的餐飲店也會擠滿人。想喝杯茶、配上麵包名匠的麵包稍微歇口氣時很合適。每天上午10點到晚上10點營業，北漢山松果麵包和紅麴泡芙麵包各5,900韓元（截至2026年10月）。
 tags: [首爾, 江北, 牛耳洞, 北漢山, High Ground, 하이그라운드제빵소, 咖啡館, 烘焙坊, 麵包, 甜點, 咖啡]
 map: https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%9D%B4%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C%EC%A0%9C%EB%B9%B5%EC%86%8C+%EC%9A%B0%EC%9D%B4%EB%8F%99
 info:

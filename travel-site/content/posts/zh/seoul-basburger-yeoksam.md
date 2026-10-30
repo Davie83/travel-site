@@ -6,7 +6,7 @@ area: gangnam
 date: 2026-09-14
 emoji: 🍔
 thumb: assets/img/seoul-basburger-yeoksam.jpg
-excerpt: 驛三站3號出口附近的手作漢堡店。平常不太吃漢堡，但一看到招牌，那個味道突然浮現腦海，忍不住就走了進去。漢堡配洋蔥圈，再加上一杯白天的啤酒，滿足到想直接躺下。
+excerpt: 驛三站3號出口附近的手作漢堡店。平常不太吃漢堡，但一看到招牌，那個味道突然浮現腦海，忍不住就走了進去。漢堡配洋蔥圈，再加上一杯白天的啤酒，滿足到想直接躺下。BAS漢堡單層8,200韓元起，洋芋片可免費續加（截至2026年9月）。
 tags: [首爾, 江南, 驛三, 德黑蘭路, 漢堡, 手作漢堡, 西餐, 啤酒, 雞肉漢堡]
 map: https://www.google.com/maps/search/?api=1&query=%eb%b0%94%ec%8a%a4%eb%b2%84%ea%b1%b0+%ec%97%ad%EC%82%BC%EC%A0%90
 info:

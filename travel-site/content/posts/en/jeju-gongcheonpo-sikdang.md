@@ -4,7 +4,7 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-23
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🥣
 thumb: assets/img/jeju-gongcheonpo-sikdang.jpg
 excerpt: I have eaten abalone porridge all over Jeju and have not found one this rich for this price. For two people, one porridge and one cold raw-fish soup is the right order. Closes at 3:30 PM and shuts on Thursdays.
@@ -24,49 +24,35 @@ info:
 
 There are three ways to show up here and leave hungry. That's how much the timing matters.
 
-## Three ways to miss out
+## ⏰ Three ways to miss out
 
 1. **They close at 3:30 PM.** Last order 3:00 PM. **This is a lunch-only restaurant**
 2. **Closed Thursdays**
 3. **They close earlier when the food runs out.** By 12:30 PM half the menu can be gone. To be safe, aim for **11:00 AM**
 
-Park at the **harbour car park**.
+## 🥣 The porridge first
 
-## The porridge first
-
-I have eaten **abalone porridge in a lot of places on Jeju.** I have not found one as rich and nutty as this, at this price.
+I have eaten **abalone porridge (jeonbok-juk, porridge cooked with abalone) in a lot of places on Jeju.** I have not found one as rich and nutty as this, at this price.
 
 ![The table at Gongcheonpo Sikdang — abalone porridge, grilled mackerel, squid mulhoe and side dishes](/assets/img/jeju-gongcheonpo-sikdang-table.jpg)
 
-**The green colour is because the abalone innards go into the pot.** That is exactly what makes it rich. Shops that hold the innards back end up with a white, bland porridge.
+**The green colour is because the abalone innards go into the pot.** That is exactly what makes it rich. Shops that hold the innards back end up with a white, bland porridge. **For two people, one porridge and one mulhoe is the right order.** That is the best way to use this restaurant.
 
-**For two people, one porridge and one mulhoe is the right order.** That is the best way to use this restaurant.
+Here's how the table looks. The black bowl on the left holds a pale yellow-green abalone porridge, and on the white rectangular plate at upper right two mackerel are grilled golden with charred edges. In the stainless bowl at lower right is mul-hoe topped with hanchi squid and abalone, the broth stirred with chili flakes, sesame and green vegetables. Small plates above hold kimchi, a dressed leafy-green side, stir-fried fish cake and stir-fried anchovies, and the plate below holds chopped green chili and whole chili.
 
-## What it looks like
+## 🍜 For the mulhoe, get squid
 
-The black bowl on the left holds a pale yellow-green abalone porridge, and on the white rectangular plate at upper right two mackerel are grilled golden with charred edges. In the stainless bowl at lower right is mul-hoe topped with hanchi squid and abalone, the broth stirred with chili flakes, sesame and green vegetables. Small plates above hold kimchi, a dressed leafy-green side, stir-fried fish cake and stir-fried anchovies, and the plate below holds chopped green chili and whole chili.
-
-## Menu words
-
-- **Jeonbok-juk** is porridge cooked with abalone
-- **Mul-hoe** is raw fish served in a cold, tangy and spicy broth, a Jeju summer dish
-- **Hanchi** is a kind of squid caught in large numbers around Jeju in summer
-
-## For the mulhoe, get squid
-
-What is mulhoe? **Raw fish in a cold broth** — eaten as a soup, in summer especially.
-
-I recommend the **squid** version.
+**Mul-hoe** is raw fish served in a cold, tangy and spicy broth, a Jeju summer dish, and **hanchi** is a kind of squid caught in large numbers around Jeju in summer. I recommend the **squid** version.
 
 There is also **jari mulhoe**, made with a small reef fish sliced bones and all — a Jeju thing. A fair number of people order it. I personally do not like it. Those who do come here looking for it.
 
-## Where it fits in a Jeju plan
+## 🗺️ Where it fits in a Jeju plan
 
-Gongcheonpo is on the south-east coast, **between Seogwipo and Seongsan.**
+Gongcheonpo is on the south-east coast, **between Seogwipo and Seongsan.** So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or the other way), this is a natural lunch stop. Slotting it into a leg you are already driving beats making a special trip.
 
-So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or the other way), this is a natural lunch stop. Slotting it into a leg you are already driving beats making a special trip. If your Seogwipo trip stretches out to the west side too, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth a separate afternoon.
+Park at the **harbour car park**. If your Seogwipo trip stretches out to the west side too, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth a separate afternoon.
 
-## Notes for visitors from abroad
+## 🌐 Notes for visitors from abroad
 
 - **Jeju mulhoe uses a soybean-paste broth.** Milder and nuttier than the chilli-paste version common on the mainland. That is why the broth in the photo is pale brown rather than red
 - **It is cold.** If you expect a hot soup you will be surprised
@@ -74,13 +60,8 @@ So on a day when you are moving from Seogwipo up towards Seongsan Ilchulbong (or
 - **The abalone porridge is not spicy at all** and very soft. If you cannot handle chilli, or you have children with you, order this
 - **Jari mulhoe has small bones in it.** If it is your first time, squid is the safe choice
 
-## Who will like this
+## 👥 Who will like this
 
-- ✅ You want to eat abalone porridge properly, once
-- ✅ Your itinerary runs between Seogwipo and Seongsan
-- ✅ You like cold, tangy soups
-- ✅ You cannot handle spicy food (order the porridge)
-- ⚠️ **Closes 3:30 PM · shut Thursdays · sells out early** — dinner is not an option
-- ⚠️ Jari mulhoe is eaten bones and all, which may be unfamiliar
+It suits anyone who wants to eat abalone porridge properly, once, whose itinerary runs between Seogwipo and Seongsan, or who likes cold, tangy soups. Since it closes in the afternoon, it doesn't fit a dinner plan.
 
 > Written up after my own visit. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

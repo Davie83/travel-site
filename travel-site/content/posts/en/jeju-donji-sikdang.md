@@ -4,7 +4,7 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-17
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🦑
 thumb: assets/img/jeju-donji-sikdang.jpg
 excerpt: Donji Sikdang is a raw-fish restaurant near Moseulpo Harbour in Daejeong-eup, Seogwipo, Jeju. The raw squid rice bowl is summer-only, and wrapping it in lettuce is the whole point; even the side dishes were fresh. Open until 9pm (as of Aug 2026).
@@ -21,7 +21,7 @@ info:
 
 I found it by searching for *hanchi hoedeopbap* while driving past, went in on a whim, and ended up with one of the better lunches of the trip.
 
-## Check the season before anything else
+## 📅 Check the season before anything else
 
 When you plan a seafood meal on Jeju, the first thing to check is not the restaurant — it's **the calendar**. This place is a good example of why.
 
@@ -36,50 +36,33 @@ The same restaurant serves a different table depending on the month.
 
 Going in summer, the tables around me were mostly ordering **mulhoe** — a chilled, tangy raw-fish soup that Jeju does particularly well. I've heard the winter yellowtail here is worth a trip on its own. I haven't tried it, so treat that as hearsay rather than a recommendation — and one more reason to come back.
 
-## Hanchi hoedeopbap — the lettuce is the point
+## 🥬 Hanchi hoedeopbap — the lettuce is the point
 
-*Hoedeopbap* is raw fish over rice with vegetables and a sweet-spicy red pepper sauce. What makes this version different is the **basket of lettuce** that comes with it.
+*Hoedeopbap* is a rice bowl topped with raw fish, and *hanchi* is a kind of squid caught in large numbers around Jeju in summer. What makes this version different is the **basket of lettuce** that comes with it.
+
+In a large grey bowl, finely shredded carrot, lettuce, cucumber, seaweed flakes and translucent squid sashimi are arranged in separate color sections, with sesame seeds scattered over the center. In a black bowl alongside is an orange-colored broth with cucumber and shredded radish.
 
 Two ways to eat it, both correct:
 
 1. Take the squid and vegetables straight from the bowl and **wrap them in a lettuce leaf**
 2. **Mix the whole bowl first** — rice, sauce and all — then wrap spoonfuls in lettuce
 
-Mixing first makes it a fuller meal; wrapping it unmixed keeps the texture of the squid and the raw vegetables sharper. Do both across one bowl.
+Mixing first makes it a fuller meal; wrapping it unmixed keeps the texture of the squid and the raw vegetables sharper. Do both across one bowl. The lettuce was genuinely fresh, and that combination is what I remember about the place — more than the fish itself.
 
-The lettuce was genuinely fresh, and that combination is what I remember about the place — more than the fish itself.
-
-## What it looks like
-
-In a large grey bowl, finely shredded carrot, lettuce, cucumber, seaweed flakes and translucent squid sashimi are arranged in separate color sections, with sesame seeds scattered over the center. In a black bowl alongside is an orange-colored broth with cucumber and shredded radish.
-
-## Menu words
-
-- **Hanchi** is a kind of squid caught in large numbers around Jeju in summer
-- **Deopbap** is a rice-bowl dish with toppings, and **hoe-deopbap** is the version topped with raw fish
-- I recommend wrapping the rice in **lettuce**
-
-## The side dishes are not an afterthought
+## 🍚 The side dishes are not an afterthought
 
 One rice bowl came with around eight *banchan*: stir-fried anchovies, soy-braised black beans, seasoned seaweed, kimchi, pickled vegetables, plus soybean paste and red pepper sauce for the lettuce wraps.
 
 In tourist areas side dishes are often filler. Here they were fresh enough to be a reason to come back.
 
-## It's busy from the moment it opens
+## 🕘 It's busy from the moment it opens
 
-I arrived right at opening time and the place was **already in full swing**. That's usually a good sign — it means locals eat here, not only visitors.
+I arrived right at opening time and the place was **already in full swing**. That's usually a good sign — it means locals eat here, not only visitors. Come at opening if you want a relaxed lunch, but don't expect it to be quiet.
 
-Come at opening if you want a relaxed lunch, but don't expect it to be quiet.
+It closes at 9:00 PM, and holidays may differ. It's near Moseulpo Harbour on the southwest coast, a long drive from Jeju City, so pair it with a west-coast day rather than a special trip. Budget around 20,000–30,000 KRW per person. If your west-Seogwipo day runs longer, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth folding in.
 
-## What I didn't try
+## 🍤 What I didn't try
 
 I've heard the **fried hanchi** is good. I'll order it next time. Passing that along as hearsay, not a verdict.
-
-## Before you go
-
-- **Check the season.** This matters more than anything else. Squid in summer, yellowtail in winter.
-- **Getting there** — near Moseulpo Harbour on the southwest coast. It's a long drive from Jeju City, so pair it with a west-coast day rather than a special trip.
-- **Closing time** — 9:00 PM, and holidays may differ.
-- **Flowers too** — if your west-Seogwipo day runs longer, [Camellia Hill](/en/posts/jeju-camellia-hill) in Andeok-myeon is worth folding in.
 
 > Written up after my own visit. Prices, hours, and which fish is available all change with the season — check before you travel. Prices and hours are **(as of Aug 2026)**.

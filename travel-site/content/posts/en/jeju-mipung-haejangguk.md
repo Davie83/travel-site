@@ -4,7 +4,7 @@ cat: food
 region: jeju
 area: jejusi
 date: 2026-08-28
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🍲
 thumb: assets/img/jeju-mipung-haejangguk.jpg
 excerpt: Every time I'm on Jeju for work I make one meal a hangover soup. Of the places I've tried, Mipung is my first pick. The broth is fiery, and the point where the heat meets that sharp, punchy edge is what I like. On Jeju you load it with grated garlic.
@@ -17,45 +17,34 @@ info:
   - Hours · prices · closing day|**Open 5am-3pm**, no closing day found · **haejang-guk 11,000 KRW** (as of Aug 2026)
 ---
 
-I don't naturally reach for aggressive, punchy flavours — except at this one place.
+I don't naturally reach for aggressive, punchy flavours — except at this one place. The heat and that sharp edge overlap just right here, and that combination is what makes me think of it whenever I'm back on Jeju.
 
-## Not usually a fan of punchy broths, but
+## 🌶️ One meal of every trip goes to hangover soup
 
-Honestly, I don't naturally go for punchy, aggressive flavours. But this place hits a spot where the heat and that sharp edge overlap just right, and that combination is what makes me think of it whenever I'm back on Jeju.
+I'm on Jeju for work three or four times a year, and every trip I set aside one meal for **haejang-guk** — hangover soup. Jeju hangover soup splits into two camps. One is *gosari haejang-guk*, thick with bracken fern and buckwheat flour. The other is the fiery kind. The fern version isn't my thing, so I skip it. I've worked through several of the fiery ones, and **Mipung is my first pick.** (Sanji Haejang-guk is second.)
 
-I'm on Jeju for work three or four times a year, and every trip I set aside one meal for **haejang-guk** — hangover soup. Jeju hangover soup splits into two camps. One is *gosari haejang-guk*, thick with bracken fern and buckwheat flour. The other is the fiery, clear-red kind. The fern version isn't my thing, so I skip it.
+## 🍲 Loaded with spring onion, about 4 out of 5 on heat
 
-I've worked through several of the fiery ones, and **Mipung is my first pick.** (Sanji Haejang-guk is second.)
+The broth is fiery. It's loaded with spring onion, with bean sprouts, glass noodles and ground perilla seed on top. Stir in the dab of seasoning paste sitting on top and it gets hotter. I'd put the heat at about 4 out of 5.
 
-The broth is fiery. As in the photo, it's loaded with spring onion, with bean sprouts, glass noodles and ground perilla seed on top. Stir in the dab of seasoning paste sitting on top and it gets hotter. I'd put the heat at about 4 out of 5.
+The black earthenware pot has a dark seasoning in the middle, not yet stirred in, and the broth looks pale and light rather than thick. Rice comes separately in a stainless bowl, two green chilies lie on a small plate, and a bowl of orange-colored broth comes alongside.
 
-## You load it with grated garlic
+## 🧄 Load it with grated garlic
 
-Most Jeju hangover soups only come into their own once you add plenty of **grated garlic**. Don't be shy with the minced garlic on the table — stir a good amount in and the broth comes alive. Mipung is no exception.
+Most Jeju hangover soups only come into their own once you add plenty of **grated garlic**. Don't be shy with the minced garlic on the table — stir a good amount in and the broth comes alive. Mipung is no exception. Mix the rice into the soup or eat it separately, whichever you like.
 
-## What it looks like
-
-The black earthenware pot is heaped with bean sprouts, green onion and sesame, and a dark seasoning sits in the middle, not yet stirred in. The broth looks pale and light rather than thick. Rice comes separately in a stainless bowl, two green chilies lie on a small plate, and a bowl of orange-colored broth comes alongside.
-
-## Would a foreign visitor enjoy it?
+## 🌐 Would a foreign visitor enjoy it?
 
 Honestly, I'm not sure. It's a fiery, aggressive broth, and if you can't take heat it may be a struggle.
 
 Still, a **Jeju-style hangover soup is worth trying once**. It's a different animal from the haejang-guk you get in Seoul, and it's a meal that makes it feel like you've actually arrived on Jeju.
 
-## Who this suits
+## ⏰ Several branches, so check for the main one
 
-- ✅ You like a **fiery, punchy broth**
-- ✅ You need a meal to settle your stomach in the morning, or the day after drinking, on Jeju
-- ✅ You prefer the **clear, fiery** style over the thick bracken-fern one
-- ⚠️ You can't eat spicy food — even without stirring in the seasoning paste, the base is fiery
-- ⚠️ You're hoping for a mild, mellow broth
+It's open from 5 AM to 3 PM (as of Aug 2026). Mipung has several branches, so check that you're heading to the main one.
 
-## Before you go
+## 👥 Who it suits
 
-- **Getting there** — Jeju City, Jeju. Mipung has several branches, so check that you're heading to the main one.
-- **Hours · prices · closing day** — open 5am-3pm, haejang-guk runs 11,000 KRW (as of Aug 2026).
-- **How to eat it** — mix the rice into the soup or eat it separately, whichever you like. Go heavy on the grated garlic.
-- **After you're settled** — if your day stretches west, [Geumneung Beach](/en/posts/jeju-geumneung) out in Hallim is a quiet place to unwind.
+It suits people who like a **fiery, punchy broth**, need a meal to settle the stomach in the morning or the day after drinking on Jeju, or prefer the **clear, fiery** style over the thick bracken-fern one. If you're hoping for a mild, mellow broth, it isn't for you. Even without stirring in the seasoning paste the base is fiery, so keep that in mind if you can't eat spicy food. If your day stretches west, [Geumneung Beach](/en/posts/jeju-geumneung) out in Hallim is a quiet place to unwind after the meal.
 
 > Written up after several visits. The heat rating and any judgement of taste are personal preference. Hours and prices can change — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

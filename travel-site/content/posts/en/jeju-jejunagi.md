@@ -4,7 +4,7 @@ cat: food
 region: jeju
 area: aewol
 date: 2026-08-30
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🍱
 thumb: assets/img/jeju-jejunagi.jpg
 excerpt: I went because I was craving hitsumabushi — Nagoya-style grilled eel over rice. The weather was good so I got it to go, and being hungry, I ate it well with the sunshine. The eel was meltingly tender. Honestly, an indulgent meal. It brought back the taste of a place I ate at in Nagoya.
@@ -20,49 +20,36 @@ info:
 
 The taste I finally got at an old Nagoya restaurant, after trying to book twice, suddenly came back to me in Aewol.
 
-## A memory from Nagoya
+## 🍱 A memory from an old Nagoya restaurant
 
 I've also eaten it at **a famous old restaurant in Nagoya**, said to be the home of hitsumabushi. I don't remember the name, but it was a very old place, and I got a table only **after trying to book twice**.
 
 I haven't forgotten that taste. It's the reason hitsumabushi was on my mind in Aewol in the first place.
 
-## Tender eel, an indulgent meal
+## 🌤️ Good weather, so I took it to go
 
 The weather was good, so **I got it to go**, and ate it in the sun on an empty stomach. That made it better.
 
 The eel was **so tender it was a pleasure to eat**. Honestly, it was **an indulgent meal** — not an everyday one, but now and then a meal like this feels right. Jejunagi's hitsumabushi **brought that Nagoya taste back to mind.**
 
-## What it looks like
+## 📦 What's in the box
 
 In the takeout box, a whole eel lies lengthwise over the rice, scored and sliced crosswise, glossy with sauce. The compartments on the right hold nori, finely cut green herbs, wasabi and sesame, and the lower ones hold pickled vegetables and shredded ginger among other things. Two lidded containers of broth sit beside the box.
 
-## What hitsumabushi is
+Hitsumabushi is **Nagoya's grilled-eel rice bowl**. You usually eat one bowl in three passes — plain first; then with garnishes like seaweed, sesame and spring onion; and finally with dashi broth poured over, like ochazuke. Because it was takeout, that whole format came packed as is.
 
-Hitsumabushi is **Nagoya's grilled-eel rice bowl**. You usually eat one bowl in three passes — plain first; then with garnishes like seaweed, sesame and spring onion; and finally with dashi broth poured over, like ochazuke.
+## ⏰ Closed for a break between lunch and dinner
 
-As in the photo, the garnishes come divided into little compartments. Because it was takeout, that whole format came packed as is.
+It's open 11:00 AM–9:00 PM with a break from 3 to 5 PM. Last order is at 2 PM and 8 PM, and there's no regular closing day (as of Aug 2026). Hitsumabushi is ₩39,000 (special ₩53,000). It isn't cheap, and it's more of a "do it properly once" meal.
 
-## For foreign visitors
+## 🌐 For foreign visitors
 
-- **Hitsumabushi (ひつまぶし) is Nagoya's grilled-eel rice.** Eel is grilled and laid over rice. It is not spicy.
-- Garnishes (seaweed, sesame, spring onion, wasabi) and a **dashi broth** come with it. Eating it three ways is the standard.
-- **Takeout is available.** If the weather's good, eating it outside nearby works well.
-- It isn't cheap. It's more of a "do it properly once" meal.
+- Eel is grilled and laid over rice. It is not spicy
+- Garnishes (seaweed, sesame, spring onion, wasabi) and a **dashi broth** come with it
+- Takeout is available. If the weather's good, eating it outside nearby works well
 
-## Who this suits
+## 👥 Who this suits
 
-- ✅ You like eel rice / hitsumabushi
-- ✅ You want **a slightly indulgent meal** during an Aewol day
-- ✅ You want to **take it away and eat outside** in good weather
-- ✅ You can't eat spicy food — hitsumabushi isn't spicy
-- ⚠️ You want a cheap quick meal — this isn't that price range
-- ⚠️ You're expecting Korean-style marinated grilled freshwater eel — this is the Nagoya style
-
-## Before you go
-
-- **Hours, prices, closing day** — 11:00 AM–9:00 PM (break 3–5 PM, last order 2 PM/8 PM), hitsumabushi ₩39,000 (special ₩53,000), no regular closing day (as of Aug 2026).
-- **Takeout** — available. Good for eating nearby in fine weather.
-- **How to eat it** — plain / with garnishes / with broth poured over, in three passes.
-- **Want noodles instead?** — [Aewolli Sun Memil Makguksu](/en/posts/jeju-aewol-makguksu) is a short drive away, in the same Aewol-eup.
+It suits anyone who likes eel rice or hitsumabushi, wants **a slightly indulgent meal** during an Aewol day, or wants to **take it away and eat outside** in good weather. It's not for you if you want a cheap quick meal, or if you're expecting Korean-style marinated grilled freshwater eel. This is the Nagoya style. If you want noodles instead, [Aewolli Sun Memil Makguksu](/en/posts/jeju-aewol-makguksu) is a short drive away, in the same Aewol-eup.
 
 > Written up after eating there myself. Any judgement of taste is personal preference. Hours, prices and the closing day are as listed above and may change — check the venue's details once more before you go. Prices and hours are **(as of Aug 2026)**.

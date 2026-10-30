@@ -4,7 +4,7 @@ cat: food
 region: jeju
 area: seogwipo
 date: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-30
 emoji: 🐟
 thumb: assets/img/jeju-halmang-bapsang.jpg
 excerpt: Jeju Halmang Bapsang Moseulpo, right by Moseulpo Port in Seogwipo, serves a set of grilled fish, spicy stir-fried pork and ten side dishes for 15,000 KRW (as of Aug 2026), with free refills of rice and soup. It is one order per person aged 8 and up. The flavour is average, but it is an easy way to meet a whole Korean table at once.
@@ -30,33 +30,21 @@ info:
 
 I thought two of us could share one order. I only found out otherwise when I tried to place it.
 
-## Honestly — you cannot split one portion
+## 🍚 Honestly — you cannot split one portion
 
 The volume is so large that it seems obvious **two people could share a single order.** I thought so too.
 
-**You cannot.** The set meal requires **one order per person aged 8 and over.** Korean set meals usually carry that condition.
-
-So plan for it: **30,000 KRW for two**, and you will be genuinely full.
+**You cannot.** The set meal requires **one order per person aged 8 and over.** Korean set meals usually carry that condition. So plan for it: **30,000 KRW for two**, and you will be genuinely full.
 
 The *halmang* in the name is **Jeju dialect for grandmother** — the name means "grandmother's table". What you see in the photo is what arrives, and I left uncomfortably full.
 
-## Menu words
+## 🐟 If you like grilled fish, this is paradise
 
-- **Bapsang** is a Korean meal in which rice, soup and several side dishes are set out together
-- **Jeyuk-bokkeum** is pork stir-fried in a spicy seasoning
-- **Saengseon-gui** is fish grilled whole
+**I like grilled fish** (*saengseon-gui*, fish grilled whole). For me this place was paradise. Several whole fish arrive, grilled through.
 
-## If you like grilled fish, this is paradise
+And **the side dishes arrive just as generously.** Count the plates and you pass ten. *Jeyuk-bokkeum* (pork stir-fried in a spicy seasoning) sits in the centre, a seafood pancake below it, lettuce and soybean paste on the right, and everything else is banchan. **Rice and soup are refilled free.** The bottle at the top left of the photo is **soju**. It is ordered separately.
 
-**I like grilled fish.** For me this place was paradise.
-
-Several whole fish arrive, grilled through.
-
-And **the side dishes arrive just as generously.** Count the plates and you pass ten. Stir-fried pork in the centre, a seafood pancake below it, lettuce and soybean paste on the right, and everything else is banchan.
-
-**Rice and soup are refilled free.**
-
-## The flavour is average
+## 😐 The flavour is average
 
 Also stated plainly. **Overall, the taste is fine — no more than that.**
 
@@ -64,17 +52,17 @@ This is not a restaurant you visit for overwhelming flavour. **Its weapons are t
 
 Set your expectation to **"a proper Korean spread"** rather than "the best food in Jeju", and the meal lands much better.
 
-## I would actually recommend it to visitors from abroad
+## 🌐 I would actually recommend it to visitors from abroad
 
-This, I think, is where the real value sits.
+This, I think, is where the real value sits. **If you want to experience many Korean dishes at once, this is a good place to do it.** A table with ten side dishes on it at the same time is nearly impossible to reproduce outside Korea. Here you meet the whole thing for 15,000 KRW. You learn **in a single meal** which side dishes suit your palate.
 
-**If you want to experience many Korean dishes at once, this is a good place to do it.** A table with ten side dishes on it at the same time is nearly impossible to reproduce outside Korea. Here you meet the whole thing for 15,000 KRW.
+- **A jeongsik is a fixed set meal.** There is nothing to choose; order by headcount and the table is laid. A **bapsang** is a Korean meal in which rice, soup and several side dishes are set out together
+- **The stir-fried pork is spicy.** If you cannot take chili, stay with the grilled fish and the side dishes
+- **The fish is served whole, bones included**
+- **Wrap the meat in lettuce**: lay it on a leaf, add a little soybean paste, fold and eat
+- Extra banchan is usually free too, and solo diners are fine
 
-- You learn **in a single meal** which side dishes suit your palate
-- Grilled fish, spicy pork, savoury pancake, seasoned vegetables and kimchi are **all on one table**
-- Ask for more rice or soup and **you get more**
-
-## What Moseulpo is like
+## 📍 What Moseulpo is like
 
 It sits **directly in front of Moseulpo Port**, at the southwestern tip of Jeju.
 
@@ -86,26 +74,8 @@ It sits **directly in front of Moseulpo Port**, at the southwestern tip of Jeju.
 
 It fits well as lunch on a day spent circling western Jeju.
 
-## For international visitors
+## 👥 Go if
 
-- **A jeongsik is a fixed set meal.** There is nothing to choose; order by headcount and the table is laid
-- **One order is required per person aged 8 and over.** Sharing is not allowed
-- **The stir-fried pork is spicy.** If you cannot take chili, stay with the grilled fish and the side dishes
-- **The fish is served whole, bones included**
-- **Wrap the meat in lettuce**: lay it on a leaf, add a little soybean paste, fold and eat
-- **Side dishes are free, and rice and soup are refilled on request.** Extra banchan is usually free too
-- **Solo diners are fine**
-- The bottle at the top left of the photo is **soju**. It is ordered separately
-
-## Go if
-
-- ✅ **You are very hungry**
-- ✅ You like grilled fish
-- ✅ **You want to meet many Korean side dishes at once** — especially as a first-time visitor
-- ✅ You have a Sanbangsan / Marado / western Jeju day planned
-- ✅ You are travelling with children (plenty of mild options)
-- ⚠️ **One order per person is mandatory** — two cannot share one
-- ⚠️ The flavour is **average**. If you want one overwhelming dish, go elsewhere
-- ⚠️ It can run a little salty
+It suits anyone very hungry or fond of grilled fish, anyone who wants to **meet many Korean side dishes at once** (especially as a first-time visitor), anyone with a Sanbangsan / Marado / western Jeju day planned, and anyone travelling with children (plenty of mild options). If you want one overwhelming dish, go elsewhere.
 
 > Written up after my own visit. Taste judgements are personal preference. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

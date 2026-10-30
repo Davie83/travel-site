@@ -4,10 +4,10 @@ cat: food
 region: jeju
 area: seongsan
 date: 2026-08-30
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🍮
 thumb: assets/img/jeju-shwieogat.jpg
-excerpt: A dessert-and-coffee shop you meet as you near Seongsan, coming from Seogwipo through Pyoseon. I found it while reading up on kaymak, around the time it was getting popular in Korea. The interior is done up Turkish-style, and there's a tidy garden outside that's good for photos. When I get here, I order the sütlaç — a Turkish milk pudding, soft and gently sweet.
+excerpt: A dessert-and-coffee shop you meet as you near Seongsan, coming from Seogwipo through Pyoseon. I found it while reading up on kaymak, around the time it was getting popular in Korea. The interior is done up Turkish-style, and there's a fairly big, tidy garden outside that's good for photos. When I get here, I order the sütlaç — a Turkish milk pudding, soft and gently sweet — and the kaymak was good too.
 tags: [Jeju, Seongsan, Seogwipo, Shwieogat, sutlac, kaymak, Turkish, cafe, dessert, garden]
 map: https://www.google.com/maps/search/?api=1&query=%ec%89%ac%ec%96%b4%ea%b0%93+%ec%84%b1%ec%82%b0
 info:
@@ -18,41 +18,33 @@ info:
   - Hours · prices · closing day|Check by map or phone before you go (as of Aug 2026)
 ---
 
-## Found while reading up on kaymak
+It's a Turkish-style cafe I found while reading up on **kaymak**, back when it was starting to get popular in Korea.
 
-I found this place while reading around about **kaymak**, back when it was starting to get popular in Korea. It turns up on the road from Seogwipo through Pyoseon, just as you're nearing Seongsan.
+## 🏺 Brass kettles and a pretty big garden
 
-## A space and garden done up Turkish-style
+The interior feels **deliberately done in a Turkish style** — a row of brass coffee pots along the windowsill, colourful fish paintings on the wall. Outside there's a **well-kept garden**, and it's fairly big, so it's a good spot for photos. I've been in every season except winter. It wasn't too crowded, which I liked, and I remember the view outside being good.
 
-The interior feels **deliberately done in a Turkish style** — a row of brass coffee pots along the windowsill, colourful fish paintings on the wall. Outside there's a **well-kept garden**. Good atmosphere for photos.
+## 🍮 Sütlaç every time, and the kaymak is good too
 
-## What are sütlaç and kaymak?
-
-- **Sütlaç** is a Turkish pudding made by cooking rice in milk
-- **Kaymak** is a thick cream made by skimming the fat from milk, and in Türkiye it is eaten with bread or honey
-
-## I always end up ordering the sütlaç
-
-When I get here, I end up ordering the **sütlaç** (a Turkish milk pudding).
+When I get here, I end up ordering the **sütlaç**, a Turkish pudding made by cooking rice in milk.
 
 ![Shwieogat's sütlaç — a glass jar of milk pudding and a water glass on a wooden tray, the garden out the window](/assets/img/jeju-shwieogat-sutlac.jpg)
 
-It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute enough that you want to keep it. The garden is out the window.
+It's soft, with a gentle sweetness. The **little glass jar** it comes in is cute enough that you want to keep it.
 
-## Notes for travellers
+I've had the **kaymak** too, and it was good. I ate it with something like crispy Turkish bread, though I can't quite remember what it was called. For coffee I had an Americano.
 
-- **Sütlaç is a Turkish milk pudding.** Not spicy; it's dairy.
-- Worth a stop if you're interested in Turkish desserts like **kaymak** (thick cream).
-- The location works well as **a stop on the way** to a Seongsan itinerary (Seongsan Ilchulbong, Seopjikoji, Gwangchigi Beach).
-- It pairs well with a climb up [Seongsan Ilchulbong](/en/posts/jeju-seongsan-ilchulbong) — come down and close the loop here with coffee and dessert.
-- The garden and window seats are **good for photos**.
-- ✅ Good for anyone who wants **coffee and dessert on the way** to Seongsan, is curious about Turkish desserts, or wants photos in the interior or garden.
-- ⚠️ Less good if you're expecting Korean-style cafe desserts, or can't have dairy — sütlaç is a milk pudding.
+## 🚗 A good stop on the way to Seongsan
 
-## Before you set off
+It turns up on the road from Seogwipo through Pyoseon, just as you're nearing Seongsan. It slots easily into a Seongsan itinerary (Seongsan Ilchulbong, Seopjikoji, Gwangchigi Beach), and coming down from [Seongsan Ilchulbong](/en/posts/jeju-seongsan-ilchulbong) to finish with coffee and dessert here works well too. Check the name on the map before you go. Hours, prices and closing day: check by map or phone before you set off (as of Aug 2026).
 
-- **Getting there** — on the road from Seogwipo through Pyoseon toward Seongsan. Check the name on the map before you go.
-- **Hours · prices · closing day** — Check the map or call before you go.
-- **Garden** — good for photos, so give yourself time in fine weather.
+## 🌐 For foreign visitors
+
+- Sütlaç isn't spicy
+- **Kaymak** is a thick cream made by skimming the fat from milk, and in Türkiye it is eaten with bread or honey. Worth a stop if you're interested in Turkish desserts like it
+
+## 👥 Who it suits
+
+It suits anyone who wants coffee and dessert on the way to Seongsan, is curious about Turkish desserts, or wants photos in the interior or garden. If you expect Korean-style cafe desserts, it may not be for you. If you can't have dairy, note that sütlaç is a milk pudding.
 
 > Written up from a visit of my own. Any judgement of taste and atmosphere is personal preference, so check the hours, prices and closing day once more before you go. Prices and hours are **(as of Aug 2026)**.

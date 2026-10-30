@@ -4,7 +4,7 @@ cat: travel
 region: jeju
 area: seogwipo
 date: 2026-08-31
-updated: 2026-10-20
+updated: 2026-10-30
 emoji: 🖌️
 thumb: assets/img/jeju-chusa-yubaeji.jpg
 excerpt: An easy stop if you're heading down to Moseulpo Harbour or crossing from Aewol to Seogwipo. This is where Kim Jeong-hui — the calligrapher behind the "Chusa style" — spent more than eight years in exile. A restored thatched house behind a stone wall, and two pine trees standing tall in the yard. Quiet, the way an exile site should be; a good place to sit a moment with some history.
@@ -21,7 +21,7 @@ info:
 
 Off to one side of the yard, two big pine trees stand very upright, like people with something to say.
 
-## Two pine trees standing guard over the yard
+## 🌲 Two pine trees standing guard over the yard
 
 The thatched house standing here now is not the original. It was rebuilt from the accounts of descendants and villagers, on the site of the Kang Do-sun house where Kim actually stayed. A stone wall, a narrow yard, a few low thatched roofs — that is all of it.
 
@@ -29,43 +29,32 @@ In front of those pines I wondered for a moment whether they were trying to say,
 
 ![The reconstructed thatched house and stone wall, with the tree that guards the yard — Chusa's place of exile](/assets/img/jeju-chusa-yubaeji-choga.jpg)
 
-## What it looks like
+Here's the yard in the photo. Two tall pine trees stand side by side in the middle of the lawn, with a low black basalt wall running around behind them. A wooden bench sits in front of the wall between the pines, flanked on both sides by rounded azalea shrubs in pink bloom. Flat stones are laid at intervals across the grass to form a path. Beyond the wall, mountain peaks show in the distance, and thin clouds spread long across the sky. The sunlight comes in at a slant and makes the grass glint yellow.
 
-Two tall pine trees stand side by side in the middle of the lawn yard, with a low black basalt wall running around behind them. A wooden bench sits in front of the wall between the pines, flanked on both sides by rounded azalea shrubs in pink bloom. Flat stones are laid at intervals across the grass to form a path. Beyond the wall, mountain peaks show in the distance, and thin clouds spread long across the sky. The sunlight comes in at a slant and makes the grass glint yellow.
-
-## Kim Jeong-hui and this spot
-
-If you're passing through the southwest of Jeju, around Daejeong, this is worth a short stop. Whether you're heading straight down to Moseulpo Harbour or coming over from Aewol toward Seogwipo, it's barely a detour.
+## 📜 Kim Jeong-hui and this spot
 
 This is where Kim Jeong-hui — the "Chusa" of Chusa-che, the calligraphic style — lived out his exile. In 1840, caught up in a political purge, Kim Jeong-hui (1786–1856) was banished here to Daejeong. He wasn't released until 1848 — more than eight years. The sentence was called *wiri-anchi*: the house is ringed with a hedge of thorns, and you do not leave it.
 
 His writing, they say, only grew firmer in that confinement. The hand we now call Chusa-che matured around this time, and the painting he gave his student — the *Sehando* (1844) — came out of these years too. It shows a pine and a Korean pine (jat-namu) that stay green through the cold season.
 
-## The Jeju Chusa Museum
+## 🏛️ The Jeju Chusa Museum
 
 Next to the house is the Jeju Chusa Museum. It is a low building, mostly underground, gathering the story of the Sehando along with letters and calligraphy. It is small; even at a slow pace it does not take long.
 
-## For foreign visitors
+## 🚗 Pairing it with Moseulpo Harbour
 
-- This is **a place you come for the story, not the scenery**. Kim Jeong-hui was a 19th-century scholar and calligrapher of Joseon Korea — a very large name in Korean calligraphy.
-- He was held here as a political prisoner for over eight years, and in that time he painted his best-known work, the **Sehando**.
-- What there is to see: **a few reconstructed thatched houses, a stone wall, a small underground gallery**. Thirty minutes to an hour is plenty.
-- Exhibit captions are mostly in Korean. The paintings and calligraphy speak without words.
-- **Moseulpo Harbour, Sanbangsan and Daejeong Hyanggyo** are all close by, so it bundles well.
+If you're passing through the southwest of Jeju, around Daejeong, this is worth a short stop. Whether you're heading straight down to Moseulpo Harbour or coming over from Aewol toward Seogwipo, it's barely a detour. The address is 44 Chusa-ro, Daejeong-eup, Seogwipo, under 10 minutes by car from Moseulpo Harbour and near Daejeong Hyanggyo. Moseulpo Harbour → Sanbangsan → Chusa's place of exile makes a natural loop.
 
-## Who this suits
+Admission is **free**, and it's open 9:00 AM–6:00 PM (last entry 5:30 PM), **closed every Monday** (also 1/1, Lunar New Year and Chuseok) (as of Aug 2026). Down toward the harbour, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is worth it for a grilled-fish spread.
 
-- ✅ You're **touring west Jeju by car** and want a short stop
-- ✅ You have an interest in Korean history, calligraphy or art
-- ✅ You prefer **a quiet spot** to a crowded landmark
-- ⚠️ You're expecting a grand sight or a large garden — this is small and plain
-- ⚠️ You're relying on public transport — you can get here, but buses are infrequent
+## 🌐 For foreign visitors
 
-## Before you go
+- This is **a place you come for the story, not the scenery**. Kim Jeong-hui was a 19th-century scholar and calligrapher of Joseon Korea — a very large name in Korean calligraphy
+- What there is to see: **a few reconstructed thatched houses, a stone wall, a small underground gallery**. Thirty minutes to an hour is plenty
+- Exhibit captions are mostly in Korean. The paintings and calligraphy speak without words
 
-- **Getting there** — 44 Chusa-ro, Daejeong-eup, Seogwipo, Jeju. Under 10 minutes by car from Moseulpo Harbour, near Daejeong Hyanggyo.
-- **Admission · hours · closing day** — **Free**, open 9:00 AM–6:00 PM (last entry 5:30 PM), **closed every Monday** (also 1/1, Lunar New Year, Chuseok). (as of Aug 2026) — worth confirming again before you go.
-- **Bundling** — Moseulpo Harbour → Sanbangsan → Chusa's place of exile makes a natural loop.
-- **Eat** — down toward the harbour, [Jeju Halmang Bapsang Moseulpo](/en/posts/jeju-halmang-bapsang) is worth it for a grilled-fish spread.
+## 👥 Who this suits
+
+It suits anyone **touring west Jeju by car** who wants a short stop, anyone interested in Korean history, calligraphy or art, and anyone who prefers **a quiet spot** to a crowded landmark. If you're expecting a grand sight or a large garden, this is small and plain, and on public transport you can get here but buses are infrequent.
 
 > Written after my own visit. Admission, hours and the closing day can change, so it's worth checking again before you go. Fees and hours are **(as of Aug 2026)**.

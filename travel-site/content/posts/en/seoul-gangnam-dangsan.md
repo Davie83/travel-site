@@ -42,9 +42,13 @@ Even though I am a man and I go when I am hungry, I have never once finished a b
 
 This day I had the samseon jjamppong with tangsuyuk. The tangsuyuk is old-style, and its sauce leans noticeably toward ketchup. I rarely eat tangsuyuk sauce, so I either eat the pork plain or dip it in a sauce of soy sauce mixed with chili flakes (gochugaru). That suits me better.
 
+![Tangsuyuk on a plate with a red scroll-and-flower pattern, with the sauce in a separate bowl](/assets/img/seoul-gangnam-dangsan-tangsuyuk.jpg)
+
+The tangsuyuk comes piled on the plate, and the sauce arrives in a separate white bowl, with carrot and onion visible in it.
+
 ## What it looks like
 
-On the left is a large plate with a red scroll-and-flower pattern around the rim, piled with pieces of fried pork, and a small bowl of red sauce with carrot and onion sits at the top of the plate. On the right is a big bowl with a red rim holding an orange broth, topped with cabbage, carrot, what look like bamboo shoots, mushrooms, squid, shrimp and nakji (small octopus). A dish of white pickled radish sits at the lower right, and a small black dish of dark sauce sits at the bottom center.
+The lead photo looks straight down at the whole table. In the middle, a large red-rimmed bowl holds orange jjamppong broth topped with cabbage, carrot, what look like bamboo shoots, mushrooms, squid, shrimp and nakji (small octopus). On the right are the tangsuyuk plate and its sauce bowl. Around the bowl on the left sit a dish of white pickled radish, a dish of yellow pickled radish and a small dish of reddish-brown sauce, and a small black dish of dark sauce is at the top.
 
 ## If you like fried dumplings, try the yakki mandu
 

@@ -12,8 +12,8 @@ map: https://www.google.com/maps/search/?api=1&query=%EA%B0%95%EB%82%A8%20%EB%8B
 info:
   - Restaurant|Gangnam (강남)
   - Location|214 Dangsan-ro, Yeongdeungpo-gu, Seoul, 2nd floor of the Dangsan Samsung Raemian arcade (서울 영등포구 당산로 214 당산 삼성래미안 상가 2층)
-  - Phone|02-2633-8124
-  - Hours|**Tue–Sun 11:30 AM ~ 9:00 PM** · break time 3:00~4:30 PM · **closed Mondays** (as of Oct 2026)
+  - Phone|0507-1407-8124
+  - Hours|**Tue–Sun 11:30 AM ~ 9:00 PM** · last order 8:00 PM · break time 3:00~4:30 PM · **closed Mondays** (as of Oct 2026)
   - Signature dishes|**Samseon jjamppong** 13,000 KRW · **tangsuyuk** (large) 33,000 KRW · **yakki mandu** 7,500 KRW (as of Oct 2026)
   - Getting there|**Right in front of Dangsan Station**, **2nd floor** of the apartment arcade (Lines 2 and 9)
 ---

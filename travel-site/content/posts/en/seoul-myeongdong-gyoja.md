@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-31
 emoji: 🍜
 thumb: assets/img/seoul-myeongdong-gyoja.jpg
-excerpt: The famous kalguksu place in Myeongdong that most people know. Good value, and a broth that suits most palates. It's no longer the scruffy old spot — it has moved, smartly, to a new building near Myeongdong Station Exit 8. Going back after a while, it wasn't quite the old thrill, but it's still above the baseline. A taste you'll want again once winter comes.
+excerpt: My first visit to Myeongdong Gyoja since 2018. It now sits in a cleaner new building near Myeongdong Station Exit 8, and I waited about 10 minutes in the evening. The garlic kimchi still pairs perfectly with the kalguksu, though the broth tasted thinner than I remembered.
 tags: [Seoul, Jung-gu, Myeongdong, Myeongdong Gyoja, kalguksu, mandu, dumpling soup, noodles, garlic kimchi, Myeongdong food]
 map: https://www.google.com/maps/search/?api=1&query=%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90+%eb%b3%b8%ec%a0%90+%eb%aa%85%eb%8f%99
 info:
@@ -19,54 +19,30 @@ info:
   - Hours · prices · closing day|Daily 10:30–21:00 (last order 20:30) · kalguksu ₩12,000 · mandu ₩13,000 · closed only on Lunar New Year & Chuseok itself (as of Sep 2026)
 ---
 
-## Let's start with the kimchi
+It was my first time at Myeongdong Gyoja since 2018, and the first since Covid. I went in the evening; there was a line, but I waited only about 10 minutes.
 
-This place's kimchi is well known — **cabbage kimchi with a lot of garlic, and quite spicy.** There's a notice on the table along the lines of "ingredients are expensive, so take only as much kimchi as you need," which itself tells you how much attention goes into this side dish — it's self-serve, and they still felt the need to post that.
+## 🚇 A cleaner new building near Exit 8
 
-It contrasts with the mild broth, so a bite at a time alongside the noodles works well. If you're new here, this one side dish alone should tell you why the place is famous.
+This is not the scruffy back-alley spot I used to go to all the time. It has moved to a new building near Myeongdong Station Exit 8, and it is clearly cleaner. If you remember the narrow, crowded old place, this will feel unfamiliar. This time nobody told me about sharing a table, so I can't say whether they still seat strangers together.
 
-## What it looks like
+## 🍜 The kalguksu comes with dumplings
 
-The kalguksu comes in a pale beige bowl, with a clear brown broth. Ground meat is heaped in the middle of the bowl, and four large dumplings float around it. The dumpling wrappers are so thin that they look translucent. On the plate at the left, red kimchi in a fresh, geotjeori style is piled high, and behind it are shakers of seasoning such as chili flakes and pepper, with a notice on the wall asking you to take only as much kimchi as you need.
+Kalguksu is a noodle made by cutting dough with a knife and boiling it in broth. Here a single bowl comes topped with minced meat and dumplings. The bowl is pale beige with a clear brown broth, a heap of minced meat sits in the middle, and four big dumplings float around it. The dumpling wrappers are thin enough to be almost see-through. You can also order the mandu (dumplings) on their own. It is good value and the broth suits most palates, so most Koreans have been here at least once.
 
-## Menu words
+## 🧄 Garlic kimchi: serve yourself, and it matches the noodles perfectly
 
-- **Mandu** are Korean dumplings filled with meat or vegetables
-- **Geotjeori** is fresh kimchi made by seasoning lightly salted cabbage right away
+The kimchi here is famous. It is napa cabbage kimchi with a great deal of garlic, and it is fairly spicy. A bite alongside the mild kalguksu broth is a perfect match, and even a first-timer can tell from this one side dish why the place is famous. On the left plate there is geotjeori, fresh, lightly salted cabbage dressed on the spot, piled high and red, with seasoning shakers of chili flakes and pepper behind it. A notice on the wall says the ingredients are expensive, so take only as much kimchi as you need. You serve yourself, so don't take too much at once.
 
-## How the bowl actually arrives
+## 😮 The feeling that the flavour had thinned
 
-Order the kalguksu and you get **one bowl topped with minced meat and dumplings**. The broth is on the rich side and not especially sharp, so it divides few people.
+The broth is on the rich side and not especially aggressive, so few people dislike it. This time, though, it looked a little cloudier than before, and the taste seemed somehow thinner. It was just about the level where you feel a place you used to visit often has changed. It wasn't the thrill of my peak years here, but it is better than the basics, and I left well fed.
 
-That said — maybe because I went back after a while with the taste built up in my head — **the broth looked a bit cloudier than it used to.** It wasn't quite the thrill of when I was a regular. Still, it does more than the baseline, and I ate well. Something felt changed, so I'm not sure I'll be back soon, but it is the kind of taste that **comes back to mind once the weather turns cold.**
+## 🌐 For visitors
 
-## It has moved to Myeongdong Station Exit 8
+- The kalguksu is not spicy. It is a mild, garlic-scented broth with dumplings and minced meat on top. The **kimchi, by contrast, is very spicy and heavy on garlic**. Take small bites, or skip it if heat is a worry
+- It is near Myeongdong Station Exit 8, so it is easy to reach on a sightseeing route
+- The menu is simple: kalguksu or mandu
 
-It's the famous Myeongdong kalguksu place that most people know. Decent value, and a broth that clicks with most palates — if you're Korean, you've probably been at least once.
-
-But it's not the scruffy alley spot from when I used to go a lot. It has moved, smartly, to **a new building near Myeongdong Station Exit 8**. If you're remembering the old cramped, busy room, it can feel unfamiliar.
-
-## For foreign visitors
-
-- **Kalguksu** is wheat noodles cut by knife, boiled in broth. The kalguksu here is **not spicy** — a mild, garlicky broth topped with dumplings and minced meat.
-- The **kimchi here is very spicy**, and heavy on garlic. Add a little at a time, or skip it if spice is a problem.
-- The kimchi is **self-serve**. There's a notice asking you to take only what you need because ingredients are costly, so don't take a lot at once.
-- **Mandu (dumplings)** are also a signature here. A few come in the kalguksu, and you can also order dumplings on their own.
-- It's **near Myeongdong Station Exit 8**, easy to reach on a Myeongdong sightseeing route. Expect a queue at mealtimes.
-
-## Who this suits
-
-- ✅ You want **an easy bowl of soup** on a Myeongdong day
-- ✅ You like a **mild, non-spicy kalguksu broth**
-- ✅ You want to try "the famous Korean kalguksu place" once
-- ⚠️ You're expecting the character of the old scruffy Myeongdong Gyoja — it's a new building now
-- ⚠️ You want a very bold flavour — the broth is on the mild side
-
-## Before you go
-
-- **Getting there** — Jung-gu, Seoul, a new building near Myeongdong Station Exit 8. Don't head for the old alley address.
-- **Ordering** — kalguksu or mandu. The kalguksu comes with dumplings. Kimchi is self-serve.
-- **Nearby** — [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), known for its weekday-lunch-only sashimi set on the 2nd floor of Namdaemun Market, sits in the same broad Myeongdong area if you want another stop.
-- **Hours · prices · closing day** — Daily 10:30–21:00 (last order 20:30), kalguksu ₩12,000 and mandu ₩13,000, closed only on Lunar New Year and Chuseok itself (as of Sep 2026).
+It suits people who want an easy bowl of soup during a Myeongdong day, or who like a mild kalguksu broth. If you are hoping for the charm of the old scruffy Myeongdong Gyoja it may feel strange, and if you want a punchy flavour the broth leans mild. Thinner or not, it is the kind of taste I will think of again when winter turns cold. If you want another meal in the area, [Maknae Hoejip](/en/posts/seoul-maknae-hoejip) on the second floor of Namdaemun Market, which serves its sashimi set only at weekday lunch, is close enough to walk between.
 
 > Based on a personal visit. The judgement on the taste is personal, and the new location, hours and prices can change — check the venue's details once more before you go. Prices and hours are **(as of Sep 2026)**.

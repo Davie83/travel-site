@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-09-05
-updated: 2026-10-20
+updated: 2026-10-31
 emoji: 🍲
 thumb: assets/img/seoul-mapo-yangji-seolleongtang.jpg
-excerpt: A seolleongtang place near Mapo/Gongdeok that I've gone to for a long time. It used to sit behind the Shilla Stay across the street; now, much like Myeongdong Gyoja, it has moved into a proper new shop at its current address. Early on I always got the large seolleongtang, stuffed with meat, and the kimchi here — including a green onion version — is genuinely excellent. These days I mostly order the ox-knee soup, generous with cartilage.
+excerpt: A seolleongtang place on Saechang-ro near Gongdeok. At lunch the queue usually clears in 10 to 20 minutes because it runs two floors. I started with the large seolleongtang and now mostly order doganitang, with lightly spicy, crunchy green-onion kimchi alongside.
 tags: [Seoul, Mapo, Gongdeok, Mapo Yangji Seolleongtang, seolleongtang, doganitang, ox-knee soup, cartilage, green onion kimchi, gukbap, Mapo food, Seoul food, Gongdeok food]
 map: https://www.google.com/maps/search/?api=1&query=%eb%a7%88%ed%8f%ac%ec%96%91%ec%a7%80%ec%84%a4%eb%a0%81%ed%83%95+%ea%b3%b5%eb%8d%95
 info:
@@ -19,51 +19,41 @@ info:
   - Prices · hours · closing day|**Open daily 7:00am-8:50pm**, no closing day · **seolleongtang 14,000 KRW · large seolleongtang 18,000 KRW · doganitang 25,000 KRW** (as of Sep 2026)
 ---
 
-I've been going to this place for a long time. In that time the shop itself has moved once, and what I order has changed too. Following those two changes is more or less the introduction to this place.
+Even when there is a queue at lunch, you are usually seated within **10 to 20 minutes** at this seolleongtang place near Gongdeok. I have been going for a long time, so this covers the move and the way my order has changed.
 
-## Still going, even after it moved
+## ⏱️ At lunch, 10 to 20 minutes
 
-These days there's a proper shop at the current address, but it used to sit in a humbler spot just behind the Shilla Stay across the street. Much like **Myeongdong Gyoja** moved into a stylish new location near Myeongdong Station Exit 8, this place has, over the years, moved to where it is now. The address changed; the reason to keep coming didn't.
+I go at lunch almost every time. The line can look long, but the restaurant runs both the first and second floors, so a seat usually opens up in roughly 10 to 20 minutes.
 
-## What it looks like
+## 📍 It moved, and I kept going
 
-The black earthenware pot is filled with a clear, milky broth, thickly dotted with diagonally cut green onion. In the broth you can see two or three large pieces of meat that look tender, like brisket. There are traces of pepper on the surface, and the bowl is deep so the ingredients sit all the way down. At the upper left is a small bowl of onion pickled in soy sauce.
+The shop at 6 Saechang-ro is a proper new place. It used to sit in a plainer spot behind the Shilla Stay across the street. It is a bit like [Myeongdong Gyoja](/en/posts/seoul-myeongdong-gyoja), which also moved into a smart new building near Myeongdong Station Exit 8, and in both cases the regulars kept coming. Gongdeok Station, where Lines 5 and 6, the Airport Railroad and the Gyeongui-Jungang Line meet, is close.
 
-## Menu words
+## 🍲 From the large seolleongtang to doganitang
 
-- **Seolleongtang** is a milky soup made by simmering ox bones and meat for a long time, seasoned at the table with salt
-- **Doganitang** is a soup with cartilage from the knee area of beef
-- **Onion pickled in soy sauce** is a side dish of onions steeped in soy sauce
+When I first started coming I ordered the **large seolleongtang** (the "special" size with extra meat), and one bowl was enough to fill me up. I can't visit as often as I used to, and these days, perhaps because I am getting older, I mostly order **doganitang**. It has a generous amount of cartilage, and I pick it when I want that springy, chewy texture that seolleongtang doesn't have.
 
-## From the large seolleongtang to doganitang
+Seolleongtang is a milky soup made by simmering ox bones and meat for a long time, and doganitang is a soup with ox-knee cartilage. In the photo, a black earthenware bowl is filled with clear, milky broth, with sliced green onion piled across the top and two or three big pieces of what looks like brisket inside. There are traces of black pepper on the surface, and a small dish of soy-pickled onion sits at the top left. You season the soup at the table with salt.
 
-When I first started coming here, I always ordered the **large seolleongtang**. Ordering large gets you a generous helping of meat too, enough to leave the bowl properly full. At a Korean gukbap place, the **kimchi** matters almost as much as the broth, and this place takes that seriously — the side dishes include **green onion kimchi** as well. The kimchi here is genuinely good, and the seolleongtang eaten alongside it barely needs explaining.
+## 🥬 The green-onion kimchi is half the reason
 
-I don't get here as often as I used to — maybe it's age — but these days I mostly order the **doganitang** (ox-knee soup). It comes generous with cartilage, and the flavour is good. Unlike the seolleongtang, it's the one I reach for when I'm after the distinctive, chewy texture of the cartilage itself.
+In a Korean soup-and-rice restaurant the kimchi matters almost as much as the broth, and this place does the basics right by serving **green-onion kimchi** (pa-kimchi) too. It is pleasantly spicy and crunchy, and it goes perfectly with both the seolleongtang and the doganitang. You hardly need me to explain how good the broth tastes alongside it.
 
-## For visitors
+## 🙏 One small complaint
 
-- **Seolleongtang** is a milky-white broth from long-simmered ox bones and meat, in the same family as gomtang. As the name of this place suggests, it's built around **brisket (yangji)**, and there's also **doganitang (ox-knee cartilage soup)**.
-- The broth is mild and plain by design — you season it yourself with salt or soy, plus scallion, to taste. **Not spicy.**
-- The **green onion kimchi** served as a side is this place's hidden charm. The kimchi is good enough that it's worth eating alongside the broth on purpose.
-- Add kkakdugi (radish kimchi) brine or salt to taste as you go.
-- It's near Mapo and Gongdeok — close to Gongdeok Station, where subway lines 5 and 6, the airport railroad, and the Gyeongui-Jungang line all meet.
+It is about service, not the food. The staff are on the older side, and when I ask for more side dishes they sometimes forget.
 
-## Who it's for
+## 🌐 For visitors
 
-- ✅ Anyone who likes milky-broth **seolleongtang or doganitang**
-- ✅ Anyone who cares about the **kimchi** as much as the soup at a gukbap place
-- ✅ Anyone who enjoys the distinctive **chewy texture** of ox-knee cartilage
-- ✅ Anyone who needs a solid, filling meal around Gongdeok
-- ⚠️ Anyone after a punchy, spicy broth — this is the mild gomtang family, a different register
-- ⚠️ Anyone wanting a light, meat-free bowl — the large size comes with a generous amount of meat
+- To order, say "Doganitang hana juseyo" (도가니탕 하나 주세요), which means "one doganitang, please"
+- **It is not spicy.** The broth is mild, and everyone seasons it with salt and green onion to taste. The house seolleongtang is made with brisket
+- The green-onion kimchi is the only thing with any heat
+- Add some of the kkakdugi (radish kimchi) juice or a pinch of salt, whichever you like
 
-## Before you go
+## 👥 Who it suits
 
-- **Location** — near Gongdeok, Mapo-gu, Seoul. Go to the **current, relocated address**, not the old spot behind the Shilla Stay.
-- **Ordering** — if it's your first time, go large on the seolleongtang for a filling bowl with meat; go doganitang if you want that plainer, chewier texture.
-- **Side dishes** — don't skip the green onion kimchi. Half of this place's appeal is the kimchi.
-- **Dessert** — after a filling bowl, if you're in the mood for coffee, [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa), a converted-house cafe in the same Gongdeok/Mapo area, makes a good finish.
-- **Prices · hours · closing day** — open daily 7am-8:50pm, no closing day. Seolleongtang runs 14,000 KRW, doganitang 25,000 KRW (as of Sep 2026).
+It suits anyone who likes milky seolleongtang or doganitang and wants good kimchi alongside, and it is a solid, filling meal near Gongdeok. If you want something fiery, this is a different style of soup. If you only want a light bowl without much meat, order the regular size, because the large one is a lot of food.
+
+If you feel like coffee afterwards, the house-turned-cafe [Fritz Coffee Dohwa](/en/posts/seoul-fritz-dohwa) in the same Mapo–Gongdeok area is a good place to finish. Next time I will probably order the doganitang again.
 
 > This is a personal record from visiting over a long stretch of time, so it leans on my own taste more than most write-ups. Others may judge the flavour differently, and prices or hours can shift over time, so please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

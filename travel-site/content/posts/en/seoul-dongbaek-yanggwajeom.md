@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-17
-updated: 2026-10-20
+updated: 2026-11-01
 emoji: 🍮
 thumb: assets/img/seoul-dongbaek-yanggwajeom.jpg
-excerpt: Dongbaek Yanggwajeom is a soufflé pancake café on the hanok street in Ikseon-dong, Jongno, Seoul. Pancakes are baked to order, so expect a wait (as of Aug 2026). On taste alone it's fine, not remarkable, and not cheap; the space is the point, so decide what you came for.
+excerpt: Dongbaek Yanggwajeom is a soufflé pancake cafe in the hanok alleys of Ikseon-dong, Jongno. I waited over 30 minutes on a weekend (as of Aug 2026). The strawberry soufflé pancake tasted fine but felt pricey for its size, and the crowd left little room to relax.
 tags: [Seoul, Jongno, Ikseon-dong, hanok, soufflé pancake, café, dessert]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%B0%B1%EC%96%91%EA%B3%BC%EC%A0%90+%EC%A2%85%EB%A1%9C%EA%B5%AC
 info:
@@ -19,57 +19,34 @@ info:
   - Wait|Cooked to order, so expect to wait (as of Aug 2026)
 ---
 
-A café inside a restored *hanok* — a traditional Korean house — in the Ikseon-dong alleys. The short version: **decide what you're going for before you go.**
+This is about a strawberry soufflé pancake I ate after waiting over 30 minutes on a weekend. In short, this is **a place where you should decide what you are going for before you go.**
 
-## The wait is how this dessert works
+## ⏳ On a weekend I waited over 30 minutes
 
-Soufflé pancakes are **cooked to order, after you sit down.** They cannot be made in advance — a soufflé that has been sitting collapses.
+The soufflé pancake is cooked after you order. If it were made ahead, the rise would collapse, so the wait isn't because the cafe is slow; it is how this dessert works. This time I went on a weekend and waited over 30 minutes. Don't squeeze it into a tight schedule, and set aside time to sit and wait. Going when it opens can shorten the wait.
 
-So the delay isn't the kitchen being slow; it's the mechanics of the dish itself.
+## 🍓 The strawberry soufflé pancake
 
-**Don't slot this into a tight itinerary.** Budget sitting-and-waiting time deliberately.
+A soufflé pancake is made by whipping egg whites and baking them, so it is far fluffier than an ordinary pancake. In the photo, white cream covers a round pancake like a cloud, with a single strawberry and a small leaf on top. Red strawberry sauce runs down from beneath the cream and pools on the plate, and powdered sugar is scattered around the rim. The plate is a classic shape with a red vine pattern around it.
 
-## The soufflé pancakes
+To be honest, the taste is not bad. It comes out soft and perfectly decent. It just wasn't the kind of taste that makes you think, "I have to come back for this."
 
-Honestly: **fine.**
+## 💸 It felt pricey for its size
 
-Not badly made. Soft, competent, pleasant. But not the kind of thing that pulls you back across the city. Go in expecting the best dessert of your trip and it won't land.
+The strawberry soufflé pancake felt expensive for its size. At roughly 10,000–20,000 KRW per person it isn't cheap by café-dessert standards, and judged on taste alone the value is so-so.
 
-## What it looks like
+## 🏯 A hanok space, but not much sense of rest
 
-A white cream covers the round soufflé pancake like a cloud, topped with a single strawberry and a small leaf. Red strawberry sauce runs down beneath the cream and pools on the plate, and powdered sugar is dusted along the rim. The plate is a classic shape ringed with a red vine pattern.
+It is a converted hanok and the feel of the Ikseon-dong alley is fully alive, so the atmosphere is definitely good. But with so many people there, the feeling of relaxing and enjoying yourself was missing. What stands out first here is not the taste but the queue, the photos and the hanok.
 
-## What is a soufflé pancake?
+## 🌐 For visitors
 
-A **soufflé pancake** is made with whipped egg whites, so it comes out much fluffier than an ordinary pancake. It takes time to cook, which is why there is a wait between ordering and serving.
+- It is right beside the Ikseon-dong hanok street, so it fits naturally into an Ikseon-dong stroll
+- It sits in a hanok alley, so the way in is narrow. Big luggage or a stroller is awkward
+- It isn't right if your next appointment is tight. The dessert is cooked after ordering, so leave some slack in your schedule
 
-## It isn't cheap
+## 👥 Alone or as a pair
 
-Around ₩10,000–20,000 per person. For a café dessert in Seoul, that's on the higher side.
-
-**Judged on taste per won alone, the value is unremarkable.** Better to know that now.
-
-## So why is it always full? The building.
-
-**The space is genuinely good.** A converted hanok, with the texture of the Ikseon-dong alleys intact around it.
-
-What stands out here is **the wait, the photos and the hanok** before any talk of flavour. That's the honest profile of the place.
-
-## Bottom line
-
-- ✅ You want to spend an hour inside a hanok in the middle of Seoul
-- ✅ You're here for the photographs
-- ✅ You have time to wait
-- ❌ You're optimising for taste and value
-- ❌ You have somewhere to be soon
-
-As a restaurant, it underwhelms. **As a hanok café, it works.**
-
-## Practical notes
-
-- **Where** — right beside the Ikseon-dong hanok alleys, a short walk from Jongno 3-ga station. Easy to fold into a walk around the neighbourhood.
-- **Opens 9:00 AM** — early for this area. **Arriving at opening is the simplest way to avoid the queue.**
-- **Narrow alleys** — the approach is tight. Awkward with large luggage or a pushchair.
-- **Carrying on to dinner** — [Sigoljip](/en/posts/seoul-sigoljip), in Euljiro's rib alley, is within walking distance if you want LA galbi to close out the day.
+The portion is one you can eat alone, and with two people it is more or less a shared dessert. It suits people going to enjoy the space in the hanok alley, people going to take photos, and people with time to wait, and it may disappoint anyone who puts taste and value first. Approach it as a restaurant and you'll be let down; approach it as a hanok cafe and it is fine. If you want to carry on into the evening, there is a walkable route that ends with LA galbi at [Sigoljip](/en/posts/seoul-sigoljip) in Euljiro's rib alley.
 
 > Written up from a visit of my own. Prices and hours shift often, so anything uncertain is marked **(as of Aug 2026)**.

@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeongdeungpo
 date: 2026-08-26
-updated: 2026-10-20
+updated: 2026-11-01
 emoji: 🍣
 thumb: assets/img/seoul-dorimhang.jpg
-excerpt: Dorimhang Yeongdeungpo is an aged-sashimi restaurant on Yeongjung-ro in Yeongdeungpo, Seoul. The daily aged sashimi platter (small, 39,000 KRW as of Aug 2026) comes with sea urchin and shellfish, plus seaweed and rice so you can build your own sushi. Open 5pm to midnight, closed Sundays; arrive early in the evening.
+excerpt: Dorimhang's Yeongdeungpo branch on Yeongjung-ro serves aged sashimi platters with sea urchin roe. The fish is aged just enough to be pleasantly chewy, and the small size alone was plenty for two. The line grew long while I ate, and the room is loud (5 PM to midnight, closed Sundays, as of Aug 2026).
 tags: [Seoul, Yeongdeungpo, aged sashimi, sashimi platter, sea urchin, uni, seafood, izakaya, queue, Japanese food]
 map: https://www.google.com/maps/search/?api=1&query=%EB%8F%84%EB%A6%BC%ED%95%AD+%EC%98%81%EB%93%B1%ED%8F%AC%EC%A0%90
 lat: 37.5194526
@@ -29,74 +29,45 @@ info:
   - Rating|**4.9** on Google Maps (28 reviews)
 ---
 
-**This is Dorimhang.**
+I went on a weekday evening during a holiday, a little before the after-work rush, and got a seat right away. A little way into the meal, I remember the waiting line had grown enormous. This is Dorimhang's Yeongdeungpo branch.
+
+## ⏰ Get there before the after-work rush
+
+In the evening it fills up right after opening, and on weekends it fills fast even around opening time. On a Friday evening you can wait quite a while even with a remote queue number. It is better to use a **CatchTable reservation**, or on site take a **Tabling remote queue** number and wait nearby. It opens at 5 PM, so you can't go for lunch.
+
+## 🐟 What comes on the table
+
+This isn't a place focused on a single fish; it is a place to taste many things. Several basic sashimi cuts come out like an omakase, together with sea urchin roe (uni) and other seafood you don't often eat. Just listing what comes on one table: tuna, yellowtail, salmon, mackerel, flounder, scallop, shrimp, conch, abalone, octopus, sea urchin roe and flying fish roe. Modum-hoe is an assortment of several kinds of sashimi on a single plate.
 
 ![The full table at Dorimhang — the sashimi platter with rice, seaweed and side dishes](/assets/img/seoul-dorimhang-table.jpg)
 
-## A place for tasting widely
+In the photo, ice is spread over a bamboo basket and filled with sashimi and seafood. The orange mass in the centre is the sea urchin roe, with lemon slices and sprouts alongside. In front, small dishes hold pickled ginger, flying fish roe, wasabi and pickles, and at the top there are white rice, chogochujang, soy sauce, a tofu dish and seaweed.
 
-That is the character of the restaurant. **It does not focus on one fish; it lays out many.**
+## 🍣 Chewy aged sashimi, rolled like sushi
 
-**Like an omakase, a spread of sashimi arrives, together with things you rarely get to eat — sea urchin and assorted shellfish.** The orange lobe in the middle of the photo is sea urchin roe.
+The fish was aged just right, chewy, and went down easily. Rice and seaweed come with it, so you can put rice and sashimi on the seaweed and eat it like sushi, and when you tire of plain sashimi you can change the way you eat. Chogochujang is a sweet-sour, spicy sauce made by mixing gochujang with vinegar, and you dip the sashimi in it.
 
-Count what arrives on one table: tuna, amberjack, salmon, mackerel, flounder, scallop, prawn, whelk, abalone, octopus, sea urchin, flying-fish roe. **The fish itself is good, too.**
+## 🔊 The downside is the noise
 
-**This is not a place you go for one particular thing. It is a place to taste widely across seafood.**
+It is far too loud. Unless I concentrated, I couldn't hear the other person well. Keep this in mind if you want a place for a quiet conversation.
 
-## Move quickly in the evening
+## 👥 The small size was enough for two
 
-**In the evening, unless you move quickly you will not get a table before the first sitting fills.**
+Even the smallest size was plenty for two. It isn't a cheap place, but you can taste many things, so it suits anyone who wants variety over one fish, who wants to try things you don't normally eat like sea urchin roe, or who wants both sashimi and sushi in one sitting.
 
-On weekends it fills up quickly even near opening time, and on a Friday evening you can wait quite a while even with remote queueing.
+## 🏷️ There is a separate main branch
 
-Book through **CatchTable**, or put your name into **Tabling** for remote queueing and wait nearby.
+This post is about the Yeongdeungpo branch. The main branch is at 8 Jowon-ro 4-gil, Gwanak-gu, near Guro Digital Complex, and far more people crowd there. When you navigate, check which one it is.
 
-## What it looks like
+## 🌐 For visitors
 
-A bamboo basket lined with ice is heaped with raw fish and seafood. Red tuna, white-fleshed fish, salmon, shrimp, sea urchin, grilled scallops, and shellfish are layered together, with lemon wedges and sprouts. In front, small dishes hold pickled ginger, flying fish roe, wasabi and pickles, and above are white rice, chili-vinegar sauce, soy sauce, a tofu dish and nori.
+Aged sashimi (suk-seong-hoe) is fish that has been aged for a period after it is caught. It brings out more umami than freshly caught fish.
 
-## Menu words
+- It isn't spicy at all. You dip it in soy sauce and wasabi
+- Sea urchin roe (uni) is creamy and strongly sea-scented. Opinions divide, so try just a little the first time
+- It is raw fish. If you can't eat sashimi, it isn't for you
+- It is closed on Sundays. If you are going on a Sunday, look elsewhere
 
-- **Modum-hoe** is an assortment of several kinds of raw fish gathered on one plate
-- **Eating it sushi-style** means laying fish and wasabi on rice and wrapping it yourself
-- **Chogochujang** is a tangy, spicy sauce of gochujang mixed with vinegar, used for dipping raw fish
-
-## You can build your own sushi too
-
-The photo shows the full table. **Rice and dried seaweed come with it.**
-
-So you can **lay rice and a slice of fish on the seaweed and eat it like sushi.** When plain sashimi starts to feel repetitive, you can switch method — one table, two ways of eating.
-
-## There is a separate main branch
-
-This post is the **Yeongdeungpo branch**. The **main branch is at 8 Jowon-ro 4-gil, Gwanak-gu**, near Guro Digital Complex.
-
-The main branch draws far bigger crowds. **Check which one you are navigating to.**
-
-## If this is your first visit
-
-**Suk-seong-hoe is sashimi aged for a period after the catch.** It gains savoury depth and a softer texture compared with fish served immediately.
-
-- **Not spicy at all.** Dip it in soy sauce with wasabi
-- **Sea urchin roe** is the orange lobe in the middle of the photo. Creamy with a strong sea flavour. Opinions divide sharply — try a little first if it is new to you
-- **Rice and seaweed come with the meal.** Wrapping rice and fish in seaweed is how this place is meant to be eaten
-- **The smallest platter is 39,000 KRW.** This is not a cheap restaurant
-- **It opens at 5:00 PM.** No lunch service
-- **Evenings run long queues.** Booking through CatchTable is advised
-- **This is raw fish.** Not suitable if you do not eat sashimi
-- **Closed on Sundays.** Plan around it
-
-## This suits you well if
-
-- ✅ You want **variety rather than one thing**
-- ✅ You want to try **something you rarely get, like sea urchin**
-- ✅ You want sashimi and sushi in one sitting
-- ✅ **You cannot eat spicy food** — sashimi is not spicy
-- ✅ You have an evening in Yeongdeungpo
-- ✅ If the queue gets too long, [God Eat Mullae](/en/posts/seoul-godeat-mullae) is a fallback in the same Yeongdeungpo area
-- ⚠️ **Move quickly in the evening.** Booking is advised
-- ⚠️ **Opens at 5:00 PM** — no lunch
-- ⚠️ **Closed every Sunday**
-- ⚠️ **Different from the main branch.** Check the address
+If the line is too long and you can't get a seat, you could think of [God Eat Mullae](/en/posts/seoul-godeat-mullae) in the same Yeongdeungpo area as an alternative.
 
 > Written up from a visit of my own. Taste judgements are personal preference. Prices and hours shift often, so anything unconfirmed is marked **(as of Aug 2026)**.

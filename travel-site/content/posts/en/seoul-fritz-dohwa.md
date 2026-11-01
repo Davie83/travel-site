@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: mapo
 date: 2026-09-06
-updated: 2026-10-20
+updated: 2026-11-01
 emoji: ☕
 thumb: assets/img/seoul-fritz-dohwa.jpg
-excerpt: Fritz Coffee's Dohwa branch, near Mapo Station, in an old Western-style house that's been converted. There are plenty of places to eat nearby, so it works to have a proper meal first and then come here for tea and bread as dessert. I don't judge bread with any depth, but I had a croissant and a seasonal ade after eating and left happy. The building itself — a yard, a short flight of steps — is quietly good-looking.
+excerpt: Fritz Coffee's Dohwa branch near Mapo Station, in a converted old Western-style house. A good dessert stop after a meal on Mapo's food streets: I had a croissant and a seasonal ade. It feels a bit hectic when busy, so I suspect a quiet hour is better for lingering.
 tags: [Seoul, Mapo, Dohwa-dong, Mapo Station, Fritz, Fritz Coffee, cafe, dessert, bakery, croissant, pour-over, ade, converted house, Mapo cafe, Seoul cafe]
 map: https://www.google.com/maps/search/?api=1&query=%ed%94%84%eb%a6%b3%ec%b8%a0+%eb%8f%84%ed%99%94%ec%a0%90
 info:
@@ -21,47 +21,33 @@ info:
   - Hours|**weekdays 08:00–22:00 · weekends/holidays 10:00–22:00** (as of Sep 2026)
 ---
 
-A cafe near Mapo Station, in an old Western-style house that's been converted. Of Fritz Coffee's several branches, this is the main one on the Mapo side.
+After a meal on Mapo Station's food streets, Fritz Dohwa is a good place to go for dessert. It is a cafe in a converted old Western-style house.
 
-## Good to drop into after a meal
+## 🏠 A converted Western-style house
 
-The area around Mapo Station is food-street territory, thick with places to eat. This is a good spot to come to afterwards, for a cup of tea and some bread as dessert.
+Fritz (FRITZ) is a well-known specialty coffee roastery in Seoul, with a seal logo, and it sells beans too. The Dohwa branch is the main Mapo location, set in an old Western-style house (a 1970s–80s house built in a European style) in Dohwa-dong, Mapo-gu, so the building alone is worth the visit. Past a tiled gate you reach a small yard and steps, and because the brick and wooden window frames were left as they were, it has an atmosphere a newly built cafe doesn't. In summer, trumpet creeper hangs red over the gate.
+
+In the photo, an old tiled gate stands with a vine of orange flowers stretching along the edge of the roof. On one side of the black-striped stone pillar hangs a "COFFEE COMPANY Fritz" sign, and on the other an address plate for 17 Saechang-ro 2-gil. Through the open gate a brick floor, steps and a small garden continue, and a person can be seen coming down the stairs. They kept the tiled gate as it was and use it as the cafe entrance.
+
+## 🥐 This time: a croissant and an ade
+
+I can't judge bread in any depth. I simply cut into a croissant and had it with a seasonal ade topped with thyme as dessert, and left feeling good. Coffee is the headline here, but I kept it light that day. You can have just bread and an ade, and if you come for dessert, one or two pieces of bread and a drink are plenty.
 
 ![A plate of croissant and pastries, with seasonal ades](/assets/img/seoul-fritz-dohwa-tray.jpg)
 
-I don't judge bread with any depth. I just cut into a croissant and had it with a seasonal ade topped with thyme, as dessert, and left happy. Coffee is what this place is known for, but this visit was a light one.
+## 🤔 The downside is the mood
 
-## The building itself is a converted house
+Even though it isn't a single-storey space, it feels somehow hectic. It is a popular branch, and weekends and afternoons often fill up, so I imagine it would feel more like a place to rest when it isn't crowded.
 
-Through the tiled gate there's a small yard and a short flight of steps. The brick and the wooden window frames have been kept, so it has an atmosphere a newly built cafe doesn't. In summer, trumpet-vine flowers hang red over the gate.
+## 🌐 For visitors
 
-## What it looks like — the entrance
+- You order at the counter and get a number slip (or a buzzer). A little English is understood
+- You don't have to drink coffee. There is bread such as croissants and pastries, and seasonal ades
+- You can also buy beans to take home
+- It is a short walk from Mapo Station (Lines 5 and 6), and Gongdeok Station isn't far either
 
-An old tile-roofed gate stands at the front, with a vine bearing orange flowers climbing over it to the edge of the roof. On the black-striped stone pillars are a "COFFEE COMPANY 프릳츠" sign on one side and the address plate for 17 Saechang-ro 2-gil on the other. Through the open gate you can see brick paving, steps and a small garden, with a person walking down the stairs. The old gate has been kept and used as the cafe's entrance.
+## 👥 Who it suits
 
-## First time here
-
-- **Fritz (FRITZ)** is a well-known specialty coffee roastery in Seoul. The seal logo is its emblem, and it sells beans.
-- The **Dohwa branch** is in Dohwa-dong, Mapo-gu, in a converted old **yangok** — a Western-style house of the 1970s–80s. The building alone is worth the trip.
-- Coffee is the centre of it, but there's **bread — croissants, pastries** — and **seasonal ades**, so you don't have to drink coffee.
-- You order at the counter and take a number (or a buzzer). A little English works.
-- It's a short walk from **Mapo Station** (lines 5 and 6); Gongdeok Station isn't far either.
-
-## This works well if
-
-- ✅ You like the feel of a **cafe made from an old building**
-- ✅ You are in Mapo and want somewhere for **dessert and tea after a meal**
-- ✅ You are interested in specialty **coffee beans** (you can buy and go)
-- ✅ You want a light stop of bread and a drink
-- ⚠️ You expect a quiet, roomy seat — it's a popular branch and often full
-- ⚠️ You are after a real meal — this is a cafe; eat around it
-
-## Before you go
-
-- **Location** — 17 Saechang-ro 2-gil, Mapo-gu, Seoul. Walking distance from Mapo Station.
-- **Ordering** — coffee is the headline, but bread and an ade on their own are fine. Coming for dessert, one or two pastries and a drink is enough.
-- **Seating** — a popular branch; it gets crowded on weekends and afternoons.
-- **A meal first** — if you want something substantial before dessert, [Mapo Yangji Seolleongtang](/en/posts/seoul-mapo-yangji-seolleongtang), a long-time regular spot near the station, is an easy walk too.
-- **Hours** — weekdays 08:00–22:00, weekends/holidays 10:00–22:00 (as of Sep 2026). Check the map or call before you go.
+It suits people who like cafes in renovated old buildings, people looking for tea after a meal in Mapo, and people curious about specialty beans. If you expect a quiet, spacious room you may be let down, and you will need to eat a proper meal nearby. If you want something hearty before dessert, the long-time favourite [Mapo Yangji Seolleongtang](/en/posts/seoul-mapo-yangji-seolleongtang) is also within walking distance.
 
 > Written up from a personal visit. Taste and preference vary by person (I don't assess bread professionally). Hours are **(as of Sep 2026)** — please check the shop's current information once more before you go.

@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: myeongdong
 date: 2026-08-25
-updated: 2026-10-20
+updated: 2026-11-01
 emoji: 🍺
 thumb: assets/img/seoul-tsuruhashi-fugetsu.jpg
-excerpt: The Myeongdong branch of an okonomiyaki house that started in Tsuruhashi, Osaka. Every table has its own hot plate and staff cook it in front of you. Okonomiyaki and a beer on a day off is a hard combination to beat. Mind the 2:30 to 5:00 PM break.
+excerpt: The Myeongdong branch of an okonomiyaki house that began in Tsuruhashi, Osaka. The atmosphere matches the original, though to me the Osaka flagship tasted a little better. Staff grill it at your table, and arriving when your CatchTable turn is near keeps the wait short. Break time is 2:30 to 5:00 PM.
 tags: [Seoul, Myeongdong, okonomiyaki, yakisoba, Japanese food, teppan, beer, Osaka]
 map: https://www.google.com/maps/search/?api=1&query=%EC%AF%94%EB%A3%A8%ED%95%98%EC%8B%9C+%ED%9B%84%EA%B2%8C%EC%B8%A0+%EB%AA%85%EB%8F%99%EC%A0%90
 lat: 37.5628016
@@ -29,72 +29,47 @@ info:
   - Origin|**Tsuruhashi, Osaka.** The brand traces back to "Fugetsu", opened in Tenma, Osaka in 1950
 ---
 
-**You may have seen this okonomiyaki house in Osaka.**
+Having been to the Osaka original as well, I'd put it this way: the Myeongdong branch has **a similar atmosphere, but to me the Osaka one tasted a little better.** Still, it is a perfectly good place for an easy meal with a beer in Myeongdong.
 
-## Cooked in front of you
+## 🥢 Measured against the Osaka original
 
-![Okonomiyaki cooking on the table hot plate, with a rolled omelette beside it](/assets/img/seoul-tsuruhashi-fugetsu-table.jpg)
+The brand traces back to **"Fugetsu", opened in Tenma, Osaka in 1950**, and the branch they later opened near Tsuruhashi Station gave this place its present name. Osaka is of course the flagship, and I have been there too. The atmosphere was similar. Even if they use the same ingredients, I felt the Osaka one tasted better. It isn't identical but the flavour is close, and I think it holds up well for an overseas branch.
 
-I went once around the Covid period on a sudden craving and found it temporarily closed. **It is open and running normally now.**
+## 🔥 They grill it in front of you, but it takes time
 
-**Every table has a built-in hot plate and the staff cook on it in front of you.** You do not have to flip anything yourself.
+Okonomiyaki is an Osaka-style savoury pancake of cabbage and batter with meat or seafood, cooked on a hot plate and topped with sauce. Every table has its own hot plate and **the staff cook it in front of you.** You don't have to flip it yourself, but it takes a while to come off the plate.
 
-The photos show the sequence.
+![Okonomiyaki cooking on the table hot plate, with a bean-sprout roll beside it](/assets/img/seoul-tsuruhashi-fugetsu-table.jpg)
 
-1. The batter and shredded cabbage land on the plate in a tall mound
-2. It gets pressed down and shaped into a round
-3. Sauce and mayonnaise go on, finished with bonito flakes
+The photo shows the sequence.
 
-The thing buried under bonito flakes at the top of the photo is a rolled omelette we ordered alongside.
+1. The batter and cabbage go onto the plate in a heap
+2. It is pressed flat into a round
+3. Sauce and mayonnaise go on, and it is finished with bonito flakes
 
-## What it looks like
+The item buried under bonito flakes at the top of the photo is the bean-sprout roll we ordered alongside. The first stage looks like this: a mountain of thinly shredded cabbage on the plate, with pink pieces of meat showing between the strands. Behind the plate stands a glass with the same brand marking as an Asahi Super Dry bottle, and a spatula for the plate is visible on the right.
 
-On the iron griddle, finely shredded cabbage is piled high like a small mountain, with pink pieces of meat showing between the strands. This is the stage before the batter is added, the first step of the cooking done in front of you. Behind the griddle stand a bottle of Asahi Super Dry and a glass printed with the same brand, with a griddle spatula at the right. A vent runs along one corner of the griddle.
+## 🍺 It goes best with a daytime beer
 
-## Menu words
+On a day off, okonomiyaki and a beer at lunch makes me happy. It isn't a place for great gastronomy; it is **the kind of food that suits daytime drinking best**, and with a bottle of Asahi the picture is complete.
 
-- **Okonomiyaki** is an Osaka-style savory pancake of cabbage, batter, and meat or seafood cooked on a griddle and brushed with sauce
-- A **teppan** is a thick iron griddle on which food is cooked in front of guests
+## 👥 Two people is just right
 
-## A daytime beer, and the Osaka original
+This time I ordered the bean-sprout roll with the okonomiyaki. I felt that two people is just right. It suits anyone who wants a daytime beer with easy food, a light meal on a Myeongdong day, or a taste of what they ate in Osaka. Keep in mind that the cooking takes time and it isn't exactly the same as the Osaka original.
 
-**Okonomiyaki and a beer at lunch on a day off puts me in a genuinely good mood.**
+## ⏰ Break time and the wait
 
-That is the most accurate sentence I can write about this place. You do not come here for high gastronomy. This is **the kind of food that goes with a daytime drink** — okonomiyaki is closer to a good beer snack than a serious meal. Add a bottle of Asahi and the picture is complete.
+It is in the middle of Myeongdong, on the **second floor of the Haeam Building**, and you have to go up from the ground floor, so don't walk past the sign. There is a break time, so a late lunch won't work. A line tends to form from opening, so it is better to use **CatchTable**. This time I wandered around Myeongdong and went when my CatchTable turn was close, so there was almost no wait. If the line is too long, you could walk toward Namdaemun Market and try [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), which opens only at weekday lunch.
 
-The head restaurant is, of course, **in Osaka**, and I have eaten at it. **It is not identical. But it does taste close.** For an overseas branch, I think they hold the standard well.
+## 🌐 For foreign visitors
 
-The brand traces back to **"Fugetsu", opened in Tenma, Osaka in 1950**; the branch later opened by Tsuruhashi Station became the name it carries today.
+**Okonomiyaki is a Japanese savoury pancake.** It isn't Korean food, but it is an easy meal in Myeongdong, so I'm noting it here.
 
-## Before you go — the break, and the queue
-
-It sits in the middle of Myeongdong, on the **2nd floor of the Haeam Building**. You have to go up from street level, so do not walk past looking for a ground-floor entrance.
-
-1. **There is a mid-afternoon break, 2:30 to 5:00 PM.** Turning up for a late lunch is an easy way to waste the trip
-2. **There is a queue.** A line forms from the 11:30 AM opening. **Booking through CatchTable** is the better plan
-
-If the wait looks too long, walking on toward Namdaemun Market gets you to [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), a weekday-lunch-only sashimi set that works as a backup plan.
-
-## For international visitors
-
-**Okonomiyaki is a Japanese savoury pancake.** It is Japanese rather than Korean food, but it is an easy, comfortable meal in the middle of Myeongdong, so it is worth noting.
-
-- **Not spicy at all.** Safe if you cannot eat chili
-- **You cut it with a small spatula**, not chopsticks, and move each piece to your plate
-- **The hot plate is very hot.** Watch the seating if you have children with you
-- **It is a wheat-flour batter.** Not suitable if you avoid gluten
-- **Bonito flakes and the sauce contain fish and seafood.** Ask before ordering if you are vegetarian
-- **Menu names stay Japanese** — okonomiyaki, yakisoba
-- **Asahi** is on the beer list
-
-## Go if
-
-- ✅ You want **a beer in the daytime** and something easy to go with it
-- ✅ You need **a straightforward meal** during a Myeongdong day
-- ✅ You are curious how it compares to the Osaka original
-- ✅ **You want to avoid spicy food** — the menu is not spicy, so no worries
-- ⚠️ **Break 2:30 to 5:00 PM** — a late lunch will not work
-- ⚠️ The wait is long. Book ahead
-- ⚠️ It is **not exactly the same** as the Osaka original
+- **It is not spicy at all.** It is safe even if you can't eat chilli
+- The tool for cutting it is a small spatula. You cut it with that instead of chopsticks and move it to your plate
+- The hot plate is very hot. Choose seats carefully if you have a child
+- The batter is made with wheat flour, so it isn't suitable if you avoid gluten
+- The bonito flakes (dried bonito) and the sauce contain fish and seafood. If you are vegetarian, check before ordering
+- Menu names are used in Japanese — okonomiyaki, yakisoba. Asahi beer is available
 
 > Written up after eating there myself. The taste judgement carries my own preference. Prices and hours change often, so anything unconfirmed is marked **(as of Aug 2026)**.

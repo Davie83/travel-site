@@ -4,9 +4,10 @@ cat: travel
 region: seoul
 area: gwangjin
 date: 2026-08-27
+updated: 2026-11-02
 emoji: 🦭
 thumb: assets/img/seoul-childrens-grand-park.jpg
-excerpt: A large park in central Seoul where the zoo is free too. No ticket, no booking. Worth an hour with the family if your route takes you past it. The botanical garden is closed for renovation, and the rides cost extra.
+excerpt: Seoul Children's Grand Park is a big park where even the zoo is free. I went on a weekday in spring when it wasn't crowded, and a sea lion (or seal) that seemed to follow my gestures and words was the highlight. It suits kids and couples alike; the botanical garden is closed for renovation and the rides cost extra.
 tags: [Seoul, Gwangjin, Konkuk University, Children's Grand Park, park, zoo, botanical garden, family, free, walk, with kids, sights]
 map: https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%8C%80%EA%B3%B5%EC%9B%90
 lat: 37.5493605
@@ -26,92 +27,47 @@ info:
   - Time needed|**1 to 2 hours** at an easy pace; half a day to see everything
 ---
 
-**A place in the middle of Seoul where you can see animals for nothing.**
+I went on a weekday in spring, and it was nice that it wasn't very crowded. It is a place in the middle of Seoul where even the zoo is free to enter.
 
-Seoul has several large parks, but **very few of them come with a zoo** — and fewer still let you walk in without paying.
+## 🌸 A weekday in spring was quiet
 
-## Free on this scale is rare in Seoul
+I went on a weekday in spring, and with few people around it was good for walking. Seoul has several big parks, but few that include a zoo, and this one lets you in without an entrance fee. A light walk takes one to two hours, and seeing everything takes half a day. The zoo seems like an ideal place for a stroll, and I had nothing to complain about.
 
-This is the most important part of the article.
+## 🦭 The animal that seemed to understand my gestures
 
-**Admission to the park and the zoo is zero.** No ticket to buy, nothing to reserve, no queue to stand in. You walk in through the front gate.
+What impressed me most was the animal in the photo. I don't remember exactly whether it was a sea lion or a seal, but it seemed to understand my gestures and words, which I found remarkable. There are big animals such as tigers, lions, seals, sea lions, monkeys, giraffes and elephants, as well as birds and small animals. It isn't a world-class zoo, so if the zoo is your goal, Seoul Grand Park in Gwacheon is much larger. But it sits right by a subway station and is free, which makes it a perfect quick stop on your way. The zoo closes earlier than the park, so to see animals get in by 4 PM at the latest.
 
-Most of Seoul's well-known sights charge for entry — the palaces, the observation decks, the theme parks. **Here the zoo is included and the whole thing is free.**
+## 🆓 A day with a zero-won entry fee
 
-For a traveller that is a bigger benefit than it first sounds.
+Entry to both the park and the zoo costs 0 won, and you don't have to buy a ticket, book ahead or queue. Most of Seoul's famous places charge, but here even the zoo is entirely free.
 
-- **A family of four still pays zero.** Places where the cost does not climb with the headcount are not common
-- **You cannot lose on it.** Leave after thirty minutes and nothing is wasted. Had you paid, you would have walked further out of stubbornness
-- **It needs no planning.** No booking and no pressure about opening slots, so you drop in when a gap appears
-- **If it rains you simply skip it.** Not an option once a ticket is bought
+- A family of four still pays 0
+- Leaving after 30 minutes doesn't feel like a waste, and if it rains you can simply call it off
+- There's no booking or watching opening hours, so if your schedule has a gap you can just drop in
 
-Admission fees add up quietly over a trip. **Building in one day where that line reads zero** makes the wallet easier.
+The rides inside the park cost extra, around 30,000 KRW for an adult all-day pass (as of Aug 2026). That is separate from the entry.
 
-## There are animals
-
-As the fur seal in the photo suggests, there is a fair amount to look at.
-
-Tigers, lions, sea lions, fur seals, monkeys, giraffes and elephants, down through birds and smaller animals. **This is not a world-class zoo,** and it is only fair to say so. If seeing a zoo is the actual goal, Seoul Grand Park in Gwacheon is far bigger.
-
-But under the condition of **"a short stop on the way past,"** it is a different proposition. The subway station is at the gate, it costs nothing, and a full loop takes an hour or two.
-
-**The zoo closes at 5:00 PM.** The park itself stays open until ten, but the animals do not. If you are going for them, **be inside by four at the latest.**
-
-## The botanical garden is currently closed
+## 🌿 The botanical garden is closed for now
 
 ![The botanical garden at Children's Grand Park — currently closed for renovation](/assets/img/seoul-childrens-grand-park-garden.jpg)
 
-The building in the photo is the botanical garden. **You cannot go in at the moment.**
+The building in the photo is the botanical garden, and you can't go in right now. Renovation began on 27 May 2026, and it is due to reopen in the second half of 2027. Built in 1973, the building is more than 50 years old and is getting a full overhaul, keeping the greenhouse frame but turning the middle into a single storey, as I understand it. The flower beds in the photo are the garden in front of it, and are part of the work too. If you're going now, don't expect the botanical garden. The park itself is wide and has many trees, which makes it plenty good for walking.
 
-**Renovation began on 27 May 2026, with reopening planned for the second half of 2027.** The building dates from 1973, so after more than fifty years it is being rebuilt: the greenhouse frames on either side are being kept and reinforced, while the two-storey centre becomes a single storey.
+## 🚇 Getting there
 
-**If you are going now, do not count on the botanical garden.** The flower beds in the photo are the garden in front of it and fall inside the same works. The park itself is wide and well planted, so there is still plenty to walk through.
+The subway is the easiest. Exit 1 of Children's Grand Park Station on Line 7 is exactly what the name says: step out and you're at the main gate. Exit 4 of Achasan Station on Line 5 leads to the rear gate side. It is one stop from Konkuk Univ. Station on Line 7, so playing in the park and having dinner around Konkuk Univ. is a natural pairing.
 
-## Getting there
+## 🧒 Good with kids, good with a partner
 
-The subway is easiest.
+It is good with children and good as a date. It suits families who need somewhere for a tired child to run around, anyone with a gap in their schedule and something to do around Konkuk Univ. or Seongsu, and people who want to stop for a rest on a bench or in shade while walking. You don't need to come to Seoul just for this; it is useful when it happens to be on your route. It's mostly outdoors, so I don't recommend it on rainy days.
 
-- **Line 7, Children's Grand Park Station, Exit 1** — the station is named after the park, and the main gate is right there
-- **Line 5, Achasan Station, Exit 4** — for the back gate
+## 🌐 If you're visiting from abroad
 
-**It is one stop from Konkuk University Station on Line 7.** Konkuk is known for eating and a young crowd, so **the park in the afternoon and Konkuk for dinner** is a natural pairing.
+Seoul Children's Grand Park is a free park run by the Seoul Facilities Corporation. "Children's" is in the name, but it is no problem to go with adults only.
 
-## Who it suits
-
-Honestly: **this is not a reason to come to Seoul.**
-
-The reason to write about it is different. It earns its place **when your route already takes you past.**
-
-- **Families travelling with children** — first and foremost. At some point on a trip a child needs somewhere to run
-- **A gap between plans** — if you have something in Konkuk University or Seongsu, it is one or two stops away
-- **A rest in the middle of a walk** — there are benches and shade
-- **Not on a rainy day** — nearly all of it is outdoors
-
-## If you're visiting from abroad
-
-**Seoul Children's Grand Park is a free public park run by the city of Seoul.** The name says "children," but **adults on their own are perfectly welcome.**
-
-- **There is no admission fee (zero).** Both park and zoo are free, and no ticket or booking is involved
-- **The park is open from 5:00 AM to 10:00 PM**
-- **The zoo runs 10:00 AM to 5:00 PM.** Time your visit around this if you want the animals
-- **The botanical garden is closed for renovation**, with reopening expected in late 2027
-- **The rides are charged separately** and are not covered by park entry. The freepass runs around 30,000 KRW for adults (as of Aug 2026)
-- **Line 7 takes you to the gate.** The station shares the park's name, so it is hard to miss
-- **One to two hours** is enough for an easy loop
-- **Think about shade in summer and wind in winter.** Most of it is open air
-- There are kiosks inside, but **a proper meal is better found around Konkuk University**
-
-## Especially good for
-
-- ✅ You are **travelling with children**
-- ✅ You want an hour or two **without spending anything** — admission is zero
-- ✅ You have plans around **Konkuk University, Seongsu or Gwangjin**
-- ✅ You want **a short walk and a sit down** in the middle of the city
-- ✅ You like animals but **are not expecting a great deal**
-- ✅ You're also working other Seoul food spots into the trip — [Daewoo Budae-jjigae](/en/posts/seoul-daewoo-budaejjigae) over in Gangnam is nowhere near this park, but it's a fine separate stop elsewhere in the city
-- ⚠️ **The botanical garden is closed** (reopening expected late 2027)
-- ⚠️ **The zoo shuts at 5:00 PM**
-- ⚠️ For a serious zoo, **Seoul Grand Park in Gwacheon** is far larger
-- ⚠️ **Not recommended in the rain** — it is mostly outdoors
+- The park is open from 5 AM to 10 PM, and the zoo closes earlier than that
+- The botanical garden is currently closed for renovation
+- Think about shade in summer and wind in winter. It is mostly outdoors
+- There are kiosks inside the park, but a proper meal is better around Konkuk Univ. Station
 
 > Written up from a visit of my own. Opening hours and the state of the facilities can change, so check the Seoul Facilities Corporation notices once more before you go. Fees and hours are **(as of Aug 2026)**.

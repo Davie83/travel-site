@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: namdaemun
 date: 2026-08-27
-updated: 2026-10-20
+updated: 2026-11-02
 emoji: 🍝
 thumb: assets/img/seoul-szimpatikus.jpg
-excerpt: Szimpatikus Seoul Station is a Western restaurant on the ground floor of Grand Central, right outside Seoul Station in Jung-gu, Seoul. The signature is bracken and brisket pasta (23,500 KRW as of Aug 2026), Korean ingredients rebuilt as Western food. There is an afternoon break from 3 to 5pm.
+excerpt: Szimpatikus Seoul Station is a Western-style restaurant on the first floor of Grand Central, right by Seoul Station. The bracken and brisket pasta, with moderate seasoning, was completely unlike any pasta I had eaten before. I booked and was seated straight away, and four people can try a good range here (23,500 KRW, break time 3–5 PM, as of Aug 2026).
 tags: [Seoul, Myeongdong, Namdaemun, Seoul Station, pasta, Western, fusion, bracken fern, beef brisket, wine, steak, risotto]
 map: https://www.google.com/maps/search/?api=1&query=%EC%8B%AC%ED%8D%BC%ED%8B%B0%EC%BF%A0%EC%8B%9C+%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%90
 lat: 37.5578577
@@ -29,67 +29,29 @@ info:
   - Rating|**4.5** on Google Maps
 ---
 
-**Western food built out of Korean ingredients.**
+I booked ahead and was seated straight away. It was around a weekday Thursday, and this is my second visit (I have been to the Gwanghwamun branch too).
 
-The name will look unfamiliar. **Szimpatikus** is Hungarian for "likeable," and Koreans say it as *sim-peo-ti-ku-si*.
+## 🍝 Nothing like the pasta I had eaten before
 
-## The bracken and brisket pasta
+**This is a place that turns Korean ingredients into Western food.** The name is unfamiliar: SZIMPATIKUS is Hungarian for "likeable," and it is read "shim-pa-ti-ku-si." The reason to come is the bracken and brisket pasta. The seasoning is moderate, and it was completely unlike the pasta I had tasted before, which made it feel new. It is a combination that's hard to find elsewhere.
 
-This is the reason to come. **The combination is hard to find anywhere else.**
-
-Two things sit on top of the noodles in the photo.
-
-**Chadol-baegi** — a thin cut of beef brisket. Koreans normally grill it. Here it is seared hard over high heat to pick up a smoky char before it goes on the plate. The pieces curled crisp at the edges are the brisket.
-
-**Gosari** — the dark brown tangle on the left of the photo. It is **bracken fern**, gathered on mountainsides, dried, rehydrated and stir-fried. In Korea it is a completely ordinary vegetable, one of the standard toppings on bibimbap and a fixture of memorial-rite food. **Almost nobody puts it on pasta.**
-
-Then there is **perilla oil**, pressed from perilla seeds. It is nutty in a way sesame oil is not. Bracken and perilla oil are an old Korean pairing, and this dish moves that pairing onto pasta without changing it.
-
-**The result is Western food that tastes Korean.** That is meant as a compliment — it does not sit awkwardly between the two, and the ingredients genuinely belong together.
+Two things sit on the yellow noodles in the photo. **Chadol-baegi** is thinly sliced beef from the chest area, normally grilled in Korea. Here it is seared over high heat to take on a smoky char, and the pieces with crisp curled edges in the photo are it. **Gosari** is the dark brown clump on the left of the photo: bracken fern picked in the mountains, dried, rehydrated and stir-fried. It is a very familiar namul in Korea, used in bibimbap and ritual dishes, yet hardly any restaurant puts it on pasta. On top comes **perilla oil** (deulgireum), pressed from perilla seeds, and bracken and perilla oil are an old pair in Korea. The pair is carried straight into pasta, and the result is Western food with a Korean taste. That isn't meant badly; it isn't halfway in either direction, and the ingredients fit together.
 
 ![The table — ribs in the centre, the bracken and brisket pasta at the top right](/assets/img/seoul-szimpatikus-table.jpg)
 
-## What it looks like
+The plate is a round stone dish, with thin spaghetti coiled like a nest. Crisp-seared chadol-baegi and meat torn along the grain are heaped on top, and the noodles are soaked in a green herb sauce. Sliced scallion is sprinkled over the top and also scattered across the bottom of the plate. The meat is a deep brown and crisp on the outside, with white fat visible at the edges.
 
-On a round stone plate, thin spaghetti is coiled like a nest, topped with a heap of crisp-seared chadolbaegi and meat pulled apart along the grain. The noodles are tinted with a green herb sauce, with sliced scallion scattered on top and more across the plate. The beef is crisped to a deep brown on the outside, with white fat visible at the edges. The tip of a tong-like tool rests lightly over the top of the plate.
+## 👥 Four people is the right number
 
-## Menu words
+Four people works well. You can order a range of dishes and enjoy the Western food made with this place's own new recipes. To be honest, it isn't a rave, but it is a place that doesn't disappoint on any count. The signature is clearly good and the rest is above average, and the space is wide, bright and clean, with visible care for the plates and glasses. Pasta is 21,000–23,500 KRW, which is reasonable for a space of this standard (as of Aug 2026).
 
-- **Chadolbaegi** is thinly sliced beef brisket with a rich, fatty flavor
-- **Spaghetti** is thin, rod-shaped Italian pasta
-- **Gosari** is bracken fern, used in Korean seasoned vegetable dishes. It is an ingredient named in the dish
+## 🥢 When you've had enough Korean food
 
-## Above average all round, and reasonably priced
+When you come to Korea you usually look for Korean food, and that's natural. But Korean-style Western food is a different story: it wasn't simply imported but remade for Korean ingredients and tastes, and bracken, pollock roe and thick-cut ribs on pasta and risotto are examples. Around day three or four of a trip you tend to tire of Korean food. Instead of fleeing to a totally different country's food, try this half-Korean Western food and the trip gets more fun.
 
-To be honest about it: **this is not a once-in-a-lifetime restaurant.** What it is, is **a place that does not disappoint you on any single count.**
+## 📍 In front of Seoul Station, six branches
 
-- **Food** — the signature dish is genuinely good, and the rest is above average
-- **Room** — wide, bright, clean. Somebody clearly thought about the plates and the glassware
-- **Price** — pasta runs 21,000 to 23,500 KRW, which is reasonable for a room like this
-
-That makes it **a safe place to bring anyone.** It is a slight waste to eat here alone; two or four people is the right size.
-
-## A break from Korean food, without leaving it behind
-
-People come to Korea and look for **Korean food**. Of course they do.
-
-But **Korean Western food** is a separate story. Western cooking was not simply imported here — it was **rebuilt around Korean ingredients and Korean palates.** Bracken, pollack roe and short rib turning up on pasta and risotto is exactly what that looks like.
-
-**There comes a point in a trip when you have had enough Korean food.** Usually around day three or four. Rather than fleeing to some entirely different cuisine at that moment, **eating something half-Korean like this** makes the trip more interesting, not less.
-
-It also **is not spicy at all**, which on its own is reason enough for some visitors.
-
-## The location, and the other branches
-
-It is on the **ground floor of Grand Central, directly outside Seoul Station** — a three-minute walk.
-
-For a traveller that matters.
-
-- **The AREX airport line runs straight to Incheon Airport from here.** Good for a last meal before flying out
-- **You can eat unhurried before a KTX departure**
-- **Namdaemun Gate is a 3-minute walk**, Namdaemun Market 10 minutes, Myeongdong 15
-
-If Namdaemun Market is on your route, [Maknae Hoejip](/en/posts/seoul-maknae-hoejip) and its weekday-lunch-only sashimi set is worth folding into the same walk.
+It's on the first floor of Grand Central, right in front of Seoul Station, a 3-minute walk. It connects directly to Incheon Airport by the AREX airport line, so it works as a last meal before flying home, and you can eat unhurried before boarding the KTX. Sungnyemun (Namdaemun) is a 3-minute walk, Namdaemun Market 10 minutes and Myeongdong 15. If you walk on to Namdaemun Market, [Maknae Hoejip](/en/posts/seoul-maknae-hoejip), which serves its sashimi set only at weekday lunch, also fits the same route.
 
 Besides Seoul Station there are **six branches in total**, including one at Gwanghwamun.
 
@@ -102,42 +64,20 @@ Besides Seoul Station there are **six branches in total**, including one at Gwan
 | **Seongsu** | 6 Achasan-ro 3F, Seongdong-gu |
 | **Eastpole** | 402 Achasan-ro 2F, Gwangjin-gu |
 
-**Prices differ slightly between branches.** The bracken and brisket pasta is 23,000 KRW at Seongsu and 23,500 at Seoul Station and Yeouido. The menus vary a little too, so check the branch you are actually going to.
+Prices differ slightly by branch. The bracken and brisket pasta is 23,000 KRW at Seongsu and 23,500 at Seoul Station and Yeouido, and menus vary a little, so check the branch you're going to.
 
-## Before you go — the break, and booking
+## 🗓️ Before you go
 
-**They close from 3:00 to 5:00 PM.**
+The break is from 3 to 5 PM, so if you go thinking of a late lunch you'll make a wasted trip. Get in before 2:30 or plan for after 5. Weekends and evenings fill up, so I recommend a CatchTable reservation.
 
-Turn up thinking of it as a late lunch and you will find the door shut. **Get in before half past two, or plan for after five.**
+## 🌐 For visitors
 
-**Last order is 9:00 PM** and the door closes at ten.
+- Chadol-baegi is beef, so it suits people who avoid pork. The gosari is dried, rehydrated and stir-fried, soft and slightly chewy with a deep, earthy-ish flavour
+- Perilla oil (deulgireum) has a strong nutty aroma and is the central scent of this pasta
+- It isn't spicy at all. Only the chilli-oil pollock roe cream pasta has a little heat
+- Vegetarians will struggle. The signature contains beef and most other dishes are meat or seafood
+- There tends to be an English menu, and photos make choosing easy
 
-Evenings and weekends fill up. **CatchTable takes reservations.**
-
-## Notes for visitors
-
-**Bracken and brisket pasta (chadol-gosari pasta) is the signature dish** — two Korean ingredients served on pasta.
-
-- **Chadol-baegi is a thin cut of beef brisket**, seared for a smoky char. It is beef, so it works if you avoid pork
-- **Gosari is bracken fern**, a mountain vegetable. Dried, soaked, then stir-fried. Soft with a slight chew and a deep, faintly earthy flavour. Koreans meet it most often in bibimbap
-- **Perilla oil (deulgireum) is pressed from perilla seeds** and smells strongly nutty. It is the central aroma of this dish
-- **Nothing here is spicy.** Fine if you cannot handle chilli
-- **Vegetarians will struggle.** The signature contains beef, and most other dishes are meat or seafood
-- **Three minutes on foot from Seoul Station**, with a direct airport rail link to Incheon
-- **Check the 3:00 to 5:00 PM break**
-- **An English menu is generally available**, with photographs, so ordering is not difficult
-
-## Come here if
-
-- ✅ You are curious about **Western food made from Korean ingredients**
-- ✅ You have **had enough Korean food for a moment**
-- ✅ You **cannot eat spicy food** — nothing here is
-- ✅ You are **catching a train or the airport line at Seoul Station**
-- ✅ You want a **clean, comfortable room** for two or four
-- ✅ You would like wine with dinner
-- ⚠️ **Break from 3:00 to 5:00 PM**
-- ⚠️ **Difficult for vegetarians**
-- ⚠️ **Book ahead** for evenings and weekends
-- ⚠️ **Prices and menus differ slightly by branch**
+It suits anyone curious about Western food made with Korean ingredients, travellers who've briefly tired of Korean food, people who can't eat spicy food, and those about to take a train or the airport line from Seoul Station. Keep in mind that prices and menus vary a little by branch.
 
 > Written up after an actual visit. Judgements about taste are personal. Prices and opening hours change often, so anything uncertain is marked **(as of Aug 2026)**.

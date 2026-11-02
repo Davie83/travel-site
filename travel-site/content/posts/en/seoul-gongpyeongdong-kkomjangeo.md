@@ -7,7 +7,7 @@ date: 2026-08-23
 updated: 2026-11-02
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
-excerpt: Gongpyeongdong Kkomjangeo's first direct-run branch is a hagfish grill 2–5 minutes' walk from Jonggak Station. The food has no fishy smell; the unfamiliar part is the springy chew, so start with the mild salt-grilled version. The grill smoke clings to clothes and the seating is pojangmacha-style, with two or four people about right.
+excerpt: Gongpyeongdong Kkomjangeo's first direct-run branch is a hagfish grill 2–5 minutes' walk from Jonggak Station. The food has no fishy smell; the unfamiliar part is the springy chew, so start with the mild salt-grilled version. The smell of food grilled over fire clings to clothes and the seating is pojangmacha-style, with two or four people about right.
 tags: [Seoul, Jongno, Gongpyeongdong, Jonggak, hagfish, kkomjangeo, grilled, soju, late night]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 info:
@@ -38,7 +38,7 @@ Two or four people is about right. Note that many people order the baby octopus 
 
 ## 👃 The downsides are the smell and the seating
 
-The grilling smell gets into your clothes. The seating is pojangmacha-style, so it isn't comfortable, but it is tolerable. If you have another appointment right after the meal, keep this in mind.
+It isn't a hagfish smell but the smell of food grilled over a fire, and it gets into your clothes. The seating is pojangmacha-style, so it isn't comfortable, but it is tolerable. If you have another appointment right after the meal, keep this in mind.
 
 ## 🕛 Open late, even on Sundays
 

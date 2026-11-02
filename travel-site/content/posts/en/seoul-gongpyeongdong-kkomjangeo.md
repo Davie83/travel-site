@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: jongno
 date: 2026-08-23
-updated: 2026-10-20
+updated: 2026-11-02
 emoji: 🔥
 thumb: assets/img/seoul-gongpyeongdong-kkomjangeo.jpg
-excerpt: Gongpyeongdong Kkomjangeo's No. 1 direct-run shop is a grilled hagfish restaurant two minutes from Jonggak Station in Jongno, Seoul. There is no fishy smell; what is unfamiliar is the springy, chewy texture, so start with the salt-grilled version, which is not spicy at all. Open every day, until midnight on weekdays (as of Aug 2026).
+excerpt: Gongpyeongdong Kkomjangeo's first direct-run branch is a hagfish grill 2–5 minutes' walk from Jonggak Station. The food has no fishy smell; the unfamiliar part is the springy chew, so start with the mild salt-grilled version. The grill smoke clings to clothes and the seating is pojangmacha-style, with two or four people about right.
 tags: [Seoul, Jongno, Gongpyeongdong, Jonggak, hagfish, kkomjangeo, grilled, soju, late night]
 map: https://www.google.com/maps/search/?api=1&query=%EA%B3%B5%ED%8F%89%EB%8F%99%EA%BC%BC%EC%9E%A5%EC%96%B4+%EC%A7%81%EC%98%811%ED%98%B8%EC%A0%90
 info:
@@ -22,63 +22,35 @@ info:
   - Nearest station|**Jonggak Stn.** (Line 1), 2-5 min walk from exit 4
 ---
 
-This is the dish Koreans think of **when they want soju.** Not everyday food — food for that particular kind of evening.
+I went on a weekday at around the after-work hour, and luckily there was a seat. Kkomjangeo is the snack that comes to mind when you crave soju. It isn't something you eat any day; you think of it on exactly that kind of day.
+
+## 🧂 I like the salt-grilled, but I end up trying the marinated too
+
+I like the **salt-grilled** version. It is cooked with only salt and no marinade, alongside oyster mushrooms and rice cake, and since leaving out the marinade lets the taste and texture of the hagfish itself come through, this is the right one for a first time. Still, when I go I end up trying the marinated one too. Friends say the marinated version is good as well and order it, and ordering both and splitting them is an option. I didn't notice anything especially different this day.
 
 ![The spicy-marinated version at Gongpyeongdong Kkomjangeo — red chilli marinade with garlic scapes, grilled alongside rice cake and mushrooms](/assets/img/seoul-gongpyeongdong-kkomjangeo-table.jpg)
 
-## What kkomjangeo is
+The red one in the photo is the marinated version, grilled with garlic scapes in a spicy stir-fry style. On the wire grill the marinated pieces, thickly sliced meat, mushrooms and big rice cakes all sit together, with the red-marinated meat gathered on the right and at the top. White rice-cake logs lie in the centre, and mushrooms with scorch marks are visible. Beside the grill a small sauce dish, rice and a yellow side dish are set out. On the marinated side the rice cake soaks up the sauce and is delicious on its own.
 
-**Hagfish.** Eel-shaped but a different animal, and in Korea it is grilled at the table as drinking food. It is a Busan speciality that spread nationwide.
+## 👥 Two or four people, and many order the baby octopus too
 
-**It is worth trying once.** And to get the two worries out of the way:
+Two or four people is about right. Note that many people order the baby octopus (jjukkumi) too.
 
-- **There is no off smell.** Nothing fishy or muddy. This is the thing people expect and it is not there
-- **The texture is what is unfamiliar.** It is **springy and firm, with real chew.** If you expect soft fish you will be surprised — it is closer to squid or tripe. Whether you enjoy that is the whole question
+## 👃 The downsides are the smell and the seating
 
-## What it looks like
+The grilling smell gets into your clothes. The seating is pojangmacha-style, so it isn't comfortable, but it is tolerable. If you have another appointment right after the meal, keep this in mind.
 
-On the wire grill, seasoned grill ingredients, thick-cut meat, mushrooms and big pieces of rice cake are all piled together. The meat tossed in red seasoning gathers to the right and top, and chunks of white tteok sit in the middle. Mushrooms with grill marks are also visible, and next to the grill you can make out a sauce dish, a rice dish and something yellow that looks like a side.
+## 🕛 Open late, even on Sundays
 
-## Menu words
+This is the practical strength of the place. On weekdays it stays open until around midnight, so it works as a second or third stop, and it opens on Sundays too. On Saturday it starts in the afternoon, so it is closed in the morning (as of Aug 2026). It is a 2–5 minute walk from Exit 4 of Jonggak Station, which sits on the Gwanghwamun–Insadong route. If you want a hearty dinner first, you could eat LA galbi at [Sigoljip](/en/posts/seoul-sigoljip) in Euljiro's rib alley, in the same Jongno area, and then move on here for round two.
 
-- **Kkomjangeo** refers to hagfish, usually seasoned and grilled
-- **Sogeum-gui** means grilled with only salt, without a marinade
-- **Tteok** is rice cake, grilled and dipped in sauce
+## 🌐 For visitors
 
-## Order the salt version first
+- Kkomjangeo means hagfish. It looks like an eel but is a different species, and in Korea it is grilled and eaten with drinks
+- The food itself has no fishy or earthy smell. What is unfamiliar is the texture: springy and chewy, so it is completely different if you expect soft fish flesh. It is closer to squid or intestines in chew
+- Salt-grilled (sogeum-gui) is grilled with just salt and isn't spicy at all. If you can't eat spicy food, order the salt-grilled; the marinated one has heat
+- You grill it yourself. When the staff set it on the grill you flip and cook it as you go, and if it's your first time you can ask the staff. Tteok is rice cake, grilled and dipped in the sauce
 
-I prefer the **salt-grilled** one — no marinade, just salt, grilled with oyster mushrooms and rice cake.
-
-Without a marinade you taste the fish itself and feel the texture directly. For a first time, this is the right choice.
-
-**The spicy marinated version is well liked too.** That is the red one in the photo, with garlic scapes, grilled almost like a stir-fry. People I go with order this one happily. Getting both and splitting them works.
-
-Rice cake and mushrooms go on the grill too. On the spicy side the rice cake soaks up the marinade and becomes its own thing.
-
-- **The salt version is not spicy.** If you cannot handle chilli, order that one
-- **You grill it yourself.** It arrives on the hot plate and you turn it as it cooks. Ask the staff if it is your first time
-
-## Open until midnight
-
-The practical strength of this place.
-
-- **Midnight on weekdays.** It works as a second or third stop of the evening
-- **Open Sundays too** (2:00 to 10:00 PM). Old-school Seoul drinking spots that open on Sunday are not common
-- **Saturday starts at 2:00 PM.** Do not go in the morning
-- **2 to 5 minutes on foot from Jonggak station exit 4.** It fits a Gwanghwamun or Insadong day
-- Want a solid dinner first? [Sigoljip](/en/posts/seoul-sigoljip), for LA galbi in Euljiro's rib alley, is in the same Jongno area and works well as a first stop before this one
-
-If you are planning an early daytime drink, call first to confirm the opening time.
-
-## This fits your night if
-
-- ✅ You want something to eat alongside soju
-- ✅ You like food with chew (if you enjoy squid or tripe, this is for you)
-- ✅ You want to try an ingredient you will not meet at home
-- ✅ You need somewhere open late, or on a Sunday
-- ✅ You cannot handle spicy food (order the salt version)
-- ⚠️ **The springy texture may be a shock.** Do not expect soft fish
-- ⚠️ This is a drinking place more than a meal place
-- ⚠️ Saturday opens at 2 PM, Sunday ends at 10 PM
+It suits people looking for something to go with soju, people who like a chewy bite (if you enjoy squid or intestines, it will suit you), and people who want to try an ingredient uncommon outside Korea. It is more of a drinking place than a meal place, and the springy texture may be unfamiliar.
 
 > Written from a personal visit. As with most drinking spots, prices and hours shift often, so a quick call before you go is the safer bet. Prices and hours are **(as of Aug 2026)**.

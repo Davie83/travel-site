@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-09-04
-updated: 2026-10-20
+updated: 2026-11-03
 emoji: 🍜
 thumb: assets/img/seoul-sinseung-banjeom.jpg
-excerpt: A Chinese-Korean restaurant in Yeouido. It's on the large side, but it was fairly full even at dinner. I ordered jjamppong and a stir-fry of kkanpung shiitake as drinking food. The jjamppong is on the spicy side (level 4), and the kkanpung shiitake was a genuine find — texture and taste both. A friend says the other dishes are good too.
+excerpt: A spacious Chinese restaurant in Yeouido. I went in the evening and was seated right away. I rated the jjamppong at heat 4, though the cooking overall is tuned to a broad, mild-to-medium spice level. The jjajang and fried rice were above average, and the stir-fried kkanpung shiitake, hard to find elsewhere, was great with drinks.
 tags: [Seoul, Yeouido, Sinseung Banjeom, jjamppong, Chinese-Korean, kkanpung, shiitake, kkanpung shiitake, seafood jjamppong, Yeouido Chinese, Yeouido food, Seoul food]
 map: https://www.google.com/maps/search/?api=1&query=%ec%8b%a0%ec%8a%b9%eb%b0%98%ec%a0%90+%ec%97%ac%ec%9d%98%eb%8f%84
 info:
@@ -19,56 +19,36 @@ info:
   - Prices · hours · closing day|**Hours** weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) · weekends 10:50 AM–8:30 PM · **no regular closing day** (as of Sep 2026) · dish prices vary by order (reference: yuni-jjajangmyeon (minced-pork jjajang) ₩11,500) — worth a quick check before you go since this can change
 ---
 
-## The find this time: kkanpung shiitake
+This was my second visit to the Yeouido branch, and going in the evening meant seats were available and I sat right away, which was nice.
+
+## 🍄 The kkanpung shiitake is hard to find elsewhere
+
+What I discovered this time is the **stir-fried kkanpung shiitake.** Thick-cut shiitake are fried, then stir-fried with dried chillies, peanuts and vegetables in kkanpung sauce. Kkanpung is a Chinese cooking method in which fried ingredients are stir-fried in a sweet, sour and spicy sauce with garlic and chilli. The chewy-yet-crisp texture of the fried shiitake fills in the bite without any meat, and the sweet-sour, slightly spicy sauce clung well, so it was great with drinks. It's a dish that's hard to find elsewhere, and I wondered, "Is this a new find for drinking snacks?"
 
 ![Kkanpung shiitake — crisply fried shiitake stir-fried with dried chillies and peanuts — Sinseung Banjeom](/assets/img/seoul-sinseung-banjeom-kkanpung.jpg)
 
-The new find this time was the **stir-fried kkanpung shiitake**. Thick-cut shiitake is battered and fried, then stir-fried with dried chillies, peanuts and vegetables in a kkanpung sauce.
+On the right of the photo, a large white bowl is full of red broth with a whole abalone sitting on top in its shell. In the broth are big shrimp, dark ingredients, napa cabbage and bok choy, vegetables and bean sprouts, all generous. On the rectangular plate on the left, fried shiitake are heaped with dried red chillies, peanuts and chopped green chilli, and the top of the plate is decorated with parsley and a flower. On the table are a cup of warm tea and a small liquor glass.
 
-The fried shiitake has a **chewy-yet-crisp texture** that gives you something to bite into without any meat. The sweet-sour, faintly spicy kkanpung sauce clings well, and it was **excellent with a drink**. It felt like discovering a new bar snack.
+## 🍜 The jjamppong is full of seafood, and the jjajang and fried rice are above average
 
-A friend says several of the restaurant's other dishes are good too. There seem to be other branches, so if one is near you it's worth a stop.
+Jjamppong is a Korean-Chinese noodle soup boiled with seafood and vegetables until it's spicy and rich. The jjamppong here has a rich broth and, on this site's scale, a heat of about 4. It's loaded with abalone, shrimp and squid, plus napa cabbage and shiitake. I also tried the jjajang and the fried rice, and they were all above average.
 
-## What it looks like
+## 🌶️ The downside is the heat
 
-The large white bowl on the right is filled with a red broth, topped by a single abalone in its shell. Inside are a big shrimp, a dark ingredient, napa cabbage, bok choy, vegetables and bean sprouts, all plentiful. On the rectangular plate at the left, fried shiitake mushrooms are heaped with dried red chilies, peanuts and chopped green chili, garnished at the top with parsley and a flower. On the table sit a cup of warm tea and a small liquor glass.
+I rated the jjamppong at heat 4, but the cooking overall felt tuned to a broad crowd, and nothing was very spicy. If you go expecting something fiery, you may be let down. On the other hand, someone not used to spice, especially a tourist with no warning, may find the jjamppong hot.
 
-## Menu words
+## 👥 Any group size works, and it's cheaper than Mutan
 
-- **Jjamppong** is a Korean-Chinese noodle soup made spicy with seafood and vegetables
-- **Kkanpung** is a Chinese-style technique of tossing fried ingredients in a tangy, spicy sauce with garlic and chili
-- **Shiitake** is an aromatic, chewy mushroom
+The place is large, so even in the evening there were seats and I sat right away, and a big group looks easy to seat. Any number of people is fine, and the price is cheaper than [Mutan](/en/posts/seoul-mutan) in Yeouido, so I felt you can just order to match the headcount. A friend says the other dishes are fairly good too.
 
-## Jjamppong — level 4, and generous with the seafood
+## 🌐 For foreign visitors
 
-The jjamppong has a deep broth and is **on the spicy side** — about **level 4** by this site's scale. It's generous with the fillings: abalone, shrimp and squid, plus napa cabbage and shiitake.
+- In Korea, "Chinese food" doesn't mean mainland Chinese cooking but the Korean-developed family of jajangmyeon, jjamppong and tangsuyuk
+- Jjamppong is a spicy noodle soup with seafood. If you are weak with spice, think again before ordering
+- The kkanpung shiitake has no meat so it's close to vegetarian, but the sauce may contain seafood ingredients, so check. It's full of dried chillies, but they aren't meant to be eaten whole
+- There is a break between lunch and dinner (as of Sep 2026)
+- It is near Yeouido Station (Lines 5 and 9) and Yeouinaru Station (Line 5). There seem to be other branches, so check the branch on the map
 
-I like spicy food, so this was welcome rather than a problem. But someone **not used to heat** — a visitor, especially, going in with no warning — could find it seriously hot.
-
-## For visitors
-
-- It's a **Chinese-Korean restaurant**. In Korea, "Chinese food" doesn't mean mainland Chinese cooking — it means the jajangmyeon / jjamppong / sweet-and-sour-pork family that developed in Korea.
-- **Jjamppong** is a **spicy noodle soup with seafood**. This one is **quite hot (level 4)** — if you're weak with spice, think twice before ordering it.
-- **Kkanpung shiitake** is fried shiitake tossed in a sweet-sour, spicy kkanpung sauce. There's no meat, so it's **close to vegetarian**, but the sauce may contain seafood ingredients — check if that matters to you.
-- It comes with a lot of dried chillies, but the dish isn't meant to have you eat the chillies themselves.
-- It's in Yeouido — close to Yeouido Station (lines 5 and 9) and Yeouinaru Station (line 5).
-
-## Who it's for
-
-- ✅ Anyone who likes a **spicy jjamppong**
-- ✅ Anyone who wants **Chinese-Korean food to drink over** — the kkanpung shiitake is the pick
-- ✅ A group that needs **seats in the evening** in Yeouido (the room is large)
-- ✅ Anyone who wants to order the **cooked dishes** beyond jajangmyeon and jjamppong (a friend rates them)
-- ⚠️ Anyone weak with spice — the jjamppong is level 4
-- ⚠️ Anyone wanting a very quiet meal — it's busy in the evening
-
-## Before you go
-
-Yeouido is an office district, so a lot of places pack out at lunch — but this one had plenty of seats taken at dinner too. The room is wide enough that a bigger group shouldn't struggle to sit.
-
-- **Location** — Yeouido, Yeongdeungpo-gu, Seoul. There may be other branches, so check which one on the map before you go.
-- **Ordering** — if you can't take heat, choose a milder noodle or rice dish instead of the jjamppong, and have the kkanpung shiitake alongside.
-- **Prices · hours · closing day** — hours run weekdays 10:50 AM–9:00 PM (break 2:30–4:45 PM) and weekends 10:50 AM–8:30 PM, with no regular closing day (as of Sep 2026). Check dish prices on the menu on-site.
-- **Nearby** — still in Yeouido, [Beyond Vietnam (National Assembly branch)](/en/posts/seoul-beyond-vietnam) is an easy walk if you're craving pho for lunch instead.
+It suits people who like spicy jjamppong, people who want Chinese dishes to go with a drink, and groups that need seats in Yeouido in the evening. If you fancy pho for lunch, [Beyond Vietnam (National Assembly branch)](/en/posts/seoul-beyond-vietnam) is also within walking distance.
 
 > This post is a write-up of a visit in person. The heat level and taste are a matter of personal preference, and the menu may vary by branch — please check the shop's current information once more before you go. Prices and hours are **(as of Sep 2026)**.

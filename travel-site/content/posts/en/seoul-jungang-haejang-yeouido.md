@@ -4,10 +4,10 @@ cat: food
 region: seoul
 area: yeouido
 date: 2026-09-30
-updated: 2026-10-20
+updated: 2026-11-03
 emoji: 🍲
 thumb: assets/img/seoul-jungang-haejang-yeouido.jpg
-excerpt: A beef tripe hot pot (gopchang-jeongol) spot in Yeouido — the hangover soup is quite good too. If Cheongeoram in Mangwon-dong is the clean, value-focused, vegetable-broth version, Jungang Haejang is the premium side — the tripe itself and the overall taste are a level up. Prices are noticeably higher than Cheongeoram's, though. I first fell for it at the Samseong-dong original, so a branch this close to Yeouido is a welcome surprise.
+excerpt: A beef tripe hot pot restaurant in Yeouido whose hangover soup is a signature too. It is a premium step above Cheongeoram in the tripe and overall flavour, at a clearly higher price. At lunch even a slight delay past 11:30 means a long line, and I only got seats around noon; the lunch rush feels hurried, so it's better to avoid peak hours.
 tags: [Seoul, Yeouido, beef tripe hot pot, beef tripe, hangover soup, hot pot]
 info:
   - Restaurant|Jungang Haejang Yeouido
@@ -20,54 +20,43 @@ info:
   - Parking|One Sentinel basement lot (1 hour free weekdays, 2 hours free weekends)
 ---
 
-**This is a beef tripe hot pot spot.** The hangover soup is quite good too.
+At lunch, if you slip even a little past 11:30, you wait a very long time at this beef tripe hot pot restaurant in Yeouido. The hangover soup is also one of its signatures.
 
-## A step above Cheongeoram
+## ⏱️ Past 11:30, you don't sit until noon
 
-If **Cheongeoram** in Mangwon-dong is the clean, vegetable-broth version that keeps value front and center, **Jungang Haejang is the premium side** — the tripe itself and the overall flavor are a level up. Same dish category, different register entirely.
+I have been to the Yeouido branch about three times at lunch, and I used to go more often to the Samseong-dong main branch. If I was even slightly later than 11:30 at lunch, there was a huge wait, and I think I never got in before noon.
+
+## 🆚 One step above Cheongeoram, and priced to match
+
+If Mangwon-dong's **Cheongeoram** is a clean, good-value tripe hot pot built on a vegetable stock, **Jungang Haejang is the premium side, with the tripe itself and the overall flavour a notch higher.** Even as the same dish, the character differs. In exchange the price of the beef tripe hot pot is quite a bit higher than Cheongeoram's, so if you put the quality of the tripe ahead of value, this is the one.
+
+## 🍲 The hot pot and the hangover soup
+
+Beef tripe hot pot is cooked at the table: vegetables such as shiitake, enoki, crown daisy and carrot go over the beef tripe, with seasoning paste added.
 
 ![Ingredients for the beef tripe hot pot at Jungang Haejang — beef tripe with shiitake, enoki mushrooms, crown daisy, carrot, and seasoning paste laid out on one plate](/assets/img/seoul-jungang-haejang-yeouido-detail.jpg)
 
-## The price gap is real, though
+The photo shows it before it is boiled. Inside the black pot the ingredients are arranged by section: crown daisy on the left, a bunch of white enoki and pieces of carrot in the middle, and oyster and king oyster mushrooms below. On the right is a heap of seasoned beef tripe, and a red dadaegi paste sits separately on top. The medium size has a decent amount of vegetables, but with three people it feels like it would fall short.
 
-**The beef tripe hot pot costs noticeably more than at Cheongeoram.** Being premium, the price climbs to match. If tripe quality matters more to you than value, this is the right call.
+The hangover soup is a signature here too, and at lunch most people have the hangover soup. If tripe is new to you, trying the hangover soup first is a way to get a taste.
 
-## What it looks like — the jeongol ingredients
+## 🔁 From the Samseong-dong main branch to Yeouido
 
-Inside the black jeongol pot, the ingredients are laid out by section. On the left is crown daisy, in the middle a bundle of white enoki and pieces of carrot, and below them oyster and king oyster mushrooms. On the right, seasoned beef gopchang is heaped up, with a red dadaegi seasoning placed separately on top. Because it is the raw look before boiling, you can see at a glance what goes in.
+I first tried it at the Samseong-dong main branch and got hooked, so I was glad a branch opened in Yeouido. The taste is similar to the main branch, but it doesn't quite match the thrill of the first time.
 
-## Menu words
+- **Samseong-dong main branch** — 17 Yeongdong-daero 86-gil, Gangnam-gu, Seoul (Yugin Building). Where I first tried it
+- **Yeouido branch** — 2F, One Sentinel, 70 Yeouidaero, Yeongdeungpo-gu. A 5-minute walk from Yeouido Station, with underground parking free for 1 hour on weekdays and 2 hours on weekends. On weekends it opens early, so it also works for a morning hangover meal (as of Sep 2026)
 
-- **Gopchang-jeongol** is a hot pot of beef small intestine, vegetables and mushrooms simmered in broth
-- **Dadaegi** is a red seasoning made from chili and other ingredients, stirred into the broth to adjust the heat
-- **Gopchang** is the small intestine of beef. If it's your first time, the chewy texture may feel unfamiliar
+## 😅 The downside is the lunch crush
 
-## From the Samseong-dong original to Yeouido
+Since I only go to Yeouido at lunch, maybe that's why it always feels crowded and I feel I should eat quickly and leave. It seems better to avoid lunch hours.
 
-Jungang Haejang seems to have opened branches in a few places lately. **I first fell for it at the Samseong-dong original**, so having a branch this close to Yeouido now is a welcome surprise.
+## 🌐 For visitors
 
-## What the pot looks like
+- Beef tripe hot pot (so-gopchang-jeongol) is a dish of beef intestines boiled with vegetables. It comes with a spicy seasoning but isn't very hot. Dadaegi is a red seasoning made from chilli flakes and more, stirred into the broth to adjust the heat
+- Hangover soup is a rich broth made from bones or offal, served with rice, eaten to recover from drinking
+- The smell and chewy texture of gopchang may be unfamiliar, so if it's your first time, starting with the hangover soup is a way in
 
-The so-gopchang jeongol (beef-intestine hot pot) is built at the table: beef gopchang topped with vegetables and mushrooms — shiitake, enoki, crown daisy and carrot, as in the photo above — plus a seasoning paste, then boiled until it bubbles. It is packed with fat-rich gopchang. The Yeouido menu lists the **medium (中) size at ₩67,000** (as of Sep 2026), so choose the size by head count. If gopchang is new to you, the ₩14,000 hanwoo blood-curd haejangguk (hangover soup) is an easier first bowl.
-
-## Main branch and Yeouido branch
-
-- **Samseong-dong main branch** — 17 Yeongdong-daero 86-gil, Gangnam-gu (Yukin Building). This is where I first tasted it
-- **Yeouido branch** — 70 Yeouidaero, 2nd floor of One Sentinel, about a 5-minute walk from Yeouido Station. The basement lot gives free parking (1 hour on weekdays, 2 hours on weekends)
-- The Yeouido branch opens **10:30 AM–11 PM on weekdays** and **from 8 AM on Saturdays and Sundays** (Saturday until 10 PM, Sunday until 9 PM), so it also works for a morning hangover meal (as of Sep 2026)
-
-## For foreign visitors
-
-- **Gopchang-jeongol is a hot pot of beef small intestine (tripe) simmered with vegetables.** It comes with a spicy seasoning, but it's not overwhelmingly hot
-- **Haejangguk is a rich soup**, made from bones or offal, served with rice — the classic hangover-soup format
-- The smell and texture of tripe can take getting used to — if it's your first time, starting with the hangover soup is a safer bet
-
-## Who this is for
-
-- ✅ Anyone who wants gopchang-jeongol with **quality over value** as the priority
-- ✅ Anyone who's had Cheongeoram and is curious about **a step-up version**
-- ✅ Anyone needing a hangover-soup meal in Yeouido
-- ⚠️ If value matters more, [Cheongeoram](/en/posts/seoul-cheongeoram-gopchang) in Mangwon-dong may suit you better
-- ⚠️ The smell and texture of tripe can be off-putting for some
+It suits anyone who wants beef tripe hot pot with quality over value, anyone who has tried Cheongeoram and is curious about the upgraded version, and anyone needing a hangover meal in Yeouido. If value comes first, [Cheongeoram](/en/posts/seoul-cheongeoram-gopchang) in Mangwon-dong may suit you better.
 
 > This is a first-hand account, and taste is subjective. Prices and hours are **(as of Sep 2026)** — worth checking again before you go.

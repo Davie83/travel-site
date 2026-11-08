@@ -220,7 +220,8 @@ module.exports = {
         zh: '釜山先從湯品補起。東萊的 두미촌돼지국밥（Dumichon Dwaeji-gukbap，營業到午夜）和 금수복국（Geumsu Bokguk，8:00 開門），以及廣安里南川洞的 안목（Anmok，連續兩年入選米其林必比登），都是釜山人一大早就會把整鍋喝光的料理。\n**動線小提醒** — 如果是第一次吃豬肉湯飯，哪家比較沒有異味、蝦醬和韭菜怎麼放，文章裡都有寫。안목要在點餐時決定飯是否泡進湯裡，離廣安里的海邊也很近（截至2026年8月）。' },
       areas: [
         { slug: 'dongnae',   names: { ko: '동래',   en: 'Dongnae',   ja: '東莱',   zh: '東萊' } },
-        { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '廣安里' } }
+        { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '廣安里' } },
+        { slug: 'yeongdo',   names: { ko: '영도',   en: 'Yeongdo',   ja: '影島',   zh: '影島' } }
       ] },
     { slug: 'jeju',        color: '#c25e10', colorDark: '#f5a45a',   // 감귤
       names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '濟州' },

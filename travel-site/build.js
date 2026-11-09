@@ -55,6 +55,10 @@ const ASSET_V = assetVersion();
 
 const LOCALES    = site.locales.filter(l => l.enabled);
 
+/* 검색엔진에 올리지 않는 언어 (site.config.js 의 locales[].noindex).
+   그 언어의 모든 페이지에 noindex 를 걸고, sitemap.xml 과 hreflang 에서도 뺍니다. */
+const LOCALE_NOINDEX = new Set(LOCALES.filter(l => l.noindex).map(l => l.code));
+
 /* 음식 장르 — 영어권 검색어 축 (Korean BBQ 등). site.config.js 의 genres 참고.
    글이 이 개수 이상인 장르만 검색에 노출되는 페이지로 만듭니다 (그 미만은 noindex). */
 const GENRES = Array.isArray(site.genres) ? site.genres : [];
@@ -559,7 +563,7 @@ function langSuggestHTML(base, current, availability) {
 /** hreflang — 같은 글의 다른 언어판을 검색엔진에 알립니다 */
 function hreflangHTML(availability) {
   // 위와 같은 이유로 undefined 로 판별합니다 (한국어 홈 경로 = '')
-  const rows = LOCALES.filter(l => availability[l.code] !== undefined).map(l =>
+  const rows = LOCALES.filter(l => !l.noindex && availability[l.code] !== undefined).map(l =>
     `<link rel="alternate" hreflang="${l.hreflang}" href="${SITE_URL}/${availability[l.code]}">`
   );
   const def = availability[site.defaultLocale] !== undefined
@@ -2273,7 +2277,7 @@ function renderPage(o) {
     // max-image-preview:large 가 없으면 구글 Discover 는 사진을 작게 쓰거나 아예 안 씁니다.
     // Discover 는 "신청"하는 기능이 아니라 이미지가 큼직하게 실릴 수 있어야 뽑힐 후보가 되는 구조라,
     // 색인 페이지 전부에 이 지시어를 붙여 둡니다 (noindex 페이지엔 안 붙여도 그만이지만 붙여도 무해합니다).
-    noindex:     o.noindex
+    noindex:     (o.noindex || LOCALE_NOINDEX.has(o.code))
       ? '<meta name="robots" content="noindex, max-image-preview:large">'
       : '<meta name="robots" content="max-image-preview:large">',
     skip:        escapeHtml(I18N[o.code].skip),
@@ -3002,7 +3006,7 @@ ${tocList}
       for (const L of LOCALES) map[L.code] = (L.dir || '') + bare;
     }
     const rows = LOCALES
-      .filter(L => map[L.code] != null)
+      .filter(L => !L.noindex && map[L.code] != null)
       .map(L => `    <xhtml:link rel="alternate" hreflang="${L.hreflang}" href="${SITE_URL}/${cleanUrl(map[L.code])}"/>`);
     const defCode = map[site.defaultLocale] != null ? site.defaultLocale : (LOCALES[0] || {}).code;
     if (map[defCode] != null) {
@@ -3010,10 +3014,13 @@ ${tocList}
     }
     return rows.join('\n');
   };
+  // noindex 언어(예: zh)의 주소는 sitemap.xml 에서 뺍니다. 사이트맵에 noindex 주소를 넣으면 구글이 충돌로 봅니다.
+  const noindexDirs = LOCALES.filter(L => L.noindex && L.dir).map(L => L.dir);
+  const inNoindexLocale = loc => noindexDirs.some(dir => String(loc).indexOf(dir) === 0);
   writeFile('sitemap.xml',
     `<?xml version="1.0" encoding="UTF-8"?>\n` +
     `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n` +
-    urls.map(u => {
+    urls.filter(u => !inNoindexLocale(u.loc)).map(u => {
       const hl = hreflangLinksFor(u.loc, u.alt);
       return `  <url>\n    <loc>${SITE_URL}/${cleanUrl(u.loc)}</loc>` +
         (u.lastmod ? `\n    <lastmod>${u.lastmod}</lastmod>` : '') +

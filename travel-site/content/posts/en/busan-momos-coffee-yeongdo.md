@@ -4,6 +4,7 @@ cat: food
 region: busan
 area: yeongdo
 date: 2026-11-08
+updated: 2026-11-09
 emoji: ☕
 thumb: assets/img/busan-momos-coffee-yeongdo.jpg
 excerpt: Momos Coffee's Yeongdo branch sits among old factories in Busan's Yeongdo district. The interior differs from the main shop, and for all its refined look the place was packed with people who clearly know it. I like sour notes, so I ordered a pour-over of Gesha beans, which the shop classes as a premium bean. There was a wait, but the warm, deep acidity was worth it.
@@ -29,13 +30,17 @@ Momos Coffee has won many titles at various competitions. There are several bran
 
 The interior is different from the main shop. It is a refined-looking coffee shop set among Yeongdo's old factories, yet it was bustling with people, who all seem to know about it.
 
-![The interior of Momos Coffee Yeongdo — white pillars under a high roof frame, glass walls with roasting equipment behind, and guests seated at every stool and small table](/assets/img/busan-momos-coffee-yeongdo-interior.jpg)
+![The interior of Momos Coffee Yeongdo — white pillars under a high roof frame, glass walls with roasting equipment behind, and guests crowding the order counter and the stools](/assets/img/busan-momos-coffee-yeongdo-interior.jpg)
 
-In the photo, a dark timber roof frame rises high overhead, and behind the glass walls between white pillars you can see machines that look like coffee roasting equipment. Guests sit at low stools and small tables, and more people stand near the order counter.
+In the photo, a dark timber roof frame rises high overhead, and behind the glass walls between white pillars you can see machines that look like coffee roasting equipment. On the left, guests sit on low stools, and in the middle people gather in front of the order counter.
 
 ## 🍋 Sour notes, so a Gesha pour-over
 
 Since it had been a long time, and since I like sour notes, I ordered a pour-over of Gesha beans, which the shop classes as a premium bean. There was a wait, but the warm, deep acidity stimulated my sense of smell.
+
+![A staff member handling an order inside a long white counter, with drippers on glass servers, kettles and grinders on top — the coffee bar at Momos Coffee Yeongdo](/assets/img/busan-momos-coffee-yeongdo-barista.jpg)
+
+In the photo, a staff member handles an order behind a long white counter. On the counter are drippers set on glass servers, kettles and grinders, and trays lined up beside them hold mugs, a glass teapot, a latte and a dessert. Beyond the glass wall at the back, guests can be seen sitting.
 
 ![A white mug of Gesha pour-over beside a HAVANA bean card, with an iced drink on a tray behind it](/assets/img/busan-momos-coffee-yeongdo-gesha.jpg)
 

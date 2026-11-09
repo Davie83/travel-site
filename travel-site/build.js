@@ -2130,30 +2130,31 @@ function savedLinkHTML(base, code, t) {
        + `<span class="saved-n" hidden>0</span></a>`;
 }
 
-/** 페이지 최하단의 "저장한 곳" 줄.
- *  방문자가 무엇을 담았는지는 빌드 때 알 수 없으므로 모든 글을 넣어두고
- *  assets/saved.js 가 담은 것만 보여줍니다 (하나도 없으면 구역 자체가 숨습니다).
- *  카드가 아니라 한 줄 목록이라 글이 늘어나도 페이지가 무거워지지 않습니다. */
+/** "저장한 곳" 줄이 쓰는 글 색인. 언어마다 하나씩 assets/saved-index-<언어>.json 으로 내보냅니다.
+ *  [슬러그, 제목, 지역 슬러그, 지역 이름] 배열입니다.
+ *  예전에는 이 목록을 모든 페이지의 HTML 에 숨겨서 넣었는데, 그러면 글 본문보다
+ *  모든 페이지에 똑같은 제목 목록(글 100여 개)이 더 많아져서 검색엔진이 읽는
+ *  페이지 내용의 대부분이 반복 텍스트가 됩니다. 그래서 방문자가 저장한 글이 있을 때만
+ *  assets/saved.js 가 이 JSON 을 불러와 저장한 글만 그립니다. */
+function savedIndexJSON(posts, code) {
+  return JSON.stringify(posts.map(p => [p.slug, p.meta.title, p.meta.region, regionName(p.meta.region, code)]));
+}
+
+/** 페이지 최하단의 "저장한 곳" 줄의 틀. 목록은 비어 있고, saved.js 가 채웁니다
+ *  (저장한 글이 하나도 없으면 구역 자체가 숨고 JSON 도 불러오지 않습니다). */
 function savedStripHTML(posts, base, code, t) {
   const d = localeDir(code);
-  const items = posts.map(p => {
-    const m = p.meta;
-    return `        <li data-slug="${escapeHtml(p.slug)}" hidden style="--r:var(--region-${escapeHtml(m.region)})">` +
-           `<a href="${base}${d}posts/${p.slug}"><span class="dot"></span>` +
-           `<span class="st-t">${escapeHtml(m.title)}</span>` +
-           `<span class="st-r">${escapeHtml(regionName(m.region, code))}</span></a>` +
-           `<button class="st-x" type="button" data-save="${escapeHtml(p.slug)}" data-add="${escapeHtml(t.saveAdd)}" data-done="${escapeHtml(t.saveDone)}" aria-pressed="true" aria-label="${escapeHtml(t.savedRemove)}" title="${escapeHtml(t.savedRemove)}">×</button></li>`;
-  }).join('\n');
+  const v = crypto.createHash('sha1').update(savedIndexJSON(posts, code)).digest('hex').slice(0, 8);
 
-  return `  <section class="saved-strip" id="saved-strip" hidden aria-labelledby="saved-strip-h">
+  return `  <section class="saved-strip" id="saved-strip" hidden aria-labelledby="saved-strip-h"
+    data-src="${base}assets/saved-index-${code}.json?v=${v}" data-href="${base}${d}posts/"
+    data-add="${escapeHtml(t.saveAdd)}" data-done="${escapeHtml(t.saveDone)}" data-remove="${escapeHtml(t.savedRemove)}">
     <div class="wrap">
       <div class="saved-strip-head">
         <h2 id="saved-strip-h"><span class="saved-strip-star" aria-hidden="true">★</span>${escapeHtml(t.savedTitle)} <span class="saved-strip-n"></span></h2>
         <a class="saved-strip-all" href="${base}${d}saved">${escapeHtml(t.savedSeeAll)} →</a>
       </div>
-      <ul class="saved-strip-list">
-${items}
-      </ul>
+      <ul class="saved-strip-list"></ul>
     </div>
   </section>`;
 }
@@ -3094,6 +3095,11 @@ ${tocList}
 
   /* ---- RSS 피드 (언어별) ---- */
   writeRssFeeds(byLocale);
+
+  /* ---- "저장한 곳" 줄이 쓰는 글 색인 (언어별 JSON) ---- */
+  for (const l of LOCALES) {
+    writeFile(`assets/saved-index-${l.code}.json`, savedIndexJSON(byLocale[l.code].posts, l.code));
+  }
 
   copyDir(STATIC, DIST);
 

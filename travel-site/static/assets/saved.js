@@ -96,17 +96,58 @@
     }
   }
 
-  /* ---- 3-1. 페이지 최하단 목록 ---- */
+  /* ---- 3-1. 페이지 최하단 목록 ----
+     글 목록은 HTML 에 들어 있지 않습니다(모든 페이지에 똑같은 제목 100여 개를 넣으면
+     페이지 본문보다 반복 텍스트가 더 많아집니다). 저장한 글이 있을 때만
+     글 색인(assets/saved-index-<언어>.json)을 한 번 불러와 저장한 글만 그립니다.
+     저장한 글이 없으면 아무것도 내려받지 않습니다. */
+  var stripIndex = null;      // { 슬러그: [슬러그, 제목, 지역 슬러그, 지역 이름] }
+  var stripLoading = false;
+
+  function loadStripIndex(strip) {
+    var src = strip.getAttribute('data-src');
+    if (stripLoading || !src || !window.fetch) return;
+    stripLoading = true;
+    fetch(src).then(function (r) { return r.json(); }).then(function (rows) {
+      var map = {};
+      for (var i = 0; i < rows.length; i++) map[rows[i][0]] = rows[i];
+      stripIndex = map;
+      stripLoading = false;
+      paintStrip(read());          // 불러왔으니 다시 그립니다
+    }).catch(function () { stripLoading = false; });
+  }
+
   function paintStrip(list) {
     var strip = document.getElementById('saved-strip');
     if (!strip) return;
 
-    var found = showOnlySaved(strip.querySelector('.saved-strip-list'), 'li[data-slug]', list);
+    if (list.length === 0) { strip.hidden = true; return; }   // 담은 게 없으면 구역 자체를 감춥니다
+    if (!stripIndex) { loadStripIndex(strip); return; }
+
+    var box = strip.querySelector('.saved-strip-list');
+    var href = strip.getAttribute('data-href') || '';
+    var add = esc(strip.getAttribute('data-add') || '');
+    var done = esc(strip.getAttribute('data-done') || '');
+    var remove = esc(strip.getAttribute('data-remove') || '');
+
+    var html = '', found = 0;
+    for (var i = 0; i < list.length; i++) {
+      var row = stripIndex[list[i]];
+      if (!row) continue;             // 지워진 글이면 건너뜁니다
+      found++;
+      html += '<li data-slug="' + esc(row[0]) + '" style="--r:var(--region-' + esc(row[2]) + ')">'
+        + '<a href="' + esc(href + row[0]) + '"><span class="dot"></span>'
+        + '<span class="st-t">' + esc(row[1]) + '</span>'
+        + '<span class="st-r">' + esc(row[3]) + '</span></a>'
+        + '<button class="st-x" type="button" data-save="' + esc(row[0]) + '" data-add="' + add + '" data-done="' + done
+        + '" aria-pressed="true" aria-label="' + remove + '" title="' + remove + '">×</button></li>';
+    }
+    if (box) box.innerHTML = html;
 
     var n = strip.querySelector('.saved-strip-n');
     if (n) n.textContent = found;
 
-    strip.hidden = found === 0;    // 담은 게 없으면 구역 자체를 감춥니다
+    strip.hidden = found === 0;
   }
 
   /* ---- 3-2. /saved 페이지 ----

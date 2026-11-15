@@ -1,5 +1,5 @@
 ---
-title: Gangnam — Seafood Jjamppong, Old-School Tangsuyuk
+title: Gangnam — Seafood Jjamppong, Classic Tangsuyuk
 cat: food
 region: seoul
 area: yeongdeungpo

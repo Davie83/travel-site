@@ -1,5 +1,5 @@
 ---
-title: Jayeon Ssambap Restaurant, Boryeong — Ssambap With Home-Grown Greens
+title: Jayeon Ssambap, Boryeong — Ssambap With Home-Grown Greens
 cat: food
 region: chungcheong
 area: chungnam

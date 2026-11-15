@@ -1,5 +1,5 @@
 ---
-title: Dumichon Dwaeji-gukbap — Clean Pork Soup Till Midnight
+title: Dumichon Dwaeji-gukbap — Clean Pork Soup to Midnight
 cat: food
 region: busan
 area: dongnae

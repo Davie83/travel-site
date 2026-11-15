@@ -1,5 +1,5 @@
 ---
-title: Donghae Makguksu Branch — The Yangyang Shop I Thought Was the Original
+title: Donghae Makguksu Branch — Yangyang Shop I Thought Was the Original
 cat: food
 region: gangwon
 area: yangyang

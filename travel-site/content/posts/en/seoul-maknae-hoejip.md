@@ -1,5 +1,5 @@
 ---
-title: Maknae Hoejip — ₩14,000 Weekday Lunch Sashimi Set
+title: Maknae Hoejip — ₩14,000 Weekday Lunch Sashimi
 cat: food
 region: seoul
 area: namdaemun

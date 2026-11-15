@@ -1,5 +1,5 @@
 ---
-title: The Best of Hongdae — My Picks From What I've Reviewed
+title: Best of Hongdae — My Reviewed Picks
 region: seoul
 area: hongdae
 date: 2026-09-30

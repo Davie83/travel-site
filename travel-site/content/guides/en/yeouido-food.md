@@ -1,5 +1,5 @@
 ---
-title: The Best of Yeouido — My Picks From What I've Reviewed
+title: Best of Yeouido — My Reviewed Picks
 region: seoul
 area: yeouido
 date: 2026-09-16

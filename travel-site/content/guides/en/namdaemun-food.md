@@ -1,5 +1,5 @@
 ---
-title: The Best of Namdaemun — My Picks From What I've Reviewed
+title: Best of Namdaemun — My Reviewed Picks
 region: seoul
 area: namdaemun
 date: 2026-09-29

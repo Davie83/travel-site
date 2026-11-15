@@ -1,5 +1,5 @@
 ---
-title: Best of Mapo — picked from what we've reviewed
+title: Best of Mapo — My Reviewed Picks
 region: seoul
 area: mapo
 date: 2026-09-16

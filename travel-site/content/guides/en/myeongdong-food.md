@@ -1,5 +1,5 @@
 ---
-title: The Best of Myeongdong — My Picks From What I've Reviewed
+title: Best of Myeongdong — My Reviewed Picks
 region: seoul
 area: myeongdong
 date: 2026-09-16

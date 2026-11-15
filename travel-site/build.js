@@ -2411,6 +2411,7 @@ async function build() {
       headExtra: `<script type="application/ld+json">${JSON.stringify(homeJsonLd(code))}</script>`,
       body: fill(T.home, {
         tagline: escapeHtml(t.tagline),
+        flagAlt: escapeHtml(t.flagAlt),
         description: escapeHtml(t.description),
         near: nearWidgetHTML(t, code, 'latest-grid'),
         map: koreaMapHTML(homeBase, code, totalByRegion, t),

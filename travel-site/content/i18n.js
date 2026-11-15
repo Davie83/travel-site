@@ -10,6 +10,7 @@ module.exports = {
 
   ko: {
     tagline:     '한 입씩 맛보는 한국',
+    flagAlt:     '태극기 그림',
     description: '한국인이 소문난 곳과 끌리는 곳을 직접 찾아가 정리한 기록입니다. 동선, 예산, 교통, 붐비는 시간대까지 가기 전에 알면 좋은 정보 위주입니다.',
     siteDesc:    '한국의 여행지와 맛집 — 소문난 곳과 끌리는 곳을 지역별로 정리했습니다.',
 
@@ -253,6 +254,7 @@ module.exports = {
 
   en: {
     tagline:     'Taste Korea, One Bite at a Time.',
+    flagAlt:     'Illustration of the Korean flag',
     description: 'Written by a Korean who goes to the places people talk about — and the ones that just look worth it. Routes, budgets, transit, and when to avoid the crowds.',
     siteDesc:    "Korea's places and food — the well-known and the tempting — organised by region.",
 
@@ -495,6 +497,7 @@ module.exports = {
 
   ja: {
     tagline:     '韓国を、ひと口ずつ。',
+    flagAlt:     '韓国の国旗のイラスト',
     description: '韓国人が評判の場所と、気になった場所に実際に足を運んでまとめています。ルート、予算、交通、混む時間帯まで、行く前に知っておきたいことを中心に。',
     siteDesc:    '地域別にまとめた韓国の観光地とグルメ — 評判の場所と、惹かれた場所。',
 
@@ -740,6 +743,7 @@ module.exports = {
 
   zh: {
     tagline:     '一口一口，嚐遍韓國',
+    flagAlt:     '韓國國旗插圖',
     description: '由韓國在地人親自走訪 —— 有名的地方，還有自己心動想去的地方。路線、預算、交通、避開人潮的時間，都是出發前值得知道的事。',
     siteDesc:    '按地區整理的韓國景點與美食 —— 有名的，還有讓人心動的。',
 

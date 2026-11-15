@@ -143,7 +143,7 @@ module.exports = {
             zh: '仁川從沿岸碼頭延伸到永宗島，還有市區的小吃店。去過的有：沿岸碼頭海洋中心 2 樓的 오성식당（Oseong Sikdang，生拌斑鰶）、緊鄰仁川機場的永宗島百樂達斯城內的水療桑拿 Cimer，以及彌鄒忽區的青海海苔飯捲（蛋捲海苔飯捲）。\n**動線小提醒** — 오성식당所在的沿岸碼頭沒有地鐵，可以從仁川站搭公車，或自駕、搭計程車。Cimer 就在仁川機場旁邊，往返機場的路上很適合順道去。'
           } },
         { slug: 'gapyeong', names: { ko: '가평',   en: 'Gapyeong',       ja: '加平',   zh: '加平' } },
-        { slug: 'ganghwa',  names: { ko: '강화도', en: 'Ganghwa Island', ja: '江華島', zh: '江華島' },
+        { slug: 'ganghwa',  names: { ko: '강화도', en: 'Ganghwa Island', ja: '江華島', zh: '江華島' }, seoTitle: { en: 'Where to Eat in Ganghwa Island, Incheon' },
           intro: {
             ko: '강화도는 서울에서 차로 반나절이면 닿는 섬으로, 대중교통보다 차가 훨씬 편합니다. 초지대교를 건너 섬 초입에 있는 숯불생선구이, 강화읍의 강화풍물시장(1층 시장, 2층 밴댕이 정식), 남쪽 동막해수욕장(소나무 숲 야영장과 갯벌)을 다녀왔습니다.\n**동선 팁** — 다리를 건너기 전 김포 대곶의 약산손두부에서 아침을 먹고, 섬 초입의 생선구이로 점심을 잇는 식으로 들어가면 동선이 자연스럽습니다. 시장은 강화읍, 동막해수욕장은 화도면이라 위치가 서로 다르니 동선을 미리 보고 정하세요.',
             en: 'Ganghwa Island is about half a day from Seoul by car, and a car is far easier than public transport. I have been to the charcoal-grilled fish place at the entrance to the island just over Chojidaegyo Bridge, Ganghwa Pungmul Market in Ganghwa-eup (a market on the first floor, bandaengi set meals on the second) and Dongmak Beach in the south, with its pine-forest campsite and mudflat.\n**Route tips** — breakfast at Yaksan Sondubu in Daegot, Gimpo, before the bridge, then lunch at the grilled-fish place just inside the island, makes a natural way in. The market is in Ganghwa-eup and Dongmak Beach is in Hwado-myeon, so check the route before you plan around them.',

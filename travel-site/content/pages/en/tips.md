@@ -1,5 +1,5 @@
 ---
-title: Korea Travel Basics — Common Day-One Mistakes
+title: Korea Travel Basics — Day-One Mistakes
 description: Where to buy a transit card, where the exchange rate is actually good, and why Google Maps cannot give you driving directions in Korea. Only the things visitors really get stuck on.
 updated: Verified 21 September 2026
 ---

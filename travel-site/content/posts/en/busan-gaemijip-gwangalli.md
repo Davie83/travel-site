@@ -29,9 +29,9 @@ This is Gaemijip's Gwangalli main branch, near Gwangalli Beach. As far as I know
 
 I ordered the basic nakgopsae, which is like an americano if you think of it as coffee. Looking at the pot before it went on the heat, the seafood looked fresh.
 
-![A round black pot holding octopus legs, shrimp and white pieces before cooking with a heap of green vegetables in the middle, surrounded by rice, dongchimi, bean sprouts, gim flakes and radish side dishes](/assets/img/busan-gaemijip-gwangalli-raw.jpg)
+![A round black pot holding octopus legs, shrimp and tteokguk rice cake slices before cooking with a heap of green vegetables in the middle, surrounded by rice, dongchimi, bean sprouts, gim flakes and radish side dishes](/assets/img/busan-gaemijip-gwangalli-raw.jpg)
 
-The photo shows the table before cooking. In a round black pot are white octopus legs and shrimp, thin flat white ovals, and white chunks dusted with something like black pepper, with a heap of green vegetables in the middle. Around the pot sit two bowls of rice, two bowls of dongchimi broth, bean sprouts, a green side dish tossed in chili flakes, a dish of radish pieces and a plate of gim flakes.
+The photo shows the table before cooking. In a round black pot are white octopus legs, shrimp and sliced rice cake (the kind used in tteokguk), with a heap of green vegetables in the middle. Around the pot sit two bowls of rice, two bowls of dongchimi broth, bean sprouts, a green side dish tossed in chili flakes, a dish of radish pieces and a plate of gim flakes.
 
 ## 🥣 The dongchimi I refilled several times
 

@@ -1,5 +1,5 @@
 ---
-title: Gangnam — Seafood Jjamppong and Old-School Tangsuyuk in Dangsan
+title: Gangnam — Seafood Jjamppong, Old-School Tangsuyuk
 cat: food
 region: seoul
 area: yeongdeungpo

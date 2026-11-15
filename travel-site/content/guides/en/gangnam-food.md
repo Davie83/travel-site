@@ -1,5 +1,5 @@
 ---
-title: The Best of Yeoksam & Gangnam — My Picks From What I've Reviewed
+title: The Best of Yeoksam & Gangnam — My Reviewed Picks
 region: seoul
 area: gangnam
 date: 2026-09-30

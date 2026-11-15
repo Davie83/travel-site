@@ -1,5 +1,5 @@
 ---
-title: Seoraksan Cable Car — Early November at Peak Foliage, and the Best Colors Were on the Way Up
+title: Seoraksan Cable Car — Peak Foliage in Early November
 cat: travel
 region: gangwon
 area: sokcho

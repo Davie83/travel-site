@@ -1,5 +1,5 @@
 ---
-title: OBPC Pizza Gwangalli — A Walk-In by Chance, Half-and-Half Pizza and an Oven Spaghetti That Surprised Me
+title: OBPC Pizza Gwangalli — Half-and-Half Pizza and Oven Spaghetti
 cat: food
 region: busan
 area: gwangalli

@@ -1,5 +1,5 @@
 ---
-title: 수변최고돼지국밥（Subyeon Choego） 廣安里店 — 今年釜山豬肉湯飯大賽 TOP3 名店的廣安里分店，點白切肉還送一人一鍋湯
+title: 수변최고돼지국밥（Subyeon Choego） 廣安里店 — 今年釜山豬肉湯飯大賽 TOP3 名店的廣安里分店，白切肉附一人一鍋湯
 cat: food
 region: busan
 area: gwangalli

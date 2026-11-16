@@ -30,6 +30,8 @@ The place I went to is the Gwangalli branch, not the main branch that made the T
 
 I left at dawn and reached the Gwangalli branch early in the morning. When I go somewhere new, I tend to visit the main branch first, wherever it is. But I was tired from the trip down, and the Gwangalli branch was less than three minutes from my lodging, so this time I was lazy and came here.
 
+Even though I went early in the morning, there were quite a few customers. More than half of the tables were taken.
+
 ![The exterior of Subyeon Choego Dwaeji-gukbap Gwangalli at night, with a red logo and sign on a black building, a 24 hours mark, the lit interior behind an awning and clear vinyl screens, and a blue Gwangan-ro 63 street sign on the right](/assets/img/busan-subyeon-choego-gwangalli-exterior.jpg)
 
 The photo is the exterior at night. On the black building hang a red logo with a white pig's face and the sign "수변최고 돼지국밥", with a "24 hours" mark on the right. Below it a black awning and clear vinyl screens surround the front, and the lit interior shows through them. Several notices and menu posters are stuck on the glass, and on the right wall is a blue street sign reading "광안로 63".

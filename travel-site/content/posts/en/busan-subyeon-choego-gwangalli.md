@@ -48,7 +48,7 @@ In the photo, a wood-slat wall and brown pendant lamps hanging from the ceiling 
 
 I was not hungry that early in the morning, so I ordered suyuk. They also brought out the pork-soup broth, one pot per person. I thought that was impressive.
 
-The main photo is that day's table. Thinly sliced suyuk is layered on a black plate in the middle, with pots of white broth topped with spring onion around it. A dish of thinly cut chives, another with garlic, chili peppers and onion, lettuce, kimchi and radish kimchi, and two small dishes of red seasoning are on the same table.
+The main photo is that day's table. Thinly sliced suyuk is layered on a black plate in the middle, with round slices of sundae (순대, Korean sausage) at one end of the plate. Pots of white broth topped with spring onion sit around it. A dish of thinly cut chives, another with garlic, chili peppers and onion, lettuce, kimchi and radish kimchi, and two small dishes of red seasoning are on the same table.
 
 ## 🥣 Thick, I expected, but light like seolleongtang
 

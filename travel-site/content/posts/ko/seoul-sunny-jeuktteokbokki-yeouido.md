@@ -14,6 +14,7 @@ lng: 126.921891
 addr: 서울 영등포구 여의도동 13-25 정우빌딩 지하 1층
 closed: sun
 spicy: 2
+subway: 9 국회의사당
 order: 즉석떡볶이 주세요
 orderRoman: Jeukseok tteokbokki juseyo
 info:

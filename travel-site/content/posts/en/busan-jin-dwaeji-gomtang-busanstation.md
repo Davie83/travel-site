@@ -54,6 +54,7 @@ The gomtang itself was not bad, but maybe I expected too much. Whether it is a l
 - Gomtang is a soup of meat and bones simmered for a long time into a clear broth, served with rice. This place uses pork instead of beef. To order, say "돼지곰탕 주세요 (Dwaeji-gomtang juseyo)"
 - Torem is a method of warming rice by pouring hot broth over it and draining it repeatedly. Here, unless you say otherwise, the rice comes in the broth
 - Jin Dwaeji Gomtang has several branches. The Gwangalli main branch is on the Michelin Guide website, and the Busan Station branch has a "Michelin 2026" sign by its entrance. The one in this review is the Busan Station branch. Check the branch name on the map before you go
+- Right next door is Anmok's Busan Station branch, also a pork gukbap place. A review of the Anmok main branch is in [Anmok — Michelin Bib Gourmand Pork Soup](/en/posts/busan-anmok-dwaejigukbap)
 - Some map apps may still show this branch as permanently closed. I confirmed in person that it was open in early November 2026
 
 ## 👥 Who it suits

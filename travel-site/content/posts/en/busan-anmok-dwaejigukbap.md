@@ -19,7 +19,7 @@ info:
   - Google rating|4.5 (**218 reviews**) · the Seomyeon branch is 4.9 with 805
   - Michelin|**Bib Gourmand** — listed in the MICHELIN Guide Korea 2026
   - Nearest station|**Namcheon Stn.** (Line 2), 300-400 m from exit 1 · walkable from Gwangalli Beach
-  - Branches|Also in Seoul — **Yeoksam (Gangnam), Jamsil, Seongsu**
+  - Branches|Also in Busan — **Busan Station** (Choryang-dong) — and in Seoul — **Yeoksam (Gangnam), Jamsil, Seongsu**
 ---
 
 The broth tastes **closer to a rich beef seolleongtang** than you might expect, with thinly sliced pork laid over it. The thing that stops people eating dwaeji gukbap is the smell — and this is the shop that already has that part solved.

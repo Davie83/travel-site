@@ -223,7 +223,8 @@ module.exports = {
       areas: [
         { slug: 'dongnae',   names: { ko: '동래',   en: 'Dongnae',   ja: '東莱',   zh: '東萊' } },
         { slug: 'gwangalli', names: { ko: '광안리', en: 'Gwangalli', ja: '広安里', zh: '廣安里' } },
-        { slug: 'yeongdo',   names: { ko: '영도',   en: 'Yeongdo',   ja: '影島',   zh: '影島' } }
+        { slug: 'yeongdo',   names: { ko: '영도',   en: 'Yeongdo',   ja: '影島',   zh: '影島' } },
+        { slug: 'busan-station', names: { ko: '부산역', en: 'Busan Station', ja: '釜山駅', zh: '釜山站' } }
       ] },
     { slug: 'jeju',        color: '#c25e10', colorDark: '#f5a45a',   // 감귤
       names: { ko: '제주',      en: 'Jeju',               ja: '済州',     zh: '濟州' },

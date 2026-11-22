@@ -37,6 +37,7 @@ When I visited recently, there was a deal of 500 cc of draft beer for 3,000 won 
 ## 🌐 For visitors
 
 - Jeukseok tteokbokki (즉석떡볶이) is tteokbokki cooked at the table in a pot over a burner. To order, say "즉석떡볶이 주세요 (Jeukseok tteokbokki juseyo)"
+- The nearest station is National Assembly Station (Line 9, 국회의사당역), and you can also get there from Yeouido Station (Lines 5 and 9, 여의도역)
 - It is sweet and spicy, and I felt it is a taste foreign visitors can eat too, though spice tolerance differs by person
 
 ## 👥 Who it suits

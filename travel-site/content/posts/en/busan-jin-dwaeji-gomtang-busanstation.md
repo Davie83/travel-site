@@ -25,7 +25,7 @@ I went around 1 PM on purpose to avoid the worst of the lunch rush. As expected 
 
 ![Corner of a black-tiled building near Busan Station with a white-lettered Jin Dwaeji Gomtang Busan Station sign and glass door on the ground floor, a reddish-brown Busan Station Milmyeon & Jjamppong sign on the upper floor, and three people standing out front](/assets/img/busan-jin-dwaeji-gomtang-busanstation-exterior.jpg)
 
-The photo shows the storefront. On the ground floor of the corner of a black-tiled building, a white-lettered sign reads "진돼지곰탕 부산역직영점", and above it a reddish-brown "부산역 밀면·짬뽕" sign wraps around two sides. Diners can be seen seated through the glass door, and three people stand out front.
+The photo shows the storefront. On the ground floor of the corner of a black-tiled building, a white-lettered sign reads "진돼지곰탕 부산역직영점", and above it a reddish-brown "부산역 밀면·짬뽕" sign wraps around two sides. Diners can be seen seated through the glass door, three people stand out front, and a red square sign reading "Michelin 2026" is on the wall to the right of the entrance.
 
 ## 🪑 Two bars: kitchen side and window side
 
@@ -53,7 +53,7 @@ The gomtang itself was not bad, but maybe I expected too much. Whether it is a l
 
 - Gomtang is a soup of meat and bones simmered for a long time into a clear broth, served with rice. This place uses pork instead of beef. To order, say "돼지곰탕 주세요 (Dwaeji-gomtang juseyo)"
 - Torem is a method of warming rice by pouring hot broth over it and draining it repeatedly. Here, unless you say otherwise, the rice comes in the broth
-- Jin Dwaeji Gomtang has several branches. The one on the Michelin Guide website is the Gwangalli main branch, and the one in this review is the Busan Station branch. Check the branch name on the map before you go
+- Jin Dwaeji Gomtang has several branches. The Gwangalli main branch is on the Michelin Guide website, and the Busan Station branch has a "Michelin 2026" sign by its entrance. The one in this review is the Busan Station branch. Check the branch name on the map before you go
 - Some map apps may still show this branch as permanently closed. I confirmed in person that it was open in early November 2026
 
 ## 👥 Who it suits

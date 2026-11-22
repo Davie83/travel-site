@@ -12,6 +12,7 @@ map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EB%8F%BC%EC%A7%80
 info:
   - Restaurant|Jin Dwaeji Gomtang Busan Station Branch (진돼지곰탕 부산역직영점)
   - Location|1F, 3-12 Jungang-daero 214beon-gil, Dong-gu, Busan (Choryang-dong 1200-2) (부산 동구 중앙대로214번길 3-12 1층)
+  - Hours|**Daily 10:00 AM ~ 9:30 PM (last order 9:00 PM)** (as of Nov 2026)
   - What I ordered|**Pork gomtang**, black-pork dumplings, a bottle of soju (Daeseon)
   - When I visited|Early Nov 2026, around 1 PM (about a 15-minute wait)
 ---
@@ -59,4 +60,4 @@ The gomtang itself was not bad, but maybe I expected too much. Whether it is a l
 
 For me, this is not the place I would think of when I want pork gukbap, and I am not sure I would think of it when I want gomtang either. Still, it is a direct-run branch of a Michelin Guide restaurant, so it suits anyone who wants to try a clean, clear broth and the black-pork dumplings without setting expectations too high. For another pork gukbap place in Busan, there is [Dumichon Dwaeji-gukbap — Clean Pork Soup to Midnight](/en/posts/busan-dumichon-dwaejigukbap).
 
-> Written from a personal visit. Impressions of the taste are personal. I visited in early November and confirmed it was open **(as of Nov 2026)**. I could not confirm the opening hours, so please check once more before you go.
+> Written from a personal visit. Impressions of the taste are personal. I visited in early November and confirmed it was open. Hours are **(as of Nov 2026)**, so please check once more before you go.

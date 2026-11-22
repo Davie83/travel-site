@@ -1,46 +1,46 @@
-   
+---
 title: Anmok — Michelin Bib Gourmand Pork Soup
 cat: food
 region: busan
 area: gwangalli
-date: 2026 08 23
-updated: 2026 11 22
+date: 2026-08-23
+updated: 2026-11-22
 emoji: 🍲
-thumb: assets/img/busan anmok dwaejigukbap.jpg
-excerpt: Anmok's main branch is a pork soup shop in Namcheon dong, Gwangalli, Busan, listed as a Bib Gourmand in the 2026 Michelin Guide Korea. The broth is close to a rich beef seolleongtang with thinly sliced pork on top and none of the funk that puts people off, so a first timer can handle it. Decide when you order whether the rice goes into the soup.
+thumb: assets/img/busan-anmok-dwaejigukbap.jpg
+excerpt: Anmok's main branch is a pork soup shop in Namcheon-dong, Gwangalli, Busan, listed as a Bib Gourmand in the 2026 Michelin Guide Korea. The broth is close to a rich beef seolleongtang with thinly sliced pork on top and none of the funk that puts people off, so a first-timer can handle it. Decide when you order whether the rice goes into the soup.
 tags: [Busan, Gwangalli, Namcheon, dwaeji gukbap, pork soup, suyuk, Michelin, Bib Gourmand]
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9+%EA%B4%91%EC%95%88%EB%A6%AC
 info:
-    Restaurant|Anmok **main branch**
-    Location|3 Gwangnam ro 22beon gil, Suyeong gu, Busan (Namcheon dong) (부산 수영구 광남로22번길 3)
-    Phone|0507 1461 0523
-    Hours|**11:00 AM to 9:00 PM daily** (last order 8:30 PM) · **open every day**
-    What to order|**Dwaeji gukbap** about 10,000 · **suyuk** (sliced boiled pork) · a **solo set** with both
-    Google rating|4.5 (**218 reviews**) · the Seomyeon branch is 4.9 with 805
-    Michelin|**Bib Gourmand** — listed in the MICHELIN Guide Korea 2026
-    Nearest station|**Namcheon Stn.** (Line 2), 300 400 m from exit 1 · walkable from Gwangalli Beach
-    Branches|Also in Seoul — **Yeoksam (Gangnam), Jamsil, Seongsu**
-   
+  - Restaurant|Anmok **main branch**
+  - Location|3 Gwangnam-ro 22beon-gil, Suyeong-gu, Busan (Namcheon-dong) (부산 수영구 광남로22번길 3)
+  - Phone|0507-1461-0523
+  - Hours|**11:00 AM to 9:00 PM daily** (last order 8:30 PM) · **open every day**
+  - What to order|**Dwaeji gukbap** about 10,000 · **suyuk** (sliced boiled pork) · a **solo set** with both
+  - Google rating|4.5 (**218 reviews**) · the Seomyeon branch is 4.9 with 805
+  - Michelin|**Bib Gourmand** — listed in the MICHELIN Guide Korea 2026
+  - Nearest station|**Namcheon Stn.** (Line 2), 300-400 m from exit 1 · walkable from Gwangalli Beach
+  - Branches|Also in Seoul — **Yeoksam (Gangnam), Jamsil, Seongsu**
+---
 
 The broth tastes **closer to a rich beef seolleongtang** than you might expect, with thinly sliced pork laid over it. The thing that stops people eating dwaeji gukbap is the smell — and this is the shop that already has that part solved.
 
 ## No need to worry about the smell
 
-**This place does not have it.** Which makes it a version a first timer can actually enjoy.
+**This place does not have it.** Which makes it a version a first-timer can actually enjoy.
 
-The broth is milky and deep without being heavy, and the meat in the photo is **thin sliced pressed pork** — a different experience from versions with thick chunks you chew through.
+The broth is milky and deep without being heavy, and the meat in the photo is **thin-sliced pressed pork** — a different experience from versions with thick chunks you chew through.
 
 Order suyuk separately and it arrives as its own plate, as in the photo. There is a **solo set with both the soup and the pork**, so you can try both even eating alone.
 
 ## What it looks like
 
-Two black earthenware pots sit on a granite patterned table, and the one in front holds a milky broth topped with a heap of green onion. On the white plate at left, thin sliced suyuk is laid out neatly, with seasoning dishes of shredded scallion, ground garlic and what looks like salted shrimp beside it. In the middle are plates of radish kimchi, seasoned chives and green chili and a bowl of white rice, and another bowl of the same soup shows in the background. Cups of warm tea come with it.
+Two black earthenware pots sit on a granite-patterned table, and the one in front holds a milky broth topped with a heap of green onion. On the white plate at left, thin-sliced suyuk is laid out neatly, with seasoning dishes of shredded scallion, ground garlic and what looks like salted shrimp beside it. In the middle are plates of radish kimchi, seasoned chives and green chili and a bowl of white rice, and another bowl of the same soup shows in the background. Cups of warm tea come with it.
 
 ## Menu words
 
-  **Dwaeji gukbap** is Busan's signature pork soup with rice, made with meat in a broth simmered from pork bones
-  **Suyuk** is boiled pork, sliced and served as a separate plate
-  **Saeu jeot** is salted small shrimp, used to adjust the seasoning of the soup
+- **Dwaeji-gukbap** is Busan's signature pork soup with rice, made with meat in a broth simmered from pork bones
+- **Suyuk** is boiled pork, sliced and served as a separate plate
+- **Saeu-jeot** is salted small shrimp, used to adjust the seasoning of the soup
 
 ## Decide one thing when you order
 
@@ -48,8 +48,8 @@ This is the most useful line in this post.
 
 **You can have the rice put into the soup, or served on the side.**
 
-  **In the soup (toryeom)** — the rice is dipped through hot broth repeatedly to warm it. The rice and broth marry properly. But **the broth can end up merely warm rather than hot**
-  **On the side** — the broth arrives at its hottest. If you like it hot, choose this
+- **In the soup (toryeom)** — the rice is dipped through hot broth repeatedly to warm it. The rice and broth marry properly. But **the broth can end up merely warm rather than hot**
+- **On the side** — the broth arrives at its hottest. If you like it hot, choose this
 
 Decide before it arrives. It is not something you can change halfway through.
 
@@ -57,17 +57,17 @@ Decide before it arrives. It is not something you can change halfway through.
 
 **Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**. Bib Gourmand is not a star. It marks **good food at a reasonable price** — exactly the point of putting it on a 10,000 won bowl of pork soup.
 
-**Several branches have opened in Seoul recently** — Yeoksam in Gangnam, Jamsil, Seongsu. So you do not have to travel to Busan for it. If your trip is Seoul only, **eat at whichever branch is closest.** Save the Busan original for a day when you are going to Gwangalli anyway. For reference, within Busan the **Seomyeon branch actually scores higher** on Google — 4.9 from 805 reviews, against 4.5 here.
+**Several branches have opened in Seoul recently** — Yeoksam in Gangnam, Jamsil, Seongsu. So you do not have to travel to Busan for it. If your trip is Seoul-only, **eat at whichever branch is closest.** Save the Busan original for a day when you are going to Gwangalli anyway. For reference, within Busan the **Seomyeon branch actually scores higher** on Google — 4.9 from 805 reviews, against 4.5 here.
 
 ## What's worth knowing before you order
 
 **Dwaeji gukbap is Busan's signature dish** — pork bone broth with rice and pork.
 
-  **It is not spicy** as served
-  **You season it yourself.** Salted shrimp or the red minced seasoning (in the photo) adjust it. I suggest **trying it with nothing added first** — take a spoonful plain before you touch anything
-  **Add the chives.** The raw garlic chives in the photo go into the soup and lift the whole thing. That is the Busan way
-  ✅ Good if it's your first dwaeji gukbap, you want a deep broth that isn't heavy, you're around Gwangalli or Namcheon, you can't handle spicy food, or you're alone but want both soup and pork (get the solo set)
-  ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. There have been queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
-  If you want to compare Busan style dwaeji gukbap, I also wrote up [Dumichon Dwaeji gukbap](/en/posts/busan dumichon dwaejigukbap) over in Dongnae
+- **It is not spicy** as served
+- **You season it yourself.** Salted shrimp or the red minced seasoning (in the photo) adjust it. I suggest **trying it with nothing added first** — take a spoonful plain before you touch anything
+- **Add the chives.** The raw garlic chives in the photo go into the soup and lift the whole thing. That is the Busan way
+- ✅ Good if it's your first dwaeji gukbap, you want a deep broth that isn't heavy, you're around Gwangalli or Namcheon, you can't handle spicy food, or you're alone but want both soup and pork (get the solo set)
+- ⚠️ Rice in the soup can leave the broth lukewarm — decide when ordering. There have been queues since the Michelin listing, and with several Seoul branches now open, a special trip to the Busan original is harder to justify
+- If you want to compare Busan-style dwaeji gukbap, I also wrote up [Dumichon Dwaeji-gukbap](/en/posts/busan-dumichon-dwaejigukbap) over in Dongnae
 
 > Written after an actual visit. Hours and prices can change, so anything unconfirmed is marked **(as of Aug 2026)**.

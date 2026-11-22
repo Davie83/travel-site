@@ -4,10 +4,10 @@ cat: food
 region: busan
 area: gwangalli
 date: 2026-08-23
-updated: 2026-10-20
+updated: 2026-11-22
 emoji: 🍲
 thumb: assets/img/busan-anmok-dwaejigukbap.jpg
-excerpt: Anmok's main branch is a pork soup shop in Namcheon-dong, Gwangalli, Busan, listed in the Michelin Guide's Bib Gourmand two years running. The broth is close to a rich beef seolleongtang with thinly sliced pork on top and none of the funk that puts people off, so a first-timer can handle it. Decide when you order whether the rice goes into the soup.
+excerpt: Anmok's main branch is a pork soup shop in Namcheon-dong, Gwangalli, Busan, listed as a Bib Gourmand in the 2026 Michelin Guide Korea. The broth is close to a rich beef seolleongtang with thinly sliced pork on top and none of the funk that puts people off, so a first-timer can handle it. Decide when you order whether the rice goes into the soup.
 tags: [Busan, Gwangalli, Namcheon, dwaeji gukbap, pork soup, suyuk, Michelin, Bib Gourmand]
 map: https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9+%EA%B4%91%EC%95%88%EB%A6%AC
 info:
@@ -17,7 +17,7 @@ info:
   - Hours|**11:00 AM to 9:00 PM daily** (last order 8:30 PM) · **open every day**
   - What to order|**Dwaeji gukbap** about 10,000 · **suyuk** (sliced boiled pork) · a **solo set** with both
   - Google rating|4.5 (**218 reviews**) · the Seomyeon branch is 4.9 with 805
-  - Michelin|**Bib Gourmand** — listed in the MICHELIN Guide Korea 2026, second year running
+  - Michelin|**Bib Gourmand** — listed in the MICHELIN Guide Korea 2026
   - Nearest station|**Namcheon Stn.** (Line 2), 300-400 m from exit 1 · walkable from Gwangalli Beach
   - Branches|Also in Seoul — **Yeoksam (Gangnam), Jamsil, Seongsu**
 ---
@@ -55,7 +55,7 @@ Decide before it arrives. It is not something you can change halfway through.
 
 ## Bib Gourmand, and the Seoul branches
 
-**Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**, for the second year running. Bib Gourmand is not a star. It marks **good food at a reasonable price** — exactly the point of putting it on a 10,000 won bowl of pork soup.
+**Anmok is listed as a Bib Gourmand in the MICHELIN Guide Korea 2026**. Bib Gourmand is not a star. It marks **good food at a reasonable price** — exactly the point of putting it on a 10,000 won bowl of pork soup.
 
 **Several branches have opened in Seoul recently** — Yeoksam in Gangnam, Jamsil, Seongsu. So you do not have to travel to Busan for it. If your trip is Seoul-only, **eat at whichever branch is closest.** Save the Busan original for a day when you are going to Gwangalli anyway. For reference, within Busan the **Seomyeon branch actually scores higher** on Google — 4.9 from 805 reviews, against 4.5 here.
 

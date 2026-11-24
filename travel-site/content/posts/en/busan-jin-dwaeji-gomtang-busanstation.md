@@ -25,7 +25,7 @@ I went around 1 PM on purpose to avoid the worst of the lunch rush. As expected 
 
 ![Corner of a black-tiled building near Busan Station with a white-lettered Jin Dwaeji Gomtang Busan Station sign and glass door on the ground floor, a reddish-brown Busan Station Milmyeon & Jjamppong sign on the upper floor, and three people standing out front](/assets/img/busan-jin-dwaeji-gomtang-busanstation-exterior.jpg)
 
-The photo shows the storefront. On the ground floor of the corner of a black-tiled building, a white-lettered sign reads "진돼지곰탕 부산역직영점", and above it a reddish-brown "부산역 밀면·짬뽕" sign wraps around two sides. Diners can be seen seated through the glass door, three people stand out front, and a red square sign reading "Michelin 2026" is on the wall to the right of the entrance.
+The shop is on the ground floor at the corner of a black-tiled building. A reddish-brown "Busan Station Milmyeon & Jjamppong" sign wraps around two sides on the floor above the white-lettered Jin Dwaeji Gomtang Busan Station sign, a red square sign reading "Michelin 2026" is on the wall to the right of the entrance, and three people were standing out front.
 
 ## 🪑 Two bars: kitchen side and window side
 
@@ -35,7 +35,7 @@ The Busan Station branch is laid out as bars. There is a bar on the kitchen side
 
 I ordered the pork gomtang. This place serves it torem-style, so unless you say otherwise the rice comes pre-warmed in the broth. If you ask separately, they will bring the rice on the side.
 
-The main photo is that day's bowl. Thin-sliced pork spreads across the clear broth in a large white bowl, topped with a heap of chopped scallions, and bright green oil droplets float near the edge. Behind the bowl are a plate of kimchi, small side dishes, a small dish of red sauce and a plate of brown paste.
+The pork gomtang comes in a large white bowl of clear broth, covered with a wide layer of thinly sliced pork and a heap of chopped scallions. Bright green oil droplets float at the edge of the broth, and kimchi, small side dishes, a red sauce and a brown paste come alongside.
 
 The broth was so clean I wondered whether it was really pork. It came with pork cut thin, with lean meat and fat in a good balance, which seems to be trending lately.
 
@@ -45,7 +45,7 @@ With food that works like a drinking snack, it felt like I should have a drink e
 
 ![Three black pork dumplings on a white plate, a blue-labelled soju bottle on the left and jars of Jin salt and Jin pepper in the back right](/assets/img/busan-jin-dwaeji-gomtang-busanstation-dumpling.jpg)
 
-Partway through the meal, the black-pork dumplings I had forgotten about arrived. In the photo, three black dumplings sit on a white plate, with a blue-labelled soju bottle on the left and jars labelled "진소금" and "진후추" at the back right. The dumplings had good flavor and were juicy.
+Partway through the meal, the black-pork dumplings I had forgotten about arrived. Three black dumplings came out, and they had good flavor and were juicy.
 
 The gomtang itself was not bad, but maybe I expected too much. Whether it is a limit of pork or not, it felt like neither gomtang nor classic pork gukbap, a slightly in-between impression.
 

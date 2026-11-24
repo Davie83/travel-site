@@ -31,7 +31,7 @@ I ordered the basic nakgopsae, which is like an americano if you think of it as 
 
 ![A round black pot holding octopus legs, shrimp and tteokguk rice cake slices before cooking with a heap of green vegetables in the middle, surrounded by rice, dongchimi, bean sprouts, gim flakes and radish side dishes](/assets/img/busan-gaemijip-gwangalli-raw.jpg)
 
-The photo shows the table before cooking. In a round black pot are white octopus legs, shrimp and sliced rice cake (the kind used in tteokguk), with a heap of green vegetables in the middle. Around the pot sit two bowls of rice, two bowls of dongchimi broth, bean sprouts, a green side dish tossed in chili flakes, a dish of radish pieces and a plate of gim flakes.
+Before it goes on the fire, the pot holds white octopus legs, shrimp and sliced rice cake (the kind used in tteokguk), with a heap of green vegetables in the middle. Around it come two bowls of rice, two bowls of dongchimi broth, bean sprouts, a green side dish tossed in chili flakes, radish pieces and gim flakes.
 
 ## 🥣 The dongchimi I refilled several times
 
@@ -41,7 +41,7 @@ The dongchimi that came out that day was so well seasoned and tasty that I had r
 
 I simmered the nakgopsae down a little, then ladled it into the bowl with the rice that came with it, letting it bubble once, and mixed it in. After mixing it all together, the gim flakes on top at the end are a must.
 
-The main photo is the nakgopsae mid-simmer. In the black pot a red sauce is bubbling, with octopus legs, shrimp, spring onion and glass noodles showing in it. A large spoon rests across the pot, and a bean-sprout side dish peeks in at the upper left.
+While it simmers, the red sauce bubbles in the black pot and the octopus legs, shrimp, spring onion and glass noodles cook in it.
 
 I tend to avoid rice because I have drinks so often in the evenings. This is a place where you cannot skip the rice, so I meant to eat just a little, yet the bowl vanished in no time. Mix various kinds of seafood and daechang (large intestine) and the like into rice, and a bowl of rice is nothing, isn't it?
 

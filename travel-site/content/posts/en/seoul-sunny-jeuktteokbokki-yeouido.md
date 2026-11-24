@@ -24,7 +24,7 @@ This is Sunny Tteokbokki in Yeouido. I am honestly not a big fan of flour-based 
 
 The tteokbokki here feels like a bit of everything in just the right amount. It is sweet and spicy enough to hit the craving. The portion is, unfortunately, just about right too, so big eaters who order one per person may find it a little short.
 
-The main photo is that day's pot. On a portable burner, a black pot of red broth is bubbling, topped with a heap of shredded green leafy vegetables. Curly instant-ramen noodles show through, a ladle rests across the pot, and two glasses of Cass draft beer sit on the left.
+The tteokbokki is cooked in its black pot on a portable burner right at the table. A heap of shredded green leafy vegetables sits on the red broth, with curly ramen noodles showing between them, and two glasses of Cass draft beer stand next to the pot.
 
 ## 🍚 Fill the gap with fried rice
 

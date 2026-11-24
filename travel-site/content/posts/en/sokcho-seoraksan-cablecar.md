@@ -31,7 +31,7 @@ Partway along the way to the station, a great Buddha statue appears, with fine s
 
 ![A bronze seated Buddha on a lotus pedestal on the right, a stone lantern on the left, and a forest in yellow and orange behind, in front of the Sinheungsa Unification Great Buddha](/assets/img/sokcho-seoraksan-cablecar-buddha.jpg)
 
-On the right of the photo, a bronze seated Buddha sits on a lotus-patterned pedestal, and on the left a stone lantern stands on a stone base. Behind them a forest turned yellow and orange stretches away, with two people walking between. A white stone embankment crosses the foreground. This is the Unification Great Buddha of Sinheungsa.
+On the way to the station, you pass the Unification Great Buddha of Sinheungsa. A bronze seated Buddha sits on a lotus-patterned pedestal with a stone lantern beside it, and a forest turned yellow and orange stretches away behind.
 
 ![A path roofed over like a tunnel by yellow and orange leaves, with a red-turning maple on the right and walkers small in the distance](/assets/img/sokcho-seoraksan-cablecar-foliage.jpg)
 
@@ -39,7 +39,7 @@ Over the path, the leaves form a tunnel. Sky shows through branches colored yell
 
 ![A low tile-roofed building with a STAY sign, behind it a sunlit rock peak, a pine on the right, and red and yellow foliage](/assets/img/sokcho-seoraksan-cablecar-stay.jpg)
 
-I only learned that day that there is something called an E-Mart24 Stay. It is a pretty building that suits the scenery. At the lower left of the photo is a low tile-roofed building with a STAY sign, its windows lit and chairs set out in front. Behind it a sunlit rock peak rises, with a thin line that looks like a cable-car line hanging toward the peak. A single pine stands on the right.
+I only learned that day that there is something called an E-Mart24 Stay. A low tile-roofed building with a STAY sign has its windows lit, and a sunlit rock peak rises behind it, which makes it a pretty building that suits the scenery.
 
 ## 🚡 After looking around, on to the cable car
 
@@ -49,7 +49,7 @@ After taking in all this, I came to ride the cable car.
 
 On the way up in the cable car, I was actually captivated by the autumn color all around. I think this was probably the best part.
 
-The main photo is that scene. A single cabin hangs on the lines in the middle, with a rock peak rising behind it. Below, a forest in orange and yellow goes on and on, and part of a white steel structure hangs in the foreground.
+A single cabin hangs on the lines with a rock peak rising behind it, and below, a forest in orange and yellow goes on and on.
 
 ## 🏔️ Looking at the ridges from above and making a wish
 
@@ -57,7 +57,7 @@ After getting off the cable car and going up a little further, I felt as if I ha
 
 ![A huge rock peak topped with round boulders, pines growing from the cracks, and a ridge in red color at the lower left, in the upper part of Seoraksan](/assets/img/sokcho-seoraksan-cablecar-summit.jpg)
 
-The photo shows a large rock peak topped with round boulders filling the frame. Pines grow from the cracks, and at the lower left a ridge turned red spreads below. Looking at the ridges of Seoraksan from up there, I quietly made a wish in my heart.
+Up there, a huge rock peak topped with round boulders fills your view. Pines grow from the cracks, and at the lower left a ridge turned red spreads below. Looking at the ridges of Seoraksan, I quietly made a wish in my heart.
 
 I left with the feeling of having done something good and finished a mountain walk.
 

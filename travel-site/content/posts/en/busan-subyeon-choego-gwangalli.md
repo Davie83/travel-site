@@ -34,7 +34,7 @@ Even though I went early in the morning, there were quite a few customers. More 
 
 ![The exterior of Subyeon Choego Dwaeji-gukbap Gwangalli at night, with a red logo and sign on a black building, a 24 hours mark, the lit interior behind an awning and clear vinyl screens, and a blue Gwangan-ro 63 street sign on the right](/assets/img/busan-subyeon-choego-gwangalli-exterior.jpg)
 
-The photo is the exterior at night. On the black building hang a red logo with a white pig's face and the sign "수변최고 돼지국밥", with a "24 hours" mark on the right. Below it a black awning and clear vinyl screens surround the front, and the lit interior shows through them. Several notices and menu posters are stuck on the glass, and on the right wall is a blue street sign reading "광안로 63".
+At night, a red logo with a white pig's face and the sign "수변최고 돼지국밥" hang on the black building, with a "24 hours" mark on the right. The lit interior shows clearly through the awning and vinyl screens, and a blue "광안로 63" street sign is on the right wall.
 
 ## 🪑 Clean inside, as if it had opened recently
 
@@ -42,13 +42,13 @@ The Gwangalli branch seemed to have opened recently, because the interior was ve
 
 ![Inside the shop, with a wood-slat wall, brown pendant lamps, stainless steel tables, benches with red cushions and a black wall bearing the Subyeon Choego Dwaeji-gukbap logo](/assets/img/busan-subyeon-choego-gwangalli-interior.jpg)
 
-In the photo, a wood-slat wall and brown pendant lamps hanging from the ceiling stand out. Wooden benches with red cushions sit between stainless steel tables, and stacks of paper cups stand on the tables like towers. The black wall in the middle carries the red logo and the words "수변최고 돼지국밥", and at the back right a kitchen with a stainless steel refrigerator can be seen.
+A wood-slat wall and brown pendant lamps hanging from the ceiling catch the eye. Wooden benches with red cushions sit between stainless steel tables, and the red logo and the words "수변최고 돼지국밥" are on the black wall in the middle.
 
 ## 🍖 Suyuk for a morning meal, with a pot of broth each
 
 I was not hungry that early in the morning, so I ordered suyuk. They also brought out the pork-soup broth, one pot per person. I thought that was impressive.
 
-The main photo is that day's table. Thinly sliced suyuk is layered on a black plate in the middle, with round slices of sundae (순대, Korean sausage) at one end of the plate. Pots of white broth topped with spring onion sit around it. A dish of thinly cut chives, another with garlic, chili peppers and onion, lettuce, kimchi and radish kimchi, and two small dishes of red seasoning are on the same table.
+Ordering suyuk filled the table. Thinly sliced suyuk is layered on a black plate with round slices of sundae (순대, Korean sausage) at one end, and the pork gukbap broth comes in a pot per person, white and topped with spring onion. Chives, garlic, chili peppers and onion, lettuce, kimchi, radish kimchi and two small dishes of red seasoning come alongside.
 
 ## 🥣 Thick, I expected, but light like seolleongtang
 

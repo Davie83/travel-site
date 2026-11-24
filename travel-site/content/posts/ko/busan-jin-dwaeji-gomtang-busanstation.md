@@ -10,7 +10,7 @@ excerpt: 부산역 근처 진돼지곰탕 부산역직영점의 돼지곰탕 후
 tags: [부산, 부산역, 초량, 진돼지곰탕, 진돼지곰탕부산역직영점, 돼지곰탕, 곰탕, 돼지국밥, 국밥, 흑돼지만두, 부산맛집, 부산역맛집]
 map: https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EB%8F%BC%EC%A7%80%EA%B3%B0%ED%83%95%20%EB%B6%80%EC%82%B0%EC%97%AD%EC%A7%81%EC%98%81%EC%A0%90%20%EB%B6%80%EC%82%B0%20%EB%8F%99%EA%B5%AC%20%EC%A4%91%EC%95%99%EB%8C%80%EB%A1%9C214%EB%B2%88%EA%B8%B8%203-12
 lat: 35.116938
-lng: 129.036563
+lng: 129.041563
 addr: 부산 동구 중앙대로214번길 3-12 1층
 closed: none
 spicy: 0

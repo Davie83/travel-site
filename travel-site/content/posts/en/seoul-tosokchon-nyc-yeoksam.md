@@ -36,7 +36,7 @@ From the street, a brown "토속촌NYC" sign has "순대국 / 감자탕 / 족발
 
 There were plenty of menu items, and I ordered the dakbokkeumtang. The side dishes are sparse, just kimchi and kkakdugi.
 
-The stew comes out in the pot, still bubbling. Scallions sit on top of the red broth, with kkakdugi and kimchi alongside.
+The stew comes out in the pot, still bubbling. Chives sit on top of the red broth, with kkakdugi and kimchi alongside.
 
 ![Angled view of the table, with the stew pot in front, a plate of kkakdugi in the middle, a plate of kimchi on the right, white rice in a stainless steel bowl, an empty bowl with a spoon and chopsticks, and a second pot of dakbokkeumtang with chives at the back](/assets/img/seoul-tosokchon-nyc-yeoksam-table.jpg)
 

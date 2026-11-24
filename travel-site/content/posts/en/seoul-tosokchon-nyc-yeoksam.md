@@ -30,17 +30,17 @@ At first I thought this was Tosokchon, the samgyetang specialist in Seochon. Whe
 
 ![The storefront with a brown sign reading 'Tosokchon NYC TOSOKCHON NYC' and 'Yeoksam Main Branch 561-8683', a banner below reading 'boiled bossam suyuk from directly shipped Jeju black pork', a lit interior with hanok-style lattice and neon signs, and a Sunday-open notice and break-time notice on the door](/assets/img/seoul-tosokchon-nyc-yeoksam-exterior.jpg)
 
-The photo shows the storefront. A brown sign reads "토속촌NYC", with "순대국 / 감자탕 / 족발 / 보쌈" on the left and "역삼본점" with a phone number on the right. The banner below says "Korean food from New York Manhattan" and "boiled bossam suyuk from directly shipped Jeju black pork". The door carries a "Open normally on Sundays" notice and a break-time notice.
+From the street, a brown "토속촌NYC" sign has "순대국 / 감자탕 / 족발 / 보쌈" on its left and "역삼본점" with a phone number on its right. The banner below it reads "Korean food from New York Manhattan" and describes bossam suyuk boiled from Jeju black pork shipped directly from the source. The door carries a notice that they open as usual on Sundays, and a break-time notice.
 
 ## 🍗 Sparse side dishes, and the stew was just stew
 
-There were many menu items, and I ordered the dakbokkeumtang. The side dishes are sparse. You get kimchi and kkakdugi.
+There were plenty of menu items, and I ordered the dakbokkeumtang. The side dishes are sparse, just kimchi and kkakdugi.
 
-The main photo is that day's stew. In a black pot, red broth is bubbling with foam, topped with scallions. Plates of kkakdugi and kimchi sit behind it.
+The stew comes out in the pot, still bubbling. Scallions sit on top of the red broth, with kkakdugi and kimchi alongside.
 
 ![Angled view of the table, with the stew pot in front, a plate of kkakdugi in the middle, a plate of kimchi on the right, white rice in a stainless steel bowl, an empty bowl with a spoon and chopsticks, and a second pot of dakbokkeumtang with chives at the back](/assets/img/seoul-tosokchon-nyc-yeoksam-table.jpg)
 
-The angled photo also shows kkakdugi and kimchi beside the stew in front, white rice in a stainless steel bowl, and an empty bowl with a spoon and chopsticks, with a second pot of dakbokkeumtang with chives added at the back. Chives are optional, added to taste.
+White rice in a stainless steel bowl sits on the table too. Add chives and you get a green-topped stew like the pot in the back; it is up to your taste.
 
 The stew was not a case of "this is really delicious", and it was not too bad either. It was just dakbokkeumtang.
 
@@ -48,9 +48,9 @@ The stew was not a case of "this is really delicious", and it was not too bad ei
 
 Sundae-guk is the main dish here, it seems, and I hear jokbal and bossam sell a lot too. Because it was lunch, most of the people around me were eating sundae-guk. A few tables were foreign visitors too.
 
-This Tosokchon NYC is fairly new, and I smiled to myself wondering whether they had come by mistake thinking it was the Tosokchon in Seochon. That is what I thought at first, after all.
+This Tosokchon NYC is fairly new, and I caught myself grinning, wondering whether they had mistaken it for the Tosokchon in Seochon. I did at first, after all.
 
-Still, as someone who likes daytime drinking, having a drink at such a cheap price put me in a good mood.
+Still, as someone who likes daytime drinking, having a drink at such a price put me in a good mood.
 
 ## 🌐 For visitors
 

@@ -46,7 +46,7 @@ The stew was not a case of "this is really delicious", and it was not too bad ei
 
 ## 🍶 Sundae-guk all around at lunch, and a drink for me
 
-Sundae-guk is the main dish here, it seems, and I hear jokbal and bossam sell a lot too. Because it was lunch, most of the people around me were eating sundae-guk. A few tables were foreign visitors too.
+Sundae-guk is the main dish here, it seems, and I hear jokbal and bossam sell a lot too. Because it was lunch, most of the people around me were eating sundae-guk. A few tables were foreign visitors too. The woman who seemed to be the owner was very kind.
 
 This Tosokchon NYC is fairly new, and I caught myself grinning, wondering whether they had mistaken it for the Tosokchon in Seochon. I did at first, after all.
 

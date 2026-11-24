@@ -38,9 +38,9 @@ There were many menu items, and I ordered the dakbokkeumtang. The side dishes ar
 
 The main photo is that day's stew. In a black pot, red broth is bubbling with foam, topped with scallions. Plates of kkakdugi and kimchi sit behind it.
 
-![Top-down view of the table, with the stew pot on the left, a plate of kkakdugi in the middle, a plate of kimchi below, white rice in a stainless steel bowl, and an empty bowl with a spoon and chopsticks](/assets/img/seoul-tosokchon-nyc-yeoksam-table.jpg)
+![Angled view of the table, with the stew pot in front, a plate of kkakdugi in the middle, a plate of kimchi on the right, white rice in a stainless steel bowl, an empty bowl with a spoon and chopsticks, and another pot of orange broth topped with scallions at the back](/assets/img/seoul-tosokchon-nyc-yeoksam-table.jpg)
 
-The top-down photo also shows kkakdugi and kimchi beside the stew, white rice in a stainless steel bowl, and an empty bowl with a spoon and chopsticks.
+The angled photo also shows kkakdugi and kimchi beside the stew in front, white rice in a stainless steel bowl, and an empty bowl with a spoon and chopsticks, with another pot of orange broth topped with scallions at the back.
 
 The stew was not a case of "this is really delicious", and it was not too bad either. It was just dakbokkeumtang.
 

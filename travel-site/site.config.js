@@ -37,9 +37,10 @@ module.exports = {
   locales: [
     { code: 'ko', dir: '',    label: '한국어',  short: 'KO', htmlLang: 'ko',      hreflang: 'ko',      enabled: true  },
     { code: 'en', dir: 'en/', label: 'English', short: 'EN', htmlLang: 'en',      hreflang: 'en',      enabled: true  },
-    { code: 'ja', dir: 'ja/', label: '日本語',  short: 'JA', htmlLang: 'ja',      hreflang: 'ja',      enabled: true  },
     // noindex: true — 페이지는 그대로 열리고 언어 전환도 되지만, 검색엔진에는 올리지 않습니다
-    // (모든 페이지에 noindex 를 걸고, sitemap.xml · hreflang 에서도 뺍니다). 2026-11-10 실험, 되돌리려면 이 줄만 지우면 됩니다.
+    // (모든 페이지에 noindex 를 걸고, sitemap.xml · hreflang 에서도 뺍니다). zh 2026-11-10, ja 2026-11-27 실험.
+    // 되돌리려면 해당 줄의 noindex: true 만 지우면 됩니다. 새 글은 계속 4개 언어 모두 작성합니다.
+    { code: 'ja', dir: 'ja/', label: '日本語',  short: 'JA', htmlLang: 'ja',      hreflang: 'ja',      enabled: true, noindex: true },
     { code: 'zh', dir: 'zh/', label: '繁體中文', short: 'ZH', htmlLang: 'zh-Hant', hreflang: 'zh-Hant', enabled: true, noindex: true }
   ],
 

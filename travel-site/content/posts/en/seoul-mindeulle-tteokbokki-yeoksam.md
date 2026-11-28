@@ -11,7 +11,7 @@ tags: [Seoul, Yeoksam, Gangnam, Mindeulle Tteokbokki, jeukseok tteokbokki, tteok
 map: https://www.google.com/maps/search/?api=1&query=%EB%AF%BC%EB%93%A4%EB%A0%88%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%A1%9C94%EA%B8%B8%2011
 info:
   - Restaurant|Mindeulle Tteokbokki (민들레떡볶이)
-  - Location|11 Nonhyeon-ro 94-gil, Gangnam-gu, Seoul (Yeoksam-dong) (서울 강남구 논현로94길 11)
+  - Location|2F, 11 Nonhyeon-ro 94-gil, Gangnam-gu, Seoul (Yeoksam-dong) (서울 강남구 논현로94길 11 2층)
   - Phone|02-566-8070 (as of Nov 2026)
   - Hours|**Mon–Thu 11:10 AM ~ 3:00 PM · 5:00 PM ~ 9:00 PM / Fri & Sun 11:30 AM ~ 5:00 PM · closed Saturdays** (as of Nov 2026)
   - What I ordered|**Odeng tteokbokki** (fish cake tteokbokki) and assorted tempura

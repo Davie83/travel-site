@@ -1,5 +1,5 @@
 ---
-title: Mindeulle Tteokbokki Yeoksam — Fish Cake Tteokbokki at Lunch
+title: Mindeulle Tteokbokki Yeoksam — Fish Cake Tteokbokki
 cat: food
 region: seoul
 area: gangnam
